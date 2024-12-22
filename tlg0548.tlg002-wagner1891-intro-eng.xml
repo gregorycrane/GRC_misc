@@ -1,6 +1,6 @@
 <text><body><div type="introduction"><head>PREFACE.</head><p>
-We have learned that the books of Apollodorus are found in ancient Italian manuscripts written in such a way that, if those manuscripts are compared with the editions, we would scarcely consider this writer to resemble himself.
-G. Hermann, Preface to the Homeric Hymns, p. XLV.
+<cit><quote rend="blockquote">We have learned that the books of Apollodorus are found in ancient Italian manuscripts written in such a way that, if those manuscripts are compared with the editions, we would scarcely consider this writer to resemble himself.</quote>
+<bibl>G. Hermann, Preface to the Homeric Hymns, p. XLV.</bibl></cit>
 
 It is good, as a favorable omen, to begin with this statement of a most distinguished man; for, however this knowledge reached him, the remarkable insight, in which he otherwise excelled, also seems to have served him well here, after I discovered in the Vatican Library the manuscript I am now about to publish. For, six years ago, after I had happily traveled through Greece, I settled in Rome to investigate the Greek mythographers, laboring intensely on certain works of Palaephatus, so much so that I was almost on the verge of abandoning this entire subject.
 
@@ -53,8 +53,8 @@ From four Italian manuscripts, the first edition of Apollodorus was produced by 
 The Vatican manuscript 950, a parchment codex in small octavo format, was written at the end of the 14th century. It now bears the title: “Poetic fables and certain grammatical material from Eustathius, without beginning or end.” Older signatures “N 60” and “SPM sar” have been erased, and the current designation Vat. 950 was added. It consists of 112 folios, but between folios 20 and 21, one folio is missing, between folios 49 and 50, three folios have been cut out, and several more at the end are also missing.
 
 Folio 1, in poor condition, begins with the words:
-χαοοἰέπεια γὰρ ἡ φύσεως γέννησις… (Library II.4.3.2),
-and continues with the story of Perseus, omitting the words from §6: παραγενόμενος Δίκτυν βασιλέα (“he arrived at Dictys the king”). It proceeds up to §7: Ἀθηνᾶ δὲ λαβοῦσα τὴν κεφαλὴν τῆς Γοργόνης ἐν μέση ἀσπίδι (“Athena, taking the head of the Gorgon, placed it in the center of her shield”).
+κασσιέπεια γὰρ ἡ κηφέως γυνή (Library II.4.3.2),
+and continues with the story of Perseus, omitting the words from §6: παραγενόμενος — Δίκτυν βασιλέα (“he arrived at Dictys the king”). It proceeds up to §7: ἀθηνᾶ δὲ λαβοῦσα τὴν κεφαλὴν τῆς Γοργόνης ἐν μέσῃ ἀσπίδι (“Athena, taking the head of the Gorgon, placed it in the center of her shield”).
 
 Without any break or title, starting from line 19 on the first page, follows the epitome from Apollodorus’ Library, which I now edit, continuing until the end of folio 49.
 
@@ -67,7 +67,9 @@ These words come from Tzetzes’ commentary on Lycophron v.18. Excerpts from the
 
 I was not the first to turn my attention to this manuscript. Already at the beginning of the 16th century, Ianus Parrhasius inspected it, as evidenced by the few words he transcribed from folio 39,<note n="x.1">Ianus Parrhasius (1470–1522), in his book De rebus per epistolam quaesitis (edited by Henricus Stephanus, 1567, p. 20), included the following passage in a letter addressed to Paulus Veiens:
 
-“The one who compiled historical accounts writes as follows: Βροτέας, being a hunter, did not honor Artemis; he said that not even fire could harm him. Then, having gone mad, he threw himself into the fire and perished.” (Epistle VIII).
+“The one who compiled historical accounts writes as follows: Βροτέας κυνηγὸς ὢν τὴν Ἄρτεμιν οὐκ ἐτίμα·
+ἔλεγε δὲ ὡς οὐδ᾽ ὑπὸ πυρός τι πάθοι· ἐμμανὴς οὖν γενόμενος ἔβαλεν
+εἰς πῦρ ἑαυτόν (“Broteas, being a hunter, did not honor Artemis; he said that not even fire could harm him. Then, having gone mad, he threw himself into the fire and perished”). (Epistle VIII).
 
 Now, since we know that Parrhasius was an avid lover of books, purchasing numerous and precious manuscripts throughout Italy, one can easily conjecture that our Vatican manuscript was among those in his possession. (See Andresii’s Prodromus to Anecdota Graeca et Latina from the manuscripts of the Royal Library of Naples, 1816, p. XXX ff., and Ianelli’s De vita et scriptis Auli Iani Parrhasii, 1844, p. VII ff. and 157 ff.).
 
@@ -81,7 +83,7 @@ Parrhasius had been summoned to Rome in 1513 by Pope Leo X, where he remained un
 Thus, whatever conclusions one may draw about Ianus Parrhasius, it is clear that excerpts from Apollodorus’ Library already existed in Rome at that time.</note> which Gerhard <pb n="xi"/> (in Mus. Rhenanum, VIII, p. 132) unsuccessfully tried to trace.
 
 Later, Angelo Mai thoroughly examined the codex and correctly noted what appears in the middle of folio 69:
-ἐκ τῶν διὰ στίχων ἱστορικοῦ βιβλίου τοῦ Τζέτζου (“from the line-by-line historical book of Tzetzes”). His marginal annotation reads: “These are excerpts taken from Tzetzes’ Chiliads to the end of the codex. A. M.”
+ἐκ τῶν διὰ στίχων ἱστορικοῦ βιβλίου τοῦ τζέτζου (“from the line-by-line historical book of Tzetzes”). His marginal annotation reads: “These are excerpts taken from Tzetzes’ Chiliads to the end of the codex. A. M.”
 
 From there, Mai proceeded to study the Chiliads and added notes in the margins of several pages, identifying passages copied by the epitomator:
 	•	folio 65: Tzetzes Chiliads I, History 32. A. M.
@@ -90,4 +92,32 @@ From there, Mai proceeded to study the Chiliads and added notes in the margins o
 
 However, Mai mistakenly believed that the entire codex, from beginning to end, was filled with excerpts from Tzetzes. As a result, this treasure remained hidden in the archives of the renowned library until our time.
 
+I was not the first to turn my attention to this manuscript. At the beginning of the 16th century, Ianus Parrhasius had already examined it, as evidenced by the few words he transcribed from folio 39. Gerhard (Mus. Rhenanum VIII, p. 132) searched in vain to determine where Parrhasius had found them. Later, Angelo Mai carefully investigated the codex and correctly observed the passage in the middle of folio 69: ἐκ τῶν διὰ στίχων ἱστορικοῦ βιβλίου τοῦ Τζέτζου (“from the line-by-line historical book of Tzetzes”), as indicated by his marginal note: “These are excerpts taken from Tzetzes’ Chiliads to the end of the codex. A. M.”
+
+Mai then examined the Chiliads and added references in the margins of several pages identifying passages copied by the epitomator:
+	•	Folio 65: Tzetzes Chiliads I, History 32. A. M.
+	•	Folio 68: Tzetzes Chiliads III, 96. A. M.
+	•	Folio 112: Tzetzes Chiliads VII, History 142. A. M.
+
+However, Mai mistakenly believed that the entire book, from beginning to end, was filled with excerpts from Tzetzes. Thus, this treasure remained hidden in the archives of the renowned library until our time.
+
+The age in which the anonymous author undertook the labor of compiling this epitome cannot be determined by any testimony. But it can be stated with certainty that the Vatican manuscript was not written in the author’s own hand. For there are numerous corruptions foreign to Apollodorus’ codices—so crude that they can only be attributed to the ignorance of scribes (cf. note I 9.1.1). This suggests that the excerpts were copied several times.
+
+
+
+
+And we are led to the same conclusion by the excellence of the manuscript, which, as I have previously explained, far surpasses the archetype from which all other codices are derived. Therefore, it seems very probable that this work also owes its existence to the efforts of the Byzantine grammarians, who, even in the 12th century, are known to have possessed the complete text of the Library.
+
+It is well established that Alexius I, at the beginning of that same century, sought to restore the study of antiquity, founding a school <pb n="xii"/> which may well have been the intended audience for such selections. However, it may even be possible to trace this epitome as far back as the time of Photius or to the 10th century, during which Emperor Constantine Porphyrogenitus devoted immense efforts to compiling selections from the treasures of Greek writers. For it is scarcely credible that within only a few years 250 corruptions could have crept into the text of just thirty-five small folios.
+
+Whoever the author of these excerpts may have been, he certainly did not waste his effort. By preserving a remarkably good and significantly expanded version of the Library, he has ensured its survival for our memory.
+
+
+In the correction of the printed proofs, my most esteemed friend Franciscus Poland of Dresden assisted me with great diligence, for which, especially in the revision of the Curarum Mythographarum, I gratefully acknowledge my immense debt to him.
+
+Out of pious remembrance, I have dedicated this book, such as it is, to the name of my late uncle, Aemilius Kuhn, who passed away ten years ago. Those who are well-versed in these studies know how greatly he contributed to the understanding of Roman and Greek antiquities. I alone know the noble example of virtue and genuine labor he left for me to emulate.
+
+Written in Dresden at the end of the year 1890.
+
+Richard Wagner.
 </p></div></body></text>
