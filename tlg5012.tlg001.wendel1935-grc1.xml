@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Suid. 3419 - Apollonius of Alexandria</title>
+        <author>Corrected Text</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>OCR-corrected text of Suid. 3419 and Pap. Oxyrh. 1241</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Suid. 3419</head>
+        <p>Ἀπολλώνιος Ἀλεξανδρεύς, ἐπῶν ποιητής, διατρίψας ἐν Ῥόδῳ, υἱὸς Σιλλέως, ἐπὶ Πτολεμαίου τοῦ Εὐεργέτου ἐπικληθέντος (ἐπὶ ἐπικληθὲν post Τιμάρχου leguntur, unde revocavit W), μαθητὴς Καλλιμάχου, σύγχρονος Ἐρατοσθένους καὶ Εὐφορίωνος καὶ Τιμάρχου, καὶ διάδοχος Ἐρατοσθένους γενόμενος ἐν τῇ προεδρίᾳ τῆς ἐν Ἀλεξανδρείᾳ βιβλιοθήκης.</p>
+        <p><hi rend="italic">Pap. Oxyrh. 1241, II</hi></p>
+        <p><add>Ἀπολλώνιος</add> Σιλλέως Ἀλεξανδρεὺς ὁ καλούμενος Ῥόδιος, Καλλιμάχου γνώριμος. οὗτος ἐγένετο καὶ διδάσκαλος τοῦ τρίτου (πρώτου <hi rend="italic">pap.</hi>, corr. Hunt) βασιλέως. τοῦτον διεδέξατο Ἐρατοσθένης κτλ.</p>
+<p>	6.	φυλῆς Τ (post Σιλλέως leguntur, transp. W).
+	7.	τοῦ <add>τρίτου</add> Πτολεμαίου W : τῶν -ων : Πτολεμαίου τοῦ ἐπικαλουμένου Εὐεργέτου Η.
+	8.	lac. ind. W puncto post μαθητὴς posito, cf. R. Linde De div. recensibus Ap. Rh. Argonauticon, Diss. Gott. 1885, 12.
+	9.	ἐτράπ- GPA : ἐτρέπ- L.
+	10.	δὲ post τοῦτον addi vult Wil. ad l., cum haec verba pugnent cum antecedentibus, conicias ἐπὶ ἐφήβων.
+	11.	ἔπεμπ- bis K : ἐνδ- I.
+	12.	κατελ- LG : ἀπελ- P.
+	13.	ἐπικξέσαι καὶ ὀρθῶς κξέσαι LG : ἐπιξέσαι P : ἐπιξέσαι καὶ ὀρθῶσθαι Ε.
+	14.	ἑαυτὸν L : αὐτὸν GP.</p>
+      </div>
+            <div n="2">
+        <p>1 δὲ K : τε </p>
+        <p>3 vita P post arg. BP collocatur ἄλλως praem. P — Ἄπ. β. LP : ἐκ παρομοίου G</p>
+        <p>6 γραμματιστῇ Wil. ad l. 
+        </p>
+        <p>8 αὑτὸν L : αὐτὸν G : om. P</p>
+        <p>9 αὑτοῦ K : αὐτοῦ</p>
+        <p>11 ἐν ᾿Αλεξανδρείᾳ L,G : εἰς ᾿Αλεξάνδρειαν P</p>
+        <p>13 <add>προστασίας</add> ante τῶν βιβλ. suppleri vult Meineke Callim. Εἰσηγ. et epigr. lσδ., XVII add. Wil. ad l.</p>
+        <p>18 καὶ Ἀλκ. (G)H : om. LP. ἐποίησεν ἐκ τοῦ Π-ος L(G) : ἔτεκε τῷ Π-ι P</p>
+        <p>19 γαμεῖ Κρηθέα τὸν Αἰ. παῖδα L,G : γαμεῖται Κρηθεῖ τῷ Αἰ. παιδί Ρ ποιεῖ ἐξ αὐτοῦ L,G : τίκτει αὐτῷ P</p>
+        <p>22 ἐκδίδοται LP : δίδοται G</p>
+        <p>23 τὴν ἰδίαν τῷ L,G : τῷ ἑαυτοῦ P</p>
+        <p>24 Θεσσαλίας LP : βασιλείας G οὗ L,G : αὐτὸν P</p>
+      </div>
+
+      <div n="3">
+        <p>1 ὑποστρέψει Platt Jours. of Phil. 69, 1919, 4: -έφει L,G : -αφῇ P</p>
+        <p>ἀπὸ LP : ἐκ τοῦ G</p>
+        <p>2 ἐπιόντα AF : ἀπ-</p>
+        <p>3 τεϑνήξεται L,G : -εσθαι P</p>
+        <p>αὐτοῦ G : -όν LP</p>
+        <p>7 βουλομένην G,P : om. L</p>
+        <p>9 κατὰ μέσον — καταλιπὼν L : καὶ κατὰ τὸ μέσον — καταλιπὼν G : κατὰ δὲ τὸ μέσον — ἀποβάλλει P</p>
+        <p>10 ἐπὶ τὴν πόλιν O,P : ἐπὶ τῇ πόλει L : εἰς τὴν πόλιν A</p>
+        <p>11 θεας. οὖν — ὁ ΤΤ. L : θεας. δέ --- ὁ Π. P : ὃς θεας. G</p>
+        <p>14 λαμβάνεις L,G : λήψῃ P</p>
+        <p>17 ἀναιρεῖσθαι L,G : -ρεθῆσθαι P : -ρήσεσθαι A ναυαγήσοντα L : -ῆσαι G : -ήσειν P</p>
+        <p>18 τὸ L,G: τὰ P</p>
+        <p>22 ἐπεβούλευε G,P : -ευσε L</p>
+      </div>
+      <div n="5">
+        <p>2 αὐτοὺς (corr. W) — σπαρῆναι LG : τὸν σπόρον P</p>
+        <p>3 συναγαγὼν PH : ἀγ- LG</p>
+        <p>ἐπερωτᾷ LG : ἠρώτα αὐτοὺς P</p>
+        <p>τῆς ἀφορίας post αἰτίαν add. P</p>
+        <p>4 διδόναι π. ὥστε εἰπ. L : δοῦναι ὥστε εἶπ. G : δώσειν, εἰ φήσειαν πρὸς ᾿Αθάμαντα ὡς P</p>
+        <p>6 φύσειεν LG : ἐκφ- P</p>
+        <p>post πεισθ. add. οὖν G, δὲ P, ante πεισθ. add. ᾖ A</p>
+        <p>9 τῶν νώτων LP : τὸν νῶτον G : τῶν ὤμων A</p>
+        <p>12 ὁ Φρίξος post αὐτὸς add. G</p>
+        <p>15 Κυτίσωρον (G) P : -σσ- L</p>
+        <p>16 A add. in fine: τὸν βίον. τὸ δὲ κώδιον τοῦ κριοῦ ὑπῆρχε χρυσόμαλλον</p>
+        <p>20 cum in G dextra nominum series recte sequatur sinistram, in L hic invenitur ordo:</p>
+        <p>α Ὀρφεὺς οἰ. π. θρ. : β ἀστερίων κομ. ἰάμων (sic) ἀπ. : Y Πολύφημος ἐλ. δ ἴφικλος φυλ. λβ πολυδεύκης διός : ε ἄδμητος φ. κάστωρ κτλ. numeri ab eadem manu recentiore adiecti sunt, quae in margine supplevit κβ φάληρος et — id quod Rostagno L'Eschilo Laurenziano 1896, 7 n. 3 investigavit — λα ἴδμων ἄβαντος. Keilium secutus nomina ita disposui, ut archetypi ratio revocaretur.</p>
+        <p>21 ἴδμων Ἀπ. hoc loco L (cf. notam ad v. 20), cum G ad v. 19 p. 5 in margine adiecerit praescripto numero κα΄.</p>
+      </div>
+      <div n="5">
+        <p>4 immo Ἔρυτος I 52</p>
+        <p>6 nomen Γνωτός scholiasta ex I 53 sibi finxit</p>
+        <p>Αἰθαλείδης L e corr. m. rec.</p>
+        <p>8 Ἀμπύκου K </p>
+        <p>
+        11 immo Εὐρυτίων <add>Ἴρου</add>, Εὐρυβώτης (recte Ἐριβωτης) Τελέοντος, ut m. rec. in G refecit; cf. I 73 sq.</p>
+        <p>14 Κανήθου G : om. L</p>
+        <p>18 Πηλεὺς Αἰ. L : om. G</p>
+        <p>20 Φάλλυρος (sic) Ἄλκωνος Ἴφιστος (sic) Ναυβόλου G : om. L, sed cf. notam ad p. 4 v. 20</p>
+        <p>21 Θησεύς falso inter Argonautas enumeratur, cf. I 101 sqq.</p>
+        <p>24 immo Ἄργος Ἀρεστορίδης I 112</p>
+      </div>
+
+<div n="6">
+<p>3 Ἡρακλῆς Διός et Ναύπλιος Κλ. ἢ TToc. post Ἰάςων Αἴς. traiecti agmen
+Argonautarum claudunt in G</p>
+</div>
+
+      <div n="7">
+        <p>21 ΠΡ ὅπ. Lb 3 add. W</p>
+        <p>4 σφαγιάζ- P : σφραγίζ- L</p>
+        <p>7 ὑπὸ σοῦ iterum post ἐνθουσιῶν legitur in L</p>
+        <p>8 τοὺς ποιητὰς Τ. u. ἐνθουσιῶν (λέγεται add. W) L : τ. μ. οἱ ποιηταὶ ἐνθουσιάζουσιν P</p>
+        <p>11 ἀρχαιρείασθεὶς P : ἀρχερεαςθεὶς L</p>
+        <p>τὸ κλέος --- Πελίαν L : εἰς μν, ἄξω τὰ ἔνδοξα τῶν Ἀργοναυτῶν ἔργα P</p>
+        <p>12 lac. ind. W</p>
+        <p>14 πᾶν post παλαιὸν add. P</p>
+        <p>οὔκ ἔστι L : οὐ πᾶν Ρ</p>
+        <p>15 ἀναφέρει L</p>
+        <p>σημαίνει καὶ P suppl. Κ τὸ ἀ. P : τῆς α. LV</p>
+        <p>ἀρχῇ ἐνέχεσθαι Κ</p>
+      </div>
+
+      <div n="8">
+        <p>1 γενέσθαι <add>μακράν</add> F, cf. W</p>
+        <p>26 2 add. K Δαναὸς διωκόμενος — κατεσκεύασε L : -ὸν -ον — κατεσκεύασι P</p>
+        <p><add>τὴν</add> πρώτην Weichert Über d. Leb. u. Ged. d. Ap. Rb. 1821, 126 : πρῶτος L : πρῶτον P</p>
+        <p>8 προαίρεσιν Καὶ : τὴν αἵρεσιν — add. Κ πρὸς τὰ ἐπιφερόμενα F : τὴν ἐπὶ τὰ φερόμενα L : τὴν ἔπειτα φερομένην P</p>
+        <p>18 εἰσιν L : ἐλέγοντο P</p>
+        <p>21 καλεῖ Pi : καὶ L</p>
+      </div>
+      <div n="9">
+        <p>5. δι’ κατὰ τ. Σ prop. R</p>
+        <p>6. P add. in fine verba <q>ταῦτα δέ φησιν Ἡρόδωρος</q> (<ref>31 fg 43b J.</ref>) e sch. 31/34, a repetita; posteriore illo loco praeterm. φησὶ δὲ Ἡρόδωρος κτλ.</p>
+        <p>7. Πίμπλεια Deicke e sch. Lyc. : -είας K : -ιὰς L : -ηᾶς A : -ηὶς P</p>
+        <p>12. ἀεὶ Naber Mnem. N. δ. 34, 1906, 5: καὶ</p>
+        <p>18. ἐπήτριμοι ἤγουν ἀλλεπάλληλοι in fine add. A</p>
+        <p>21. A add. in fine e sch.</p>
+        <p>23/25. μάντις ὢν καὶ προγνοὺς δύνασθαι αὐτοὺς τὰς Σειρῆνας παρελθεῖν</p>
+      </div>
+
+    </body>
+  </text>
+</TEI>
