@@ -136,9 +136,9 @@ qui taedio plagularum corrigendarum suscepto quaterniones
 primum et secundum non sine fructu perlegerat, postea aliis
 negotiis obrutus ab opere incepto desistere coactus est.
 </s></p>
-<div type="textpart" subtype="section" n="I"><head>I. DE ANTIQUISSIMA CORPORIS SCHOLIORUM FORMA
+<div type="textpart" subtype="section" n="1"><head>I. DE ANTIQUISSIMA CORPORIS SCHOLIORUM FORMA
 IN LIBRIS APOLLONIANIS SERVATA</head>
-<div type="textpart" subtype="subsection" n="1"><head>De codice L eiusque progenie</head>
+<div type="textpart" subtype="subsection" n="1"><head>1. De codice L eiusque progenie</head>
 <p n="5"><s n="26">
 
 
@@ -258,7 +258,7 @@ I 90).</s></note>
 </s></p></div>
 <pb n="XIII"/>
 <div type="textpart" subtype="subsection" n="2">
-<head>De codicibus G et S</head>
+<head>2. De codicibus G et S</head>
 
 <p n="9"><s n="52">Post codicem L summi pretii sunt partes corporis scholiorum
 quamvis exiguae, quas cod. Guelferbytanus 10. 2. Aug. 4o
@@ -282,7 +282,7 @@ textus lineas minutissime scriptae leguntur.</s> <s n="59">hic igitur codex, cui
 litteram S (Sm, Sg) apponemus, ex eodem exemplo vetusto ac G
 pendeat oportet.</s> <s n="60">utriusque codicis scholia et glossas primus contuli.
 </s></p></div></div>
-<div type="textpart" subtype="section"><head>II. DE RECENTIORIBUS CORPORIS SCHOLIORUM FORMIS</head>
+<div type="textpart" subtype="section" n="2"><head>II. DE RECENTIORIBUS CORPORIS SCHOLIORUM FORMIS</head>
 <div type="textpart" subtype="subsection"><head>1. Recensio Ambrosiana</head>
 <p n="11"><s n="61">
 Multo magis quam codices Comensis et Harleianus ab L septem
@@ -308,7 +308,7 @@ Deicke codicem Vat. Pal. 280 ex Ambrosiano descriptum diligenter
 contulit, omnes locos ab L diversos in A retractare satis
 habui.</s></p>
 </div>
-<div type="textpart" subtype="subsection"><head>Recensio Parisina</head>
+<div type="textpart" subtype="subsection" n="2"><head>2. Recensio Parisina</head>
 <p n="12"><s n="66">
 Alterum scholiorum genus recentius, quod inde ab editione
 principe anno 1815 in lucem emissa Parisinum vocare assuevimus,
@@ -409,7 +409,7 @@ cave credas locos pares vel similes ab exemplo vetusto tepetendos
 esse.
 </s></p>
 </div>
-<div type="textpart" subtype="subsection"><head>Recensio Florentina</head>
+<div type="textpart" subtype="subsection" n="3"><head>3. Recensio Florentina</head>
 <p n="18"><s n="87">
 
 
@@ -490,9 +490,9 @@ possit, codex e quo scholia eius fluxerunt, cum laceratus duo folia
 iam prius amisisset quam descriptus est, aliquanto vetustior videtur
 fuisse; minimum nono saeculo eum tribuas.
 </s></p></div>
-<div type="textpart" subtype="section" n="3"><head>IV. DE SCHOLIIS EXTRA LIBROS APOLLONIANOS TRADITIS</head>
+<div type="textpart" subtype="section" n="4"><head>IV. DE SCHOLIIS EXTRA LIBROS APOLLONIANOS TRADITIS</head>
 
-<div type="textpart" subtype="subsection" n="1"><head>De Eustathio et Tzetza</head>
+<div type="textpart" subtype="subsection" n="1"><head>1. De Eustathio et Tzetza</head>
 
 <p n="21"><s n="102">
 
@@ -522,7 +522,7 @@ specie ornaret, sed raro tota scholia transscripsit velut p. 35,
 10—14 Sch., ubi de Scylla agit, scholium IV 825/31a.</s> <s n="105">etiam levius
 scholia Apolloniana in Chiliadibus attigit.</s> <s n="106">exemplum Apollonii,
 quod Tzetzes manibus tractavit, a codice L proxime videtur afuisse.</s></p></div>
-<div type="textpart" subtype="subsection" n="1"><head>De Etymologico Genuino</head>
+<div type="textpart" subtype="subsection" n="2"><head>2. De Etymologico Genuino</head>
 
 <p n="23"><s n="107">
 Auctorem Etymologici Genuini ipsum permulta scholia Apolloniana
@@ -597,7 +597,7 @@ scholiorum vere antiquam restituere vult.
 
 </s></p></div>
 <pb n="XXI"/>
-<div type="textpart" subtype="subsection" n="1"><head>De Oro et Methodio</head>
+<div type="textpart" subtype="subsection" n="3"><head>3. De Oro et Methodio</head>
 
 <p n="26"><s n="121">
 
@@ -657,7 +657,7 @@ constat, sed cum Ori fere aequalis putandus sit, eum eodem quo
 ille i. e. Sophoclei usum esse veri videtur simillimum.
 </s></p></div></div>
 <div type="textpart" subtype="subsection" n="5"><head>V. DE HUIUS EDITIONIS RATIONE ET INSTITUTIS</head>
-<div type="textpart" subtype="subsection" n="1"><head>De editionis ratione</head>
+<div type="textpart" subtype="subsection" n="1"><head>1. De editionis ratione</head>
 
 <p n="29"><s n="133">
 Cum vetera in Apollonium scholia denuo edenda mihi proposuerim,
@@ -764,7 +764,7 @@ iis conveniebant, quas ipseiam dudum litteris mandaveram, utriusque
 
 nostrum nomen apposui.</s> <s n="153">Hermannum denique Fraenkel ad emendandos
 locos corruptos permultum contulisse supra (p. X) commemoravi.</s></p></div>
-<div type="textpart" subtype="subsection" n="1"><head>De editionis institutis</head>
+<div type="textpart" subtype="subsection" n="2"><head>2. De editionis institutis</head>
 <p n="33"><s n="154">
 
 Cum scholia vetera in universum codice L et deperdito illo
@@ -809,24 +809,24 @@ In ordine scholiorum constituendo textum poetae anxie secutus
 sum. </s>
 <s n="161">scholiis, quae complures versus interpretantur, non primi
 solius sed primi et ultimi numeros praefixi, ut lectori partem laboris
-minuerem.</s> <s n="162">diversa scholia ad eosdem versus pertinentia litteris
-additis distinxi.</s> <s n="163">scholiorum Parisinorum ordinem neglexi.
+minuerem.</s> <s n="161">diversa scholia ad eosdem versus pertinentia litteris
+additis distinxi.</s> <s n="162">scholiorum Parisinorum ordinem neglexi.
 </s></p>
-<p n="36"><s n="164">
+<p n="36"><s n="163">
 Cum glossae interlineares, quibuscum plurimae notae intramarginales
 artissime cohaerent, maximam partem e scholiis integris
 excerptae sint, omnes inter scholia recipere et separatas ponere
-nolui.</s> <s n="165">immo eas glossas, quas e scholiis ad nos propagatis fluxisse
+nolui.</s> <s n="164">immo eas glossas, quas e scholiis ad nos propagatis fluxisse
 apparet, in apparatu collocavi.
 </s></p>
-<p n="37"><s n="166">
+<p n="37"><s n="165">
 Apparatum criticum ita disposui, ut semper verba in textum
 recepta siglis testium adiectis repeterem, priusquam varias aliorum
-codicum lectiones proferrem.</s> <s n="167">quo factum est, ut de fonte textus
-recepti nulla unquam dubitatio oriri possit.</s> <s n="168">ubi vero coniectura
+codicum lectiones proferrem.</s> <s n="166">quo factum est, ut de fonte textus
+recepti nulla unquam dubitatio oriri possit.</s> <s n="167">ubi vero coniectura
 aliqua in textum recepta est, lectio tradita, si eadem in omnibus
 libris, qui scholium illud praestant, conspicitur, sine codicum siglis
-posita est.</s> <s n="169">ut exemplis utar: τ. sch. II 177 θυνίαι W : Βιθυνίαι.
+posita est.</s> <s n="168">ut exemplis utar: τ. sch. II 177 θυνίαι W : Βιθυνίαι.
 hoc significat in libris L et P, quibus scholium continetur, Βιθυvía
 legi. 2. sch. II 70/742 διεκκλινόμενος F : διακλ-. hoc indicat
 codicem L unicum huius scholii testem formam διακλινόμενος praebere.
@@ -834,21 +834,21 @@ contra si coniecturam dubiam aut meo iudicio reiciendam
 in apparatu commemorare placuit, verba codicum recepta iterare
 praeter rem visum est.
 </s></p>
-<p n="38"><s n="170">
+<p n="38"><s n="169">
 Scribebam Halis Saxonum mense Martio anni 1935.
 </s></p>
-<p n="39"><s n="171">
+<p n="39"><s n="170">
 Carolus Wendel.
 </s></p>
 
 </div></div>
 <pb n="XXVII"/>
-<div type="textpart" subtype="section" n="6"><head>CONSPECTUS VIRORUM DOCTORUM.</head>
+<div type="textpart" subtype="section" n="5"><head>CONSPECTUS VIRORUM DOCTORUM.</head>
 
 
 
 
-<p n="40"><s n="172">qui nomine solo laudantur
+<p n="40"><s n="171">qui nomine solo laudantur
 
 <item><term>Deicke</term> = Ludovicus Deicke in schedis manu scriptis, cf. p. VIII. XXIV.</item>
 

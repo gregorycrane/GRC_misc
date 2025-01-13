@@ -53,7 +53,7 @@ Ven. Marc. 480, Vat. Urb. 146, and Vat. 36, though he was content to examine onl
 <div type="textpart" subtype="section" n="I">
 <head>I. THE ANCIENT FORM OF THE SCHOLIA IN THE APOLLONIAN BOOKS</head>
 <div type="textpart" subtype="subsection" n="1">
-<head>On the Laurentian Codex and Its Derivatives</head>
+<head>1. On the Laurentian Codex and Its Derivatives</head>
 <p n="5">
 <s n="26">Among the witnesses of the scholia, the most outstanding in terms of both antiquity and quality is the famous Laurentian Codex XXXII 9, dating to the early 11th century, designated as L.</s>
 <s n="27">It contains on folios 190–264 the <title>Argonautica</title> of Apollonius along with many scholia, glosses, and variant readings. The prolegomena A, Bab, Ab, and C follow the text in this order.</s>
@@ -117,7 +117,7 @@ interlinear glosses from Codex L, though largely ignored, are transferred either
 <pb n="XIII"/>
 
 <div type="textpart" subtype="subsection" n="2">
-<head>On the Codices G and S</head>
+<head>2. On the Codices G and S</head>
 <p n="9">
 <s n="52">Next in importance after the Laurentian Codex are the small remnants of scholia found in the Guelferbytanus Codex 10.2 Aug. 4o, from the 14th century, designated G.</s>
 <s n="53">It contains the same prolegomena arranged in the same order as L, as well as a few interlinear glosses and scholia written in two colors.</s>
@@ -133,9 +133,9 @@ interlinear glosses from Codex L, though largely ignored, are transferred either
 <s n="60">Together, these findings significantly enhance our understanding of their textual lineage.</s>
 </p>
 </div></div>
-<div type="textpart" subtype="section">
+<div type="textpart" subtype="section" n="2">
 <head>II. ON THE MORE RECENT FORMS OF THE SCHOLIA</head>
-<div type="textpart" subtype="subsection">
+<div type="textpart" subtype="subsection" n="1">
 <head>1. The Ambrosian Recension</head>
 <p n="11">
 <s n="61">Far more than the Comensis and Harleian codices, seven 15th-century codices differ from the Laurentian Codex (L), led by the Ambrosian Codex B 98 sup., designated by the siglum A.</s>
@@ -148,8 +148,8 @@ interlinear glosses from Codex L, though largely ignored, are transferred either
 </p>
 </div>
 
-<div type="textpart" subtype="subsection">
-<head>The Parisian Recension</head>
+<div type="textpart" subtype="subsection" n="2">
+<head>2. The Parisian Recension</head>
 <p n="12">
 <s n="66">The second more recent type of scholia, which we have become accustomed to calling Parisian since the first edition appeared in 1815, was disseminated in far more manuscripts than the Ambrosian recension. This recension has reached us in two forms: complete and abridged.</s>
 <s n="67">While the complete corpus of scholia is transmitted without the poet's text in some books, selected scholia accompanied by glosses are found inserted into the text in others.</s>
@@ -216,10 +216,10 @@ A few important examples may be cited:</s>
 <item><bibl>IV arg.</bibl>: τὴν Μήδειαν (P; necessary supplement) <foreign xml:lang="eng">(Medea)</foreign> : omitted (L).</item>
 </list>
 <s n="86">However, as hundreds of instances demonstrate where the Ambrosian and Parisian recensions diverge, do not assume that similar or matching passages necessarily come from a common exemplar.</s>
-</p>
+</p></div>
 
-<div type="textpart" subtype="subsection">
-<head>Florentine Recension</head>
+<div type="textpart" subtype="subsection" n="3">
+<head>3. Florentine Recension</head>
 <p n="18">
 <s n="87">The third recension of scholia is the one printed in Florence in 1496 by Laurentius de Alopa under the supervision of Janus Lascaris. It is designated by the siglum F. In my commentary (18–21), I demonstrated with very strong arguments that this first edition originated from Codex Laurentianus XXXI τι and fragments of scholia propagated through other manuscripts.</s>
 <s n="88">It can also be firmly established that Janus Lascaris derived his scholia from two manuscripts: one belonging to the Laurentian type and the other to the complete Parisian type. The critical question, however, is whether the Codex L itself should be considered the exemplar of the Laurentian type
@@ -253,11 +253,11 @@ used by Lascaris.</s>
 </p>
 </div>
 
-<div type="textpart" subtype="section" n="3">
+<div type="textpart" subtype="section" n="4">
 <head>IV. ON SCHOLIA TRANSMITTED OUTSIDE THE APOLLONIAN BOOKS</head>
 
 <div type="textpart" subtype="subsection" n="1">
-<head>On Eustathius and Tzetzes</head>
+<head>1. On Eustathius and Tzetzes</head>
 
 <p n="21">
 <s n="102">Although it must be assumed with certainty that 12th-century writers read Apollonius' <title>Argonautica</title> along with the scholia, traces of these scholia in their works are exceedingly rare. Eustathius is found twice incorporating Apollonian scholia into his Homeric commentaries: at 344, 18, where the explanation of the term κίτυβος appears to derive from scholia II 98/100ab, and at 711, 42, which refers to scholium IV 175b.</s>
@@ -274,7 +274,7 @@ The scholia used by Eustathius seem to have been very similar to those in the La
 </div>
 
 <div type="textpart" subtype="subsection" n="2">
-<head>On the <title>Etymologicum Genuinum</title></head>
+<head>2. On the <title>Etymologicum Genuinum</title></head>
 
 <p n="23">
 <s n="107">Deicke (22sqq.) convincingly demonstrated, following earlier scholars, that the author of the <title>Etymologicum Genuinum</title> had incorporated many Apollonian scholia into his glosses.</s>
@@ -324,8 +324,8 @@ Stesimbrotus on Ἰδαῖοι Δάκτυλοι <foreign xml:lang="eng">(Idaean 
 <s n="120">Although this manuscript must be regarded as the oldest surviving witness to the corpus, its content had been so revised by a learned Byzantine scholar that every caution must be exercised by anyone attempting to reconstruct the truly ancient form of the scholia based on it.</s>
 </p></div>
 <pb n="XXI"/>
-<div type="textpart" subtype="subsection" n="1">
-<head>On Orus and Methodius</head>
+<div type="textpart" subtype="subsection" n="3">
+<head>3. On Orus and Methodius</head>
 
 <p n="26">
 <s n="121">Of the three commentaries from which a learned individual in approximately the 5th century is thought to have compiled the scholia corpus transmitted in the Apollonian books, only Sophocles' commentary is mentioned outside the corpus and its derivatives.</s>
@@ -362,10 +362,10 @@ from Sophocles' commentary to Orus as an intermediary, who is known to have been
 </p>
 </div></div>
 
-<div type="textpart" subtype="subsection" n="5">
+<div type="textpart" subtype="section" n="5">
 <head>V. ON THE METHOD AND PRINCIPLES OF THIS EDITION</head>
 <div type="textpart" subtype="subsection" n="1">
-<head>On the Method of the Edition</head>
+<head>1. On the Method of the Edition</head>
 
 <p n="29">
 <s n="133">In undertaking a new edition of the ancient scholia on Apollonius, I deliberately excluded the recensions from the Byzantine and Renaissance periods.</s>
@@ -394,8 +394,8 @@ from Sophocles' commentary to Orus as an intermediary, who is known to have been
 <s n="147">Additionally, I included the ancient scholia brought to light by Albert Wifstrand (Ramos 30, 1932, 2–6) from Berlin Papyrus 13415 (dating to the 1st or 2nd century AD); cf. scholia II 1075, 1099, 1103, and 1127. I also added numerous other passages derived from the scholia that are so similar to them as to aid in their correction, supplementation, explanation, or better understanding.</s>
 <s n="148">While I ensured verbatim transcription for the former, I only referenced the latter by title. I acknowledge that my selection in compiling these passages was not entirely consistent, sometimes including more and sometimes fewer.</s>
 </p></div>
-<div type="textpart" subtype="subsection" n="1">
-<head>On the Approach of the Edition</head>
+<div type="textpart" subtype="subsection" n="2">
+<head>2. On the Approach of the Edition</head>
 
 <p n="32">
 <s n="149">Since the archetypal manuscript was often corrupt, incomplete, or disordered in various places, the art of conjecture frequently needed to be employed. As scholars from antiquity to the present have abundantly engaged in this practice, I did not consider it necessary to include all their findings in the apparatus.</s>
@@ -405,8 +405,8 @@ from Sophocles' commentary to Orus as an intermediary, who is known to have been
 <s n="153">Finally, I have already mentioned above (p. X) the significant contributions Hermann Fraenkel made to improving the corrupt passages.</s>
 </p></div>
 
-<div type="textpart" subtype="subsection" n="1">
-<head>On the Principles of the Edition</head>
+<div type="textpart" subtype="subsection" n="3">
+<head>3. On the Principles of the Edition</head>
 
 <p n="33">
 <s n="154">Since the ancient scholia are generally contained in Codex L and the lost exemplar of the Parisian scholia, I deemed it unnecessary to assign any siglum to those parts and fragments found both in the margin of Codex L and in the fuller Parisian scholia (P). However, do not assume that the Parisian scholia always agree verbatim with the Laurentian ones if no differences are noted in the apparatus, as I have only included those variant readings that could reasonably be traced back to the ancient exemplar.</s>
@@ -455,14 +455,14 @@ from Sophocles' commentary to Orus as an intermediary, who is known to have been
 <s n="171">Charles Wendel.</s>
 </p></div></div>
 
-<div type="textpart" subtype="section" n="6">
+<div type="textpart" subtype="section" n="5">
 <head>CONSPECTUS OF SCHOLARS</head>
+<pb n="XXVII"/>
 
-<p n="40">
-<s n="172">The following individuals are cited by name only:
+<s n="172">The following individuals are cited by name only:</s>
 
-<item>
-<term>Deicke</term> = Ludovicus Deicke, mentioned in handwritten notes; see pp. VIII, XXIV.
+<list>
+<item><term>Deicke</term> = Ludovicus Deicke, mentioned in handwritten notes; see pp. VIII, XXIV.
 </item>
 
 <item>
@@ -512,14 +512,12 @@ from Sophocles' commentary to Orus as an intermediary, who is known to have been
 <item>
 <term>Wil. ad l.</term> = The same, in his copy of Keil’s edition; see pp. IX, XXIV.
 </item>
-</s>
-</p>
+</list>
 </div>
 
 <div type="textpart" subtype="section" n="6">
 <head>CONSPECTUS SIGNORUM</head>
-<p n="41">
-
+<pb n="XXVII"/>
 <list>
 <head>Sigla of Manuscripts</head>
 
@@ -553,5 +551,5 @@ from Sophocles' commentary to Orus as an intermediary, who is known to have been
 <item><add></add> = Words added by conjecture.</item>
 <item><del></del> = Words to be deleted.</item>
 </list>
-</div></div>
+</div>
 </body></text></tei>
