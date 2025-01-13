@@ -160,18 +160,21 @@ interlinear glosses from Codex L, though largely ignored, are transferred either
 <s n="67">Given these revisions, the critical question is whether the exemplar from which the Parisian recension originated was distinct from Codex L or not.</s> 
 <s n="68">This question is extremely difficult to answer, as almost all the better readings in the Parisian scholia compared to the Laurentian ones could, if one wishes, be attributed to the conjectures of the learned editor.</s> 
 <s n="69">However, in my commentary (45–51), I believe I have necessarily demonstrated that a significant number of passages could only have come from a manuscript different from L.</s> 
-<s n="70">A few important examples may be cited: 
-I 475 Ἀπόλλωνι (P) : πολλῶν (L), 
-I 1345 πολίσαι (P) : ποιῆσαι (L), 
-II 159/60a τριμερῆ (P) : θυμηδῆ (L), 
-II 279a ὕστερον (P; cf. Et. Gen.): ὑπό τινων (L), 
-II 941/422 Ἄμαστρις (P) : Δάματρις (L), 
-III 535b Θεσσαλίας (P) : πεσσαλίς (L), 
-III 1090b κληθῆναι (P) : καῆναι (L), 
-IV arg. πόντον (P) : ποταμόν (L), 
-IV 277/78a ἀπότονοι (P) : ἀπὸ γάρ (L), 
-IV 1615/16b κυρίως (P; cf. Et. Gen.) : καί (L), 
-IV 1630 ἢ παρὰ τὸ αὐλίζεεθαι ὅ ἐστι κοιμᾶσεθαι (P) : ἄδηλον δέ, πότερον τὸ αὐλίζεσεθαι κεῖται ἐπὶ τοῦ κοιμᾶσθαι (L; these statements, once preserved solely by P, appear to have been an added gloss).</s>
+<s n="70">
+
+A few important examples may be cited:
+
+- <bibl>I 475</bibl>: Ἀπόλλωνι (P) <foreign xml:lang="eng">(to Apollo)</foreign> : πολλῶν (L) <foreign xml:lang="eng">(of many)</foreign>.
+- <bibl>I 1345</bibl>: πολίσαι (P) <foreign xml:lang="eng">(to settle)</foreign> : ποιῆσαι (L) <foreign xml:lang="eng">(to make)</foreign>.
+- <bibl>II 159/60a</bibl>: τριμερῆ (P) <foreign xml:lang="eng">(threefold)</foreign> : θυμηδῆ (L) <foreign xml:lang="eng">(joyful)</foreign>.
+- <bibl>II 279a</bibl>: ὕστερον (P; cf. <title>Etymologicum Genuinum</title>) <foreign xml:lang="eng">(later)</foreign> : ὑπό τινων (L) <foreign xml:lang="eng">(by some)</foreign>.
+- <bibl>II 941/422</bibl>: Ἄμαστρις (P) <foreign xml:lang="eng">(Amastris)</foreign> : Δάματρις (L) <foreign xml:lang="eng">(Dametris)</foreign>.
+- <bibl>III 535b</bibl>: Θεσσαλίας (P) <foreign xml:lang="eng">(of Thessaly)</foreign> : πεσσαλίς (L) <foreign xml:lang="eng">(a pestle)</foreign>.
+- <bibl>III 1090b</bibl>: κληθῆναι (P) <foreign xml:lang="eng">(to be called)</foreign> : καῆναι (L) <foreign xml:lang="eng">(to burn)</foreign>.
+- <bibl>IV arg.</bibl>: πόντον (P) <foreign xml:lang="eng">(sea)</foreign> : ποταμόν (L) <foreign xml:lang="eng">(river)</foreign>.
+- <bibl>IV 277/78a</bibl>: ἀπότονοι (P) <foreign xml:lang="eng">(unstrung, slackened)</foreign> : ἀπὸ γάρ (L) <foreign xml:lang="eng">(for from)</foreign>.
+- <bibl>IV 1615/16b</bibl>: κυρίως (P; cf. *Etymologicum Genuinum*) <foreign xml:lang="eng">(properly)</foreign> : καί (L) <foreign xml:lang="eng">(and)</foreign>.
+- <bibl>IV 1630</bibl>: ἢ παρὰ τὸ αὐλίζεεθαι ὅ ἐστι κοιμᾶσεθαι (P) <foreign xml:lang="eng">(or from *aulizesthai*, which means "to rest")</foreign> : ἄδηλον δέ, πότερον τὸ αὐλίζεσεθαι κεῖται ἐπὶ τοῦ κοιμᾶσθαι (L) <foreign xml:lang="eng">(it is unclear whether *aulizesethai* refers to resting)</foreign>. These statements, once preserved solely by P, appear to have been an added gloss.</s>
 </p>
 
 <p n="16">
@@ -182,19 +185,19 @@ IV 1630 ἢ παρὰ τὸ αὐλίζεεθαι ὅ ἐστι κοιμᾶσε�
 <p n="17">
 <s n="73">The Parisian recension aimed to provide scholars with a comprehensive and polished commentary, a goal very different from that of the Ambrosian recension, which seems to have been intended more for beginners.</s> 
 <s n="74">However, it is unsurprising that the two recensions agree in some individual passages, as both sought to purify the transmitted text of errors and make it easier to read and understand. Consider, for example, these significant cases:
-I 216/17a θράκης (P) : Ἀττικῆς (L; from which Ἀστικῆς was correctly inferred by Holstenius), 
-I 788/89b σιτεῖσθαι (P) : σιτᾶσθαι (L), 
-I 1132 χερμάδια (P) : χερμαδίους (L), 
-I 1134/39a κτυποῦντες (P) : κομποῦντες (L), 
-I 1184 ὥστε (P) : ὥς (L), 
-I 1265/72a ταῖς βουσί (P) : ταῖς λογάσι (corrupt) τῶν βοῶν (L), 
-II 112/15 ἐντοσθίων (P) : ἐντοσθιδίων (L), 
-II 235 ὁμόθεν in a well-known verse of Euripides: νόμον (L), 
-II 611/12 ἡμᾶς (P) : ὑμάς (L), 
-III 187 ἀπὸ τοῦ (P) : αὐτὸ τό (L; more difficult but correct), 
-III 200a τὰς ἐρημίας Ἑκὰς τότε (P; Ἑκάς as a proper name linked with ἐρημίας) : τὰς ἐρημίας ἑκάστοτε (L, correctly), 
-III 997/1004a γῆμεν (P) : γήμας (L), 
-IV arg. τὴν Μήδειαν (P; necessary supplement): omitted (L).</s> 
+- <bibl>I 216/17a</bibl>: θράκης (P) <foreign xml:lang="eng">(of Thrace)</foreign> : Ἀττικῆς (L) <foreign xml:lang="eng">(of Attica)</foreign>; from which Ἀστικῆς <foreign xml:lang="eng">(of Asty, Attica)</foreign> was correctly inferred by Holstenius.
+- <bibl>I 788/89b</bibl>: σιτεῖσθαι (P) <foreign xml:lang="eng">(to eat)</foreign> : σιτᾶσθαι (L) <foreign xml:lang="eng">(to eat, alternate form)</foreign>.
+- <bibl>I 1132</bibl>: χερμάδια (P) <foreign xml:lang="eng">(stones)</foreign> : χερμαδίους (L) <foreign xml:lang="eng">(stone fragments)</foreign>.
+- <bibl>I 1134/39a</bibl>: κτυποῦντες (P) <foreign xml:lang="eng">(striking)</foreign> : κομποῦντες (L) <foreign xml:lang="eng">(boasting)</foreign>.
+- <bibl>I 1184</bibl>: ὥστε (P) <foreign xml:lang="eng">(so that)</foreign> : ὥς (L) <foreign xml:lang="eng">(as)</foreign>.
+- <bibl>I 1265/72a</bibl>: ταῖς βουσί (P) <foreign xml:lang="eng">(to the cattle)</foreign> : ταῖς λογάσι (L) <foreign xml:lang="eng">(to the chosen [corrupt])</foreign> τῶν βοῶν <foreign xml:lang="eng">(of the oxen)</foreign>.
+- <bibl>II 112/15</bibl>: ἐντοσθίων (P) <foreign xml:lang="eng">(of entrails)</foreign> : ἐντοσθιδίων (L) <foreign xml:lang="eng">(of small entrails)</foreign>.
+- <bibl>II 235</bibl>: ὁμόθεν (P) <foreign xml:lang="eng">(from the same place)</foreign> in a well-known verse of Euripides : νόμον (L) <foreign xml:lang="eng">(law)</foreign>.
+- <bibl>II 611/12</bibl>: ἡμᾶς (P) <foreign xml:lang="eng">(us)</foreign> : ὑμάς (L) <foreign xml:lang="eng">(you)</foreign>.
+- <bibl>III 187</bibl>: ἀπὸ τοῦ (P) <foreign xml:lang="eng">(from that)</foreign> : αὐτὸ τό (L) <foreign xml:lang="eng">(the very thing; more difficult but correct)</foreign>.
+- <bibl>III 200a</bibl>: τὰς ἐρημίας Ἑκὰς τότε (P; Ἑκάς as a proper name linked with ἐρημίας) <foreign xml:lang="eng">(the wildernesses of Hecas)</foreign> : τὰς ἐρημίας ἑκάστοτε (L) <foreign xml:lang="eng">(the wildernesses each time; correct)</foreign>.
+- <bibl>III 997/1004a</bibl>: γῆμεν (P) <foreign xml:lang="eng">(to marry)</foreign> : γήμας (L) <foreign xml:lang="eng">(having married)</foreign>.
+- <bibl>IV arg.</bibl>: τὴν Μήδειαν (P; necessary supplement) <foreign xml:lang="eng">(Medea)</foreign> : omitted (L).</s> 
 <s n="75">However, as hundreds of instances demonstrate where the Ambrosian and Parisian recensions diverge, do not assume that similar or matching passages necessarily come from a common exemplar.</s>
 </p>
 
