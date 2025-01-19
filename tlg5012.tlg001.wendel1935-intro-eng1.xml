@@ -357,7 +357,7 @@ from Sophocles' commentary to Orus as an intermediary, who is known to have been
 
 <p n="28">
 <s n="130">Besides Orus, a grammarian whom I assign to the 5th century, another source that seems to have transmitted some Apollonian glosses to the <title>Etymologicum Genuinum</title> is Methodius, whose lost great lexicon is believed to have been the primary source for the letter A in the <title>Etymologicum Genuinum</title>.</s>
-<s n="131">The following Apollonian glosses in the <title>Etymologicum Genuinum</title> are thought to derive from Methodius' lexicon: duόpnrov <foreign xml:lang="eng">(double-edged)</foreign> — ἀμήρυτον <foreign xml:lang="eng">(uncut)</foreign> — scholia II 221, ἀνταία <foreign xml:lang="eng">(face-to-face)</foreign> — scholia I 1141/48a, ἀλκαία <foreign xml:lang="eng">(strong)</foreign> — scholia IV 1615/16h, ἀίγδην <foreign xml:lang="eng">(continuously)</foreign> — scholia II 826.</s>
+<s n="131">The following Apollonian glosses in the <title>Etymologicum Genuinum</title> are thought to derive from Methodius' lexicon: ἀμύρητον <foreign xml:lang="eng">(double-edged)</foreign> — ἀμήρυτον <foreign xml:lang="eng">(uncut)</foreign> — scholia II 221, ἀνταία <foreign xml:lang="eng">(face-to-face)</foreign> — scholia I 1141/48a, ἀλκαία <foreign xml:lang="eng">(strong)</foreign> — scholia IV 1615/16h, ἀίγδην <foreign xml:lang="eng">(continuously)</foreign> — scholia II 826.</s>
 <s n="132">It is not certain which commentary Methodius used, but since he is likely to have been nearly contemporary with Orus, it seems highly probable that he also relied on Sophocles' commentary.</s>
 </p>
 </div></div>
@@ -372,17 +372,17 @@ from Sophocles' commentary to Orus as an intermediary, who is known to have been
 <s n="134">Thus, I based the text primarily on Codex L, using Codex G for the prolegomena and occasionally incorporating readings from Codices G and S in other places.</s>
 <s n="135">I disregarded the Parisian scholia where the ancient exemplar they revised appeared to agree with L. However, when the Parisian scholia seemed to stem from a reading divergent from L, I adopted that reading from the exemplar, even if the Laurentian reading was often inferior and sometimes seemed to be merely conjectural.</s>
 <s n="136">Overall, I used the Parisian scholia as transmitted in Codex P; where Codex V differs, I included the readings of both manuscripts. On rarer occasions, I found it necessary to draw on the shorter scholia of Codices B and Pe; one significant scholium (II 222/24b) is preserved only in these.</s>
-<s n="137">I ignored the interlinear glosses of Codices B and P?.</s>
+<s n="137">I ignored the interlinear glosses of Codices B and Pa.</s>
 <s n="138">I included selected conjectures from the manuscripts derived from the Laurentian Codex (such as A, H, and the first printed edition, F), but I preferred to err on the side of inclusion rather than exclusion. I included not only conjectures that I consider correct or especially noteworthy but also those that appear to have originated from a more ancient exemplar shared by two or three manuscripts.</s>
 <s n="139">I accepted additions from these manuscripts except for the trivial Ambrosian glosses.</s>
 </p>
 
 <p n="30">
-<s n="140">I included all interpretations from Codex L, encompassing not only the scholia proper (L) but also interlinear glosses (L8) and marginal notes lacking lemmata (1.3). I also retained a few interlinear and marginal glosses from the 13th, 14th, and 15th centuries, as they seem to replace faded ancient glosses (Lgr and Lmr). I reproduced the scholia lemmata, which are essential for restoring the poet’s words, with such precision that even letters omitted for brevity and supplied by editors are carefully noted.</s>
+<s n="140">I included all interpretations from Codex L, encompassing not only the scholia proper (L) but also interlinear glosses (Lm) and marginal notes lacking lemmata (Lg). I also retained a few interlinear and marginal glosses from the 13th, 14th, and 15th centuries, as they seem to replace faded ancient glosses (Lgr and Lmr). I reproduced the scholia lemmata, which are essential for restoring the poet’s words, with such precision that even letters omitted for brevity and supplied by editors are carefully noted.</s>
 <s n="141">This care is not superfluous, as demonstrated by scholium IV 973, where Keil misexpanded an abbreviation, reading ὀρειχάλκοιο φασίν instead of ὀρειχάλκοιο φα<add>εινοῦ</add>. Where the order of the scholia was disordered, I restored it to follow the poet's text, indicating the traditional order in the apparatus.</s>
 <s n="142">If a scribe or corrector had already corrected an error by adding letters or numbers, I did not record it. I added interlinear glosses related to textual variants, except where they involved only individual letters or very short segments.</s>
 <s n="143">This approach is useful, as it is sometimes unclear whether a word should be considered a gloss or a textual variant, such as IV 564/66b Λιγυρνίδες, 603/06b ἐφήμεναι, 627/34b πόντον, and 1115 ἐφημοσύνῃσιν. While I strove to document Codex L as meticulously as possible, I deliberately ignored orthographic matters where the true reading is not in doubt.</s>
-<s n="144">For example, I did not note cases where ἢ was written for ε, as in τυγχάνην (388, 19 K.), παρασύρην (437, 27 K.), and συμπάσχην (470, 32 K.); or where n was replaced with ι, as in τῆς (371, 6 K.), Ἀρητιάδη (412, 15 K.), and Νύμφης (424, 7 K.); or where ω was written for ο, as in τὸν (= τῶν, 378, 10 K.), or τὸ (= τῷ, 384, 15 K.). Nor did I note the consistent omission of iota adscript (e.g., τῶ, Ἅρπυαι Ἅδης)
+<s n="144">For example, I did not note cases where η was written for ει, as in τυγχάνην (388, 19 K.), παρασύρην (437, 27 K.), and συμπάσχην (470, 32 K.); or where η was replaced with ι, as in τῆς (371, 6 K.), Ἀρητιάδη (412, 15 K.), and Νύμφης (424, 7 K.); or where ω was written for ο, as in τὸν (= τῶν, 378, 10 K.), or τὸ (= τῷ, 384, 15 K.). Nor did I note the consistent omission of iota adscript (e.g., τῶ, Ἅρπυαι Ἅδης)
 <pb n="XXIV"/>
 
  or trivial errors such as repeated words or omitted articles.</s>
@@ -400,7 +400,7 @@ from Sophocles' commentary to Orus as an intermediary, who is known to have been
 <p n="32">
 <s n="149">Since the archetypal manuscript was often corrupt, incomplete, or disordered in various places, the art of conjecture frequently needed to be employed. As scholars from antiquity to the present have abundantly engaged in this practice, I did not consider it necessary to include all their findings in the apparatus.</s>
 <s n="150">However, where a certain passage seemed to me corrupt and unresolved, I provided a more detailed account of the efforts of scholars. In all conjectures included, I endeavored to credit the original proposer, specifying the title of their work precisely.</s>
-<s n="151">Whenever possible, I gave preference to handwritten manuscripts over modern conjectures. I discovered five conjectures in Deicke’s notes and seventy-two unpublished ones in an example of Keil’s edition, which I had the privilege of examining in September 1932, with permission from the directors of the Berlin Institute for the Promotion of Antiquity Studies, where it had been handled by Wilamowitz.</s>
+<s n="151">Whenever possible, I gave preference to handwritten manuscripts over modern conjectures. I discovered five conjectures in Deicke’s notes and seventy-two unpublished ones in an examplum of Keil’s edition, which I had the privilege of examining in September 1932, with permission from the directors of the Berlin Institute for the Promotion of Antiquity Studies, where it had been handled by Wilamowitz.</s>
 <s n="152">For eight passages where Wilamowitz’s conjectures coincided with those I had independently recorded long ago, I attributed both our names.</s>
 <s n="153">Finally, I have already mentioned above (p. X) the significant contributions Hermann Fraenkel made to improving the corrupt passages.</s>
 </p></div>
@@ -418,7 +418,7 @@ from Sophocles' commentary to Orus as an intermediary, who is known to have been
 </p>
 
 <p n="34">
-<s n="157">For all scholia preserved in Codex L, I prefixed lemmata drawn from the same codex without noting differences from other manuscripts. Most of the scholia proper, with few exceptions, retain the same wording as in the body of the codex scholia.</s>
+<s n="157">For all scholia preserved in Codex L, I prefixed lemmata drawn from the same codex without noting differences from other manuscripts. Most of the scholia proper, with few exceptions, retain the same wording as in the body of the codex of the scholia.</s>
 <s n="158">For those annotations in the codex that lack lemmata (Lg and Lm), I supplied phrases taken from the poet’s text, enclosed in slanted brackets.</s>
 <s n="159">If Codex P included the same gloss with an added lemma among the scholia, I indicated its correspondence to the same poetical phrase in the Parisian scholia by omitting the brackets but nonetheless transcribed the lemma from Codex L.</s>
 </p>
@@ -443,7 +443,7 @@ from Sophocles' commentary to Orus as an intermediary, who is known to have been
 <s n="167">This ensures that there can never be any doubt about the source of the accepted text.</s>
 <s n="168">However, when a conjecture has been accepted into the text, the transmitted reading—if it appears identically in all the manuscripts that preserve the scholium—is presented without the sigla of the manuscripts.</s>
 <s n="169">To illustrate with examples:
-1. τ. sch. II 177 θυνίαι W : Βιθυνίαι. This indicates that in manuscripts L and P, which contain the scholium, the reading Βιθυνίαι is found.
+1. sch. II 177 Θυνίαι W : Βιθυνίαι. This indicates that in manuscripts L and P, which contain the scholium, the reading Βιθυνίαι is found.
 2. sch. II 70/742 διεκκλινόμενος F : διακλ-. This indicates that Codex L, the sole witness to this scholium, provides the form διακλινόμενος. Conversely, if I chose to record a conjecture that is uncertain or, in my judgment, to be rejected, it seemed unnecessary to repeat the words accepted from the manuscripts.</s>
 </p>
 
