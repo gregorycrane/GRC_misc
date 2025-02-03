@@ -8582,8 +8582,11 @@ esse videtur.</p>
 <div type="textpart" subtype="entry" n="ἀποδύρομαι">
 <p><lem>ἀποδύρομαι</lem> defleo. Pr. 637 τἀποκλαύσαι
 κἀποδύρασθαι τύχας.
+</p>
+</div>
 
-αποζεύγνυμαι proficiscor. Ch. 676 ὥσπερ
+<div type="textpart" subtype="entry" n="ἀποζεύγνυμαι">
+<p><lem>ἀποζεύγνυμαι</lem> proficiscor. Ch. 676 ὥσπερ
 δεῦρ᾽ ἀπεζύγην πόδα.</p>
 </div>
 
@@ -8683,7 +8686,7 @@ ap. Stob. Flor. 110, 10, 3 dixit Ζεὺς ἀποκρύψας
 <div type="textpart" subtype="entry" n="ἀπολακτίζω">
 <p><lem>ἀπολακτίζω</lem> repudio. Pr. 651 μἀπολακτίσης
 (sic scripsi pro μὴ ἀπολακτίσης) λέχος τὸ Ζηνός.
-Η excutio. Eum. 141 ἀπολακτίσασ᾽ ὕπνον.</p>
+|| excutio. Eum. 141 ἀπολακτίσασ᾽ ὕπνον.</p>
 </div>
 
 <div type="textpart" subtype="entry" n="ἀπολακτισμός">
@@ -8711,7 +8714,7 @@ urbs est.</p>
 <p><lem>ἀπόλλυμι</lem> perdo. Pers. 652 οὐδὲ γὰρ ἄνδρας
 ποτ᾽ ἀπώλλυ. [Sept. 981 πνεῦμ᾽ ἀπώλεσεν,
 sed versu proximp ἀπώλεσε δὴ τόδε male pro
-ὤλεσε, quod restituit Wellauerus. Pers. 475 οὓς
+ὤλεσε, quod restituit Wellauerus.] Pers. 475 οὓς
 πρόσθε Μαραθών βαρβάρων ἀπώλεσεν. 551 Ξέρο
 ξης μὲν ἄγαγεν, — Ξέρξης δ᾽ ἀπώλεσεν. 501 ναες
 μὲν ἄγαγον, νᾶες δ᾽ ἀπώλεσαν. 733 οἵαν ἄρ᾽ ἤβην
@@ -8727,7 +8730,11 @@ sed versu proximp ἀπώλεσε δὴ τόδε male pro
 λότα.] || ἀπόλλυμαι pereo. Pers. 278 πᾶς δ᾽ ἀπώλ-
 λυτο στρατός. 328 εὐκλεῶς ἀπώλετο. Ch. 96
 ὥσπερ οὖν ἀπώλετο πατήρ.
-Απόλλων Αpollo. Sept. 159 ὦ φίλ᾽ Απολ-
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="Ἀπόλλων">
+<p><lem>Ἀπόλλων</lem> Apollo. Sept. 159 ὦ φίλ᾽ Απολ-
 λον. 745 Ἀπόλλωνος βία. 801 ὁ σεμνὸς ἑβδο-
 μαγέτης άναξ Απόλλων. Αg. 55 ὕπατος δ᾽ ἀΐων
 ἤ τις Απόλλών ἢ Πάν ἢ Ζεύς. Ib. 1073 1077
@@ -8975,9 +8982,7 @@ Pers. 857 πρῶτα μὲν εὐδοκίμου στρατιᾶς (εὐδοκ
 </div>
 
 <div type="textpart" subtype="entry" n="ἀποφθορά">
-<p><lem>ἀποφθορά</lem>
-
- corruptio. Eum. 187 σπέρματός
+<p><lem>ἀποφθορά</lem> corruptio. Eum. 187 σπέρματός
 τ' ἀποφθορᾷ.</p>
 </div>
 
@@ -8999,8 +9004,7 @@ p. 1780.
 </div>
 
 <div type="textpart" subtype="entry" n="ἀπόχρη">
-<p><lem>ἀπόχρη</lem>
- sufficit. Αg. 1574 κτεάνων τε μέρος
+<p><lem>ἀπόχρη</lem> sufficit. Αg. 1574 κτεάνων τε μέρος
 βαιὸν ἐχούσῃ πᾶν ἀπόχρη μοι.
 </p>
 </div>
@@ -9226,8 +9230,11 @@ interrogativis, velut Pr. 594 τίς ὤν, τίς ἄρα μ᾽, ὦ
 μηχανορραφώ. Fr. 328 ὀξυγλυκειάν τάρα κοκκιεῖς
 ῥόαν. Frequentius apud Sophoclem et Euripidem
 τἄρα et οὔ τἄρα.
+</p>
+</div>
 
-ἆρα num, numquid, nonne. Ammonius p. 23
+<div type="textpart" subtype="entry" n="ἆρα">
+<p><lem>ἆρα</lem> num, numquid, nonne. Ammonius p. 23
 ἄρα καὶ ἄρα διαφέρει ὁ μὲν γὰρ κατὰ περισπα-
 σμὸν λεγόμενος σύνδεσμος ἀπορηματικός ἐστιν,
 ὅτε ἀποροῦντες λέγομεν “ἆρα τέλος ἕξει τὸ πρᾶγ-
@@ -9239,8 +9246,11 @@ s. v. pa dicetur. Usitata Atticis apa particula est,
 cuius frequentissimus in interrogationibus usus
 vel simplicis vel cum οὐ, μή aliisque particulis
 nonnullis coniunctae.
+</p>
+</div>
 
-ἆρα. Pr. 735 ἆρ᾽ ὑμῖν δοκεῖ — βίαιος εἶναι;
+<div type="textpart" subtype="entry" n="ἆρα.">
+<p><lem>ἆρα.</lem> Pr. 735 ἆρ᾽ ὑμῖν δοκεῖ — βίαιος εἶναι;
 Ch. 495 496 ἆρ᾽ ἐξεγείρει τοῖσδ᾽ ὀνείδεσιν, πάτερ;
 ἆρ᾽ ὀρθὸν αἵρεις φίλτατον τὸ σὸν κάρα; Eum. 190 |
 ἄρ᾽ ἀκούετε; 745 ἆρ᾽ ὁρᾷς τάδε; 988 ἄρα φρονού-
@@ -9430,7 +9440,6 @@ susque omisso poetae nomine sic scriptus affertur
 <div type="textpart" subtype="entry" n="Ἀραχναίος">
 <p><lem>Ἀραχναίος</lem> Arachnaeus. Ag. 309 Αραχναίον
 αἶπος. Est nomen montis, de quo Steph. Βyz.
-
 Ἀραχναῖον: ὄρος Αργους. Καλλίμαχος Αἰτίων ά.
 προπερισπαστέον δέ.
 </p>
@@ -9447,15 +9456,13 @@ aliunde non cognitae, exemplum est Suppl. 886
 </div>
 
 <div type="textpart" subtype="entry" n="ἀρβύλη">
-<p><lem>ἀρβύλη</lem> calceus. Ag. 944 ὑπαί τις αρβύλας 
-
+<p><lem>ἀρβύλη</lem> calceus. Ag. 944 ὑπαί τις ἀρβύλας 
 λύοι τάχος. Fr. 255 εὐθέτοις ἐν ἀρβύλαις.
 </p>
 </div>
 
 <div type="textpart" subtype="entry" n="Ἀργεῖος">
-<p><lem>Ἀργεῖος</lem>
- Argivus. Fr. 170 Ινάχου Αργείου
+<p><lem>Ἀργεῖος</lem> Argivus. Fr. 170 Ινάχου Αργείου
 ποταμοῦ. Sept. 59 πάνοπλος Αργείων στρατός.
 679 ἄνδρας Αργείοισι Καδμείους ἅλις ἐς χεῖρας ἐλ-
 θεῖν. Αg. 45 στόλον Αργείων χιλιοναύτην. 197 
@@ -9608,16 +9615,14 @@ lebratae. Fr. 19 ποῦ δ᾽ ἐστὶν Αργούς ἱρὸν αὐ-
 </div>
 
 <div type="textpart" subtype="entry" n="ἄρδω">
-<p><lem>ἄρδω</lem> irrigo.
-Pers. 487 Σπερχειός ἄρδει πε-
+<p><lem>ἄρδω</lem> irrigo. Pers. 487 Σπερχειός ἄρδει πε-
 δίον εὐμενεῖ ποτῷ. 806 ἔνθα πεδίον Ασωπός
 ῥοαῖς ἄρδει.
 <pb n="42"/>
 </p>
 </div>
 <div type="textpart" subtype="entry" n="ἀρειθύσανος">
-<p><lem>ἀρειθύσανος</lem>
-Eustathius p. 600, 43 σχίσματα 
+<p><lem>ἀρειθύσανος</lem> Eustathius p. 600, 43 σχίσματα 
 γάρ τινα καὶ θύσανοι, ὅθεν ἀρειθύσανοι κατὰ Παυ- 
 σανίαν "Αρεος θύσανοι, οἱονεὶ ἀποσχίσματα, παρ' 
 Αἰσχύλῳ ἐν Προμηθεῖ λυομένῳ (fr. 200). Hesy- 
@@ -9765,9 +9770,7 @@ Geldi pro ἀράν) φίλοις πνέουσαν. Sept. 45 Ἄρη
 </div>
 
 <div type="textpart" subtype="entry" n="ἀρίδακρυς">
-<p><lem>ἀρίδακρυς</lem>
-
- flebilis. Pers. 948 κλάγξω δ᾽ αὖ
+<p><lem>ἀρίδακρυς</lem> flebilis. Pers. 948 κλάγξω δ᾽ αὖ
 γόον ἀρίδακρυν. V. Thes. vol. 1, 2 p. 1941.</p>
 </div>
 
@@ -9871,7 +9874,11 @@ quam probabiliter correxit Hermannus ἧκέ σοι.]
 <div type="textpart" subtype="entry" n="ἀρκούντως">
 <p><lem>ἀρκούντως</lem> sufficienter. Ch. 892 τῷδε δ᾽ ἀρ·
 κούντως ἔχει.
-Αρκτεύς n. pr. Persicum Pers. 44 312.</p>
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="Ἀρκτεύς">
+<p><lem>Ἀρκτεύς</lem> n. pr. Persicum Pers. 44 312.</p>
 </div>
 
 <div type="textpart" subtype="entry" n="ἄρκυς">
@@ -10011,14 +10018,23 @@ lius est. V. ἐνηλύσια.]
 Suppl. 1007 ὧν πολὺς πόνος, πολὺς δὲ πόντος οὔ-
 νεκ' ηρόθη δορί. Nam sic Heathius emendavit
 quod est in Μ οὖν ἐκληρώθη.
-μᾶν ομαίμονες. Αg. 534 ὀφλών γὰρ ἁρπαγῆς τε
-ἁρπαγή raptus. Sept. 351 άρπαγαὶ δὲ διαδρο
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="ἁρπαγή">
+<p><lem>ἁρπαγή</lem> raptus. Sept. 351 άρπαγαὶ δὲ διαδρομᾶν 
+ομαίμονες. Αg. 534 ὀφλών γὰρ ἁρπαγῆς τε
+
 καὶ κλοπῆς δίκην. Suppl. 510 οὗτοι πτερωτῶν
 ἁρπαγαῖς σ᾽ ἐκδώσομεν. | γαρίna, praeda. Sept.
 1014 ἔξω βαλεῖν ἄθαπτον, ἁρπαγὴν κυσίν. Pers,
 752 μὴ πολὺς πλούτου πόνος — γένηται τοῦ φθά-
 σαντος ἁρπαγή.
-ἁρπάζω ταρίο. Ag. 627 ή χεῖμα, κοινὸν ἄχ-
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="ἁρπάζω">
+<p><lem>ἁρπάζω</lem> rapio. Ag. 627 ή χεῖμα, κοινὸν ἄχ-
 θος, ήρπασε στρατοῦ; Sept. 624 παρ᾽ ἀσπίδος
 γυμνωθὲν ἁρπάσαι δόρυ. 259 ἀψυχίᾳ γὰρ γλῶσ
 σαν ἁρπάζει φόβος.
@@ -10043,7 +10059,11 @@ Eum. 982 μηδὲ πιοῦσα κόνις μέλαν αἷμα πολιτάν
 
 άρπαξάνδραν (sic Hermannus pro αναρπαξάνδραν) 
 κῆρ᾽ ἀφελόντα χώρας.
-<q/>Ἅρπυια nomen canis Actaeonis fr. 239 (apud
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="Ἅρπυια">
+<p><lem>Ἅρπυια</lem> nomen canis Actaeonis fr. 239 (apud
 Pollucem 5, 47 in cod. uno in ἀραία corruptum).
 || Ἅρπυιαι Harpyiae, rapaces quaedam deae, de
 quibus v. Thes. vol. 1, 2 p. 2035. Earum nomen
@@ -10120,8 +10140,12 @@ scriptum in libris nonnullis ap. Xenoph. Cyrop. 2,
 Αρταφρένης n. pr. Persicum Pers. 21 776
 [778.] Usitatior est, sed metro non apta forma
 Αρταφέρνης. De utraque v. Thes. vol. 1, 2 p.
-2063 .
-Αρτεμβάρης n. pr. Persicum. Syllaba pe-
+2063.
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="Ἀρτεμβάρης">
+<p><lem>Ἀρτεμβάρης</lem> n. pr. Persicum. Syllaba pe-
 nultima brevis est in trimetro Pers. 302, producta
 in anapaestis 29 971.
 </p>
@@ -10137,7 +10161,7 @@ Suppl. 1031 "Αρτεμις ἁγνά. Αg. 201 προφέρων
 <col/>
 Αρτεμιν. Suppl. 676 "Αρτεμιν δ᾽ ἑκάταν γυναι-
 κῶν λόχους ἐφορεύειν. Fr. 84 δόμον 'Αρτέμιδος.
-436 a "Αρτεμις Δήμητρος θυγάτηρ.</p>
+436 a Ἄρτεμις Δήμητρος θυγάτηρ.</p>
 </div>
 
 <div type="textpart" subtype="entry" n="ἄρτι">
@@ -10347,7 +10371,11 @@ nonnulla.) Superlativus ab hoc nomine formatus (ut
 255 τόδ᾽ ἄρχιστον Απίας γαίας μονόφρουρον ἕρ-
 κος, de quo dixi in Praef. ed. Lips. quintae p. XC.
 Conf. ἀρχέστατος.
-ἄρχω, ἄρχομαι initium facio. Pers. 409 ῆρξε
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="ἄρχω">
+<p><lem>ἄρχω</lem>, ἄρχομαι initium facio. Pers. 409 ῆρξε
 δ᾽ ἐμβολῆς Ἑλληνικὴ ναῦς. 353 ἦρξεν μὲν, ὦ δέ-
 σποινα, τοῦ παντὸς κακοῦ φανεὶς ἀλάστωρ. Ch.
 855 Ζεϋ Ζεῦ, τί λέγω, πόθεν ἄρξωμαι; Pr. 199
@@ -10390,7 +10418,11 @@ Ag. 73 τῆς τότ᾽ ἀρωγῆς ὑπολειφθέντες μίμνομ
 598 ἀρωγάς δ᾽ ἐκ τάφου πέμπει πατήρ. Suppl.
 774 πράξας ἀρωγήν. Fr. 131 τί ποτ' — οὐ πε-
 λάθεις ἐπ᾿ ἀρωγάν;
-ἀρωγός ακxilium ferens, utilis. Pr. 997 δρα
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="ἀρωγός">
+<p><lem>ἀρωγός</lem> auxilium ferens, utilis. Pr. 997 δρα
 νυν εἴ σοι ταῦτ᾽ ἀρωγὰ φαίνεται. Εum. 289 καλώ
 χώρας ἄνασσαν τήσδ' Αθηναίαν ἐμοὶ μολεῖν ἀρω-
 γόν. 486 ὑμεῖς δὲ μαρτύριά τε καὶ τεκμήρια και
@@ -10472,7 +10504,11 @@ empla v. in Thes. vol. 1, 2 p. 2151.</p>
 <p><lem>ἀσθμαίνω</lem> anhelo Eum. 651 οὐδὲν ἀσθμαί-
 νων μένει. Similiter Sept. 393 ἵππος χαλινῶν ὣς
 κατασθμαίνων μένει.
-Ασία Asia. Pr. 411 ἁγνῆς Ἀσίας ἕδος. Pers.
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="Ἀσία">
+<p><lem>Ἀσία</lem> Asia. Pr. 411 ἁγνῆς Ἀσίας ἕδος. Pers.
 57 ἐκ πάσης Ασίας. 73 πολυάνδρου δ᾽ Ασίας
 θούριος ἄρχων. 584 ἀνὰ γᾶν Ασίαν δὴν οὐκέτι
 περσονομοῦνται, ubi Ασιανάν pro Ασίαν δήν
@@ -10504,7 +10540,11 @@ causa: quod argumentum aliquam apud Aeschy-
 lum vim habet, vix ullam apud Euripidem.
 Ασιατογενής in Asia natus. Pers. 12 πᾶσα
 γὰρ ἰσχὺς Ασιατογενὴς ᾤχωκε.
-Ασιήτις Asiatica. Pers. 61 πᾶσα χθών Α-
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="Ἀσιήτις">
+<p><lem>Ἀσιήτις</lem> Asiatica. Pers. 61 πᾶσα χθών Α-
 σιῆτις, ubi Ασιάτις scripsi. Forma Ασιῆτις tra-
 gici usi esse videntur in melicis, in ceteris Ασιά-
 της et Ασιάτις dicentes, etsi modo in his, modo
@@ -10520,7 +10560,11 @@ De bona fortuna Sept. 826 πότερον χαίρω κάπο
 λολύξω πόλεως ἀσινεῖ σωτῆρι τύχη (τύχη ego
 addidi). Αg. 1341 τίς ποτ' ἂν εὔξαιτο βροτῶν
 ἀσινεῖ δαίμονι φῦναι;
-Ασίς Asia. V. Ασιάς.</p>
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="Ἀσίς">
+<p><lem>Ἀσίς</lem> Asia. V. Ασιάς.</p>
 </div>
 
 <div type="textpart" subtype="entry" n="ἄσκευος">
@@ -10622,7 +10666,11 @@ p. 456, 1 ἄστεκτα: ἀβάστακτα, οὐ δυνάμενα
 <div type="textpart" subtype="entry" n="ἀστενακτί">
 <p><lem>ἀστενακτί</lem> sine gemitu. Fr. 297 ὃς ἀστε-
 νακτὶ θύννος ὡς ἠνέσχετο.
-ἀστεργάνωρ υίros non amans. Pr. 898 ἀστερ-
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="ἀστεργάνωρ">
+<p><lem>ἀστεργάνωρ</lem> viros non amans. Pr. 898 ἀστερ-
 γάνορα παρθενίαν.</p>
 </div>
 
@@ -10728,7 +10776,6 @@ Ag. 4 ἄστρων κάτοιδα νυκτέρων ὁμήγυριν. 365
 1070 ἰωὰ δὴ κατ᾽ ἄστυ. Suppl. 495 ἀσφάλεια δ᾽ ἦ
 δι᾽ ἄστεως (ἄστεος superscr. in M) στείχουσι. 549
 Τεύθραντος ἄστυ Μυσῶν. Sept. 345 ἀν᾿ ἄστυ
-
 ἀστυάναξ urbis imperium tenens. Suppl.
 1019 ἀστυάνακτας μάκαρας θεούς.</p>
 </div>
@@ -10836,8 +10883,11 @@ quod Aeschylus diu in Sicilia commoratus πολλαῖς
 <div type="textpart" subtype="entry" n="ἀσώδης">
 <p><lem>ἀσώδης</lem> arenosus. Suppl. 31 χέρσῳ τῇδ᾽ ἐν
 ἀσώδει.
+</p>
+</div>
 
-Ασωπός Asopus, fuvius Boeotiae. Pers. 805
+<div type="textpart" subtype="entry" n="Ἀσωπός">
+<p><lem>Ἀσωπός</lem> Asopus, fuvius Boeotiae. Pers. 805
 ἔνθα πεδίον Ασωπός ῥοαῖς ἄρδει. Αg. 297 ὑπερ
 θοροῦσα πεδίον Ασωπού.
 </p>
@@ -10846,7 +10896,11 @@ quod Aeschylus diu in Sicilia commoratus πολλαῖς
 <div type="textpart" subtype="entry" n="ἄσωτος">
 <p><lem>ἄσωτος</lem> non saluber, perniciosus. Αg. 1597
 ἔσθει βοράν ἄσωτον, ὡς ὁρᾷς, γένει.
-Αταλάντη Atalanta. Sept. 526 b (versu ab
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="Ἀταλάντη">
+<p><lem>Ἀταλάντη</lem> Atalanta. Sept. 526 b (versu ab
 me suppleto) Παρθενοπαῖος Αρκάς, Αταλάντης
 γόνος, ut ab Sophocle OC. 1322 Parthenopaeus
 dicitur πιστὸς Αταλάντης γόνος.</p>
@@ -10874,7 +10928,11 @@ polatoris ἐπαφῶν ἀταρβεῖ χειρί.]
 <div type="textpart" subtype="entry" n="ἀταύρωτος">
 <p><lem>ἀταύρωτος</lem> tauro intacta. De puella virum
 nondum experta Ag. 244 ἁγνὰ δ᾽ ἀταύρωτος.
-άτεγκτος cuius cor emolliri nequit, durus,
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="ἄτεγκτος">
+<p><lem>ἄτεγκτος</lem> cuius cor emolliri nequit, durus,
 immotus. Fr. 413 άτεγκτος ἄνθρωπος παρηγορή-
 μασιν.</p>
 </div>
@@ -10929,8 +10987,7 @@ Schuetzius.</p>
 <pb n="48"/>
 
 <div type="textpart" subtype="entry" n="ἄτερθε">
-<p><lem>ἄτερθε</lem>
- vel άτερθεν sine. Suppl. 781 άτερθε
+<p><lem>ἄτερθε</lem> vel <lem>άτερθεν</lem> sine. Suppl. 781 άτερθε
 πτερύγων. 1011 οἰκεῖν λατρῶν ἄτερθεν.</p>
 </div>
 
@@ -11170,8 +11227,11 @@ trare non potest. Pr. 14 ἐγὼ δ᾽ ἄτολμός εἰμι συγ-
 Ζειν. — Αἰσχύλος Κρήσσαις (tr. 115).
 άτρακτος sagitta. Fr. 129 πληγέντ᾽ ἀτράκτῳ
 τοξικῷ τὸν ἀετόν.
+</p>
+</div>
 
-Ατρείδης Atrida. Ag. 123 cum diaeresi in
+<div type="textpart" subtype="entry" n="Ἀτρείδης">
+<p><lem>Ἀτρείδης</lem> Atrida. Ag. 123 cum diaeresi in
 metro dactylico Ατρείδας μαχίμους. 204 χθόνα
 βάκτροις ἐπικρούσαντας Ατρείδας. 310 Ατρει-
 δῶν ἐς τόδε σκήπτει στέγος. 1371 τρανῶς Ατρεί-
@@ -11280,7 +11340,11 @@ in sententiis sibi oppositis, μὲν — δ᾽ αὖ. Ag.
 ΚΗ. αὐλῶ πόλιν σε μὴ βιάζεσθαι τάδε. ΑΝ. αὐδῶ
 σε μὴ περισσὰ κηρύσσειν ἐμοί. [αὔδασον vitiose
 pro αὐδεν, quod v.]
-αὐδή του. Pers. 575 τεῖνε δὲ δυσβάϋκτον βολ-
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="αὐδή">
+<p><lem>αὐδή</lem> vox. Pers. 575 τεῖνε δὲ δυσβάϋκτον βολ-
 τιν τάλαιναν αὐδάν. 941 ἵετ᾽ αἰανῆ πάνδυρτον
 δύσθροον αὐδάν. Ch. 829 πατρὸς αὐδάν. Suppl.
 119 130 καρβἂν αὐδάν. 460 τίν᾽ αὐλὴν τήνδε
@@ -11316,22 +11380,33 @@ Pr. 964 τοιοῖσδε μέντοι καὶ πρὶν αὐθαδίσμασι
 
 <div type="textpart" subtype="entry" n="αὐθέντης">
 <p><lem>αὐθέντης</lem> sua manu perimens. De caede quae
-propria manu ft Ag. 1573 ἄλλην γενεὰν τρίβειν
+propria manu fit Ag. 1573 ἄλλην γενεὰν τρίβειν
 θανάτοις αὐθένταισι. Εum. 212 οὐκ ἂν γένοιθ᾽
 ὅμαιμος αὐθέντης φόνος.
-αυθημερόν eo ipso s. eodem die. Pers. 456
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="αὐθημερόν">
+<p><lem>αὐθημερόν</lem> eo ipso s. eodem die. Pers. 456
 αὐθημερόν φάρξαντες εὐχάλκοις δέμας ὅπλοισι.
 De accentu αυθημερόν (non αὐθήμερον, ut inter-
 dum scriptum in libris) v. Ioann. Alex. Τον. πα-
 ραγγ. p. 30, 25.
-αὖθι illico. Suppl. 828 loco lacero et corrupto,
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="αὖθι">
+<p><lem>αὖθι</lem> illico. Suppl. 828 loco lacero et corrupto,
 <pb n="50"/>
 
 
 ubi in M hae supersunt litterae ὂμ ... [ αὖθι κάκ-
 κας | νυ | δυΐαν βοὰν ἀμφαίνω.
+</p>
+</div>
 
-αὖθις rursus. Ag. 310 οὐ τάν ἑλόντες αὖθις
+<div type="textpart" subtype="entry" n="αὖθις">
+<p><lem>αὖθις</lem> rursus. Ag. 310 οὐ τάν ἑλόντες αὖθις
 ἀνθαλοῖεν ἄν. 569 τὸ μήποτ᾽ αὖθις μηδ᾽ ἀναστῆ
 ναι μέλειν. 1345 ὤμοι μάλ᾽ αὖθις, δευτέραν πε-
 πληγμένος. Ch. 128 θρέψασα τ᾽ αὖθις τῶνδε
@@ -11350,8 +11425,11 @@ ubi in M hae supersunt litterae ὂμ ... [ αὖθι κάκ-
 <div type="textpart" subtype="entry" n="αὐλή">
 <p><lem>αὐλή</lem> aula. Pr. 122 ὁπόσοι τὴν Διὸς αὐλὴν
 εἰσοιχνεῦσιν.
+</p>
+</div>
 
-Αὐλίς Aulis, oppidum Boeotiae. Ag. 191 πα-
+<div type="textpart" subtype="entry" n="Αὐλίς">
+<p><lem>Αὐλίς</lem> Aulis, oppidum Boeotiae. Ag. 191 πα-
 λιρρόχθοις ἐν Αυλίδος τόποις.
 </p>
 </div>
@@ -11376,10 +11454,18 @@ bus ipsos Aeschyli versus addit, quos v. fr. 341.
 <div type="textpart" subtype="entry" n="αὐξάνω">
 <p><lem>αὐξάνω</lem> augeo. Pers. 756 πατρῷον δ᾽ ὄλβον
 οὐδὲν αὐξάνειν.
-αὔξιμος augendi vim habens, ad incremen-
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="αὔξιμος">
+<p><lem>αὔξιμος</lem> augendi vim habens, ad incremen-
 tum dandum aptus. Fr. 49 βιοτήν αὔξιμον ἐμ-
 ψίουσα. V. ἐμψίω.
-αὔξω augeo.
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="αὔξω">
+<p><lem>αὔξω</lem> augeo.
 μείζον αὔξεται βροτοῖς.
 </p>
 </div>
@@ -11391,7 +11477,11 @@ Suppl. 337 σθένος μὲν οὕτως
 ἄϋπνος insomnis. Pr. 32 ὀρθοστάδην, ἄϋπνος,
 οὐ κάμπτων γόνυ. [Sept. 206 ἀΰπνων vitiose pro
 ἄπυον. V. ἠπύω.]
-αὔρα aura. Pr. 132 κραιπνοφόροι δέ μ᾽ ἔπεμ-
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="αὔρα">
+<p><lem>αὔρα</lem> aura. Pr. 132 κραιπνοφόροι δέ μ᾽ ἔπεμ-
 ψαν αύραι. Αg. 691 ἔπλευσε Ζεφύρου γίγαντος
 αὔρα. Suppl. 371 ἀλαθεὶς εὐρείαις εἶν (haec cor-
 rupta) αὔραις. Ag. 147 χρονίας ἐχενηίδας αὔρας,
@@ -11450,7 +11540,11 @@ stinctu fungens. Ch. 757 νέα δὲ νηδὺς αὐτάρ
 κης τέκνων. ubi schol. ἡ γὰρ νέα νηδὺς τῶν τέ-
 κνων ἑαυτῇ ἀρκεῖν καὶ βοηθεῖν βούλεται, ὅ ἐστιν
 ἀνύειν βούλεται τὰς ἐπιθυμίας.
-αὖτε rursus, autem. Sept. 5 εἰ δ᾽ αὖθ᾽, δ μὴ γέ-
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="αὖτε">
+<p><lem>αὖτε</lem> rursus, autem. Sept. 5 εἰ δ᾽ αὖθ᾽, δ μὴ γέ-
 νοιτο, συμφορὰ τύχοι. Pers. 183 ἡ μὲν πέπλοισι
 Περσικοῖς ἡσκημένη, ἡ δ᾽ αὖτε Δωρικοίσιν. Αg.
 330 τοὺς δ᾽ αὖτε νυκτίπλαγκτος ἐκ μάχης πόνος
@@ -11483,7 +11577,7 @@ Ag.927 χωρίς ποδοψήστρων τε καὶ τῶν ποικίλων
 
 <div type="textpart" subtype="entry" n="αὐτίκα">
 <p><lem>αὐτίκα</lem> statim. Αg. 1596 ὁ δ᾽ αὐτῶν αὐτ
-τίκ᾽ ἀγνοίᾳ λαβών. Ch. 1020 μόχθος δ᾽ ὁ μὲν αὐτ
+τίκ᾽ ἀγνοίᾳ λαβών. Ch. 1020 μόχθος δ᾽ ὁ μὲν αὐ
 τίχ᾽, ὁ δ᾽ ἥξει.
 </p>
 </div>
@@ -11530,7 +11624,11 @@ Hermannus) ἄνω φρόνημά πως αὐτόθεν ἐξέπρα-
 <p><lem>αὐτόθηκτος</lem> per se acutus. Fr. 371 λαβὼν
 γὰρ αὐτόθακτον Ευβοϊκόν ξίφος. αὐτόθηκτον
 Xylander.
-αὐτόκλητος α nemine vocatus nisi ab se ipso.
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="αὐτόκλητος">
+<p><lem>αὐτόκλητος</lem> a nemine vocatus nisi ab se ipso.
 Eum. 170 μυχὸν ἔχρανας αὐτόσσυτος αὐτόκλητος.
 </p>
 </div>
@@ -11606,11 +11704,12 @@ Euseb. Pr. Ev. 7 p. 327 a.
 
 <div type="textpart" subtype="entry" n="αὐτοπήμων">
 <p><lem>αὐτοπήμων</lem> sua mala habens. Sept. 916
-δαϊκτὴρ γόος αὐτόστονος αὐτοπήμων,
+δαϊκτὴρ γόος αὐτόστονος αὐτοπήμων.
+</p>
+</div>
 
-
-
-αὐτόπρεμνος totus, cum ipsa radice. Eum.
+<div type="textpart" subtype="entry" n="αὐτόπρεμνος">
+<p><lem>αὐτόπρεμνος</lem> totus, cum ipsa radice. Eum.
 401 γῆν — ἣν ἔνειμαν αὐτόπρεμνον ἐς τὸ πᾶν 
 ἐμοί.
 </p>
@@ -11628,7 +11727,11 @@ pturae vitium animadverterat Pauwius, qui αὐ-
 τὸν εἰσακούομεν coniecit non sentiens εἰσακούο-
 μεν huic loco minus aptum esse quam verbum sim-
 plex ἀκούομεν.
-αὐτορέγμων αb ipso confectus, paratus. He-
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="αὐτορέγμων">
+<p><lem>αὐτορέγμων</lem> ab ipso confectus, paratus. He-
 sychius, αὐτορέγμων: ἑαυτὸν ἐργαζόμενος. αὐτο-
 ρέγμονος πότμου: ὅσον ἑαυτὸν ἔρεζε καὶ κατευ-
 θὺς ἑαυτορέγμονος, παρὰ τὸ ὀρέγειν τὴν χεῖρα
@@ -11838,8 +11941,11 @@ sine semente fruges ferens. Fr. 198 αὐτόσποροι
 veniens. Eum. 170 μυχὸν ἔχρανας αὐτόσσυτος,
 αὐτόκλητος. αὐτόσσυτον per αὐτοκέλευστον exp.
 Hesychius ex Sophocle (fr. 503).
-Sept. 916
-αὐτόστονος sua mala gemens.
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="αὐτόστονος">
+<p><lem>αὐτόστονος</lem> sua mala gemens. Sept. 916
 δακτὴρ γόος, αὐτόστονος, αὐτοπήμων.
 </p>
 </div>
@@ -11912,7 +12018,6 @@ apud Aeschylum in una fabula sunt exempla, Pr.
 vicem interficientium. Ag. 1091 πολλὰ συνί-
 στορα αὐτοφόνα (αὐτόφονα ed. Ald. κακά
 αυτοφόνως se ipsum interficiendo. Suppl.
-
 65 αὐτοφόνως ὤλετο πρὸς χειρὸς ἔθεν.
 </p>
 </div>
@@ -11963,7 +12068,11 @@ Eum. 561 τὸν οὔποτ᾽ αὐχοῦντ' ἰδὼν ἀμαχάνοις
 δύαις λαπαδνόν. Suppl. 329 ἐπεὶ τίς ηὔχει τήνδ'
 ἀνέλπιστον φυγὴν κέλσειν; Euripidis aliorum-
 que exempla v. in Thes. vol. 1, 2 p. 2589.
-[αὔχη gloriatio, iactatio. Hesychius αὐχάν:
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="αὔχη">
+<p>[<lem>αὔχη</lem> gloriatio, iactatio. Hesychius αὐχάν:
 καύχησιν. Rectus accentus est αὔχη, ut κενεό-
 φρονες αὖχαι ap. Pind. Nem. 11, 39. Dativum
 αὐχαῖς in fr. defecto 152 supplendum esse coniecit
@@ -12167,7 +12276,7 @@ Pers. 15 οὔτε τις ἱππεὺς ἄστυ το Περσῶν ἀφικ�
 
 <div type="textpart" subtype="entry" n="ἀφίκτωρ">
 <p><lem>ἀφίκτωρ</lem> supplex. Suppl. 241 κατά νόμους
-ἀφικτόρων. || De love supplicum patrono Suppl. 1
+ἀφικτόρων. || De Iove supplicum patrono Suppl. 1
 Ζεὺς μὲν ἀφίκτωρ ἐπίδοι προφρόνως στόλον ημέ-
 τερον.</p>
 </div>
@@ -12219,9 +12328,17 @@ habet adiectivum ἀφνίδιος, etsi nulla alia eius ex-
 empla reperta sunt praeter duo recentissimorum
 scriptorum, Nicephori et Pseudo-Callisthenis, in
 Thes. memorata vol. 1, 2 p. 2682.
-άφνω subito. Fr. 195 δυσχειμέρῳ πέμφιγι συ-
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="ἄφνω">
+<p><lem>ἄφνω</lem> subito. Fr. 195 δυσχειμέρῳ πέμφιγι συ-
 στρέψας ἄφνω.
-άφοβος non metuens. Pr. 903 ἐμοὶ δ᾽ ὅτι μὲν
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="ἄφοβος">
+<p><lem>ἄφοβος</lem> non metuens. Pr. 903 ἐμοὶ δ᾽ ὅτι μὲν
 ὁμαλὸς ὁ γάμος | ἄφοβος οὐ δέδια, ubi sententia
 postulat ἐμοὶ δ᾽ ἔτι μὲν ὁμαλὸς ἄγαμος | ὁ βίος ἐν
 πατρὸς δόμοις, de quo dixi in Praef. Prom. ed.
@@ -12239,9 +12356,14 @@ Londin a. 1866 p. XV.]
 <div type="textpart" subtype="entry" n="ἀφόρμικτος">
 <p><lem>ἀφόρμικτος</lem> lyra carens, non ad citharam
 canendus. Eum. 332 315 ὕμνος ἐξ Ἐρινύων, δέσ-
-μιος φρενῶν, ἀφόρμικτος.
+μιος φρενῶν, 
 <col/>
-[ἄφορος sterilis. Eum. 784 814 ἰὸν ἀντιπεν-
+ἀφόρμικτος.
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="ἄφορος">
+<p>[<lem>ἄφορος</lem> sterilis. Eum. 784 814 ἰὸν ἀντιπεν-
 θῆ μεθεῖσα καρδίας σταλαγμὸν χθονιαφόρον, quod
 priores editores χθονὶ ἄφορον scripserant, Heim-
 soethius σταλάξω χθονὶ φθοράν.]
@@ -12274,8 +12396,11 @@ vov, ubi apogr. plura ἀφραδμόνως. Ag. 290 οὐδ᾽
 ροι (lovis) κατιδεῖν ἄφραστοι. | ineffabilis. Pers.
 165 ταῦτά μοι διπλῆ μέριμν᾽ ἄφραστός ἐστιν ἐν
 φρεσί.
+</p>
+</div>
 
-Αφροδίτη Venus. Αg. 419 εὐμόρφων δὲ
+<div type="textpart" subtype="entry" n="Ἀφροδίτη">
+<p><lem>Ἀφροδίτη</lem> Venus. Αg. 419 εὐμόρφων δὲ
 κολοσσῶν ἔχθεται χάρις ἀνδρὶ, ὀμμάτων δ᾽ ἐν
 ἀχηνίαις ἔρρει πᾶσ᾽ Ἀφροδίτα, i. e. omnis gratia
 amorem excitans. Suppl. 554 τὰν Αφροδίτας
@@ -12325,12 +12450,17 @@ Pr. 903 μηδὲ κρεισσόνων ἐμοῦ θεῶν ἀφυκτον ὄ�
 <div type="textpart" subtype="entry" n="ἄφωνος">
 <p><lem>ἄφωνος</lem> sine voce. Pers. 819 θίνες νεκρῶν —
 ἄφωνα σημανοῦσιν ὄμμασιν βροτῶν.
-ἀχά ἀχέω et αχώ. V. ἠχή ἠχέω. ἠχώ.
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="ἀχά">
+<p><lem>ἀχά</lem>
+ ἀχέω et αχώ. V. ἠχή ἠχέω. ἠχώ.
 </p>
 </div>
 
 <div type="textpart" subtype="entry" n="Ἀχανικός">
-<p><lem>Ἀχανικός</lem> Achaicus Ag.184 ήγεμὼν ὁ πρέσβυς
+<p><lem>Ἀχανικός</lem> Achaicus Ag.184 ἡγεμὼν ὁ πρέσβυς
 νεῶν Ἀχανικών. 624 ἁνὴρ ἀφαντος ἐξ Ἀχαι-
 κοῦ στρατοῦ. Recte scriptum Αχαικῶν et Αχαι-
 κού, non Αχαϊκ—, ut interdum in libris Euripidis
@@ -12371,11 +12501,14 @@ lante restituit Elmsleius.</p>
 <div type="textpart" subtype="entry" n="ἀχείματος">
 <p><lem>ἀχείματος</lem> non actus a tempestatibus. Suppl.
 136 ἀχείματόν μ᾿ ἔπεμπε σὺν πνοαῖς φίλαις.
-Αχελωΐς Achelois.
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="Ἀχελωΐς">
+<p><lem>Ἀχελωΐς</lem> Achelois. De insulis Pers. 866
 οἷαι Στρυμονίου πελάγους Αχελωΐδες εἰσὶ πάροι.
-De insulis Pers. 866
-και Θρηκίων ἐπαύλων. ubi schol. αἱ δίυγροι· -
-χελῷον γὰρ πᾶν ὕδωρ λέγουσιν. V. Thes. vol. 1, 2
+και Θρηκίων ἐπαύλων. ubi schol. αἱ δίυγροι· 
+Ἀχελῷον γὰρ πᾶν ὕδωρ λέγουσιν. V. Thes. vol. 1, 2
 p. 2745.
 Αχερούσιος Acherusius. Αg. 1160 ἀμφὶ Κω-
 κυτόν τε κἀχερουσίους ὄχθους.
@@ -12407,9 +12540,8 @@ forma passiva ἠχθέσθην, Pr. 390 τούτου φυλάσ-
 </div>
 
 <div type="textpart" subtype="entry" n="ἄχθος">
-<p><lem>ἄχθος</lem> onus, res molesta.
+<p><lem>ἄχθος</lem> onus, res molesta. Pr. 350 ἄχθος οὐκ
 εὐάγκαλον. Αg. 165 εἰ τὸ μάταν ἀπὸ φροντίδος
-Pr. 350 ἄχθος οὐκ
 ἄχθος χρὴ βαλεῖν ἐτητύμως. 627 ἢ χεῖμα, κοινὸν
 ἄχθος, ἥρπασε στρατοῦ. 835 ἄχθος διπλοίζει τῷ
 πεπαμένῳ νόσον. Ch. 842 καὶ τόδ᾽ ἀμφέρειν δό-
@@ -12419,12 +12551,20 @@ Pr. 350 ἄχθος οὐκ
 949 <q/>de quo v. s. v. διόσδοτος.]
 Αχιλλεύς Achilles. Fr. 132 βέβληκ᾽ Ἀχιλλεὺς
 δύο κύβω. 128 φαίδιμ Αχιλλεϋ. 131 Φθιώτ᾽
-Αχιλλεϋ.
-αχλύς tenebrae. Pers. 669 Στυγία γάρ τις ἐπ᾿
+Ἀχιλλεῦ.
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="ἀχλύς">
+<p><lem>ἀχλύς</lem> tenebrae. Pers. 669 Στυγία γάρ τις ἐπ᾿
 ἀχλὺς πεπόταται. Εum. 379 καὶ δνοφεράν τινα
 ἀχλὺν κατὰ δώματος αὐδᾶται πολύστονος φάτις.
-άχνη fumus. Etym. Μ. p. 182, 56 άχνη.
-Αἰσχύλος δὲ (fr.364) τὸν καπνόν. Hesychius άχνη
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="ἄχνη">
+<p><lem>ἄχνη</lem> fumus. Etym. Μ. p. 182, 56 άχνη.
+Αἰσχύλος δὲ (fr.364) τὸν καπνόν. Hesychius ἄχνη
 πυρός: ὁ καπνός.</p>
 </div>
 
@@ -12438,13 +12578,10 @@ Pr. 350 ἄχθος οὐκ
 </div>
 
 <div type="textpart" subtype="entry" n="ἄχος">
-<p><lem>ἄχος</lem>
- moeror, dolor.
-(ἄγος Auratus) πορσύνεται;
+<p><lem>ἄχος</lem> moeror, dolor. Αg. 1101 τί τόδε νέον
 ἄχος μέγα; 1251 τίνος πρὸς ἀνδρὸς τοῦτ᾽ ἄχος
-Αg. 1101 τί τόδε νέον
+(ἄγος Auratus) πορσύνεται; 1480 τὸ παλαιὸν
 ἄχος. Ch. 416 ἀπέστασεν (hoc corruptum) ἄχος.
-1480 τὸ παλαιὸν
 γένος. Sept. 949 διοσδότων ἀχέων (ἀχθέων Herm.).
 635 θεοστυγήτῳ δ᾽ ἄχει βροτῶν ἀτιμωθέν οἴχεται
 Pr. 271 τὰ μὲν παρόντα μὴ δύρεσθ᾽ ἄχη. Sept.
@@ -12472,11 +12609,10 @@ polatoris όπως καινά τε κλύης νέα τ᾽ ἄχη.
 
 <div type="textpart" subtype="entry" n="ἀψευδής">
 <p><lem>ἀψευδής</lem> verax, non fallens. Sept. 26 ἀψευ-
-δεῖ τέχνη (Amphiarai vatis). Ch. 559 άναξ Απόλ
-κας ἀμφὶ κόσμον ἀψευδῆ λόγον.
+δεῖ τέχνη (Amphiarai vatis). Ch. 559 άναξ Απόλ-
 λων, μάντις ἀψευδής τό πρίν. Suppl. 246 εἴρη-
+κας ἀμφὶ κόσμον ἀψευδῆ λόγον. 580 ἀψευδεῖ
 λόγῳ. Fr. 281, 5 τὸ Φοίβου θεῖον ἀψευδὲς στόμα.
-580 ἀψευδεῖ
 Pr. 1021 μακρὸν δὲ μῆκος ἐκτελευτήσας χρόνου
 ἄψορρον retrograde, retro vestigia referendo.
 ἄψορρον ἥξεις ἐς φάος. Homeri et tragicorum
@@ -12485,16 +12621,21 @@ exempla v. in Thes, vol. 1, 2 p. 2785.</p>
 
 <div type="textpart" subtype="entry" n="ἀψυχία">
 <p><lem>ἀψυχία</lem> animi defectio. Sept. 259 ἀψυχίᾳ γὰρ
-καὶ μάχην ἀψυχίᾳ.
 γλῶσσαν ἁρπάζει φόβος. 383 σαίνειν μόρον τε
-ἄψυχος exanimis.
+καὶ μάχην ἀψυχίᾳ.
+</p>
+</div>
+
+<div type="textpart" subtype="entry" n="ἄψυχος">
+<p><lem>ἄψυχος</lem> exanimis. Sept. 192 διερροθήσατ'
 ἄψυχον κάκην.
-Sept. 192 διερροθήσατ
-34 ἀωρόνυκτον ἀμβόαμα.</p>
+</p>
 </div>
 
 <div type="textpart" subtype="entry" n="ἀωρόνυκτος">
-<p><lem>ἀωρόνυκτος</lem> intempesta nocte factus. Ch.</p>
+<p><lem>ἀωρόνυκτος</lem> intempesta nocte factus. Ch.
+
+34 ἀωρόνυκτον ἀμβόαμα.</p>
 </div>
 
 <div type="textpart" subtype="entry" n="ἄωρος">
