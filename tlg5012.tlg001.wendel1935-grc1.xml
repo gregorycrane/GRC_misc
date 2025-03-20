@@ -17,13 +17,53 @@
 <front><p>Two passages follow. The first contains OCR-generated text in which some Greek words have not been recognized as Greek. The second assumes all words are Greek. Use passage 2 to correct missed Greek words in passage 1.
 
 Do not change the formatting. Just correct errors. Put results in a single text box from which I can cut and paste.
+</p><p>
+Stephanus of Byzantium, Meineke: https://catalog.hathitrust.org/Record/011157862
 </p><p>Apollonii Sophistae Lexicon Homericum, ex recensione Immanuelis Bekker: https://hdl.handle.net/2027/uc1.b4034481
+</p><p>Etymologicum Gudianum quod vocatur: Stefani, Eduardo Luigi de, 1869-, editor. https://catalog.hathitrust.org/Record/001221834
 </p><p>Etymologicum Gudianum, Sturz 1818: https://hdl.handle.net/2027/inu.30000114128220
+</p><p>Anecdota Graeca e codd. manuscriptis Bibliothecarum Oxoniensium / descripsit J.A. Cramer: https://catalog.hathitrust.org/Record/001222030 
 </p><p>
 Etymologicon Magnum: https://hdl.handle.net/2027/coo.31924105726529 (cited by page+line in the Greek text)</p><p>
+Eustathius: this scan of Stallbaum seems to yield reasonable OCR: https://hdl.handle.net/2027/nyp.33433081603916
+
+</p><p>
+Hyginus Fabulae, Mauricius Schmidt 1872: https://hdl.handle.net/2027/hvd.32044009881731
+</p><p>
 Toup Theocritus 1780: https://hdl.handle.net/2027/njp.32101066875830
-</p></front>
+</p>
+<list>
+<head>CONSPECTUS VIRORUM DOCTORUM, qui nomine solo laudantur.</head>
+
+<item><term xml:id="Deicke">Deicke</term>  Ludovicus Deicke in schedis manu scriptis, cf. p. VIII. XXIV.</item>
+
+<item><term xml:id="Deicke">Deicke</term>  cum numero paginae — idem in diss. Gottingensi (cf. p. VII).</item>
+
+<item><term xml:id="Fr.">Fr.</term>  — Hermannus Ftraenkel, cf. p. X. XXV.</item>
+
+<item><term xml:id="Hoelzlin">Hoelzlin</term>  Ap. Rh. Argonauticorum libri IV ab Jeremia Hoelzlino in Lat. conversi... Lugd. Bat. 1641. insunt praeter Hoelzlini multas et egregias coniecturas etiam (vol. II p. 363—368) Lucae Holstenii observationes.</item>
+
+<item><term xml:id="K">K</term>  — Scholia vetera e cod. Laurentiano ed. Henricus Keil (Ap. Rh. Argonautica, em. app. crit. et prol. adi. R. Merkel. Lips. 1854, p. 299—562).</item>
+
+<item><term xml:id="R">R</term>  — Otto Regenbogen, cf. p. X.</item>
+
+<item><term xml:id="Schaefer">Schaefer</term>  Ap. Rh. Argonautica ex tec. et cum notis Rich. Fr. Phil. Brunckii. Ed. nova auct. et corr. T. 2. Lips. 1813. P. 1—340: Scholia vetera in Ap. Rh. ex cod. Reg. Paris. 2727 (ed. Godofredus Henricus Schaefer).</item>
+
+<item><term xml:id="Steph.">Steph.</term>  Ap. Rh. Argonauticon libri IV. Scholia vetusta in eosdem libros ... cum annotat. Henrici Stephani. (Par.) 1574.</item>
+
+<item><term xml:id="W">W</term>  Carolus Wendel in hac editione.</item>
+
+<item><term xml:id="W">W [0-9]+</term>  cum numero paginae idem in commentatione de scholiorum traditione (cf. p. IX).</item>
+
+<item><term xml:id="Wellauer">Wellauer</term>  — Ap. Rh. Argonautica, ad fidem libr. mss. et edd. ant. rec. . . . scholia aucta et emend. add. A. Wellauer. Lips. 1828.</item>
+
+<item><term xml:id="Wil1">Wil.</term>  — Udalricus de Wilamowitz-Moellendorff.</item>
+
+<item><term xml:id="Wil2">Wil ad l.</term> idem in suo editionis Keilianae exemplo, cf. p. IX. XXIV.</item>
+</list>
+</front>
 <body>
+<pb n="1"/>
 <div type="textpart" subtype="book" n="1">
 <p>Suid. 3419: Ἀπολλώνιος Ἀλεξανδρεύς, ἐπῶν ποιητής, διατρίψας ἐν Ῥόδῳ, υἱὸς Σιλλέως, ἐπὶ Πτολεμαίου τοῦ Εὐεργέτου ἐπικληθέντος (ἐπὶ ἐπικληθὲν post Τιμάρχου leguntur, unde revocavit W), μαθητὴς Καλλιμάχου, σύγχρονος Ἐρατοσθένους καὶ Εὐφορίωνος καὶ Τιμάρχου, καὶ διάδοχος Ἐρατοσθένους γενόμενος ἐν τῇ προεδρίᾳ τῆς ἐν Ἀλεξανδρείᾳ βιβλιοθήκης.</p>
 <p><hi rend="italic">Pap. Oxyrh. 1241, II</hi></p>
@@ -53,7 +93,7 @@ lac. ind. W puncto post μαθητής posito, cf. R. Linde De div. recensibus A
 κατελ- LG : ἀπελ- P.
 </p>
 <p><ref target="13"/>
-ἐπικξέσαι καὶ ὀρθῶσαι  LG : ἐπιξέσαντα P : ἐπιξέσαντα διρθῶσθαι Ε.
+ἐπιξέσαι καὶ ὀρθῶσαι  LG : ἐπιξέσαντα P : ἐπιξέσαντα διρθῶσθαι Ε.
 </p>
 <p><ref target="14"/>
 ἑαυτὸν L : αὐτὸν GP.
@@ -63,7 +103,7 @@ lac. ind. W puncto post μαθητής posito, cf. R. Linde De div. recensibus A
 </p>
 <p><ref target="18"/>
 λ 235—259  
-Diod.IV 68, 1—3 
+Diod. IV 68, 1—3 
 Apoll. Bibl. I 90 sqq. 
 
 </p>
@@ -74,7 +114,9 @@ sch. μ 69
 <p><ref target="1"/>
 δὲ K : τε </p>
 <p><ref target="3"/>
-vita P post arg. BP collocatur ἄλλως praem. P — Ἄπ. β. LP : ἐκ παρομοίου G</p>
+vita P post arg. BP collocatur</p>
+<p>ἄλλως praem. P</p>
+<p>Ἄπ. β. LP : ἐκ παρομοίου G</p>
 <p><ref target="6"/>
 γραμματιστῇ Wil. ad l. 
 </p>
@@ -83,20 +125,21 @@ vita P post arg. BP collocatur ἄλλως praem. P — Ἄπ. β. LP : ἐκ π
 <p><ref target="9"/>
 αὑτοῦ K : αὐτοῦ</p>
 <p><ref target="11"/>
-ἐν Ἀλεξανδρείᾳ L,G : εἰς Ἀλεξάνδρειαν P</p>
+ἐν Ἀλεξανδρείᾳ LG : εἰς Ἀλεξάνδρειαν P</p>
 <p><ref target="13"/>
 <add>προστασίας</add> ante τῶν βιβλ. suppleri vult Meineke Callim. Hymn. et epigr. 1861, XVII 
 add. Wil. ad l.</p>
 <p><ref target="18"/>
 καὶ Ἀλκ. (G)H : om. LP. ἐποίησεν ἐκ τοῦ Π-ος L(G) : ἔτεκε τῷ Π-ι P</p>
 <p><ref target="19"/>
-γαμεῖ Κρηθέα τὸν Αἰ. παῖδα L,G : γαμεῖται Κρηθεῖ τῷ Αἰ. παιδί Ρ ποιεῖ ἐξ αὐτοῦ L,G : τίκτει αὐτῷ P</p>
+γαμεῖ Κρηθέα τὸν Αἰ. παῖδα LG : γαμεῖται Κρηθεῖ τῷ Αἰ. παιδί Ρ 
+ποιεῖ ἐξ αὐτοῦ LG : τίκτει αὐτῷ P</p>
 <p><ref target="22"/>
 ἐκδίδοται LP : δίδοται G</p>
 <p><ref target="23"/>
-τὴν ἰδίαν τῷ L,G : τῷ ἑαυτοῦ P</p>
+τὴν ἰδίαν τῷ LG : τῷ ἑαυτοῦ P</p>
 <p><ref target="24"/>
-Θεσσαλίας LP : βασιλείας G οὗ L,G : αὐτὸν P</p>
+Θεσσαλίας LP : βασιλείας G οὗ LG : αὐτὸν P</p>
 
 <pb n="3"/>
 
@@ -108,34 +151,35 @@ Hyg. Fab. 12. 13
 Serv. auct. Verg. Buc. IV 34 
 </p>
 <p><ref target="19"/>
-sch. AH 86 (Philostephanus) 
+sch. A Η 86 (Philostephanus) 
 Apoll. Bibl. I 80—83
 Hyg. Fab. 1—3
 Zenob. IV 38
 </p>
 <note/>
 <p><ref target="1"/>
-ὑποστρέψει Platt Jours. of Phil. 69, 1919, 4: -έφει L,G : -αφῇ P</p>
+ὑποστρέψει Platt Jours. of Phil. 69, 1919, 4: -έφει LG : -αφῇ P</p>
 <p>ἀπὸ LP : ἐκ τοῦ G</p>
 <p><ref target="2"/>
 ἐπιόντα AF : ἀπ-</p>
 <p><ref target="3"/>
-τεϑνήξεται L,G : -εσθαι P</p>
+τεϑνήξεται LG : -εσθαι P</p>
 <p>αὐτοῦ G : -όν LP</p>
 <p><ref target="7"/>
-βουλομένην G,P : om. L</p>
+βουλομένην GP : om. L</p>
 <p><ref target="9"/>
 κατὰ μέσον — καταλιπὼν L : καὶ κατὰ τὸ μέσον — καταλιπὼν G : κατὰ δὲ τὸ μέσον — ἀποβάλλει P</p>
 <p><ref target="10"/>
-ἐπὶ τὴν πόλιν O,P : ἐπὶ τῇ πόλει L : εἰς τὴν πόλιν A</p>
+ἐπὶ τὴν πόλιν GP : ἐπὶ τῇ πόλει L : εἰς τὴν πόλιν A</p>
 <p><ref target="11"/>
-θεας. οὖν — ὁ ΤΤ. L : θεας. δέ --- ὁ Π. P : ὃς θεας. G</p>
+θεας. οὖν — ὁ P. L : θεας. δέ --- ὁ Π. P : ὃς θεας. G</p>
 <p><ref target="14"/>
-λαμβάνεις L,G : λήψῃ P</p>
+λαμβάνεις LG : λήψῃ P</p>
 <p><ref target="17"/>
-ἀναιρεῖσθαι L,G : -ρεθῆσθαι P : -ρήσεσθαι A ναυαγήσοντα L : -ῆσαι G : -ήσειν P</p>
+ἀναιρεῖσθαι LG : -ρεθῆσθαι P : -ρήσεσθαι A 
+ναυαγήσοντα L : -ῆσαι G : -ήσειν P</p>
 <p><ref target="18"/>
-τὸ L,G: τὰ P</p>
+τὸ LG: τὰ P</p>
 <p><ref target="22"/>
 ἐπεβούλευε G,P : -ευσε L</p>
 
@@ -143,12 +187,13 @@ Zenob. IV 38
 
 
 <p><ref target="18"/>
-hic catalogus totus pendet ex Apollonii versibus 1 23-228
+hic catalogus totus pendet ex Apollonii versibus I 23-228
 Pind. Pyth. IV 171—191 
 Diod. IV 41, 2 
 Apoll. Bibl. I 111—113 
 Val. Flacc. I 553—485
-Hyg. Fab. 14 Orph. Arg. 118—229 cf. O. Jessen Prol. in catalogum Argonautarum, Diss. Berol. 1889
+Hyg. Fab. 14 
+Orph. Arg. 118—229 cf. O. Jessen Prol. in catalogum Argonautarum, Diss. Berol. 1889
 </p>
 <note/>
 <p><ref target="2"/>
@@ -205,7 +250,7 @@ immo Ἄργος Ἀρεστορίδης I 112</p>
 <pb n="6"/>
 
 <p><ref target="3"/>
-Ἡρακλῆς Διός et Ναύπλιος Κλ. ἢ TToc. post Ἰάςων Αἴς. traiecti agmen
+Ἡρακλῆς Διός et Ναύπλιος Κλ. ἢ Πoc. post Ἰάςων Αἴς. traiecti agmen
 Argonautarum claudunt in G</p>
 
 <pb n="7"/>
@@ -214,8 +259,7 @@ Argonautarum claudunt in G</p>
 
 <p><ref target="17"/>
 Et. Gen. (AB) Ἀργώ: ἡ ναῦς: ἀφ᾽ ἧς (Voss., οὗ AB) καὶ οἱ Ἀργοναῦται. εἴρηται δέ, ὅτι Ἄργος αὐτὴν κατεσκεύασεν, ἢ ὅτι ἐν Ἄργει τῇ πόλει κατεσκευάσϑη, ὡς ἱστορεῖ Ἡγήσανδρος (verba ὡς --- Ἡγ. post κατεσκεύασεν leguntur, trai. W). cf. W 82 
-Tz. Lyc. 286, 1 Sch. Ἀργῴου: Ἀργὼ ἐκλήϑη ἡ τοῦ Ἰάσονος ναῦς, ἢ ὅτι κατὰ Ἀπολλώνιον Ἄργος ὁ Ἕστορος ἢ Ἀλέκτορος υἱὸς ἐναυπήγησεν
-ἢ ὅτι ἐν Ἄργει ἐναυπηγήϑη, ὥς φησιν Ἡγήσανδρος ὁ Σαλαμίνιος. cf. W 64. 67
+Tz. Lyc. 286, 1 Sch. Ἀργῴου: Ἀργὼ ἐκλήϑη ἡ τοῦ Ἰάσονος ναῦς, ἢ ὅτι κατὰ Ἀπολλώνιον Ἄργος ὁ Ἕστορος ἢ Ἀλέκτορος υἱὸς ἐναυπήγησεν ἢ ὅτι ἐν Ἄργει ἐναυπηγήϑη, ὥς φησιν Ἡγήσανδρος ὁ Σαλαμίνιος. cf. W 64. 67
 sch. Eur. Med. 1 
 Diod. IV 41,35 
 Amm. Marc. XXII 8, 15 
@@ -286,10 +330,9 @@ P add. in fine verba <q>ταῦτα δέ φησιν Ἡρόδωρος</q> (<ref>
 <p><ref target="18"/>
 ἐπήτριμοι ἤγουν ἀλλεπάλληλοι in fine add. A</p>
 <p><ref target="19"/>
-ᾗ L: </p>
+ᾗ L: ᾧ P</p>
 <p><ref target="21"/>
-A add. in fine e sch.</p>
-<p>23/25. μάντις ὢν καὶ προγνοὺς δύνασθαι αὐτοὺς τὰς Σειρῆνας παρελθεῖν</p>
+A add. in fine e sch. 23/25: μάντις ὢν καὶ προγνοὺς δύνασθαι αὐτοὺς τὰς Σειρῆνας παρελθεῖν</p>
 
 <pb n="10"/>
 
@@ -304,7 +347,7 @@ Strab. IX 443
 
 </p>
 <p><ref target="15"/>
-sch. ΒΑ 266, AM 128
+sch. Β Α 266, A Μ 128
 Diod. IV 69, 1.2, V 61,3,
 </p>
 <p><ref target="19"/>
@@ -319,9 +362,7 @@ Hyg. Fab. 14 (44, 9 Schm.)
 
 </p>
 <p><ref target="4"/>
-Μαγνησίας Dittrich
-
-Jahrb. f. cl. Ph. 143, 1891, 792, propter Steph. Byz. s. v. Πειρεσία: Μακεδονίας
+Μαγνησίας Dittrich Jahrb. f. cl. Ph. 143, 1891, 792, propter Steph. Byz. s. v. Πειρεσία: Μακεδονίας
 
 </p>
 <p><ref target="6"/>
@@ -415,13 +456,12 @@ Hyg. Fab. 14 (44, 23 Schm.)
 Steph. Byz. Ἄμφρυσσος
 </p>
 <p><ref target="6"/>
-Steph. Byz. Γυρτών: πόλις τῆς θεσσαλίας καὶ Περραιβίας, ἣν Ὅμηρος Γυρτώνην καλεῖ
-ὡς Ἰτώνην καὶ Ἰτῶνα. ἀπὸ Γυρτῶνος τοῦ Φλεγύου ἀδελφοῦ, ὅστις αὐτὴν ἔκτισε.
+Steph. Byz. Γυρτών: πόλις τῆς θεσσαλίας καὶ Περραιβίας, ἣν Ὅμηρος Γυρτώνην καλεῖ ὡς Ἰτώνην καὶ Ἰτῶνα. ἀπὸ Γυρτῶνος τοῦ Φλεγύου ἀδελφοῦ, ὅστις αὐτὴν ἔκτισε.
 cf. W 92
 </p>
 <p><ref target="9"/>
 Sch. A Α 264, Pap. Oxyrhynchus 1611, 38–97 (Acusilaus 2 fg 22 J.)
-Apoll. Epit. 122
+Apoll. Epit. I 22
 Hyg. Fab. 14 (45, 3 Schm.)
 Plut. De absurd. Stoic. opin. 1 (1057 D)
 </p>
@@ -469,7 +509,8 @@ Steph. Byz. Κτιμένη: πόλις θετταλίας ὑπὸ Πηλέως 
 καὶ <add>Ἀπολλώνιος</add> "κτιμένην Δολοπηίδα". cf. W 92
 </p>
 <p><ref target="9"/>
-Steph. Byz. Ὀπόεις sch. 1776/81 e
+Steph. Byz. Ὀπόεις 
+sch. 1776/81 e
 </p>
 <p><ref target="14"/>
 Hyg. Fab. 14 (48, 20 Schm.)
@@ -514,7 +555,7 @@ Oileus hostes etiam tum fugae dat, cum iam victores esse videntur
 
 </p>
 <p><ref target="1"/>
-Theophr. Hist. pl. VIII 8, 5
+Theophr. Hist. Pl. VIII 8, 5
 Strab. X 447
 </p>
 <p><ref target="14"/>
@@ -526,6 +567,7 @@ Steph. Byz. Οἰχαλία
 Strab. X 448
 
 </p>
+<note/>
 <p><ref target="1"/>
 <add>τό</add> add. Fr. Βοιωτίᾳ L : Εὐβοίᾳ P
 ἦν δὲ <add>οὗτος</add> (add. W) L : ὅδ᾽ ἦν F : aliter P
@@ -575,9 +617,9 @@ A add. in fine ἐπίουροι δὲ ἀντὶ τοῦ φύλακες
 
 </p>
 <p><ref target="2"/>
-sch. D Δ 47, P
-</p>
-<p><ref target="9"/>
+sch. D Δ 47
+sch. D Ρ 9
+
 Et. M. 393, 24.
 Tz. Hes. Scut, 368
 </p>
@@ -588,7 +630,7 @@ AB Ι 143. B Ι 482
 Apoll. Lex. Hom. 152, 16 B.
 Apion. Gl. Hom. 610,10
 Hesych. τηλύγετος
-συν. T. (386, 29 Ba. Phot. Suid.)
+Συν. τ. (386, 29 Ba. Phot. Suid.)
 Orio Werf. 616, 37.
 Et. M. 757, 185.
 Et. Gud. 538, 39 Sturz.
@@ -596,7 +638,7 @@ Eust. 533, 14. 742, 25
 
 </p>
 <p><ref target="10"/>
-Apoll Epit. I 23sq.
+Apoll. Epit. I 23sq.
 Hyg. Fab. 79
 </p>
 <p><ref target="21"/>
@@ -634,7 +676,8 @@ post Ταινάρου P add. εἰς ᾅδην, unde εἰς Ἅιδου F
 
 </p>
 <p><ref target="6"/>
-Steph. Byz. Σῖφαι — Thuc. IV 76
+Steph. Byz. Σῖφαι
+Thuc. IV 76
 </p>
 <p><ref target="7"/>
 Steph. Byz. θέσπεια
@@ -644,7 +687,8 @@ schol. IV 1311
 Steph. Byz. Ἄρβοστα
 sch. AB Α 515. A Ο 325
 sch. Pind. Pyth. IV 36a
-Hesych. Suid. τριτογενής
+Hesych. τριτογενής
+Suid. τριτογενής
 Diod. III 70
 Et. M. 767, 41
 Eust. D. Per. 267
@@ -701,15 +745,11 @@ Apoll. Bibl. III 157
 sch. λ 290
 sch. Theocr. III 43/45a.b
 Apoll. Bibl. I 99sq.
-— Eust. 1685, 25
+Eust. 1685, 25
 </p>
 <p><ref target="19"/>
 sch. Theocr. III 43/45 g.
-Μελάμπους δὲ ἐκλήθη, ὅτι γεννηθεὶς ἐξετέθη παρὰ τῆς μητρὸς Ῥοδόπης
-ἐν ὑλώδει (ὑψηλῷ libri, corr. W) τόπῳ,
-παντὸς δὲ τοῦ εἵματος κειμένου, μόνους ἦν γυμνὸς τοὺς πόδας,
-καὶ ἐξεκαύθη ὑπὸ τοῦ ἡλίου.
-διὰ τοῦτο Μελάμπους ἐκλήθη.
+Μελάμπους δὲ ἐκλήθη, ὅτι γεννηθεὶς ἐξετέθη παρὰ τῆς μητρὸς Ῥοδόπης ἐν ὑλώδει (ὑψηλῷ libri, corr. W) τόπῳ, παντὸς δὲ τοῦ εἵματος κειμένου, μόνους ἦν γυμνὸς τοὺς πόδας, καὶ ἐξεκαύθη ὑπὸ τοῦ ἡλίου. διὰ τοῦτο Μελάμπους ἐκλήθη.
 <note/>
 </p>
 <p><ref target="3"/>
@@ -975,7 +1015,7 @@ Steph. Byz. Μαίναλος
 </p>
 <p><ref target="12"/>
 Hesych. καλιήν
-συν. καλίη (267, 2 Ba. Phot. Suid.)
+Συν. καλίη (267, 2 Ba. Phot. Suid.)
 Et. M. 485, 51
 Et. Gud. 295, 3 Sturz
 
@@ -1068,7 +1108,8 @@ Et. Gen. (AB) Μίλητος: ἀπὸ Μιλήτου υἱοῦ Ἀπόλλων
 
 </p>
 <p><ref target="18"/>
-Strab. XII 573, XIV 634
+Strab. XII 573
+Strab. XIV 634
 </p>
 <p><ref target="20"/>
 Paus. VII 2, 5
@@ -1111,7 +1152,7 @@ Strab. X 457
 <p><ref target="13"/>
 Zenob. V 71
 sch. χ 9
-Sch. Lyc. 488
+sch. Lyc. 488
 Eust. 773, 60
 
 </p>
@@ -1122,7 +1163,10 @@ Poll. III 82
 Σuv. θῆτες (256, 22 Ba. Phot. Suid.)
 Lex. rhet. Bekk. 264, 19
 Et. M. 451, 56; 452, 12
-Et. Gud. 262, 20, 21, 34, 42 Sturz
+Et. Gud. 262, 20 Sturz
+Et. Gud. 262, 21 Sturz
+Et. Gud. 262, 34 Sturz
+Et. Gud. 262, 42 Sturz
 Eust. 1246, 11
 
 <note/>
@@ -1160,7 +1204,7 @@ Herod. I 250, 28; II 332, 14 L.
 <p><ref target="12"/>
 Ov. Met. VIII 440 sq.
 Myth. Vat. I 204 (64,13 Bode)
-sch. A I 567
+sch. A Ι 567
 Apoll. Bibl. I 62
 Hyg. Fab. 14 (47, 7 Schm.)
 
@@ -1171,8 +1215,9 @@ Strab. VIII 386, X 451
 sch. Pind. Ol. I 37a
 </p>
 <p><ref target="17"/>
-Hes. σιφλόν. σιφλός
-συν. σίφλος (365, 11 Ba. Phot. Suid.)
+Hesych. σιφλόν
+Hesych. σιφλός
+Συν. σίφλος (365, 11 Ba. Phot. Suid.)
 
 </p>
 <p><ref target="21"/>
@@ -1180,9 +1225,10 @@ Scymn. 485
 </p>
 <p><ref target="24"/>
 sch. IV 1405
-sch. A B 519, AB I 405
+sch. A Β 519
+sch. AB Ι 405
 sch. Pind. Pyth. I Inscr. b
-συν. πύθῳ (355, 8 Ba. Phot. Suid.)
+Συν. πύθῳ (355, 8 Ba. Phot. Suid.)
 Et. M. 696, 24
 Zon. 1596
 Eust. 274, 11
@@ -1289,7 +1335,7 @@ sch. c cum loc. sim.
 <p><ref target="12"/>
 sch. II 1120
 sch. B rec. Γ 95
-συν. λυγαίως (292, 28 Ba. Suid.)
+Συν. λυγαίως (292, 28 Ba. Suid.)
 
 </p>
 <p><ref target="15"/>
@@ -1417,7 +1463,7 @@ Et. M. fonte, Diss. Bonn. 1894, 44
 
 </p>
 <p><ref target="5"/>
-Stab. IX 436
+Strab. IX 436
 sch. Hesiod. Scut. 70
 Et. M. 646, 39
 Eust. 327, 21
@@ -1425,7 +1471,7 @@ Eust. 327, 21
 </p>
 <p><ref target="12"/>
 Hesych. ποῖ
-συν. ποῖ (Phot. Suid.)
+Συν. ποῖ (Phot. Suid.)
 <note/>
 
 </p>
@@ -1485,8 +1531,8 @@ Diod. IV 47, 4
 <p><ref target="21"/>
 sch. II 1144/45a. IV 115/17b. 176/77
 Diod. X 47, 5
-Palaeph. De incred. 30
-Heracl. De incred. 24
+Palaeph. De Incred. 31
+Heracl. De Incred. 24
 sch. Luc. 86, 1 R
 <note/>
 </p>
@@ -1536,7 +1582,8 @@ Eust. 1515, 46
 <p><ref target="5"/>
 sch. ABT Ω 163
 Apoll. Lex. Hom. 69, 24 B.
-Hes. Suid. ἐντ.
+Hes. ἐντ.
+Suid. ἐντ.
 Eust. 1343, 55
 </p>
 <p><ref target="15"/>
@@ -1563,7 +1610,7 @@ sch. A Δ 277
 
 </p>
 <p><ref target="18"/>
-ἐπίκειται K, sententia ex enuntiato antecedente repetenda est: προσφόρως ὑπόκειται ὁ Ἰάσων (ἐν τῇ παραβολῇ γραῦς)
+ἐπίκειται K. sententia ex enuntiato antecedente repetenda est: προσφόρως ὑπόκειται ὁ Ἰάσων (ἐν τῇ παραβολῇ γραῦς)
 — ὡς ἡ μήτηρ (προσφόρως ὑπόκειται κόρη)
 
 </p>
@@ -1572,14 +1619,12 @@ sch. A Δ 277
 
 </p>
 <p><ref target="20"/>
-post μήτηρ K lac. statuit verbis ὑπὸ τοῦ υἱοῦ τρέφεται explendam.
-unde profectus Berckmann De scholiis in Ap. Rh. Arg. Et. M. fonte,
-Diss. Bonn. 1894, 44, verba πρός τε — ἡλικίαν post παρεοίκασι traici iussit.
-quae cum vera sententia pugnare modo explicavi
+post μήτηρ K lac. statuit verbis ὑπὸ τοῦ υἱοῦ τρέφεται explendam. unde profectus Berckmann De scholiis in Ap. Rh. Arg. Et. M. fonte, Diss. Bonn. 1894, 44, verba πρός τε — ἡλικίαν post παρεοίκασι traici iussit. quae cum vera sententia pugnare modo explicavi
 
 </p>
 <p><ref target="23"/>
-ὑποκειμένη H, κατὰ πλεονασμόν post κηδεμονῆες add. P
+ὑποκειμένη H
+κατὰ πλεονασμόν post κηδεμονῆες add. P
 
 κηδεμόνες P : -ονεύς L
 
@@ -1589,11 +1634,11 @@ quae cum vera sententia pugnare modo explicavi
 <p><ref target="9"/>
 Apoll. Lex. Hom. 51, 23 B.
 Hesych. βίοτος
-συν. βιοτὴ καὶ β. (179, 29 Ba. Suid.)
+Συν. βιοτὴ καὶ β. (179, 29 Ba. Suid.)
 Et. M. 198, 32
 </p>
 <p><ref target="10"/>
-sch. B T B 470
+sch. B T Β 470
 Apoll. Lex. Hom. 83, 16 B.
 Hesych. ἠλασκάζει — ἠλάσκουσι
 Et. Or. 69, 25
@@ -1638,7 +1683,7 @@ Et. M. 514, 20 (deest in Et. Gen.)  κινυρή: κυρίως δὲ κινύρ�
 </p>
 <p><ref target="19"/>
 Et. M. 747, 38
-Et Gud. 523, 29 Sturz
+Et. Gud. 523, 29 Sturz
 Eust. 259, 2
 <note/>
 </p>
@@ -1646,7 +1691,8 @@ Eust. 259, 2
 suppl. W
 </p>
 <p><ref target="5"/>
-pater Phthii Achaeus dicitur Her. II 98.
+pater Phthii Achaeus dicitur 
+Her. II 98.
 Steph. Byz. Ἑλλάς
 </p>
 <p><ref target="8"/>
@@ -1690,7 +1736,7 @@ l. add. F
 Haec desunt in collectione Ludwichiana
 </p>
 <p><ref target="13"/>
-κατὰ P om. L
+κατὰ P : om. L
 </p>
 <p><ref target="16"/>
 302b et 303 in marg. inf. adiecta in L
@@ -1719,7 +1765,7 @@ Et. M. 691, 11
 <p><ref target="8"/>
 sch. 419.
 Call. H. IV 36–40
-Plin. Nat. hist. IV 66
+Plin. Nat. Hist. IV 66
 Et. M. 264, 22
 </p>
 <p><ref target="13"/>
@@ -1834,7 +1880,9 @@ Eust. 741, 60. 1487, 4
 νηδύς : Et. Αἱμ. 627, 9
 Et. Or. 107, 32
 Et. M. 603, 4. 605, 1
-Et. Gud. 407, 15. 28. 31 Sturz
+Et. Gud. 407, 15 Sturz
+Et. Gud. 407, 28 Sturz
+Et. Gud. 407, 31 Sturz
 Epim. Cram. An. Ox. II 395, 8
 <note/>
 </p>
@@ -1914,7 +1962,7 @@ lac. ind. Bergk Opusc. 77 164, ubi de Aetolica Ortygia dictum fuisse oportet
 
 </p>
 <p><ref target="3"/>
-sch. o 449
+sch. ο 449
 Apoll. Lex. Hom. 72, 14 B.
 Hesych. ἐπίβαθρον
 </p>
@@ -1978,11 +2026,13 @@ post κάππεσεν leguntur, trai. W
 
 </p>
 <p><ref target="4"/>
-Sch. Did. H 444. X 370
-sch. k 180
+Sch. Did. Η 444. Χ 370
+sch. κ 180
 Apoll. Lex. Hom. 87, 31 B.
-Hesych. Suid. θηεῖσθαι al.
-Et. M. 450, 18. 451, 33
+Hesych. θηεῖσθαι
+Suid. θηεῖσθαι al.
+Et. M. 450, 18
+Et. M. 451, 33
 
 </p>
 <p><ref target="12"/>
@@ -1993,11 +2043,12 @@ sch. Dion. Per. 620. Et. M. 153, 29
 
 </p>
 <p><ref target="22"/>
-Et. Gen. (AB) σταθερὸν ἦμαρ: τὸ μέσον τῆς ἡμέρας, τὸ μεσημβρινόν
-(B, -μερινόν A), ὅτε ἵσταται ὁ ἥλιος· ἥττον γὰρ δοκεῖ τότε κινεῖσθαι.
+Et. Gen. (AB) σταθερὸν ἦμαρ: τὸ μέσον τῆς ἡμέρας, τὸ μεσημβρινόν (B, -μερινόν A), ὅτε ἵσταται ὁ ἥλιος· ἥττον γὰρ δοκεῖ τότε κινεῖσθαι.
 sch. Plat. Phaedr. 242 A
 Lex. rhet. 305, 7 B.
-Hesych. Phot. Suid. σταθερόν
+Hesych. σταθερόν
+Phot. σταθερόν
+Suid. σταθερόν
 <note/>
 
 </p>
@@ -2037,8 +2088,7 @@ cum in verbis poetae κακοῖς οἰωνοῖσιν legatur pro ἐκ κακ
 
 </p>
 <p><ref target="5"/>
-Et. Gen. (AB) λαρόν: τὸ ἡδὺ πόμα, παρὰ τὸ ἱλαρὸν λαρόν, ἢ παρὰ τὸ λῶ τὸ θέλω. ἢ παρὰ τὸ λίαν <add>ἁρρηρὸς</add> (add. Kulenkamp) γέγονε.
-Λέγεται δὲ καὶ ἐπὶ τοῦ ἁπαλοῦ. Ἡσίοδος: “οὐκέτι δὴ (B, δὲ A) βαίνομεν λαροῖς πόσιν” ἢ τὸ κατὰ γεῦσιν, ἢ <add>τὸ</add> κατ᾽ ὄψιν θελητόν.
+Et. Gen. (AB) λαρόν: τὸ ἡδὺ πόμα, παρὰ τὸ ἱλαρὸν λαρόν, ἢ παρὰ τὸ λῶ τὸ θέλω. ἢ παρὰ τὸ λίαν <add>ἁρρηρὸς</add> (add. Kulenkamp) γέγονε. Λέγεται δὲ καὶ ἐπὶ τοῦ ἁπαλοῦ. Ἡσίοδος: “οὐκέτι δὴ (B, δὲ A) βαίνομεν λαροῖς πόσιν” ἢ τὸ κατὰ γεῦσιν, ἢ <add>τὸ</add> κατ᾽ ὄψιν θελητόν.
 
 sch. 659/61a
 Eust. 1186, 50
@@ -2049,7 +2099,7 @@ sch. ρ 530
 Eust. 1831, 2
 Et. M. 406, 12
 Et. Gud. 576, 15 De Stef.
-Ecl (Cram. An. Ox. II 437, 24)
+Ecl. (Cram. An. Ox. II 437, 24)
 Lex. de spir. 220 Valck.
 Suid. ἕψια
 </p>
@@ -2061,8 +2111,10 @@ Apoll. Lex. Hom. 1, 14 B
 Et. M. 1, 18
 sch. II 541/48f
 sch. B Φ 551
-sch. δ 427, 572
-Eust. 139, 45. 1503, 43
+sch. δ 427
+sch. δ  572
+Eust. 139, 45
+Eust. 1503, 43
 Hesych. πορφύρεται
 </p>
 <p><ref target="23"/>
@@ -2090,24 +2142,28 @@ de nomine auctoris dubitat Wil. ad l.
 Sch. τ 530
 Eust. 1471, 2
 Suid. χαλίκρητος
-Hesych. Suid. χάλις
+Hesych. χάλις
+Suid. χάλις
 Hesych. χαλιμάδες
 Suid. χάλιμα
 Et. Or. 162, 30
 Et. M. 805, 6
 Et. Gud. 562, 36 Sturz
-15
+</p>
+<p><ref target="15"/>
 Sch. B T Ε 385
 Apoll. Bibl. I 53
 Hyg. Fab. 28
 Serv. Verg. Aen. VI 582
-23
+</p>
+<p><ref target="23"/>
 Sch. AB Α 539
 Apoll. Lex. Hom. 98, 9 B
 Eust. 1960, 35
 Et. M. 506, 33
 Et. Gud. 317, 20 Sturz
-24
+</p>
+<p><ref target="24"/>
 Sch. III 791
 Hesych. ἐπιλλίζουσα
 <note/>
@@ -2137,7 +2193,7 @@ Hesych. ἐπιλλίζουσα
 <p><ref target="12"/>
 Apoll. Lex. Hom. 112, 3 B.
 Hesych. μεταμώνια
-Sch. Ar. Pac. 117
+sch. Ar. Pac. 117
 Suid. μεταμώνιος
 </p>
 <p><ref target="13"/>
@@ -2171,7 +2227,8 @@ hoc sch. in L bis legitur
 <p><ref target="7"/>
 sch. Pind. Ol. I 91a
 sch. Eur. Or. 982
-Eust. 1700, 60 Diog. Laert. II 10
+Eust. 1700, 60 
+Diog. Laert. II 10
 
 </p>
 <p><ref target="16"/>
@@ -2215,7 +2272,7 @@ l. add. F
 
 </p>
 <p><ref target="5"/>
-Paus. 1.41.3 sqq.
+Paus. I 41, 3 sqq.
 <note/>
 
 </p>
@@ -2254,7 +2311,8 @@ hoc sch. falso ad v. 515 (L) vel 516 (P) referri vidit Dilthey (R. Linde De div.
 <p><ref target="5"/>
 sch. AB Π  1
 Eust. 1041, 27
-Hesych. Phot. σελίδες
+Hesych. σελίδες
+Phot. σελίδες
 cf. Birt Rh. Mus.  63, 1908, 43
 </p>
 <p><ref target="19"/>
@@ -2295,12 +2353,16 @@ Paus. IX 34,1.
 sch. Call. H. VI 75
 Tzetz. Lyc. 355
 Eust. 524, 26
-Fest. De verb. sign. 93, 22 L.
-19. Diod. IV 69
+Fest. De Verb. Sign. 93, 22 L.
+</p>
+<p><ref target="19"/>
+Diod. IV 69
 </p>
 <p><ref target="21"/>
 sch. II 1231/41b. 392/94b
-sch. et Tzetz. Lyc. 1200 Apoll Bibl. Ι 9
+sch. Lyc. 1200  
+Tzetz. Lyc. 1200 
+Apoll. Bibl. I 9
 Ov. Met. VI 126
 
 <note/>
@@ -2350,7 +2412,8 @@ Paus. III 18, 12
 Apoll. Bibl. III 172
 </p>
 <p><ref target="17"/>
-Dict. I 14. VI 7
+Dict. I 14
+Dict. VI 7
 </p>
 <p><ref target="18"/>
 sch. IV 816
@@ -2402,7 +2465,7 @@ sch. Pind. Ol. III 14a
 </p>
 <p><ref target="24"/>
 sch. Pind. Pyth. I 40
-Et. M, 156, 15.
+Et. M. 156, 15.
 
 <note/>
 
@@ -2452,16 +2515,17 @@ Herod. I 57
 </p>
 <p><ref target="11"/>
 
-Dion. Hal. T 15,5
+Dion. Hal. I 15,5
 </p>
 <p><ref target="14"/>
 
-Dion. Hal. T 25,4
+Dion. Hal. I 25,4
 </p>
 <p><ref target="16"/>
 
 sch. II. 434. 1247b
-Hesych. Phot. ἐρίπναι
+Hesych. ἐρίπναι
+Phot. ἐρίπναι
 </p>
 <p><ref target="17"/>
 
@@ -2472,7 +2536,7 @@ Et. Gud. 525, 18 De Stef.
 </p>
 <p><ref target="19"/>
 
-Sch. Eur. Andr. 1265
+sch. Eur. Andr. 1265
 Et. Gen. (AB) Σηπιάς: ἄκρα ἐν Μαγνησίᾳ. οὕτω δὲ (δὲ om. A) λέγεται διὰ τὸ θέτιν ἐνταῦθα εἰς σηπίαν μεταβληθῆναι ὑπὸ Πηλέως διωκομένην, ὡς καὶ (καὶ om. B) Ἡρόδοτος (VII 191, 2). cf. W 79
 Tzetz. Lyc. 175 (85, 4 Sch.)
 </p>
@@ -2498,8 +2562,8 @@ l. etiam in L adest
 <pb n="51"/>
 </p>
 <p><ref target="4"/>
-Kern Die Inschr. von Magnesia am Maeander 1900, 14 (Nr. 17) Parth. Narr.
-am. 5
+Kern Die Inschr. von Magnesia am Maeander 1900, 14 (Nr. 17) 
+Parth. Narr. Am. 5
 Con. Natr. 29
 
 </p>
@@ -2509,7 +2573,7 @@ sch. Pind. Isthm. IV 110b
 </p>
 <p><ref target="14"/>
 Et. Gen. (B) ἔντομα: τὰ τοῖς κατοιχομένοις θυόμενα. ἐκτέμνεται [καὶ om. Et. M.] γὰρ τούτων (Et. M., -οις B) ὁ τράχηλος· τὰ δὲ τοῖς οὐρανίοις θεοῖς ἀνακλᾶται. ἢ ἔντομα τὰ εὐνουχισθέντα τῶν προβάτων (ἔντομα — προβάτων etiam A). τοιαῦτα δὲ ἔθυον τοῖς νεκροῖς ἄγονα διὰ τὸ καὶ αὐτοὺς εἶναι ἀγόνους. I 587.
-Et. M.
+Et. M.  ἔντομα
 add. II 926
 
 Et. Gen. χύτλα (v. ad sch. 1075/77a)
@@ -2533,10 +2597,10 @@ Suid. ἐντομίδαι
 
 </p>
 <p><ref target="1"/>
-Sch. 862a cum loc. sim.
+sch. 862a cum loc. sim.
 </p>
 <p><ref target="4"/>
-Sch. Theocr. VII 103a. b
+sch. Theocr. VII 103a. b
 Paus. IX 8,6
 Steph. Byz. Ὁμόλη
 </p>
@@ -2555,7 +2619,7 @@ Strab. VII 330
 </p>
 <p><ref target="18"/>
 
-sch. Thuc. 1.126, 5
+sch. Thuc. I 126, 5
 Dem. XIX 192
 Diod. XVII 16
 Arrian. I 11, 1
@@ -2604,8 +2668,7 @@ Et. Gen. (AB) Δίπολις ἐστὶν ἡ Λῆμνος. ἔχει γὰρ �
 Steph. Byz. Λῆμνος. Μύρινα
 </p>
 <p><ref target="12"/>
-Et. Gen. (AB) σιντηίδα: οἷον· I 608. τὴν ὑπὸ τῶν σιντίων κατοικισθεῖσαν. ἔθνος δὲ τυραννικόν (Τυρρηνικόν Hemsterhuis) τοῦτο καὶ (καὶ om. A) λῃστρικόν. τινὲς δὲ σιντίους τοὺς Λημνικούς (Λημνίους Et. M.) φασιν. οὗτοι γὰρ λαβόντες πλοῖα (ὅπλα V) τοὺς παριόντας ἔβλαπτον [ὅθεν καὶ σῖνος τὸ βλάβος om. Et. M.]. ἢ ὅτι δοκοῦσιν αὐτοὶ πρῶτοι ἐπινενοηκέναι τὰ πρὸς τὸν πόλεμον ὅπλα, ἅπερ ὁμολογουμένως βλάπτει
-(ἢ sqq. e sch. Hom. sumpta om. B).
+Et. Gen. (AB) σιντηίδα: οἷον· I 608. τὴν ὑπὸ τῶν σιντίων κατοικισθεῖσαν. ἔθνος δὲ τυραννικόν (Τυρρηνικόν Hemsterhuis) τοῦτο καὶ (καὶ om. A) λῃστρικόν. τινὲς δὲ σιντίους τοὺς Λημνικούς (Λημνίους Et. M.) φασιν. οὗτοι γὰρ λαβόντες πλοῖα (ὅπλα V) τοὺς παριόντας ἔβλαπτον [ὅθεν καὶ σῖνος τὸ βλάβος om. Et. M.]. ἢ ὅτι δοκοῦσιν αὐτοὶ πρῶτοι ἐπινενοηκέναι τὰ πρὸς τὸν πόλεμον ὅπλα, ἅπερ ὁμολογουμένως βλάπτει (ἢ sqq. e sch. Hom. sumpta om. B).
 sch. ABT Α 594 sch. θ 294
 Apoll. Lex. Hom. 141,25 B.
 </p>
@@ -2624,8 +2687,9 @@ Hyg. Fab. 15
 </p>
 <p><ref target="8"/>
 Io. Gramm. Comp. III 42 (O. Hoffmann Die griech. Dial. 2, 1893, 221)
-Greg. Cor. De dial. aeol. 32 (608 Sch.)
-Hesych. Suid. ἔρον
+Greg. Cor. De dial. aeol. 32 (608 sch.)
+Hesych. ἔρον
+Suid. ἔρον
 Et. M. 379,35
 Et. Gud. 528, 19 De Stef.
 sch. ABT Α 469
@@ -2641,7 +2705,7 @@ Antig. Hist. mir. 118 K.
 Et. Gen. (A B) Σίκινον: Σίκινός ἐστι νῆσος πρὸς τῇ Εὐβοίᾳ, Οἰνόη (A, -οίη B) τὸ πρότερον καλουμένη διὰ
 τὸ εἶναι αὐτὴν ἀμπελόφυτον. μετωνομάσθη δὲ ἀπὸ (τοῦ add. B) υἱοῦ Θόαντος (τοῦ add. B) Σικίνου καὶ νύμφης Οἰνόης Ναΐδος (A, Ναΐδος B). Ἀπολλώνιος (Et. M. add. καὶ τὸν μὲν αὐδηθέντα e vv. 623–624).
 Steph. Byz. Σίκινος — Plin.
-Nat. hist. IV 70
+Nat. Hist. IV 70
 <note/>
 </p>
 <p><ref target="1"/>
@@ -2737,10 +2801,10 @@ Et. Gen. (AB) ἀνομένοιο: οἷον I 651. (<add>τελειουμένο
 
 </p>
 <p><ref target="15"/>
-Sch. 456a cum loc. sim.
+sch. 456a cum loc. sim.
 </p>
 <p><ref target="16"/>
-Sch. 1180 cum loc. sim.
+sch. 1180 cum loc. sim.
 <note/>
 </p>
 <p><ref target="2"/>
@@ -2784,7 +2848,7 @@ ut supra L : ἤγουν τελειουμένου, ἐπὶ τὴν δύσιν �
 <pb n="58"/>
 </p>
 <p><ref target="4"/>
-Sch. II 198
+sch. II 198
 
 </p>
 <p><ref target="8"/>
@@ -2815,7 +2879,8 @@ Et. Gud. 221, 1 De Stef.
 Eust. 106, 1
 </p>
 <p><ref target="22"/>
-Hesych. Suid. στόλος
+Hesych. στόλος
+Suid. στόλος
 sch. 1089a
 <note/>
 </p>
@@ -2860,7 +2925,7 @@ sch. 97/100 cum loc. sim.
 
 </p>
 <p><ref target="9"/>
-Sch. 551a cum loc. sim.
+sch. 551a cum loc. sim.
 Steph. Byz. Ἴτων
 
 </p>
@@ -2995,7 +3060,8 @@ Et. Gen. (AB) ὀχμάζω: τὸ κατέχω ἐκ (ἀπὸ B) τοῦ ἔχ
 <p><ref target="6"/>
 sch. IV 1672 cum loc. sim.
 
-sch. Lyc. 1179 Hesych. δείκηλα. δίκηλον
+sch. Lyc. 1179 
+Hesych. δείκηλα. δίκηλον
 
 Suid. δείκηλα
 
@@ -3045,7 +3111,7 @@ lac. ind. Wil. ad l.
 </p>
 <p><ref target="1"/>
 Apoll. Bibl. II 54.
-Tzetz. Lyc. 301. 11 Sch.
+Tzetz. Lyc. 301. 11 sch.
 </p>
 <p><ref target="11"/>
 Apoll. Epit. II 4—7
@@ -3053,7 +3119,7 @@ sch. A B 104
 sch. Eur. Or. 990
 Serv. Verg. Georg. III 7
 Hyg. Fab. 84
-Tzetz. Lyc. 73, 19 Sch.
+Tzetz. Lyc. 73, 19 sch.
 <note/>
 </p>
 <p><ref target="1"/>
@@ -3092,7 +3158,7 @@ sch. ABT Ε 726
 Erot. 72, 5 N.
 Apoll. Lex. Hom. 192, 13 B.
 Hesych. πλήμνη
-συν. πλῆμναι (344, 1 Ba. Phot. Suid.)
+Συν. πλῆμναι (344, 1 Ba. Phot. Suid.)
 Et. M. 676, 40
 Et. Gud. 471, 51 Sturz
 Et. Αἱμ. 628,9
@@ -3108,7 +3174,7 @@ Et. Gud. 447, 7 Sturz
 Et. Gen. (A2 B) Ἐλέρα: I 761— 62. Φερεκύδης φησίν (Φ. φ. om. A), ὅτι Ἐλάρα Ὀρχομενοῦ θυγάτηρ ἦν (ἦν om. A), ᾗ ἐμίγη Ζεύς, καὶ ἀνέθρεψεν (immo ὥθησεν) αὐτὴν κατὰ γῆς φοβούμενος τὰς
 Ἥρας ζηλοτυπίας, καὶ ἐκ τῆς γῆς ἀνεδόθη ὁ Τιτυός: διόπερ καὶ γηγενὴς λέγεται. (cum in A spatium relictum sit, B hic habet λείπει.) καὶ ἄλλως. Ἐλάρα ἐκ Ποσειδῶνος ἐγκυμονήσασα τὸν Τιτυόν, καὶ μὴ δυνηθεῖσα ἐπὶ τῆς γαστρὸς βαστάσαι αὐτὸν διὰ τὸ ἄπειρον καὶ μέγα ἔχειν μέγεθος, ἀπέθανε καὶ ἐτάφη. ῥαγείσης δὲ τῆς γαστρὸς αὐτῆς, λαβοῦσα ἡ Γῆ τὸ βρέφος ἀνέθρεψεν, καὶ τέλειον (-εον A) γενόμενον ἀπέδωκεν (immo ἀνέδωκεν). ὅθεν ἐνομίσθη Γῆς εἶναι υἱός. Ἀπολλώνιος ὁ τὰ Ἀργοναυτικά. cf. W 74
 Apoll. Bibl. I 23
-Sch. η 324
+sch. η 324
 Eust, 1581, 55
 Serv. Verg. Aen. VI 595
 <note/>
@@ -3185,7 +3251,7 @@ suppl. Fr.
 </p>
 <p><ref target="24"/>
 
-Sch. Theocr. III 40/42d
+sch. Theocr. III 40/42d
 Apoll. Bibl. III 109
 </p>
 <p><ref target="25"/>
@@ -3239,7 +3305,7 @@ Eust. 861, 1. 1218, 34. 1546, 45. 1553, 39
 Apoll. Lex. Hom. 100, 29 B.
 
 Hesych. κλόνος
-συν. κ. (279, 13 Ba. Phot. Suid.)
+Συν. κ. (279, 13 Ba. Phot. Suid.)
 
 </p>
 <p><ref target="25"/>
@@ -3325,7 +3391,9 @@ poetae verba intercidisse statuit K
 
 </p>
 <p><ref target="15"/>
-806. Sch. Et. Gen. (ΑΒ) ληιάδες: οἷον I 806. ἀνεκοιμῶντο <add>σὺν</add> (add. Reitzenstein) ταῖς (τοῖς A) αἰχμαλώτοις. λέγονται δὲ (δὲ om. B) καὶ ληίτιδες αἱ αὐταὶ παρὰ τῷ αὐτῷ ποιητῇ, οἷον I 818-819. ληίτιδες δὲ (δὲ om. B) σημαίνει λαφυραγωγοὶ πολεμικαί (-οί A).
+806. 
+sch. 
+Et. Gen. (ΑΒ) ληιάδες: οἷον I 806. ἀνεκοιμῶντο <add>σὺν</add> (add. Reitzenstein) ταῖς (τοῖς A) αἰχμαλώτοις. λέγονται δὲ (δὲ om. B) καὶ ληίτιδες αἱ αὐταὶ παρὰ τῷ αὐτῷ ποιητῇ, οἷον I 818-819. ληίτιδες δὲ (δὲ om. B) σημαίνει λαφυραγωγοὶ πολεμικαί (-οί A).
 sch. A Κ 460
 <note/>
 </p>
@@ -3394,10 +3462,11 @@ de ἐυπλοκάμου vv. dd. iure dubitarunt, v. notam Bergkii
 6.	Erot. 16, 5 N.
 Apoll. Lex. Hom. 26, 17 B.
 Hesych. ἀμαλδῦναι
-συν. ἀμαλδύνεσθαι (Phot. Suid.)
+Συν. ἀμαλδύνεσθαι (Phot. Suid.)
 </p>
 <p><ref target="7"/>
-Sch. ABT Tb: Sch. τ 205. χ 31
+sch. ABT Π 41 
+sch. τ 203. χ 31
 Apoll. Lex. Hom. 92, 35. B.
 Hesych. ἴσκε
 Phot. ἴσκειν
@@ -3435,7 +3504,8 @@ nomen Νικοκράτης iteratum postquam Deicke 38 in dubitationem vocavit, 
 Et. Gen. (A2 B) ἐλίνυον: διέτριβον, ἀνετρέφοντο, περιεφέροντο. ἀπὸ τοῦ αἰλίνου (ἐλίνου A2 B) εἴρηται, οἷον I 862.
 sch. 589
 Erot. fg 25 N.
-Hesych. Suid. ἐλινύειν
+Hesych. ἐλινύειν
+Suid. ἐλινύειν
 <note/>
 </p>
 <p><ref target="1"/>
@@ -3476,7 +3546,7 @@ Hesych. λείρια
 Συν. λ. (289, 3 Ba. Phot. Suid.)
 </p>
 <p><ref target="19"/>
-Sch. II 132/34b
+sch. II 132/34b
 sch. Theocr. VII 80
 sch. Hes. Theog. 594
 Hesych. σίμβλοι
@@ -3537,14 +3607,14 @@ suppl. W
 
 </p>
 <p><ref target="13"/>
-Sch. 416. III 993
+sch. 416. III 993
 </p>
 <p><ref target="22"/>
 Hesych. ἑστία
 Συν. ἑ. (237, 25 Ba. Phot. Suid.)
 </p>
 <p><ref target="24"/>
-Sch. A B T Ψ 459
+sch. A B T Ψ 459
 Et. M. 654,6 Eust. 1905, 33
 <note/>
 </p>
@@ -3573,7 +3643,7 @@ Et. M. 64, 10
 </p>
 <p><ref target="4"/>
 
-Sch. Eur. Phoen. 1129.7
+sch. Eur. Phoen. 1129.7
 Apoll. Bibl. III 138
 Con. Natr. 21
 Steph. Byz. Δάρδανος
@@ -3594,7 +3664,7 @@ Strab. X 472
 ἐς Ἠλέκτρης A H F : ἐς -ην L : ἑσπέριοι P
 </p>
 <p><ref target="7"/>
-Πολυάρκη Wil. ad 1. : -άρχη
+Πολυάρκη Wil. ad l. : -άρχη
 </p>
 <p><ref target="8"/>
 φασὶ F Ἰασίωνα F : Ἠσίωνα
@@ -3627,8 +3697,8 @@ Gryph. 1881, 64
 <p><ref target="7"/>
 sch. AT Ν 12.
 sch. B T Ω 78
-Heracl. Pont fg 21 M. II 218
-Dion. Hal. Ant. R. I 61, 3
+Heracl. Pont. fg 21 M. II 218
+Dion. Hal. Ant. Rom. I 61, 3
 Eust. 1340, 14
 sch. Ar. Pac. 277. 278
 Et. Gud. 289, 34 Sturz
@@ -3668,15 +3738,15 @@ Et. M. 629, 38
 sch. T Ω 79
 Strab. VII 331 fg 52
 Eust. Dion. Per. 414. 538
-Plin. Nat. hist. IV 43
+Plin. Nat. Hist. IV 43
 Pomp. Mel. II 2, 27
 
 </p>
 <p><ref target="13"/>
-Sch. IV 1174/75 b
+sch. IV 1174/75 b
 </p>
 <p><ref target="18"/>
-Et. Gen. (AB) Ῥοίτειον: <quote>Ῥοιτιάδος ἔνδοθεν ἄκρης</quote> (I 929). ἔστι δὲ ἀκρωτήριον τῆς (τ. om. A) Τροίας. <add>λέγεται δὲ ἀπὸ Ῥοιτείας</add> (add. W, ἀπὸ addiderat iam Miller) τῆς Πρωτέως θυγατρός. ὁ δὲ Χοιροβοσκός διὰ τῆς εἰ διφθόγγου.  Tz. Lyc. 200, 28. 338, 10 Sch.
+Et. Gen. (AB) Ῥοίτειον: <quote>Ῥοιτιάδος ἔνδοθεν ἄκρης</quote> (I 929). ἔστι δὲ ἀκρωτήριον τῆς (τ. om. A) Τροίας. <add>λέγεται δὲ ἀπὸ Ῥοιτείας</add> (add. W, ἀπὸ addiderat iam Miller) τῆς Πρωτέως θυγατρός. ὁ δὲ Χοιροβοσκός διὰ τῆς εἰ διφθόγγου.  Tz. Lyc. 200, 28. 338, 10 sch.
 
 </p>
 <p><ref target="20"/>
@@ -3686,7 +3756,7 @@ Et. Gen. (A) Περκώτη: Ἔστι δὲ πόλις Τροίας καὶ Π�
 Steph. Byz. Ἀβαρνος: … Ἀπολλώνιος 1 932—933 (ἠιόνα). τοῦτο δὲ σοφοκλῆς ὑπομνηματίζων ἱστορεῖ τὴν Ἀφροδίτην ἄμορφον ἐν Λαμψάκῳ τεκοῦσαν τὸν Πρίαπον ἀπαρνήσασθαι καὶ τὴν χώραν Ἀπαρνίδα καλέσαι, ἣ κατὰ παραφθορὰν καὶ Ἀβαρνίς καλεῖται. Cf. W 90
 Nonn. abb. ad Greg. Naz. Contra Jul. II 34 (36, 1053 Migne)
 Suid. Πρίαπος III
-Tz. Lyc. 266, 1 Sch.
+Tz. Lyc. 266, 1 sch.
 Cf. Hans Herter De Priapo 1932 (Rel. gesch. Vers. u. Vorarb. 23) 67—71.
 <note/>
 
@@ -3723,7 +3793,7 @@ l. in L adest
 <p><ref target="10"/>
 Et. Gen. (AB) Πιτύεια: ἔστιν ἄκρον περὶ (παρὰ A) τὴν Λάμψακον. καὶ Πιτύεια πρότερον ἡ Λάμψακος ἐκαλεῖτο διὰ τὸ ἔχειν πίτυς πολλάς. Ἀπολλώνιος I 932.
 Steph. Byz. Λάμψακος: πόλις κατὰ τὴν Προποντίδα  … πάλαι Τιτύουσα λεγομένη, ὡς Δηίοχος ὁ Κυζικηνός(fg 10 M. II 19). Ἐπαφρόδιτος (fg 29 Luenzner) δὲ Πιτύειαν ὑφ᾽ Ὁμήρου ταύτην κληθῆναι διὰ τὸ πιτύων ἔχειν πλῆθος Λαομεδόντειαν καλουμένην.
-Sch. B B 829
+sch. B B 829
 Eust. 355, 42
 Strab. XIII 588
 <note/>
@@ -3800,7 +3870,7 @@ Eust. 1871, 36
 Et. Gen. (A B) ἀμφίδυμοι: … λέγεται δὲ καὶ ὁ λιμὴν τῆς Κυζίκου ἀμφίδυμος, δισσὰς εἰσόδους <add>ἐξ</add> ἑκατέρου (Reitz., ἑκατέρωθεν A B) μέρους ἔχων, οἷον I 939—940 (Αἰσήποιο). ἔστι δὲ οὗτος (W Fr., οἶνος A) ποταμός (ἔστι sqq. om. B).
 
 sch. IV 982/92d sch. δ 847
-Apoll Lex. Hom. 27, 31 B.
+Apoll. Lex. Hom. 27, 31 B.
 Eust. 1519, 62
 sch. Dion. Per. 493
 Hesych. ἀμφ.
@@ -3818,7 +3888,7 @@ verba οἷον — ὤν post τόπος leguntur, trai. W
 ὃ ἐξ ἀμφοτέρων γῆν ἔχων L : ἡ μεταξὺ δύο γαιῶν στενὴ θάλασσα P
 </p>
 <p><ref target="14"/>
-Sch. l in L adhaeret scholio d
+sch. l in L adhaeret scholio d
 </p>
 <p><ref target="16"/>
 ἔχουσαι G : -ovτες L : (λιμὴν) -ῶν P
@@ -3835,7 +3905,7 @@ post Ἡρακλεῖ suppleri vult <add>ἐν τῷ καθ’ Ἡρακλέα �
 <note/>
 </p>
 <p><ref target="4"/>
-lac. priorem ind. Wil. ad 1.; fortasse verba ὅθεν — ὠνομάσθαι post Εὐανθείας traicienda sunt.
+lac. priorem ind. Wil. ad l.; fortasse verba ὅθεν — ὠνομάσθαι post Εὐανθείας traicienda sunt.
 
 lac. posteriorem ind. W 34, ubi de Aenei uxore Aeneta eiusque patre Eusoro actum esse videtur.
 
@@ -3892,7 +3962,8 @@ del. Gerhard Lec. Apoll. 1816, 8
 <p><ref target="1"/>
 sch. Theocr. IV 50/51c.d
 Et. Gen. (A B) ἁρμοῖ
-Hesych. Suid. ἁρμοῖ
+Hesych. ἁρμοῖ
+Suid. ἁρμοῖ
 Eust. 140, 13 cf. Deicke 61, W 108
 </p>
 <p><ref target="3"/>
@@ -4039,7 +4110,7 @@ suppl. Bergk ex Et.
 
 </p>
 <p><ref target="12"/>
-Sch. α 241
+sch. α 241
 Apoll. Lex. Hom. 43, 29 B.
 Eust. 414, 40
 Hesych. ἅρπυιαι
@@ -4053,11 +4124,11 @@ Apoll. Lex. Hom. 88, 25 B.
 Joh. Maur. 83 (Reitz. 176)
 Et. Or. 73, 21
 Et. M. 457, 27
-Et. Gud. 266, 36. 38 Sturz
+Et. Gud. 266, 36 Sturz. 38
 
 </p>
 <p><ref target="23"/>
-Sch. ABT Π 407
+sch. ABT Π 407
 Apoll. Lex. Hom. 90, 12 B.
 Hesych. ἱερόν. ἱερὸν ἰχθύν
 Συν. ἱερῷ (260, 24 Ba. Phot. Suid.)
@@ -4085,12 +4156,13 @@ Hesych. ἱερόν. ἱερὸν ἰχθύν
 </p>
 <p><ref target="8"/>
 
-Sch. II 392/94a. IV 1174/75 b
+sch. II 392/94a. IV 1174/75 b
 Steph. Byz. Μάκρις
 Eust. Dion. Per. 520
-10
+</p>
+<p><ref target="10"/>
 Strab. V 221 (Ephorus)
-Plin. Nat. hist. IV 9
+Plin. Nat. Hist. IV 9
 Steph. Byz. Πελοπόννησος
 
 </p>
@@ -4142,7 +4214,7 @@ Suid. θάμνος
 <p><ref target="12"/>
 Hesych. ζαμενής
 sch. Pind. Pyth. IX 65.
-Nem. IV 21a
+sch. Pind. Nem. IV 21a
 
 </p>
 <p><ref target="27"/>
@@ -4178,11 +4250,11 @@ sch. 1032 in libris adhaeret scholio 1040/41; trai. W particula δὲ simul dele
 <p><ref target="21"/>
 Et. Gen. (AB) πέλεια: κίρκος ἔστιν εἶδος ἱέρακος. ἔστι (εἰσι B) δὲ γένη ἱεράκων (ἱέρακος A) η΄, ὥς φησι Καλλίμαχος ἐν τοῖς Περὶ ὀρνέων. πέλεια δὲ περιστερᾶς εἶδος οἷον φάσσα (φάσσαι A, φάσαι B). ἐτυμολογεῖται δὲ (δὲ om. A) ὡς οἶμαι παρὰ τὸ πέλαν (πελόν B), ὃ σημαίνει τὸ μέλαν.
 
-Et. Gen. (AB) κίρκος: κρίκος κίρκος (κίρκος κρίκος A) καὶ τὸ κρικώσ  κιρώσω Ἀττικῶς λέγεται (ex herodiano Περὶ παθῶν II 375, 29 L.). I 1049—1050. ἔστιν δὲ εἶδος ἱέρακος.
+Et. Gen. (AB) κίρκος: κρίκος κίρκος (κίρκος κρίκος A) καὶ τὸ κρικώσω κιρκώσω Ἀττικῶς λέγεται (ex Herodiano Περὶ παθῶν II 375, 29 L.). I 1049—1050. ἔστιν δὲ εἶδος ἱέρακος.
 
 Et. Gud. 458, 22 Sturz (cf. Reitzenstein Gesch. d. gr. Etym. 1897, 97)
-Arist. Hist. an. IX 36, 620a 17
-Plin. Nat. hist. X 21
+Arist. Hist. An. IX 36, 620a 17
+Plin. Nat. Hist. X 21
 <note/>
 </p>
 <p><ref target="2"/>
@@ -4199,7 +4271,7 @@ Plin. Nat. hist. X 21
 Δηίοχος W : Δηίλοχος
 </p>
 <p><ref target="14"/>
-σοφοκλῆς K, sed cf. W 90, 1
+Σοφοκλῆς K, sed cf. W 90, 1
 <pb n="93"/>
 </p>
 <p><ref target="3"/>
@@ -4207,7 +4279,7 @@ sch. BT Ο 237
 Eust. 87, 6
 </p>
 <p><ref target="21"/>
-Parth. Narr. am. 28
+Parth. Narr. Am. 28
 Con. Narr. 41, 5
 <note/>
 </p>
@@ -4228,7 +4300,7 @@ suppl. W
 post θάψαι P add. κτερεΐξαι δὲ τὸ τύμβον ποιῆσαι καὶ τὰ ἐπὶ τῷ τύμβῳ τελέσαι
 </p>
 <p><ref target="17"/>
-Sch. 1061 post 1062 legitur, traici iussit Schaefer
+sch. 1061 post 1062 legitur, traici iussit Schaefer
 Δηίοχος V : Διίοχος P : Δηίλοχος L
 
 </p>
@@ -4250,10 +4322,10 @@ Sch. 1061 post 1062 legitur, traici iussit Schaefer
 <pb n="94"/>
 </p>
 <p><ref target="8"/>
-Parth. Narr. am. 28
+Parth. Narr. Am. 28
 </p>
 <p><ref target="14"/>
-Sch. β 355
+sch. β 355
 Apoll. Lex. Hom. 114, 9 B.
 Hesych. μυληφάτου
 Et. Or. 98, 19
@@ -4264,7 +4336,8 @@ Eust. 868, 39. 1445, 57. 1450, 18
 <p><ref target="18"/>
 Et. Gen. (B) χύτλα: οἷον II 926. χύτλα κυρίως τὰ μεθ᾽ ὕδατος
 ἔλαια, καταχρηστικῶς δὲ καὶ τὰ ἐναγίσματα. Καλλίμαχος (fg 479 Schn.): <quote>χύτλων ἀντιασάντων</quote> (ἀντιάσαντες Schneider). ἔντομα μήλων τὰ εὐνοῦχα, ἐπειδὴ ταῦτα μάλιστα ἔθυον τοῖς νεκροῖς ὡς ἄγονα ὄντα ἀγόνοις καὶ αὐτοῖς οὖσιν (inde ab ἔντομα e glossa ἔντομα repetita, quae ad v. 587 ascripta est). cf. W 77 sch. ζ 80
-Hesych. Suid. χύτλα
+Hesych. χύτλα
+Suid. χύτλα
 
 </p>
 <p><ref target="19"/>
@@ -4340,8 +4413,8 @@ suppl. W ex Et.
 
 </p>
 <p><ref target="8"/>
-Arist. Hist. an. V 8, 542b 4
-Plin. Nat. hist. X 90
+Arist. Hist. An. V 8, 542b 4
+Plin. Nat. Hist. X 90
 Ps.-Plat. Alcyon. 1.2 cum sch.
 sch. Theocr. VII 57 b
 sch. Lyc. 750.
@@ -4366,11 +4439,12 @@ Apoll. Lex. Hom. 49, 6 B.
 Eust. 1039, 36 (e Pausania)
 Συν. ἀφλαστα (172, 10 Ba)
 gl. Herod. VI 114
-Hesych. Suid. ἄφλαστον
+Hesych. ἄφλαστον
+Suid. ἄφλαστον
 Poll. I 90
 sch. Lyc. 295
-Tz. Lyc. 24,25.
-Sch. Et. M. 177, 42 cf. Didym. 79. 181 Schm.
+Tz. Lyc. 24,25 Sch.
+sch. Et. M. 177, 42 cf. Didym. 79. 181 Schm.
 <note/>
 </p>
 <p><ref target="1"/>
@@ -4397,7 +4471,7 @@ hunc Apollonium putat esse Chaeridis filium.
 
 </p>
 <p><ref target="13"/>
-Sch. 1141/48b
+sch. 1141/48b
 sch. Hes. Theog. 135
 Et. M. 701, 18
 Plat. Crat. 402 B
@@ -4433,7 +4507,7 @@ Corn. 6
 
 </p>
 <p><ref target="4"/>
-Sch. II 168 cum loc. sim.
+sch. II 168 cum loc. sim.
 </p>
 <p><ref target="11"/>
 Strab. XII 571
@@ -4482,11 +4556,13 @@ Et. Gen. (A) στύπος post verba ad 1116 exscripta: στύπος ἀμπέλ
 </p>
 <p><ref target="7"/>
 Sch. Ar. Equ. 31
-Hesych. Suid. βρέτας
+Hesych. βρέτας
+Suid. βρέτας
 Et. M. 213, 3
 Et. Gud. 286, 11 De Stef.
 
-11
+</p>
+<p><ref target="11"/>
 Et. Gen. (AB) γεράνδρυον: παλαιὸν φυτόν. Ἀπολλώνιος I 1117—1118. σημαίνει δὲ τὸ γεγηρακὸς καὶ παλαιὸν δένδρον. ἢ τὸ ἐν τῇ ῥίζῃ [συμφυὲς del. W]
 ἐξηραμμένον.
 
@@ -4505,7 +4581,8 @@ Et. Gen. (AB) κολώνη: I 1120. 1114. τὸ μὲν κολωνὸς ὀξύ�
 Sch. II 695a
 Sch. ABT Gen. Φ 319.
 Apoll. Lex. Hom. 167, 21 B.
-Hesych. Suid. χέραδος
+Hesych. χέραδος
+Suid. χέραδος
 Et. M. 808, 40
 Eust. 1238, 6
 
@@ -5093,7 +5170,7 @@ Nonn. ad Greg. Naz. Or. I 41 (36, 1008 Migne)
 Sch. 131 cum loc. sim.
 </p>
 <p><ref target="25"/>
-Et M. 154,8
+Et. M. 154,8
 <note/>
 </p>
 <p><ref target="2"/>
@@ -5173,8 +5250,10 @@ Sch. 306 cum loc. sim.
 <p><ref target="23"/>
 Apoll. Lex. Hom. 88,3 B.
 Hesych. θήρ
-Et. M. 332, 14. 451, 24
-Et. Gud. 262, 16. 265, 7 Sturz
+Et. M. 332, 14
+Et. M. 451, 24
+Et. Gud. 262, 16 Sturz
+Et. Gud. 265, 7 Sturz
 <note/>
 </p>
 <p><ref target="3"/>
@@ -5191,7 +5270,7 @@ Et. Gud. 262, 16. 265, 7 Sturz
 </p>
 <p><ref target="20"/>
 contra Laonomae maritus vocatur Euphemus
-Sch. Pind. Pyth. IV 79b
+sch. Pind. Pyth. IV 79b
 </p>
 <p><ref target="22"/>
 add. F
@@ -5206,17 +5285,17 @@ add. F
 Et. Gen. (AB) μύωψ: μυῖά τις ἐρεθίζουσα τὰς (A, τοὺς B) βοῦς. I 1265.
 sch. Theocr. VI 28a sch. χ 299
 Hesych. οἶστρος. μύωψ.
-Ael. Nat. an. IV 51. VI 37
-Serv. Verg, Georg. III 146. 148.
-Tz. Lyc. 151,9
-Sch. Eust. 1928, 15 cf. Wellmann Herm. 26, 1891, 344; 51, 1916, 9
+Ael. Nat. An. IV 51. VI 37
+Serv. Verg. Georg. III 146. 148.
+Tz. Lyc. 151,9 Sch.
+sch. Eust. 1928, 15 cf. Wellmann Herm. 26, 1891, 344; 51, 1916, 9
 </p>
 <p><ref target="22"/>
 Sch. III 276/77b
-Arist. Hist, an, V 19, 552a 29. 551b 21
+Arist. Hist. An. V 19, 552a 29. 551b 21
 </p>
 <p><ref target="24"/>
-Et. Gen. (A2B) ἑλεσπίδας: I 1266. πείσεα οἱ κάθυγροι τόποι. ἑλεσπίδας δὲ οἱ μὲν τοὺς εὐμφύτους τόπους, οἱ δὲ τοὺς ἑλώδεις, ἄμεινον δὲ τοὺς πετρώδεις (Α2 Β, λεπώδεις Et M.) παρὰ   τὸ λελεπίσθαι ὑπὸ τῶν ἀνέμων ἢ ὑπὸ τῶν κυμάτων. ὅθεν καὶ λέπα τὰ ἀκρότατα   τῶν ὀρέων: Εὐριπίδης <quote>καὶ Κιθαιρῶνος λέπας</quote>, s. v. λέπας huc relegatur.
+Et. Gen. (A2B) ἑλεσπίδας: I 1266. πείσεα οἱ κάθυγροι τόποι. ἑλεσπίδας δὲ οἱ μὲν τοὺς εὐμφύτους τόπους, οἱ δὲ τοὺς ἑλώδεις, ἄμεινον δὲ τοὺς πετρώδεις (Α2 Β, λεπώδεις Et. M.) παρὰ   τὸ λελεπίσθαι ὑπὸ τῶν ἀνέμων ἢ ὑπὸ τῶν κυμάτων. ὅθεν καὶ λέπα τὰ ἀκρότατα   τῶν ὀρέων: Εὐριπίδης <quote>καὶ Κιθαιρῶνος λέπας</quote>, s. v. λέπας huc relegatur.
 <note/>
 </p>
 <p><ref target="2"/>
@@ -5243,7 +5322,8 @@ suppl. W
 </p>
 <p><ref target="3"/>
 sch. Eur. Phoen. 24
-Hesych. Suid. λέπας
+Hesych. λέπας
+Suid. λέπας
 Eust. 1246, 29. 1863, 53
 </p>
 <p><ref target="12"/>
@@ -5288,8 +5368,7 @@ removit. P ad verba ἐπαύρεσθαι ἀνέμοιο falso haec rettulit.
 
 </p>
 <p><ref target="2"/>
-1279. Et. Gen. (AB) Ποσειδών: ... τὸ δὲ Ποσείδειόν ἐστιν ἄκρον
-τῆς Μυσίας, οἷον 1 1279.
+1279. Et. Gen. (AB) Ποσειδών: ... τὸ δὲ Ποσείδειόν ἐστιν ἄκρον τῆς Μυσίας, οἷον I 1279.
 
 3. Et. Gen. (B) χαροπός: περιχαρής, εὐόφθαλμος. ἐξ οὗ χαροπὴ παρὰ Ἀπολλωνίῳ: I 1280-1. διαλάμπουσιν· ἐξ οὗ γλαυκῶπις ἡ  Ἀθηνᾶ. περάτη νῦν μὲν ἡ ἀνατολή δύναται δὲ καὶ ἐπὶ τῆς δύσεως καὶ ἐπ᾽ ἄρκτου καὶ μεσημβρίας περάτη λέγεσθαι· ἑκάστη γὰρ τούτων ἀντικρὺ γωνίας τῆς ἄλλης τοῦ οὐρανοῦ κειμένη περάτη καὶ τέλος ἐστίν.
 
@@ -5299,12 +5378,12 @@ Et. Gen. (AB) γλαύσουσι: I 1281. ἀντὶ τοῦ λάμπουειν:
 <p><ref target="6"/>
 Epim. Hom. (Cram. An. Ox. I 101, D).
 Et. M. 233, 34
-Et. Gud. 312, 6. 14 De Stef.
+Et. Gud. 312, 6 De Stef. 14
 </p>
 <p><ref target="7"/>
 Et. Or. 40,1
 Et. M. 234, 3.
-Et. Gud. 312, 21. 313, 2 De Stef.
+Et. Gud. 312, 21 De Stef. 313, 2
 </p>
 <p><ref target="8"/>
 Plut. De facie in orbe lunae 21 (934 D)
@@ -5334,7 +5413,7 @@ del. W
 </p>
 <p><ref target="7"/>
 sch. 1167/68b
-Apoll. Bibl I 118 (cf. W 100)
+Apoll. Bibl. I 118 (cf. W 100)
 sch. Pind. Pyth. IV  303 b
 Diod. IV 44,5
 </p>
@@ -5384,7 +5463,8 @@ Et. M. 420, 35
 Et. Gen. (A B)  ὄστλιγγες: olov I 1297. ὄστλιγγές εἰσιν αἱ λαμπηδόνες, παρὰ τῷ (Sylburg, τὸ AB) ὄcce καὶ τὴν (τὸ Reitzenstein) ἴλιγγα, ὀσσίλιγγές τινες οὖσαι καὶ ὄστλιγγες κατὰ συγκοπήν. σημαίνει δὲ καὶ τρίχας, ὡς παρὰ Καλλιμάχῳ ἐν τῷ πρώτῳ Αἰτίων·  <quote>ἀπ᾿ ὀστλίγγων αἰὲν ἄλειφα ῥέει.</quote> παρὰ τὸ ὀστοῦν <add>καὶ τὸ</add> (add. W) εἰλεῖσθαι,  ὀστοΐλιγγές τινες οὖσαι, αἱ περὶ τὸ ὀστέον εἰλούμεναι. ἢ παρὰ <add>τὸ περὶ</add> (add. W)  τὰ ὀστώδη μέρη τῆς κεφαλῆς εἰλεῖσθαι καὶ ευνηθροῖσθαι. Ὦρος (immo Ὠρίων W) καὶ ἄλλοι. Et. Or 116,29
 sch. Nic. Al. 471
 Hesych. ἄστλιγγας. ὄστλιγξ
-Suid, ὄστλιγγες Et. M. 159, 58
+Suid. ὄστλιγγες 
+Et. M. 159, 58
 
 20. sch. B T Τ 267.
 sch. η 35
@@ -5406,7 +5486,9 @@ fortasse ἐν Αἰτίοις, cf. Et. Gen, et Et. Or.
 διάστημα θαλάσσης οἱονεὶ λάτμημα Lg
 λάταμα W e sch. Τ 267; : λάτμημα L : λαίτμημα Ρ λατύσσεσθαι coll. Hesych. λατύσσει K. : λαττύπεσθαι L : om. P
 <pb n="118"/>
-3. Apoll Bibl. III 199
+</p>
+<p><ref target="3"/>
+Apoll. Bibl. III 199
 Hyg. Fab. 14 (47, 21 Schm.)
 </p>
 <p><ref target="27"/>
@@ -5440,7 +5522,7 @@ Herodian. II  789, 28. 835, 12 L
 <p><ref target="1"/>
 Paus. IX 22,7
 Athen. VII 296b—297a
-sch. Eur, Or. 364
+sch. Eur. Or. 364
 Et. M. 685, 44
 Tz. Lyc. 241, 9 Sch.
 Serv. Verg. Aen. V 823.
@@ -5455,7 +5537,7 @@ sch. 1177/78a cum loc. sim.
 <p><ref target="28"/>
 sch. II 373/76a. 1005/06a
 Aesch. Prom. 714
-Xen. Àn. V 5, 1
+Xen. An. V 5, 1
 Strab. XII 549
 Dion. Per. 768 cum Eust. comm.
 Steph. Byz. Χάλυβες
@@ -5534,7 +5616,7 @@ Eust. 1191, 30. 1193, 60
 </p>
 <p><ref target="20"/>
 Sch. T Ε 397.
-Et M. 33, 47.
+Et. M. 33, 47.
 Eust. 333, 43. 563, 26
 <note/>
 </p>
@@ -5567,7 +5649,9 @@ Et. M. 372, 7
 Eust. 1498, 44
 </p>
 <p><ref target="14"/>
-Hesych. Phot. Suid. ῥύσια
+Hesych. ῥύσια
+Phot.  ῥύσια
+Suid. ῥύσια
 <note/>
 </p>
 <p><ref target="10"/>
