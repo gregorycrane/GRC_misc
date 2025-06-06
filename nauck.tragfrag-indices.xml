@@ -1,7 +1,11 @@
+<tei>
+    <text>
+        <body>
 <pb n="959"/>
 <head>ΙΝDICΕS</head>
 <pb n="960"/>
 <pb n="961"/>
+<div type="commentary" subtype="index">
 <head>INDEX POETARVM</head>
 <p>Ἀγάθων p. 763</p>
 <p>Αἰσαντίδης (Αἰαντιάδης) Vit.
@@ -7409,3 +7413,7 @@ ADESPOTA
 <p>494 691</p>
 <p>496 P. 730 593</p>
 <p>499 598</p>
+</div>
+</body>
+    </text>
+</tei>
