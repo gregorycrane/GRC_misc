@@ -1,0 +1,4390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Greek-Latin Lexicon</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Digital edition</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Converted from print lexicon</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="lexicon">
+        
+<entry xml:id="ba">
+  <form>
+    <orth xml:lang="grc">Βᾶ</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">o rex</def>
+  </sense>
+  <cit>
+    <bibl>Supplices 892 901</bibl>
+    <quote xml:lang="grc">ὦ βᾶ (βὰ Μ) Γᾶς παῖ, | Ζεῦ.</quote>
+    <note xml:lang="lat">βᾶ pro βασιλεῦ positum putabat Scaliger. Scholiasta qui reddit ὦ πάτερ Ζεῦ, Γῆς παῖ, legisse videtur ὦ παῖ Γᾶς, πᾶ Ζεῦ, ut monuit Valcken. ad Theocr. Adon. p. 382. vel ὦ πᾶ, Γᾶς παῖ, Ζεῦ, quod aliis placuit. βᾶς, πᾶς πᾶ, ὁ πατήρ memorat Arcadius p. 125, 14, utrumque etiam Choerob. p. 16, 8 (cui Bâs nomen proprium est regis Pontici, quem memorat Memno ap. Phot. Bibl. p. 228, 17). βa autem pro βασιλεῦ dictum comparandum cum similis apocopae exemplis, de quibus dixit Lobeck. Paralip. p. 78.</note>
+  </cit>
+</entry>
+<entry xml:id="babylōn">
+  <form>
+    <orth xml:lang="grc">Βαβυλών</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">Babylon</def>
+  </sense>
+  <cit>
+    <bibl>Persians 52</bibl>
+    <quote xml:lang="grc">Βαβυλών δ᾽ ἡ πολύχρυσος.</quote>
+  </cit>
+</entry>
+<entry xml:id="bagma">
+  <form>
+    <orth xml:lang="grc">βάγμα</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">vox</def>
+  </sense>
+  <cit>
+    <bibl>Persians 635</bibl>
+    <quote xml:lang="grc">ἱέντος τὰ παναίολ᾽ αἰανῆ δύσθροα βάγματα.</quote>
+  </cit>
+</entry>
+<entry xml:id="badēn">
+  <form>
+    <orth xml:lang="grc">βάδην</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">pedetentim</def>
+  </sense>
+  <cit>
+    <bibl>Persians 19</bibl>
+    <quote xml:lang="grc">πεζοί τε βάδην πολέμου στίφος παρέχοντες.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 886</bibl>
+    <quote xml:lang="grc">ἄραχνος ὣς βάδην.</quote>
+  </cit>
+</entry>
+<entry xml:id="bazō">
+  <form>
+    <orth xml:lang="grc">βάζω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">loquor, dico, verba facio</def>
+  </sense>
+  <cit>
+    <bibl>Septem 483</bibl>
+    <quote xml:lang="grc">ὑπέραυχα βάζουσιν ἐπὶ πτόλει.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 571</bibl>
+    <quote xml:lang="grc">κακοῖσι βάζει πολλά Τυδέως βίαν.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 593</bibl>
+    <quote xml:lang="grc">λέλυται γὰρ λαὸς ἐλεύθερα βάζειν.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 882</bibl>
+    <quote xml:lang="grc">καθεύδουσιν μάτην ἄκραντα βάζω.</quote>
+  </cit>
+</entry>
+<entry xml:id="bathos">
+  <form>
+    <orth xml:lang="grc">βάθος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">profunditas</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 1029</bibl>
+    <quote xml:lang="grc">κνεφαῖά τ᾽ ἀμφὶ ταρτάρου βάθη.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">abundantia</def>
+  </sense>
+  <cit>
+    <bibl>Persians 465</bibl>
+    <quote xml:lang="grc">κακῶν ὁρῶν βάθος.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 712</bibl>
+    <quote xml:lang="grc">πρὶν κακῶν ἰδεῖν βάθος.</quote>
+  </cit>
+</entry>
+<entry xml:id="bathreia">
+  <form>
+    <orth xml:lang="grc">βαθρεία</orth>
+  </form>
+  <sense>
+    <note xml:lang="lat">fundamentum significare putatur in loco corrupto Suppl. 860, quem v. s. v. βαθυχαῖος.</note>
+  </sense>
+</entry>
+<entry xml:id="bathron">
+  <form>
+    <orth xml:lang="grc">βάθρον</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">fundamentum</def>
+  </sense>
+  <cit>
+    <bibl>Persians 812</bibl>
+    <quote xml:lang="grc">δαιμόνων θ᾽ ἱδρύματα πρόρριζα φύρδην ἐξανέστραπται βάθρων.</quote>
+  </cit>
+</entry>
+
+<entry xml:id="bathyboulos">
+  <form>
+    <orth xml:lang="grc">βαθύβουλος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">profundi consilii, prudens</def>
+  </sense>
+  <cit>
+    <bibl>Persians 142</bibl>
+    <quote xml:lang="grc">φροντίδα κεδνὴν καὶ βαθύβουλον.</quote>
+  </cit>
+</entry>
+<entry xml:id="bathyzōnos">
+  <form>
+    <orth xml:lang="grc">βαθύζωνος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">profunde succinctus, demissam zonam habens</def>
+  </sense>
+  <cit>
+    <bibl>Persians 155</bibl>
+    <quote xml:lang="grc">ὦ βαθυζώνων ἄνασσα Περσίδων ὑπερτάτη.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 169</bibl>
+    <quote xml:lang="grc">τίνος ποτ᾽ ἀνδρὸς ἢ βαθυζώνου κόρης;</quote>
+  </cit>
+</entry>
+<entry xml:id="bathukolpos">
+  <form>
+    <orth xml:lang="grc">βαθύκολπος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">profundos sinus habens</def>
+  </sense>
+  <cit>
+    <bibl>Septem 864</bibl>
+    <quote xml:lang="grc">ἐκ βαθυκόλπων στηθέων ἥσειν ἄλγος,</quote>
+    <note xml:lang="lat">i. e. ex altis pectoribus.</note>
+  </cit>
+</entry>
+<entry xml:id="bathyploutos">
+  <form>
+    <orth xml:lang="grc">βαθύπλουτος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">valde dives</def>
+  </sense>
+  <cit>
+    <bibl>Supplices 554</bibl>
+    <quote xml:lang="grc">βαθύπλουτον χθόνα.</quote>
+  </cit>
+</entry>
+<entry xml:id="bathys">
+  <form>
+    <orth xml:lang="grc">βαθύς</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">profundus</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 652</bibl>
+    <quote xml:lang="grc">πρὸς Λέρνης βαθὺν λειμώνα.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 593</bibl>
+    <quote xml:lang="grc">βαθεῖαν ἄλοκα διὰ φρενός καρπούμενος.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 796</bibl>
+    <quote xml:lang="grc">βαθύ πτώμα μαρτυροῦσά μοι.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 956</bibl>
+    <quote xml:lang="grc">πόλιν πύργων βαθεία μηχανῇ κεκλῃμένην.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 407</bibl>
+    <quote xml:lang="grc">δεῖ τοι βαθείας φροντίδος σωτηρίου.</quote>
+  </cit>
+</entry>
+<entry xml:id="bathychaios">
+  <form>
+    <orth xml:lang="grc">βαθυχαῖος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">valde nobilis</def>
+  </sense>
+  <cit>
+    <bibl>Supplices 859</bibl>
+    <quote xml:lang="grc">ἄγειος (γεῖος Hermannus, quod possessorem terrae et in ea natum significet, γέγειος Lobeck. Paralip. p. 552, ἔγγαιος Weilius) ἐγὼ (ἔχω Butlerus) βαθυχαῖος βαθρείας βαθρείας, γέρον.</quote>
+    <note xml:lang="lat">Scripturam manifesto corruptam interpretatur scholiasta ἡ μεγάλως εὐγενῆς · χάοι (scr. χαοί) γὰρ οἱ εὐγενεῖς, ἐγὼ ή βαθυχαῖος ἀναξία ταύτης τῆς βαθρείας, ὦ γέρον. Pro βαθυχαῖος, nisi hoc quoque corruptum est, βαθυχάϊος scribendum erit cum L. Dindorfio in Thes. vol. 2 p. 39, ut χάϊος et χαϊώτερος scribitur: de quo dictum in Thes. vol. 8 p. 1222.</note>
+  </cit>
+</entry>
+<entry xml:id="bathychaitēeis">
+  <form>
+    <orth xml:lang="grc">βαθυχαιτήεις</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">promissam comam habens</def>
+  </sense>
+  <cit>
+    <bibl>Fr. (elegiae) 450</bibl>
+    <quote xml:lang="grc">β. Μήδος.</quote>
+  </cit>
+</entry>
+<entry xml:id="bathychthōn">
+  <form>
+    <orth xml:lang="grc">βαθύχθων</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">profundi soli, fecundus, fertilis</def>
+  </sense>
+  <cit>
+    <bibl>Septem 306</bibl>
+    <quote xml:lang="grc">τὰν βαθύχθον᾽ αἰαν.</quote>
+  </cit>
+</entry>
+<entry xml:id="bainō">
+  <form>
+    <orth xml:lang="grc">βαίνω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">[Perfectum est βέβηκα (Dorice βέβακα), tertia persona pluralis βεβᾶσι, participium βεβώς. Aoristus ἔβην (Dorice ἔβαν), cum tertia persona pluralis ἔβαν, Pers. 18 (syllaba altera producta in anapaestis ante interpunctionem), imperativus βᾶτε, infinitivus βῆναι, participium βάς, plurali numero βᾶσαι.]</def>
+  </sense>
+  <sense>
+    <def xml:lang="lat">gradior, incedo</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 924</bibl>
+    <quote xml:lang="grc">ἐν ποικίλοις δὲ θνητὸν ὄντα κάλλεσιν βαίνειν.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 882</bibl>
+    <quote xml:lang="grc">βαίνειν κελεύω βᾶριν εἰς ἀμφίστροφον.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 73</bibl>
+    <quote xml:lang="grc">πόροι τε πάντες ἐκ μιᾶς ὁδοῦ βαίνοντες.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 832</bibl>
+    <quote xml:lang="grc">βαῖνε φυγᾷ πρὸς ἀλκάν.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 407</bibl>
+    <quote xml:lang="grc">βέβακεν ῥίμφα διὰ πυλᾶν.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 425</bibl>
+    <quote xml:lang="grc">βέβακεν ὄψις οὐ μεθύστερον.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 1002</bibl>
+    <quote xml:lang="grc">βεβᾶσι γὰρ τοίπερ ἀγρέται στρατοῦ · βεβᾶσιν, οἳ, νώνυμοι,</quote>
+    <note xml:lang="lat">abierunt, i. e. perierunt.</note>
+  </cit>
+  <cit>
+    <bibl>[Eumenides 76]</bibl>
+    <quote xml:lang="grc">βεβῶτ᾽ ἀν᾿ ἀεὶ τὴν πλανοστιβή χθόνα.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 22</bibl>
+    <quote xml:lang="grc">ἰαλτὸς ἐκ δόμων ἔβαν.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 905</bibl>
+    <quote xml:lang="grc">δι᾽ ὧν νεῖκος ἔβα.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 18</bibl>
+    <quote xml:lang="grc">προλιπόντες ἔβαν.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 1033</bibl>
+    <quote xml:lang="grc">βᾶτε δόμῳ.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 191</bibl>
+    <quote xml:lang="grc">ἀλλ᾽ ὡς τάχιστα βᾶτε.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 256</bibl>
+    <quote xml:lang="grc">μὴ λάθη φύγδα βάς.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 272</bibl>
+    <quote xml:lang="grc">πέδοι δὲ βᾶσαι τὰς προσερπούσας τύχας ἀκούσατε.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 723</bibl>
+    <quote xml:lang="grc">ἐς μεσημβρινὴν βῆναι κέλευθον.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 936</bibl>
+    <quote xml:lang="grc">ἐν ποικίλοις ἂν κάρτα μοι βῆναι δοκεῖ.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 862</bibl>
+    <quote xml:lang="grc">σὺ δὲ ναῒ ναῒ βάσει (βάσῃ M) τάχα</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">Perfectum βέβηκα saepe praesentis significationem habet sum, versor</def>
+    <note xml:lang="lat">de quo v. Thes. vol. 2 p. 43.</note>
+  </sense>
+</entry>
+<entry xml:id="baios">
+  <form>
+    <orth xml:lang="grc">βαιός</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">parvus, paucus</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 1574</bibl>
+    <quote xml:lang="grc">κτεάνων τε μέρος βαιὸν ἐχούσῃ πᾶν ἀπόχρη μοι.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 447</bibl>
+    <quote xml:lang="grc">νῆσός τις ἐστὶ πρόσθε Σαλαμίνος τόπων βαιά.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 1023</bibl>
+    <quote xml:lang="grc">βαιά γ᾽ ὡς ἀπὸ πολλῶν.</quote>
+  </cit>
+</entry>
+<entry xml:id="bakkaris">
+  <form>
+    <orth xml:lang="grc">βάκκαρις</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">baccaris</def>
+  </sense>
+  <cit>
+    <bibl>Fr. 12</bibl>
+    <quote xml:lang="grc">κἄγωγε τὰς σὰς βακκάρεις τε καὶ μύρα.</quote>
+  </cit>
+</entry>
+<entry xml:id="baktrios">
+  <form>
+    <orth xml:lang="grc">Βάκτριος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">Bactrius</def>
+  </sense>
+  <cit>
+    <bibl>Persians 306</bibl>
+    <quote xml:lang="grc">Βακτρίων ίθαγενής.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 318</bibl>
+    <quote xml:lang="grc">᾿Αρτάμης τε Βάκτριος.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 732</bibl>
+    <quote xml:lang="grc">Βακτρίων δ᾽ ἔρρει πανώλης δῆμος.</quote>
+  </cit>
+</entry>
+<entry xml:id="baktron">
+  <form>
+    <orth xml:lang="grc">βάκτρον</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">baculus</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 202</bibl>
+    <quote xml:lang="grc">χθόνα βάκτροις ἐπικρούσαντας.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 362</bibl>
+    <quote xml:lang="grc">πεισιβρότῳ τε βάκτρῳ.</quote>
+  </cit>
+</entry>
+<entry xml:id="bakchaō">
+  <form>
+    <orth xml:lang="grc">βακχάω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">bacchor</def>
+  </sense>
+  <cit>
+    <bibl>Septem 498</bibl>
+    <quote xml:lang="grc">ἔνθεος δ᾽ Ἄρει βακχᾷ πρὸς ἀλκήν.</quote>
+  </cit>
+</entry>
+<entry xml:id="bakcheia">
+  <form>
+    <orth xml:lang="grc">βακχεία</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">bacchatio</def>
+  </sense>
+  <cit>
+    <bibl>Choephori 698</bibl>
+    <quote xml:lang="grc">ἤπερ ἐν δόμοισι βακχείας καλῆς ἰατρὸς ἐλπὶς ἦν.</quote>
+  </cit>
+</entry>
+<entry xml:id="bakcheus">
+  <form>
+    <orth xml:lang="grc">βακχεύς</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">bacchator</def>
+  </sense>
+  <cit>
+    <bibl>Fr. 394</bibl>
+    <quote xml:lang="grc">ὁ κισσεὺς ᾿Απόλλων, ὁ βακχεὺς, ὁ μάντις.</quote>
+    <note xml:lang="lat">(apud Macrob. Sat. 18, 6) Sic vel ὁ βακχᾶς Nauckius pro ΟΒΑΚΣΙΟΣ, quod est in cod. vetustissimo Vaticano.</note>
+  </cit>
+</entry>
+<entry xml:id="bakcheuō">
+  <form>
+    <orth xml:lang="grc">βακχεύω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">bacchor</def>
+  </sense>
+  <cit>
+    <bibl>Fr. 64 a</bibl>
+    <quote xml:lang="grc">ἐνθουσιᾷ δὴ δῶμα, βακχεύει στέγη.</quote>
+  </cit>
+</entry>
+<entry xml:id="bakchē">
+  <form>
+    <orth xml:lang="grc">Βάκχη</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">Baccha</def>
+  </sense>
+  <cit>
+    <bibl>Eumenides 25</bibl>
+    <quote xml:lang="grc">ἐξ οὔτε Βάκχαις ἐστρατήγησεν θεός.</quote>
+  </cit>
+</entry>
+<entry xml:id="ballēn">
+  <form>
+    <orth xml:lang="grc">βαλλήν</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">rex</def>
+  </sense>
+  <cit>
+    <bibl>Persians 657</bibl>
+    <quote xml:lang="grc">βαλλὴν ἀρχαῖος, βαλλὴν ἔλθ᾽ ἱκοῦ.</quote>
+    <note xml:lang="lat">Phrygiae dialecto tribuunt Sextus Emp. p. 286 et Hesychius s. h. v. Utrobique in apogr βαλήν: de quo v. Thes. vol. 2 р. 79.</note>
+  </cit>
+</entry>
+
+<entry xml:id="ballō">
+  <form>
+    <orth xml:lang="grc">βάλλω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">(cum perfecto βέβληκα, aoristo ἔβαλον, futuro βαλῶ) iacio, iaculor, ferio. Dicitur vel proprie de rebus quae iaciuntur, vel improprie de rebus quae sensus feriunt.</def>
+  </sense>
+  <cit>
+    <bibl>Septem 629</bibl>
+    <quote xml:lang="grc">πύργων δ᾽ ἔκτοθεν βαλὼν Ζεύς σφε κάνοι κεραυνῷ.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 240</bibl>
+    <quote xml:lang="grc">ἔβαλλ᾽ ἕκαστον θυτήρων ἀπ᾿ ὄμματος βέλει φιλοίκτῳ.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 357</bibl>
+    <quote xml:lang="grc">ἥτ᾽ ἐπὶ Τροίας πύργοις ἔβαλες στεγανὸν δίκτυον.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 947</bibl>
+    <quote xml:lang="grc">θεῶν μή τις πρόσωθεν ὄμματος βάλοι φθόνος.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1009</bibl>
+    <quote xml:lang="grc">καὶ τὸ μὲν πρὸ (conieci μέν τι) χρημάτων κτησίων ὄκνος βαλών σφενδόνας ἀπ᾿ εὐμέτρου οὐκ ἔδυ πρόπας δόμος.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1172</bibl>
+    <quote xml:lang="grc">ἐγὼ δὲ θερμόνους τάχ᾽ ἐν πέδῳ βαλῶ.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1390</bibl>
+    <quote xml:lang="grc">βάλλει μ' ἐρεμνῇ ψακάδι φοινίας δρόσου.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 71</bibl>
+    <quote xml:lang="grc">ἀμφὶ πλευραῖς μασχαλιστῆρας βάλε.</quote>
+    <note xml:lang="lat">quod per tmesin dictum esse potest pro ἀμφίβαλε, ut Ag. 1559 περὶ χεῖρε βαλοῦσα φιλήσει pro περιβαλοῦσα et Ch. 395 καὶ πότ᾽ ἂν ἀμφιθαλὴς Ζεὺς ἐπὶ χεῖρα βάλοι pro ἐπιβάλοι, et 574 καὶ κατ᾿ ὀφθαλμοὺς βαλεῖ pro καταβαλεῖ.</note>
+  </cit>
+  <cit>
+    <bibl>Eumenides 787</bibl>
+    <quote xml:lang="grc">βροτοφθόρους κηλίδας ἐν χώρα βαλεῖ.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 858</bibl>
+    <quote xml:lang="grc">σὺ δ᾽ ἐν τόποισι τοῖς ἐμοῖσι μὴ βάλης μήθ᾽ αἱματηρὰς θηγάνας.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 166</bibl>
+    <quote xml:lang="grc">εἰ τὸ μάταν ἀπὸ φροντίδος ἄχθος χρὴ βαλεῖν ἐτητύμως.</quote>
+  </cit>
+  <cit>
+    <bibl>[Eumenides 701]</bibl>
+    <quote xml:lang="grc">καὶ μὴ τὸ δεινὸν πᾶν πόλεως ἔξω βαλεῖν.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 1014</bibl>
+    <quote xml:lang="grc">Πολυνείκους νεκρὸν ἔξω βαλεῖν ἄθαπτον.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 14</bibl>
+    <quote xml:lang="grc">καὶ παλτὰ κάγκυλητὰ καὶ χλῆδον βαλών.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 182</bibl>
+    <quote xml:lang="grc">μηδ' αἵματος πέμφιγα πρὸς πέδῳ βάλης.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 196</bibl>
+    <quote xml:lang="grc">οἷς ἔπειτα σὺ βαλὼν διώσει ῥᾳδίως Λίγυν στρατόν.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 470</bibl>
+    <quote xml:lang="grc">βάλλεται γὰρ ὄσσοις Διόθεν κεραυνός.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">De tesserarum iactu</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 33</bibl>
+    <quote xml:lang="grc">τρὶς ἓξ βαλούσης τῆσδέ μοι φρυκτωρίας.</quote>
+    <note xml:lang="lat">qui summus est iactus in ludo tesserario: v. s. ν. τρίς.</note>
+  </cit>
+  <cit>
+    <bibl>Fr. 132</bibl>
+    <quote xml:lang="grc">βέβληκ᾿ ᾿Αχιλλεὺς δύο κύβω καὶ τέσσαρα.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 751</bibl>
+    <quote xml:lang="grc">γνώμης δ᾽ ἀπούσης πῆμα γίγνεται μέγα, βαλοῦσά τ᾽ οἶκον ψῆφος ὤρθωσεν μία,</quote>
+    <note xml:lang="lat">quod schol. exp. ἡ ψῆφος δὲ βαλεῖν τε καὶ ὀρθῶσαι οἶκον δύναται, ut βαλοῦσα pro καταβαλοῦσα dictum sit, de quo v. Thes. vol. 2 p. 87. Hermannus βαλοῦσα ad ψῆφον refert, quoniam intelligatur βαλὼν τὴν γνώμην εἰς ψηφιζόμενος: quod clarius exprimi potuisset passivo βληθεῖσα.</note>
+  </cit>
+  <sense>
+    <def xml:lang="lat">iniicio</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 388</bibl>
+    <quote xml:lang="grc">μὴ γάρ σε θρήνος οὑμὸς εἰς ἔχθραν βάλη.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 706</bibl>
+    <quote xml:lang="grc">τοὺς ἐμοὺς λόγους θυμῷ βάλε.</quote>
+    <note xml:lang="lat">Nam sic recte in apogr. correctum pro μάθε, quod est in M.</note>
+  </cit>
+  <cit>
+    <bibl>Septem 1028</bibl>
+    <quote xml:lang="grc">κἀνὰ κίνδυνον βαλῶ.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 1048</bibl>
+    <quote xml:lang="grc">οὔ, πρίν γε χώραν τήνδε κινδύνῳ βαλεῖν.</quote>
+  </cit>
+</entry>
+<entry xml:id="balos">
+  <form>
+    <orth xml:lang="grc">βαλός</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">limen</def>
+  </sense>
+  <cit>
+    <bibl>Choephori 571</bibl>
+    <quote xml:lang="grc">εἰ δ᾽ οὖν ἀμείψω βαλὸν ἕρκειον πυλῶν.</quote>
+    <note xml:lang="lat">Est forma Dorica pro βηλός, qua tragici etiam in diverbiis constanter usi sunt. Bekk. Anecd. p. 224, 15 τὸν τῆς θύρας οὐδὸν, ὃν Ὅμηρος βηλόν, οἱ δὲ τραγικοί βαλόν. Comicos addit grammaticus Hermanni p. 444 βαλός: οὕτως ὁ βαθμὸς ἐν τῇ τραγῳδίᾳ καὶ ἐν τῇ κωμῳδίᾳ, unde supplendus Draco p. 35, 22, ubi βαλός excidisse monuit L. Dindorfius in Thes. vol. 2 p. 95 βαλός etiam apud Hesychium.</note>
+  </cit>
+</entry>
+<entry xml:id="baxis">
+  <form>
+    <orth xml:lang="grc">βάξις</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">fama</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 10</bibl>
+    <quote xml:lang="grc">αὐγὴν πυρὸς φέρουσαν ἔκ Τροίας φάτιν ἁλώσιμόν τε βάξιν.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 477</bibl>
+    <quote xml:lang="grc">πόλιν διήκει θοὰ βάξις.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 976</bibl>
+    <quote xml:lang="grc">ξύν τ᾽ εὐκλείᾳ καὶ ἀμηνίτῳ βάζει.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">De effato oraculi</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 663</bibl>
+    <quote xml:lang="grc">τέλος δ᾽ ἐναργὴς βάξις ἦλθεν Ἰνάχῳ.</quote>
+  </cit>
+</entry>
+<entry xml:id="baptō">
+  <form>
+    <orth xml:lang="grc">βάπτω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">tingo, conspergo</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 863</bibl>
+    <quote xml:lang="grc">δίθηκτον ἐν σφαγαῖσι βάψασα ξίφος.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 1011</bibl>
+    <quote xml:lang="grc">ὡς ἔβαψεν Αἰγίσθου ξίφος.</quote>
+  </cit>
+</entry>
+<entry xml:id="barbaros">
+  <form>
+    <orth xml:lang="grc">βάρβαρος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">barbarus</def>
+  </sense>
+  <cit>
+    <bibl>Persians 634</bibl>
+    <quote xml:lang="grc">βάρβαρα σαφηνῆ ἱέντος τὰ παναίολ᾽ αἰανῆ δύσθροα βάγματα.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 919</bibl>
+    <quote xml:lang="grc">βαρβάρου φωτός δίκην.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1051</bibl>
+    <quote xml:lang="grc">ἀγνῶτα φωνὴν βάρβαρον κεκτημένη.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 235</bibl>
+    <quote xml:lang="grc">πέπλοισι βαρβάροισι – χλίοντα.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 463</bibl>
+    <quote xml:lang="grc">φιμοὶ δὲ συρίζουσι βάρβαρον νόμον.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 187</bibl>
+    <quote xml:lang="grc">ἡ μὲν Ἑλλάδα κλήρῳ λαχοῦσα γαῖαν, ἡ δὲ βάρβαρον.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 255</bibl>
+    <quote xml:lang="grc">στρατὸς γὰρ πᾶς ὄλωλε βαρβάρων.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 337</bibl>
+    <quote xml:lang="grc">βαρβάρους ναυσὶν κρατῆσαι.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 391</bibl>
+    <quote xml:lang="grc">φόβος δὲ πᾶσι βαρβάροις προσῆν.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 423</bibl>
+    <quote xml:lang="grc">ὅσαιπερ ἦσαν βαρβάρου στρατεύματος.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 434</bibl>
+    <quote xml:lang="grc">Πέρσαις τε καὶ πρόπαντι βαρβάρων γένει.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 475</bibl>
+    <quote xml:lang="grc">οὓς πρόσθε Μαραθών βαρβάρων ἀπώλεσεν.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 798</bibl>
+    <quote xml:lang="grc">πᾶν στράτευμα βαρβάρων.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 844</bibl>
+    <quote xml:lang="grc">καὶ παρόντα καὶ μέλλοντ᾽ ἔτι ἤλγησ᾽ ἀκούσας βαρβάροισι πήματα.</quote>
+  </cit>
+</entry>
+<entry xml:id="baris">
+  <form>
+    <orth xml:lang="grc">βᾶρις</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">navigium</def>
+  </sense>
+  <cit>
+    <bibl>Persians 554</bibl>
+    <quote xml:lang="grc">βαρίδεσσι ποντίαις.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 1075</bibl>
+    <quote xml:lang="grc">τρισκάλμοισιν – βάρισιν ὀλόμενοι.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 837</bibl>
+    <quote xml:lang="grc">σοῦσθ᾽ ἐπὶ βᾶριν.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 874</bibl>
+    <quote xml:lang="grc">Αἰγυπτίαν γὰρ βᾶριν οὐχ ὑπερθορεῖ.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 882</bibl>
+    <quote xml:lang="grc">βαίνειν κελεύω βᾶριν εἰς ἀμφίστροφον.</quote>
+  </cit>
+</entry>
+<entry xml:id="baros">
+  <form>
+    <orth xml:lang="grc">βάρος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">pondus, onus</def>
+  </sense>
+  <cit>
+    <bibl>Choephori 992</bibl>
+    <quote xml:lang="grc">ἐξ οὗ τέκνων ἤνεγχ᾽ ὑπὸ ζώνην βάρος.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">calamitas</def>
+  </sense>
+  <cit>
+    <bibl>Persians 945</bibl>
+    <quote xml:lang="grc">ἁλίτυπα βάρη.</quote>
+  </cit>
+</entry>
+<entry xml:id="barydikos">
+  <form>
+    <orth xml:lang="grc">βαρύδικος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">graviter ulciscens</def>
+  </sense>
+  <cit>
+    <bibl>Choephori 935</bibl>
+    <quote xml:lang="grc">βαρύδικος ποινά.</quote>
+  </cit>
+</entry>
+<entry xml:id="barydoteira">
+  <form>
+    <orth xml:lang="grc">βαρυδότειρα</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">gravia mala praebens</def>
+  </sense>
+  <cit>
+    <bibl>Septem 975 986</bibl>
+    <quote xml:lang="grc">ἰὼ Μοῖρα βαρυδότειρα μογερά.</quote>
+  </cit>
+</entry>
+<entry xml:id="barykotos">
+  <form>
+    <orth xml:lang="grc">Βαρύκοτος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">graviter irascens</def>
+  </sense>
+  <cit>
+    <bibl>Eumenides 780 810</bibl>
+    <quote xml:lang="grc">ἐγὼ δ᾽ ἄτιμος ἁ τάλαινα βαρύκοτος.</quote>
+  </cit>
+</entry>
+<entry xml:id="barymēnis">
+  <form>
+    <orth xml:lang="grc">βαρύμηνις</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">graviter irascens</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 1482</bibl>
+    <quote xml:lang="grc">μέγαν οἴκοις τοῖσδε δαίμονα καὶ βαρύμηνιν αἰνεῖς.</quote>
+  </cit>
+</entry>
+<entry xml:id="barynomai">
+  <form>
+    <orth xml:lang="grc">βαρύνομαι</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">premor</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 189</bibl>
+    <quote xml:lang="grc">εὐτ᾿ ἀπλοίᾳ κεναγγεῖ βαρύνοντ᾽ Ἀχαιικὸς λεώς.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 836</bibl>
+    <quote xml:lang="grc">τοῖς τ᾿ αὐτὸς αὑτοῦ πήμασιν βαρύνεται.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1463</bibl>
+    <quote xml:lang="grc">τοῖσδε βαρυνθείς.</quote>
+  </cit>
+</entry>
+<entry xml:id="barypesēs">
+  <form>
+    <orth xml:lang="grc">βαρυπεσής</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">graviter labens s. incumbens</def>
+  </sense>
+  <cit>
+    <bibl>Eumenides 369</bibl>
+    <quote xml:lang="grc">βαρυπεσῆ καταφέρω ποδὸς ἀκμάν.</quote>
+  </cit>
+</entry>
+
+<entry xml:id="barys">
+  <form>
+    <orth xml:lang="grc">βαρύς</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">gravis</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 77</bibl>
+    <quote xml:lang="grc">οὑπιτιμητής γε τῶν ἔργων βαρύς.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 332</bibl>
+    <quote xml:lang="grc">βαρείας τοι τύχας προταρβῶ.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 1044</bibl>
+    <quote xml:lang="grc">βαρεῖὰ γ᾽ ἅδε συμφορά.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 767</bibl>
+    <quote xml:lang="grc">βαρεῖαι καταλλαγαί.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 515</bibl>
+    <quote xml:lang="grc">ὡς ἄγαν βαρὺς ποδοῖν ἐνήλω παντὶ Περσικῷ γενει.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 572</bibl>
+    <quote xml:lang="grc">βαρύ δ᾽ ἀμβόασον οὐράνι᾽ ἄχη.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 206</bibl>
+    <quote xml:lang="grc">βαρεῖα μὲν κὴρ τὸ μὴ πιθέσθαι, βαρεῖα δ᾽, εἰ τέκνον δαΐξω.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 441</bibl>
+    <quote xml:lang="grc">βαρύ (βραχύ Schuetz.) ψήγμα.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 456</bibl>
+    <quote xml:lang="grc">βάρεῖα δ᾽ ἀστῶν φάτις ξὺν κότῳ.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1619</bibl>
+    <quote xml:lang="grc">διδάσκεσθαι βαρὺ τῷ τηλικούτῳ.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 17</bibl>
+    <quote xml:lang="grc">εὐωριάζειν γὰρ πατρὸς λόγους βαρύ.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 470</bibl>
+    <quote xml:lang="grc">τὸ δ᾽ ὑπερκότως κλύειν εὐ βαρύ.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1640</bibl>
+    <quote xml:lang="grc">τὸν δὲ μὴ πειθάνορα Ζεύξω βαρείαις.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1660</bibl>
+    <quote xml:lang="grc">δαίμονος χολῇ βαρείᾳ.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 36</bibl>
+    <quote xml:lang="grc">φόβος – γυναικείοισιν ἐν δώμασιν βαρὺς πίτνων.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 161</bibl>
+    <quote xml:lang="grc">βαρύ, τὸ περίβαρυ κρύος ἔχειν.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 711</bibl>
+    <quote xml:lang="grc">βαρεῖαν τήνδ᾽ ὁμιλίαν χθονός.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 720</bibl>
+    <quote xml:lang="grc">βαρεῖα χώρᾳ τῇδ᾽ ὁμιλήσω πάλιν.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 730</bibl>
+    <quote xml:lang="grc">ἐμεῖ τὸν ἰὸν οὐδὲν ἐχθροῖσιν βαρύν.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 800</bibl>
+    <quote xml:lang="grc">ὑμεῖς δὲ τῇ γῇ τῇδε μὴ βαρὺν κότον σκήψησθε.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 932</bibl>
+    <quote xml:lang="grc">βαρέων τούτων,</quote>
+    <note xml:lang="lat">ubi βαρεῶν metri causa pro βαρειῶν dictum recte restituit A. I. Ahrensius.</note>
+  </cit>
+  <cit>
+    <bibl>Septem 810</bibl>
+    <quote xml:lang="grc">βαρέα δ᾽ οὖν ὅμως φράσον.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 112</bibl>
+    <quote xml:lang="grc">τοιαῦτα πάθεα – λιγέα βαρέα.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 341</bibl>
+    <quote xml:lang="grc">βαρέα σύ γ᾽ εἶπας, πόλεμον αἴρεσθαι νέον.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 346</bibl>
+    <quote xml:lang="grc">βαρύς γε μέντοι Ζηνὸς ἱκτίου κότος.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 415</bibl>
+    <quote xml:lang="grc">βάρὺν ξύνοικον θησόμεσθ᾽ ἀλάστορα.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 650</bibl>
+    <quote xml:lang="grc">βαρὺς δ᾽ ἐφίζει.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 828</bibl>
+    <quote xml:lang="grc">εὔθυνος βαρύς.</quote>
+  </cit>
+</entry>
+<entry xml:id="barystonōs">
+  <form>
+    <orth xml:lang="grc">βαρυστόνως</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">gravi cum gemitu</def>
+  </sense>
+  <cit>
+    <bibl>Eumenides 794</bibl>
+    <quote xml:lang="grc">ἐμοὶ πίθεσθε μὴ βαρυστόνως φέρειν.</quote>
+  </cit>
+</entry>
+<entry xml:id="barytarbēs">
+  <form>
+    <orth xml:lang="grc">βαρυταρβής</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">graviter terrens</def>
+  </sense>
+  <cit>
+    <bibl>Fr. 55</bibl>
+    <quote xml:lang="grc">τυπάνου δ᾽ εἰκὼν φέρεται βαρυταρβής.</quote>
+  </cit>
+</entry>
+<entry xml:id="barytimos">
+  <form>
+    <orth xml:lang="grc">βαρύτιμος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">graviter puniens</def>
+  </sense>
+  <cit>
+    <bibl>Supplices 25</bibl>
+    <quote xml:lang="grc">ὕπατοί τε θεοὶ καὶ βαρύτιμοι χθόνιοι.</quote>
+    <note xml:lang="lat">Schol. οἱ βαρέως τινύμενοι καταχθόνιοι θεοί.</note>
+  </cit>
+</entry>
+<entry xml:id="basileia">
+  <form>
+    <orth xml:lang="grc">βασίλεια</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">regina</def>
+  </sense>
+  <cit>
+    <bibl>Persians 152</bibl>
+    <quote xml:lang="grc">μήτηρ βασιλέως, βασίλεια δ᾽ ἐμή.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 623</bibl>
+    <quote xml:lang="grc">βασίλεια γύναι.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 84</bibl>
+    <quote xml:lang="grc">βασίλεια Κλυταιμνήστρα.</quote>
+  </cit>
+</entry>
+<entry xml:id="basileios">
+  <form>
+    <orth xml:lang="grc">βασίλειος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">regius</def>
+  </sense>
+  <cit>
+    <bibl>Persians 8</bibl>
+    <quote xml:lang="grc">ἀμφὶ δὲ νόστῳ τῷ βασιλείῳ.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 66</bibl>
+    <quote xml:lang="grc">ὁ περσέπτολις βασίλειος στρατός.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 589</bibl>
+    <quote xml:lang="grc">βασιλεία γάρ διόλωλεν ἰσχύς.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 661</bibl>
+    <quote xml:lang="grc">βασιλείου τιάρας.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 96</bibl>
+    <quote xml:lang="grc">πελάνῳ μυχόθεν βασιλείῳ.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 156</bibl>
+    <quote xml:lang="grc">οἴκοις βασιλείοις.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 343</bibl>
+    <quote xml:lang="grc">μελάθροις ἐν βασιλείοις.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 724</bibl>
+    <quote xml:lang="grc">σώματι – τῷ βασιλείῳ.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 1065</bibl>
+    <quote xml:lang="grc">μελάθροις τοῖς βασιλείοις.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 1070</bibl>
+    <quote xml:lang="grc">βασίλεια πάθη.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 386</bibl>
+    <quote xml:lang="grc">τῶν βασιλείων πρόδρομος μελάθρων.</quote>
+  </cit>
+</entry>
+<entry xml:id="basileus">
+  <form>
+    <orth xml:lang="grc">βασιλεύς</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">rex</def>
+  </sense>
+  <cit>
+    <bibl>Persians 5</bibl>
+    <quote xml:lang="grc">ἄναξ Ξέρξης βασιλεύς.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 144</bibl>
+    <quote xml:lang="grc">Ξέρξης βασιλεύς.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 633</bibl>
+    <quote xml:lang="grc">μακαρίτας ἰσοδαίμων βασιλεύς.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 855</bibl>
+    <quote xml:lang="grc">βασιλεὺς ἰσόθεος Δαρεῖος.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 114</bibl>
+    <quote xml:lang="grc">οἰωνῶν βασιλεύς</quote>
+    <note xml:lang="lat">(aquila)</note>
+  </cit>
+  <cit>
+    <bibl>Choephori 360</bibl>
+    <quote xml:lang="grc">βασιλεὺς γὰρ ἦν:</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 58</bibl>
+    <quote xml:lang="grc">δειναῖς βασιλέως ὑπὸ πομπαῖς.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 151</bibl>
+    <quote xml:lang="grc">μήτηρ βασιλέως.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 233</bibl>
+    <quote xml:lang="grc">βασιλέως ὑπήκοος.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1346</bibl>
+    <quote xml:lang="grc">βασιλέως οἰμώγματι.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 521</bibl>
+    <quote xml:lang="grc">δέξασθε κόσμῳ βασιλέα.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 532</bibl>
+    <quote xml:lang="grc">ὦ Ζεῦ βασιλεῦ.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 355</bibl>
+    <quote xml:lang="grc">ὦ Ζεῦ βασιλεῦ.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 629</bibl>
+    <quote xml:lang="grc">βασιλεῦ τ᾽ ἐνέρων.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 918</bibl>
+    <quote xml:lang="grc">ὀτοτοῖ, βασιλεῦ.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 929</bibl>
+    <quote xml:lang="grc">βασιλεῦ γαίας.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 783</bibl>
+    <quote xml:lang="grc">ἄγε δή, βασιλεῦ.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1488</bibl>
+    <quote xml:lang="grc">βασιλεῦ βασιλεῦ.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1513</bibl>
+    <quote xml:lang="grc">βασιλεῦ βασιλεῦ.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 820</bibl>
+    <quote xml:lang="grc">βασιλέοιν δ᾽ ὁμοσπόροιν.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 24</bibl>
+    <quote xml:lang="grc">βασιλῆς βασιλέως ὕποχοι μεγάλου.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 44</bibl>
+    <quote xml:lang="grc">βασιλῆς δίοποι.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 518</bibl>
+    <quote xml:lang="grc">μέλαθρα βασιλέων.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 297</bibl>
+    <quote xml:lang="grc">βασιλέων νείκη.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 764</bibl>
+    <quote xml:lang="grc">σὺν βασιλεῦσι.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 113</bibl>
+    <quote xml:lang="grc">βασιλεῦσι νεῶν.</quote>
+  </cit>
+</entry>
+<entry xml:id="basilikos">
+  <form>
+    <orth xml:lang="grc">βασιλικός</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">regius</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 869</bibl>
+    <quote xml:lang="grc">αὕτη κατ᾿ ῎Αργος βασιλικόν τέξει γένος.</quote>
+  </cit>
+</entry>
+<entry xml:id="basis">
+  <form>
+    <orth xml:lang="grc">βάσις</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">gressus. Improprie</def>
+  </sense>
+  <cit>
+    <bibl>Choephori 452</bibl>
+    <quote xml:lang="grc">ἡσύχῳ φρενών βάσει,</quote>
+    <note xml:lang="lat">ubi schol. ἠρεμαίᾳ τῇ ψυχῇ, ἀντὶ τοῦ προσέχων καὶ μὴ ἀποπλανώμενος.</note>
+  </cit>
+</entry>
+<entry xml:id="baskō">
+  <form>
+    <orth xml:lang="grc">βάσκω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">i. q. βαίνω gradior, venio</def>
+  </sense>
+  <cit>
+    <bibl>Persians 662 671</bibl>
+    <quote xml:lang="grc">βάσκε, πάτερ ἄκακε.</quote>
+  </cit>
+</entry>
+<entry xml:id="bassarai">
+  <form>
+    <orth xml:lang="grc">Βασσάραι</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">Bassarae, bacchae Thraciae,</def>
+    <note xml:lang="lat">de quibus v. quae in Thes. collecta sunt vol. 2 р. 180-182. Sic inscripta fuit Aeschyli tetralogiae Lycurgeae fabula secunda (fr. 20-22b), non Βασσαρίδες, ut in locis nonnullis grammaticorum legitur, de quibus dixi ad Fragm. p. 101.</note>
+  </sense>
+</entry>
+<entry xml:id="bastazō">
+  <form>
+    <orth xml:lang="grc">βαστάζω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">fero</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 888</bibl>
+    <quote xml:lang="grc">ὃς πρῶτος ἐν γνώμᾳ τόδ᾽ ἐβάστασε.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 1019</bibl>
+    <quote xml:lang="grc">πετραία δ᾽ ἀγκάλη σε βαστάσει.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">contrecto</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 35</bibl>
+    <quote xml:lang="grc">εὐφιλῆ χέρα ἄνακτος οἴκων τῇδε βαστάσω χερί.</quote>
+    <note xml:lang="lat">Alia exempla collegit Blomf.</note>
+  </cit>
+</entry>
+<entry xml:id="batanōchos">
+  <form>
+    <orth xml:lang="grc">Βατάνωχος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">n. pr. Persicum</def>
+  </sense>
+  <cit>
+    <bibl>Persians 982</bibl>
+    <quote xml:lang="grc"/>
+  </cit>
+</entry>
+<entry xml:id="bauzō">
+  <form>
+    <orth xml:lang="grc">βαΰζω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">clamo</def>
+  </sense>
+  <cit>
+    <bibl>Persians 13</bibl>
+    <quote xml:lang="grc">νέον δ᾽ ἄνδρα βαΰζει,</quote>
+    <note xml:lang="lat">i. e. magno clamore expetit. Per ἀσαφῶς λέγειν exp. Hesychius.</note>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 449</bibl>
+    <quote xml:lang="grc">τάδε σιγά τις βαΰζει.</quote>
+  </cit>
+</entry>
+<entry xml:id="baphē">
+  <form>
+    <orth xml:lang="grc">βαφή</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">tinctura</def>
+  </sense>
+  <cit>
+    <bibl>Persians 317</bibl>
+    <quote xml:lang="grc">ἀμείβων χρῶτα πορφυρέᾳ βαφῇ.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 238</bibl>
+    <quote xml:lang="grc">κρόκου βαφὰς δ᾽ ἐς πέδον χέουσα.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 612</bibl>
+    <quote xml:lang="grc">οὐδ᾽ οἶδα τέρψιν οὐδ᾽ ἐπίψογον φάτιν ἄλλου πρὸς ἀνδρὸς μᾶλλον ἢ χαλκοῦ βαφάς.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 960</bibl>
+    <quote xml:lang="grc">εἱμάτων βαφάς.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 1013</bibl>
+    <quote xml:lang="grc">πολλάς βαφὰς φθείρουσα τοῦ ποικίλματος.</quote>
+  </cit>
+</entry>
+<entry xml:id="bdelyktropos">
+  <form>
+    <orth xml:lang="grc">βδελύκτροπος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">abominabilis</def>
+  </sense>
+  <cit>
+    <bibl>Eumenides 52</bibl>
+    <quote xml:lang="grc">ἐς τὸ πᾶν βδελύκτροποι.</quote>
+    <note xml:lang="lat">De forma huius adiectivi v. Lobeck. ad Phryn. p. 671.</note>
+  </cit>
+</entry>
+<entry xml:id="bebaios">
+  <form>
+    <orth xml:lang="grc">βέβαιος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">firmus, certus</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 456</bibl>
+    <quote xml:lang="grc">οὔτ᾽ ἀνθεμώδους ἦρος οὔτε καρπίμου θέρους βέβαιον (τέκμαρ).</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 506</bibl>
+    <quote xml:lang="grc">ἄκεά τ᾽ οὐ βέβαια.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 297</bibl>
+    <quote xml:lang="grc">οὐ γάρ ποτ' ἐρεῖς ὡς Ὠκεανοῦ φίλος ἐστὶ βεβαιότερός σοι.</quote>
+  </cit>
+</entry>
+<entry xml:id="bebaiōs">
+  <form>
+    <orth xml:lang="grc">βεβαίως</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">firmiter</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 15</bibl>
+    <quote xml:lang="grc">τὸ μὴ βεβαίως βλέφαρα συμβαλεῖν ὕπνῳ.</quote>
+  </cit>
+</entry>
+<entry xml:id="bebēlos">
+  <form>
+    <orth xml:lang="grc">βέβηλος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">profanus</def>
+  </sense>
+  <cit>
+    <bibl>Supplices 509</bibl>
+    <quote xml:lang="grc">καὶ πῶς βέβηλον ἄλσος ἂν ῥύοιτό με;</quote>
+  </cit>
+</entry>
+<entry xml:id="belemnon">
+  <form>
+    <orth xml:lang="grc">βέλεμνον</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">telum</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 1496 1520</bibl>
+    <quote xml:lang="grc">ἀμφιτόμῳ βελέμνῳ.</quote>
+  </cit>
+</entry>
+<entry xml:id="belos">
+  <form>
+    <orth xml:lang="grc">βέλος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">telum</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 366</bibl>
+    <quote xml:lang="grc">ὅπως ἂν μήτε πρὸ καιροῦ μήθ᾽ ὑπὲρ ἄστρων βέλος ἠλίθιον σκήψειεν.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 184</bibl>
+    <quote xml:lang="grc">ἐπαίσθην δ᾽ ὡς διανταίῳ βέλει.</quote>
+  </cit>
+  <cit>
+    <bibl>[Choephori 286]</bibl>
+    <quote xml:lang="grc">τὸ γὰρ σκοτεινὸν τῶν ἐνερτέρων βέλος.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 381</bibl>
+    <quote xml:lang="grc">τοῦτο διαμπερὲς οὖς ἵκεθ᾽ ἅπερ τι βέλος.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 179</bibl>
+    <quote xml:lang="grc">ὅς ποτ᾿ ἀμφ᾿ ἐμοὶ βέλος γελωτοποιόν τὴν κάκοσμον οὐράνην ἔρριψεν.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 205</bibl>
+    <quote xml:lang="grc">᾿Αγρεὺς δ᾽ ᾿Απόλλων όρθὸν ἰθύνοι βέλος.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 269</bibl>
+    <quote xml:lang="grc">τὰ πολλὰ βέλεα παμμιγῆ.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 1022</bibl>
+    <quote xml:lang="grc">θησαυρὸν βελέεσσιν.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 544</bibl>
+    <quote xml:lang="grc">ὡς πλεῖστ᾽ ἐπ᾿ ἀνδρὶ τῷδ᾽ ἰἀπτεσθαι βέλη.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 510</bibl>
+    <quote xml:lang="grc">ἰάπτων μηκέτ᾽ εἰς ἡμᾶς βέλη.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 161</bibl>
+    <quote xml:lang="grc">τὰ τ᾿ ἐν χεροῖν παλίντονά βέλη ᾿πιπάλλων ῎Αρης, σχέδιά τ᾽ αὐτόκωπα νωμῶν βέλη</quote>
+    <note xml:lang="lat">(ξίφη ex schol. Pauwius.)</note>
+  </cit>
+  <cit>
+    <bibl>Fr. 196, 3</bibl>
+    <quote xml:lang="grc">πέπρωται γάρ σε καὶ βέλη λιπεῖν ἐνταῦθα.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">Multiplex est figuratus vocabuli usus. De fulmine</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 358</bibl>
+    <quote xml:lang="grc">Ζηνὸς ἄγρυπνον βέλος.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 917</bibl>
+    <quote xml:lang="grc">τινάσσων τ᾽ ἐν χεροῖν πύρπνουν βέλος.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 513</bibl>
+    <quote xml:lang="grc">διὰ χερὸς βέλος φλέγων.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 255</bibl>
+    <quote xml:lang="grc">τρέψον εἰς ἐχθροὺς βέλος.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 453</bibl>
+    <quote xml:lang="grc">κεραυνοῦ δὲ νιν βέλος ἐπισχέθοι.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">De stimulo oestri et scorpii</def>
+  </sense>
+  <cit>
+    <bibl>Supplices 556</bibl>
+    <quote xml:lang="grc">εἰσικνουμένου βέλει βουκόλου πτερόεντος.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 165</bibl>
+    <quote xml:lang="grc">κέντημα γλώσσης, σκορπίου βέλος λέγω.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">de stimulo amoris, misericordiae</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 649</bibl>
+    <quote xml:lang="grc">Ζεὺς γὰρ ἱμέρου βέλει πρὸς σοῦ τέθαλπται.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 240</bibl>
+    <quote xml:lang="grc">ἔβαλλ᾽ ἕκαστον θυτήρων ἀπ᾿ ὄμματος βέλει φιλοίκτῳ.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 742</bibl>
+    <quote xml:lang="grc">μαλθακὸν ὀμμάτων βέλος.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">de verbis</def>
+  </sense>
+  <cit>
+    <bibl>Eumenides 676</bibl>
+    <quote xml:lang="grc">ἡμῖν μὲν ἤδη πᾶν τετόξευται βέλος.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">de tempestate</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 371</bibl>
+    <quote xml:lang="grc">θερμοῖς ἀπλάτου βέλεσι πυρπνόου Ζάλης.</quote>
+  </cit>
+</entry>
+<entry xml:id="belteros">
+  <form>
+    <orth xml:lang="grc">βέλτερος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">melior</def>
+  </sense>
+  <cit>
+    <bibl>Septem 337</bibl>
+    <quote xml:lang="grc">τὸν φθίμενον γὰρ προλέγω βέλτερα τῶνδε πράσσειν.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 1070</bibl>
+    <quote xml:lang="grc">τὸ βέλτερον κακοῦ.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 321</bibl>
+    <quote xml:lang="grc">τί γὰρ | ὄψον γένοιτ᾽ ἂν ἀνδρὶ τοῦδε βέλτερον;</quote>
+    <note xml:lang="lat">Sic Porsonus pro βέλτιον, quod est apud Athen. 9 p. 375c.</note>
+  </cit>
+  <sense>
+    <def xml:lang="lat">Superlativus βέλτατος optimus</def>
+  </sense>
+  <cit>
+    <bibl>Eumenides 487</bibl>
+    <quote xml:lang="grc">κρίνασα δ᾽ ἀστῶν τῶν ἐμῶν τὰ βέλτατα.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 1055</bibl>
+    <quote xml:lang="grc">τὸ μὲν ἂν βέλτατον εἴη.</quote>
+    <note xml:lang="lat">Utraque forma poetica est pro βελτίων et βέλτιστος, cuius unum apud Aeschyleum exemplum est Ag. 379 ὑπὲρ τὸ βέλτιστον.</note>
+  </cit>
+</entry>
+<entry xml:id="berekynthos">
+  <form>
+    <orth xml:lang="grc">Βερέκυντος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">Berecynthii,</def>
+    <note xml:lang="lat">genitivus tanquam ab Βερέκυς nominativo, ut Steph. Byz. monet, inusitato.</note>
+  </sense>
+  <cit>
+    <bibl>Fr. 155</bibl>
+    <quote xml:lang="grc">Βερέκυντα χώρον.</quote>
+    <note xml:lang="lat">Βερέκυντα recte apud Strabon. 12 p. 580, Βερέκυνθα ap. Plut. Mor. p. 603 a 778b, forma recentiore, de qua dixi in Thes. vol. 2 p. 225.</note>
+  </cit>
+</entry>
+
+<entry xml:id="bēlos">
+  <form>
+    <orth xml:lang="grc">Βῆλος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">Belus, Danai et Aegypti pater.</def>
+  </sense>
+  <cit>
+    <bibl>Supplices 318</bibl>
+    <quote xml:lang="grc">Βήλον δύπαιδα.</quote>
+  </cit>
+</entry>
+<entry xml:id="bēma">
+  <form>
+    <orth xml:lang="grc">βῆμα</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">gressus</def>
+  </sense>
+  <cit>
+    <bibl>Choephori 799</bibl>
+    <quote xml:lang="grc">ἀνομένων βημάτων.</quote>
+  </cit>
+</entry>
+<entry xml:id="bēssa">
+  <form>
+    <orth xml:lang="grc">βῆσσα</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">saltus</def>
+  </sense>
+  <cit>
+    <bibl>Fr. 97</bibl>
+    <quote xml:lang="grc">Πανίας βήσσας.</quote>
+  </cit>
+</entry>
+<entry xml:id="bia">
+  <form>
+    <orth xml:lang="grc">Bia</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">Robur</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 12</bibl>
+    <note xml:lang="lat">Κράτος Βία τε, Vulcani satellites, qui in scenam prodeunt in initio Promethei.</note>
+  </cit>
+</entry>
+<entry xml:id="bia">
+  <form>
+    <orth xml:lang="grc">βία</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">vis, violentia</def>
+  </sense>
+  <cit>
+    <bibl>Supplices 97</bibl>
+    <quote xml:lang="grc">βίαν δ᾽ οὔτιν᾽ ἐξοπλίζει.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 576</bibl>
+    <quote xml:lang="grc">βία δ᾽ ἀπημάντῳ σθένει παύεται,</quote>
+    <note xml:lang="lat">ubi suspectum est βία, ab Hermanno in δύα mutatum. Pro dativo βίᾳ habuisse videtur schol. qui annotavit λείπει ὁ καί.</note>
+  </cit>
+  <cit>
+    <bibl>Supplices 1068</bibl>
+    <quote xml:lang="grc">εὐμενεῖ βίᾳ κτίσας.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">βίᾳ cum vi, fortiter</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 74</bibl>
+    <quote xml:lang="grc">σκέλη δὲ κίρκωσον βίᾳ.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 357</bibl>
+    <quote xml:lang="grc">τὴν Διὸς τυραννίδ᾽ ἐκπέρσων βίᾳ.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 380</bibl>
+    <quote xml:lang="grc">καὶ μὴ σφυδῶντα θυμὸν ἰσχναίνη βία.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 47</bibl>
+    <quote xml:lang="grc">λαπάξειν ἄστυ Καδμείων βίᾳ.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 531</bibl>
+    <quote xml:lang="grc">λαπάξειν ἄστυ Καδμείων βίᾳ.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 195</bibl>
+    <quote xml:lang="grc">ξυναρπάζει βίᾳ.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 771</bibl>
+    <quote xml:lang="grc">Ἰωνίαν τε πᾶσαν ἤλασεν βίᾳ.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 238</bibl>
+    <quote xml:lang="grc">βίᾳ χαλινῶν τ᾿ ἀναύδῳ μένει.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 655</bibl>
+    <quote xml:lang="grc">κεροτυπούμεναι βία.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 80</bibl>
+    <quote xml:lang="grc">βίᾳ φερομένων.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 849</bibl>
+    <quote xml:lang="grc">κελεύω βίᾳ μεθέσθαι.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">βίᾳ vi coactus, invitus</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 15</bibl>
+    <quote xml:lang="grc">ἄτολμός εἰμι συγγενῆ θεὸν δῆσαι βίᾳ.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 863</bibl>
+    <quote xml:lang="grc">βίᾳ βίᾳ.</quote>
+    <note xml:lang="lat">loco obscuro et corrupto</note>
+  </cit>
+  <cit>
+    <bibl>Supplices 943</bibl>
+    <quote xml:lang="grc">μήποτ᾽ ἐκδοῦναι βίᾳ στόλον γυναικῶν.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 232</bibl>
+    <quote xml:lang="grc">Αἰτναῖός ἐστι κάνθαρος βίᾳ πονῶν.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">βίᾳ cum genitivo aliquo invito</def>
+  </sense>
+  <cit>
+    <bibl>Septem 612</bibl>
+    <quote xml:lang="grc">βία φρενών.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 746</bibl>
+    <quote xml:lang="grc">Απόλλωνος -βίᾳ.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 430</bibl>
+    <quote xml:lang="grc">βίᾳ Δίκας.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 798</bibl>
+    <quote xml:lang="grc">βίᾳ καρδίας.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">πρὸς βίαν violenter</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 208</bibl>
+    <quote xml:lang="grc">ᾤοντ ἀμοχθὶ πρὸς βίαν τε δεσπόσειν.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 353</bibl>
+    <quote xml:lang="grc">πρὸς βίαν χειρούμενον.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 592</bibl>
+    <quote xml:lang="grc">πρὸς βίαν γυμνάζεται.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 672</bibl>
+    <quote xml:lang="grc">ἐπηνάγκαζέ νιν Διὸς χαλινός πρὸς βίαν πράσσειν τάδε.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 876</bibl>
+    <quote xml:lang="grc">πολλὰς ἄνωθεν ἀρτάνας ἐμῆς δέρης ἔλυσαν ἄλλοι πρὸς βίαν λελημμένης.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">πρὸς βίαν cum genitivo aliquo invito</def>
+  </sense>
+  <cit>
+    <bibl>Eumenides 5</bibl>
+    <quote xml:lang="grc">θελούσης οὐδὲ πρὸς βίαν τινός.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">βία epicorum exemplo virorum nominibus circumscribendis servit</def>
+  </sense>
+  <cit>
+    <bibl>Septem 448</bibl>
+    <quote xml:lang="grc">Πολυφόντου βία.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 641</bibl>
+    <quote xml:lang="grc">Πολυνείκους βία.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 893</bibl>
+    <quote xml:lang="grc">οἳ ᾿γώ. τέθνηκα, φίλτατ᾽ Αἰγίσθου βία,</quote>
+    <note xml:lang="lat">ubi cum masculino est coniunctum quia Αἰγίσθου βία pro Αἴγισθε dictum est.</note>
+  </cit>
+  <cit>
+    <bibl>Septem 571</bibl>
+    <quote xml:lang="grc">Τυδέως βίαν.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 577</bibl>
+    <quote xml:lang="grc">Πολυνείκους βίαν.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 569</bibl>
+    <quote xml:lang="grc">᾿Αμφιάρεω βίαν.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 620</bibl>
+    <quote xml:lang="grc">Λασθένους βίαν.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 656</bibl>
+    <quote xml:lang="grc">καλῶ Αἰγίσθου βίαν.</quote>
+    <note xml:lang="lat">Sic Hermannus pro díai, quod Turnebus in βία mutaverat.</note>
+  </cit>
+</entry>
+<entry xml:id="biazomai">
+  <form>
+    <orth xml:lang="grc">βιάζομαι</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">(forma media) vim adhibeo</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 1010</bibl>
+    <quote xml:lang="grc">βιάζει βιάζει καὶ πρὸς ἡνίας μάχει.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">Cum accusativo vim infero alicui</def>
+  </sense>
+  <cit>
+    <bibl>Septem 1042</bibl>
+    <quote xml:lang="grc">αὐδῶ πόλιν σε μὴ βιάζεσθαι τόδε.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 794</bibl>
+    <quote xml:lang="grc">ἀγέλαστα πρόσωπα βιαζόμενοι.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1510</bibl>
+    <quote xml:lang="grc">βιάζεται δ᾽ ὁμοσπόροις ἐπιρροαῖσιν αἱμάτων μέλας ῎Αρης.</quote>
+  </cit>
+</entry>
+<entry xml:id="biaios">
+  <form>
+    <orth xml:lang="grc">βίαιος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">violentus</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 737</bibl>
+    <quote xml:lang="grc">ἐς τὰ πάνθ᾽ ὁμῶς βίαιος.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 813</bibl>
+    <quote xml:lang="grc">βίαια μὴ φιλεῖς (hoc corruptum: στέρξης Hermannus) ὁρῶν ὄμμασιν ἐνδίκοις.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 831</bibl>
+    <quote xml:lang="grc">πόνων βιαίων ἐμῶν.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">βίαια violenter</def>
+  </sense>
+  <cit>
+    <bibl>Supplices 821</bibl>
+    <quote xml:lang="grc">φυγάδα μάταισι πολυθρόοις βίαια δίζηνται λαβεῖν.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">πρὸς τὸ βίαιον violenter</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 130</bibl>
+    <quote xml:lang="grc">Μοῖρα λαπάξει πρὸς τὸ βίαιον.</quote>
+  </cit>
+</entry>
+<entry xml:id="biaiōs">
+  <form>
+    <orth xml:lang="grc">βιαίως</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">violenter</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 183</bibl>
+    <quote xml:lang="grc">δαιμόνων δέ που χάρις βιαίως σέλμα σεμνὸν ἡμένων.</quote>
+    <note xml:lang="lat">Per κραταιῶς explicat Triclinius, ut significet per vim imperia sua exsequentium, ut Hermannus explicuit. Turnebus βίαιος scripsit, βέβαιος Karstenus.</note>
+  </cit>
+  <cit>
+    <bibl>Choephori 549</bibl>
+    <quote xml:lang="grc">θανεῖν βιαίως.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 555</bibl>
+    <quote xml:lang="grc">βιαίως ξὺν χρόνῳ καθήσειν.</quote>
+  </cit>
+</entry>
+<entry xml:id="biaomai">
+  <form>
+    <orth xml:lang="grc">βιάομαι</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">vim affero, urgeo</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 385</bibl>
+    <quote xml:lang="grc">βιᾶται δ' ἁ τάλαινα Πειθώ.</quote>
+  </cit>
+</entry>
+<entry xml:id="biblos">
+  <form>
+    <orth xml:lang="grc">βίβλος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">liber</def>
+  </sense>
+  <cit>
+    <bibl>Supplices 947</bibl>
+    <quote xml:lang="grc">ἐν πτυχαῖς βίβλων κατεσφραγισμένα.</quote>
+  </cit>
+</entry>
+<entry xml:id="bibrōskō">
+  <form>
+    <orth xml:lang="grc">βιβρώσκω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">comedo</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 1097</bibl>
+    <quote xml:lang="grc">ὀπτάς τε σάρκας πρὸς πατρὸς βεβρωμένας.</quote>
+  </cit>
+</entry>
+<entry xml:id="biodōros">
+  <form>
+    <orth xml:lang="grc">βιόδωρος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">vitam largiens</def>
+  </sense>
+  <cit>
+    <bibl>Fr. 170</bibl>
+    <quote xml:lang="grc">Ἰνάχου ᾿Αργείου ποταμοῦ παισὶν βιοδώροις.</quote>
+  </cit>
+</entry>
+<entry xml:id="bios">
+  <form>
+    <orth xml:lang="grc">βίος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">vita</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 537</bibl>
+    <quote xml:lang="grc">θαρσαλέαις τὸν μακρὸν τείνειν βίον έλπίσι.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 449</bibl>
+    <quote xml:lang="grc"/>
+  </cit>
+  <cit>
+    <bibl>Septem 699</bibl>
+    <quote xml:lang="grc">κακός οὐ κεκλήσει βίον εὐ κυρήσας.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 464</bibl>
+    <quote xml:lang="grc">ἁπάντων ἐξαπέφθειραν βίον.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 507</bibl>
+    <quote xml:lang="grc">ὅστις τάχιστα πνεῦμ᾽ ἀπέρρηξεν βίου.</quote>
+  </cit>
+  <cit>
+    <bibl>[Persians 616]</bibl>
+    <quote xml:lang="grc">τῆς τ᾽ αἰὲν ἐν φύλλοισι θαλλούσης βίον ξανθῆς ἐλάας καρπός,</quote>
+    <note xml:lang="lat">ubi βίον ex ἴσον corruptum videtur.</note>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 465</bibl>
+    <quote xml:lang="grc">παλιντυχεῖ τριβᾷ βίου.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 474</bibl>
+    <quote xml:lang="grc">μήτ᾽ οὖν αὐτὸς ἁλοὺς ὑπ᾿ ἄλλων βίον κατίδοιμι.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 775</bibl>
+    <quote xml:lang="grc">τὸν δ᾽ ἐναίσιμον τίει βίον.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 859</bibl>
+    <quote xml:lang="grc">ἐμαυτῆς δύσφορον λέξω βίον.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 929</bibl>
+    <quote xml:lang="grc">ὀλβίσαι δὲ χρή βίον τελευτήσαντ᾽ ἐν εὐεστοῖ φίλη.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1123</bibl>
+    <quote xml:lang="grc">ξυνανύτει βίου δύντος αὐγαῖς.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1145</bibl>
+    <quote xml:lang="grc">Ἴτυν στένουσ᾽ ἀμφιθαλή κακοῖς ἀηδὼν βίον.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1314</bibl>
+    <quote xml:lang="grc">ἀρκείτω βίος.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1362</bibl>
+    <quote xml:lang="grc">ἢ καὶ βίον κτείνοντες ὧδ᾽ ὑπείξομεν δόμων καταισχυντῆρσι.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1454</bibl>
+    <quote xml:lang="grc">πρὸς γυναικὸς δ᾽ ἀπέφθισεν βίον.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1493 1517</bibl>
+    <quote xml:lang="grc">ἀσεβεῖ θανάτῳ βίον ἐκπνέων.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 79</bibl>
+    <quote xml:lang="grc">πρέποντ᾽ ἀρχὰς (πρέπον τύχαις Schuetzius) βίου.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 612</bibl>
+    <quote xml:lang="grc">σύμμετρόν τε διαὶ βίου μοιρόκραντον ἐς ᾶμαρ.</quote>
+  </cit>
+  <cit>
+    <bibl>[Choephori 1003]</bibl>
+    <quote xml:lang="grc">ἀργυροστερή βίον νομίζων.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 526</bibl>
+    <quote xml:lang="grc">μήτ᾿ ἀνάρχετον βίον μήτε δεσποτούμενον αἰνέσης.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 924</bibl>
+    <quote xml:lang="grc">ἐπισσύτους βίου τύχας ὀνησίμους.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 955</bibl>
+    <quote xml:lang="grc">δακρύων βίον ἀμβλωπόν.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 1020</bibl>
+    <quote xml:lang="grc">συμφορὰς βίου.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 937</bibl>
+    <quote xml:lang="grc">πεσήματ᾿ ἀνδρῶν κἀπολακτισμοὶ βίου.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 1013</bibl>
+    <quote xml:lang="grc">τὸ σωφρονεῖν τιμῶσα τοῦ βίου πλέον.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 86</bibl>
+    <quote xml:lang="grc">βίου πονηροῦ θάνατος εὐκλεέστερος.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 263</bibl>
+    <quote xml:lang="grc">διαπεφρούρηται βίος,</quote>
+    <note xml:lang="lat">i. e. ἡ διὰ τοῦ βίου φρουρά συντετέλεσται, ut exp. Hesychius.</note>
+  </cit>
+  <cit>
+    <bibl>Fr. 299</bibl>
+    <quote xml:lang="grc">εἰ μή τέρμα συντρέχοι βίου.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 281</bibl>
+    <quote xml:lang="grc">μακραίωνας βίους.</quote>
+    <note xml:lang="lat">Numero plurali</note>
+  </cit>
+  <sense>
+    <def xml:lang="lat">victus</def>
+  </sense>
+  <cit>
+    <bibl>Fr. 41</bibl>
+    <quote xml:lang="grc">μήλων τε βοσκὰς καὶ βίον Δημήτριον.</quote>
+  </cit>
+</entry>
+
+<entry xml:id="biotē">
+  <form>
+    <orth xml:lang="grc">βιοτή</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">vita</def>
+  </sense>
+  <cit>
+    <bibl>Persians 853</bibl>
+    <quote xml:lang="grc">ἡ μεγάλας ἀγαθᾶς τε πολισσονόμου βιοτᾶς ἐπεκύρσαμεν.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 49</bibl>
+    <quote xml:lang="grc">βιοτὴν αὔξιμον ἐμψίουσα.</quote>
+  </cit>
+</entry>
+<entry xml:id="biotos">
+  <form>
+    <orth xml:lang="grc">βίοτος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">vita</def>
+  </sense>
+  <cit>
+    <bibl>Persians 360</bibl>
+    <quote xml:lang="grc">δρασμῷ κρυφαίῳ βίοτον ἐκσωσοίατο.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 708</bibl>
+    <quote xml:lang="grc">ὁ μάσσων βίοτος ἢν ταθῇ πρόσῳ.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 711</bibl>
+    <quote xml:lang="grc">βίοτον εὐαίωνα Πέρσαις ὡς θεὸς διήγαγες.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 720</bibl>
+    <quote xml:lang="grc">ἐν βιότου προτελείοις.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 1018</bibl>
+    <quote xml:lang="grc">οὔτις μερόπων ἀσινῆ βίοτον διὰ παντὸς ἄτιμος ἀμείψει.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 933</bibl>
+    <quote xml:lang="grc">οὐκ οἶδεν ὅθεν πληγαὶ βιότου.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 960</bibl>
+    <quote xml:lang="grc">νεανίδων τ᾽ ἐπηράτων ἀνδροτυχεῖς βιότους δότε.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 174</bibl>
+    <quote xml:lang="grc">τί γὰρ καλὸν ζῆν βίοτον (sic Stanleius pro βίον) ὃς λύπας φέρει;</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">victus</def>
+  </sense>
+  <cit>
+    <bibl>Fr. 198</bibl>
+    <quote xml:lang="grc">αὐτόσποροι γύαι φέρουσι βίοτον ἄφθονον βροτοῖς.</quote>
+  </cit>
+</entry>
+<entry xml:id="blabē">
+  <form>
+    <orth xml:lang="grc">βλάβη</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">damnum</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 763</bibl>
+    <quote xml:lang="grc">σήμηνον, εἰ μή τις βλάβη.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 548</bibl>
+    <quote xml:lang="grc">πάλαι τὸ σιγᾶν φάρμακον βλάβης ἔχω.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 889</bibl>
+    <quote xml:lang="grc">ἐν ὀψικοίτοις δ᾽ ὄμμασιν βλάβας ἔχω.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1535</bibl>
+    <quote xml:lang="grc">δίκην δ᾽ ἐπ᾿ ἄλλο πρᾶγμα θηγάνει βλάβης.</quote>
+  </cit>
+  <cit>
+    <bibl>[Choephori 498]</bibl>
+    <note xml:lang="lat">βλάβας corruptum ex λαβάς. V. λαβή.</note>
+  </cit>
+  <cit>
+    <bibl>Eumenides 491</bibl>
+    <quote xml:lang="grc">εἰ κρατήσει δίκα τε καὶ βλάβα τοῦδε ματροκτόνου.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 799</bibl>
+    <quote xml:lang="grc">ὡς ταῦτ᾽ Ὀρέστην δρῶντα μὴ βλάβας ἔχειν.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 889</bibl>
+    <quote xml:lang="grc">οὔ τἂν δικαίως τῇδ᾽ ἐπιρρέποις πόλει μῆνίν τιν᾿ ἢ κότον τιν᾿ ἢ βλάβην στρατῷ.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 377</bibl>
+    <quote xml:lang="grc">ὑμῖν δ᾽ ἀρήγειν οὐκ ἔχω βλάβης ἄτερ.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 180</bibl>
+    <quote xml:lang="grc">τίνος κατέκτας ἕνεκα παῖδ᾽ ἐμὸν βλάβης;</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">Active de eo qui damnum infert</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 1234</bibl>
+    <quote xml:lang="grc">Σκύλλαν τινὰ, οἰκοῦσαν ἐν πέτραισι, ναυτίλων βλάβην.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 859</bibl>
+    <quote xml:lang="grc">αἱματηρὰς θηγάνας, σπλάγχνων βλάβας νέων.</quote>
+  </cit>
+</entry>
+<entry xml:id="blaptō">
+  <form>
+    <orth xml:lang="grc">βλάπτω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">noceo</def>
+  </sense>
+  <cit>
+    <bibl>Choephori 327</bibl>
+    <quote xml:lang="grc">ἀναφαίνεται δ᾽ ὁ βλάπτων.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 661</bibl>
+    <quote xml:lang="grc">οἶσι μὴ βλάψῃ θεός,</quote>
+    <note xml:lang="lat">ubi βλάψη non cum dativo constructum est, sed τὸ τικτόμενον ex praecedentibus intelligitur.</note>
+  </cit>
+  <sense>
+    <def xml:lang="lat">Passivum</def>
+  </sense>
+  <cit>
+    <bibl>Choephori 956</bibl>
+    <quote xml:lang="grc">βλαπτομέναν χρονισθεῖσαν ἐποίχεται.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 196</bibl>
+    <quote xml:lang="grc">εἴ τι μὴ βλάπτει (βλάπτῃ M) λόγῳ.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">Cum genitivo privandi vel impediendi significatione</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 120</bibl>
+    <quote xml:lang="grc">βλαβέντα λοισθίων δρόμων.</quote>
+    <note xml:lang="lat">Quam structuram praeivit Homerus Od. 1, 195 ἀλλά νυ τόν γε θεοὶ βλάπτουσι κελεύθου.</note>
+  </cit>
+</entry>
+<entry xml:id="blastanō">
+  <form>
+    <orth xml:lang="grc">βλαστάνω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">nascor</def>
+  </sense>
+  <cit>
+    <bibl>Septem 594</bibl>
+    <quote xml:lang="grc">ἐξ ἧς τὰ κεδνὰ βλαστάνει βουλεύματα.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 756</bibl>
+    <quote xml:lang="grc">ἐκ δ᾽ ἀγαθᾶς τύχας γένει βλαστάνειν ἀκόρεστον οἰζύν.</quote>
+  </cit>
+  <cit>
+    <bibl>[Choephori 589]</bibl>
+    <note xml:lang="lat">Vitiose βλαστοῦσι καὶ πεδαίχμιοι λαμπάδες πεδάοροι. πτανά τε καὶ πεδοβάμονα, ubi βλάπτουσι Butlerus.</note>
+  </cit>
+</entry>
+<entry xml:id="blasthma">
+  <form>
+    <orth xml:lang="grc">βλάστημα</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">propago</def>
+  </sense>
+  <cit>
+    <bibl>Septem 533</bibl>
+    <quote xml:lang="grc">μητρὸς ἐξ ὀρεσκόου βλάστημα καλλίπρῳρον.</quote>
+  </cit>
+</entry>
+<entry xml:id="blasthmos">
+  <form>
+    <orth xml:lang="grc">βλαστημός</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">flos</def>
+  </sense>
+  <cit>
+    <bibl>Septem 12</bibl>
+    <quote xml:lang="grc">βλάστημὸν ἀλδαίνοντα σώματος πολύν (immo πάλιν).</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">proles</def>
+  </sense>
+  <cit>
+    <bibl>Supplices 317</bibl>
+    <quote xml:lang="grc">τίν' οὖν ἔτ᾽ ἄλλον τῆσδε βλαστημὸν λέγεις;</quote>
+    <note xml:lang="lat">In M utrobique βλάστημον. Rectum accentum esse quem Blomfleldus restituit βλαστημός ex iis colligi potest quae Lobeckius attulit Paralip. p. 397.</note>
+  </cit>
+</entry>
+<entry xml:id="blacha">
+  <form>
+    <orth xml:lang="grc">βλαχά</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">(Dorice pro βληχή) vagitus</def>
+  </sense>
+  <cit>
+    <bibl>Septem 348</bibl>
+    <quote xml:lang="grc">βλαχαὶ αἱματόεσσαι τῶν ἐπιμαστιδίων φῶν.</quote>
+  </cit>
+</entry>
+<entry xml:id="blapsiphrōn">
+  <form>
+    <orth xml:lang="grc">βλαψίφρων</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">mentem laesus, demens</def>
+  </sense>
+  <cit>
+    <bibl>Septem 725</bibl>
+    <quote xml:lang="grc">τὰς περιθύμους κατάρας Οἰδιπόδα βλαψίφρονος.</quote>
+  </cit>
+</entry>
+<entry xml:id="blemm">
+  <form>
+    <orth xml:lang="grc">βλέμμα</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">vultus, oculi</def>
+  </sense>
+  <cit>
+    <bibl>Fr. 238</bibl>
+    <quote xml:lang="grc">κάτω βλεμμάτων ῥέπει βολή.</quote>
+  </cit>
+</entry>
+<entry xml:id="blepō">
+  <form>
+    <orth xml:lang="grc">βλέπω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">cerno, specto</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 447</bibl>
+    <quote xml:lang="grc">βλέποντες ἔβλεπον μάτην, κλύοντες οὐκ ἤκουον.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 716</bibl>
+    <quote xml:lang="grc">πρώρα πρόσθεν ὄμμασιν βλέπουσ᾽ ὁδόν.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 802</bibl>
+    <quote xml:lang="grc">εἴ τι πιστεῦσαι θεῶν χρή θεσφάτοισιν, ἐς τὰ νῦν πεπραγμένα βλέψαντα.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 498</bibl>
+    <quote xml:lang="grc">φόβον βλέπων,</quote>
+    <note xml:lang="lat">i. e. metum vultu incutiens: nisi φόνον scribendum cum Cantero. Qui frequens est accusativi verbis βλέπειν et δεδορκέναι ad-iuncti usus: v. Thes. vol. 2 p. 281.</note>
+  </cit>
+  <cit>
+    <bibl>Choephori 844</bibl>
+    <quote xml:lang="grc">πῶς ταῦτ᾽ ἀληθῆ καὶ βλέποντα δοξάσω;</quote>
+    <note xml:lang="lat">ubi idem est quod ὄντα.</note>
+  </cit>
+  <sense>
+    <def xml:lang="lat">βλέπειν dicuntur qui in vivis sunt,</def>
+    <note xml:lang="lat">quod βλέπειν φάος saepe dixerunt tragici.</note>
+  </sense>
+  <cit>
+    <bibl>Persians 261</bibl>
+    <quote xml:lang="grc">αὐτὸς δ᾽ ἀέλπτως νόστιμον βλέπω φάος.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 299</bibl>
+    <quote xml:lang="grc">Ξέρξης μὲν αὐτὸς ζῇ τε καὶ βλέπει φάος.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 677</bibl>
+    <quote xml:lang="grc">εἰ δ᾽ οὖν τις ἀκτὶς ἡλίου νιν ἱστορεῖ χλωρόν τε καὶ βλέποντα,</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1646</bibl>
+    <quote xml:lang="grc">Ὀρέστης ἀρά που βλέπει φάος;</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 746</bibl>
+    <quote xml:lang="grc">νῦν ἀγχόνης μοι τέρματ᾽ ἢ φάος βλέπειν.</quote>
+  </cit>
+</entry>
+<entry xml:id="blepharon">
+  <form>
+    <orth xml:lang="grc">βλέφαρον</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">palpebra</def>
+  </sense>
+  <cit>
+    <bibl>Septem 3</bibl>
+    <quote xml:lang="grc">βλέφαρα μὴ κοιμῶν ὕπνῳ.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 15</bibl>
+    <quote xml:lang="grc">τὸ μὴ βεβαίως βλέφαρα συμβαλεῖν ὕπνῳ.</quote>
+  </cit>
+</entry>
+<entry xml:id="blēchē">
+  <form>
+    <orth xml:lang="grc">βληχή</orth>
+  </form>
+  <sense>
+    <note xml:lang="lat">V. βλαχά.</note>
+  </sense>
+</entry>
+<entry xml:id="blosyros">
+  <form>
+    <orth xml:lang="grc">βλοσυρός</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">terribilis</def>
+  </sense>
+  <cit>
+    <bibl>Eumenides 167</bibl>
+    <quote xml:lang="grc">αἱμάτων βλοσυρὸν ἀρόμενον ἄγος.</quote>
+  </cit>
+</entry>
+<entry xml:id="blosyrophrōn">
+  <form>
+    <orth xml:lang="grc">βλοσυρόφρων</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">ferox</def>
+  </sense>
+  <cit>
+    <bibl>Supplices 833</bibl>
+    <quote xml:lang="grc">βλοσυρόφρονα (βλοσυρόφρονι Hermannus) χλιδᾷ.</quote>
+  </cit>
+</entry>
+<entry xml:id="boama">
+  <form>
+    <orth xml:lang="grc">βόαμα</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">clamor</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 920</bibl>
+    <quote xml:lang="grc">χαμαιπετὲς βόαμα,</quote>
+    <note xml:lang="lat">in trimetro, ubi βόημα superscr. in apogr. Flor. (in parte fabulae qua caret M); sed tragici haud dubie βόαμα praetulerunt, etsi in fabulis quae nunc supersunt nulla alia huius vocabuli exempla reperiuntur. Compositum ἀμβόαμα est in carmine chori Ch. 34.</note>
+  </cit>
+</entry>
+<entry xml:id="boaō">
+  <form>
+    <orth xml:lang="grc">βοάω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">clamo</def>
+  </sense>
+  <cit>
+    <bibl>Fr. 391</bibl>
+    <quote xml:lang="grc">βοᾷς τοιοῦδε πράγματος κοινωνὸς ὤν.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 431</bibl>
+    <quote xml:lang="grc">βοᾷ δὲ πόντιος κλύδων.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 64</bibl>
+    <quote xml:lang="grc">βοᾷ γὰρ κῦμα χερσαῖον στρατού.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 330</bibl>
+    <quote xml:lang="grc">βοᾷ δ᾽ ἐκκενουμένα πόλις.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 381</bibl>
+    <quote xml:lang="grc">μεσημβριναῖς κλαγγαΐσιν ὡς δράκων βοᾷ.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 392</bibl>
+    <quote xml:lang="grc">βοᾷ παρ᾿ ὄχθαις ποταμίαις.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 468</bibl>
+    <quote xml:lang="grc">βοᾷ δὲ χοῦτος γραμμάτων ἐν συλλαβαῖς.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 605</bibl>
+    <quote xml:lang="grc">βοᾷ δ᾽ ἐν ὠσὶ κέλαδος οὐ παιώνιος.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 991</bibl>
+    <quote xml:lang="grc">βοᾷ βοᾷ μελέων ἔντοσθεν ήτορ.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1106</bibl>
+    <quote xml:lang="grc">πᾶσα γὰρ πόλις βοᾷ.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 402</bibl>
+    <quote xml:lang="grc">βοᾷ γὰρ λοιγὸν Ἐρινύς.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 584</bibl>
+    <quote xml:lang="grc">ἔνθεν πᾶσα βοᾷ χθών.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 954 966</bibl>
+    <quote xml:lang="grc">οἰοιοῖ βόα.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 1048 1066</bibl>
+    <quote xml:lang="grc">βόα νυν ἀντίδουπά μοι.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 875</bibl>
+    <quote xml:lang="grc">ἴΰζε καὶ βόα πικρότερ᾽ ἀχέων.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 890</bibl>
+    <quote xml:lang="grc">βοᾶν (scriptura incerta) φοβερὸν ἀπότρεπε.</quote>
+  </cit>
+</entry>
+<entry xml:id="boatis">
+  <form>
+    <orth xml:lang="grc">βοᾶτις</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">clamans</def>
+  </sense>
+  <cit>
+    <bibl>Persians 575</bibl>
+    <quote xml:lang="grc">τεῖνε δὲ δυσβάϋκτον βοᾶτιν τάλαιναν αὐδάν.</quote>
+  </cit>
+</entry>
+<entry xml:id="boē">
+  <form>
+    <orth xml:lang="grc">βοή</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">clamor</def>
+  </sense>
+  <cit>
+    <bibl>Septem 84</bibl>
+    <quote xml:lang="grc">διὰ πέδον βοὰ ποτᾶται.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 88</bibl>
+    <quote xml:lang="grc">βοᾷ ὑπὲρ τάφρων λευκοπρεπὴς λεὼς ὄρνυται ἐπὶ πόλιν.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 269</bibl>
+    <quote xml:lang="grc">Ἑλληνικὸν νόμισμα θυστάδος βοῆς.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 394</bibl>
+    <quote xml:lang="grc">ὅστις βοὴν σάλπιγγος ὁρμαίνει κλύων.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 487</bibl>
+    <quote xml:lang="grc">ξὺν βοῇ παρίσταται.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 280</bibl>
+    <quote xml:lang="grc">ἴϋζ᾽ ἄποτμον βοάν.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 402</bibl>
+    <quote xml:lang="grc">παρῆν ὁμοῦ κλύειν πολλὴν βοήν.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 936</bibl>
+    <quote xml:lang="grc">τὰν κακοφάτιδα βοάν.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 321</bibl>
+    <quote xml:lang="grc">οἶμαι βοὴν ἄμικτον ἐν πόλει πρέπειν.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1143</bibl>
+    <quote xml:lang="grc">ἀκόρετος βοᾶς.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 500</bibl>
+    <quote xml:lang="grc">καὶ τῆσδ᾽ ἄκουσον λοισθίου βοῆς.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 885</bibl>
+    <quote xml:lang="grc">τίνα βοὴν ἵστης δόμοις;</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 397</bibl>
+    <quote xml:lang="grc">πρόσωθεν ἐξήκουσα κληδόνος βοήν.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 635</bibl>
+    <quote xml:lang="grc">τὸν ἄχορον βοάν – μάχλον ῎Αρη,</quote>
+    <note xml:lang="lat">ubi τὰν pro τὸν scripsit Hermannus, cuius v. annot.</note>
+  </cit>
+  <cit>
+    <bibl>Supplices 683</bibl>
+    <quote xml:lang="grc">βοὰν ἔνδημον.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 829</bibl>
+    <quote xml:lang="grc">βοὰν ἀμβρεφαίνω.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">auxilium</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 1349</bibl>
+    <quote xml:lang="grc">πρὸς δῶμα δεῦρ᾽ ἀστοῖσι κηρύσσειν βοήν.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 730</bibl>
+    <quote xml:lang="grc">εἰ βραδύνοιμεν βοῇ.</quote>
+    <note xml:lang="lat">ubi schol. βοῇ νῦν τῇ βοηθείᾳ.</note>
+  </cit>
+</entry>
+
+<entry xml:id="boētheō">
+  <form>
+    <orth xml:lang="grc">βοηθέω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">auxilio venio</def>
+  </sense>
+  <cit>
+    <bibl>Supplices 613</bibl>
+    <quote xml:lang="grc">τὸν μὴ βοηθήσαντα τῶνδε γαμόρων.</quote>
+  </cit>
+</entry>
+<entry xml:id="boēlatēs">
+  <form>
+    <orth xml:lang="grc">βοηλάτης</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">boum agitator</def>
+  </sense>
+  <cit>
+    <bibl>Supplices 307</bibl>
+    <quote xml:lang="grc">βοηλάτην μύωπα κινητήριον.</quote>
+  </cit>
+</entry>
+<entry xml:id="boiōtos">
+  <form>
+    <orth xml:lang="grc">Βοιωτός</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">Boeotus</def>
+  </sense>
+  <cit>
+    <bibl>Persians 482</bibl>
+    <quote xml:lang="grc">ἐν Βοιωτῶν χθονί.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 806</bibl>
+    <quote xml:lang="grc">φίλον πίασμα Βοιωτῶν χθονί.</quote>
+  </cit>
+</entry>
+<entry xml:id="bolbē">
+  <form>
+    <orth xml:lang="grc">Βόλβη</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">Bolbe</def>
+  </sense>
+  <cit>
+    <bibl>Persians 494</bibl>
+    <quote xml:lang="grc">ἐπ᾿ ᾿Αξίου πόρον Βόλβης θ᾽ ἕλειον δόνακα.</quote>
+    <note xml:lang="lat">Est lacus Macedoniae.</note>
+  </cit>
+</entry>
+<entry xml:id="bolē">
+  <form>
+    <orth xml:lang="grc">βολή</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">iactus</def>
+  </sense>
+  <cit>
+    <bibl>Septem 430</bibl>
+    <quote xml:lang="grc">τὰς δ᾽ ἀστραπάς τε καὶ κεραυνίους βολάς.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1329</bibl>
+    <quote xml:lang="grc">βολαῖς ὑγρώσσων σφόγγος ὤλεσεν γραφήν.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 238</bibl>
+    <quote xml:lang="grc">κάτω — βλεμμάτων ῥέπει βολή.</quote>
+  </cit>
+</entry>
+<entry xml:id="bolos">
+  <form>
+    <orth xml:lang="grc">βόλος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">iactus</def>
+  </sense>
+  <cit>
+    <note xml:lang="lat">Sic dicuntur pisces uno retis iactu capti: v. Thes. vol. 2 p. 319.</note>
+    <bibl>Persians 424</bibl>
+    <quote xml:lang="grc">ὥστε θύννους ἤ τιν᾿ ἰχθύων βόλον.</quote>
+  </cit>
+</entry>
+<entry xml:id="bombyx">
+  <form>
+    <orth xml:lang="grc">βόμβυξ</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">tibiae species</def>
+  </sense>
+  <cit>
+    <note xml:lang="lat">βόμβυκας inter partes ex quibus tibiae componantur memorat Pollux 4, 70, sed tibias ipsas ib. 82 βόμβυκας dicit, τὸ δὲ τῶν βομβύκων ἔνθεον καὶ μανικὸν τὸ αὔλημα, πρέπον ὁργίοις, quod confirmatur versibus Aeschyli</note>
+    <bibl>fr. 55</bibl>
+    <quote xml:lang="grc">ὁ μὲν ἐν χερσὶν βόμβυκας ἔχων, τόρνου κάματον, δακτυλόδικτον πίμπλησι μέλος.</quote>
+  </cit>
+</entry>
+<entry xml:id="bora">
+  <form>
+    <orth xml:lang="grc">βορά</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">pabulum, cibus, vel brutorum, vel hominum</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 583</bibl>
+    <quote xml:lang="grc">ποντίοις δάκεσι δὸς βοράν.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 490</bibl>
+    <quote xml:lang="grc">ὑπεσπανισμένους βορᾶς.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1220</bibl>
+    <quote xml:lang="grc">χεῖρας κρεῶν πλήθοντες οἰκείας βορᾶς.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1597</bibl>
+    <quote xml:lang="grc">ἔσθει βο-ρὰν ἄσωτον, ὡς ὁρᾷς, γένει.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 530</bibl>
+    <quote xml:lang="grc">τίνος βορᾶς χρήζοντα;</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 434</bibl>
+    <quote xml:lang="grc">βορᾶς βροτείας.</quote>
+  </cit>
+</entry>
+<entry xml:id="borboros">
+  <form>
+    <orth xml:lang="grc">βόρβορος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">coenum, lutum</def>
+  </sense>
+  <cit>
+    <bibl>[Eumenides 697]</bibl>
+    <quote xml:lang="grc">κακαῖς ἐπιρροαῖσι βορβόρῳ θ᾽ ὕδωρ λαμπρὸν μιαίνων.</quote>
+  </cit>
+</entry>
+<entry xml:id="boreas">
+  <form>
+    <orth xml:lang="grc">Βορεάς</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">borealis</def>
+  </sense>
+  <cit>
+    <bibl>Fr. 195</bibl>
+    <quote xml:lang="grc">Βορεάδας ἥξεις πρὸς πνοάς.</quote>
+  </cit>
+</entry>
+<entry xml:id="borraios">
+  <form>
+    <orth xml:lang="grc">Βορραῖος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">Borealis</def>
+  </sense>
+  <cit>
+    <bibl>Septem 527</bibl>
+    <quote xml:lang="grc">πέμπταισι προσταχθέντα Βορραίαις (sic Porsonus pro βορρέαις) πύλαις.</quote>
+  </cit>
+</entry>
+<entry xml:id="boskē">
+  <form>
+    <orth xml:lang="grc">βοσκή</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">pabulum</def>
+  </sense>
+  <cit>
+    <bibl>Eumenides 266</bibl>
+    <quote xml:lang="grc">ἀπὸ δὲ σοῦ φεροίμαν βοσκὰν πώματος δυσπότου.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 41</bibl>
+    <quote xml:lang="grc">μήλων τε βοσκὰς καὶ βίον Δημήτριον.</quote>
+  </cit>
+</entry>
+<entry xml:id="boskēma">
+  <form>
+    <orth xml:lang="grc">βόσκημα</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">pabulum, nutrimentum. Improprie</def>
+  </sense>
+  <cit>
+    <bibl>Supplices 620</bibl>
+    <quote xml:lang="grc">ἀμήχανον βόσκημα πημονῆς.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">is qui pascitur</def>
+  </sense>
+  <cit>
+    <bibl>Eumenides 302</bibl>
+    <quote xml:lang="grc">ἀναίματον βόσκημα δαιμόνων.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">pecus, bestia</def>
+  </sense>
+  <cit>
+    <bibl>Fr. 270</bibl>
+    <quote xml:lang="grc">ἄκανθα ποντίου βοσκήματος.</quote>
+  </cit>
+</entry>
+<entry xml:id="boskō">
+  <form>
+    <orth xml:lang="grc">βόσκω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">pasco, alo</def>
+  </sense>
+  <cit>
+    <bibl>Septem 244</bibl>
+    <quote xml:lang="grc">τούτῳ γὰρ ῎Αρης βόσκεται, φόνῳ βροτῶν.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 26</bibl>
+    <quote xml:lang="grc">δι' αἰῶνος δ᾽ ἰυγμοῖσι βόσκεται κέαρ.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">Forma media βόσκομαι comedo</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 118</bibl>
+    <quote xml:lang="grc">βοσκόμενοι λαγίναν ἐρικυμάδα φέρματι γένναν.</quote>
+  </cit>
+</entry>
+<entry xml:id="bosporos">
+  <form>
+    <orth xml:lang="grc">Βόσπορος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">Bosporus</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 733</bibl>
+    <quote xml:lang="grc">Βόσπορος δ' ἐπώνυμος κεκλήσεται.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 723</bibl>
+    <quote xml:lang="grc">ὥστε Βόσπορον κλῆσαι μέγαν.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 746</bibl>
+    <quote xml:lang="grc">ὅστις Ἑλλήσποντον – ἤλπισε σχήσειν ῥέοντα, Βόσπορον ῥόον θεοῦ.</quote>
+  </cit>
+</entry>
+<entry xml:id="bostrychos">
+  <form>
+    <orth xml:lang="grc">βόστρυχος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">cincinnus</def>
+  </sense>
+  <cit>
+    <bibl>Choephori 168</bibl>
+    <quote xml:lang="grc">ὁρῶ τομαῖον τόνδε βόστρυχον τάφῳ.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 178</bibl>
+    <quote xml:lang="grc">μάλιστ᾽ ἐκείνου βοστρύχοις προσείδεται.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 229</bibl>
+    <quote xml:lang="grc">σκέψαι τομῇ προσθεῖσα βόστρυχον τριχός.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">Figurate</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 1044</bibl>
+    <quote xml:lang="grc">πυρὸς ἀμφήκης βόστρυχος.</quote>
+  </cit>
+</entry>
+<entry xml:id="botēr">
+  <form>
+    <orth xml:lang="grc">βοτήρ</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">pastor</def>
+  </sense>
+  <cit>
+    <bibl>Eumenides 196</bibl>
+    <quote xml:lang="grc">χωρεῖτ᾽ ἄνευ βοτῆρος αἰπολούμεναι.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 352</bibl>
+    <quote xml:lang="grc">φράζουσα βοτήρι μόχθους.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 24</bibl>
+    <quote xml:lang="grc">ὡς ὁ μάντις φησὶν, οἰωνῶν βοτήρ,</quote>
+    <note xml:lang="lat">i. e. auguriorum observator.</note>
+  </cit>
+</entry>
+<entry xml:id="botēs">
+  <form>
+    <orth xml:lang="grc">βότης</orth>
+  </form>
+  <sense>
+    <note xml:lang="lat">V. βούτης.</note>
+  </sense>
+</entry>
+<entry xml:id="boton">
+  <form>
+    <orth xml:lang="grc">βοτόν</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">pecus</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 1169</bibl>
+    <quote xml:lang="grc">θυσίαι – πολυκανεῖς βοτῶν ποιονόμων.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1415</bibl>
+    <quote xml:lang="grc">ὡσπερεὶ βοτοῦ μόρον.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 753</bibl>
+    <quote xml:lang="grc">τὸ μὴ φρονοῦν γὰρ, ὡσπερεὶ βοτὸν, τρέφειν ἀνάγκη.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 450</bibl>
+    <quote xml:lang="grc">σφαγαὶ – νεοθήλου βοτοῦ.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 452</bibl>
+    <quote xml:lang="grc">καὶ βοτοῖσι καὶ ῥυτοῖς πόροις.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 907</bibl>
+    <quote xml:lang="grc">καρπόν τε γαίας καὶ βοτῶν ἐπίρρυτον.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 568</bibl>
+    <quote xml:lang="grc">βοτὸν ἐσορῶντες δυσχερές μιξόμβροτόν.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 691</bibl>
+    <quote xml:lang="grc">πρόνομα δὲ βοτὰ τὼς πολύγονα τελέθοι.</quote>
+  </cit>
+  <cit>
+    <bibl>[Supplices 858]</bibl>
+    <quote xml:lang="grc">ἀλφεσίβοιον ὕδωρ, ἔνθὲν ἀεξόμενεν ζώφυτον αἷμα βροτοῖσι θάλλει,</quote>
+    <note xml:lang="lat">Coningtono βοτοῖσι scribendum videbatur.</note>
+  </cit>
+</entry>
+<entry xml:id="boubalis">
+  <form>
+    <orth xml:lang="grc">βούβαλις</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">bubalus</def>
+  </sense>
+  <cit>
+    <bibl>Fr. 316</bibl>
+    <quote xml:lang="grc">λεοντοχόρταν βούβαλιν νεαίρετον.</quote>
+  </cit>
+</entry>
+<entry xml:id="bouthoros">
+  <form>
+    <orth xml:lang="grc">βουθόρος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">vaccas iniens</def>
+  </sense>
+  <cit>
+    <bibl>Supplices 301</bibl>
+    <quote xml:lang="grc">πρέποντα βουθόρῳ ταύρῳ δέμας.</quote>
+  </cit>
+</entry>
+<entry xml:id="bouthytos">
+  <form>
+    <orth xml:lang="grc">βούθυτος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">ad boves immolandos pertinens</def>
+  </sense>
+  <cit>
+    <bibl>Choephori 261</bibl>
+    <quote xml:lang="grc">βουθύτοις ἐν ἤμασιν.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 706</bibl>
+    <quote xml:lang="grc">βουθύτοισι τιμαῖς.</quote>
+  </cit>
+</entry>
+<entry xml:id="boukerōs">
+  <form>
+    <orth xml:lang="grc">βούκερως</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">bubulis praeditus cornibus</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 588</bibl>
+    <quote xml:lang="grc">κλύεις φθέγμα τᾶς βούκερω παρθένου;</quote>
+  </cit>
+</entry>
+<entry xml:id="boukoleō">
+  <form>
+    <orth xml:lang="grc">βουκολέω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">pasco, alo. Improprie demulceo</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 669</bibl>
+    <quote xml:lang="grc">ἐβουκολοῦμεν φροντίσιν νέον πάθος.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 78</bibl>
+    <quote xml:lang="grc">μὴ πρόκαμνε τόνδε βουκολούμενος πόνον,</quote>
+    <note xml:lang="lat">ubi per περιέπων exp. schol.</note>
+  </cit>
+</entry>
+<entry xml:id="boukolos">
+  <form>
+    <orth xml:lang="grc">βουκόλος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">bubulcus</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 677</bibl>
+    <quote xml:lang="grc">βουκόλος δὲ γηγενὴς – Αργος ὡμάρτει.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 557</bibl>
+    <quote xml:lang="grc">εἰσικνουμένου βέλει βουκόλου πτερόεντος.</quote>
+  </cit>
+</entry>
+<entry xml:id="boularxos">
+  <form>
+    <orth xml:lang="grc">βούλαρχος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">consilii auctor</def>
+  </sense>
+  <cit>
+    <bibl>Supplices 12</bibl>
+    <quote xml:lang="grc">Δαναός δὲ πατὴρ καὶ βούλαρχος καὶ στασίαρχος.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 969</bibl>
+    <quote xml:lang="grc">Δαναὸν, πρόνοον καὶ βούλαρχον.</quote>
+  </cit>
+</entry>
+<entry xml:id="bouleuma">
+  <form>
+    <orth xml:lang="grc">βούλευμα</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">consilium</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 170</bibl>
+    <quote xml:lang="grc">τὸ νέον βούλευμ᾽, ὑφ᾽ ὅτου σκῆπτρον τιμάς τ᾽ ἀποσυλᾶται.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 619</bibl>
+    <quote xml:lang="grc">βούλευμα μὲν τὸ Δῖον, Ἡφαίστου δὲ χείρ.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 762</bibl>
+    <quote xml:lang="grc">αὐτὸς πρὸς αὑτοῦ κενοφρόνων βουλευμάτων.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 1055</bibl>
+    <quote xml:lang="grc">τοιάδε μέντοι τῶν φρενοπλήκτων βουλεύματ᾿ ἔπη τ᾽ ἔστιν ἀκοῦσαι.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 594</bibl>
+    <quote xml:lang="grc">ἐξ ἧς τὰ κεδνὰ βλαστάνει βουλεύματα.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 172</bibl>
+    <quote xml:lang="grc">πάντα γὰρ τὰ κέδν᾽ ἐν ὑμῖν ἐστί μοι βουλεύματα.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 528</bibl>
+    <quote xml:lang="grc">πιστοῖσι πιστὰ ξυμφέρειν βουλεύματα.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1347</bibl>
+    <quote xml:lang="grc">ἀλλὰ κοινωσαίμεθ᾽ ἂν πῶς ἀσφαλῆ βουλεύματα;</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 593</bibl>
+    <quote xml:lang="grc">πρὸς τοῦ δ᾽ ἐπείσθης καὶ τίνος βουλεύμασιν;</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 717</bibl>
+    <quote xml:lang="grc">ἢ καὶ πατήρ τι σφάλλεται βουλευμάτων;</quote>
+  </cit>
+</entry>
+<entry xml:id="bouleuteon">
+  <form>
+    <orth xml:lang="grc">βουλευτέον</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">deliberandum</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 847</bibl>
+    <quote xml:lang="grc">τὸ μὲν καλῶς ἔχον ὅπως χρονίζον εὐ μενεῖ βουλευτέον.</quote>
+  </cit>
+</entry>
+<entry xml:id="bouleutērion">
+  <form>
+    <orth xml:lang="grc">βουλευτήριον</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">curia</def>
+  </sense>
+  <cit>
+    <bibl>Eumenides 570</bibl>
+    <quote xml:lang="grc">πληρουμένου γὰρ τοῦδε βουλευτηρίου.</quote>
+  </cit>
+  <cit>
+    <bibl>[Eumenides 683]</bibl>
+    <quote xml:lang="grc">ἔσται δὲ καὶ τὸ λοιπὸν Αἰγέως στρατῷ ἀεὶ δικαστῶν τοῦτο βουλευτήριον.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 687</bibl>
+    <quote xml:lang="grc">κερδῶν ἄθικτον τοῦτο βουλευτήριον.</quote>
+  </cit>
+</entry>
+<entry xml:id="bouleutērios">
+  <form>
+    <orth xml:lang="grc">βουλευτήριος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">suasor</def>
+  </sense>
+  <cit>
+    <bibl>Septem 575</bibl>
+    <quote xml:lang="grc">κακῶν τ᾽ ᾿Αδράστῳ τῶνδε βουλευτήριον.</quote>
+  </cit>
+</entry>
+<entry xml:id="bouleutis">
+  <form>
+    <orth xml:lang="grc">βούλευτις</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">consiliatrix</def>
+  </sense>
+  <cit>
+    <note xml:lang="lat">Etym. M. p. 595, 40 βουλευτής βούλευτις. “τῶνδε βούλευτις πόνων” ἐν ταῖς Ξαντρίαις (fr. 166), ubi ambigitur Aeschyli an (quod minus probabile) Platonis comici Xanthriae intelligendae sint. De forma vocabuli dixit Lobeckius ad Phryn. p. 256.</note>
+    <bibl>fr. 166</bibl>
+    <quote xml:lang="grc">τῶνδε βούλευτις πόνων</quote>
+  </cit>
+</entry>
+<entry xml:id="bouleutos">
+  <form>
+    <orth xml:lang="grc">βουλευτός</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">excogitatus</def>
+  </sense>
+  <cit>
+    <bibl>Choephori 494</bibl>
+    <quote xml:lang="grc">αἰσχρῶς τε βουλευτοῖσιν ἐν καλύμμασιν.</quote>
+  </cit>
+</entry>
+
+<entry xml:id="bouleuō">
+  <form>
+    <orth xml:lang="grc">βουλεύω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">suadeo</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 204</bibl>
+    <quote xml:lang="grc">ἐνταῦθ᾽ ἐγὼ τὰ λῷστα βουλεύων.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 700</bibl>
+    <quote xml:lang="grc">βουλεύω σέβειν.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">delibero, decerno, meditor. Ponitur vel absolute vel cum accusativo aut περί et genitivo constructum</def>
+  </sense>
+  <cit>
+    <bibl>Septem 200</bibl>
+    <quote xml:lang="grc">μὴ γυνή βουλευέτω.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 1030</bibl>
+    <quote xml:lang="grc">πρὸς ταῦτα βούλευε.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 248</bibl>
+    <quote xml:lang="grc">οὐκοῦν ἐμ᾿ ἀρκεῖ τῶνδε βουλεύειν πέρι.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 758</bibl>
+    <quote xml:lang="grc">τήνδ᾽ ἐβούλευσεν κέλευθον.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1223</bibl>
+    <quote xml:lang="grc">ἐκ τῶνδε ποινάς φημι βουλεύειν τινά.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1359</bibl>
+    <quote xml:lang="grc">τοῦ δρῶντός ἐστι καὶ τὸ βουλεύσαι πέρι.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1614</bibl>
+    <quote xml:lang="grc">ἔποικτον τόνδε βουλεῦσαι φόνον.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1627</bibl>
+    <quote xml:lang="grc">ἀνδρὶ στρατηγῷ τόνδ᾽ ἐβούλευσας μόρον;</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1634</bibl>
+    <quote xml:lang="grc">ἐπειδὴ τῷδ᾽ ἐβούλευσας μόρον.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">Passivum</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 998</bibl>
+    <quote xml:lang="grc">ὦπται πάλαι δὴ καὶ βεβούλευται τάδε.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 1016</bibl>
+    <quote xml:lang="grc">εἰ γάρ τι μὴ θεοῖς βεβούλευται νέον.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 198</bibl>
+    <quote xml:lang="grc">ψήφος κατ᾿ αὐτῶν ὀλεθρία βουλεύσεται.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">Forma media βουλεύομαι delibero, consilia ineo</def>
+  </sense>
+  <cit>
+    <bibl>Fr. 258</bibl>
+    <quote xml:lang="grc">σφαλεὶς γὰρ οὐδεὶς εὐ βεβουλεύσθαι δοκεῖ.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 223</bibl>
+    <quote xml:lang="grc">μή μοι θεοὺς καλούσα βουλεύου κακῶς.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 846</bibl>
+    <quote xml:lang="grc">τὰ δ᾽ ἄλλα βουλευσόμεσθα.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 718</bibl>
+    <quote xml:lang="grc">βουλευσόμεσθα τῆσδε συμφορᾶς πέρι.</quote>
+  </cit>
+</entry>
+<entry xml:id="boulē">
+  <form>
+    <orth xml:lang="grc">βουλή</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">consilium</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 219</bibl>
+    <quote xml:lang="grc">ἐμαῖς δὲ βουλαῖς Ταρτάρου μελαμβαθὴς κευθμὼν καλύπτει τὸν παλαιγενή Κρόνον.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 551</bibl>
+    <quote xml:lang="grc">οὔποτε θνατῶν τὰν Διὸς ἁρμονίαν ἀνδρῶν παρεξίασι βουλαί.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 842</bibl>
+    <quote xml:lang="grc">βουλαὶ δ᾽ ἄπιστοι Λαΐου διήρκεσαν.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1358</bibl>
+    <quote xml:lang="grc">οὐκ οἶδα βουλῆς ἡστινος τυχὼν λέγω.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 100</bibl>
+    <quote xml:lang="grc">τῆσδ᾽ ἐστὲ βουλῆς, ὦ φίλαι, μεταίτιαι.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 620</bibl>
+    <quote xml:lang="grc">βουλῇ πιφαύσκω δ᾽ ὕμμ᾽ ἐπισπέσθαι πατρός.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">senatus, magistratus</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 884</bibl>
+    <quote xml:lang="grc">εἴτε δημόθρους ἀναρχία βουλὴν καταρρίψειεν.</quote>
+  </cit>
+</entry>
+<entry xml:id="boulios">
+  <form>
+    <orth xml:lang="grc">βούλιος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">consultus, prudens</def>
+  </sense>
+  <cit>
+    <bibl>Supplices 599</bibl>
+    <quote xml:lang="grc">σπεύσαί τι τῶν βούλιος (sic Auratus pro δούλιος) φέρει φρήν.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 672</bibl>
+    <quote xml:lang="grc">εἰ δ᾽ ἄλλο πρᾶξαι δεῖ τι βουλιώτερον.</quote>
+  </cit>
+</entry>
+<entry xml:id="boulomai">
+  <form>
+    <orth xml:lang="grc">βούλομαι</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">volo</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 929</bibl>
+    <quote xml:lang="grc">ἅπερ τελεῖται, πρὸς δ᾽ ἃ βούλομαι λέγω.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 215</bibl>
+    <quote xml:lang="grc">οὔ σε βουλόμεσθα, μῆτερ, οὔτ᾽ ἄγαν φοβεῖν λόγοις.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 867</bibl>
+    <quote xml:lang="grc">δυοῖν δὲ θάτερον βουλήσεται.</quote>
+  </cit>
+</entry>
+<entry xml:id="bounis">
+  <form>
+    <orth xml:lang="grc">βοῦνις</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">collibus frequens, tumulosa</def>
+  </sense>
+  <cit>
+    <bibl>Supplices 117 129</bibl>
+    <quote xml:lang="grc">ἱλέομαι μὲν ᾿Απίαν βοῦνιν.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 776</bibl>
+    <quote xml:lang="grc">ἰὼ γὰ βοῦνι, πάνδικον σέβας,</quote>
+    <note xml:lang="lat">ubi βοῦνι ego restitui, πάνδικον, quod schol. legit, Paleius, pro βουνῖτι ἔνδικον, quod est in M: de quo dixi in Thes, vol. 2 p. 369.</note>
+  </cit>
+</entry>
+<entry xml:id="bounomos">
+  <form>
+    <orth xml:lang="grc">βούνομος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">a bobus depastus</def>
+  </sense>
+  <cit>
+    <bibl>Fr. 243</bibl>
+    <quote xml:lang="grc">Σπερχειὲ ποταμὲ βούνομοί τ᾽ ἐπιστροφαί.</quote>
+  </cit>
+</entry>
+<entry xml:id="boura">
+  <form>
+    <orth xml:lang="grc">Βούρα</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">nomen urbis Achaicae</def>
+  </sense>
+  <cit>
+    <bibl>Fr. 326</bibl>
+    <quote xml:lang="grc">Βούραν ἱεράν.</quote>
+  </cit>
+</entry>
+<entry xml:id="bous">
+  <form>
+    <orth xml:lang="grc">βοῦς</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">ὁ, (cum genitivo βοός, pro quo βοῦ haud dubie metri causa ab Aeschylo (fr. 430) et Sophocle (fr. 277) dictum memorat Choeroboscus p. 237, 9 ed. Gaisf.) bos</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 36</bibl>
+    <quote xml:lang="grc">βοῦς ἐπὶ γλώσση μέγας βέβηκεν.</quote>
+    <note xml:lang="lat">Quae proverbialis locutio est de iis qui vel pecunia corrupti tacent, vel, ut hoc loco, propter metum libere loqui non audent: de qua plura dixit Blomfieldus in Glossario.</note>
+  </cit>
+  <sense>
+    <def xml:lang="lat">ἡ, vacca</def>
+  </sense>
+  <cit>
+    <bibl>Persians 611</bibl>
+    <quote xml:lang="grc">βοός τ᾽ ἀφ᾽ ἁγνῆς λευκὸν εὔποτον γάλα.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1125</bibl>
+    <quote xml:lang="grc">ἄπεχε τᾶς βοὸς τὸν ταῦρον.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1298</bibl>
+    <quote xml:lang="grc">θεηλάτου βοὸς δίκην.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 18</bibl>
+    <quote xml:lang="grc">τῆς οἰστροδόνου βοὸς ἐξ ἐπαφῆς.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 45</bibl>
+    <quote xml:lang="grc">ἰνίν τ᾽ ἀνθονομούσας προγόνου βοός.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 170</bibl>
+    <quote xml:lang="grc">τὸν τᾶς βοὺς παῖδ᾽ ἀτιμάσας.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 275</bibl>
+    <quote xml:lang="grc">σπέρματ᾽ εὐτέκνου βοός.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 299</bibl>
+    <quote xml:lang="grc">ΧΟ. βοῦν τὴν γυναῖκ᾽ ἔθηκεν ᾿Αργεία θεός. ΒΑ. οὔκουν πελάζει Ζεὺς ἐπ᾿ εὐκραίρῳ βοΐ;</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 303</bibl>
+    <quote xml:lang="grc">τὸν πάνθ᾽ ὁρῶντα φύλακ᾽ ἐπέστησεν βοΐ.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 306</bibl>
+    <quote xml:lang="grc">τί οὖν ἔτευξεν ἄλλο δυσπότμῳ βοΐ;</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 313</bibl>
+    <quote xml:lang="grc">τίς οὖν ὁ Δῖος πόρτις εὔχεται βοός;</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 569</bibl>
+    <quote xml:lang="grc">τὰν μὲν βοὸς, τὰν δ᾽ αὖ γυναικός.</quote>
+  </cit>
+</entry>
+<entry xml:id="boustasis">
+  <form>
+    <orth xml:lang="grc">βούστασις</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">bubile</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 653</bibl>
+    <quote xml:lang="grc">πὸὶμνας βουστάσεις τε πρὸς πατρός.</quote>
+  </cit>
+</entry>
+<entry xml:id="boutēs">
+  <form>
+    <orth xml:lang="grc">βούτης</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">bubulcus</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 569</bibl>
+    <quote xml:lang="grc">τὸν μυριωπὸν εἰσορῶσα βούταν.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 719</bibl>
+    <quote xml:lang="grc">βούτας ἀνήρ.</quote>
+    <note xml:lang="lat">In apogr. Flor. (nam in Med. haec pars fabulae excidit) οὗτος (superscripto ως) ἀνήρ. Correxit Heusdius, nisi quod βότας scripsit, pro quo βούτας recte Weckleinius, ut s. v. ἀγάλακτος diximus.</note>
+  </cit>
+</entry>
+<entry xml:id="bouphonos">
+  <form>
+    <orth xml:lang="grc">βουφόνος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">boves caedens</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 531</bibl>
+    <quote xml:lang="grc">μηδ᾽ ἐλινύσαιμι θεοὺς ὁσίαις θοίναις ποτινισσομένα βουφόνοις,</quote>
+    <note xml:lang="lat">i. e. boum occisorum sacrificiis.</note>
+  </cit>
+</entry>
+<entry xml:id="bouchilos">
+  <form>
+    <orth xml:lang="grc">βούχῖλος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">pecora alens</def>
+  </sense>
+  <cit>
+    <bibl>Supplices 540</bibl>
+    <quote xml:lang="grc">λείμῶνα βούχιλον.</quote>
+  </cit>
+</entry>
+<entry xml:id="brabeus">
+  <form>
+    <orth xml:lang="grc">βραβεύς</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">dux</def>
+  </sense>
+  <cit>
+    <bibl>Persians 302</bibl>
+    <quote xml:lang="grc">᾿Αρτεμβάρης δὲ μυρίας ἵππου βραβεύς.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 230</bibl>
+    <quote xml:lang="grc">φιλόμαχοι βραβῆς.</quote>
+    <note xml:lang="lat">Hesychius βραβέα: ἄρχοντα.</note>
+  </cit>
+</entry>
+<entry xml:id="bradynō">
+  <form>
+    <orth xml:lang="grc">βραδύνω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">tardus sum, cunctor</def>
+  </sense>
+  <cit>
+    <bibl>Supplices 730</bibl>
+    <quote xml:lang="grc">εἰ βραδύνοιμεν βοή.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">Forma media</def>
+  </sense>
+  <cit>
+    <bibl>Septem 623</bibl>
+    <quote xml:lang="grc">γέροντα τὸν νοῦν, σάρκα δ᾽ ἡβῶσαν φύει [ποδῶκες ὄμμα, χεῖρα δ᾽ οὐ βραδύνεται] παρ᾿ ἀσπίδος γυμνωθέν ἁρπάσαι δόρυ.</quote>
+    <note xml:lang="lat">ubi seclusi versum spurium.</note>
+  </cit>
+</entry>
+<entry xml:id="brachiōn">
+  <form>
+    <orth xml:lang="grc">βραχίων</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">brachium</def>
+  </sense>
+  <cit>
+    <bibl>Supplices 747</bibl>
+    <quote xml:lang="grc">πολλοὺς δέ γ᾽ εὑρήσουσιν ἐν μεσημβρίᾳ θάλπει βραχίον᾽ εὐ κατερρινημένους.</quote>
+  </cit>
+</entry>
+<entry xml:id="brachys">
+  <form>
+    <orth xml:lang="grc">βραχύς</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">brevis</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 505</bibl>
+    <quote xml:lang="grc">βραχεῖ δὲ μύθῳ πάντὰ συλλήβδην μάθε.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 939</bibl>
+    <quote xml:lang="grc">κρατείτω τόνδε τὸν βραχὺν χρόνον.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 713</bibl>
+    <quote xml:lang="grc">ἐν βραχεῖ λόγῳ.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 274</bibl>
+    <quote xml:lang="grc">βραχὺς τορός θ᾽ ὁ μύθος.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 441</bibl>
+    <note xml:lang="lat">βραχύ ψήγμα pro βαρύ ψῆγμα Schuetzius.</note>
+  </cit>
+</entry>
+
+<entry xml:id="bremō">
+  <form>
+    <orth xml:lang="grc">βρέμω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">fremo</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 424</bibl>
+    <quote xml:lang="grc">δάϊος στρατὸς ὀξυπρῴροισι βρέμων ἐν αἰχμαῖς.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 84</bibl>
+    <quote xml:lang="grc">διὰ πέδον βοὰ ποτᾶται, βρέμει δ᾽ ἀμαχέτου δίκαν ὕδατος ὀροτύπου.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 378</bibl>
+    <quote xml:lang="grc">Τυδεὺς μὲν ἤδη πρὸς πύλαισι Προιτίσι βρέμει.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1030</bibl>
+    <quote xml:lang="grc">νῦν δ᾽ ὑπὸ σκότῳ βρέμει (καρδία).</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 978</bibl>
+    <quote xml:lang="grc">τὰν δ᾽ ἄπληστον κακῶν μήποτ᾽ ἐν πόλει στάσιν τᾷδ᾽ ἐπεύχομαι βρέμειν.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">Forma media</def>
+  </sense>
+  <cit>
+    <bibl>Septem 350</bibl>
+    <quote xml:lang="grc">βλαχαὶ δ᾽ αἱματόεσσαι – βρέμονται.</quote>
+  </cit>
+</entry>
+<entry xml:id="bretas">
+  <form>
+    <orth xml:lang="grc">βρέτας</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">simulacrum dei vel deae</def>
+  </sense>
+  <cit>
+    <bibl>Septem 95</bibl>
+    <quote xml:lang="grc">πότερα δῆτ᾽ ἐγὼ ποτιπέσω βρέτη τίμια (τίμια addidi) δαιμόνων;</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 97</bibl>
+    <quote xml:lang="grc">ἀκμάζει βρετέων ἔχεσθαι.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 185</bibl>
+    <quote xml:lang="grc">βρέτη πεσούσας πρὸς πολισσούχων θεῶν.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 212</bibl>
+    <quote xml:lang="grc">ἐπὶ δαιμόνων πρόδρομος ἦλθον ἀρχαῖα βρέτη.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 809</bibl>
+    <quote xml:lang="grc">οὐ θεῶν βρέτη ἠdoῦντο συλᾶν.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 80</bibl>
+    <quote xml:lang="grc">ἵζου παλαιὸν ἄγκαθεν λαβὼν βρέτας.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 242</bibl>
+    <quote xml:lang="grc">πρόσειμι δῶμα καὶ βρέτας τὸ σὸν, θεά.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 259</bibl>
+    <quote xml:lang="grc">περὶ βρέτει πλεχθεὶς θεᾶς ἀμβρότου.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 409</bibl>
+    <quote xml:lang="grc">βρέτας τε τοὐμὸν τῷδ᾽ ἐφημένῳ ξένῳ.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 439</bibl>
+    <quote xml:lang="grc">βρέτας τόδε ήσαι φυλάσσων.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 446</bibl>
+    <quote xml:lang="grc">πρὸς χειρὶ τἠμῇ τὸ σὸν ἐφεζόμην βρέτας.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 1024</bibl>
+    <quote xml:lang="grc">αἵτε φρουροῦσιν βρέτας τοὐμὸν δικαίως.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 463</bibl>
+    <quote xml:lang="grc">νέοις πίναξι βρέτεα κοσμῆσαι τάδε.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 885</bibl>
+    <quote xml:lang="grc">βρέτεος ἄρος ἄτα.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 430</bibl>
+    <quote xml:lang="grc">ἀπὸ βρετέων βίᾳ Δίκας ἀγομέναν.</quote>
+  </cit>
+</entry>
+<entry xml:id="brephos">
+  <form>
+    <orth xml:lang="grc">βρέφος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">infans</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 1096</bibl>
+    <quote xml:lang="grc">κλαόμενα τάδε βρέφη σφαγάς.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 350</bibl>
+    <quote xml:lang="grc">τῶν ἐπιμαστιδίων ἄρτι βρεφών.</quote>
+    <note xml:lang="lat">Sic Schuetzius pro ἀρτιτρεφεῖς (in apogr. nonnullis ἀρτιβρεφεῖς).</note>
+  </cit>
+</entry>
+<entry xml:id="brizō">
+  <form>
+    <orth xml:lang="grc">βρίζω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">dormio</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 275</bibl>
+    <quote xml:lang="grc">οὐ δόξαν ἂν λάβοιμι βριζούσης φρενός.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 897</bibl>
+    <quote xml:lang="grc">πρὸς ᾧ σὺ πολλὰ δὴ βρίζων ἅμα οὔλοισιν ἐξήμελξας εὐτραφὲς γάλα.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 280</bibl>
+    <quote xml:lang="grc">βρίζει γὰρ αἷμα.</quote>
+  </cit>
+</entry>
+<entry xml:id="brithys">
+  <form>
+    <orth xml:lang="grc">βριθύς</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">gravis</def>
+  </sense>
+  <cit>
+    <bibl>Agamemnon 200</bibl>
+    <quote xml:lang="grc">χείματος ἄλλο μῆχαρ βριθύτερον πρόμοισι.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 447</bibl>
+    <quote xml:lang="grc">βριθὺς ὁπλιτοπάλας.</quote>
+    <note xml:lang="lat">(ex elegia)</note>
+  </cit>
+</entry>
+<entry xml:id="brithō">
+  <form>
+    <orth xml:lang="grc">βρίθω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">quod plerumque intransitive dicitur deorsum vergo, rarius transitive est onero.</def>
+    <note xml:lang="lat">Hesychius βρῖσαι: βαρῦναι.</note>
+  </sense>
+  <cit>
+    <bibl>Persians 346</bibl>
+    <quote xml:lang="grc">τάλαντα βρίσας οὐκ ἰσορρόπῳ τύχη.</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">Passivum</def>
+  </sense>
+  <cit>
+    <bibl>Septem 154</bibl>
+    <quote xml:lang="grc">ἔλακον ἀξόνων βριθομένων χνόαι.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 114</bibl>
+    <quote xml:lang="grc">λευκοῖς τε γὰρ μόροισι καὶ μελαγχίμοις καὶ μιλτοπρέπτοις βρίθεται ταὐτοῦ χρόνου.</quote>
+    <note xml:lang="lat">Sic Homerus Il. 8, 307 καρπῷ βριθομένη. unde Hesychius βρίθεται: βαρύνεται καρπῷ.</note>
+  </cit>
+</entry>
+<entry xml:id="bromios">
+  <form>
+    <orth xml:lang="grc">Βρόμιος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">cognomen Bacchi</def>
+  </sense>
+  <cit>
+    <bibl>Eumenides 24</bibl>
+    <quote xml:lang="grc">Βρόμιος ἔχει τὸν χῶρον.</quote>
+  </cit>
+</entry>
+<entry xml:id="bromos">
+  <form>
+    <orth xml:lang="grc">βρόμος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">strepitus</def>
+  </sense>
+  <cit>
+    <bibl>Septem 213</bibl>
+    <quote xml:lang="grc">νιφάδος ὅτ᾽ ὀλοᾶς νιφομένας βρόμος ἐν πύλαις.</quote>
+  </cit>
+  <cit>
+    <bibl>Septem 476</bibl>
+    <quote xml:lang="grc">μάργων ἱππικῶν φρυαγμάτων βρόμον φοβηθείς.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 195</bibl>
+    <quote xml:lang="grc">ἵν᾿ εὐλαβοῦ βρόμον καταιγίζοντα.</quote>
+  </cit>
+</entry>
+<entry xml:id="brontē">
+  <form>
+    <orth xml:lang="grc">βροντή</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">tonitru</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 923</bibl>
+    <quote xml:lang="grc">βροντῆς θ᾽ ὑπερβάλλοντα καρτερὸν κτύπον.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 1017</bibl>
+    <quote xml:lang="grc">βροντῇ καὶ κεραυνίᾳ φλογί.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 1045</bibl>
+    <quote xml:lang="grc">αἰθὴρ δ᾽ ἐρεθιζέσθω βροντή.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 1062</bibl>
+    <quote xml:lang="grc">βροντῆς μύκημ᾿ ἀτέραμνον.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 1083</bibl>
+    <quote xml:lang="grc">βρυχία δ᾽ ἠχὼ παραμυκᾶται βροντής.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 35</bibl>
+    <quote xml:lang="grc">βροντῇ στεροπῇ τε.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 55, 11</bibl>
+    <quote xml:lang="grc">τυπάνου δ᾽ εἰκὼν ὥσθ᾽ ὑπογαίου βροντῆς φέρεται βαρυταρβής.</quote>
+  </cit>
+</entry>
+<entry xml:id="brontēma">
+  <form>
+    <orth xml:lang="grc">βρόντημα</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">tonitru</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 993</bibl>
+    <quote xml:lang="grc">βροντήμασι χθονίοις κυκάτω πάντα.</quote>
+  </cit>
+</entry>
+<entry xml:id="broteios">
+  <form>
+    <orth xml:lang="grc">βρότειος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">mortalis, ad mortalem s. mortales pertinens, humanus</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 116</bibl>
+    <quote xml:lang="grc">θεόσσυτος, βρότειος, ἢ κεκραμένη;</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 765</bibl>
+    <quote xml:lang="grc">θέορτον ἢ βρότειον (γάμον);</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1189</bibl>
+    <quote xml:lang="grc">βρότειον αἷμα.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1327</bibl>
+    <quote xml:lang="grc">ἰὼ βρότεια πράγματα.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 253</bibl>
+    <quote xml:lang="grc">ὀσμὴ βροτείων αἱμάτων με προσγελᾷ.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 412</bibl>
+    <quote xml:lang="grc">βροτείοις ἐμφερεῖς μορφώμασιν.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 568</bibl>
+    <quote xml:lang="grc">σάλπιγξ βροτείου πνεύματος πληρουμένη.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 909</bibl>
+    <quote xml:lang="grc">τῶν βροτείων σπερμάτων σωτηρίαν.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 104</bibl>
+    <quote xml:lang="grc">ἰδέσθω δ᾽ εἰς ὕβριν βρότειον.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 434</bibl>
+    <quote xml:lang="grc">βορᾶς βροτείας.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 294</bibl>
+    <quote xml:lang="grc">τὸ γὰ γὰρ βρότειον σπέρμ᾽ ἐφ᾽ ἡμέραν φρονεῖ.</quote>
+  </cit>
+</entry>
+<entry xml:id="broteos">
+  <form>
+    <orth xml:lang="grc">βρότεος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">i. q. βρότειος</def>
+  </sense>
+  <cit>
+    <bibl>Eumenides 171</bibl>
+    <quote xml:lang="grc">παρὰ νόμον θεῶν βρότεα μὲν τίων.</quote>
+    <note xml:lang="lat">Quod unicum huius formae exemplum est apud tragicos. Evicorum exempla v. in Thes, vol. 2 p. 43a.</note>
+  </cit>
+</entry>
+<entry xml:id="brotoktoneō">
+  <form>
+    <orth xml:lang="grc">βροτοκτονέω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">homines interficio</def>
+  </sense>
+  <cit>
+    <bibl>Eumenides 421</bibl>
+    <quote xml:lang="grc">βροτοκτονοῦντας ἐκ δόμων ἐλαύνομεν.</quote>
+  </cit>
+</entry>
+<entry xml:id="brotoloigos">
+  <form>
+    <orth xml:lang="grc">βροτολοιγός</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">homines perdens</def>
+  </sense>
+  <cit>
+    <bibl>Supplices 665</bibl>
+    <quote xml:lang="grc">βροτολοιγός ῎Αρης.</quote>
+  </cit>
+  <cit>
+    <bibl>Hom. Il. 5, 31</bibl>
+    <quote xml:lang="grc">῎Αρες ῎Αρες βροτολοιγέ.</quote>
+  </cit>
+</entry>
+<entry xml:id="brotos">
+  <form>
+    <orth xml:lang="grc">βροτός</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">mortalis</def>
+    <note xml:lang="lat">Dicitur plerumque substantive, intellecto ἀνήρ (ut βροτὸς ἀνήρ apud Homerum) vel alio nomine, et numero plurali frequentius quam singulari, cuius pauca tantum apud Aeschylum sunt exempla.</note>
+  </sense>
+  <cit>
+    <bibl>Persians 97</bibl>
+    <quote xml:lang="grc">παρασαίνει βροτὸν εἰς ἄρκυας Ἄτα.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1303</bibl>
+    <quote xml:lang="grc">ἀλλ᾽ εὐκλεῶς τοῦ κατθανεῖν χάρις βροτῷ.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 471</bibl>
+    <quote xml:lang="grc">τὸ πρᾶγμα μεῖζον ἤ τις οἴεται τόδε βροτὸς δικάζειν.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 525</bibl>
+    <quote xml:lang="grc">ἢ πόλις βροτός θ᾽ ὁμοίως ἔτ᾽ ἂν σέβοι δίκαν;</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 295</bibl>
+    <quote xml:lang="grc">μὴ καὶ λόγος τις Ζῆνα μιχθῆναι βροτῷ;</quote>
+  </cit>
+  <sense>
+    <def xml:lang="lat">Pluralis</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 21</bibl>
+    <quote xml:lang="grc">οὔτε φωνὴν οὔτε του μορφὴν βροτῶν ὄψει.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 30</bibl>
+    <quote xml:lang="grc">βροτοῖσι τιμὰς ὤπασας πέρα δίκης.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 111</bibl>
+    <quote xml:lang="grc">διδάσκαλος τέχνης πάσης βροτοῖς πέφηνε.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 123</bibl>
+    <quote xml:lang="grc">διὰ τὴν λίαν φιλότητα βροτῶν.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 231</bibl>
+    <quote xml:lang="grc">βροτῶν δὲ τῶν ταλαιπώρων λόγον οὐκ εἶχεν οὐδένα.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 235</bibl>
+    <quote xml:lang="grc">ἐξελυσάμην βροτούς.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 442</bibl>
+    <quote xml:lang="grc">τὰν βροτοῖς δὲ πήματα ἀκούσατε,</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 470</bibl>
+    <quote xml:lang="grc">τοιαῦτα μηχανήματ᾽ ἐξευρὼν τάλας βροτοῖσιν.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 506</bibl>
+    <quote xml:lang="grc">πᾶσαι τέχναι βροτοῖσιν ἐκ Προμηθέως.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 507</bibl>
+    <quote xml:lang="grc">μή νυν βροτοὺς μὲν ὠφέλει καιροῦ πέρα.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 612</bibl>
+    <quote xml:lang="grc">πυρὸς βροτοῖς δοτῆρ᾽ ὁρᾷς Προμηθέα.</quote>
+  </cit>
+  <cit>
+    <bibl>Prometheus 841</bibl>
+    <quote xml:lang="grc">τῆς σῆς πορείας μνῆμα τοῖς πᾶσιν βροτοῖς.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 293</bibl>
+    <quote xml:lang="grc">ἀνάγκη πημονὰς βροτοῖς φέρειν.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 420</bibl>
+    <quote xml:lang="grc">ναυαγίων πλήθουσα καὶ φόνου βροτῶν.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 591</bibl>
+    <quote xml:lang="grc">οὐδ᾽ ἔτι γλῶσσα βροτοῖσιν ἐν φυλακαῖς.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 599</bibl>
+    <quote xml:lang="grc">ἐπίσταται βροτοῖσιν ὡς ὅταν κλύδων κακῶν ἐπέλθη, πάντα δειμαίνειν φιλεῖ.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 706</bibl>
+    <quote xml:lang="grc">ἀνθρώπεια δ᾽ ἂν τοι πήματ᾽ ἂν τύχοι βροτοῖς.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 709</bibl>
+    <quote xml:lang="grc">ὦ βροτῶν πάντων ὑπερσχὼν ὄλβον.</quote>
+  </cit>
+  <cit>
+    <bibl>Persians 819</bibl>
+    <quote xml:lang="grc">ἄφωνα σημανοῦσιν ὄμμασιν βροτῶν.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 5</bibl>
+    <quote xml:lang="grc">τοὺς φέροντας χεῖμα καὶ θέρος βροτοῖς λαμπροὺς δυνάστας.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 176</bibl>
+    <quote xml:lang="grc">τὸν φρονεῖν βροτοὺς ὁδώσαντα.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 194</bibl>
+    <quote xml:lang="grc">δύσορμοι βροτῶν ἄλαι.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 221</bibl>
+    <quote xml:lang="grc">βροτοὺς θρασύνει γὰρ αἰσχρόμητις τάλαινα παρακοπά.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 370</bibl>
+    <quote xml:lang="grc">οὐκ ἔφα τις θεοὺς βροτῶν ἀξιοῦσθαι μέλειν.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 531</bibl>
+    <quote xml:lang="grc">τίεσθαι δ᾽ ἀξιώτατος βροτῶν τῶν νῦν.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 750</bibl>
+    <quote xml:lang="grc">παλαίφατος δ᾽ ἐν βροτοῖς γέρων λόγος τέτυκται.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 788</bibl>
+    <quote xml:lang="grc">πολλοὶ δὲ βροτῶν τὸ δοκεῖν εἶναι προτίουσι.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 765</bibl>
+    <quote xml:lang="grc">βροτῶν ὕβριν.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 885</bibl>
+    <quote xml:lang="grc">σύγγονον βροτοῖσι τὸν πεσόντα λακτίσαι πλέον.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1133</bibl>
+    <quote xml:lang="grc">ἀπὸ δὲ θεσφάτων τίς ἀγαθὰ φάτις βροτοῖς τέλλεται;</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1332</bibl>
+    <quote xml:lang="grc">τὸ μὲν εὐ πράσσειν ἀκόρεστον ἔφυ πᾶσι βροτοῖσιν.</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1341</bibl>
+    <quote xml:lang="grc">τίς ποτ᾿ ἂν εὔξαιτο βροτῶν ἀσινεῖ δαίμονι φύναι;</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1486</bibl>
+    <quote xml:lang="grc">τί γὰρ βροτοῖς ἄνευ Διὸς τελεῖται;</quote>
+  </cit>
+  <cit>
+    <bibl>Agamemnon 1578</bibl>
+    <quote xml:lang="grc">βροτῶν τιμαόρους θεοὺς ἄνωθεν γῆς ἐποπτεύειν ἄχη (ἄγη Auratus).</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 60</bibl>
+    <quote xml:lang="grc">τὸ δ᾽ εὐτυχεῖν, τόδ᾽ ἐν βροτοῖς θεός τε καὶ θεοῦ πλέον.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 93</bibl>
+    <quote xml:lang="grc">ὡς νόμος βροτοῖς ἐστί.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 119</bibl>
+    <quote xml:lang="grc">ἐλθεῖν τιν᾿ αὐτοῖς δαίμον᾽ ἢ βροτῶν τινα.</quote>
+  </cit>
+  <cit>
+    <bibl>[Choephori 129]</bibl>
+    <quote xml:lang="grc">κἀγὼ χέουσα τάσδε χέρνιβας βροτοῖς.</quote>
+    <note xml:lang="lat">ubi in Μ γρ. νεκροῖς. Recte φθιτοῖς Hermannus.</note>
+  </cit>
+  <cit>
+    <bibl>Choephori 194</bibl>
+    <quote xml:lang="grc">τοῦ φιλτάτου βροτῶν Ὀρέστου.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 216</bibl>
+    <quote xml:lang="grc">καὶ τίνα σύνοισθά μοι καλουμένη βροτῶν;</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 259</bibl>
+    <quote xml:lang="grc">πέμπειν ἔχοις ἂν σήματ'</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 302</bibl>
+    <quote xml:lang="grc">πολίτας εὐκλεεστάτους βροτῶν.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 384</bibl>
+    <quote xml:lang="grc">βροτῶν τλάμονι καὶ πανούργῳ χειρί.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 483</bibl>
+    <quote xml:lang="grc">δαῖτες ἔννομοι βροτῶν.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 588</bibl>
+    <quote xml:lang="grc">κνωδάλων ἀνταίων βροτοῖσι.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 598</bibl>
+    <quote xml:lang="grc">ἔρωτας ἄταισι συννόμους βροτῶν.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 601</bibl>
+    <quote xml:lang="grc">κνωδάλων τε καὶ βροτῶν.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 636</bibl>
+    <quote xml:lang="grc">βροτῶν ἀτιμωθὲν οἴχεται γένος.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 950</bibl>
+    <quote xml:lang="grc">Δίκαν δέ νιν προσαγορεύομεν βροτοί.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 93</bibl>
+    <quote xml:lang="grc">ὁρμώμενον βροτοῖσιν εὐπόμπῳ τύχη.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 105</bibl>
+    <quote xml:lang="grc">μοῖρ᾽ ἀπρόσκοπος βροτῶν.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 216</bibl>
+    <quote xml:lang="grc">ὅθεν βροτοῖσι γίγνεται τὰ φίλτατα.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 233</bibl>
+    <quote xml:lang="grc">δεινὴ γὰρ ἐν βροτοῖσι κάν θεοῖς πέλει τοῦ προστροπαίου μῆνις.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 239</bibl>
+    <quote xml:lang="grc">ἄλλοισιν οἴκοις καὶ πορεύμασιν βροτῶν.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 269</bibl>
+    <quote xml:lang="grc">εἴ τις ἄλλος ἤλιτεν βροτῶν.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 273</bibl>
+    <quote xml:lang="grc">μέγας γάρ-῞Αιδης ἐστὶν εὔθυνος βροτῶν.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 333 345</bibl>
+    <quote xml:lang="grc">αὐονὰ βροτοῖς.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 384</bibl>
+    <quote xml:lang="grc">δυσπαρήγοροι βροτοῖς.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 390</bibl>
+    <quote xml:lang="grc">τίς οὖν τάδ᾽ οὐχ ἅζεταί τε καὶ δέδοικεν βροτῶν;</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 495</bibl>
+    <quote xml:lang="grc">πάντας ἤδη τόδ᾽ ἔργον εὐχερείᾳ συναρμόσει βροτούς.</quote>
+  </cit>
+  <cit>
+    <bibl>[Eumenides 702]</bibl>
+    <quote xml:lang="grc">τις γὰρ δεδοικὼς μηδὲν ἔνδικος βροτῶν;</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 724</bibl>
+    <quote xml:lang="grc">Μοίρας ἔπεισας ἀφθίτους θεῖναι βροτούς.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 825</bibl>
+    <quote xml:lang="grc">μηδ᾽ ὑπερθύμως ἄγαν θεοὶ βροτῶν στήσητε δύσκηλον χθόνα.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 857</bibl>
+    <quote xml:lang="grc">ὅσην παρ᾽ ἄλλων οὔποτ᾽ ἂν σχέθοις βροτῶν.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 883</bibl>
+    <quote xml:lang="grc">πολισσούχων βροτῶν.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 915</bibl>
+    <quote xml:lang="grc">τήνδ᾽ ἀστύνικον ἐν βροτοῖς τιμᾶν πόλιν.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 986</bibl>
+    <quote xml:lang="grc">πολλῶν γὰρ τόδ᾽ ἐν βροτοῖς ἄκος.</quote>
+  </cit>
+  <cit>
+    <bibl>Eumenides 1016</bibl>
+    <quote xml:lang="grc">δαίμονές τε καὶ βροτοί.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 96</bibl>
+    <quote xml:lang="grc">ἰάπτει δ᾽ ἐλπίδων ἀφ᾽ ὑψιπύργων πανώλεις βροτούς.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 215</bibl>
+    <quote xml:lang="grc">εἰδὼς ἂν αἶσαν τήνδε συγγνοίη βροτοῖς.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 337</bibl>
+    <quote xml:lang="grc">σθένος μὲν οὕτως μεῖζον αὔξεται βροτοῖς.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 383</bibl>
+    <quote xml:lang="grc">φύλακα πολυπόνων βροτῶν.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 479</bibl>
+    <quote xml:lang="grc">ὕψιστος γὰρ ἐν βροτοῖς φόβος.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 543</bibl>
+    <quote xml:lang="grc">πολλὰ βροτῶν διαμειβομένα φύλα.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 565</bibl>
+    <quote xml:lang="grc">βροτοὶ δ᾽ οἳ γᾶς τότ᾽ ἦσαν ἔννομοι.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 610</bibl>
+    <quote xml:lang="grc">ξύν τ᾽ ἀσυλίᾳ βροτῶν.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 637</bibl>
+    <quote xml:lang="grc">τὸν ἀρότοις θερίζοντα βροτοὺς ἐν ἄλλοις.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 733</bibl>
+    <quote xml:lang="grc">θεοὺς ἀτίζων τις βροτῶν δώσει δίκην.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 858</bibl>
+    <quote xml:lang="grc">ἔνθεν ἀεξόμενον ζώφυτον αἷμα βροτοῖσι θάλλει.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 997</bibl>
+    <quote xml:lang="grc">ὥραν ἐχούσας τήνδ᾽ ἐπίστρεπτον βροτοῖς.</quote>
+  </cit>
+  <cit>
+    <bibl>[Supplices 999]</bibl>
+    <quote xml:lang="grc">θῆρες δὲ κηραίνουσι καὶ βροτοί τί νιν.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 5</bibl>
+    <quote xml:lang="grc">τί δῆτ᾽ ἐπ᾿ αὐτοῖς ὄνομα θήσονται βροτοί;</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 41, 4</bibl>
+    <quote xml:lang="grc">ἡ δὲ τίκτεται βροτοῖς μήλων τε βοσκὰς καὶ βίον Δημήτριον.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 160</bibl>
+    <quote xml:lang="grc">θεὸς μὲν αἰτίαν φύει βροτοῖς.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 198</bibl>
+    <quote xml:lang="grc">γύαι φέρουσι βίοτον ἄφθονον βροτοῖς.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 283</bibl>
+    <quote xml:lang="grc">τό τοι κακὸν ποδῶκες ἔρχεται βροτοῖς.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 301</bibl>
+    <quote xml:lang="grc">οὐ δικαίως θάνατον ἔχθουσιν βροτοί.</quote>
+  </cit>
+  <cit>
+    <bibl>Fr. 306b</bibl>
+    <quote xml:lang="grc">ἐκ τῶν πόνων τίκτεσθαι ἀρετὰς βροτοῖς</quote>
+    <note xml:lang="lat">Aeschyli sententiam memorat Libanius Epist. 175.</note>
+  </cit>
+</entry>
+<entry xml:id="brotoskopos">
+  <form>
+    <orth xml:lang="grc">βροτοσκόπος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">homines observans</def>
+  </sense>
+  <cit>
+    <bibl>Eumenides 499</bibl>
+    <quote xml:lang="grc">οὐδὲ γὰρ βροτοσκόπων μαινάδων τῶνδ᾽ ἐφέρπει κότος τις ἐργμάτων.</quote>
+  </cit>
+</entry>
+<entry xml:id="brotostygēs">
+  <form>
+    <orth xml:lang="grc">βροτοστυγής</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">hominibus infensus</def>
+  </sense>
+  <cit>
+    <bibl>Prometheus 799</bibl>
+    <quote xml:lang="grc">δρακοντόμαλλοι Γοργόνες βροτοστυγεῖς.</quote>
+  </cit>
+  <cit>
+    <bibl>Choephori 51</bibl>
+    <quote xml:lang="grc">ἀνήλιοι, βροτοστυγεῖς δνόφοι καλύπτουσι δόμους.</quote>
+  </cit>
+</entry>
+<entry xml:id="brotophthoros">
+  <form>
+    <orth xml:lang="grc">βροτοφθόρος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">homines perdens</def>
+  </sense>
+  <cit>
+    <bibl>Eumenides 787 817</bibl>
+    <quote xml:lang="grc">βροτοφθόρους κηλίδας ἐν χώρᾳ βαλεῖ.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 264</bibl>
+    <quote xml:lang="grc">χθόνα τήνδ᾽ ἐκκαθαίρει κνωδάλων βροτοφθόρων.</quote>
+  </cit>
+</entry>
+<entry xml:id="brochos">
+  <form>
+    <orth xml:lang="grc">βρόχος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">laqueus</def>
+  </sense>
+  <cit>
+    <bibl>Choephori 557</bibl>
+    <quote xml:lang="grc">ὡς ἂν – ληφθώσιν ἐν ταὐτῷ βρόχῳ.</quote>
+  </cit>
+  <cit>
+    <bibl>Supplices 788</bibl>
+    <quote xml:lang="grc">θέλοὶμι δ᾽ ἂν μορσίμου βρόχου τυχεῖν ἐν ἀρτάναις,</quote>
+    <note xml:lang="lat">ubi quum metrum duas syllabas breves postulet, pro βρόχου conieci προπρό.</note>
+  </cit>
+</entry>
+<entry xml:id="bryazō">
+  <form>
+    <orth xml:lang="grc">βρυάζω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">lascivio</def>
+  </sense>
+  <cit>
+    <bibl>Supplices 878</bibl>
+    <quote xml:lang="grc">περιχαμπτὰ (hoc corruptum) βρυάζεις.</quote>
+    <note xml:lang="lat">Significatio incerta, quum verba reliqua nondum sint emendata.</note>
+  </cit>
+  <cit>
+    <note xml:lang="lat">Hesychius βρυαζούσης λεαίνης: ἐν ᾿Αθάμαντι (fr. 4a) ἀκμα. Ζούσης ἢ ἐγκύμονος. Incertum utrum Aeschyli an Sophoclis Athamantem dicat.</note>
+  </cit>
+</entry>
+<entry xml:id="bryton">
+  <form>
+    <orth xml:lang="grc">βρύτον</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">potus quidam ex hordeo confectus</def>
+  </sense>
+  <cit>
+    <bibl>Fr. 123</bibl>
+    <quote xml:lang="grc">κἀκ τῶνδ᾽ ἔπινε βρῦτον.</quote>
+    <note xml:lang="lat">(apud Athen. 10 p. 447) Vinum hordeaceum (τὸν κρίθινον οἶνον) sic appellatum esse ab Aeschylo, Sophocle et Archilocho docet Athenaeus.</note>
+  </cit>
+</entry>
+
+
+      </div>
+    </body>
+  </text>
+</TEI>

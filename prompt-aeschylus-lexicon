@@ -1,0 +1,65 @@
+# TEI XML Lexicon Conversion Prompt
+
+Convert the following Greek/Latin lexicon entries into properly structured TEI XML markup. Follow these precise encoding guidelines:
+
+## Structure Requirements
+
+1. **Root Elements**: Wrap all entries in a complete TEI document with `<TEI>`, `<teiHeader>`, `<text>`, and `<body>` elements.
+
+2. **Entry Structure**: Each lexicon entry should use:
+   - `<entry xml:id="[unique_identifier]">` as the container
+   - Create unique IDs based on the Greek headword (transliterated, lowercase)
+
+3. **Headword Encoding**:
+   - `<form><orth xml:lang="grc">[Greek headword]</orth></form>`
+   - Always include `xml:lang="grc"` for Greek text
+
+4. **Definition Encoding**:
+   - `<sense><def xml:lang="lat">[Latin definition]</def></sense>`
+   - Always include `xml:lang="lat"` for Latin definitions
+
+5. **Source/Etymology**:
+   - `<etym><lang>[source abbreviation]</lang></etym>`
+   - Use for abbreviated source references like "Pers.", "Ch.", etc.
+
+6. **Citation Structure**: For each textual example:
+   ```xml
+   <cit>
+     <bibl>[work abbreviation and line number]</bibl>
+     <quote xml:lang="grc">[Greek quotation]</quote>
+     <note xml:lang="lat">[explanatory note]</note> <!-- if present -->
+   </cit>
+   ```
+
+7. **Language Attributes**:
+   - `xml:lang="grc"` for all Greek text
+   - `xml:lang="lat"` for all Latin text
+   - Apply consistently to `<orth>`, `<def>`, `<quote>`, and `<note>` elements
+
+## Parsing Guidelines
+
+- **Headwords**: Extract the Greek word that appears at the beginning of each entry
+- **Definitions**: The Latin text following the headword (usually ending before source abbreviations)
+- **Sources**: Abbreviated references like "Pers.", "Sept.", "Ch.", "Pr.", "Suppl."
+- **Citations**: Line numbers followed by Greek quotations
+- **Notes**: Explanatory Latin text introduced by "i.e." or similar markers
+- **Multiple Citations**: Create separate `<cit>` elements for each quoted passage
+
+## Output Format
+
+Provide a complete, well-formed TEI XML document with proper namespace declaration and basic TEI header structure. Ensure all Greek and Latin text is properly tagged with language attributes.
+
+---
+
+**Input Format**: Provide the lexicon entries in their original format.
+**Expected Output**: Complete TEI XML document following the above specifications.
+
+Preserve Editorial Brackets: The square brackets around grammatical information for βαίνω are now maintained: [Perfectum est...]
+Preserve Citation Brackets: The brackets around disputed citations like [Eum. 76... ] are kept intact to show editorial uncertainty about authenticity
+
+
+You can just give me <entry/> items. I already have a TEI XML file with a header and will add this entries to that.
+
+|| introduces a new word sense
+
+Pers., Eum., Ag., Suppl., Ch. Sept. and Pr. are abberviations for Persians, Eumenides, Agamemnon, Supplices, Choephori, Septem and Prometheus. They are part of the <bibl/>
