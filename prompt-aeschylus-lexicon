@@ -60,6 +60,10 @@ Preserve Citation Brackets: The brackets around disputed citations like [Eum. 76
 
 You can just give me <entry/> items. I already have a TEI XML file with a header and will add this entries to that.
 
-|| introduces a new word sense
+"||" and "| |" normally introduce a new <sense/> element.
 
 Pers., Eum., Ag., Suppl., Ch. Sept. and Pr. are abberviations for Persians, Eumenides, Agamemnon, Supplices, Choephori, Septem and Prometheus. They are part of the <bibl/>
+
+keep <pb/> milestones
+
+Text follows in the next prompts.
