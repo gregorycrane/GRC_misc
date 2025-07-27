@@ -49474,6 +49474,6067 @@
   </sense>
 </entry>
 
+<entry xml:id="dokeo">
+  <form>
+    <orth xml:lang="grc">δοκέω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">δοκεῖ videtur , placet , impersonaliter .</def>
+    <cit>
+      <bibl>Pr . 258</bibl>
+      <quote xml:lang="grc">ὅταν κείνῳ δοκῇ .</quote>
+    </cit>
+    <cit>
+      <bibl>Pr. 259</bibl>
+      <quote xml:lang="grc">δόξει δὲ πῶς ;</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 1005</bibl>
+      <quote xml:lang="grc">δοκοῦντα καὶ δόξαντ᾽ ἀπαγγέλλειν με χρὴ δήμου προβούλοις .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 1008</bibl>
+      <quote xml:lang="grc">Ἐτεοκλέα μὲν – θάπτειν ἔδοξε .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 1020</bibl>
+      <quote xml:lang="grc">πετηνῶν τόνδ᾽ ὑπ᾽ οἰωνῶν δοκεῖ ταφέντ᾽ ἀτίμως τοὐπιτίμιον λαβεῖν .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 1025</bibl>
+      <quote xml:lang="grc">τοιαῦτ᾽ ἔδοξε τῷδε Καδμείων τέλει .</quote>
+    </cit>
+    <cit>
+      <bibl>Αg . 944</bibl>
+      <quote xml:lang="grc">εἰ δοκεῖ σοι ταῦτα .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1350</bibl>
+      <quote xml:lang="grc">ἐμοὶ δ᾽ ὅσον τάχιστά γ᾿ ἐμπεσεῖν δοκεῖ .</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl . 605</bibl>
+      <quote xml:lang="grc">ἔδοξεν ᾿Αργείοισιν οὐ διχορρόπως .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum . 309</bibl>
+      <quote xml:lang="grc">μοῦσαν στυγερὰν ἀποφαίνεσθαι δεδόκηκεν .</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl . 601</bibl>
+      <quote xml:lang="grc">δήμου δέδοκται παντελή ψηφίσματα .</quote>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">δοκῶ eodem sensu , ad personam relatum</def>
+    <cit>
+      <bibl>Sept. 650</bibl>
+      <note xml:lang="lat">in versu interpolatoris</note>
+      <quote xml:lang="grc">σὺ δ᾽ αὐτὸς ἤδη γνῶθι τίνα πέμπειν δοκεῖς ;</quote>
+      <note xml:lang="lat">quem mittere tibi placet .</note>
+    </cit>
+    <cit>
+      <bibl>Ag . 16</bibl>
+      <quote xml:lang="grc">ὅταν δ᾽ ἀείδειν ἢ μινύρεσθαι δoκι – .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1649</bibl>
+      <quote xml:lang="grc">ἀλλ᾽ ἐπεὶ δοκεῖς τάδ᾽ ἔρδειν καὶ λέγειν .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="doke">
+  <form>
+    <orth xml:lang="grc">δοκή</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">i . q . δόξα opinio .</def>
+    <cit>
+      <bibl>Ag . 421</bibl>
+      <note xml:lang="lat">pro δόξαι restituit Hermannus : v . s . v . δόξα . Apud Hesychium δόκη : δόκησις , accentu vitioso , si recte praecepit Herodianus apud Arcadium p . 106 , 21 τὰ εἰς κη ἰαμβικὰ ἀσυνάλειπτα , εἰ μὲν τῷ ω παραλήγοιτο , ὀξύνεται ῥηματικὰ ὄντα , πλέκω πλοκή , δέκω δοκή , ἡ ὑπόνοια . V. ad Ag . 980 .</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dokimos">
+  <form>
+    <orth xml:lang="grc">δόκιμος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">probatus , spectatus .</def>
+    <cit>
+      <bibl>Pers . 86</bibl>
+      <quote xml:lang="grc">δόκιμος δ᾽ οὔτις ὑποστὰς μεγάλῳ ῥεύματι φωτῶν .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dokimos_adv">
+  <form>
+    <orth xml:lang="grc">δοκίμως</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">strenue .</def>
+    <cit>
+      <bibl>Pers . 547</bibl>
+      <quote xml:lang="grc">μόρον τῶν οἰχομένων ( excidisse videtur versus φρενὸς ἐκ φιλίας θρηνῶν παῖαν ' , vel simile quid ) αἴρω δοκίμως πολυ-πενθή .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="doliometis">
+  <form>
+    <orth xml:lang="grc">δολιόμητις</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">dolosa consilia agitans , dolosus .</def>
+    <cit>
+      <bibl>Suppl . 750</bibl>
+      <quote xml:lang="grc">φυσίφρονες δὲ καὶ δολιομήτιδες .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dolios">
+  <form>
+    <orth xml:lang="grc">δόλιος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">dolosus .</def>
+    <cit>
+      <bibl>Pr . 570</bibl>
+      <quote xml:lang="grc">δόλιον ὄμμ᾽ ἔχων .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag . 155</bibl>
+      <quote xml:lang="grc">οἰκονόμος δολία .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1495 1519</bibl>
+      <quote xml:lang="grc">δολίῳ μόρῳ δαμείς .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1523</bibl>
+      <quote xml:lang="grc">δολίαν ἄτην οἴκοισιν ἔθηκε .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch . 726</bibl>
+      <quote xml:lang="grc">νῦν γὰρ ἀκμάζει πειθώ δολία .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 955</bibl>
+      <quote xml:lang="grc">δολίας ,</quote>
+      <note xml:lang="lat">sine substantivo , quod excidit .</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="doliophron">
+  <form>
+    <orth xml:lang="grc">δολιόφρων</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">mentem dolosam habens , dolosus .</def>
+    <cit>
+      <bibl>Ch . 947</bibl>
+      <quote xml:lang="grc">δολιόφρων ποινά .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dolichos">
+  <form>
+    <orth xml:lang="grc">δολιχός</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">porrectus , longus .</def>
+    <cit>
+      <bibl>Pr . 284</bibl>
+      <quote xml:lang="grc">δολιχῆς τέρμα κελεύθου .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dolometis">
+  <form>
+    <orth xml:lang="grc">δολόμητις</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">i . q . δολιόμητις .</def>
+    <cit>
+      <bibl>Pers . 93</bibl>
+      <quote xml:lang="grc">δολόμητιν δ᾽ ἀπάταν θεοῦ τίς ἀνὴρ θνατὸς ἀλύξει ;</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dolos">
+  <form>
+    <orth xml:lang="grc">δόλος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">dolus .</def>
+    <cit>
+      <bibl>Pr . 213</bibl>
+      <quote xml:lang="grc">ὡς οὐ κατ᾿ ἰσχὺν χρείη , δόλῳ δὲ κρατεῖν .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 38</bibl>
+      <quote xml:lang="grc">οὔτι μὴ ληφθῶ δόλῳ .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 872</bibl>
+      <quote xml:lang="grc">δόλος οὐδεὶς μὴ ἐκ φρενὸς ὀρθῶς με λιγαίνειν .</quote>
+    </cit>
+    <cit>
+      <bibl>Pers . 361</bibl>
+      <quote xml:lang="grc">οὐ ξυνεὶς δόλον .</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 775</bibl>
+      <quote xml:lang="grc">τὸν δὲ σὺν δόλῳ .</quote>
+    </cit>
+    <cit>
+      <bibl>Pers.</bibl>
+      <quote xml:lang="grc">᾿Αρταφρένης ἔκτεινεν .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag . 886</bibl>
+      <quote xml:lang="grc">τοιάδε μέντοι σκήψις οὐ δόλον φέρει .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch . 220</bibl>
+      <quote xml:lang="grc">ἀλλ᾽ ἡ δόλον τιν ' , ὦ ξέν᾽ , ἀμφ᾿ ἐμοὶ πλέκεις ;</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 556</bibl>
+      <quote xml:lang="grc">ὡς ἂν δόλῳ κτείναντες ἄνδρα τίμιον δόλῳ τε καὶ ληφθώσιν ἐν ταὐτῷ βρόχῳ .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 888</bibl>
+      <quote xml:lang="grc">δόλοις ὀλούμεθα .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum . 846 880</bibl>
+      <quote xml:lang="grc">δυσπάλαμοι δόλοι .</quote>
+    </cit>
+    <cit>
+      <bibl>[ Pr . 477</bibl>
+      <note xml:lang="lat">δόλους in apogr . pluribus pro πόρους . ]</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="doloo">
+  <form>
+    <orth xml:lang="grc">δολόω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">fallo .</def>
+    <cit>
+      <bibl>Ag . 273</bibl>
+      <quote xml:lang="grc">μὴ δολώσαντος θεοῦ .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag . 1636</bibl>
+      <quote xml:lang="grc">τὸ γὰρ δολῶσαι πρὸς γυναικὸς ἦν σαφῶς .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dolophonos">
+  <form>
+    <orth xml:lang="grc">δολοφόνος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">dolose interficiens .</def>
+    <cit>
+      <bibl>Ag . 1129</bibl>
+      <quote xml:lang="grc">δολοφόνου λέβητος τύχαν σοὶ λέγω .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="doloma">
+  <form>
+    <orth xml:lang="grc">δόλωμα</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">[ dolosum inventum , dolus .</def>
+    <cit>
+      <bibl>Ch . 1005</bibl>
+      <quote xml:lang="grc">τῷδε δολώματι πολλοὺς ἀναιρῶν . ]</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="domos">
+  <form>
+    <orth xml:lang="grc">δόμος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">, ut apud Latinos domus , non solum aedificium significat , sed saepissime etiam sensu latiore de iis dicitur qui domum vel habitant vel habitarunt , i . e . de familia . Nec raro δόμος vel δόμοι de patria s . domo paterna dicitur , etsi haec significatio non inest vocabulo ipsi , sed ex verbis adiunctis colligitur , ut Ch . 487 πατρώων ἐκ δόμων positum est : de quibus omnibus dictum est in Thes . vol . 2 p . 1627.</def>
+    <cit>
+      <bibl>Sept. 454</bibl>
+      <quote xml:lang="grc">πρὶν ἐμὸν ἐσθορεῖν δόμον .</quote>
+    </cit>
+    <cit>
+      <bibl>Pers . 579</bibl>
+      <quote xml:lang="grc">πενθεῖ δ᾽ ἄνδρα δόμος στερηθείς .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag . 400</bibl>
+      <quote xml:lang="grc">ἐλθὼν ἐς δόμον τὸν ᾿Ατρειδᾶν .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 536</bibl>
+      <quote xml:lang="grc">αὐτόχθονον πατρῷον ἔθρισεν δόμον .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 962</bibl>
+      <quote xml:lang="grc">πένεσθαι δ᾽ οὐκ ἐπίσταται δόμος .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1011</bibl>
+      <quote xml:lang="grc">οὐκ ἔδυ πρόπας δόμος .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch . 263</bibl>
+      <quote xml:lang="grc">ἀπὸ σμικροῦ δ᾽ ἂν ἄρειας μέγαν δόμον .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 566</bibl>
+      <quote xml:lang="grc">ἐπειδὴ δαιμονᾷ δόμος κακοῖς .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 807</bibl>
+      <quote xml:lang="grc">εὐ δὸς ἀνιδεῖν ( correxi ἀναδῦν ) δόμον ἀνδρός .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 938</bibl>
+      <quote xml:lang="grc">ἐς δόμον τὸν ᾿Αγαμέμνονος .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum . 964</bibl>
+      <quote xml:lang="grc">παντὶ δόμῳ μετάκοινοι .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 1032</bibl>
+      <quote xml:lang="grc">βᾶτε δόμῳ .</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl . 648</bibl>
+      <quote xml:lang="grc">ὃν τίς ἂν δόμος ἔχοι ἐπ᾿ ὀρόφων μιαíνοντα ;</quote>
+    </cit>
+    <cit>
+      <bibl>[ 1b . 139</bibl>
+      <note xml:lang="lat">δόμος corruptum ex δρόμος , quod v . ]</note>
+    </cit>
+    <note xml:lang="lat">Multo frequentior numerus pluralis .</note>
+    <cit>
+      <note xml:lang="lat">Nominativus</note>
+      <bibl>Ag . 1309</bibl>
+      <quote xml:lang="grc">φόνον δόμοι πνέουσιν αἱματοσταγή .</quote>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">Genitivus</def>
+    <cit>
+      <bibl>Pr . 665</bibl>
+      <quote xml:lang="grc">ἔξω δόμων τε καὶ πάτρας .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 232</bibl>
+      <quote xml:lang="grc">μένειν εἴσω δόμων .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 482</bibl>
+      <quote xml:lang="grc">πρόμαχ᾿ ἐμῶν δόμων .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 740</bibl>
+      <quote xml:lang="grc">πόνοι δόμων νέοι .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 852</bibl>
+      <quote xml:lang="grc">πόνοι δόμων ἐφέστιοι .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 879</bibl>
+      <quote xml:lang="grc">δόμων ἐπὶ λύμη .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 915</bibl>
+      <quote xml:lang="grc">δόμων μάλ᾽ ἀχὰν ἐς οὖς προπέμπει δαϊκτήρ γόος .</quote>
+    </cit>
+    <cit>
+      <bibl>Pers . 169</bibl>
+      <quote xml:lang="grc">ὄμμα γὰρ δόμων νομίζω δεσπότου παρουσίαν .</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 608</bibl>
+      <quote xml:lang="grc">ἐκ δόμων πάλιν ἔστειλα .</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 643</bibl>
+      <quote xml:lang="grc">ἰόντ᾽ αἰνέσατ᾽ ἐκ δόμων .</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 849</bibl>
+      <quote xml:lang="grc">λαβούσα κόσμον ἐκ δόμων .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag . 207</bibl>
+      <quote xml:lang="grc">δόμων ἄγαλμα .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 409</bibl>
+      <quote xml:lang="grc">δόμων προφῆται .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 415</bibl>
+      <quote xml:lang="grc">φάσμα δόξει δόμων ἀνάσσειν .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 431</bibl>
+      <quote xml:lang="grc">πένθεια τλησικάρδιος δόμων ἑκάστου πρέπει .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 641</bibl>
+      <quote xml:lang="grc">πολλῶν ἐξαγισθέντας δόμων .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 957</bibl>
+      <quote xml:lang="grc">εἶμ᾽ ἐς δόμων μέλαθρα ,</quote>
+      <note xml:lang="lat">ubi notanda periphrasis , quum plerumque simpliciter vel δόμοι vel μέλαθρα dicantur .</note>
+    </cit>
+    <cit>
+      <bibl>Ag. 1197</bibl>
+      <quote xml:lang="grc">τῶνδ᾽ ἁμαρτίας δόμων .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1363</bibl>
+      <quote xml:lang="grc">δόμων καταισχυντήρι .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1565</bibl>
+      <quote xml:lang="grc">τίς ἂν γονὰν ἀραῖον ἐκβάλοι δόμων ;</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1572</bibl>
+      <quote xml:lang="grc">ἰόντ᾽ ἐκ τῶνδε δόμων .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1586</bibl>
+      <quote xml:lang="grc">ἠνδρηλάτησεν ἐκ πόλεώς τε καὶ δόμων .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch . 22</bibl>
+      <quote xml:lang="grc">ἰαλτὸς ἐκ δόμων ἔβαν .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 33</bibl>
+      <quote xml:lang="grc">δόμων ὀνειρόμαντις .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 50</bibl>
+      <quote xml:lang="grc">κατασκαφαὶ δόμων .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 159</bibl>
+      <quote xml:lang="grc">ἀναλυτήρ δόμων .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 254</bibl>
+      <quote xml:lang="grc">φυγὴν ἔχοντε τὴν αὐτὴν δόμων .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 480</bibl>
+      <quote xml:lang="grc">δὸς κράτος τῶν σῶν δόμων .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 487</bibl>
+      <quote xml:lang="grc">πατρῴων ἐκ δόμων .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 562</bibl>
+      <quote xml:lang="grc">δορύξενος δόμων .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 629</bibl>
+      <quote xml:lang="grc">ἀθέρμαντον ἑστίαν δόμων .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 712</bibl>
+      <quote xml:lang="grc">εἰς ἀνδρῶνας εὐξένους δόμων .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 776</bibl>
+      <quote xml:lang="grc">ἐλπὶς οἴχεται δόμων .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 942</bibl>
+      <quote xml:lang="grc">δεσποσύνων δόμων .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum . 210</bibl>
+      <quote xml:lang="grc">τοὺς μητραλοίας ἐκ δόμων ἐλαύνομεν .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 421</bibl>
+      <quote xml:lang="grc">βροτοκτονοῦντας ἐκ δόμων ἐλαύνομεν .</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl . 443</bibl>
+      <quote xml:lang="grc">ἐκ δόμων .</quote>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">Dativus</def>
+    <cit>
+      <bibl>Sept. 895</bibl>
+      <quote xml:lang="grc">δόμοισι καὶ σώμασι .</quote>
+    </cit>
+    <cit>
+      <bibl>Pers . 227</bibl>
+      <quote xml:lang="grc">παιδὶ καὶ δόμοις ἐμοῖσι .</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 237</bibl>
+      <quote xml:lang="grc">πλοῦτος ἐξαρκὴς δόμοις .</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 776</bibl>
+      <quote xml:lang="grc">᾿Αρταφρένης ἔκτεινεν ἐσθλός ἐν δόμοις .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag . 27</bibl>
+      <quote xml:lang="grc">δόμοις όλολυγμόν – ἐπορθιάΖειν .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 585</bibl>
+      <quote xml:lang="grc">δόμοις δὲ ταῦτα καὶ Κλυταιμνήστρα μέλειν εἰκὸς μάλιστα .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 607</bibl>
+      <quote xml:lang="grc">γυναῖκα πιστὴν δ᾽ ἐν δόμοις εὕροι .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 716</bibl>
+      <quote xml:lang="grc">ἔθρεψεν δὲ λέοντος ἶνιν δόμοις .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 736</bibl>
+      <quote xml:lang="grc">ἱερεύς τις ἄτας δόμοις προσεθρέφθη .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 862</bibl>
+      <quote xml:lang="grc">ήσθαι δόμοις ἔρημον ἔκπαγλον κακόν .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 865</bibl>
+      <quote xml:lang="grc">λάσκοντας δόμοις .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 964</bibl>
+      <quote xml:lang="grc">δόμοισι προυνεχθέντος ἐν χρηστηρίοις .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 971</bibl>
+      <quote xml:lang="grc">ψύχος ἐν δόμοις πέλει .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1036</bibl>
+      <quote xml:lang="grc">ἐπεί σ᾽ ἔθηκε Ζεὺς ἀμηνίτως δόμοις κοινωνὸν εἰναι χερνίβων .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1102</bibl>
+      <quote xml:lang="grc">ἐν δόμοισι τοῖσδε μήδεται κακόν .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1189</bibl>
+      <quote xml:lang="grc">κῶμος ἐν δόμοις μένει .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1217</bibl>
+      <quote xml:lang="grc">τούσδε τοὺς δόμοις ἐφημένους .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1313</bibl>
+      <quote xml:lang="grc">ἐν δόμοισι κωκύσουσα .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1397</bibl>
+      <quote xml:lang="grc">κρατῆρ᾽ ἐν δόμοις κακῶν ὅδε πλήσας .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1460</bibl>
+      <quote xml:lang="grc">ἥτις ἦν τότ᾽ ἐν δόμοις .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch . 13</bibl>
+      <quote xml:lang="grc">δόμοισι πῆμα προσκυρεῖ νέον .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 101</bibl>
+      <quote xml:lang="grc">κοινὸν γὰρ ἔχθος ἐν δόμοις νομίζομεν .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 131</bibl>
+      <quote xml:lang="grc">Ὀρέστην πῶς ἀνάξομεν δόμοις ;</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 348</bibl>
+      <quote xml:lang="grc">λιπών ἂν εὔκλειαν ἐν δόμοισι .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 537</bibl>
+      <quote xml:lang="grc">πολλοὶ δ᾽ ἀνῆθον – λαμπτῆρες ἐν δόμοισι .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 625</bibl>
+      <quote xml:lang="grc">δυσφιλές γαμήλευμ᾿ ἀπεύχετον δόμοις .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 654</bibl>
+      <quote xml:lang="grc">τίς ἔνδον ἐν δόμοις ;</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 662</bibl>
+      <quote xml:lang="grc">μεθιέναι ( correxi καθιέναι ) ἄγκυραν ἐν δόμοισι πανδόκοις ξένων .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 669</bibl>
+      <quote xml:lang="grc">ὁποῖά περ δόμοισι τοῖσδ᾽ ἐπεικότα .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 698</bibl>
+      <quote xml:lang="grc">ἤπερ ἐν δόμοισι βακχείας καλῆς ἰατρὸς ἐλπὶς ἦν .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 740</bibl>
+      <quote xml:lang="grc">δόμοις δὲ τοῖσδε παγκάκως ἔχει .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 745</bibl>
+      <quote xml:lang="grc">τοῖσδ᾽ ἐν ᾿Ατρέως δόμοις .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 805</bibl>
+      <quote xml:lang="grc">γέρων φόνος μηκέτ᾽ ἐν δόμοις τέκοι ,</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 841</bibl>
+      <quote xml:lang="grc">τόδ᾽ ἀμφέρειν δόμοις γένοιτ᾽ ἂν ἄχθος .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 871</bibl>
+      <quote xml:lang="grc">πῶς κέκρανται δόμοις ;</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 885</bibl>
+      <quote xml:lang="grc">τίνα βοὴν ἵστης δόμοις ;</quote>
+    </cit>
+    <cit>
+      <bibl>[ 1005</bibl>
+      <quote xml:lang="grc">τοιάδ᾽ ἐμοὶ ξύνοικος ἐν δόμοισι μὴ γένοιτο . ]</quote>
+    </cit>
+    <cit>
+      <bibl>Eum . 474</bibl>
+      <quote xml:lang="grc">ἱκέτης προσήλθες καθαρὸς ἀβλαβής δόμοις .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. λαβής 723</bibl>
+      <quote xml:lang="grc">Φέρητος ἐν δόμοις .</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl . 433</bibl>
+      <quote xml:lang="grc">παισὶ καὶ δόμοις .</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 321</bibl>
+      <quote xml:lang="grc">ἣ πολλά μ᾿ ἐν δόμοισιν εἴργασται κακά .</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 396</bibl>
+      <quote xml:lang="grc">ἀφνεοῖσι δόμοισιν .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch . 649</bibl>
+      <quote xml:lang="grc">τέκνον δ᾽ ἐπεισφέρει δόμοις .</quote>
+      <note xml:lang="lat">Sic Α . Ι . Ahrensius pro διμασε , quod est in M ( ab Robortello in δόμοισι , ab Turnebo in δώμασι mutatum ) littera o in litura , versu separato . δόμοις legit scholiasta , per οἴκοις interpretatus .</note>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">Accusativus</def>
+    <cit>
+      <bibl>Pr . 451</bibl>
+      <quote xml:lang="grc">πλινθυφεῖς δόμους προσείλους .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 49</bibl>
+      <quote xml:lang="grc">ἐς δόμους .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 73</bibl>
+      <quote xml:lang="grc">δόμους ἐφεστίους .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 700</bibl>
+      <quote xml:lang="grc">μελάναιγις οὐκ εἶσι δόμους Ἐρινύς .</quote>
+    </cit>
+    <cit>
+      <bibl>Pers . 159</bibl>
+      <quote xml:lang="grc">λιποῦσ᾽ ἱκάνω χρυσεοστόλμους δόμους .</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 530</bibl>
+      <quote xml:lang="grc">προπέμπετ᾽ ἐς δόμους .</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 1038</bibl>
+      <quote xml:lang="grc">πρὸς δόμους δ᾽ ἴθι .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. ἀφικνεῖται .</bibl>
+    </cit>
+    <cit>
+      <bibl>Ag. 679</bibl>
+      <quote xml:lang="grc">ἐλπίς τις αὐτὸν πρὸς δόμους ἥξειν πάλιν .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 851</bibl>
+      <quote xml:lang="grc">ἐς μέλαθρα καὶ δόμους ἐφεστίους ἐλθών .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1657</bibl>
+      <quote xml:lang="grc">στείχετ᾽ ἤδη – πρὸς δόμους .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch . 52</bibl>
+      <quote xml:lang="grc">δνόφοι καλύπτουσι δόμους .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 568</bibl>
+      <quote xml:lang="grc">δόμους παραστείχοντα .</quote>
+      <note xml:lang="lat">Nam sic Blomfieldus pro δόμοις .</note>
+    </cit>
+    <cit>
+      <bibl>Ch. 914</bibl>
+      <quote xml:lang="grc">οὔτοι σ᾽ ἀπέρριψ᾽ ἐς δόμους δορυξένους .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum . 754</bibl>
+      <quote xml:lang="grc">σώσασα τοὺς ἐμοὺς δόμους .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 764</bibl>
+      <quote xml:lang="grc">νῦν ἄπειμι πρὸς δόμους .</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl . 959</bibl>
+      <quote xml:lang="grc">εὐτύκους ναίειν δόμους .</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 961</bibl>
+      <quote xml:lang="grc">μονορρύθμους δόμους .</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 157</bibl>
+      <quote xml:lang="grc">δόμους ᾿Αμφίονος καταιθαλώσω .</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 239</bibl>
+      <quote xml:lang="grc">οὔπω τις ᾿Ακτέων᾿ ἄθηρος ἡμέρα κενὸν ἔπεμψεν ἐς δόμους .</quote>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">Vocativus</def>
+    <cit>
+      <bibl>Ch . 963</bibl>
+      <quote xml:lang="grc">ἄνα γε μὰν δόμοι ( sic Hermannus pro δόμοις ) .</quote>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">δόμος et δόμοι non raro de templis dicitur deorum .</def>
+    <cit>
+      <bibl>Eum . 515</bibl>
+      <quote xml:lang="grc">ἐπειδὴ πίτνει δόμος Δίκας .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 278</bibl>
+      <quote xml:lang="grc">ἁγνοῖς δόμοις .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag . 579</bibl>
+      <quote xml:lang="grc">δόμοις ἐπασσάλ-ευσαν ἀρχαῖον γάνος .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum . 35</bibl>
+      <quote xml:lang="grc">ἐκ δόμων τῶν Λοξίου .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 60</bibl>
+      <quote xml:lang="grc">τῶνδε δεσπότη δόμων .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 185</bibl>
+      <quote xml:lang="grc">οὔτοι δόμοισι τοῖσδε χρίμπτεσθαι πρέπει .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 205</bibl>
+      <quote xml:lang="grc">προστραπέσθαι τούσδ᾽ ἐπέστελλον δόμους .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 207</bibl>
+      <quote xml:lang="grc">οὐ γὰρ δόμοισι τοῖσδε πρόσφορον μολεῖν .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 577</bibl>
+      <quote xml:lang="grc">ἔστι γὰρ νόμυ ἱκέτης ὅδ᾽ ἁνὴρ καὶ δόμων ἐφέστιος ἐμῶν</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 669</bibl>
+      <quote xml:lang="grc">σῶν δόμων ἐφέστιον .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 855</bibl>
+      <quote xml:lang="grc">πρὸς δόμοις Ἐρεχθέως .</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 84</bibl>
+      <quote xml:lang="grc">δόμον ᾿Αρτέμιδος .</quote>
+    </cit>
+  </sense>
+</entry>
+
+<entry xml:id="domosphales">
+  <form>
+    <orth xml:lang="grc">δομοσφαλής</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">domum labefactans .</def>
+    <cit>
+      <bibl>Ag . 1533</bibl>
+      <quote xml:lang="grc">δέδοικα δ᾽ ὄμβρου κτύπον δομοσφαλῆ .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="donax">
+  <form>
+    <orth xml:lang="grc">δόναξ</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">arundo .</def>
+    <cit>
+      <bibl>Pr . 574</bibl>
+      <quote xml:lang="grc">κηρόπλαστος ότοβεῖ δόναξ ἀχέτας .</quote>
+    </cit>
+    <cit>
+      <bibl>Pers . 494</bibl>
+      <quote xml:lang="grc">Βόλβης θ᾽ ἕλειον δόνακα .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="doneo">
+  <form>
+    <orth xml:lang="grc">δονέω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">quatio .</def>
+    <cit>
+      <bibl>Fr. 321</bibl>
+      <quote xml:lang="grc">δονοῦσα καὶ τρέπουσα τύρβ᾽ ἄνω κάτω .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="doxa">
+  <form>
+    <orth xml:lang="grc">δόξα</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">opinio , sententia .</def>
+    <cit>
+      <bibl>Pers . 28</bibl>
+      <quote xml:lang="grc">ψυχῆς εὐτλήμονι δόξῃ .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag . 275</bibl>
+      <quote xml:lang="grc">οὐ δόξαν ἂν λάβοιμι βριζούσης φρενός .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag . 421</bibl>
+      <quote xml:lang="grc">πάρεισιν δόξαι φέρουσαι χάριν ματαίαν .</quote>
+      <note xml:lang="lat">ubi propter versum strophicum probabilius est δοκαί , quod restituit Hermannus .</note>
+    </cit>
+    <cit>
+      <bibl>Ch . 683</bibl>
+      <quote xml:lang="grc">εἴτ᾽ οὖν κομίζειν δόξα νικήσει φίλων .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 1051</bibl>
+      <note xml:lang="lat">de Oreste mente capto</note>
+      <quote xml:lang="grc">τίνες σε δόξαί – στροβοῦσιν ;</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 1053</bibl>
+      <quote xml:lang="grc">οὐκ εἰσὶ δόξαι τῶνδε πημάτων ἐμοί .</quote>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">existimatio , gloria .</def>
+    <cit>
+      <bibl>Eum . 373</bibl>
+      <quote xml:lang="grc">δόξαι τ᾿ ἀνδρῶν καὶ μάλ᾽ ὑπ᾿ αἰθέρι σεμναí .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="doxazo">
+  <form>
+    <orth xml:lang="grc">δοξάζω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">opinor .</def>
+    <cit>
+      <bibl>Ag . 673</bibl>
+      <quote xml:lang="grc">ἡμεῖς τ᾽ ἐκείνους ταὔτ᾽ ἔχειν δοξάζομεν .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch . 170</bibl>
+      <quote xml:lang="grc">εὐξύμβολον τόδ᾽ ἐστὶ παντὶ δοξάσαι .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 844</bibl>
+      <quote xml:lang="grc">πῶς ταῦτ᾽ ἀληθῆ καὶ βλέποντα δοξάσω ;</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl . 60</bibl>
+      <quote xml:lang="grc">δοξάσει τις ἀκούων ὄπα τᾶς Τηρεΐας μήτιδος οἰκτρᾶς ἀλόχου .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dora">
+  <form>
+    <orth xml:lang="grc">δορά</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">pellis . V. s . v . σίσυρνα .</def>
+  </sense>
+</entry>
+<entry xml:id="dorigambros">
+  <form>
+    <orth xml:lang="grc">δορίγαμβρος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">armis a sponsis petita .</def>
+    <cit>
+      <bibl>Ag . 686</bibl>
+      <quote xml:lang="grc">τὰν δορίγαμβρον ἀμφινεική θ᾽ Ἑλέναν .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dorikanes">
+  <form>
+    <orth xml:lang="grc">δορικανής</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">hasta interfectus .</def>
+    <cit>
+      <bibl>Suppl . 987</bibl>
+      <quote xml:lang="grc">δορικανεῖ μόρῳ θανών .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dorikmes">
+  <form>
+    <orth xml:lang="grc">δορικμής</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">hasta caesus .</def>
+    <cit>
+      <bibl>Ch . 365</bibl>
+      <quote xml:lang="grc">μετ᾿ ἄλλων δυρικμῆτι λαῷ ,</quote>
+      <note xml:lang="lat">ubi δουρικμῆτι metro postulante restituit Blomfieldus .</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dorilymantos">
+  <form>
+    <orth xml:lang="grc">δοριλύμαντος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">hasta perditus .</def>
+    <cit>
+      <bibl>Fr. 128</bibl>
+      <quote xml:lang="grc">δοριλυμάντους Δαναῶν μόχθους .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dorimargos">
+  <form>
+    <orth xml:lang="grc">δορίμαργος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">hasta saeviens .</def>
+    <cit>
+      <bibl>Sept. 687</bibl>
+      <quote xml:lang="grc">θυμοπληθής δορίμαργος ἄτα .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="doriponos">
+  <form>
+    <orth xml:lang="grc">δορίπονος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">hasta pressus , bello laborans .</def>
+    <cit>
+      <bibl>Sept. 169</bibl>
+      <quote xml:lang="grc">πόλιν δορίπονον .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 628</bibl>
+      <quote xml:lang="grc">δορίπονα κακά .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="doritinaktos">
+  <form>
+    <orth xml:lang="grc">δοριτίνακτος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">hastis ( vibratis ) concussus .</def>
+    <cit>
+      <bibl>Sept. 155</bibl>
+      <quote xml:lang="grc">δοριτίνακτος αἰθὴρ ἐπιμαίνεται ,</quote>
+      <note xml:lang="lat">ubi δοριτίνακτος Μ , sed apogr . pleraque δορυτίνακτος .</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="doritmetos">
+  <form>
+    <orth xml:lang="grc">δορίτμητος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">hasta occisus .</def>
+    <cit>
+      <bibl>Ch . 347</bibl>
+      <quote xml:lang="grc">δορίτμητος κατηναρίσθης .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dorpon">
+  <form>
+    <orth xml:lang="grc">δόρπον</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">coena .</def>
+    <cit>
+      <bibl>Εr . 181</bibl>
+      <quote xml:lang="grc">ἄριστα , δεῖπνα , δόρπα θ ' αἱρεῖσθαι τρίτα .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dory">
+  <form>
+    <orth xml:lang="grc">δόρυ</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">hasta .</def>
+    <cit>
+      <note xml:lang="lat">Genitivus</note>
+      <bibl>Sept. 104</bibl>
+      <quote xml:lang="grc">πάταγος οὐχ ἑνὸς δορός .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 322</bibl>
+      <quote xml:lang="grc">δορὸς ἄγραν .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 399</bibl>
+      <quote xml:lang="grc">ἄνευ δορός .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 839</bibl>
+      <quote xml:lang="grc">ξυναυλία δορός .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 993</bibl>
+      <quote xml:lang="grc">δορός γε τῷδ᾽ ἀντηρέτας .</quote>
+    </cit>
+    <cit>
+      <bibl>Pers . 304</bibl>
+      <quote xml:lang="grc">πληγῇ δορός .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag . 438</bibl>
+      <quote xml:lang="grc">τὸν λελειμμένον δορός .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum . 289</bibl>
+      <quote xml:lang="grc">ἄνευ δορός .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 777</bibl>
+      <quote xml:lang="grc">δορός νικηφόρον .</quote>
+    </cit>
+    <cit>
+      <note xml:lang="lat">Dativus</note>
+      <bibl>Sept. 347</bibl>
+      <quote xml:lang="grc">πρὸς ἀνδρὸς δ᾽ ἀνὴρ στὰς δορὶ καίνεται .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 455</bibl>
+      <quote xml:lang="grc">ὑπερκόπῳ δορί .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 585</bibl>
+      <quote xml:lang="grc">δορὶ ἁλοῦσα .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 963</bibl>
+      <quote xml:lang="grc">δορὶ δ᾽ ἔκανες , δορὶ δ᾽ ἔθανες .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 1016</bibl>
+      <quote xml:lang="grc">ἐμποδὼν ἔστη δορὶ τῷ τοῦδε .</quote>
+    </cit>
+    <cit>
+      <bibl>Pers . 729</bibl>
+      <quote xml:lang="grc">λαὸς πᾶς κατέφθαρται δορί .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag . 111</bibl>
+      <quote xml:lang="grc">σὺν δορὶ καὶ χερὶ πράκτωρ θούριος ὄρνις .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1149</bibl>
+      <quote xml:lang="grc">ἐμοὶ δὲ μίμνει σχισμὸς ἀμφήκει δορί .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum . 773</bibl>
+      <quote xml:lang="grc">συμμάχῳ δορί .</quote>
+    </cit>
+    <cit>
+      <note xml:lang="lat">Accusativus</note>
+      <bibl>Sept. 216</bibl>
+      <quote xml:lang="grc">πύργον στέγειν εὔχεσθε πολέμιον δόρυ .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 416</bibl>
+      <quote xml:lang="grc">εἴργειν τεκούση μητρὶ πολέμιον δόρυ .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 623</bibl>
+      <quote xml:lang="grc">παρ᾿ ἀσπίδος γυμνωθέν ἁρπάσαι δόρυ .</quote>
+    </cit>
+    <cit>
+      <bibl>Pers . 320</bibl>
+      <quote xml:lang="grc">πολύπονον δόρυ νωμῶν .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum . 766</bibl>
+      <quote xml:lang="grc">ἐποίσειν εὐ κεκασμένον δόρυ .</quote>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">navis .</def>
+    <cit>
+      <bibl>Pers . 411</bibl>
+      <quote xml:lang="grc">ἐπ᾿ ἄλλην δ᾽ ἄλλος ἴθυνεν δόρυ .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag . 1618</bibl>
+      <quote xml:lang="grc">κρατούντων τῶν ἐπὶ ζυγῷ δορός .</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl . 135</bibl>
+      <quote xml:lang="grc">λινορραφοῦς δρόμος ἅλα στέγων δορός .</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 852</bibl>
+      <quote xml:lang="grc">κί᾽ ἐς δόρυ .</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 1007</bibl>
+      <quote xml:lang="grc">ὧν πολὺς πόνος , πολὺς δὲ πόντος ούνεκ᾿ ἠρόθη δορί .</quote>
+    </cit>
+    <cit>
+      <bibl>Ib . 435</bibl>
+      <quote xml:lang="grc">μένει δορὶ τίνειν ὁμοιίαν θέμιν .</quote>
+      <note xml:lang="lat">Sic Boissonadius pro μενειδρεικτείνειν .</note>
+    </cit>
+    <note xml:lang="lat">Dativi formam δόρει</note>
+    <cit>
+      <bibl>Suppl . 846</bibl>
+      <quote xml:lang="grc">γομφοδέτῳ δὲ δόρει διώλου .</quote>
+      <note xml:lang="lat">metro postulante pro δορί restituit Hermannus : qua forma dativi Sophocles constanter usus esse videtur , quum in exemplis eius omnibus metrum δόρει vel postulet vel ferat : de quo dixi in Lexico Sophocleo p . 125. Aeschylus , ut exempla supra allata docent , et Euripides utraque forma usi sunt . Quamobrem incertum est utrum apud Aeschylum in fine trimetrorum δορί an δόρει scribendum sit , de quo v . quae dixi in Thes . vol . 2 p . 1644.</note>
+    </cit>
+    <cit>
+      <bibl>[ Dativus δορί in corrupto δορία Ag . 1122</bibl>
+      <note xml:lang="lat">quibusdam latere visus est . ]</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dorykranos">
+  <form>
+    <orth xml:lang="grc">δορύκρᾶνος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">cuspidatus .</def>
+    <cit>
+      <bibl>Pers . 148</bibl>
+      <quote xml:lang="grc">δορυκράνου ( in apographis δορικράνου ) λόγχης ἰσχὺς κεκράτηκε .</quote>
+    </cit>
+    <note xml:lang="lat">Male schol . τῆς ἀπὸ ξύλου κρανείας . Imperitius etiam Thomas Mag . exp . ἄνδρες κράνει καὶ δορὶ ἰσχύοντες . Syllabae penultimae mensura docet pro δορικαράνου dictum esse .</note>
+  </sense>
+</entry>
+<entry xml:id="doryxenos">
+  <form>
+    <orth xml:lang="grc">δορύξενος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">hospes hasta ( i . e . in bello ) partus .</def>
+    <cit>
+      <bibl>Ag . 880</bibl>
+      <quote xml:lang="grc">εὐμενὴς δορύξενος .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch . 562</bibl>
+      <quote xml:lang="grc">ξένος τε καὶ δορύξενος δόμων .</quote>
+    </cit>
+    <cit>
+      <note xml:lang="lat">Adiective</note>
+      <bibl>Ch . 914</bibl>
+      <quote xml:lang="grc">ἐς δόμους δορυξένους ,</quote>
+      <note xml:lang="lat">i . e . in domum hospitis .</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dorypages">
+  <form>
+    <orth xml:lang="grc">δορυπαγής</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">ex trabibus compactus .</def>
+    <cit>
+      <bibl>Suppl . 743</bibl>
+      <quote xml:lang="grc">δορυπαγεῖς ἔχοντες κυανώπιδας νῆας .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dorypaltos">
+  <form>
+    <orth xml:lang="grc">δορύπαλτος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">hastam vibrans .</def>
+    <cit>
+      <bibl>Ag . 116</bibl>
+      <quote xml:lang="grc">χερός ἐκ δορυπάλτου .</quote>
+      <note xml:lang="lat">Turnebus δοριπάλτου .</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dorysthenes">
+  <form>
+    <orth xml:lang="grc">δορυσθενής</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">hasta valens s . potens .</def>
+    <cit>
+      <bibl>Ch . 159</bibl>
+      <quote xml:lang="grc">δορυσθενὴς ἀνήρ .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dorysoos">
+  <form>
+    <orth xml:lang="grc">δορυσόος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">hastam vibrans .</def>
+    <cit>
+      <bibl>Sept. 125</bibl>
+      <quote xml:lang="grc">δορυσόψ σαγᾷ ,</quote>
+      <note xml:lang="lat">ubi in Μ δορυσσόοις σαγαῖς litteris septem σσαγαῖς in litura quinque itterarum scriptis . Alterum vocabuliσαγαῖς sigma si a prima manu scriptum exstitisset , cum littera π , quae sequitur , ex more prope constanti huius aliorumque vetustorum librorum uno ductu scribi debuisset σαγαῖ σπύλαις , quod non factum est . Nam litterae nea est forma ut non cum alia littera coniunctam fuisse pateat . Antiqua igitur scriptura fuit δορυσσόοι σαγᾶι , i . e . δορυσόῳ σαγᾷ , quod restitui . Quod scholiasta numerum pluralem δορυσόοις σαγαῖς interpretatus est , ταῖς διὰ τῶν δοράτων σωζούσαις πανοπλίαις et πολεμικαῖς πανοπλίαις , nullius momenti est , quum haec , ut alia multa ab recentiore scholiasta scripturam interpolatam interpretante profecta esse possint .</note>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">Altera forma δορυσσόος</def>
+    <cit>
+      <bibl>Suppl . 182</bibl>
+      <quote xml:lang="grc">ὄχλον δ᾽ δ᾽ ὑπασπιστῆρα ὑπ καὶ δορυσσόον λεύσσω .</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 985</bibl>
+      <quote xml:lang="grc">ἐμοὺς δ᾽ ὀπαδοὺς τούσδε καὶ δορυ-σσόους ἔταξαν .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dorytinaktos">
+  <form>
+    <orth xml:lang="grc">δορυτίνακτος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">. V. δοριτίνακτος .</def>
+  </sense>
+</entry>
+<entry xml:id="doryphoros">
+  <form>
+    <orth xml:lang="grc">δορυφόρος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">hastatus .</def>
+    <cit>
+      <bibl>Ch . 769</bibl>
+      <quote xml:lang="grc">ἄγειν κελεύει δορυφόρους ὀπάονας .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dosis">
+  <form>
+    <orth xml:lang="grc">δόσις</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">donatio , donum .</def>
+    <cit>
+      <bibl>Sept. 361</bibl>
+      <quote xml:lang="grc">ἀκριτόφυρτος γᾶς δόσις .</quote>
+    </cit>
+    <cit>
+      <bibl>Pers . 1041</bibl>
+      <quote xml:lang="grc">δόσιν κακὰν κακῶν κακοῖς .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag . 1014</bibl>
+      <quote xml:lang="grc">δόσις ἐκ Διὸς ἀμφιλαφής .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch . 95</bibl>
+      <quote xml:lang="grc">δόσιν τε τῶν κακῶν ἐπαξίαν .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 782</bibl>
+      <quote xml:lang="grc">σὺν θεῶν δόσει .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum . 7</bibl>
+      <quote xml:lang="grc">δίδωσι δ᾽ ἣ γενέθλιον δόσιν Φοίβῳ .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 918</bibl>
+      <quote xml:lang="grc">ἑρμαίαν δαιμόνων δόσιν .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dotamas">
+  <form>
+    <orth xml:lang="grc">Δοτάμας</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">n . pr . Persicum</def>
+    <cit>
+      <bibl>Pers . 959 .</bibl>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="doter">
+  <form>
+    <orth xml:lang="grc">δοτήρ</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">dator .</def>
+    <cit>
+      <bibl>Pr . 612</bibl>
+      <quote xml:lang="grc">πυρός βροτοῖς δοτῆρ᾽ ὁρᾷς Προμηθέα .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="douleia">
+  <form>
+    <orth xml:lang="grc">δουλεία</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">servitus .</def>
+    <cit>
+      <bibl>Sept. 253</bibl>
+      <quote xml:lang="grc">μή με δουλείας τυχεῖν .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag . 360</bibl>
+      <quote xml:lang="grc">μέγα δουλείας γάγγαμον .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="douleios">
+  <form>
+    <orth xml:lang="grc">δούλειος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">. V. δούλιος .</def>
+  </sense>
+</entry>
+<entry xml:id="douleuo">
+  <form>
+    <orth xml:lang="grc">δουλεύω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">servio .</def>
+    <cit>
+      <bibl>Pr . 463</bibl>
+      <quote xml:lang="grc">κνώδαλα Ζεύγλαισι δουλεύοντα .</quote>
+    </cit>
+    <cit>
+      <bibl>Pr . 927</bibl>
+      <quote xml:lang="grc">ὅσον τό τ᾽ ἄρχειν καὶ τὸ δουλεύειν δίχα .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="doule">
+  <form>
+    <orth xml:lang="grc">δούλη</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">serva .</def>
+    <cit>
+      <bibl>Ag . 1326</bibl>
+      <quote xml:lang="grc">δούλης θανούσης .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="doulios">
+  <form>
+    <orth xml:lang="grc">δούλιος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">servilis .</def>
+    <cit>
+      <bibl>Sept. 75</bibl>
+      <quote xml:lang="grc">Ζυγοῖσι δουλίοισι ( sic Aldus pro δουλείοισι ) .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 471 et 793</bibl>
+      <quote xml:lang="grc">δούλιον ζυγόν .</quote>
+    </cit>
+    <note xml:lang="lat">Hic quoque δούλειον Μ , sed δούλιον loco altero in apogr .</note>
+    <cit>
+      <bibl>Sept. 323</bibl>
+      <quote xml:lang="grc">πόλιν δουλίαν ( sic hic quoque recte correctum pro δουλείαν ) .</quote>
+    </cit>
+    <note xml:lang="lat">Quum in locis reliquis metrum δούλιος vel postulet vel fèrat , rationi consentaneum erat paucis quoque illis , ubi in Mδούλειος scriptum est , δούλιος restitui .</note>
+    <cit>
+      <bibl>Pers . 50</bibl>
+      <quote xml:lang="grc">Ζυγὸν ἀμφιβαλεῖν δούλιον Ἑλλάδι .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag . 953</bibl>
+      <quote xml:lang="grc">ἑκὼν γὰρ οὐδεὶs δουλίῳ χρῆται ζυγῷ .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1041</bibl>
+      <quote xml:lang="grc">δουλίας μάζης τυχεῖν .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1084</bibl>
+      <quote xml:lang="grc">μένει τὸ θεῖον δουλίᾳ περ ἐν φρενί .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1226</bibl>
+      <quote xml:lang="grc">φέρειν γὰρ χρὴ τὸ δούλιον Ζυγόν .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch . 77</bibl>
+      <quote xml:lang="grc">δούλιον αἶσαν .</quote>
+    </cit>
+    <cit>
+      <bibl>[ Suppl . 599</bibl>
+      <note xml:lang="lat">δούλιος corruptum ex βούλιος , quod v . ]</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="doulos">
+  <form>
+    <orth xml:lang="grc">δοῦλος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">servus .</def>
+    <cit>
+      <bibl>Pers . 242</bibl>
+      <quote xml:lang="grc">οὔ τινος δοῦλοι κέκληνται φωτός .</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 745</bibl>
+      <quote xml:lang="grc">Ἑλλήσποντον ἱρὸν δοῦλον ὣς δεσμώμασιν ἤλπισε σχήσειν .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag . 1038</bibl>
+      <quote xml:lang="grc">πολλῶν μετὰ δούλων .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1045</bibl>
+      <quote xml:lang="grc">ὠμοί τε δούλοις πάντα .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="doulosyne">
+  <form>
+    <orth xml:lang="grc">δουλοσύνη</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">servitus .</def>
+    <cit>
+      <bibl>Sept. 112</bibl>
+      <quote xml:lang="grc">δουλοσύνας ὕπερ .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="doulophrones">
+  <form>
+    <orth xml:lang="grc">δουλόφρονες</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">[ Suppl.750 corruptum ex οὐλόφρονες , quod v . ]</def>
+  </sense>
+</entry>
+<entry xml:id="douloo">
+  <form>
+    <orth xml:lang="grc">δουλόω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">in servitutem redigo .</def>
+    <cit>
+      <bibl>Sept. 254</bibl>
+      <quote xml:lang="grc">αὐτὴ σὺ δουλοῖς κἀμὲ καὶ σὲ καὶ πόλιν .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="doupeo">
+  <form>
+    <orth xml:lang="grc">δουπέω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">[ sonitum s . fragorem edo .</def>
+    <note xml:lang="lat">δουπῆσαι vel δεδουπέναι ab epicis dicuntur qui in pugna ceciderunt cum fragore ( armorum ) : unde Hesychius δέδουπε per τέθνηκεν ὡς ἐπὶ τὸ πλεῖστον ἐν πολέμω interpretatur , et δεδουπότος : τεθνηκότος , πεπτωκότος . Hinc δέδουπεν pro δέδορκεν fr . 440 restituit Bernhardyus , de quo diximus s . v . δέρκομαι . ]</note>
+  </sense>
+</entry>
+<entry xml:id="doupos">
+  <form>
+    <orth xml:lang="grc">δοῦπος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">strepitus .</def>
+    <cit>
+      <bibl>Ch . 376</bibl>
+      <quote xml:lang="grc">ἀλλὰ διπλῆς γὰρ τῆσδε μαράγνης δοῦπος ἱκνεῖται .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="douriklytos">
+  <form>
+    <orth xml:lang="grc">δουρίκλυτος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">bello clarus .</def>
+    <cit>
+      <bibl>Pers . 85</bibl>
+      <quote xml:lang="grc">δουρικλύτοις ἀνδράσι .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dourikmes">
+  <form>
+    <orth xml:lang="grc">δουρικμής</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">. V. δορικμής .</def>
+  </sense>
+</entry>
+<entry xml:id="douripektos">
+  <form>
+    <orth xml:lang="grc">δουρίπηκτος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">hastis affixus .</def>
+    <cit>
+      <bibl>Sept. 278</bibl>
+      <quote xml:lang="grc">λάφυρα δάων δουρίπηχθ᾽ ἁγνοῖς δόμοις .</quote>
+      <note xml:lang="lat">Sic emendavi quod est in M doannot . Oxon . p . 158 .</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="douriplechth">
+  <form>
+    <orth xml:lang="grc">δουρίπληχθ᾽</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">, de quo dixi in</def>
+  </sense>
+</entry>
+<entry xml:id="dochmion">
+  <form>
+    <orth xml:lang="grc">δόχμιον</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">a latere .</def>
+    <cit>
+      <bibl>Fr. 284</bibl>
+      <quote xml:lang="grc">ἑξῆς δ᾽ ὀπηδεῖ δόχμιον , ἄλλοθ᾽ ὕστερον .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dochmolophas">
+  <form>
+    <orth xml:lang="grc">δοχμολόφας</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">obliquam cristam habens , cristam movens .</def>
+    <cit>
+      <bibl>Sept. 114</bibl>
+      <quote xml:lang="grc">κύμα περὶ πτόλιν δοχμολοφᾶν ἀνδρῶν καχλάζει .</quote>
+      <note xml:lang="lat">Sic Brunckius pro δοχμολόφων .</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="drakaina">
+  <form>
+    <orth xml:lang="grc">δράκαινα</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">dracaena .</def>
+    <cit>
+      <bibl>Eum . 128</bibl>
+      <quote xml:lang="grc">δεινῆς δρακαίνης ἐξεκήραναν μένος .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="drakonthomilos">
+  <form>
+    <orth xml:lang="grc">δρακονθόμιλος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">draconibus frequens .</def>
+    <cit>
+      <bibl>Suppl . 267</bibl>
+      <quote xml:lang="grc">δρακονθόμιλον δυσμενή ξυνοικίαν .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="drakontomallos">
+  <form>
+    <orth xml:lang="grc">δρακοντόμαλλος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">dracones capillorum loco habens .</def>
+    <cit>
+      <bibl>Pr . 799</bibl>
+      <quote xml:lang="grc">δρακοντόμαλλοι Γοργόνες .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="drakon">
+  <form>
+    <orth xml:lang="grc">δράκων</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">draco .</def>
+    <cit>
+      <bibl>Sept. 290</bibl>
+      <quote xml:lang="grc">δράκοντας ὥς τις τέκνων ὑπερδέδοικεν .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 381</bibl>
+      <quote xml:lang="grc">ὡς δράκων βοᾷ .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 503</bibl>
+      <quote xml:lang="grc">εἴρξει νεοσσῶν ὡς δράκοντα δύσχιμον .</quote>
+    </cit>
+    <cit>
+      <bibl>Pers . 82</bibl>
+      <quote xml:lang="grc">φονίου δέργμα δράκοντος .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch . 527</bibl>
+      <quote xml:lang="grc">τεκεῖν δράκοντ᾽ ἔδοξεν .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 1047</bibl>
+      <quote xml:lang="grc">δυοῖν δρακόντοιν εὐπετῶς τεμὼν κάρα .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 1050</bibl>
+      <quote xml:lang="grc">πεπλεκτανημέναι πυκνοῖς δράκουσιν .</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl . 511</bibl>
+      <quote xml:lang="grc">δρακόντων δυσφρόνων ἐχθίοσιν .</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 121</bibl>
+      <quote xml:lang="grc">ὁδοιπόρων δήλημα χωρίτης δράκων .</quote>
+    </cit>
+    <cit>
+      <bibl>[ Plut . Mor . p . 1087 f</bibl>
+      <quote xml:lang="grc">ἐκ δὲ ( ἔστι δὲ Wyttenb . ) τοῦ πόνου μάρτυς ὁ Αἰσχύλου Φιλοκτήτης ( fr . 248 ) ἱκανὸς , οὐ γὰρ ὁ δράκων ( φησὶν ) ἀνῆκεν , ἀλλ᾽ ἐνῴκισεν | δεινὴν στομωτὸν ἔκφυσιν ποδὸς λαβεῖν ” .</quote>
+      <note xml:lang="lat">Quae parum emendate scripta esse patet . Neque enim dubitandum quin de vipera sermo sint , quae Philoctetam momorderat . Scribendum οὐ γὰρ δακών ( sc . ὁ ὄφις ) ἀνῆκεν cum G. A. Hirschigio in Annot . in Comicos ( Trai . ad Rhen . 1849 p . 37 ) , servato ἀνῆκεν ( dimisit s . remisit ) , quod Valcken . ( Diatr . in Eurip . p . 128 ) non animadverso praecedentis vocabuli vitio in ἐνῆκεν mutaverat . Idem in eo erravit quod λαβεῖν in λαβών mutavit . Recte , ut videtur , Schneidewinus in Philologo vol . 4 p . 658 , βλάβην , praeeunte Reiskio , qui λώβην ποδός coniecerat .</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="drama">
+  <form>
+    <orth xml:lang="grc">δρᾶμα</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">facinus .</def>
+    <cit>
+      <bibl>Ag . 533</bibl>
+      <quote xml:lang="grc">ἐξεύχεται τὸ δρᾶμα τοῦ πάθους πλέον .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dramēma">
+  <form>
+    <orth xml:lang="grc">δράμημα</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">cursus , incessus .</def>
+    <cit>
+      <bibl>Pers . 247</bibl>
+      <quote xml:lang="grc">τοῦδε γὰρ δράμημα ( δρόμημα in apogr . pluribus , de quo v . Thes . vol . 3 p . 1684 ) φωτός Περσικὸν πρέπει μαθεῖν .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="drasimos">
+  <form>
+    <orth xml:lang="grc">δράσιμος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">promptus ad agendum , strenuus .</def>
+    <cit>
+      <bibl>Sept. 554</bibl>
+      <quote xml:lang="grc">χεὶρ δ᾽ ὁρᾷ τὸ δράσιμον .</quote>
+      <note xml:lang="lat">Schol . περιφραστικῶς , πολεμικώτατός ἐστιν .</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="drasmos">
+  <form>
+    <orth xml:lang="grc">δρασμός</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">fuga .</def>
+    <cit>
+      <bibl>Pers . 360</bibl>
+      <quote xml:lang="grc">δρασμῷ κρυφαίῳ .</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 370</bibl>
+      <quote xml:lang="grc">κρυφαίως δρασμὸν εὑρόντες τινά .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="drasterios">
+  <form>
+    <orth xml:lang="grc">δραστήριος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">efficax .</def>
+    <cit>
+      <bibl>Sept. 1041</bibl>
+      <quote xml:lang="grc">θάρσει παρέσται μηχανή δραστήριος .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="drao">
+  <form>
+    <orth xml:lang="grc">δράω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">facio .</def>
+    <cit>
+      <bibl>Pr . 72</bibl>
+      <quote xml:lang="grc">δρᾶν ταῦτ᾽ ἀνάγκη .</quote>
+    </cit>
+    <cit>
+      <bibl>Pr. 660</bibl>
+      <quote xml:lang="grc">τί χρὴ δρῶντ᾽ ἢ λέγοντα δαíμοσιν πράσσειν φίλα ;</quote>
+    </cit>
+    <cit>
+      <bibl>Pr. 744</bibl>
+      <quote xml:lang="grc">τί που δράσεις ;</quote>
+    </cit>
+    <cit>
+      <bibl>Pr. 939</bibl>
+      <quote xml:lang="grc">δράτω , κρατείτω τόνδε τὸν βραχὺν χρόνον .</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 441</bibl>
+      <quote xml:lang="grc">Καπανεὺς δ᾽ ἀπειλεῖ πᾶν παρεσκευασμένος δρᾶν .</quote>
+    </cit>
+    <cit>
+      <bibl>Pers . 813</bibl>
+      <quote xml:lang="grc">κακῶς δράσαντες οὐκ ἐλάσσονα πάσχουσι .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag . 1059</bibl>
+      <quote xml:lang="grc">εἰ τι δράσεις τῶνδε .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1353</bibl>
+      <quote xml:lang="grc">ψηφίζομαí τι δρᾶν .</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1634</bibl>
+      <quote xml:lang="grc">δρᾶσαι τόδ᾽ ἔργον οὐκ ἔτλης αὐτοκτόνως ;</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1653</bibl>
+      <quote xml:lang="grc">μηδαμώς , ὦ φίλτατ᾽ ἀνδρῶν , ἄλλα δράσωμεν κακά .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch . 313</bibl>
+      <quote xml:lang="grc">δράσαντι παθεῖν τριγέρων μύθος τάδε φωνεῖ .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 512</bibl>
+      <quote xml:lang="grc">ἐπειδὴ δρᾶν κατώρθωσαι φρενί .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 554</bibl>
+      <quote xml:lang="grc">τοὺς δὲ μή τι δρᾶν λέγων .</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 882</bibl>
+      <quote xml:lang="grc">τί δρᾷ ;</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 1010</bibl>
+      <quote xml:lang="grc">ἔδρασεν ἢ οὐκ ἔδρασε ;</quote>
+    </cit>
+    <cit>
+      <bibl>Eum . 133</bibl>
+      <quote xml:lang="grc">τί δρᾷς ;</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 162</bibl>
+      <quote xml:lang="grc">τοιαῦτα δρῶσιν οἱ νεώτεροι θεοί .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 611</bibl>
+      <quote xml:lang="grc">δρᾶσαι γὰρ , ὥσπερ ἐστὶν , οὐκ ἀρνούμεθα .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 723</bibl>
+      <quote xml:lang="grc">τοιαῦτ᾽ ἔδρασας καὶ Φέρητος ἐν δόμοις .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 799</bibl>
+      <quote xml:lang="grc">ὡς ταῦτ᾽ Ὀρέστην δρῶντα μὴ βλάβας ἔχειν .</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 868</bibl>
+      <quote xml:lang="grc">εὐ δρῶσαν , εὖ πάσχουσαν .</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl . 380</bibl>
+      <quote xml:lang="grc">φόβος μ᾿ ἔχει φρένας δρᾶσαί τε μὴ δρᾶσαí τε καὶ τύχην ἑλεῖν ,</quote>
+      <note xml:lang="lat">cui simile est quod Pseudo - Euripides dixit Iph . Aul . 56 δοῦναí τε μὴ δοῦναí τε , τὴν τύχην θ᾽ ἑλεῖν .</note>
+    </cit>
+    <cit>
+      <bibl>Suppl. 505</bibl>
+      <quote xml:lang="grc">ἐγὼ δὲ πῶς δρῶ ;</quote>
+    </cit>
+    <cit>
+      <note xml:lang="lat">Formula τί δρῶ utuntur qui inopes consilii sunt ,</note>
+      <bibl>Sept. 1057</bibl>
+      <quote xml:lang="grc">τί πάθω ; τί δὲ δρῶ ; τί δὲ μήσωμαι ;</quote>
+    </cit>
+    <cit>
+      <bibl>Ch . 899</bibl>
+      <quote xml:lang="grc">Πυλάδη , τί δράσω ;</quote>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">δρᾶν τινά τι .</def>
+    <cit>
+      <bibl>Sept. 1066</bibl>
+      <quote xml:lang="grc">δράτω τι πόλις καὶ μὴ δράτω τοὺς κλάοντας Πολυνείκη ,</quote>
+      <note xml:lang="lat">ubi τι addidit Elmsleius .</note>
+    </cit>
+    <cit>
+      <note xml:lang="lat">Participium ὁ δρῶν substantivi instar est .</note>
+      <bibl>Ag . 1359</bibl>
+      <quote xml:lang="grc">τοῦ δρῶντός ἐστι καὶ τὸ βουλεῦσαι πέρι .</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 282</bibl>
+      <quote xml:lang="grc">δράσαντι γάρ τι καὶ παθεῖν ὀφείλεται .</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="drepomai">
+  <form>
+    <orth xml:lang="grc">δρέπομαι</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">decerpo .</def>
+    <cit>
+      <note xml:lang="lat">Improprie de sanguine effundendo</note>
+      <bibl>Sept. 718</bibl>
+      <quote xml:lang="grc">ἀλλ᾿ αὐτάδελφον αἷμα δρέψασθαι θέλεις ;</quote>
+    </cit>
+  </sense>
+</entry>
+
+<entry xml:id="drimys">
+  <form>
+    <orth xml:lang="grc">δριμύς</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">acerbus</def>
+    <cit>
+      <bibl>Ag. 1501</bibl>
+      <quote xml:lang="grc">ὁ παλαιός δριμὺς ἀλάστωρ Ατρέως.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 391</bibl>
+      <quote xml:lang="grc">πάροιθεν δὲ πρώρας δριμὺς ἡται καρδίας θυμός.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="droite">
+  <form>
+    <orth xml:lang="grc">δροίτη</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">labrum</def>
+    <cit>
+      <bibl>Ag. 1540</bibl>
+      <quote xml:lang="grc">ἀργυροτοίχου δροίτας κατέχοντα κατέχοντα χαμεύναν.</quote>
+    </cit>
+    <cit>
+      <bibl>[Ch. 999]</bibl>
+      <quote xml:lang="grc">δροίτης κατασκήνωμα.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 633</bibl>
+      <quote xml:lang="grc">δεδεγμένη δροίτη.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dromos">
+  <form>
+    <orth xml:lang="grc">δρόμος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">cursus</def>
+    <cit>
+      <bibl>Pr. 591</bibl>
+      <quote xml:lang="grc">τοὺς ὑπερμήκεις δρόμους – γυμνάζεται.</quote>
+    </cit>
+    <cit>
+      <bibl>838</bibl>
+      <quote xml:lang="grc">παλιμπλάγκτοισι χειμάζει δρόμοις.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 120</bibl>
+      <quote xml:lang="grc">βλαβέντα λοισθίων δρόμων.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 796</bibl>
+      <quote xml:lang="grc">ἐν δρόμῳ προστιθεὶς μέτρον</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 309</bibl>
+      <quote xml:lang="grc">τοιγάρ νιν ἐκ γῆς ἤλασεν μακρῷ δρόμῳ;</quote>
+    </cit>
+    <cit>
+      <bibl>819</bibl>
+      <quote xml:lang="grc">μετά με δρόμοισι διόμενοι.</quote>
+    </cit>
+    <cit>
+      <note xml:lang="lat">De cursu navis</note>
+      <bibl>ib. 135</bibl>
+      <quote xml:lang="grc">πλάτα μὲν οὖν λινορραφοῦς τε δρόμος ἅλα στέγων δορός.</quote>
+      <note xml:lang="lat">Sic emendavi pro λινορραφής τε δόμος, de quo dixi in Philologo vol. 13 p. 496</note>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">curriculo, celeriter</def>
+    <cit>
+      <bibl>Pers. 207</bibl>
+      <quote xml:lang="grc">κίρκον εἰσορῶ δρόμῳ πτεροῖς ἐφορμαίνοντα.</quote>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">curriculum s. circus in quo certantes decurrunt: quod interdum ad alia transfertur.</def>
+    <cit>
+      <bibl>Pr. 883</bibl>
+      <quote xml:lang="grc">ἔξω δὲ δρόμου φέρομαι.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1245</bibl>
+      <quote xml:lang="grc">᾽ ἐκ δρόμου πεσών τρέχω,</quote>
+    </cit>
+    <pb n="94"/>
+    <cit>
+      <bibl>Ch. 1022</bibl>
+      <quote xml:lang="grc">ὥσπερ ξὺν ἵπποις ἡνιοστροφῶ δρόμου ἐξωτέρω,</quote>
+      <note xml:lang="lat">i. e. a vero abergo.</note>
+    </cit>
+    <cit>
+      <bibl>514</bibl>
+      <quote xml:lang="grc">πυθέσθαι δ᾽ οὐδέν ἔστ᾽ ἔξω δρόμου,</quote>
+      <note xml:lang="lat">i. e. ab re non alienum est.</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="drosos">
+  <form>
+    <orth xml:lang="grc">δρόσος</orth>
+  </form>
+  <sense>
+    <def xml:lang="grc">τος.</def>
+    <cit>
+      <bibl>Ag. 336</bibl>
+      <quote xml:lang="grc">τῶν ὑπαιθρίων πάγων δρόσων τ᾽ ἀπαλλαγέντες.</quote>
+    </cit>
+    <cit>
+      <bibl>561</bibl>
+      <quote xml:lang="grc">λειμώνιαι δρόσοι κατεψάκαζον.</quote>
+    </cit>
+    <cit>
+      <bibl>1390</bibl>
+      <quote xml:lang="grc">βάλλει μ᾽ ἐρεμνῇ ψακάδι φοινίας δρόσου.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 904</bibl>
+      <quote xml:lang="grc">γῆθεν ἔκ τε ποντίας δρόσου.</quote>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">catulus</def>
+    <cit>
+      <bibl>Ag. 141</bibl>
+      <quote xml:lang="grc">δρόσοισιν μαλερῶν λεόντων.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="drymos">
+  <form>
+    <orth xml:lang="grc">δρυμός</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">quercetum, silva</def>
+    <cit>
+      <bibl>Fr. 305, 10</bibl>
+      <quote xml:lang="grc">δρυμοὺς ἐρήμους ἢ πάγους ἀποικίσει.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="drys">
+  <form>
+    <orth xml:lang="grc">δρύς</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">quercus</def>
+    <cit>
+      <bibl>Pr. 832</bibl>
+      <quote xml:lang="grc">αἱ προσήγοροι δρύες.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dropto">
+  <form>
+    <orth xml:lang="grc">δρώπτω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">Hesychius <quote xml:lang="grc">δρώπτειν</quote>: <quote xml:lang="grc">διακόπτειν</quote> ἢ <quote xml:lang="grc">διασκοπεῖν</quote>.</def>
+    <cit>
+      <bibl>Αἰσχύλος Ψυχαγωγοῖς (fr. 272)</bibl>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dye">
+  <form>
+    <orth xml:lang="grc">δύη</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">aerumna, miseria</def>
+    <note xml:lang="lat">Per <quote xml:lang="grc">δυστυχία</quote>, <quote xml:lang="grc">ἐνδεια</quote>, <quote xml:lang="grc">πόνος</quote>, <quote xml:lang="grc">ταλαιπωρία</quote> explicat Hesychius, per <quote xml:lang="grc">κακοπάθεια</quote>, <quote xml:lang="grc">δυστυχία</quote> Suidas.</note>
+    <cit>
+      <note xml:lang="lat">De cruciatu Promethei rupi affixi</note>
+      <bibl>179</bibl>
+      <quote xml:lang="grc">πικραῖς δύαισιν οὐδὲν ἐπιχαλᾷς.</quote>
+    </cit>
+    <cit>
+      <bibl>513</bibl>
+      <quote xml:lang="grc">μυρίαις δὲ πημοναῖς δύαις τε καμφθείς.</quote>
+    </cit>
+    <cit>
+      <bibl>525</bibl>
+      <quote xml:lang="grc">δεσμοὺς ἀεικεῖς καὶ δύας ἐκφυγγάνω.</quote>
+    </cit>
+    <cit>
+      <note xml:lang="lat">De Ius terram et mare pervagantis erroribus</note>
+      <bibl>746</bibl>
+      <quote xml:lang="grc">δυσχείμερόν γε πέλαγος ἀτηρᾶς δύης.</quote>
+    </cit>
+    <cit>
+      <note xml:lang="lat">De civitate afflicta</note>
+      <bibl>Sept. 228</bibl>
+      <quote xml:lang="grc">ἐκ χαλεπᾶς δύας.</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 1010</bibl>
+      <quote xml:lang="grc">νέαι νέαι δύαι δύαι.</quote>
+    </cit>
+    <cit>
+      <bibl>1047</bibl>
+      <quote xml:lang="grc">δύα δύα.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1151</bibl>
+      <quote xml:lang="grc">ματαίους δύας.</quote>
+    </cit>
+    <cit>
+      <bibl>1622</bibl>
+      <quote xml:lang="grc">αἵ τε νήστιδες δύαι.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 443</bibl>
+      <quote xml:lang="grc">κλύεις πατρώους δύας ἀτίμους.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 268</bibl>
+      <quote xml:lang="grc">ἀντίποιν᾿ ὡς τίνης ματροφόνου δύας.</quote>
+    </cit>
+    <cit>
+      <bibl>562</bibl>
+      <quote xml:lang="grc">ἀμηχάνοις δύαις λαπαδνόν.</quote>
+    </cit>
+    <cit>
+      <bibl>ib. 843 875</bibl>
+      <quote xml:lang="grc">τίς μ᾿ ὑποδύεται πλευρὰς αὐ δύα;</quote>
+      <note xml:lang="lat">Sic correxi quod in M cum metri vitio legitur <quote xml:lang="grc">πλευρὰς ὀδύνα</quote>. <quote xml:lang="grc">ὦ δύα</quote> confecerat Wieselerus.</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyios">
+  <form>
+    <orth xml:lang="grc">δύϊος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">aerumnosus, luctuosus</def>
+    <cit>
+      <bibl>Suppl. 829</bibl>
+      <quote xml:lang="grc">δυΐαν βοὰν ἀμφαίνω.</quote>
+    </cit>
+    <note xml:lang="lat">Mirum hoc adiectivum Theognostus Can. p. 58, 9 non constat unde sumtum annotavit inter adiectiva in <quote xml:lang="grc">ιος</quote> terminata, <quote xml:lang="grc">ἔχοντα ἐν τῇ πρώτη συλλαβῇ τὸ υ</quote>. In loco Aeschyli valde incerta est scriptura, quum de praecedentibus versibus tenuia tantum supersint fragmenta vocabulorum, ut nesciannus utrum recte legatur <quote xml:lang="grc">δυΐαν</quote> an ex alio corruptum sit vocabulo. <quote xml:lang="grc">εἰδυῖα βόαμα φαίνω</quote> coniecit Schwerdtius, collata annotatione scholiastae <quote xml:lang="grc">οὐκέτι παρὰ τοῦ πατρὸς ἀκούσασα, ἀλλ᾽ αὐτόπτης γενομένη βοῶ</quote>.</note>
+  </sense>
+</entry>
+<entry xml:id="dynamai">
+  <form>
+    <orth xml:lang="grc">δύναμαι</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">possum, valeo</def>
+    <cit>
+      <bibl>Ch. 374</bibl>
+      <quote xml:lang="grc">μείζονα φωνεῖς · δύνασαι γάρ.</quote>
+      <note xml:lang="lat">Sic Hermannus emendavit quod est in M <quote xml:lang="grc">φωνεῖ · ὁ</quote> (sic non <quote xml:lang="grc">ὁ</quote>) <quote xml:lang="grc">δυνᾶσαι γάρ</quote>. <quote xml:lang="grc">δύνασαι</quote> legit schol. qui exp. <quote xml:lang="grc">ῥάδιον γὰρ τὸ εὔχεσθαι</quote>.</note>
+    </cit>
+    <cit>
+      <bibl>Pr. 206</bibl>
+      <quote xml:lang="grc">πιθεῖν Τιτάνας οὐκ ἠδυνήθην.</quote>
+    </cit>
+    <cit>
+      <bibl>326</bibl>
+      <quote xml:lang="grc">ἐὰν δύνωμαι.</quote>
+    </cit>
+    <cit>
+      <bibl>914</bibl>
+      <quote xml:lang="grc">οὐδεὶς θεῶν δύναιτ᾽ ἄν.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 950</bibl>
+      <quote xml:lang="grc">μέγα γὰρ δύναται πότνι᾿ Ἐρινὺς παρά τ᾽ ἀθανάτοις.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 1036</bibl>
+      <quote xml:lang="grc">δύναται γὰρ Διὸς ἄγχιστα.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dynamis">
+  <form>
+    <orth xml:lang="grc">δύναμις</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">vis</def>
+    <cit>
+      <bibl>Pers. 174</bibl>
+      <quote xml:lang="grc">ὧν ἂν δύναμις ἡγεῖσθαι θέλῃ.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 779</bibl>
+      <quote xml:lang="grc">δύναμιν οὐ σέβουσα πλούτου παράσημον αἴνῳ.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dynastes">
+  <form>
+    <orth xml:lang="grc">δυνάστης</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">dominus</def>
+    <cit>
+      <bibl>Pers. 674</bibl>
+      <quote xml:lang="grc">ὦ πολύκλαυτε θανών δυνάστα.</quote>
+      <note xml:lang="lat">Sic emendavi pro <quote xml:lang="grc">ὦ πολύκλαυτε φίλοισι θανών</quote>. <quote xml:lang="grc">τί τάδε δυνάτα δυνάτα</quote> cet.</note>
+    </cit>
+    <cit>
+      <note xml:lang="lat">de sideribus</note>
+      <bibl>Ag. 6</bibl>
+      <quote xml:lang="grc">τοὺς φέροντας χεῖμα καὶ θέρος βροτοῖς λαμπροὺς δυνάστας ἐμπρέποντας αἰθέρι.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dynatos">
+  <form>
+    <orth xml:lang="grc">δυνατός</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">qui potest</def>
+    <cit>
+      <bibl>Ag. 97</bibl>
+      <quote xml:lang="grc">τούτων λέξαις ὅ τι καὶ δυνατὸν καὶ θέμις αἰνεῖν.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyno">
+  <form>
+    <orth xml:lang="grc">δύνω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">occido</def>
+    <cit>
+      <bibl>Suppl. 255</bibl>
+      <quote xml:lang="grc">πρὸς δύνοντος ἡλίου.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="duo">
+  <form>
+    <orth xml:lang="grc">δύο</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">duo</def>
+    <cit>
+      <bibl>Sept. 478</bibl>
+      <quote xml:lang="grc">δύ᾽ ἄνδρε.</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 181</bibl>
+      <quote xml:lang="grc">δύο γυναῖκ᾽ εὐείμονε.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 122</bibl>
+      <quote xml:lang="grc">ἰδὼν δύο λήμασιν ἴσους ᾿Ατρεΐδας.</quote>
+      <note xml:lang="lat">Nam sic correxi quod in M scriptum est <quote xml:lang="grc">λήμασι δισσούς</quote>.</note>
+    </cit>
+    <cit>
+      <bibl>Ch. 207</bibl>
+      <quote xml:lang="grc">δύ᾽ ἐστὸν τώδε περιγραφὰ ποδοῖν.</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 132</bibl>
+      <quote xml:lang="grc">δύο κύβω καὶ τέσσαρα.</quote>
+    </cit>
+    <cit>
+      <bibl>305, 5</bibl>
+      <col/>
+      <quote xml:lang="grc">δύο γὰρ οὖν μορφὰς φάνεῖ,</quote>
+      <note xml:lang="lat">ubi incertum est utrum <quote xml:lang="grc">μορφάς</quote> τη <quote xml:lang="grc">μορφά</quote> scripserit.</note>
+    </cit>
+    <note xml:lang="lat">Plura sunt exempla genitivi et dativi dualis <quote xml:lang="grc">δυοῖν</quote>, constanter cum nomine duali coniuncti, exceptis duobus locis ubi dualem recte restituit Elmsleius.</note>
+    <cit>
+      <bibl>Pr. 778</bibl>
+      <quote xml:lang="grc">δυοῖν λόγοιν σε θατέρῳ δωρήσομαι.</quote>
+    </cit>
+    <cit>
+      <bibl>867</bibl>
+      <quote xml:lang="grc">δυοῖν δὲ θάτερον βουλήσεται.</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 920</bibl>
+      <quote xml:lang="grc">τοῖνδε δυοῖν ἀνάκτοιν.</quote>
+    </cit>
+    <cit>
+      <bibl>960</bibl>
+      <quote xml:lang="grc">δυοῖν κρατήσας ἔληξε δαίμων.</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 720</bibl>
+      <quote xml:lang="grc">διπλοῦν μέτωπον ἦν δυοῖν στρατευμάτοιν.</quote>
+    </cit>
+    <cit>
+      <bibl>736</bibl>
+      <quote xml:lang="grc">γέφυραν γαῖν δυοῖν ζευκτηρίαν.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1384</bibl>
+      <quote xml:lang="grc">ἐν δυοῖν οἰμωγμάτοιν</quote>
+      <note xml:lang="lat">(sic Elmsleius pro <quote xml:lang="grc">οἰμώγμασιν</quote>).</note>
+    </cit>
+    <cit>
+      <bibl>Ch. 304</bibl>
+      <quote xml:lang="grc">δυοῖν γυναικοῖν ὧδ᾽ ὑπηκόους πέλειν.</quote>
+    </cit>
+    <cit>
+      <bibl>944</bibl>
+      <quote xml:lang="grc">ὑπὸ δυοῖν μιαστόροιν.</quote>
+    </cit>
+    <cit>
+      <bibl>1047</bibl>
+      <quote xml:lang="grc">δυοῖν δρακόντοιν εὐπετῶς τεμὼν κάρα.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 428</bibl>
+      <quote xml:lang="grc">δυοῖν παρόντοιν ἥμισυς λόγος πάρα.</quote>
+    </cit>
+    <cit>
+      <bibl>600</bibl>
+      <quote xml:lang="grc">δυοῖν γὰρ εἶχε προσβολὰς μιασμάτοιν</quote>
+      <note xml:lang="lat">(sic Elmsleius pro <quote xml:lang="grc">μιασμάτων</quote>).</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="duomai">
+  <form>
+    <orth xml:lang="grc">δύομαι</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">(cum aoristo <quote xml:lang="grc">ἔδυν</quote>) subeo</def>
+    <cit>
+      <bibl>Ag. 218</bibl>
+      <quote xml:lang="grc">ἐπεὶ δ᾽ ἀνάγκας ἔδυ λέπαδνον.</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 252</bibl>
+      <quote xml:lang="grc">ἔδυ δ᾽ ἐς ἄντρον ἀσχέδωρος ὥς.</quote>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">occido</def>
+    <cit>
+      <bibl>Ag. 1011</bibl>
+      <quote xml:lang="grc">οὐκ ἔδυ πρόπας δόμος.</quote>
+    </cit>
+    <cit>
+      <bibl>1123</bibl>
+      <quote xml:lang="grc">βίου δύντος αὐγαῖς.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="duromai">
+  <form>
+    <orth xml:lang="grc">δύρομαι</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">conqueror</def>
+    <cit>
+      <bibl>Pr. 271</bibl>
+      <quote xml:lang="grc">τὰ μὲν παρόντα μὴ δύρεσθ᾽ ἄχη.</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 582</bibl>
+      <quote xml:lang="grc">δαιμόνι᾽ ἄχη, ὀᾶ ὀᾶ, δυρόμενοι γέροντες.</quote>
+    </cit>
+    <note xml:lang="lat">Alteram formam <quote xml:lang="grc">ὀδύρομαι</quote> v. suo loco. <quote xml:lang="grc">δύρομαι</quote> tragici non videntur dixisse nisi postulante metro.</note>
+  </sense>
+</entry>
+<entry xml:id="dysankomistos">
+  <form>
+    <orth xml:lang="grc">δυσαγκόμιστος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">qui aegre reducitur, irreparabilis</def>
+    <cit>
+      <bibl>Eum. 262</bibl>
+      <quote xml:lang="grc">αἷμα μητρῷον χαμαὶ δυσαγκόμιστον.</quote>
+    </cit>
+    <note xml:lang="lat">Est pro <quote xml:lang="grc">δυσανακόμιστον</quote> dictum, quo adiectivo Plutarchus usus est V. Romuli c. 28.</note>
+  </sense>
+</entry>
+<entry xml:id="dysankritos">
+  <form>
+    <orth xml:lang="grc">δυσάγκριτος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">(i. e. <quote xml:lang="grc">δυσανάκριτος</quote>) difficilis ad dignoscendum</def>
+    <cit>
+      <bibl>Suppl. 126</bibl>
+      <quote xml:lang="grc">δυσάγκριτοι πόνοι.</quote>
+      <note xml:lang="lat">Per <quote xml:lang="grc">δυσδιάγνωστοι</quote> exp. schol.</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysadelphos">
+  <form>
+    <orth xml:lang="grc">δυσάδελφος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">infelicem fratrem (s. infelices fratres) habens</def>
+    <cit>
+      <note xml:lang="lat">de Antigona et Ismena Eteoclis et Polynicis sororibus</note>
+      <bibl>Sept. 870</bibl>
+      <quote xml:lang="grc">ἰὼ δυσαδελφόταται πασῶν.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysaianes">
+  <form>
+    <orth xml:lang="grc">δυσαϊανής</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">luctuosus, calamitosus</def>
+    <cit>
+      <bibl>Pers. 281</bibl>
+      <quote xml:lang="grc">ἴυζ᾽ ἄποτμον βοὰν δυσαιανῆ Πέρσαις.</quote>
+      <note xml:lang="lat">Per <quote xml:lang="grc">δυσθρήνητον</quote>, <quote xml:lang="grc">δυστυχή</quote> exp. schol.</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysaion">
+  <form>
+    <orth xml:lang="grc">δυσαίων</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">infelix</def>
+    <cit>
+      <note xml:lang="lat">Pro <quote xml:lang="grc">δυσδαίμων</quote> restitui</note>
+      <bibl>Sept. 927,</bibl>
+      <note xml:lang="lat">quod metrum versus strophici postulat</note>
+      <quote xml:lang="grc">ἰὼ δυσαίων σφὶν ἁ τεκοῦσα.</quote>
+    </cit>
+    <note xml:lang="lat">In M est <quote xml:lang="grc">δυσδαίμων σφὶν ἁ τεκοῦσα</quote>, omisso <quote xml:lang="grc">ἰώ</quote>.</note>
+  </sense>
+</entry>
+<entry xml:id="dysalges">
+  <form>
+    <orth xml:lang="grc">δυσαλγής</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">aerumnosus</def>
+    <cit>
+      <bibl>Ag. 1165</bibl>
+      <quote xml:lang="grc">δυσαλγεῖ τύχᾳ μινυρὰ θρεομένας.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysalotos">
+  <form>
+    <orth xml:lang="grc">δυσάλωτος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">expugnatu difficilis</def>
+    <cit>
+      <bibl>Pr. 166</bibl>
+      <quote xml:lang="grc">τὰν δυσάλωτον ἕλῃ τις ἀρχάν.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysameria">
+  <form>
+    <orth xml:lang="grc">δυσαμερία</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">(Dorice pro <quote xml:lang="grc">δυσημερία</quote>) infaustus dies, infortunium</def>
+    <cit>
+      <bibl>Fr. 234</bibl>
+      <quote xml:lang="grc">Σφίγγα δυσαμεριᾶν πρύτανιν κύνα πέμπει.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysanor">
+  <form>
+    <orth xml:lang="grc">δυσάνωρ</orth>
+  </form>
+  <sense>
+    <cit>
+      <bibl>Suppl. 1064</bibl>
+      <quote xml:lang="grc">γάμον δυσάνορα,</quote>
+      <note xml:lang="lat">i. e. connubium cum malis viris.</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysarestos">
+  <form>
+    <orth xml:lang="grc">δυσάρεστος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">cui placere difficile est</def>
+    <cit>
+      <note xml:lang="lat">De Furiis implacabilibus</note>
+      <bibl>Eum. 923</bibl>
+      <quote xml:lang="grc">μεγάλας καὶ δυσαρέστους δαίμονας.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysarktos">
+  <form>
+    <orth xml:lang="grc">δύσαρκτος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">moderatu difficilis, contumax</def>
+    <cit>
+      <bibl>Ch. 1024</bibl>
+      <quote xml:lang="grc">φέρουσι γὰρ νικώμενον φρένες δύσαρκτοι.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysaulia">
+  <form>
+    <orth xml:lang="grc">δυσαυλία</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">mala habitatio</def>
+    <cit>
+      <note xml:lang="lat">De excubiis</note>
+      <bibl>Ag. 555</bibl>
+      <quote xml:lang="grc">μόχθους γὰρ εἰ λέγοιμι καὶ δυσαυλίας.</quote>
+    </cit>
+    <note xml:lang="lat">Alterum quod novimus exemplum est apud Philonem vol. 1 p. 195, 18 <quote xml:lang="grc">χαμευνίαις καὶ δυσαυλίαις</quote>.</note>
+  </sense>
+</entry>
+<entry xml:id="dysaches">
+  <form>
+    <orth xml:lang="grc">δυσαχής</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">graviter conquerendus</def>
+    <cit>
+      <bibl>Eum. 145</bibl>
+      <quote xml:lang="grc">ἐπάθομεν πάθος δυσαχές.</quote>
+      <note xml:lang="lat">ubi in apographis quibusdam δυσαχθές scriptum.</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysbatos">
+  <form>
+    <orth xml:lang="grc">δύσβατος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">infauste calcatus</def>
+    <cit>
+      <bibl>Pers. 1069 1073</bibl>
+      <quote xml:lang="grc">Περσὶς οἷα δύσβατος.</quote>
+    </cit>
+    <note xml:lang="lat">Recte schol. Byz. <quote xml:lang="grc">δύσβατόν φησι τὴν Περσίδα οὐχ ὡς σκληρὰν καὶ δύσκολον εἰς ἔμβασιν, ἀλλ᾽ ὡς ἐπὶ κακῷ καὶ δυστυχίᾳ</quote>
+      <pb n="95"/>
+      <quote xml:lang="grc">βαινομένην τῷ Ξέρξη</quote>. In apogr. plerisque est <quote xml:lang="lat">δύσβακτος</quote>, in uno <quote xml:lang="lat">δυσβάϊκτος</quote>, ex quo Brunckius <quote xml:lang="lat">δυσβάϋκτος</quote> fecit.</note>
+  </sense>
+</entry>
+
+<entry xml:id="dysbayktos">
+  <form>
+    <orth xml:lang="grc">δυσβάϋκτος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">cum infausto eiulatu editus, lamentabilis</def>
+    <cit>
+      <bibl>Pers. 574</bibl>
+      <quote xml:lang="grc">δυσβάϋκτον βοᾶτιν τάλαιναν αὐδάν.</quote>
+      <note xml:lang="lat">Per <quote xml:lang="grc">θρηνητικήν</quote> exp. schol.</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysboulia">
+  <form>
+    <orth xml:lang="grc">δυσβουλία</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">malum consilium</def>
+    <cit>
+      <bibl>Sept. 802</bibl>
+      <quote xml:lang="grc">παλαιάς Λαΐου δυσβουλίας.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1609</bibl>
+      <quote xml:lang="grc">πᾶσαν συνάψας μηχανὴν δυσβουλίας.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysdaimon">
+  <form>
+    <orth xml:lang="grc">δυσδαίμων</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">infelix</def>
+    <cit>
+      <bibl>Pr. 603</bibl>
+      <quote xml:lang="grc">δυσδαιμόνων δὲ τίνες οἱ᾽ ἐγὼ μογοῦσιν;</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 827</bibl>
+      <quote xml:lang="grc">τοὺς μογεροὺς καὶ δυσδαίμονας ἀτέκνους κλαύσω πολεμάρχους;</quote>
+    </cit>
+    <cit>
+      <bibl>[927]</bibl>
+      <quote xml:lang="grc">δυσδαίμων σφὶν ἁ τεκοῦσα,</quote>
+      <note xml:lang="lat">ubi metrum <quote xml:lang="grc">δυσαίων</quote> postulat.</note>
+    </cit>
+    <cit>
+      <bibl>Pers. 953</bibl>
+      <quote xml:lang="grc">νυχίαν πλάκα κερσάμενος δυσδαίμονά τ᾽ ἀκτάν.</quote>
+    </cit>
+    <cit>
+      <bibl>[Ag. 336]</bibl>
+      <quote xml:lang="grc">ὡς δυσδαίμονες ἀφύλακτον εὑδήσουσι πᾶσαν εὐφρόνην.</quote>
+      <note xml:lang="lat">ubi sensus postulat <quote xml:lang="grc">ὡς δὲ δαίμονες</quote>, quod restituit Hermannus. <quote xml:lang="grc">ὡς δ᾽ εὐδαίμονες</quote> coniecerat Stanleius.</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysdakrytos">
+  <form>
+    <orth xml:lang="grc">δυσδάκρυτος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">misere defletus</def>
+    <cit>
+      <bibl>Ag. 442</bibl>
+      <quote xml:lang="grc">βαρὺ (vel βραχύ) ψῆγμα δυσδάκρυτον.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysdamar">
+  <form>
+    <orth xml:lang="grc">δύσδαμαρ</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">infelix coniugii</def>
+    <cit>
+      <bibl>Ag. 1319</bibl>
+      <quote xml:lang="grc">ἀνήρ τε δυσδάμαρτος ἀντ᾿ ἀνδρὸς πέση.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysedros">
+  <form>
+    <orth xml:lang="grc">δύσεδρος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">male assidens</def>
+    <cit>
+      <bibl>Ag. 746</bibl>
+      <quote xml:lang="grc">δύσεδρος καὶ δυσόμιλος.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysekdytos">
+  <form>
+    <orth xml:lang="grc">δυσέκδυτος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">qui difficulter exuitur</def>
+    <cit>
+      <bibl>Fr. 435</bibl>
+      <quote xml:lang="grc">ἀμήχανον τεύχημα (τέχνημα Nauckius) καὶ δυσέκδυτον.</quote>
+      <note xml:lang="lat">Sic correxi pro <quote xml:lang="grc">δυσέκλυτον</quote>, quod legitur apud schol. Eur. Orest. 25,</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyseklytos">
+  <form>
+    <orth xml:lang="grc">δυσεκλύτως</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">adverbium adiectivi δυσέκλυτος aegre exsviubilis</def>
+    <cit>
+      <bibl>Pr. 60</bibl>
+      <quote xml:lang="grc">ἄραρεν ἥδε γ᾽ ὠλένη δυστóτε μὲν δύσεκλύτως.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyselpis">
+  <form>
+    <orth xml:lang="grc">δύσελπις</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">qui vix sperat, exspes</def>
+    <cit>
+      <bibl>Ch. 412</bibl>
+      <quote xml:lang="grc">καὶ ἐλπίς.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyseynator">
+  <form>
+    <orth xml:lang="grc">δυσευνάτωρ</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">cubili infestus</def>
+    <cit>
+      <bibl>Sept. 293</bibl>
+      <quote xml:lang="grc">δράκοντας (sic Bothius pro δράκοντα δ᾽) ὥς τις τέκνων ὑπερδέδοικεν λεχαίων δυσευνάτορας (sic Blomfieldus pro δυσευνήτορας).</quote>
+      <note xml:lang="lat">in M a m. sec. superser. <quote xml:lang="grc">δυσευνήτειρα</quote>, quod in apogr. multa transiit. Pluralem legit scholiasta, etsi non <quote xml:lang="grc">δράκοντας</quote>. sed <quote xml:lang="grc">δράκοντα δ'</quote> legisse videtur. Nam sic scribit <quote xml:lang="grc">δυσευνήτορας δὲ δυσευνήτους διὰ τὸν φόβον τοῦ δράκοντος</quote>.</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dheuretos">
+  <form>
+    <orth xml:lang="grc">δυσεύρετος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">inventu s. intellectu difficilis</def>
+    <cit>
+      <bibl>Pr. 816</bibl>
+      <quote xml:lang="grc">τῶν δ᾽ εἴ τι σοὶ ψελλόν τε καὶ δυσεύρετον.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyselios">
+  <form>
+    <orth xml:lang="grc">δυσήλιος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">(Dorice δυσάλιος) a sole non collustratus</def>
+    <cit>
+      <bibl>Eum. 396</bibl>
+      <quote xml:lang="grc">δυσήλιον κνέφας,</quote>
+      <note xml:lang="lat">ubi <quote xml:lang="grc">δυσάλιον</quote> restitui.</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysemeria_xref">
+  <form>
+    <orth xml:lang="grc">[δυσημερία.]</orth>
+  </form>
+  <sense>
+    <note xml:lang="lat">V. δυσαμερία.</note>
+  </sense>
+</entry>
+<entry xml:id="dystheatos">
+  <form>
+    <orth xml:lang="grc">δυθθέατος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">infelix s. tristis aspectu</def>
+    <cit>
+      <bibl>Pr. 69</bibl>
+      <quote xml:lang="grc">ὁρᾷς θέαμα δυσθέατον ὄμμασιν.</quote>
+    </cit>
+    <cit>
+      <bibl>690</bibl>
+      <quote xml:lang="grc">δυσθέατα καὶ δύσοιστα πήματα.</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 978</bibl>
+      <quote xml:lang="grc">δυσθέατα πήματα.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dystheos">
+  <form>
+    <orth xml:lang="grc">δύσθεος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">impius</def>
+    <cit>
+      <bibl>Ag. 590</bibl>
+      <quote xml:lang="grc">τοῦδε δύσθεος πατὴρ Ἀτρεύς.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 46 525</bibl>
+      <quote xml:lang="grc">δύσθεος γυνή (vel γυνά).</quote>
+    </cit>
+    <cit>
+      <bibl>191</bibl>
+      <quote xml:lang="grc">φρόνημα παισὶ δύσθεον πεπαμένη.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 422</bibl>
+      <quote xml:lang="grc">ἐκβολαῖς δυσθέοις.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysthroos">
+  <form>
+    <orth xml:lang="grc">δύσθροος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">malum s. infelicem sonum edens</def>
+    <cit>
+      <bibl>Pers. 635</bibl>
+      <quote xml:lang="grc">αἰανῆ δύσθροα βάγματα.</quote>
+    </cit>
+    <cit>
+      <bibl>941</bibl>
+      <quote xml:lang="grc">πάνδυρτον δύσθροον αὐδάν.</quote>
+    </cit>
+    <cit>
+      <bibl>1076</bibl>
+      <quote xml:lang="grc">πέμψω τοί σε δυσθρόοις γόοις.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysiatos">
+  <form>
+    <orth xml:lang="grc">δυσίατος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">(ι longo) sanatu difficilis</def>
+    <cit>
+      <bibl>Ag. 1103</bibl>
+      <quote xml:lang="grc">κακὸν ἄφερτον φίλοισιν, δυσίατον.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysis">
+  <form>
+    <orth xml:lang="grc">δύσις</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">occasus</def>
+    <cit>
+      <bibl>Pr. 458</bibl>
+      <quote xml:lang="grc">ἀντολὰς ἐγὼ ἄστρων ἔδειξα τάς τε δυσκρίτους δύσεις.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 826</bibl>
+      <quote xml:lang="grc">ἀμφὶ Πλειάδων δύσιν.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyskapnos">
+  <form>
+    <orth xml:lang="grc">δύσκαπνος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">de lignis fumum molestum habentibus dixit Theophrastus: de aedibus pauperum Aeschylus</def>
+    <cit>
+      <bibl>Ag. 774</bibl>
+      <quote xml:lang="grc">Δίκα δὲ λαμπει μὲν ἐν δυσκάπνοις δώμασιν,</quote>
+      <note xml:lang="lat">quod Triclinius exp. <quote xml:lang="grc">πενιχροῖς καὶ εὐτελέσι</quote>.</note>
+    </cit>
+  </sense>
+</entry>
+<col/>
+<entry xml:id="dyskatapaustos">
+  <form>
+    <orth xml:lang="grc">δυσκατάπαυστος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">qui vix cohiberi potest, haud facile cessans</def>
+    <cit>
+      <bibl>Ch. 470</bibl>
+      <quote xml:lang="grc">δυσκατάπαυστον ἄλγος.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyskelados">
+  <form>
+    <orth xml:lang="grc">δυσκέλαδος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">infaustum sonans</def>
+    <cit>
+      <bibl>Sept. 867</bibl>
+      <quote xml:lang="grc">τὸν δυσκέλαδόν θ᾽ ὕμνον Ἐρινύος.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyskelos">
+  <form>
+    <orth xml:lang="grc">δύσκηλος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">insanabilis</def>
+    <cit>
+      <bibl>Eum. 825</bibl>
+      <quote xml:lang="grc">μηδ᾽ ὑπερθύμως ἄγανθεοὶ βροτῶν στήσητε δύσκηλον χθόνα.</quote>
+      <note xml:lang="lat">Per <quote xml:lang="grc">δυσθεράπευτον</quote> exp. schol.</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysklees">
+  <form>
+    <orth xml:lang="grc">δυσκλεής</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">inglorius, infamis</def>
+    <cit>
+      <bibl>Pr. 241</bibl>
+      <quote xml:lang="grc">δυσκλεής θέα.</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 444</bibl>
+      <quote xml:lang="grc">τεθνᾶσιν οἰκτρῶς δυσκλεεστάτω μόρῳ.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyskritos">
+  <form>
+    <orth xml:lang="grc">δύσκριτος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">iudicatu s. cognitu difficilis</def>
+    <cit>
+      <bibl>Pr. 458</bibl>
+      <quote xml:lang="grc">τάς τε δυσκρίτους δύσεις.</quote>
+      <note xml:lang="lat">pro quo <quote xml:lang="grc">δυσκρίτους ὁδούς</quote> scriptum est ap. Stobaeum Ecl. phys. 1, 1.</note>
+    </cit>
+    <cit>
+      <bibl>486</bibl>
+      <quote xml:lang="grc">κληδόνας τε δυσκρίτους ἐγνώρισ᾽ αὐτοῖς.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 981</bibl>
+      <quote xml:lang="grc">δίκαν δυσκρίτων ὀνειράτων.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyskritos_adv">
+  <form>
+    <orth xml:lang="grc">δυσκρίτως</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">obscure</def>
+    <cit>
+      <bibl>Pr. 662</bibl>
+      <quote xml:lang="grc">χρησμούς ἀσήμους δυσκρίτως τ᾽ εἰρημένους.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyskymantos">
+  <form>
+    <orth xml:lang="grc">δυσκύμαντος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">male e fluctibus agitatis proveniens, ut interpretatur Blomfieldus</def>
+    <cit>
+      <bibl>Ag. 653</bibl>
+      <quote xml:lang="grc">ἐν νυκτὶ δυσκύμαντα δ᾽ ὠρώρει κακά.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyslektos">
+  <form>
+    <orth xml:lang="grc">δύσλεκτος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">dictu iniucundus, infandus</def>
+    <cit>
+      <bibl>Pers. 702</bibl>
+      <quote xml:lang="grc">λέξας δύσλεκτα φίλοισιν.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyslophos">
+  <form>
+    <orth xml:lang="grc">δύσλοφος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">cervici gravis, toleratu difficilis</def>
+    <note xml:lang="lat">
+      <quote xml:lang="grc">δύσλοφον</quote> per <quote xml:lang="grc">δύσκολον</quote>, <quote xml:lang="grc">οὐχ ἁρμόζον</quote> exp. Hesychius.</note>
+    <cit>
+      <bibl>Pr. 931</bibl>
+      <quote xml:lang="grc">καὶ τῶνδέ γ᾽ ἕξει δυσλοφωτέρους πόνους.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyslytos">
+  <form>
+    <orth xml:lang="grc">δύσλυτος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">solutu difficilis, irresolubilis</def>
+    <cit>
+      <bibl>Pr. 19</bibl>
+      <quote xml:lang="grc">δυσλύτοις χαλκεύμασι.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysmatheo">
+  <form>
+    <orth xml:lang="grc">δυσμαθέω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">aegre agnosco</def>
+    <cit>
+      <bibl>Ch. 225</bibl>
+      <quote xml:lang="grc">αὐτὸν μὲν οὖν ὁρῶσα δυσμαθεῖς ἐμέ.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysmathes">
+  <form>
+    <orth xml:lang="grc">δυσμαθής</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">qui difficulter disci potest, intellectu difficilis</def>
+    <cit>
+      <bibl>Ag. 1255</bibl>
+      <quote xml:lang="grc">δυσμαθῆ δ᾽ ὅμως.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysmator">
+  <form>
+    <orth xml:lang="grc">δυσμάτωρ</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">(Dorice pro δυσμήτωρ) α mala matre proficiscens</def>
+    <cit>
+      <bibl>Suppl. 67</bibl>
+      <quote xml:lang="grc">δυσμάτορος κότου τυχών.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysmachos">
+  <form>
+    <orth xml:lang="grc">δύσμαχος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">qui difficulter expugnari potest, inexpugnabilis</def>
+    <cit>
+      <bibl>Pr. 921</bibl>
+      <quote xml:lang="grc">παλαιστὴν – δυσμαχώτατον τέρας.</quote>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">difficilis</def>
+    <cit>
+      <bibl>Ag. 1561</bibl>
+      <quote xml:lang="grc">δύσμαχα δ' ἐστὶ κρίναι.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysmenes">
+  <form>
+    <orth xml:lang="grc">δυσμενής</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">malevolus, infestus</def>
+    <cit>
+      <bibl>Sept. 234</bibl>
+      <quote xml:lang="grc">δυσμενέων δ᾽ ὄχλον πύργος ἀποστέγει.</quote>
+    </cit>
+    <cit>
+      <bibl>366</bibl>
+      <quote xml:lang="grc">δυσμενοῦς ὑπερτέρου.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1193</bibl>
+      <quote xml:lang="grc">τῷ πατοῦντι δυσμενεῖς.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 267</bibl>
+      <quote xml:lang="grc">δρακονθόμιλον δυσμενή ξυνοικίαν.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysme">
+  <form>
+    <orth xml:lang="grc">δυσμή</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">occasus</def>
+    <cit>
+      <bibl>Pers. 232</bibl>
+      <quote xml:lang="grc">πρὸς δυσμαῖς ἄνακτος Ἡλίου φθινασμάτων.</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 66</bibl>
+      <quote xml:lang="grc">ἐπὶ δυσμαῖσι τεοῦ πατρός.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysmetor_xref">
+  <form>
+    <orth xml:lang="grc">δυσμήτωρ.</orth>
+  </form>
+  <sense>
+    <note xml:lang="lat">V. δυσμάτωρ.</note>
+  </sense>
+</entry>
+<entry xml:id="dysmechaneo">
+  <form>
+    <orth xml:lang="grc">δυσμηχανέω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">difficultatibus impedior, non possum</def>
+    <cit>
+      <bibl>Ag. 1360</bibl>
+      <quote xml:lang="grc">δυσμηχανώ λόγοισι τὸν θανόντ᾽ ἀνιστάναι πάλιν.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysmoros">
+  <form>
+    <orth xml:lang="grc">δυσμόρως</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">infeliciter</def>
+    <cit>
+      <bibl>Sept. 837</bibl>
+      <quote xml:lang="grc">νεκροὺς κλύουσα δυσμόρως θανόντας.</quote>
+      <note xml:lang="lat">Sic ex apogr. correctum quod in M legitur <quote xml:lang="grc">δυσφόρως</quote>. In plerisque apographis <quote xml:lang="grc">δυσμόρους</quote>.</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysodopaipalos">
+  <form>
+    <orth xml:lang="grc">δυσοδοπαίπαλος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">saxis invius, asper</def>
+    <cit>
+      <note xml:lang="lat">Improprie</note>
+      <bibl>Eum. 387</bibl>
+      <quote xml:lang="grc">λάχη δυσοδοπαίπαλα δερκομένοισι καὶ δυσομμάτοις ὁμῶς.</quote>
+      <note xml:lang="lat">quod schol. exp. <quote xml:lang="grc">δυσπαράβατα καὶ τραχέα ζῶσι καὶ τοῖς θνήσκουσι</quote>,</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysoizo">
+  <form>
+    <orth xml:lang="grc">δυσοίζω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">metuo</def>
+    <cit>
+      <bibl>Ag. 1317</bibl>
+      <quote xml:lang="grc">οὔτοι δυσοίζω, θάμνον ὡς ὄρνις φόβῳ.</quote>
+    </cit>
+    <note xml:lang="lat">Per <quote xml:lang="grc">φοβεῖσθαι</quote>, <quote xml:lang="grc">ὑπονοεῖν</quote>, <quote xml:lang="grc">δυσχεραίνειν</quote> exp. Hesychius. Forma media <quote xml:lang="grc">δυσοίζου</quote> usus est scriptor Rhesi 805.</note>
+  </sense>
+</entry>
+<entry xml:id="dysoimos">
+  <form>
+    <orth xml:lang="grc">δύσοιμος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">malam viam habens</def>
+    <cit>
+      <bibl>Ch. 945</bibl>
+      <quote xml:lang="grc">δυσ-οίμου τύχας.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysoistos">
+  <form>
+    <orth xml:lang="grc">δύσοιστος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">toleratu difficilis</def>
+    <cit>
+      <bibl>Pr. 690</bibl>
+      <quote xml:lang="grc">δυσθέατα καὶ δύσοιστα πήματα.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 745</bibl>
+      <quote xml:lang="grc">ἄλγη δύσοιστα.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 789 819</bibl>
+      <quote xml:lang="grc">δύσοιστα πολίταις ἔπαθον.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysomilos">
+  <form>
+    <orth xml:lang="grc">δυσόμιλος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">is cum quo consuetudinem habere
+      <pb n="96"/>
+      difficile est, aegre affabilis</def>
+    <cit>
+      <bibl>Ag. 746</bibl>
+      <quote xml:lang="grc">δύσεδρος καὶ δυσόμιλος.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysommatos">
+  <form>
+    <orth xml:lang="grc">δυσόμματος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">caecus</def>
+    <cit>
+      <bibl>Eum. 389</bibl>
+      <quote xml:lang="grc">δερκομένοισι καὶ δυσομμάτοις ὁμῶς.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysormos">
+  <form>
+    <orth xml:lang="grc">δύσορμος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">importuosus</def>
+    <cit>
+      <bibl>Pers. 448</bibl>
+      <quote xml:lang="grc">νῆσός τις — βαιὰ, δύσορμος ναυσίν.</quote>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">De ventis adversis in portu retinentibus</def>
+    <cit>
+      <bibl>Ag. 194</bibl>
+      <quote xml:lang="grc">πνοαὶ — κακόσχολοι, νήστιδες, δύσορμοι.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysornis">
+  <form>
+    <orth xml:lang="grc">δύσορνις</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">male ominatus</def>
+    <cit>
+      <bibl>Sept. 838</bibl>
+      <quote xml:lang="grc">δύσορνις ἅδε ξυναυλία δορός.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyspalaistos">
+  <form>
+    <orth xml:lang="grc">δυσπάλαιστος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">vix eluctabilis, inexpugnabilis</def>
+    <cit>
+      <bibl>Ch. 692</bibl>
+      <quote xml:lang="grc">ὦ δυσπάλαιστε τῶνδε δωμάτων ᾿Αρά.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 468</bibl>
+      <quote xml:lang="grc">δυσπάλαιστα πράγματα.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyspalamos">
+  <form>
+    <orth xml:lang="grc">δυσπάλαμος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">superatu difficilis</def>
+    <cit>
+      <bibl>Eum. 846 880</bibl>
+      <quote xml:lang="grc">θεῶν δυσπάλαμοι – δόλοι.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyspalamos_adv">
+  <form>
+    <orth xml:lang="grc">δυσπαλάμως</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">sine auxilio, desperata salute</def>
+    <cit>
+      <bibl>Suppl. 867</bibl>
+      <quote xml:lang="grc">δυσπαλάμως ὄλοιο.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyspales">
+  <form>
+    <orth xml:lang="grc">δυσπαλής</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">non facile eluctabilis, aegre surandus</def>
+    <cit>
+      <bibl>Eum. 559</bibl>
+      <quote xml:lang="grc">ἐν μέσα δυσπαλεῖ τε δίνα.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysparaboulos">
+  <form>
+    <orth xml:lang="grc">δυσπαράβουλος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">cui difficulter persuadetur</def>
+    <cit>
+      <bibl>Suppl. 106</bibl>
+      <quote xml:lang="grc">δυσπαραβούλοισι φρεσίν.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysparathelktos">
+  <form>
+    <orth xml:lang="grc">δυσπαράθελκτος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">qui aegre commovetur</def>
+    <cit>
+      <bibl>Suppl. 386</bibl>
+      <quote xml:lang="grc">μένει τοι Ζηνὸς ἱκτίου κότος δυσπαράθελκτος παθόντος οἴκτοις.</quote>
+      <note xml:lang="lat">Sic Schuetzius pro <quote xml:lang="grc">ὦ δυσπαρθέλκτοις (δυσπαραθέλκτοις Robortellus) παθόντος οἴκτοις</quote>, quod est in M, adscripto <quote xml:lang="grc">δυσπαρθενήτοις</quote>.</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysparaitetos">
+  <form>
+    <orth xml:lang="grc">δυσπαραίτητος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">inexorabilis</def>
+    <cit>
+      <bibl>Pr. 34</bibl>
+      <quote xml:lang="grc">Διὸς τὰρ δυσπαραίτητοι φρένες.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysparegoros">
+  <form>
+    <orth xml:lang="grc">δυσπαρήγορος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">aegre mitigandus</def>
+    <cit>
+      <bibl>Eum. 384</bibl>
+      <quote xml:lang="grc">δυσπαρήγοροι βροτοῖς.</quote>
+      <note xml:lang="lat">Schol. <quote xml:lang="grc">οὐ ταχέως παρηγορούμεναι ὑπὸ βροτῶν</quote>.</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyspemptos">
+  <form>
+    <orth xml:lang="grc">δύσπεμπτος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">aegre emittendus</def>
+    <cit>
+      <bibl>Ag. 1190</bibl>
+      <quote xml:lang="grc">δύσπεμπτος ἔξω.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyspetos">
+  <form>
+    <orth xml:lang="grc">δυσπετῶς</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">aegre</def>
+    <cit>
+      <bibl>Pr. 752</bibl>
+      <quote xml:lang="grc">δυσπετῶς ἂν τοὺς ἐμοὺς ἄθλους φέροις.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyspemata">
+  <form>
+    <orth xml:lang="grc">[δυσπήματα]</orth>
+  </form>
+  <sense>
+    <note xml:lang="lat">scriptura vitiosa <bibl>Eum. 481</bibl>
+      <quote xml:lang="grc">ἀμφότερα, μένειν πέμπειν τε (sic Abreschius pro δέ) τάσδε δυσπήματ' (δυσπήμαντ᾿ Scaliger) ἀμηχάνως ἐμοί (ἔχει Butlerus).</quote> Quae sic correxi <quote xml:lang="grc">πέμπειν τε τάσδε, πῆμ᾽ ἀμηχάνως τ᾽ ἔχει.</quote> de quo v. quae in Praef. edit. Oxon. a. 1851 dixi p. XXV.</note>
+  </sense>
+</entry>
+<entry xml:id="dysplanos">
+  <form>
+    <orth xml:lang="grc">δύσπλανος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">misere errans</def>
+    <cit>
+      <bibl>Pr. 608</bibl>
+      <quote xml:lang="grc">φράζε τᾷ δυσπλάνῳ παρθένῳ.</quote>
+    </cit>
+    <cit>
+      <bibl>900</bibl>
+      <quote xml:lang="grc">δυσπλάνοις Ἥρας ἀλατείαις.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyspolemetos">
+  <form>
+    <orth xml:lang="grc">δυσπολέμητος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">haud facile debellandus</def>
+    <cit>
+      <bibl>Suppl. 647</bibl>
+      <quote xml:lang="grc">Δῖον ἐπιδόμενοι πράκτορά τε σκοπὸν δυσπολέμητον.</quote>
+      <note xml:lang="lat">
+        <quote xml:lang="grc">δυσπόλεμον, τὸν</quote> Butlerus,</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyspolemos">
+  <form>
+    <orth xml:lang="grc">δυσπόλεμος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">bello infelix</def>
+    <cit>
+      <bibl>Pers. 1013</bibl>
+      <quote xml:lang="grc">δυσπόλεμον δὴ γένος τὸ Περσᾶν.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysponetos">
+  <form>
+    <orth xml:lang="grc">δυσπόνητος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">labores afferens</def>
+    <cit>
+      <bibl>Pers. 515</bibl>
+      <quote xml:lang="grc">ὦ δυσπόνητε δαῖμον.</quote>
+      <note xml:lang="lat">Schol. <quote xml:lang="grc">δυστυχίας αἴτιε</quote>.</note>
+    </cit>
+    <note xml:lang="lat">Alterum huius vocabuli exemplum est ap. <bibl>Soph. OC. 1614</bibl>, ubi Oedipus filiabus suis dicit <quote xml:lang="grc">κοὐκέτι τὴν δυσπόνητον ἕξετ᾽ ἀμφ᾿ ἐμοὶ τροφήν</quote>, ubi schol. recte intelligit <quote xml:lang="grc">τὴν γηροκομίαν</quote>.</note>
+  </sense>
+</entry>
+<entry xml:id="dyspotmos">
+  <form>
+    <orth xml:lang="grc">δύσποτμος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">infortunatus, infelix</def>
+    <cit>
+      <bibl>Pr. 119</bibl>
+      <quote xml:lang="grc">ὁρᾶτε δεσμώτην με δύσποτμον θεόν.</quote>
+    </cit>
+    <cit>
+      <bibl>198</bibl>
+      <quote xml:lang="grc">πανταχῆ δὲ δύσποτμα.</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 813</bibl>
+      <quote xml:lang="grc">δύσποτμον γένος.</quote>
+    </cit>
+    <cit>
+      <bibl>819</bibl>
+      <quote xml:lang="grc">πατρὸς κατ᾿ εὐχὰς δυσπότμους φορούμενοι.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 306</bibl>
+      <quote xml:lang="grc">δυσπότμῳ βοΐ.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyspotmos_adv">
+  <form>
+    <orth xml:lang="grc">δυσπότμως</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">infeliciter</def>
+    <cit>
+      <bibl>Pers. 272</bibl>
+      <quote xml:lang="grc">νεκρῶν δυσπότμως ἐφθαρμένων.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyspotos">
+  <form>
+    <orth xml:lang="grc">δύσποτος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">non potabilis</def>
+    <cit>
+      <bibl>Eum. 266</bibl>
+      <quote xml:lang="grc">βοσκάν φεροίμαν πώματος δυσπότου.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysprageo">
+  <form>
+    <orth xml:lang="grc">δυσπραγέω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">infelix sum</def>
+    <cit>
+      <bibl>Ag. 790</bibl>
+      <quote xml:lang="grc">τῷ δυσπραγοῦντι δ᾽ ἐπιστενάχειν.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyspraxia">
+  <form>
+    <orth xml:lang="grc">δυσπραξία</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">miseria</def>
+    <cit>
+      <bibl>Pr. 966</bibl>
+      <quote xml:lang="grc">τὴν ἐμὴν δυσπραξίαν.</quote>
+    </cit>
+    <cit>
+      <bibl>[Eum. 769]</bibl>
+      <quote xml:lang="grc">ἀμηχάνοισι ξίαις.</quote>
+    </cit>
+  </sense>
+</entry>
+<col/>
+<entry xml:id="dyssebeia">
+  <form>
+    <orth xml:lang="grc">δυσσέβεια</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">impietas</def>
+    <cit>
+      <bibl>Ch. 704</bibl>
+      <quote xml:lang="grc">πρὸς δυσσεβείας ἦν ἐμοὶ τόδ᾽ ἐν φρεσίν.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyssebeo">
+  <form>
+    <orth xml:lang="grc">δυσσεβέω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">impius sum</def>
+    <cit>
+      <bibl>Eum. 910</bibl>
+      <quote xml:lang="grc">τῶν δυσσεβούντων δ᾽ ἐκφορωτέρα πέλοις.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyssebes">
+  <form>
+    <orth xml:lang="grc">δυσσεβής</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">impius</def>
+    <cit>
+      <bibl>Sept. 598</bibl>
+      <quote xml:lang="grc">τοῖσι δυσσεβεστέροις.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 219</bibl>
+      <quote xml:lang="grc">φρενὸς πνέων δυσσεβή τροπαίαν.</quote>
+    </cit>
+    <cit>
+      <bibl>757</bibl>
+      <quote xml:lang="grc">τὸ δυσσεβές γὰρ ἔργον μετὰ μὲν πλείονα τίκτει.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyssebia">
+  <form>
+    <orth xml:lang="grc">δυσσεβία</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">impietas</def>
+    <cit>
+      <bibl>Eum. 533</bibl>
+      <quote xml:lang="grc">δυσσεβίας μὲν ὕβρις τέκος.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dystekmartos">
+  <form>
+    <orth xml:lang="grc">δυστέκμαρτος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">intellectu difficilis</def>
+    <cit>
+      <bibl>Pr. 497</bibl>
+      <quote xml:lang="grc">δυστέκμαρτον εἰς τέχνην ὥδωσα θνητούς.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysterpes">
+  <form>
+    <orth xml:lang="grc">δυστερπής</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">iniucundus</def>
+    <cit>
+      <bibl>[Ch. 277]</bibl>
+      <quote xml:lang="grc">πολλὰ δυστερπῆ κακά.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dystenos">
+  <form>
+    <orth xml:lang="grc">δύστηνος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">miser</def>
+    <note xml:lang="lat">(Doricae formae <quote xml:lang="grc">δύστανος</quote> nulla apud Aeschylum exempla reperiuntur: nam <quote xml:lang="grc">δυστάνων</quote>, quod legitur in M <bibl>Sept. 999</bibl>, ex <quote xml:lang="grc">δυστόνων</quote> corruptum est)</note>
+    <cit>
+      <bibl>Pr. 656</bibl>
+      <quote xml:lang="grc">ὀνείρασιν ξυνειχόμην δύστηνος.</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 1032</bibl>
+      <quote xml:lang="grc">ἀπὸ δυστήνου πατρός.</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 290</bibl>
+      <quote xml:lang="grc">σιγῶ πάλαι δύστηνος.</quote>
+    </cit>
+    <cit>
+      <bibl>463</bibl>
+      <quote xml:lang="grc">κρεοκοποῦσι δυστήνων μέλη.</quote>
+    </cit>
+    <cit>
+      <bibl>909</bibl>
+      <quote xml:lang="grc">ἰὼ δύστηνος ἐγώ.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 652</bibl>
+      <quote xml:lang="grc">τὸν δύστηνον ᾿Αργείων στρατόν.</quote>
+    </cit>
+    <cit>
+      <bibl>1655</bibl>
+      <quote xml:lang="grc">δύστηνον θέρος.</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 208</bibl>
+      <quote xml:lang="grc">σιτουμένην δύστηνον ἀθλίαν φάβα.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dystletos">
+  <form>
+    <orth xml:lang="grc">δύστλητος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">toleratu difficilis</def>
+    <cit>
+      <bibl>Ag. 1571</bibl>
+      <quote xml:lang="grc">τάδε μὲν στέργειν δύστλητά περ ὄντα.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dystonos">
+  <form>
+    <orth xml:lang="grc">δύστονος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">deplorabilis</def>
+    <cit>
+      <bibl>Sept. 984</bibl>
+      <quote xml:lang="grc">δύστονα κήδε᾽ ὁμώνυμα.</quote>
+      <note xml:lang="lat">Versus vitiosus: nam requiritur iambicus dimeter, qualem ego coniectura incerta restitui <quote xml:lang="grc">dύστανος ἀ κηδεμονία</quote>.</note>
+    </cit>
+    <cit>
+      <bibl>Sept. 998</bibl>
+      <quote xml:lang="grc">ἰὼ ἰὼ δυστόνων κακῶν,</quote>
+      <note xml:lang="lat">ubi <quote xml:lang="grc">δυστόνων</quote> ex apogr. restitutum pro <quote xml:lang="grc">δυστάνων</quote>, quod est in M.</note>
+    </cit>
+    <cit>
+      <bibl>Ch. 469</bibl>
+      <quote xml:lang="grc">ἰὼ δύστον᾽ ἄφερτα κήδη.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dystycheo">
+  <form>
+    <orth xml:lang="grc">δυστυχέω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">infelix sum</def>
+    <cit>
+      <bibl>Pr. 345</bibl>
+      <quote xml:lang="grc">εἰ δυστυχῶ.</quote>
+    </cit>
+    <cit>
+      <bibl>508</bibl>
+      <quote xml:lang="grc">σαυτοῦ δ᾽ ἀκήδει δυστυχούντος.</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 482</bibl>
+      <quote xml:lang="grc">ἐπεύχομαι τῷ μὲν εὐτυχεῖν τοῖσι δὲ δυστυχεῖν.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 338</bibl>
+      <quote xml:lang="grc">καὶ δυστυχούντων γ᾽ εὐμαρὴς ἀπαλλαγή.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dystyches">
+  <form>
+    <orth xml:lang="grc">δυστυχής</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">infelix</def>
+    <cit>
+      <bibl>Sept. 339</bibl>
+      <quote xml:lang="grc">πολλά – δυστυχῆ τε πράσσει.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 913</bibl>
+      <quote xml:lang="grc">τεκοῦσα γάρ μ᾽ ἔρριψας ἐς τὸ δυστυχές.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 791 821</bibl>
+      <quote xml:lang="grc">μεγάλα τοι κόραι δυστυχεῖς.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dystychos">
+  <form>
+    <orth xml:lang="grc">δυστυχῶς</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">infeliciter</def>
+    <cit>
+      <bibl>Ag. 1660</bibl>
+      <quote xml:lang="grc">δαίμονος χολῇ βαρείᾳ δυστυχῶς πεπληγμένοι.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysphatos">
+  <form>
+    <orth xml:lang="grc">δύσφατος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">nefandus</def>
+    <cit>
+      <bibl>Ag. 1152</bibl>
+      <quote xml:lang="grc">δυσφάτῳ κλαγγᾷ.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysphemeo">
+  <form>
+    <orth xml:lang="grc">δυσφημέω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">male ominata dico</def>
+    <cit>
+      <bibl>Ag. 1078</bibl>
+      <quote xml:lang="grc">δυσφημοῦσα τὸν θεὸν καλεῖ.</quote>
+    </cit>
+  </sense>
+</entry>
+
+<entry xml:id="dysphiles">
+  <form>
+    <orth xml:lang="grc">δυσφιλής</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">odiosus</def>
+    <cit>
+      <bibl>Ag. 1232</bibl>
+      <quote xml:lang="grc">δυσφιλές δάκος.</quote>
+    </cit>
+    <cit>
+      <bibl>1641</bibl>
+      <quote xml:lang="grc">ὁ δυσφιλής σκότῳ λιμός ξύνοικος.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 624</bibl>
+      <quote xml:lang="grc">δυσφιλές γαμήλευμα.</quote>
+    </cit>
+    <cit>
+      <bibl>637</bibl>
+      <quote xml:lang="grc">σέβει γὰρ οὔτις τὸ δυσφιλές θεοῖς.</quote>
+    </cit>
+    <cit>
+      <bibl>1058</bibl>
+      <quote xml:lang="grc">ἐξ ὀμμάτων στάζουσιν αἷμα δυσφιλές.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 54</bibl>
+      <quote xml:lang="grc">ἐκ δ᾽ ὀμμάτων λείβουσι δυσφιλῆ λίβα.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysphoreo">
+  <form>
+    <orth xml:lang="grc">δυσφορεω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">graviter fero</def>
+    <cit>
+      <bibl>Sept. 780</bibl>
+      <quote xml:lang="grc">ἐπ᾿ ἄλγει δυσφορῶν.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 513</bibl>
+      <quote xml:lang="grc">οὔτοι τι θαῦμα δυσφορεῖν φόβῳ φρενός.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysphoros">
+  <form>
+    <orth xml:lang="grc">δύσφορος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">aegre tolerabilis</def>
+    <cit>
+      <bibl>Sept. 657</bibl>
+      <quote xml:lang="grc">δυσφορώτερος γόος.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 859</bibl>
+      <quote xml:lang="grc">ἐμαυτῆς δύσφορον λέξω βίον.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 372</bibl>
+      <quote xml:lang="grc">δύσφορον ἄταν.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 818</bibl>
+      <quote xml:lang="grc">ὕβριν δύσφορον,</quote>
+      <note xml:lang="lat">ubi prodύσφορον, quod metro repugnat, ἄφερτον coniecit M. Schmidtius.</note>
+    </cit>
+    <cit>
+      <bibl>804</bibl>
+      <quote xml:lang="grc">δύσφορα ναΐ κἀν γᾷ.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysphoros_xref">
+  <form>
+    <orth xml:lang="grc">[δυσφόρως]</orth>
+  </form>
+  <sense>
+    <note xml:lang="lat">vitiose pro δυσμόρως, quod v.</note>
+  </sense>
+</entry>
+<entry xml:id="dysphronos">
+  <form>
+    <orth xml:lang="grc">δυσφρόνως</orth>
+  </form>
+  <sense>
+    <cit>
+      <bibl>Pers. 552</bibl>
+      <quote xml:lang="grc">Ξέρξης δὲ πάντ᾽ ἐπέσπε δυσφρόνως,</quote>
+      <note xml:lang="lat">ubi quum nec temerarii nec malevoli significatio apta sit, δυσφόρως conieci.</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dysphronis">
+  <form>
+    <orth xml:lang="grc">δύσφρωνίς</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">cui mens male se habet, tristis</def>
+    <cit>
+      <bibl>Ag. 1547</bibl>
+      <quote xml:lang="grc">πόθεν τὸ δύσφρον τοῦτ᾽ ἐπῆν στύγος στρατῷ;</quote>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">malevolus, inimicus</def>
+    <cit>
+      <bibl>Ag. 608</bibl>
+      <quote xml:lang="grc">πολεμίαν τοῖς
+        <pb n="97"/>
+        97 δύσφροσιν.</quote>
+    </cit>
+    <cit>
+      <bibl>834</bibl>
+      <quote xml:lang="grc">δύσφρων γὰρ ἰὸς καρδίαν προσή- μενος.</quote>
+    </cit>
+    <cit>
+      <bibl>[Ch. 278]</bibl>
+      <quote xml:lang="grc">δυσφρόνων μειλίγματα.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 394</bibl>
+      <quote xml:lang="grc">μήχαρ ὁρίζομαι γάμου δύσφρονος.</quote>
+    </cit>
+    <cit>
+      <bibl>511</bibl>
+      <quote xml:lang="grc">δρακόντων δυσφρόνων ἐχθίοσιν.</quote>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">imprudens</def>
+    <cit>
+      <bibl>Sept. 874</bibl>
+      <quote xml:lang="grc">ἰὼ ἰὼ δύσφρονες.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyscharistos">
+  <form>
+    <orth xml:lang="grc">δυσχάριστος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">ingratus</def>
+    <cit>
+      <bibl>Fr. 134</bibl>
+      <quote xml:lang="grc">ὦ δυσχάριστε,</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyscheimeros">
+  <form>
+    <orth xml:lang="grc">δυσχείμερος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">tempestatibus obnoxius, iactatus</def>
+    <cit>
+      <bibl>Pr. 15</bibl>
+      <quote xml:lang="grc">φάραγγι πρὸς δυσχειμέρῳ.</quote>
+    </cit>
+    <cit>
+      <bibl>746</bibl>
+      <quote xml:lang="grc">δυσχείμερόν γε πέλαγος ἀτηρᾶς δύης.</quote>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">tempestatis instar iactans</def>
+    <cit>
+      <bibl>Ch. 271</bibl>
+      <quote xml:lang="grc">δυσχειμέρους ἄτας.</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 195</bibl>
+      <quote xml:lang="grc">δυσχειμέρῳ πέμφιγι συστρέψας.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyscheres">
+  <form>
+    <orth xml:lang="grc">δυσχερής</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">gravis, horrendus</def>
+    <cit>
+      <bibl>Pr. 802</bibl>
+      <quote xml:lang="grc">δυσχερῆ θεωρίαν.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 568</bibl>
+      <quote xml:lang="grc">βοτὸν ἐσορῶντες δυσχερές μιξόμβροτον.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dyschimos">
+  <form>
+    <orth xml:lang="grc">δύσχιμος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">malus, perniciosus</def>
+    <cit>
+      <bibl>Sept. 503</bibl>
+      <quote xml:lang="grc">δράκοντα δύσχιμον.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 186</bibl>
+      <quote xml:lang="grc">σταγόνες ἄφαρκτοι δυσχίμου πλημμυρίδος.</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 567</bibl>
+      <quote xml:lang="grc">Θρήκης ἂμ πεδιήρεις δυσχίμους τε κελεύθους.</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 379</bibl>
+      <quote xml:lang="grc">δέσποινα νύμφη δυσχίμων ὀρῶν ἄναξ.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dodeka">
+  <form>
+    <orth xml:lang="grc">δώδεκα</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">duodecim</def>
+    <cit>
+      <bibl>Fr. 155</bibl>
+      <quote xml:lang="grc">δώδεχ᾿ ἡμερῶν ὁδόν.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dodonaios">
+  <form>
+    <orth xml:lang="grc">Δωδωναῖος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">Dodonaeus</def>
+    <cit>
+      <bibl>Suppl. 258</bibl>
+      <quote xml:lang="grc">ὄρη τε Δωδωναία.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dodone">
+  <form>
+    <orth xml:lang="grc">Δωδώνη</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">Dodona</def>
+    <cit>
+      <bibl>Pr. 658</bibl>
+      <quote xml:lang="grc">κἀπὶ Δωδώνης πυκνοὺς θεοπρόπους ἴαλλεν.</quote>
+    </cit>
+    <cit>
+      <bibl>830</bibl>
+      <quote xml:lang="grc">τὴν αἰπύνωτόν τ᾽ ἀμφὶ Δωδώνην.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="doma">
+  <form>
+    <orth xml:lang="grc">δῶμα</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">domus</def>
+    <cit>
+      <bibl>Sept. 479</bibl>
+      <quote xml:lang="grc">λαφύροις δῶμα κοσμήσει πατρός.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 410</bibl>
+      <quote xml:lang="grc">ἰὼ ἰὼ δῶμα δῶμα καὶ πρόμοι.</quote>
+    </cit>
+    <cit>
+      <bibl>911</bibl>
+      <quote xml:lang="grc">ἐς δῶμ᾽ ἄελπτον ὡς ἂν ἡγῆται Δίκη.</quote>
+    </cit>
+    <cit>
+      <bibl>972</bibl>
+      <quote xml:lang="grc">ἀνδρὸς τελείου δῶμ᾽ ἐπιστρωφωμένου.</quote>
+    </cit>
+    <cit>
+      <bibl>1349</bibl>
+      <quote xml:lang="grc">πρὸς δῶμα δεῦρ᾽ ἀστοῖσι κηρύσσειν βοήν.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 237</bibl>
+      <quote xml:lang="grc">δῶμ᾽ ἀνακτήσει πατρός.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 379</bibl>
+      <quote xml:lang="grc">κατὰ δώματος.</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 648</bibl>
+      <quote xml:lang="grc">ἐνθουσιᾷ δὴ δῶμα, βακχεύει στέγη.</quote>
+    </cit>
+    <cit>
+      <bibl>96</bibl>
+      <quote xml:lang="grc">ὄξους σπανίζειν δῶμα.</quote>
+    </cit>
+    <cit>
+      <bibl>160</bibl>
+      <quote xml:lang="grc">ὅταν κακῶσαι δῶμα παμπήδην θέλῃ.</quote>
+    </cit>
+    <note xml:lang="lat">- Numero plurali</note>
+    <cit>
+      <bibl>Suppl. 957</bibl>
+      <quote xml:lang="grc">δώματ᾽ ἔστι πολλὰ μὲν τὰ δήμια.</quote>
+    </cit>
+    <cit>
+      <bibl>Pr. 670</bibl>
+      <quote xml:lang="grc">ἐξήλασέν με κἀπέκλησε δωμάτων.</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 335</bibl>
+      <quote xml:lang="grc">διαμεῖψαι δωμάτων στυγερὰν ὁδόν.</quote>
+    </cit>
+    <cit>
+      <bibl>648</bibl>
+      <quote xml:lang="grc">πατρώων δωμάτων τ᾽ ἐπιστροφάς.</quote>
+    </cit>
+    <cit>
+      <bibl>880</bibl>
+      <quote xml:lang="grc">δωμάτων ἐρειψίτοιχοι.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 377</bibl>
+      <quote xml:lang="grc">φλεόντων δωμάτων.</quote>
+    </cit>
+    <cit>
+      <bibl>607</bibl>
+      <quote xml:lang="grc">δωμάτων κύνα.</quote>
+    </cit>
+    <cit>
+      <bibl>914</bibl>
+      <quote xml:lang="grc">δωμάτων ἐμῶν φύλαξ.</quote>
+    </cit>
+    <cit>
+      <bibl>1673</bibl>
+      <quote xml:lang="grc">κρατοῦντε τῶνδε δωμάτων.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 84</bibl>
+      <quote xml:lang="grc">δωμάτων εὐθήμονες.</quote>
+    </cit>
+    <cit>
+      <bibl>408</bibl>
+      <quote xml:lang="grc">δωμάτων ἄτιμα.</quote>
+    </cit>
+    <cit>
+      <bibl>[650]</bibl>
+      <quote xml:lang="grc">δωμάτων παλαιτέρων τίνειν μύσος.</quote>
+      <note xml:lang="lat">ubi sensus postulat αἱμάτων, quod ex schol. restituit Canterus.</note>
+    </cit>
+    <cit>
+      <bibl>655</bibl>
+      <quote xml:lang="grc">τρίτον τόδ᾽ ἐκπέραμα δωμάτων καλῶ.</quote>
+    </cit>
+    <cit>
+      <bibl>658</bibl>
+      <quote xml:lang="grc">τοῖσι κυρίοισι δωμάτων.</quote>
+    </cit>
+    <cit>
+      <bibl>663</bibl>
+      <quote xml:lang="grc">ἐξελθέτω τις δωμάτων τελεσφόρος γυνή.</quote>
+    </cit>
+    <cit>
+      <bibl>692</bibl>
+      <quote xml:lang="grc">ὦ δυσπάλαιστε τῶνδε δωμάτων ᾿Αρά.</quote>
+    </cit>
+    <cit>
+      <bibl>716</bibl>
+      <quote xml:lang="grc">τοῖς κρατοῦσι δωμάτων.</quote>
+    </cit>
+    <cit>
+      <bibl>732</bibl>
+      <quote xml:lang="grc">δωμάτων πύλας.</quote>
+    </cit>
+    <cit>
+      <bibl>800</bibl>
+      <quote xml:lang="grc">ἔσωθε δωμάτων.</quote>
+    </cit>
+    <cit>
+      <bibl>820</bibl>
+      <quote xml:lang="grc">πλοῦτον δωμάτων λυτήριον.</quote>
+    </cit>
+    <cit>
+      <bibl>966</bibl>
+      <quote xml:lang="grc">πρόθυρα δωμάτων.</quote>
+    </cit>
+    <cit>
+      <bibl>974</bibl>
+      <quote xml:lang="grc">δωμάτων πορθήτορας.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 63</bibl>
+      <col/>
+      <quote xml:lang="grc">δωμάτων καθάρσιος.</quote>
+    </cit>
+    <cit>
+      <bibl>354</bibl>
+      <quote xml:lang="grc">δωμάτων γὰρ εἰλόμαν ἀνατροπάς.</quote>
+    </cit>
+    <cit>
+      <bibl>547</bibl>
+      <quote xml:lang="grc">ξενοτίμους ἐπιστροφάς δωμάτων.</quote>
+    </cit>
+    <cit>
+      <bibl>740</bibl>
+      <quote xml:lang="grc">ἄνδρα – δωμάτων ἐπίσκοπον.</quote>
+    </cit>
+    <cit>
+      <bibl>827</bibl>
+      <quote xml:lang="grc">κλῇδας οἶδα δωμάτων.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 365</bibl>
+      <quote xml:lang="grc">δωμάτων ἐφέστιοι ἐμῶν,</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 996</bibl>
+      <quote xml:lang="grc">δώμασι καὶ χθονί.</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 300</bibl>
+      <quote xml:lang="grc">ἐμοῖς μὲν εἶπας δώμασιν φάος μέγα.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 773</bibl>
+      <quote xml:lang="grc">ἐν δυσκάπνοις δώμάσιν.</quote>
+    </cit>
+    <cit>
+      <bibl>1119</bibl>
+      <quote xml:lang="grc">ποίαν Ἐρινὺν τήνδε δώμασιν κέλει ἐπορθιάζειν;</quote>
+    </cit>
+    <cit>
+      <bibl>1191</bibl>
+      <quote xml:lang="grc">δώμασιν προσήμεναι.</quote>
+    </cit>
+    <cit>
+      <bibl>1312</bibl>
+      <quote xml:lang="grc">οὐ Σύριον ἀγλάϊσμα δώμασιν λέγεις.</quote>
+    </cit>
+    <cit>
+      <bibl>1469</bibl>
+      <quote xml:lang="grc">δαῖμον, ὃς ἐμπίτνεις δώμασι.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 36</bibl>
+      <quote xml:lang="grc">γυναικείοισιν ἐν δώμασιν βαρὺς πίτνων.</quote>
+    </cit>
+    <cit>
+      <bibl>235</bibl>
+      <quote xml:lang="grc">ὦ φίλτατον μέλημα δώμασιν πατρός.</quote>
+    </cit>
+    <cit>
+      <bibl>354</bibl>
+      <quote xml:lang="grc">δώμασιν εὐφόρητον.</quote>
+    </cit>
+    <cit>
+      <bibl>471</bibl>
+      <quote xml:lang="grc">δώμασιν ἔμμοτον τῶνδ᾽ ἄκος.</quote>
+    </cit>
+    <cit>
+      <bibl>708</bibl>
+      <quote xml:lang="grc">οὐδ᾽ ἦσσον ἂν γένοιο δώμασιν φίλος.</quote>
+    </cit>
+    <cit>
+      <bibl>714</bibl>
+      <quote xml:lang="grc">κυρούντων δώμασιν τὰ πρόσφορα.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 654</bibl>
+      <quote xml:lang="grc">δώματ᾿ οἰκήσει πατρός.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 325</bibl>
+      <quote xml:lang="grc">πῶς πατρῷα δώματα λιπεῖν ἔτλητε;</quote>
+    </cit>
+    <cit>
+      <bibl>972</bibl>
+      <quote xml:lang="grc">ὅπου χρὴ δώματα ναίειν.</quote>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">De templis deorum</def>
+    <cit>
+      <bibl>Eum. 242</bibl>
+      <quote xml:lang="grc">πρόσειμι δῶμα καὶ βρέτας τὸ σὸν, θεά.</quote>
+    </cit>
+    <cit>
+      <bibl>178</bibl>
+      <quote xml:lang="grc">ἔξω — τῶνδε δωμάτων (Apollinis).</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 291</bibl>
+      <quote xml:lang="grc">κληδοῦχον Ἥρας φασὶ δωμάτων ποτὲ Ἰὼ γενέσθαι.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="domatitis">
+  <form>
+    <orth xml:lang="grc">δωματῖτις</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">domestica</def>
+    <cit>
+      <bibl>Ag. 968</bibl>
+      <quote xml:lang="grc">καὶ σοῦ μολόντος δωματῖτιν ἑστίαν.</quote>
+    </cit>
+    <note xml:lang="lat">Femininum nusquam alibi legitur: masculinum Ποσειδῶν δωματίτης est apud Pausan. 3, 14, 7.</note>
+  </sense>
+</entry>
+<entry xml:id="domatoo">
+  <form>
+    <orth xml:lang="grc">δωματόω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">domum exstruo</def>
+    <cit>
+      <bibl>Suppl. 958</bibl>
+      <quote xml:lang="grc">δεδωμάτωμαι δ᾽ οὐδ᾽ ἐγὼ σμικρᾷ χερί,</quote>
+      <note xml:lang="lat">mihi quoque domus exstructa est.</note>
+    </cit>
+    <note xml:lang="lat">Hoc quoque vocabulum Aeschylo proprium.</note>
+  </sense>
+</entry>
+<entry xml:id="dorea">
+  <form>
+    <orth xml:lang="grc">δωρεά</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">donum</def>
+    <cit>
+      <bibl>Pr. 338</bibl>
+      <quote xml:lang="grc">αὐχῶ τήνδε δωρεάν ἐμοὶ δώσειν Δία.</quote>
+    </cit>
+    <cit>
+      <bibl>616</bibl>
+      <quote xml:lang="grc">οὔκουν πόροις ἂν τήνδε δωρεὰν ἐμοί;</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="doreomai">
+  <form>
+    <orth xml:lang="grc">δωρέομαι</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">dono</def>
+    <cit>
+      <bibl>Pr. 251</bibl>
+      <quote xml:lang="grc">μέγ᾿ ὠφέλημα τοῦτ᾽ ἐδωρήσω βροτοῖς.</quote>
+    </cit>
+    <cit>
+      <bibl>778</bibl>
+      <quote xml:lang="grc">δυοῖν λόγοιν σε θατέρω δωρήσομαι.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dorema">
+  <form>
+    <orth xml:lang="grc">δώρημα</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">donum</def>
+    <cit>
+      <bibl>Pr. 626</bibl>
+      <quote xml:lang="grc">ἀλλ᾽ οὐ μεγαίρω τοῦδέ σοι δωρήματος.</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 523</bibl>
+      <quote xml:lang="grc">γῇ τε καὶ φθιτοῖς δωρήματα ἥξω λαβούσα.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 955</bibl>
+      <quote xml:lang="grc">στρατοῦ δώρημα.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 402</bibl>
+      <quote xml:lang="grc">ἐξαίρετον δώρημα Θησέως τόκοις.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="dorikos">
+  <form>
+    <orth xml:lang="grc">Δωρικός</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">Doricus, Graecus</def>
+    <cit>
+      <bibl>Pers. 183</bibl>
+      <quote xml:lang="grc">ἡ μὲν πέπλοισι Περσικοῖς ἠσκημένη, ἡ δ᾽ αὐτε Δωρικοῖσιν.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="doris">
+  <form>
+    <orth xml:lang="grc">Δωρίς</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">Dorica, Graeca</def>
+    <cit>
+      <bibl>Pers. 817</bibl>
+      <quote xml:lang="grc">Δωρίδος λόγχης ὕπο.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="doron">
+  <form>
+    <orth xml:lang="grc">δῶρον</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">donum</def>
+    <cit>
+      <bibl>Sept. 625</bibl>
+      <quote xml:lang="grc">θεοῦ δὲ δῶρόν ἐστιν εὐτυχεῖν βροτούς.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 91</bibl>
+      <quote xml:lang="grc">βωμοί δώροισι φλέγονταί.</quote>
+    </cit>
+    <cit>
+      <bibl>928</bibl>
+      <quote xml:lang="grc">τὸ μὴ κακώς φρονεῖν θεοῦ μέγιστον δῶρον.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 177</bibl>
+      <quote xml:lang="grc">μῶν οὖν Ὀρέστου κρύβδα δῶρον ἦν τόδε;</quote>
+    </cit>
+    <cit>
+      <bibl>519</bibl>
+      <quote xml:lang="grc">τὰ δῶρα μείω δ᾽ ἐστὶ τῆς ἁμαρτίας.</quote>
+    </cit>
+    <cit>
+      <bibl>617</bibl>
+      <quote xml:lang="grc">πιθήσασα δώροισι Μίνω.</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 156</bibl>
+      <quote xml:lang="grc">Θάνατος οὐ δώρων ἐρᾷ.</quote>
+    </cit>
+    <cit>
+      <bibl>184</bibl>
+      <quote xml:lang="grc">ποῦ μοι τὰ πολλὰ δῶρα κάκροθίνια;</quote>
+    </cit>
+  </sense>
+</entry>
+
+
+<entry xml:id="he">
+  <form>
+    <orth xml:lang="grc">ἕ</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">accusativus pronominis <quote xml:lang="grc">ἵ</quote>, quod v.</def>
+  </sense>
+</entry>
+<entry xml:id="ee_vitiose">
+  <form>
+    <orth xml:lang="grc">[ἒ ἔ]</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">vitiose pro <quote xml:lang="grc">ἐή</quote>, quod v.</def>
+  </sense>
+</entry>
+<entry xml:id="ea">
+  <form>
+    <orth xml:lang="grc">ἔα</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">imperativus verbi <quote xml:lang="grc">čáw</quote>, qui in interiectionem transiit <quote xml:lang="grc">ἐκπληκτικήν</quote>, ut grammatici vocant, qua utuntur qui ad res inexspectatas obstupescunt, vel simplici, vel, quod frequentius, duplicata.</def>
+    <cit>
+      <note xml:lang="lat">Sic ča extra versum positum</note>
+      <bibl>Pr. 298</bibl>
+      <quote xml:lang="grc">ἔα, | τί χρῆμα λεύσσω;</quote>
+      <note xml:lang="lat">unde Ch. 10 ante versum ab <quote xml:lang="grc">τί χρήμα λεύσσω</quote> incipientem <quote xml:lang="grc">ča</quote> excidisse conieci.</note>
+    </cit>
+    <cit>
+      <bibl>Pr. 114</bibl>
+      <note xml:lang="lat">ubi ante versum bacchiacum legebatur <quote xml:lang="grc">ἆ<col/>ἆ ἔα ἔα</quote>, ego <quote xml:lang="grc">da</quote> scripsi, deleto <quote xml:lang="grc">ča ča</quote>, quod recte factum esse docet v. 566, ubi <quote xml:lang="grc">da</quote> ante trimetrum iambicum restitui pro <quote xml:lang="grc">ἆ ἆ ἒ ἔ</quote>, quod legitur in M, litteris <quote xml:lang="grc">ἒ ἔ</quote> glossema <quote xml:lang="grc">ἔα ἔα</quote> ad <quote xml:lang="grc">ἆ ἆ</quote> adscriptum significantibus.</note>
+    </cit>
+    <cit>
+      <note xml:lang="lat">Recte vero legitur</note>
+      <bibl>Pr. 687</bibl>
+      <quote xml:lang="grc">ἔα ἔα, ἄπεχε φεῦ.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 870</bibl>
+      <quote xml:lang="grc">ἔα ἔα μάλα · πῶς ἔχει; πῶς κέκρανται δόμοις,</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="ean">
+  <form>
+    <orth xml:lang="grc">ἐάν</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">si, particula condicionalis</def>
+    <note xml:lang="lat">de qua in Lexico Sophocleo p. 131 haec scripsi "ἐάν ab εἰ eo differt, quod εἰ est particula logica et quae simpliciter ad
+      <pb n="98"/>
+      98
+      cogitationem refertur, ἐάν autem ad experientiae significationem adhibetur, ut observavit Hermannus. Ex εἰ ἄν conflatam esse grammaticorum opinio est: v. schol. Dionysii Thr, in Bekk. Anecd. p. 951, 16. Etym. M. p. 307, 24. Eustath. p. 825, 26. Formae eius sunt tres, ἐάν ἤν et ἄν, quarum duabus prioribus poetae scenici aliique Attici veteres promiscue utuntur, tertia posterioris est Atticismi et dialecti communis, de quo dictum in Thesauro vol. 3 p. 4. Crasis cum και ubi facienda est, κἄν scribitur, non κἤν, quod Ionicum foret, non Atticum. Ad mensuram quod attinet, non solum av longum est eoque differt a particula potentiali ἄv, quae brevis est, sed etiam disyllabae formae ἐάν syllaba altera producitur, quod diu ignoratum comicorum aliorumque poetarum exemplis, quae partim ab librariis partim ab editoribus obscurata erant, demonstravi in annot. Oxon. ad Arist. Vesp. 228 p. 466. In tragicorum reliquiis casu accidit ut unum tantum quo huius voculae mensura declarari possit exemplum inveniatur, Sophoclis OC. 1407 <quote xml:lang="grc">μή τοί με πρὸς θεῶν σφώ γ᾽, ἐὰν αἱ τοῦδ᾽ ἀραὶ | πατρὸς τελῶνται</quote>, ubi codex <quote xml:lang="grc">σφῶῖν γ᾽ ἄν</quote>, quod correxit Elmsleius eaque emendatione rectam mensuram sibi cognitam fuisse prodidit, cuius ignarus Brunckius <quote xml:lang="grc">σφῶν ἐάν γ᾽ αἱ</quote> scripserat." Alterum huius mensurae exemplum Sophocli fortasse restituendum OR. 1062, ubi codex vitiose <quote xml:lang="grc">οὐδ᾽ ἐὰν ἐκ τρίτης ἐγὼ μητρὸς φανῶ τρίδουλος</quote>, ubi ego conieci <quote xml:lang="grc">οὐδ᾽ ἐὰν ἐγὼ ἐκ τρίτης</quote>, sed pari iure <quote xml:lang="grc">οὐδ᾽ ἐὰν τρίτης ἐγὼ</quote> scribi potest cum Hermanno. Eadem fere ratio loci est Aeschylei Pr. 772, ubi in M legitur <quote xml:lang="grc">οὐ δῆτα, πλὴν ἐγώ γ᾽ ἂν ἐκ δεσμῶν λυθείς</quote> (recte <quote xml:lang="grc">λυθῶ</quote> in apogr.), quod ego sic correxi <quote xml:lang="grc">πλὴν ἐὰν ἐγὼ ἐκ δεσμῶν λυθώ</quote>.</note>
+    <note xml:lang="lat">Exempla particulae, quae cum solo construitur coniunctivo, Aeschylea haec sunt:</note>
+    <cit>
+      <bibl>Pr. 326</bibl>
+      <quote xml:lang="grc">πειράσομαι, ἐὰν δύνωμαι τῶνδέ σ᾽ ἐκλῦσαι πόνων.</quote>
+      <note xml:lang="lat">ubi incertum est utrum <quote xml:lang="grc">ἐὰν δύνωμαι</quote> in parenthesi positum sit an cum <quote xml:lang="grc">πειράσομαι</quote> constructum in interrogatione indirecta, ut apud Platonem Leg. 1 p. 638e <quote xml:lang="grc">πειρώμενος ἂν ἄρὰ ἄρ δύνωμαι</quote>.</note>
+    </cit>
+    <cit>
+      <bibl>Pr. 379</bibl>
+      <quote xml:lang="grc">ἐάν τις ἐν καιρῷ γε μαλθάσση κέαρ.</quote>
+    </cit>
+    <cit>
+      <bibl>1014</bibl>
+      <quote xml:lang="grc">ἐὰν μὴ τοῖς ἐμοῖς πεισθῆς λόγοις.</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 242</bibl>
+      <quote xml:lang="grc">ἐὰν θνήσκοντας ἢ τετρωμένους πύθησθε.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1424</bibl>
+      <quote xml:lang="grc">ἐὰν δὲ τούμπαλιν κραίνῃ θεὸς, γνώσει.</quote>
+    </cit>
+    <cit>
+      <bibl>1667</bibl>
+      <quote xml:lang="grc">ἐὰν δαίμων Ὀρέστην δεῦρ᾽ ἀπευθύνῃ μολεῖν.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 612</bibl>
+      <quote xml:lang="grc">ἐὰν δὲ προστιθῇ τὸ καρτερόν.</quote>
+    </cit>
+  </sense>
+  <sense>
+    <form>
+      <orth xml:lang="grc">ἐάν περ</orth>
+    </form>
+    <cit>
+      <bibl>Pers. 529</bibl>
+      <quote xml:lang="grc">ἐὰν περ δεῦρ᾽ ἐμοῦ πρόσθεν μόλῃ.</quote>
+    </cit>
+  </sense>
+  <sense>
+    <form>
+      <orth xml:lang="grc">κάν</orth>
+    </form>
+    <cit>
+      <bibl>[Ch. 997]</bibl>
+      <quote xml:lang="grc">κἂν τύχω μάλ᾽ εὐστομῶν.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 740</bibl>
+      <quote xml:lang="grc">νικᾷ δ᾽ Ορέστης, κἂν ἰσόψηφος κριθῇ.</quote>
+    </cit>
+  </sense>
+  <sense>
+    <note xml:lang="lat">Alterius formae <quote xml:lang="grc">ἤv</quote> duo tantum exempla sunt,</note>
+    <cit>
+      <bibl>Sept. 1027</bibl>
+      <quote xml:lang="grc">ἢν μή τις ἄλλος τόνδε συνθάπτειν θέλῃ.</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 708</bibl>
+      <quote xml:lang="grc">ὁ μάσσων βίοτος ἢν ταθῇ πρόσω.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="heautou">
+  <form>
+    <orth xml:lang="grc">ἑαυτοῦ</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">sui, i. q. <quote xml:lang="grc">αὑτοῦ</quote>, de quo suo loco diximus.</def>
+    <note xml:lang="lat">Formae disyllabae exempla multo freqentiora sunt quam trisyllabae, quae metro postulante legitur tribus in locis Aeschyli s. v. <quote xml:lang="grc">αὑτοῦ</quote> indicatis p. 52b.</note>
+  </sense>
+</entry>
+<entry xml:id="eao">
+  <form>
+    <orth xml:lang="grc">ἐάω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">sino</def>
+    <cit>
+      <bibl>Pr. 332</bibl>
+      <quote xml:lang="grc">καὶ νῦν ἔασον μηδέ σοι μελησάτω.</quote>
+    </cit>
+    <cit>
+      <bibl>384</bibl>
+      <quote xml:lang="grc">ἔα με τῇδε τῇ νόσῳ νοσεῖν.</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 378</bibl>
+      <quote xml:lang="grc">πόρον δ᾽ Ἰσμηνὸν οὐκ ἐᾷ (i. e. vetat) περἂν ὁ μάντις.</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 245</bibl>
+      <quote xml:lang="grc">ἔνθ᾽ οὔτε μίμνειν ἄνεμος οὔτ᾽ ἐκπλεῖν ἐᾷ.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="hebdomagetes">
+  <form>
+    <orth xml:lang="grc">ἑβδομαγέτης</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">septimus dux</def>
+    <cit>
+      <bibl>Sept. 800</bibl>
+      <quote xml:lang="grc">ὁ σεμνὸς ἑβδομαγέτης ἄναξ ᾿Απόλλων.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="hebdomos">
+  <form>
+    <orth xml:lang="grc">ἔβδομος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">septimus</def>
+    <cit>
+      <bibl>Sept. 282</bibl>
+      <quote xml:lang="grc">ἓξ ἐμοὶ σὺν ἑβδόμῳ.</quote>
+    </cit>
+    <cit>
+      <bibl>631</bibl>
+      <quote xml:lang="grc">τὸν ἕβδομον δὴ τόνδ᾽ ἐφ᾽ ἑβδόμαις πύλαις λέξω.</quote>
+    </cit>
+    <cit>
+      <bibl>714</bibl>
+      <quote xml:lang="grc">μὴ ἔλθῃς ὁδοὺς σὺ τάσδ᾽ ἐφ᾽ ἑβδόμαις πύλαις.</quote>
+      <col/>
+    </cit>
+    <cit>
+      <bibl>800</bibl>
+      <quote xml:lang="grc">τὰς δ᾽ ἑβδόμας ὁ σεμνὸς ἑβδομαγέτης ἄναξ ᾿Απόλλων εἵλετο.</quote>
+    </cit>
+    <cit>
+      <bibl>[Pers. 778]</bibl>
+      <quote xml:lang="grc">ἕβδομός τ᾿ ᾿Αρταφρένης.</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 125</bibl>
+      <quote xml:lang="grc">ἑπτὰ δ᾽ ἀγήνορες πρέποντες στρατοῦ | δορυσόῳ σαγᾷ πύλαις ἑβδόμαις προσίστανται πάλῳ λαχόντες,</quote>
+      <note xml:lang="lat">ubi ἑβδόμαις, quod pro ἑπτά dictum accepit Thomas Mag., si recte legeretur, de portarum septima intelligendum foret, ubi duces sint sortiti quam quisque de septem portis sibi haberet tuendam, ut monuit Valckenar. in Diatribe de Aristobulo p. 119. Sed quum nomen desideretur cum adiectivo ἀγήνορες coniungendum, probabilior est Heimsoethii (Krit. Studien 1 p. 301) coniectura <quote xml:lang="grc">ἑπτὰ δ᾽ ἀγάνορες μέδοντες στρατού | δορυσόῳ σαγᾷ πρέποντος πύλαις προσίστανται πάλῳ λαχόντες</quote>.</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="engaios">
+  <form>
+    <orth xml:lang="grc">ἔγγαιος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">indigena</def>
+    <cit>
+      <bibl>Pers. 922</bibl>
+      <quote xml:lang="grc">γὰ δ᾽ αἰάζει τὰν ἐγγαίαν ήβαν.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 57</bibl>
+      <quote xml:lang="grc">εἰ δὲ κυρεῖ τις πέλας οἰωνοπόλων ἔγγαιος.</quote>
+      <note xml:lang="lat">ubi diaeresin ἐγγάϊος (syllaba secunda longa) metro postulante restituit Bambergerus.</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="engenes">
+  <form>
+    <orth xml:lang="grc">ἐγγενής</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">indigena</def>
+    <cit>
+      <bibl>Sept. 582</bibl>
+      <quote xml:lang="grc">θεοὺς τοὺς ἐγγενεῖς.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 466</bibl>
+      <quote xml:lang="grc">ὦ πόνος ἐγγενής.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 330</bibl>
+      <quote xml:lang="grc">κῆδος ἐγγενὲς τὸ πρὶν.</quote>
+    </cit>
+    <cit>
+      <bibl>983</bibl>
+      <quote xml:lang="grc">πρὸς τοὺς ἐγγενεῖς φίλους.</quote>
+      <note xml:lang="lat">Sic Heathius pro ἐκτενεῖς.</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="engonoi">
+  <form>
+    <orth xml:lang="grc">ἔγγονοι</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">posteri</def>
+    <cit>
+      <note xml:lang="lat">in loco corrupto</note>
+      <bibl>Ag. 374</bibl>
+      <quote xml:lang="grc">πέφαντα ! δ᾽ ἐγγόνους ἀτολμήτων Ἄρη πνεόντων μεῖζον ἢ δικαίως,</quote>
+      <note xml:lang="lat">ubi ἐκγόνους superscr. in apogr. Flor. (nam in Mexcidit haec pars fabulae) quod probabilius est quam ἐγγόνους, quod librarii non raro alteri substituerunt.</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="engrapho">
+  <form>
+    <orth xml:lang="grc">ἐγγράφω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">inscribo</def>
+  </sense>
+  <sense>
+    <note xml:lang="lat">Forma media</note>
+    <cit>
+      <bibl>Pr. 789</bibl>
+      <quote xml:lang="grc">ἣν ἐγγράφου σὺ μνήμοσιν δέλτοις φρενών.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 699</bibl>
+      <quote xml:lang="grc">παροῦσαν ἐγγράφει,</quote>
+      <note xml:lang="lat">ubi sensus postulat <quote xml:lang="grc">ἀποῦσαν ἐγγράφου</quote>, quod coniecit Canterus et legisse videtur scholiasta, qui exp. <quote xml:lang="grc">τάξον ἀφανισθεῖσαν</quote>.</note>
+    </cit>
+  </sense>
+  <sense>
+    <note xml:lang="lat">Passivum</note>
+    <cit>
+      <bibl>Suppl. 946</bibl>
+      <quote xml:lang="grc">ταῦτ᾽ οὐ πίναξίν ἐστιν ἐγγεγραμμένα.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="engye">
+  <form>
+    <orth xml:lang="grc">ἐγγύη</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">vadimonium</def>
+    <cit>
+      <bibl>Eum. 898</bibl>
+      <quote xml:lang="grc">καί μοι πρόπαντος ἐγγύην θήσει χρόνου;</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="engythen">
+  <form>
+    <orth xml:lang="grc">ἐγγύθεν</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">prope</def>
+    <cit>
+      <bibl>Sept. 973</bibl>
+      <quote xml:lang="grc">ἀχέων τοίων τάδ᾽ ἐγγύθεν.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 852</bibl>
+      <quote xml:lang="grc">αὐτὸς ἦν θνήσκοντος ἐγγύθεν παρών.</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 370</bibl>
+      <quote xml:lang="grc">οὐ γὰρ ἐγγύθεν ὁρᾷς.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="engys">
+  <form>
+    <orth xml:lang="grc">ἐγγύς</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">prope</def>
+    <cit>
+      <bibl>Sept. 59</bibl>
+      <quote xml:lang="grc">ἐγγὺς γὰρ ἤδη πάνοπλος ᾿Αργείων στρατὸς χωρεῖ.</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 686</bibl>
+      <quote xml:lang="grc">ἐγγὺς ἑστῶτες τάφου.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 65</bibl>
+      <quote xml:lang="grc">ἐγγὺς παρεστώς.</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 309</bibl>
+      <quote xml:lang="grc">μὴ παρασπιστὴς ἐμοὶ μήτ᾽ ἐγγὺς εἴη.</quote>
+    </cit>
+    <cit>
+      <note xml:lang="lat">De cognatione</note>
+      <bibl>fr. 155</bibl>
+      <quote xml:lang="grc">οἱ Ζηνὸς ἐγγύς.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 388</bibl>
+      <quote xml:lang="grc">φάσκοντες ἐγγύτατα γένους εἶναι.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="egeiro">
+  <form>
+    <orth xml:lang="grc">ἐγείρω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">expergefacio, excito</def>
+    <cit>
+      <bibl>Ag. 299</bibl>
+      <quote xml:lang="grc">ἤγειρεν ἄλλην ἐκδοχὴν πομποῦ πυρός.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 140</bibl>
+      <quote xml:lang="grc">ἔγειρ᾽ ἔγειρε καὶ σὺ τήνδ᾽, ἐγὼ δὲ σέ.</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 40</bibl>
+      <quote xml:lang="grc">ἕως ἐγείρω πρευμενεῖς τοὺς νυμφίους.</quote>
+    </cit>
+  </sense>
+  <sense>
+    <form>
+      <orth xml:lang="grc">ἐγρήγορα</orth>
+    </form>
+    <def xml:lang="lat">vigil sum</def>
+    <cit>
+      <bibl>Eum. 685</bibl>
+      <quote xml:lang="grc">ἐγρηγορὸς φρούρημα γῆς καθίσταμαι.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 346</bibl>
+      <quote xml:lang="grc">ἐγρηγορὸς τὸ πῆμα τῶν ὀλωλότων γένοιτ᾽ ἄν.</quote>
+      <note xml:lang="lat">Sic Porsonus pro ἐγρήγορον.</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="enkathiemi">
+  <form>
+    <orth xml:lang="grc">ἐγκαθίημι</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">communico</def>
+    <cit>
+      <bibl>Fr. 82</bibl>
+      <quote xml:lang="grc">ταῦτα γὰρ πατὴρ Ζεὺς ἐγκαθίει Λοξία θεσπίσματα.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="enkataskepto">
+  <form>
+    <orth xml:lang="grc">ἐγκατασκήπτω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">infligo</def>
+    <cit>
+      <bibl>Pers. 514</bibl>
+      <quote xml:lang="grc">κακῶν, ἃ Πέρσαις ἐγκατέσκηψεν εν θεός.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="enkatillopto">
+  <form>
+    <orth xml:lang="grc">ἐγκατιλλώπτω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">irrideo</def>
+    <cit>
+      <bibl>Eum. 113</bibl>
+      <quote xml:lang="grc">ὑμῖν ἐγκατιλλώψας μέγα.</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 225</bibl>
+      <note xml:lang="lat">(apud Pollucem 10, 20)</note>
+      <quote xml:lang="grc">σταθμοῦχος ἐγκατιλλώψας,</quote>
+      <note xml:lang="lat">ubi libri <quote xml:lang="grc">εὐ κατιλλώψας</quote>.</note>
+    </cit>
+    <note xml:lang="lat">Hesychius <quote xml:lang="grc">ἐγκατιλλώψαι</quote>: <quote xml:lang="grc">ἐγκαταμυκτηρίσαι</quote>.</note>
+  </sense>
+</entry>
+<entry xml:id="enkeleuo">
+  <form>
+    <orth xml:lang="grc">ἐγκελεύω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">impero</def>
+    <cit>
+      <bibl>Pr. 72</bibl>
+      <quote xml:lang="grc">μηδὲν ἐγκέλευ᾿ ἄγαν.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="enkoneo">
+  <form>
+    <orth xml:lang="grc">ἐγκονέω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">propere conficio</def>
+    <cit>
+      <bibl>Pr. 962</bibl>
+      <quote xml:lang="grc">κέλευθον ἥνπερ ἦλθες ἐγκόνει πάλιν.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="enkoteo">
+  <form>
+    <orth xml:lang="grc">ἐγκοτέω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">irascor</def>
+    <cit>
+      <bibl>Ch. 41</bibl>
+      <quote xml:lang="grc">τοῖς κτανοῦσί τ᾽ ἐγκοτεῖν.</quote>
+    </cit>
+  </sense>
+</entry>
+<pb n="99"/>
+<entry xml:id="enkotys">
+  <form>
+    <orth xml:lang="grc">ἔγκοτος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">iratus</def>
+    <cit>
+      <bibl>Ch. 392</bibl>
+      <quote xml:lang="grc">ἔγκοτον στύγος.</quote>
+    </cit>
+    <cit>
+      <bibl>924 et 1054</bibl>
+      <quote xml:lang="grc">μητρὸς ἐγκότους κύνας.</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 152</bibl>
+      <quote xml:lang="grc">ἔγκοτος</quote>
+      <note xml:lang="lat">Hermannus restituendum esse coniecit pro <quote xml:lang="grc">коτος</quote>, quod apud Hesychium (s. v. <quote xml:lang="grc">ἐναροφόρος</quote>) cum duarum litterarum lacuna legitur.</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="enkouras">
+  <form>
+    <orth xml:lang="grc">ἐγκουράς</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">tabula picta</def>
+    <cit>
+      <bibl>Fr. 139</bibl>
+      <note xml:lang="lat">(apud Hesychium s. ν. <quote xml:lang="grc">κουράς</quote>), ubi quum ΕΝΚΟΥΡΑΔΙ scriptum esset, dubitatum esse dicit Hesychius utrum hoc <quote xml:lang="grc">ἐν κουράδι</quote> an <quote xml:lang="grc">ἐγκουράδι</quote> esset: de quo v. annot.</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="enkrates">
+  <form>
+    <orth xml:lang="grc">ἐγκρατής</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">validus</def>
+    <cit>
+      <bibl>Pr. 55</bibl>
+      <quote xml:lang="grc">ἐγκρατεῖ σθένει.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="encheiridios">
+  <form>
+    <orth xml:lang="grc">ἐγχειρίδιος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">qui manu tenetur</def>
+    <cit>
+      <bibl>Suppl. 22</bibl>
+      <quote xml:lang="grc">σὺν τοῖσδ᾽ ἱκετῶν ἐγχειριδίοις ἐριοστέπτοισι κλάδοισιν.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="encheo">
+  <form>
+    <orth xml:lang="grc">ἐγχέω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">infundo</def>
+    <cit>
+      <bibl>Ag. 322</bibl>
+      <quote xml:lang="grc">ὄξος τ᾽ ἄλειφά τ᾽ ἐγ- χέας ταὐτῷ κύτει.</quote>
+      <note xml:lang="lat">Sic Canterus pro ἐκχέας.</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="enchlio">
+  <form>
+    <orth xml:lang="grc">ἐγχλίω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">insulto</def>
+    <cit>
+      <bibl>Suppl. 914</bibl>
+      <quote xml:lang="grc">Ἕλλησιν ἐγχλίεις ἄγαν.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 137</bibl>
+      <quote xml:lang="grc">ἐν τοῖσι σοῖς πόνοισι χλίουσιν μέγα.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="enchos">
+  <form>
+    <orth xml:lang="grc">ἔγχος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">hasta</def>
+    <cit>
+      <bibl>Pers. 240</bibl>
+      <quote xml:lang="grc">ἔγχη σταδαῖα.</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 360</bibl>
+      <quote xml:lang="grc">ὀπισθοβριθὲς ἔγχος.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="enchrimphen_vitiose">
+  <form>
+    <orth xml:lang="grc">[ἐγχριμφθῆν]</orth>
+  </form>
+  <sense>
+    <note xml:lang="lat">
+      <bibl>Suppl. 790</bibl> vitiose pro χριμφθῆν. V. <quote xml:lang="grc">χρίμπτομαι</quote>.</note>
+  </sense>
+</entry>
+<entry xml:id="enchorios">
+  <form>
+    <orth xml:lang="grc">ἐγχώριος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">indigena, natus in terra in qua versatur</def>
+    <cit>
+      <bibl>Sept. 14</bibl>
+      <quote xml:lang="grc">θεῶν ἐγχωρίων βωμοῖσι.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 810.</bibl>
+    </cit>
+    <cit>
+      <bibl>Suppl. 520 705</bibl>
+      <quote xml:lang="grc">θεοὺς ἐγχωρίους.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1645</bibl>
+      <quote xml:lang="grc">θεῶν ἐγχωρίων.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 482</bibl>
+      <quote xml:lang="grc">δαιμόνων ἐγχωρίων.</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 413</bibl>
+      <quote xml:lang="grc">κάρτα δ᾽ ἔστ᾽ ἐγχώριος.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 280</bibl>
+      <quote xml:lang="grc">Λιβυστικαῖς γὰρ μᾶλλον ἐμφερέστεραι γυναιξίν ἐστε κοὐδαμῶς ἐγχωρίοις.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 492</bibl>
+      <quote xml:lang="grc">ὀπάονας δὲ φράστοράς τ᾽ ἐγχωρίων ξύμπεμψον.</quote>
+    </cit>
+    <cit>
+      <bibl>517</bibl>
+      <quote xml:lang="grc">λαοὺς συγκαλῶν ἐγχωρίους.</quote>
+    </cit>
+    <cit>
+      <bibl>600</bibl>
+      <quote xml:lang="grc">εὐ τὰ τῶν ἐγχωρίων.</quote>
+    </cit>
+    <cit>
+      <bibl>919</bibl>
+      <quote xml:lang="grc">προξένοις ἐγχωρίοις.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="enchoros">
+  <form>
+    <orth xml:lang="grc">ἔγχωρος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">indigena</def>
+    <cit>
+      <bibl>Suppl. 976</bibl>
+      <quote xml:lang="grc">λαῶν τῶν ἐγχώρων.</quote>
+      <note xml:lang="lat">Sic Hermannus pro λαῶν ἐν χώρῳ.</note>
+    </cit>
+  </sense>
+</entry>
+
+<entry xml:id="ego">
+  <form>
+    <orth xml:lang="grc">ἐγώ</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">ego</def>
+    <note xml:lang="lat">Pronominum personalium ἐγώ et σύ usus in diverbiis, in quibus duae vel plures personae de rebus suis colloquuntur longe frequentior est quam in anapaestis et canticis. Pronomina autem ἐγώ et σύ, ut in Lexico Sophocleo monui p. 135, quum primae et secundae verbi personae insint, vel addi verbo vel omitti possunt. Omittuntur ubi nihil causae est cur persona disertius significetur, adduntur vero ubi altera persona alteri opponitur, quod saepissime fit per particulas μέν – δέ, nec rara in orationis principio vel ubi persona quacunque de causa disertius est significanda. Quanquam has regulas non tam diligenter secuti sunt poetae scenici quin propter metri commoditatem saepe adderent pronomina ubi omittere potuissent, vel omitterent ubi apte addita forent, quanquam huiusmodi quoque in locis recto et subtili iudicio usi pronominis vel addendi vel omittendi idoneam ubique rationem habuerunt.</note>
+    <note xml:lang="lat">Exempla pronominis Aeschylea secundum casuum ordinem disposita haec sunt:</note>
+    <cit>
+      <bibl>Pr. 14</bibl>
+      <quote xml:lang="grc">σφῶν μὲν ἐντολὴ Διὸς ἔχει τέλος δὴ –, ἐγὼ δ᾽ ἄτολμός εἰμι cet.</quote>
+    </cit>
+    <cit>
+      <bibl>175</bibl>
+      <quote xml:lang="grc">στερεάς τ᾽ οὔποτ᾽ ἀπειλὰς πτήξας τόδ᾽ ἐγὼ καταμηνύσω.</quote>
+    </cit>
+    <cit>
+      <bibl>204</bibl>
+      <quote xml:lang="grc">ἐνταῦθ᾽ ἐγὼ τὰ λῷστα βουλεύων πιθεῖν</quote>
+    </cit>
+    <cit>
+      <bibl>244</bibl>
+      <quote xml:lang="grc">ἐγὼ γὰρ οὔτ᾽ ἂν εἰσιδεῖν τάδε ἔχρηζον –.</quote>
+    </cit>
+    <cit>
+      <bibl>246</bibl>
+      <quote xml:lang="grc">καὶ μὴν φίλοις ἐλεινὸς εἰσορᾶν ἐγώ.</quote>
+    </cit>
+    <cit>
+      <bibl>252</bibl>
+      <quote xml:lang="grc">πρὸς τοῖσδε μέντοι πῦρ ἐγώ σφιν ὤπασα.</quote>
+    </cit>
+    <note xml:lang="lat">Also Pr. 265, 325, 345, 375, 410, 457, 481, 508, 524, 603, 681, 915, 956, 967, 972. Sept. 36, 66, 271, 282, 397, 406, 808, 1026, 1028, 1037, 1052, 1053. Pers. 188, 445, 517, 546, 621, 691, 740, 779, 839, 909. Ag. 38, 352, 930, 1069, 1172, 1257, 1352, 1360, 1394, 1402, 1433, 1568, 1604, 1637, 1652, 1666, 1668, 1672. Ch. 128, 135, 192, 224, 267, 438, 444, 457, 481, 486, 549, 691, 700, 743, 761, 887, 893, 908, 923, 928, 988, 1042, 1050, 1061, 1062. Eum. 39, 95, 140, 144, 230, 232, 276, 462, 578, 606, 643, 667, 719, 722, 735, 762, 780, 804, 810, 826, 927. Suppl. 68, 247, 250, 339, 368, 457, 505, 517, 522, 726, 740, 918, 923, 958, 963. Fr. 41, 7. [172 <quote xml:lang="grc">᾿Αντικλείας – τῆς σῆς λέγω τοι μητρός, ἥ σ᾽ ἐγείνατο</quote>, ubi Hermannus <quote xml:lang="grc">λέγω 'γώ</quote> coniecit.] 186, 321.</note>
+    <col/>
+    <note xml:lang="lat">Per crasin ἐγώ coalescit cum ἅ in ἁγώ Suppl. 980. Frequentius ἐγώ et casus reliqui in κἀγώ κἀμοῦ κἀμέ: v. s. ν. καί.</note>
+    <note xml:lang="lat">Aphaeresin ἐγώ patitur post οἴ, οι'γώ Sept. 808. Pers. 517. Ch. 691 887 893 928.</note>
+    <note xml:lang="lat">Dativus encliticus μοι coalescit cum ἐστί in μοὐστί Ch. 122.</note>
+    <note xml:lang="lat">Eadem fere ceterorum casuum ratio est, qui ipsi quoque saepissime in diverbiis, raro in anapaestis, qui saepe inter diverbia sunt, rarius etiam in canticis reperiuntur.</note>
+    <note xml:lang="lat">Genitivus ἐμοῦ est</note>
+    <cit>
+      <bibl>Pr. 167</bibl>
+      <quote xml:lang="grc">ἢ μὴν ἔτ᾽ ἐμοῦ — χρείαν ἕξει.</quote>
+    </cit>
+    <cit>
+      <bibl>214</bibl>
+      <quote xml:lang="grc">τοιαῦτ᾽ ἐμοῦ λόγοισιν ἐξηγουμένου.</quote>
+    </cit>
+    <note xml:lang="lat">Also 221, 373, 467, 503, 593, 700, 914, 988. Pers. 529. Ag. 348, 1261, 1268, 1318, 1423. Ch. 172, 219. Eum. 391, 848, 867, 882. Suppl. 252, 271, 485, 990. Fr. 333.</note>
+    <note xml:lang="lat">Enclitica genitivi forma μου</note>
+    <cit>
+      <bibl>Pr. 133</bibl>
+      <quote xml:lang="grc">ἐκ δ᾽ ἔπληξέ μου τὰν θεμερῶπιν αἰδῶ.</quote>
+    </cit>
+    <cit>
+      <bibl>617</bibl>
+      <quote xml:lang="grc">πᾶν γὰρ ἂν πύθοιό μου.</quote>
+    </cit>
+    <cit>
+      <bibl>629</bibl>
+      <quote xml:lang="grc">μή μου προκήδου μᾶσσον ὧν ἐμοὶ γλυκύ.</quote>
+    </cit>
+    <cit>
+      <bibl>824</bibl>
+      <quote xml:lang="grc">κλύουσά μου.</quote>
+    </cit>
+    <note xml:lang="lat">Also Sept. 920. Pers. 633, 638. Ag. 458, 1401. Ch. 139. Eum. 779, 809. Suppl. 347, [785], 983. Fr. 92 <quote xml:lang="grc">Ἀτρέως πολυκοίρανε μάνθανέ μου</quote> (alii μοι) <quote xml:lang="grc">παῖ</quote>.</note>
+    <note xml:lang="lat">Cum praepositione</note>
+    <cit>
+      <bibl>Eum. 101</bibl>
+      <quote xml:lang="grc">οὐδεὶς ὑπέρ μου δαιμόνων μηνίεται,</quote>
+      <note xml:lang="lat">tribrachi vitandi causa, pro ὑπὲρ ἐμοῦ. De quo conferenda quae dixi in Lexico Sophocleo p. 134.</note>
+    </cit>
+    <note xml:lang="lat">Dativus ἐμοί</note>
+    <note xml:lang="lat">Pr. 97, 191, 209, 260, 331, 338, 343, 616, 629, 631, 747, 782, 785, 874, 901, 938, 1043, 1089. Sept. 282, 979, 997, 998, 1043. Pers. 246, 351, 545, 631, 942. Ag. 316, 598, 811, 840, 882, 892, 905, 920, 924, 931, 943, 965, 1055, 1150, 1166, 1204, 1206, 1350, 1377, 1412, 1417, 1436, 1446, 1471, 1481, 1610, 1662. Ch. 75, 85, 112, 124, 183, 199, 239, 243, 522, 541, 543, 701, 732, 909, 1005, 1030, 1058. Eum. [119 <quote xml:lang="grc">φίλοις γάρ εἰσιν, οὐκ ἐμοὶ, προσίκτορες</quote>. Sic Hermannus pro ἐμοῖς.] 155, 173, 288, 298, 304, 401, 434, 471, [481], 793, 829, 833, 850. Suppl. 249, 277, 310, 505, 602.</note>
+    <cit>
+      <bibl>Fr. 11</bibl>
+      <quote xml:lang="grc">σοὶ μὲν γαμεῖσθαι μόρσιμον, γαμεῖν δ᾽ ἐμοί.</quote>
+    </cit>
+    <cit>
+      <bibl>130</bibl>
+      <quote xml:lang="grc">ἀβδέλυκτ᾿ ἐμοὶ τάδε.</quote>
+    </cit>
+    <cit>
+      <bibl>179</bibl>
+      <quote xml:lang="grc">ὅς ποτ᾿ ἀμφ᾿ ἐμοὶ βέλος – ἔρριψεν –.</quote>
+    </cit>
+    <cit>
+      <bibl>ib.</bibl>
+      <quote xml:lang="grc">οὐράνη χωρὶς μυρηρῶν τευχέων πνέουσ᾽ ἐμοί.</quote>
+      <note xml:lang="lat">ubi recte scriptum ἀμφ᾿ ἐμοί, quod Ch. 220 quoque restituendum pro ἀμφί μοι: nam praepositio formam postulat ὀρθοτονουμένην, de quo dixi in Lexico Soph. p. 134b.</note>
+    </cit>
+    <note xml:lang="lat">Dativi forma enclitica μοι</note>
+    <note xml:lang="lat">Pr. 16, 63, 102, 107, 127, 197, 216, 271, 274, 294, 393, 535, 555, 584, 644, 742, 755, 777, 818, 935, 950, 1041. Sept. 71, 180, 223, 260, 480, 695. Pers. 114, 164, 170, 172, 181, 333, 519, 638, 705, 973, 987, 1048, 1056, 1067. Ag. 33, 494, 799, 936, 971, 1256, 1317, 1346, 1434, [1472], 1494, 1518, 1574, 1670. Ch. 2, 122, 140, 156, 181, 185, 193, 216, 240, 245, 280, 410, 417, 480, 489, 573, 584, 744, 783, 903, 987, 1010, 1040, 1041. Eum. 284, 393, 442, 594, 609, 747, 894, 898, 899, 971. Suppl. 319, 324, 349, 737, 792, 797, 810, 1054. Fr. 184, 201.</note>
+    <note xml:lang="lat">Accusativus ἐμέ</note>
+    <note xml:lang="lat">Pr. 572, 665, 781, 872, 963, 974. Sept. 248, 253. Pers. 915. Ag. 586, 918, 925, 1269, 1275, 1537. Ch. 130, 225, 228, 252. Eum. 837, 838, 870, 871, 1003. Suppl. 996. Fr. 281, 4.</note>
+    <note xml:lang="lat">Accusativi forma enclitica με</note>
+    <note xml:lang="lat">Pr. 92, 115, 119, 132, 152, 172, 223, 227, 268, 289, 347, 382, 384, 387
+      <pb n="100"/>
+      100
+      437, 567, 576, 577, 585, 594, 598, 605, 625, 640, 670, 684, 877, 880, 894, 903, 976, 986, 990, 995, 1001, 1006, 1063, 1066, 1093. Sept. 81, 253, 715, 834, 873, 1005. Pers. 161, 688. Ag. 270, 546, 590, 946, 1087, 1138, 1202, 1215, 1240, 1243, 1260, 1270, 1390, 1403, 1499, 1605. Ch. 18, 45, 116, [277], 463, 695, 913, 1034. Eum. 30, 35, 36, 253, 305, 321, 323, 731, 736, 756, 761, 842, 845, 875, 878, 892, 896, 900, 902. Suppl. 116, 136, 144, 379, 397, 422, 456, 509, 714, 736, 786, 819, 894, 896, 1061. Fr. 133, 155 (ubi καί με). 238, 244, 302.</note>
+    <note xml:lang="lat">Numeri dualis duo sunt exempla,</note>
+    <cit>
+      <bibl>Ch. 234</bibl>
+      <quote xml:lang="grc">τοὺς φιλτάτους γὰρ οἶδα νῷν ὄντας πικρούς,</quote>
+    </cit>
+    <cit>
+      <note xml:lang="lat">et in versibus interpolatoris</note>
+      <bibl>279</bibl>
+      <quote xml:lang="grc">τὰς δὲ νῷν νόσους.</quote>
+    </cit>
+    <note xml:lang="lat">Pluralis nominativus ἡμεῖς</note>
+    <note xml:lang="lat">Sept. 1068, 1072. Pers. 625, 785. Ag. 72, 673. Ch. 716. Eum. 416, 767, 774.</note>
+    <note xml:lang="lat">Genitivus ἡμῶν</note>
+    <note xml:lang="lat">Sept. 703. Pers. 406, 502. Ag. 1046, 1280, 1552. Eum. 314. Suppl. 615, 756. Fr. 257.</note>
+    <note xml:lang="lat">Dativus ἡμῖν</note>
+    <note xml:lang="lat">Pr. 193, 821, 1036. Sept. 370. Ag. 573, 1213, 1437, 1450. Ch. 142, 147, 176. Eum. 208, 676, 747. Suppl. 411, 490, 603, 752, 1008.</note>
+    <note xml:lang="lat">Dativi ἡμῖν (pariterque ὑμῖν) syllaba altera interdum metri gratia corripitur mutato accentu ἡμίν et ὑμίν: qua libertate Aeschylus in fabulis quae supersunt semel (Eum. 347 <quote xml:lang="grc">ἁμὶν ἐκράνθη</quote> in versu dactylico), Euripides nusquam, Sophocles vero locis pluribns usus est: de quo dixi in Lexico Sophocleo p. 135a. Aeschylus semel etiam Dorico <quote xml:lang="grc">ἄμμι</quote> usus est in versu dochmiaco Sept. 156 <quote xml:lang="grc">τί πόλις τις ἄμμι πάσχει;</quote> ubi apographa pleraque <quote xml:lang="grc">ἄμμιν</quote>.</note>
+    <note xml:lang="lat">Accusativus ἡμᾶς</note>
+    <note xml:lang="lat">Pr. 196. Sept. 866. Pers. 175, 488. Ag. 61, 672. Suppl. 184, 509, 639.</note>
+  </sense>
+  <sense>
+    <def xml:lang="lat">ἐγώ cum γε coniunctum in unum coalescit vocabulum ἔγωγε equidem, pariterque dativus ἔμοιγε</def>
+    <note xml:lang="lat">de quo v. Apollonius de pronom. p. 61 et Etym. Μ. p. 314, 52.</note>
+    <cit>
+      <bibl>Sept. 587</bibl>
+      <quote xml:lang="grc">ἔγωγε μὲν δὴ τήνδε πιανῶ χθόνα.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 31</bibl>
+      <quote xml:lang="grc">αὐτός τ᾽ ἔγωγε φροίμιον χορεύσομαι.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 713</bibl>
+      <quote xml:lang="grc">κἄγωγε χρησμοὺς τοὺς ἐμοὺς ταρβεῖν κελεύω.</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 12</bibl>
+      <quote xml:lang="grc">κἄγωγε τὰς σὰς βακκάρεις τε καὶ μύρα.</quote>
+    </cit>
+    <note xml:lang="lat">ἔμοιγε.</note>
+    <cit>
+      <bibl>Pr. 322</bibl>
+      <quote xml:lang="grc">οὔκουν ἔμοιγε χρώμενος διδασκάλῳ.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 887</bibl>
+      <quote xml:lang="grc">ἔμοιγε μὲν δὴ κλαυμάτων — πηγαὶ κατεσβήκασι.</quote>
+    </cit>
+    <note xml:lang="lat">Accusativi ἐμέ γε unum est exemplum</note>
+    <cit>
+      <bibl>Pr. 1053</bibl>
+      <quote xml:lang="grc">πάντως ἐμέ γ᾽ οὐ θανατώσει.</quote>
+    </cit>
+  </sense>
+  <note xml:lang="lat">Suspecta qua tragici nusquam usi sunt forma ἐγών legitur in M Pers. 931 <quote xml:lang="grc">ὅδ᾽ ἐγὼν, οἰοῖ, αἰακτός</quote>, ubi ἐγώ restitui hiatu ante interiectionem non minus excusabili quam inter <quote xml:lang="grc">οἰοî</quote> et <quote xml:lang="grc">αἰακτός</quote>. Absurdius Suppl. 740 in fine trimetri <quote xml:lang="grc">σάφ ' οἶδ᾽ ἐγὼν</quote> scriptum in M, ubi ἐγώ restituit Turnebus.</note>
+</entry>
+<entry xml:id="edanos">
+  <form>
+    <orth xml:lang="grc">ἐδανός</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">edulis</def>
+    <cit>
+      <bibl>Ag. 1407</bibl>
+      <quote xml:lang="grc">ἐδανὸν ἢ ποτόν.</quote>
+    </cit>
+    <note xml:lang="lat">Hesychius <quote xml:lang="grc">ἐδανοῖς</quote>: <quote xml:lang="grc">βρωσίμοις</quote>. <bibl>Αἰσχύλος (fr. 356.)</bibl>
+    </note>
+  </sense>
+</entry>
+
+<entry xml:id="edethlon">
+  <form>
+    <orth xml:lang="grc">ἔδεθλον</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">solum</def>
+    <cit>
+      <bibl>Ag. 776</bibl>
+      <quote xml:lang="grc">τὰ χρυσόπαστα δ' ἔδεθλα.</quote>
+      <note xml:lang="lat">Sic Auratus pro ἐσθλά.</note>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="hednon">
+  <form>
+    <orth xml:lang="grc">ἕδνον</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">donum proci</def>
+    <cit>
+      <note xml:lang="lat">Numero plurali</note>
+      <bibl>Pr. 559</bibl>
+      <quote xml:lang="grc">ἕδνοις ἄγαγες Ἡσιόναν πιθὼν δάμαρτα.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="hedos">
+  <form>
+    <orth xml:lang="grc">ἕδος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">sedes</def>
+    <cit>
+      <bibl>Pr. 411</bibl>
+      <quote xml:lang="grc">ὁπόσοι τ᾽ ἔποικον ἁγνᾶς ᾿Ασίας ἕδος νέμονται.</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 165</bibl>
+      <quote xml:lang="grc">ἑπτάπυλον ἕδος | ἐπιρρύου.</quote>
+    </cit>
+    <cit>
+      <bibl>241</bibl>
+      <quote xml:lang="grc">τάνδ᾽ ἐς ἀκρόπτολιν, τίμιον ἕδος.</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 890</bibl>
+      <quote xml:lang="grc">Λήμνον Ἰκάρου θ᾽ ἕδος.</quote>
+    </cit>
+    <cit>
+      <bibl>404</bibl>
+      <quote xml:lang="grc">θεῶν τε πατρώων ἕδη.</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 155</bibl>
+      <quote xml:lang="grc">ἔνθ᾽ ᾿Αδραστείας ἕδος.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="hedra">
+  <form>
+    <orth xml:lang="grc">ἕδρα</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">sedes</def>
+    <cit>
+      <bibl>Pr. 201</bibl>
+      <quote xml:lang="grc">θέλοντές ἐκβαλεῖν ἕδρας | Κρόνον,</quote>
+      <note xml:lang="lat">ubi ἕδρας ex aliquot restitutum est apographis pro ἕδρης, quod est in ceteris et M.</note>
+    </cit>
+    <cit>
+      <bibl>Pers. 466</bibl>
+      <quote xml:lang="grc">ἕδραν γὰρ εἶχε παντὸς εὐαγῆ στρατού.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 41</bibl>
+      <quote xml:lang="grc">ὁρῶ δ᾽ ἐπ᾿ ομφαλῷ μὲν μὲν ἄνδρα θεομυσῆ ἕδραν ἔχοντα.</quote>
+    </cit>
+    <cit>
+      <bibl>688</bibl>
+      <quote xml:lang="grc">πάγον δ᾽ ῎Ἄρειον τόνδ', ᾿Αμαζόνων | ἕδραν.</quote>
+    </cit>
+    <cit>
+      <bibl>855</bibl>
+      <quote xml:lang="grc">τιμίαν ἕδραν ἔχουσα.</quote>
+    </cit>
+    <cit>
+      <bibl>892</bibl>
+      <quote xml:lang="grc">τίνα με φὴς ἔχειν ἕδραν;</quote>
+    </cit>
+    <cit>
+      <note xml:lang="lat">Numero plurali</note>
+      <bibl>Pr. 389</bibl>
+      <quote xml:lang="grc">τῷ νέον θακοῦντι παγκρατεῖς ἕδρας.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 118</bibl>
+      <quote xml:lang="grc">παμπρέπτοις ἐν ἕδραισι.</quote>
+    </cit>
+    <cit>
+      <bibl>596</bibl>
+      <quote xml:lang="grc">ἐν θεῶν ἕδραις.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 11</bibl>
+      <quote xml:lang="grc">ἐς τήνδε γαῖαν ἦλθε Παρνησοῦ θ᾽ ἕδρας.</quote>
+    </cit>
+    <cit>
+      <bibl>805</bibl>
+      <quote xml:lang="grc">ἕδρας τε καὶ κευθμῶνας ἐνδίκου χθονός.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 345</bibl>
+      <quote xml:lang="grc">πέφρικα λεύσσων τάσδ᾽ ἕδρας κατασκίους.</quote>
+    </cit>
+    <cit>
+      <bibl>413</bibl>
+      <quote xml:lang="grc">ἐν θεῶν ἕδραισιν.</quote>
+    </cit>
+    <cit>
+      <bibl>423</bibl>
+      <quote xml:lang="grc">ἐξ ἑδρᾶν πολυθέων.</quote>
+    </cit>
+    <cit>
+      <bibl>294</bibl>
+      <quote xml:lang="grc">θεῶν βωμοὺς προνάους καὶ ἕδρας.</quote>
+    </cit>
+    <cit>
+      <bibl>501</bibl>
+      <quote xml:lang="grc">ἡγεῖσθε βωμοὺς ἀστικοὺς, θεῶν ἕδρας.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="hedranon">
+  <form>
+    <orth xml:lang="grc">ἕδρανον</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">sedes</def>
+    <cit>
+      <bibl>Pers. 4</bibl>
+      <quote xml:lang="grc">τῶν ἀφνεῶν καὶ πολυ-χρύσων ἑδράνων φύλακες.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 102</bibl>
+      <quote xml:lang="grc">ἑδράνων ἀφ᾽ ἁγνῶν.</quote>
+    </cit>
+    <cit>
+      <bibl>852</bibl>
+      <quote xml:lang="grc">λεῖφ᾽ ἕδρανα.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="hedolion">
+  <form>
+    <orth xml:lang="grc">ἑδώλιον</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">sedile, habitaculum</def>
+    <cit>
+      <bibl>Sept. 455</bibl>
+      <quote xml:lang="grc">πωλικῶν θ᾽ ἑδωλίων.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 71</bibl>
+      <quote xml:lang="grc">νυμφικῶν ἑδωλίων.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="hezomai">
+  <form>
+    <orth xml:lang="grc">ἕζομαι</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">sedeo</def>
+    <cit>
+      <bibl>Eum. 3</bibl>
+      <quote xml:lang="grc">ἢ δὴ τὸ μητρὸς δευτέρα τόδ᾽ ἕζετο μαντεῖον.</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="ee">
+  <form>
+    <orth xml:lang="grc">ἐή</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">interiectio</def>
+    <note xml:lang="lat">de qua haec scripsi in Lexico Sophocleo p. 136: ἐή interiectio dolentis in libris tragicorum constanter ề ề vel ê ê, interdum etiam sine accentu ἐ ἐ vel ἐé, scribitur, quae et per se mira foret interiectio, cui nihil simile exstat, et versibus pluribus convellitur, quorum metrum iambum postulat, nusquam pyrrhichium. Hoc indicio tragicis (et Aristophani quoque Vesp. 316) ubique ἐń restitui, quo vel simplici vel duplicato usi sunt tragici. Sic apud Aeschylum</note>
+    <cit>
+      <bibl>Pr. 579</bibl>
+      <note xml:lang="lat">metro dochmiaco</note>
+      <quote xml:lang="grc">πημοσύναις. ἐή.</quote>
+    </cit>
+    <cit>
+      <bibl>599</bibl>
+      <quote xml:lang="grc">φοιταλέοις, ἐή.</quote>
+      <note xml:lang="lat">ubi codex Med. in stropha ĉ č, in antistropha ἐ έ.</note>
+    </cit>
+    <cit>
+      <bibl>603</bibl>
+      <quote xml:lang="grc">δυσδαιμόνων δὲ τίνες, οἳ, ἐὴ, | οἱ᾽ ἐγὼ μογοῦσιν;</quote>
+      <note xml:lang="lat">(ubi in stropha ἢ ποντίοις δάκεσι δὸς βοράν.)</note>
+    </cit>
+    <note xml:lang="lat">Duplicatum, ἐὴ ἐή, extra metrum ante dochmios</note>
+    <cit>
+      <bibl>Sept. 151 158</bibl>
+      <note xml:lang="lat">ubi in M ἐ ἐ ἐ ἐ.</note>
+    </cit>
+    <cit>
+      <bibl>Pers. 977</bibl>
+      <quote xml:lang="grc">ἐὴ ἐὴ τλάμονες ἀσπαίρουσι χέρσῳ.</quote>
+    </cit>
+    <cit>
+      <bibl>991</bibl>
+      <quote xml:lang="grc">βοᾷ βοᾷ μοιμελέων | ἔντοσθεν ήτορ,</quote>
+      <note xml:lang="lat">ubi codex eee ter superscripto spiritu aspero et accentu, i. e. Eἕ.</note>
+    </cit>
+    <cit>
+      <bibl>Sept. 327</bibl>
+      <quote xml:lang="grc">ἐὴ νέας (hoc monosyllabum) τε καὶ παλαιάς. = ἐὴ, δυστυχή τε πράσσει,</quote>
+      <note xml:lang="lat">ubi èè codex utrobique.</note>
+    </cit>
+    <note xml:lang="lat">Idem Sept. 966 = 978 et Ag. 114 (ubi ἐὲ παπαῖ) restitui et fortasse restituendum est Suppl. 831, quantum in loco defecto iudicari potest, pro ἠὲ ἡé, quod est in codice, cui idem illatum etiam Pers. 569 = 577 651 = 656, ubi prorsus absurdum est, ut ostendi in Leutschii Philologo vol. 13 p. 477 485 omninoque haec interiectio, ab nemine grammaticorum memorata, nunquam exstitit: exstitit vero duplicatum ἢ ἢ, etsi unum tantum superest exemplum Arist. Nub. 105 (quo grammaticus utitur in Montef. Bibl. Coisl. p. 500 600.) ἢ ἢ σιώπα, quod ego coniunctim ἠή scripsi. Sophocli OC. 149 ἐὴ (ἔ € L), ἀλαῶν ὀμμάτωνrestitui, convenienter versui strophico 117 ὅρα, τίς ἄρ᾽ ἣν; ποῦ ναίει; Tr. 1005 1014, ubi codex è é, aut ἐὴ ἐή aut aἰαî scribendum. Ib. 1025 ἐὲ ἰὼ ἰὼ δαίμον, quum dochmius legatur in antistropha 1043 τὸν μέλεον φθίσας, aut ἐὴ ἰὼ δαίμων scribendum, aut, quod probabilius, αἰαὶ, ἰὼ δαίμων, correpta altera interiectionls syllaba, ut in eodem metro Ant. 1288 αἰαῖ, ὀλωλότ᾽ ἄνδρα. Denique Tr. 1081, ubi codex inepte cumulatis interiectionibus αἶ αἶ ὦ τάλας αἰ αἰ (scriptis super αἰ αἰ a m. rec. litteris € €), dipodiam iambicam αἰαî τάλας restitui. é é male illatum in initio versus Ch. 789. Ib. 869 ἐὴ ὁτοτοτοῖ, scripsi, ubi M ề ễ, sed probabilius est ἐὴ ἐὴ, ὀτοτοτοτοῖ.</note>
+  </sense>
+</entry>
+<entry xml:id="etheira">
+  <form>
+    <orth xml:lang="grc">ἔθειρα</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">capillus</def>
+    <cit>
+      <bibl>Pers. 1062</bibl>
+      <quote xml:lang="grc">ψάλλ᾽ ἔθειραν.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 175</bibl>
+      <quote xml:lang="grc">ποίαις ἐθείραις;</quote>
+    </cit>
+  </sense>
+</entry>
+<entry xml:id="ethelo">
+  <form>
+    <orth xml:lang="grc">ἐθέλω</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">volo</def>
+    <cit>
+      <bibl>Pr. 178</bibl>
+      <quote xml:lang="grc">πρὶν ἂν – ποινὰς τίνειν ἐθελήση.</quote>
+    </cit>
+    <cit>
+      <bibl>1067</bibl>
+      <quote xml:lang="grc">ὅ τι χρὴ πάσχειν ἐθέλω.</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 779</bibl>
+      <quote xml:lang="grc">κἀγὼ πάλου δ᾽ ἔκυρσα τοῦπερ ἤθελον.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1569</bibl>
+      <quote xml:lang="grc">ἐγὼ δ᾽ οὖν ἐθέλω τάδε μὲν στέργειν.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 701</bibl>
+      <quote xml:lang="grc">κεδνῶν ἕκατι πραγμάτων ἂν ἤθελον γνωστός γενέσθαι.</quote>
+    </cit>
+    <note xml:lang="lat">Multo frequentiora alterius formae exempla sunt θέλω, de qua suo loco dicetur. Trisyllaba in anapaestis potissimum est usurpata, disyllaba in iambicis versibus, quibus trisyllaba minus
+      <pb n="101"/>
+      101
+      commoda est. Imperfectum vero et aoristus constanter ab forma trisyllaba sumta sunt, ut augmentum docet, ἤθελον et ἠθέλησα.</note>
+  </sense>
+</entry>
+<entry xml:id="hethen">
+  <form>
+    <orth xml:lang="grc">ἕθεν</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">sui</def>
+    <note xml:lang="lat">V. ἵ.</note>
+  </sense>
+</entry>
+<entry xml:id="ethnos">
+  <form>
+    <orth xml:lang="grc">ἔθνος</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">gens</def>
+    <cit>
+      <bibl>Pers. 43</bibl>
+      <quote xml:lang="grc">Λυδῶν ὄχλος, οἵτ᾽ ἐπίπαν ἠπειρογενὲς κατέχουσιν ἔθνος.</quote>
+    </cit>
+    <cit>
+      <bibl>56</bibl>
+      <quote xml:lang="grc">τὸ μαχαιροφόρον τ᾽ ἔθνος.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 366</bibl>
+      <quote xml:lang="grc">αἱματόφυρτον πᾶν ἔθνος τόδε.</quote>
+    </cit>
+  </sense>
+</entry>
+
+<entry xml:id="ethos_vitiose">
+  <form>
+    <orth xml:lang="grc">[ἔθος]</orth>
+  </form>
+  <sense>
+    <note xml:lang="lat">
+      <bibl>Ag. 728</bibl> vitiose pro <quote xml:lang="grc">ἦθος</quote>, quod v.</note>
+  </sense>
+</entry>
+<entry xml:id="ei">
+  <form>
+    <orth xml:lang="grc">εἴ</orth>
+  </form>
+  <sense>
+    <def xml:lang="lat">si</def>
+    <note xml:lang="lat">Haec particula quomodo ab ἐάν differat, quod ipsum quoque si significat, s. v. ἐάν dictum est. Est particula condicionalis, quae cum indicativo vel optativo omnium temporum construitur, condicione cui exprimendae servit vel in initio vel in fine sententiae posita vel mediae sententiae interposita. Quorum omnium exempla apud scriptores quosvis innumera reperiuntur, ut vix operae pretium fecerit Wellauerus, quum Aeschylea colligeret, quae infra posui, correctis quae ille non recte scripserat.</note>
+  </sense>
+  <sense>
+    <def xml:lang="lat">1. eἰ cum indicativo praesentis, sequente in apodosi indicativo vel expresso vel intellecto, vel imperativo, vel optativo qui proprie dicitur, vel optativo cum ἄv, vel coniunctivo cum μή, vel participio.</def>
+    <sense>
+      <def xml:lang="lat">Cum indicativo, sequente indicativo</def>
+      <cit>
+        <bibl>Pr. 343</bibl>
+        <quote xml:lang="grc">μάτην – πονήσεις, εἴ τι καὶ πονεῖν θέλεις.</quote>
+      </cit>
+      <cit>
+        <bibl>988</bibl>
+        <quote xml:lang="grc">οὐ γὰρ σὺ παῖς τε κάτι τοῦδ᾽ ἀνούστερος, εἰ προσδοκᾷς.</quote>
+      </cit>
+      <cit>
+        <bibl>Sept. 447</bibl>
+        <quote xml:lang="grc">κεί στόμαργός ἐστ᾽ ἄγαν, αἴθων τέτακται λῆμα.</quote>
+      </cit>
+      <cit>
+        <bibl>[517]</bibl>
+        <quote xml:lang="grc">εἰκός γε πράξειν ἄνδρας ὧδ᾽ ἀντιστάτας, εἰ Ζεύς γε Τυφῶ καρτερώτερος μάχη.</quote>
+      </cit>
+      <cit>
+        <bibl>Pers. 800</bibl>
+        <quote xml:lang="grc">παῦροί γε πολλῶν, εἴ τι πιστεῦσαι θεῶν χρὴ θεσφάτοισιν.</quote>
+      </cit>
+      <cit>
+        <bibl>Ag. 1088</bibl>
+        <quote xml:lang="grc">εἰ σὺ μὴ τόδ᾽ ἐννοεῖς, ἐγὼ λέγω σοι.</quote>
+      </cit>
+      <cit>
+        <bibl>1239</bibl>
+        <quote xml:lang="grc">καὶ τῶνδ᾽ ὅμοιον εἴ τι μὴ πείθω.</quote>
+      </cit>
+      <cit>
+        <bibl>1296</bibl>
+        <quote xml:lang="grc">εἰ δ᾽ ἐτητύμως μόρον τὸν αὑτῆς οἶσθα, πῶς – πατεῖς;</quote>
+      </cit>
+      <cit>
+        <bibl>1308</bibl>
+        <quote xml:lang="grc">τί τοῦτ᾽ ἔφευξας, εἴ τι μὴ φρενῶν στύγος;</quote>
+      </cit>
+      <cit>
+        <bibl>1328</bibl>
+        <quote xml:lang="grc">εἰ δὲ δυστυχῆ, βολαῖς ὑγρώσσων σφόγγος ὤλεσεν γραφήν.</quote>
+      </cit>
+      <cit>
+        <bibl>1661</bibl>
+        <quote xml:lang="grc">ὧδ᾽ ἔχει λόγος γυναικός, εἴ τις ἀξιοῖ μαθεῖν.</quote>
+      </cit>
+      <cit>
+        <bibl>Ch. 672</bibl>
+        <quote xml:lang="grc">εἰ δ᾽ ἄλλο πρᾶξαι δεῖ τι βουλιώτερον, ἀνδρῶν τόδ᾽ ἐστὶν ἔργον.</quote>
+      </cit>
+      <cit>
+        <bibl>Eum. 219</bibl>
+        <quote xml:lang="grc">εἰ τοῖσιν οὖν κτείνουσιν ἀλλήλους χαλᾷς – οὐ φημι.</quote>
+      </cit>
+      <cit>
+        <bibl>[470]</bibl>
+        <quote xml:lang="grc">τὸ πρᾶγμα μεῖζον εἴ (ἤ recte Porsonus) τις οἴεται τόδε βροτὸς δικάζειν.</quote>
+      </cit>
+      <cit>
+        <bibl>Suppl. 57</bibl>
+        <quote xml:lang="grc">εἰ δὲ κυρεῖ τις πέλας οἰωνοπόλων — δοξάσει.</quote>
+      </cit>
+      <cit>
+        <bibl>778</bibl>
+        <quote xml:lang="grc">ποῖ φύγωμεν ᾿Απίας χθονός, κελαινὸν εἴ τι κεῦθός ἐστί που;</quote>
+      </cit>
+      <cit>
+        <bibl>960</bibl>
+        <quote xml:lang="grc">εἰ δέ τις μείζων χάρις, πάρεστιν | οἰκεῖν.</quote>
+      </cit>
+    </sense>
+    <sense>
+      <def xml:lang="lat">Sequente imperativo</def>
+      <cit>
+        <bibl>Pr. 196</bibl>
+        <quote xml:lang="grc">δίδαξον ἡμᾶς, εἴ τι μὴ βλάπτει λόγω.</quote>
+      </cit>
+      <cit>
+        <bibl>683</bibl>
+        <quote xml:lang="grc">εἰ δ᾽ ἔχεις εἰπεῖν ὅ τι λοιπὸν πόνων, σήμαινε.</quote>
+      </cit>
+      <cit>
+        <bibl>763</bibl>
+        <quote xml:lang="grc">σήμηνον, εἰ μή τις βλάβη.</quote>
+      </cit>
+      <cit>
+        <bibl>765</bibl>
+        <quote xml:lang="grc">εἰ ῥητὸν, φράσον.</quote>
+      </cit>
+      <cit>
+        <bibl>816</bibl>
+        <quote xml:lang="grc">εἴ τι σοὶ ψελλόν τε καὶ δυσεύρετον, ἐπανδίπλαζε.</quote>
+      </cit>
+      <cit>
+        <bibl>819</bibl>
+        <quote xml:lang="grc">εἰ μέν τι τῇδε λοιπὸν ἔχεις γεγωνεῖν, λέγε.</quote>
+      </cit>
+      <cit>
+        <bibl>821</bibl>
+        <quote xml:lang="grc">εἰ δὲ πάντ᾽ εἴρηκας, ἡμῖν αὐ χάριν δός.</quote>
+      </cit>
+      <cit>
+        <bibl>Pers. 295</bibl>
+        <quote xml:lang="grc">λέξον κατάστὰς, κεἰ στένεις κακοῖς ὅμως.</quote>
+      </cit>
+      <cit>
+        <bibl>Ag. 1060</bibl>
+        <quote xml:lang="grc">εἰ δ᾽ ἀξυνήμων οὖσα μὴ δέχει λόγον, σὺ δ᾽ ἀντὶ φωνῆς φράζε καρβάνῳ χερί.</quote>
+      </cit>
+      <cit>
+        <bibl>Ch. 115</bibl>
+        <quote xml:lang="grc">μέμνησ' Ὀρέστου, κεί θυραῖός ἐσθ᾽ ὅμως.</quote>
+      </cit>
+      <cit>
+        <bibl>Eum. 31</bibl>
+        <quote xml:lang="grc">κεἰ παρ᾿ Ἑλλήνων τινὲς ἴτων πάλῳ λαχόντες.</quote>
+      </cit>
+      <cit>
+        <bibl>Suppl. 366</bibl>
+        <quote xml:lang="grc">εἰ μιαίνεται πόλις, ξυνῇ μελέσθω λαός.</quote>
+      </cit>
+    </sense>
+    <sense>
+      <def xml:lang="lat">Sequente optativo</def>
+      <cit>
+        <bibl>Pr. 978</bibl>
+        <quote xml:lang="grc">νοσοῖμ᾽ ἂν, εἰ νόσημα τοὺς ἐχθροὺς στυγεῖν.</quote>
+      </cit>
+      <cit>
+        <bibl>Pers. 681</bibl>
+        <quote xml:lang="grc">εἰ γάρ τι κακῶν ἄκος οἶδε πλέον, μόνος ἂν θνητῶν πέρας εἴποι.</quote>
+      </cit>
+      <cit>
+        <bibl>Ag. 338</bibl>
+        <quote xml:lang="grc">εἰ δ᾽ εὐσεβοῦσι τοὺς πολισσούχους θεοὺς οὔ τἂν ἑλόντες αὖθις ἀνθαλοῖεν ἄν.</quote>
+      </cit>
+      <cit>
+        <bibl>Ch. 203</bibl>
+        <quote xml:lang="grc">εἰ δὲ χρὴ τυχεῖν σωτηρίας, σμικροῦ γένοιτ᾽ ἂν σπέρματος μέγας πυθμήν.</quote>
+      </cit>
+      <cit>
+        <bibl>668</bibl>
+        <quote xml:lang="grc">λέγοιτ᾽ ἂν εἴ τι δεῖ.</quote>
+      </cit>
+      <cit>
+        <bibl>Eum. 885</bibl>
+        <quote xml:lang="grc">ἀλλ᾽ εἰ μὲν ἁγνόν ἐστί σοι Πειθοῦς σέβας — σὺ δ᾽ οὖν μένοις ἄν · εἰ δὲ μὴ θέλεις μένειν, οὐ τἂν δικαίως τῇδ᾽ ἐπιρρέποις πόλει μηνίν τινα.</quote>
+      </cit>
+      <cit>
+        <bibl>Suppl. 387</bibl>
+        <quote xml:lang="grc">εἴ τοι κρατοῦσι παῖδες Αἰγύπτου σέθεν τίς ἂν τοῖσδ᾽ ἀντιωθῆναι θέλοι;</quote>
+      </cit>
+      <cit>
+        <bibl>Pr. 345</bibl>
+        <quote xml:lang="grc">ἐγὼ γὰρ οὐκ εἰ δυστυχῶ, τοῦδ᾽ ούνεκα θέλοιμ᾽ ἂν ὡς πλείστοισι πημονὰς τυχεῖν.</quote>
+      </cit>
+      <cit>
+        <bibl>Ag. 944</bibl>
+        <quote xml:lang="grc">ἀλλ' εἰ δοκεῖ σοι ταῦθ᾽, ὑπαί τις ἀρβύλας λύοι.</quote>
+      </cit>
+    </sense>
+  </sense>
+  <sense>
+    <def xml:lang="lat">2. Cum perfecto</def>
+    <cit>
+      <bibl>Pers. 158</bibl>
+      <quote xml:lang="grc">θεοῦ δὲ καὶ μήτηρ ἔφυς, εἴ τι μὴ δαίμων παλαιὸς νῦν μεθέστηκε στρατῷ.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 1016</bibl>
+      <quote xml:lang="grc">εἰ γάρ τι μὴ θεοῖς βεβούλευται νέον, ἴχνος τὸ πρόσθεν οὐ διαστρέψω φρενός.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 520</bibl>
+      <quote xml:lang="grc">εἴ που πάλαι (δέδεχθε), φαιδροῖσι καὶ νῦν ὄμμασιν δέξασθε.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 298</bibl>
+      <quote xml:lang="grc">κεἰ μὴ πέποιθα, τοὔργον ἔστ᾽ ἐργαστέον.</quote>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">3. Cum futuro, sequente in apodosi indicativo vel imperativo.</def>
+    <cit>
+      <bibl>Sept. 196</bibl>
+      <quote xml:lang="grc">κεἰ μή τις ἀρχῆς τῆς ἐμῆς ἀκούσεται –, ψῆφος κατ᾿ αὐτῶν ὀλεθρία βουλεύσεται.</quote>
+    </cit>
+    <cit>
+      <bibl>618</bibl>
+      <quote xml:lang="grc">οἶδεν ὡς σφε χρὴ τελευτῆσαι μάχη, εἰ καρπὸς ἔσται θεσφάτοισι Λοξίου.</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 357</bibl>
+      <quote xml:lang="grc">ὡς, εἰ μελαίνης νυκτός ἵξεται κνέφας, Ἕλληνες οὐ μενοῖεν.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 1059</bibl>
+      <quote xml:lang="grc">εἴ τι δράσεις τώνδε, μὴ σχολὴν τίθει.</quote>
+    </cit>
+    <cit>
+      <bibl>1338</bibl>
+      <quote xml:lang="grc">εἰ προτέρων αἷμ᾿ ἀποτίσει ἐπικρανεῖ.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 182</bibl>
+      <quote xml:lang="grc">οὐχ ἡσσον εὐδάκρυτά μοι λέγεις τάδε, εἰ τῆσδε χώρας μήποτε ψαύσει ποδί.</quote>
+    </cit>
+    <cit>
+      <bibl>273</bibl>
+      <quote xml:lang="grc">ἄτας – ἐξαυδώμενος, εἰ μὴ μέτειμι τοῦ πατρὸς (immo τοῦ φόνου) τοὺς αἰτίους.</quote>
+    </cit>
+    <cit>
+      <bibl>571</bibl>
+      <quote xml:lang="grc">εἰ δ᾽ οὖν ἀμείψω βαλὸν ἕρκειον πυλῶν —, νεκρὸν θήσω.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 597</bibl>
+      <quote xml:lang="grc">εἴ σε μάρψει ψῆφος, ἀλλ᾽ ἐρεῖς τάχα.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 461</bibl>
+      <quote xml:lang="grc">εἰ μή τι πιστὸν τῷδ᾽ ὑποστήσεις στόλῳ.</quote>
+    </cit>
+    <cit>
+      <bibl>472</bibl>
+      <quote xml:lang="grc">εἰ μὲν γὰρ ὑμῖν μὴ τόδ᾽ ἐκπράξω χρέος, μίασμ᾿ ἔλεξας οὐχ ὑπερτοξεύσιμον.</quote>
+    </cit>
+    <cit>
+      <bibl>902</bibl>
+      <quote xml:lang="grc">εἰ μή τις ἐς ναῦν εἶσιν –, κατοικτιεῖ.</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 280</bibl>
+      <quote xml:lang="grc">εἰ γάρ τιν᾽ ἑστιοῦχον ὄψομαι μόνον —, στέγην πυρώσω.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 511</bibl>
+      <quote xml:lang="grc">ἀλλ᾽ εἰ δρακόντων δυσφρόνων ἐχθίοσιν (ἐκδώσεις);</quote>
+    </cit>
+    <sense>
+      <def xml:lang="lat">Sequente in apodosi optativo</def>
+      <cit>
+        <bibl>Pr. 311</bibl>
+        <quote xml:lang="grc">εἰ δ᾽ ὧδε τραχεῖς καὶ τεθηγμένους λόγους ῥίψεις, τάχ᾽ ἄν σου καὶ μακρὰν ἀνωτέρω θακῶν κλύοι Ζεύς.</quote>
+      </cit>
+      <cit>
+        <bibl>Suppl. 924</bibl>
+        <quote xml:lang="grc">ἄγοιμ᾽ ἂν, εἴ τις τάσδε μὴ ᾿ξαιρήσεται.</quote>
+      </cit>
+    </sense>
+  </sense>
+  <sense>
+    <def xml:lang="lat">4. Cum imperfecto, sequente in apodosi imperfecto vel aoristo cum av, dicitur de re quae non est, sed esse fingitur.</def>
+    <cit>
+      <bibl>Sept. 662</bibl>
+      <quote xml:lang="grc">εἰ δ᾽ ἡ Διὸς παῖς παρθένος Δίκη παρῆν –, τάχ᾽ ἂν τόδ᾽ ἦν.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 869</bibl>
+      <quote xml:lang="grc">εἰ δ᾽ ἦν τεθνηκὼς – τρισώματός τἂν Γηρυὼν ἐξηύχει.</quote>
+    </cit>
+    <cit>
+      <bibl>1025</bibl>
+      <quote xml:lang="grc">εἰ δὲ μὴ τεταγμένα Μοῖρα – εἰργε –, προφθάσασα καρδία γλῶσσαν ἂν τάδ᾽ ἐξέχει.</quote>
+    </cit>
+    <cit>
+      <bibl>1201</bibl>
+      <quote xml:lang="grc">κυρεῖν λέγουσαν, ὥσπερ (ἂν ἔλεγες) εἰ παρεστάτεις.</quote>
+    </cit>
+    <cit>
+      <bibl>1395</bibl>
+      <quote xml:lang="grc">εἰ δ᾽ ἣν πρεπόντως ὥστ᾽ ἐπισπένδειν νεκρῷ, τάδ᾽ ἂν δικαίως ἦν.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 288</bibl>
+      <quote xml:lang="grc">εἰ τοξοτευχεῖς ἦτε, κάρτ᾽ ἂν ἤκασα.</quote>
+    </cit>
+    <note xml:lang="lat">et omisso ἄν</note>
+    <cit>
+      <bibl>245</bibl>
+      <quote xml:lang="grc">καὶ τἄλλα πόλλ᾽ ἐπεικάσαι δίκαιον ἦν, εἰ μὴ παρόντι φθόγγος ἦν ὁ σημανῶν.</quote>
+    </cit>
+    <sense>
+      <def xml:lang="lat">Sequente in apodosi perfecto</def>
+      <cit>
+        <bibl>Ag. 866</bibl>
+        <quote xml:lang="grc">τραυμάτων μὲν εἰ τόσων ἐτύγχανεν –, τέτρωται.</quote>
+      </cit>
+    </sense>
+  </sense>
+  <sense>
+    <def xml:lang="lat">5. Cum indicativo aoristi</def>
+    <cit>
+      <bibl>Sept. 1016</bibl>
+      <quote xml:lang="grc">ὡς ὅντ᾽ ἀναστατῆρα Καδμείων χθονός, εἰ μὴ θεῶν τις ἐμποδὼν ἔστη.</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 217</bibl>
+      <quote xml:lang="grc">εἴ τι φλαῦρον εἶδες, αἰτοῦ τῶνδ᾽ ἀποτροπὴν κακῶν.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 935</bibl>
+      <quote xml:lang="grc">τί δ᾽ ἂν δοκεῖ σοι Πρίαμος εἰ τάδ᾽ ἤνυσεν;</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 345</bibl>
+      <quote xml:lang="grc">εἰ γὰρ ὑπ᾿ Ἰλίῳ κατηναρίσθης —, πολύχωστον ἂν εἶχες τάφον.</quote>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">6. Cum optativo de re quae incertum est sit an non sit, sequente in apodosi plerumque optativo cum ἄν.</def>
+    <cit>
+      <bibl>Pr. 979</bibl>
+      <quote xml:lang="grc">εἴης φορητός οὐκ ἂν, εἰ πράσσοις καλῶς.</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 4</bibl>
+      <quote xml:lang="grc">εἰ μὲν γὰρ εὐ πράξαιμεν, αἰτία θεοῦ · εἰ δ᾽ αὖθ᾽, ὃ μὴ γένοιτο, συμφορὰ τύχοι, Ἐτεοκλέης ἂν εἰς πολὺς κατὰ πτόλιν ὑμνοῦτο.</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 403</bibl>
+      <quote xml:lang="grc">εἰ γὰρ θανόντι νὺξ ἐπ᾿ ὀφθαλμοῖς πέσοι –, γένοιτ᾽ ἄν.</quote>
+    </cit>
+    <cit>
+      <bibl>550</bibl>
+      <quote xml:lang="grc">εἰ γὰρ τύχοιεν –, ἡ τἂν πανώλεις παγκάκως τ᾽ ὀλοίατο.</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 369</bibl>
+      <quote xml:lang="grc">ὡς εἰ
+        <pb n="102"/>
+        102
+        μόρον φευξοίαθ᾽ Ἕλληνες κακὸν – πᾶσι στέρεσθαι κρατὸς ἦν προκείμενον.</quote>
+    </cit>
+    <cit>
+      <bibl>526</bibl>
+      <quote xml:lang="grc">ἥξω λαβοῦσα πέλανον –, ἐπίσταμαι μὲν ὡς ἐπ᾿ ἐξειργασμένοις, ἀλλ᾽ ἐς τὸ λοιπὸν, εἴ τι δὴ λῷον πέλοι.</quote>
+    </cit>
+    <cit>
+      <bibl>429</bibl>
+      <quote xml:lang="grc">οὐδ᾽ ἂν εἰ δέκ᾽ ἤματα στοιχηγοροίην, οὐκ ἂν ἐκπλήσαιμί σοι.</quote>
+    </cit>
+    <cit>
+      <bibl>790</bibl>
+      <quote xml:lang="grc">εἰ μὴ στρατεύοισθ᾽ ἐς τὸν Ἑλλήνων τόπον.</quote>
+      <note xml:lang="lat">ubi apodosis πράσσοιτ᾽ ἂν ὡς ἄριστα supplenda ex praecedentibus alterius personae verbis.</note>
+    </cit>
+    <cit>
+      <bibl>Ag. 345</bibl>
+      <quote xml:lang="grc">θεοῖς δ᾽ ἀναμπλάκητος εἰ μόλοι στρατός, κάμψαι – γένοιτ᾽ ἂν, εἰ πρόσπαια μὴ τύχοι κακά,</quote>
+      <note xml:lang="lat">ubi εἰ in protasi duplici positum est, interposita apodosi, ut in locis Sophocleis Ai. 782. El. 582.</note>
+    </cit>
+    <cit>
+      <bibl>Ag. 883</bibl>
+      <quote xml:lang="grc">τόν θ᾽ ὑπ᾽ Ἰλίῳ σέθεν κίνδυνον, εἴ τε δημόθρους ἀναρχία βουλὴν καταρρίψειεν.</quote>
+    </cit>
+    <cit>
+      <bibl>1049</bibl>
+      <quote xml:lang="grc">πείθοι᾽ ἂν εἰ πείθοιο.</quote>
+    </cit>
+    <cit>
+      <bibl>1394</bibl>
+      <quote xml:lang="grc">χαίροιτ᾽ ἂν εἰ χαίροιτε.</quote>
+    </cit>
+    <cit>
+      <bibl>1659</bibl>
+      <quote xml:lang="grc">εἰ δέ τοι μόχθων γένοιτο τῶνδ᾽ ἅλις, δεχοίμεθ᾽ ἄν.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 105</bibl>
+      <quote xml:lang="grc">λέγοις ἂν, εἴ τι τῶνδ᾽ ἔχοις ὑπέρτερον.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 420</bibl>
+      <quote xml:lang="grc">μάθοιμ᾽ ἂν, εἰ λέγοι τις ἐμφανῆ λόγον.</quote>
+    </cit>
+    <cit>
+      <bibl>467</bibl>
+      <quote xml:lang="grc">ἄλγη προφωνῶν ἀντίκεντρα καρδίᾳ, εἰ μή τι τῶνδ᾽ ἔρξαιμι τοὺς ἐπαιτίους.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 730</bibl>
+      <quote xml:lang="grc">εἰ βραδύνοιμεν βοῇ.</quote>
+    </cit>
+    <cit>
+      <bibl>754</bibl>
+      <quote xml:lang="grc">καλῶς γ᾽ ἂν ἡμῖν ξυμφέροι ταῦτ᾽, ὦ τέκνα, εἰ σοί τε καὶ θεοῖσιν ἐχθαιροίατο.</quote>
+    </cit>
+    <cit>
+      <bibl>925</bibl>
+      <quote xml:lang="grc">κλάοις ἂν, εἰ ψαύσειας.</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 299</bibl>
+      <quote xml:lang="grc">οὔτε πολλά τραύματ᾽ ἐν στέρνοις λαβὼν | θνήσκει τις, εἰ μὴ τέρμα συντρέχοι βίου.</quote>
+    </cit>
+    <cit>
+      <bibl>Pr. 478</bibl>
+      <quote xml:lang="grc">εἴ τις ἐς νόσον πέσοι, οὐκ ἦν ἀλέξημ᾽ οὐδέν.</quote>
+    </cit>
+    <cit>
+      <bibl>667</bibl>
+      <quote xml:lang="grc">κεἰ μὴ θέλοι, πυρωπὸν ἐκ Διός μολεῖν κεραυνόν.</quote>
+    </cit>
+    <cit>
+      <note xml:lang="lat">Omisso in apodosi verbo</note>
+      <bibl>Ag. 930</bibl>
+      <quote xml:lang="grc">εἰ πάντα δ᾽ ὡς πράσσοιμεν (sic correxi vitiosum πράσσοιμ᾽ ἄν), εὐθαρσὴς ἐγώ,</quote>
+      <note xml:lang="lat">quod est εὐθαρσὴς ἐγὼ ἂν εἴην.</note>
+    </cit>
+    <cit>
+      <bibl>1042</bibl>
+      <quote xml:lang="grc">εἰ δ᾽ οὖν ἀνάγκη τῆσδ᾽ ἐπιρρέποι τύχης, ἀρχαιοπλούτων δεσποτῶν πολλὴ χάρις,</quote>
+      <note xml:lang="lat">i. e. χάρις ἂν εἴη.</note>
+    </cit>
+    <cit>
+      <note xml:lang="lat">Cum anacolutho</note>
+      <bibl>Ag. 555</bibl>
+      <quote xml:lang="grc">μόχθους γὰρ εἰ λέγοιμι καὶ δυσαυλίας – σπαρνάς παρήξεις καὶ κακοστρώτους, τί δ᾽ οὐ στένοντες, οὐ λαχόντες ἤματος μέρος;</quote>
+      <note xml:lang="lat">ubi post εἰ λέγοιμι sequi debebat οὐκ ἂν τέλος εὕροιμι, pro quo infertur τί δ᾽ οὐ – . Similiter ib. 563 ubi <quote xml:lang="grc">χειμῶνα δ᾽ εἰ λέγοι τις οἰωνοκτόνον</quote> et quae sequuntur, pro apodosi inferuntur verba <quote xml:lang="grc">τί ταῦτα πενθεῖν δεῖ;</quote></note>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">7. εἰ etiam cum coniunctivo</def>
+    <note xml:lang="lat">construxerunt epici, perraro tragici, quod de Sophocle observavit grammaticus in Bekkeri Anecdotis p. 144, 22: de quo dixi in Lexico Soph. p. 138. Aeschyli exempla ipsa quoque pauca sunt et partim incerta. Sic quod Pers. 791 legitur <quote xml:lang="grc">μηδ᾽ εἰ στράτευμα πλεῖον ἢ τὸ Μηδικόν</quote> suspectum est propter πλεῖον. Nam veteres Attici, licet πλείων πλείονος πλείονα πλείω et reliqua dixerint, tamen πλέον potius quam πλεῖον dixerunt, ut incredibile sit Aeschylum hoc uno loco πλεῖον ἢ dixisse, quum στράτευμ' εἴη πλέον scribere posset. Verum ne hoc quidem Aeschylus videtur scripsisse, sed <quote xml:lang="grc">μηδ' εἰ στράτευμα πληθύοι τὸ Μηδικόν</quote>, cui adscriptum fuit glossema πλέον εἴη, postmodo in πλείον ἢ mutatum: quemadmodum passivum πληθύνεσθαι, cuius eadem quae intransitivi πληθύειν significatio est, in Suppl. 604 <quote xml:lang="grc">δήμου κρατοῦσα χεὶρ ὅπη πληθύνεται</quote>, ab scholiasta explicatur <quote xml:lang="grc">πότερον πλείους οἱ συμμαχοῦντες ἡμῖν, ἢ ὀλίγοι</quote>. Nullius momenti est <bibl>Suppl. 400</bibl>
+      <quote xml:lang="grc">μὴ καὶ ποτὲ εἴπῃ λεώς, εἴ πού τι μὴ τοῖον τύχῃ,</quote> ubi non dubitandum quin Porsonus recte scripserit τύχοι. Certius eiusdem fabulae exemplum est 91 <quote xml:lang="grc">εἰ κρανθῇ πρᾶγμα τέλειον.</quote> et <bibl>Eum. 234</bibl>
+      <quote xml:lang="grc">δεινή τοῦ προστροπαίου μῆνις, εἰ προδῶ σφ᾽ ἑκών,</quote> ubi Porsonus ἢν προδῶ scripsit.</note>
+  </sense>
+  <sense>
+    <def xml:lang="lat">8. εἰ δὲ μή sin minus</def>
+    <cit>
+      <bibl>Ch. 305</bibl>
+      <quote xml:lang="grc">θήλεια γὰρ φρήν · εἰ δὲ μὴ, τάχ᾿ εἴσεται.</quote>
+    </cit>
+    <cit>
+      <bibl>484</bibl>
+      <quote xml:lang="grc">εἰ δὲ μὴ, παρ' εὐδείπνοις ἔσει ἄτιμος.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 154</bibl>
+      <quote xml:lang="grc">εἰ δὲ μὴ, —
+        <col/>
+        ἱξόμεσθα.</quote>
+    </cit>
+    <sense>
+      <def xml:lang="lat">εἰ μή nisi</def>
+      <cit>
+        <bibl>Sept. 102</bibl>
+        <quote xml:lang="grc">πότ᾽, εἰ μὴ νῦν, ἀμφὶ λιτάν᾿ ἕξομεν;</quote>
+        <note xml:lang="lat">quae metro postulante transposuit Prienus εἰ μὴ νῦν, πότ᾽ -.</note>
+      </cit>
+      <cit>
+        <bibl>Ag. 1139</bibl>
+        <quote xml:lang="grc">οὐδέν ποτ᾽ εἰ μὴ ξυνθανουμένην.</quote>
+      </cit>
+    </sense>
+  </sense>
+  <sense>
+    <def xml:lang="lat">9. καὶ εἰ etsi</def>
+    <cit>
+      <bibl>Sept. 447</bibl>
+      <quote xml:lang="grc">κεἰ στόμαργός ἐστ᾽ ἄγαν.</quote>
+    </cit>
+    <cit>
+      <bibl>Pers. 295</bibl>
+      <quote xml:lang="grc">κεί στένεις κακοῖς ὅμως.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 115</bibl>
+      <quote xml:lang="grc">κεἰ θυραῖός ἐσθ᾽ ὅμως.</quote>
+    </cit>
+    <cit>
+      <bibl>298</bibl>
+      <quote xml:lang="grc">κεἰ μὴ πέποιθα.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 269</bibl>
+      <quote xml:lang="grc">ὄψει δὲ κεἴ τις ἄλλος ἤλιτεν βροτῶν.</quote>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">10. εἰ utinam</def>
+    <cit>
+      <bibl>Pr. 152</bibl>
+      <quote xml:lang="grc">εἰ γάρ μ᾽ ὑπὸ γῆν – εἰς ἀπέραντον Τάρταρον ἧκεν.</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 260</bibl>
+      <quote xml:lang="grc">αἰτουμένῳ μοι κοῦφον εἰ δοίης τέλος.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 85</bibl>
+      <quote xml:lang="grc">εἰ θείη θεὸς (sic Schuetzius correxit pro Διός) εὐ παναληθῶς.</quote>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">11. εἰ in interrogatione indirecta an</def>
+    <cit>
+      <bibl>Pr. 997</bibl>
+      <quote xml:lang="grc">ὅρα νυν, εἴ σοι ταῦτ᾽ ἀρωγὰ φαίνεται.</quote>
+    </cit>
+    <cit>
+      <bibl>Sept. 660</bibl>
+      <quote xml:lang="grc">τάχ᾽ εἰσόμεσθα τἀπίσημ᾿ ὅπη τελεῖ, εἴ νιν κατάξει χρυσότευκτα γράμματα.</quote>
+    </cit>
+    <cit>
+      <bibl>Ag. 477</bibl>
+      <quote xml:lang="grc">εἰ δ᾽ ἐτητύμως, τίς οἶδεν;</quote>
+    </cit>
+    <cit>
+      <bibl>618</bibl>
+      <quote xml:lang="grc">Μενέλεων δὲ πεύθομαι, εἰ νόστιμός γε.</quote>
+    </cit>
+    <cit>
+      <bibl>Ch. 688</bibl>
+      <quote xml:lang="grc">εἰ δὲ τυγχάνω οὐκ οἶδα.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 142</bibl>
+      <quote xml:lang="grc">ἰδώμεθ᾽ εἴ τι τοῦδε φροιμίου ματᾷ.</quote>
+    </cit>
+    <cit>
+      <bibl>587</bibl>
+      <quote xml:lang="grc">τὴν μητέρ᾽ εἰπὲ πρῶτον εἰ κατέκτονας.</quote>
+    </cit>
+    <cit>
+      <bibl>610</bibl>
+      <quote xml:lang="grc">ἐξηγοῦ δέ μοι. εἴ σφε σὺν δίκη κατέκτανον.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 76</bibl>
+      <quote xml:lang="grc">γοεδνὰ δ᾽ ἀνθεμίζομαι δειμαίνουσα φίλους, τᾶσδε φυγᾶς εἴ τίς ἐστι κηδεμών.</quote>
+    </cit>
+    <cit>
+      <bibl>Suppl. 737</bibl>
+      <quote xml:lang="grc">περίφοβόν μ' ἔχει τάρβος ἐτητύμως, πολυδρόμου φυγᾶς ὄφελος εἴ τί μοι.</quote>
+    </cit>
+  </sense>
+  <sense>
+    <def xml:lang="lat">12. εἰ respondente particula εἴτε</def>
+    <cit>
+      <bibl>Ch. 768</bibl>
+      <quote xml:lang="grc">εἰ ξὺν λοχίταις, εἴτε καὶ μονοστιβῆ.</quote>
+    </cit>
+    <cit>
+      <bibl>Eum. 468</bibl>
+      <quote xml:lang="grc">εἰ δικαίως εἴτε μὴ, κρῖνον δίκην.</quote>
+    </cit>
+    <cit>
+      <bibl>612</bibl>
+      <quote xml:lang="grc">εἰ δικαίως εἴτε μὴ τῇ σῇ φρενὶ δοκεῖ τόδ᾽ αἷμα, κρῖνον.</quote>
+    </cit>
+    <cit>
+      <bibl>Fr. 257</bibl>
+      <quote xml:lang="grc">τοὺς θανόντας εἰ θέλεις εὐεργετεῖν εἴτ᾿ οὖν κακουργεῖν, ἀμφιδεξίως ἔχει.</quote>
+    </cit>
+  </sense>
+</entry>
       </div>
     </body>
   </text>
