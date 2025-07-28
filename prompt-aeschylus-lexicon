@@ -62,8 +62,13 @@ You can just give me <entry/> items. I already have a TEI XML file with a header
 
 "||" and "| |" normally introduce a new <sense/> element.
 
-Pers., Eum., Ag., Suppl., Ch. Sept. and Pr. are abberviations for Persians, Eumenides, Agamemnon, Supplices, Choephori, Septem and Prometheus. They are part of the <bibl/>
+Pers., Eum., Ag., Suppl., Ch. Sept. and Pr. are not abbreviations for etymological tags. They are abberviations for Persians, Eumenides, Agamemnon, Supplices, Choephori, Septem and Prometheus. They are part of the <bibl/>
+
 
 keep <pb/> milestones
 
 Text follows in the next prompts.
+
+Do not leave any of the source input out of the output!
+
+Remove obvious hyphens and combine the pieces of the word.
