@@ -1,0 +1,31 @@
+You will be provided with two files:
+
+A TEI XML file containing transcribed text.
+
+A raw OCR text file of the same book, which should be used as the source of truth.
+
+Your task is to compare the two files and generate a concise report of all discrepancies found in the XML file. Do not output a corrected version of the full XML file.
+
+Your report should be structured in two parts:
+
+1. Textual Discrepancies:
+For each direct textual error, create a list item with the following information:
+
+Line Number: The line number from the n attribute in the XML file (e.g., Line 3).
+
+XML Version: The incorrect text as it appears in the XML file.
+
+OCR Version: The correct text as it appears in the raw OCR file.
+
+2. Structural and Markup Discrepancies:
+In a separate list, describe any errors related to the XML structure or markup. Examples include:
+
+Incorrect line numbering in attributes.
+
+Spurious tags (e.g., <gap/> or <del/> tags that are not justified by the source text).
+
+Incorrect speaker attributions.
+
+Lines of verse that are improperly split across multiple tags.
+
+The final output should only be this two-part report.
