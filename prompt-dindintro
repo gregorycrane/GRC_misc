@@ -1,0 +1,23 @@
+The user wants to create a TEI XML version of a Latin commentary on Aeschylus's "Seven Against Thebes". The commentary focuses on textual issues in the play. The user has provided an XML file of the play (aesch.seven.dind2.xml) and a text file containing the Latin commentary.
+
+The user's task has several steps:
+
+Check the lemmas (quotations from the play) in the commentary against the provided XML of the play.
+
+Note that the commentary will refer to non-standard Greek forms from the manuscript. Mark any forms that look non-standard with <sic/> tags.
+
+Look for <cit/>'s (e.g., <bibl/> + <quote/>.)
+
+Correct any OCR issues in the commentary's lemmas using the XML file as the definitive source.
+
+Record these corrections using the TEI XML <corr/> tag with a sic attribute to show the original, incorrect text.
+
+The user also requests that the lemma itself, which is the opening quotation of each section, be enclosed in <lem> tags.
+
+The user wants the single quote character ' in the words to be replaced with the more appropriate apostrophe Unicode character U+1FBF.
+
+Pattens sucb as "V. 12" or "v. 12" or "v. 12-13" are citations to the current work. Use the name of the XML file to generate the n attribute of the <bibl/>. If the file is "aesch.pb.dind2.xml", the "V. 12" --> <bibl n="Aesch. PB 12">V. 12</bibl>
+
+Label all Greek quotations from other works with <quote xml:lang="grc"></quote>. 
+
+Label all isolated Greek words or phrases that are not necessarily quotations with <foreign xml:lang="grc"></foreign>

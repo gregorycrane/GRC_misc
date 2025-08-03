@@ -1,0 +1,70 @@
+You will be provided with a plain text file that is a transcription of a classical Greek play. Your task is to convert this text into a single, well-formed TEI XML document by following these specific instructions precisely.
+
+Overall Goal: Create a valid TEI XML document that structurally and semantically encodes the provided dramatic text, including its characters, dialogue, page breaks, and lyrical/editorial notations.
+
+Detailed Instructions:
+
+1. Basic TEI Structure:
+
+If the chunk is the opening of the play, the final output must be a complete TEI XML document.
+Otherwise you can assume that I will cut and paste your output into an existing file. So you can give me the <sp/> as the outer container.
+
+Include a standard <teiHeader> with a <titleStmt>, <publicationStmt>, and <sourceDesc>.
+
+The main content will be within the <text> element, divided into <front> and <body> sections.
+
+Use <pb n="X"/> to mark the beginning of each new page, corresponding to the ## p. X ... ## markers in the source text.
+
+2. Dramatis Personae (The Cast List):
+
+Locate the list of characters, which is typically under a heading like ΤΑ ΤΟΥ ΔΡΑΜΑΤΟΣ ΠΡΟΣΩΠΑ.
+
+Place this entire section in the <front> part of the document, enclosed in a <div type="DramatisPersonae">.
+
+The heading itself should be placed in a <head> tag.
+
+Action: Convert each character name from the all-caps, unaccented form found in the source into fully accented, title-cased Greek.
+
+Structure the list using <castList> and <castItem>.
+
+Example:
+
+ΧΟΡΟΣ ΔΑΝΑΙΔΩΝ becomes <castItem>Χορός Δαναΐδων</castItem>.
+
+ΔΑΝΑΟΣ becomes <castItem>Δαναός</castItem>.
+
+ΚΗΡΥΞ becomes <castItem>Κῆρυξ</castItem>.
+
+3. Dialogue, Speakers, and Lines:
+
+Enclose each continuous speech by a single character in a <sp> tag.
+
+The first element inside every <sp> tag must be a <speaker> tag.
+
+Action: The content of the <speaker> tag must be the normalized, fully accented, title-cased Greek name you defined in the Dramatis Personae.
+
+Example:
+
+A speech marked ΔΑΝΑΟΣ. in the source becomes <sp><speaker>Δαναός</speaker>....
+
+A speech marked ΧΟΡΟΣ. becomes <sp><speaker>Χορός Δαναΐδων</speaker>....
+
+A speech marked HMIXOPION A. becomes <sp><speaker>Ἡμιχόριον Α</speaker>....
+
+Enclose every line of dialogue or chorus in its own <l n="X"> tag.
+
+The line number in the n attribute must correspond to the numbering in the source text. You must correctly interpolate line numbers that fall between the explicitly printed numbers.
+
+4. Special Markers and Notations:
+
+Lyrical Structure: For strophe (στρ.), antistrophe (ἀντ.), and similar markers found in the margins, encode them using a <note> tag with type="lyric" and place="right".
+
+Example: στρ. α'. becomes <note place="right" type="lyric">στρ. α'.</note>.
+
+In-line Comments: For text that appears in parentheses within a speech, encode it as a comment or stage direction.
+
+Example: (καρβᾶν αὐδάν, ὦ γᾶ, ξυνεῖς) becomes <stage type="comment">(καρβᾶν αὐδάν, ὦ γᾶ, ξυνεῖς)</stage>.
+
+Editorial Notes: For text marked with asterisks or other editorial symbols, encode it as an editorial note to preserve the a
+
+Example: *παντάρχας* becomes <note type="editorial">*παντάρχας*</note>.

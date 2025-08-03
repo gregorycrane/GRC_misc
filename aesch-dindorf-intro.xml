@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Latin Commentary on Aeschylus Seven Against Thebes</title>
+</titleStmt>
+<publicationStmt>
+<p>TEI version created from plain text and verified against aesch.seven.dind2.xml.</p>
+</publicationStmt>
+<sourceDesc>
+<p>Original commentary text provided by the user. Reference play text from aesch.seven.dind2.xml.</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="commentary" n="1">
+<head>SEPTEM AD THEBAS.</head>
+<p>
+<lem><bibl n="Aesch. Seven 12">V. 12.</bibl> <quote xml:lang="grc">ὥραν τ᾽ ἔχονθ᾽ ἕκαστον ᾧ ᾽στι συμπρεπές</quote></lem>] Hic
+versus in codice Mediceo legitur sic fere scriptus a prima manu,
+<foreign xml:lang="grc">ὥραν τ᾽ <sic>ἔχωνθ᾽</sic> <sic>ἕκαστοσ</sic> <sic>ὥστισ</sic> συμπρεπές</foreign>. <foreign xml:lang="grc">ὥραν</foreign> ab manu
+διορθωτοῦ in <foreign xml:lang="grc">ὤραν</foreign> mutatum cum spiritu leni. Literam ν pro-
+ximumque <foreign xml:lang="grc">t᾽</foreign> manus recentior scripsit, fortasse literas prope
+evanidas resuscitans, ut saepe factum in codicibus antiquis,
+quorum interdum paginae integrae hoc modo instauratae sunt:
+nisi fortasse primo scriptum fuit <foreign xml:lang="grc">ὥραν ἔχων θ᾽ ἕκαστος</foreign>, quod
+tamen non convenit accusativis qui praecedunt. Εx <foreign xml:lang="grc"><sic>ἔχωνθ᾽</sic></foreign>
+factum est <foreign xml:lang="grc">ἔχονθ᾽</foreign>, litera <foreign xml:lang="grc">ω</foreign> radendo in <foreign xml:lang="grc">ο</foreign> conversa. <foreign xml:lang="grc"><sic>ἕκαστοσ</sic></foreign> ab
+recentissima demum manu in <foreign xml:lang="grc">ἕκαστον</foreign> est mutatum. Denique
+vocabuli <foreign xml:lang="grc"><sic>ὥστισ</sic></foreign> litera ultima, orta ex <foreign xml:lang="grc">συμπρεπές</foreign>, quod sequi-
+tur, erasa est: unde <foreign xml:lang="grc">ὥς τι</foreign> servatum in apographis plerisque,
+in uno in <foreign xml:lang="grc">ὥστε</foreign> mutatum, quod editoribus non paucis fraudi
+fuit, non animadvertentibus antiquam scripturam ΩϹΤΙ vel
+ΩΙϹΤΙ imprudenter pro <foreign xml:lang="grc">ὥς τι</foreign> esse acceptam, quum <foreign xml:lang="grc">ᾧ ᾽στι</foreign>
+significaret. Totus autem versus non Aeschyli est, sed inter-
+polatoris, qui quum duas tantum civium classes in praeceden-
+tibus versibus memorari videret, alteram quae aetatem militarem
+nondum attigit (<foreign xml:lang="grc">τὸν ἐλλείποντ᾽ ἔτι ἥβης ἀκμαίας</foreign>), alteram
+quae excessit (<foreign xml:lang="grc">τὸν ἔξηβον χρόνῳ</foreign>), tertiam, quae inter has
+media est, supplevit addito versu illo, in quo postrema verba
+<foreign xml:lang="grc">ᾧ ᾽στι συμπρεπές</foreign> metri explendi caussa scripta sunt. Non co-
+gitavit autem interpolator mediam illam civium classem, quae
+eos omnes complectitur quos militari oportebat, propterea non
+esse memoratam, quia iam exierant omnes ad urbem ab hostium
+impetu defendendam. Adiectivi <foreign xml:lang="grc">συμπρεπής</foreign> unum praeter hoc
+apud tragicos exemplum est <cit><bibl>Aeschyli Suppl. 458.</bibl> <quote xml:lang="grc">τάχ᾽ ἂν γυναικὶ <milestone unit="page" n="xxv"/>ταῦτα συμπρεπῆ πέλοι</quote></cit>, ubi convenientem significat.
+Verbo <foreign xml:lang="grc">συμπρέπειν</foreign> raro antiquiores, saepe inferiorum temporum
+scriptores usi sunt, adverbioque <foreign xml:lang="grc">συμπρεπόντως</foreign> locis non paucis <bibl>Sanctus Epiphanius, velut vol. 1. p. 1024c</bibl> et <foreign xml:lang="grc">συμπρέπον</foreign> <bibl>p.
+938 c. 939b. 940 c. 942 a. 961 d. 970 c. 978 a. 980 c. 983b. 984 a.
+986 a.</bibl> Aliam viam ingressus est grammaticus cuius ab manu
+scholia codicis Medicei scripta sunt: qui ex <foreign xml:lang="grc">ὥραν</foreign> mutato ac-
+centu <foreign xml:lang="grc">ὤραν</foreign> fecit, hac addita annotatione, qua utramque scri-
+pturam explicuit, <quote xml:lang="grc"><corr sic="ωραν">ὤραν</corr> φροντίδα (adde ἢ) ἡλικίαν, ἵν᾽ ἡ ὁ
+νοῦς οὕτως, ἕκαστον ὑμῶν ἔχοντα φροντίδα τῆς πόλεως· ἡ
+ἕκαστον πρὸς τὴν ἡλικίαν βοηθεῖν τῇ πόλει ὡς πρέπον</quote>. Verum
+etsi in bellis et veterum et recentiorum non raro factum est ut
+instante periculo omnes omnium ordinum cives ad opem feren-
+dam evocarentur, tamen neminem vidi qui cohortationem suam
+tam debili amplificaret appendicula qualem Aeschylo affinxit
+scholiasta, curam habentem quemque quem decet: quod Ae-
+schylus, si quid huiusmodi addere voluisset, in quo per se nihil
+foret quod quis reprehenderet, longe aliter dicturus erat. Itaque
+non dubitandum quin totum illud de cura commentum errori
+debeatur scholiastae, qui non perspexisset mentem verborum
+interpolatoris, <foreign xml:lang="grc">ὥραν τ᾽ ἔχονθ᾽ ἕκαστον, ᾧ ᾽στι συμπρεπές</foreign>,
+supra ab me expositam. Remoto igitur hoc additamento optime
+procedit Aeschyli oratio, <quote xml:lang="grc">καὶ τὸν ἐλλείποντ᾽ ἔτι | ἥβης ἀκ-
+μαίας καὶ τὸν ἔξηβον<ref target="n.xxv.a"/> χρόνῳ, | βλαστημὸν ἀλδαίνοντα σώμα-
+τος πολὺν, | πόλει τ᾽ ἀρήγειν etc.</quote> nisi quod valde suspectum
+est <foreign xml:lang="grc">πολύν</foreign>, quod si scripsit Aeschylus, Eteoclem paullo plus
+postulantem fecit quam ab <foreign xml:lang="grc">ἐξήβοις χρόνῳ</foreign> aut postulari aut ex-
+spectari poterat, qui denuo florere, i. e. reiuvenescere, potius
+dicendi erant quam magnopere florere. Quod quum Aeschylum
+vix fugere potuerit, non puto eum <foreign xml:lang="grc">πολύν</foreign> scripsisse, sed <foreign xml:lang="grc">πάλιν</foreign>,
+
+<note type="footnote" n="n.xxv.a">
+<p><lem><foreign xml:lang="grc">ἔξηβον</foreign></lem>] <bibl n="Aesch. Seven 11">Ad hunc locum</bibl> spectat <cit><bibl>Phrynichi notatio in Bek-
+keri Anecd. p. 37, 17.</bibl> <quote xml:lang="grc">Ἔξηβον: τοῦτο καινόν. καθωμιλημένον
+τὸ ἔξωρον.</quote></cit> Recte hoc dixit Phrynichus: nam <foreign xml:lang="grc">ἔξηβον</foreign> nusquam
+alibi legitur. In <cit><bibl>gl. Hesychii</bibl> <quote xml:lang="grc">Ἔξηβος: ἔξω τῆς ἥβης. τριάκοντα
+πέντε ἐτῶν</quote></cit> vereor ne verba <foreign xml:lang="grc">τριάκοντα πέντε ἐτῶν</foreign> non sint
+scripta a primo glossae auctore, qui haud dubie ipse quoque
+Aeschyli locum in mente habuit. Alia huiusmodi composita cum
+<foreign xml:lang="grc">ἐξ</foreign>, ab usu communi non minus aliena, sunt <foreign xml:lang="grc">ἐκγενής</foreign>, <foreign xml:lang="grc">ἔκτιμος</foreign> et
+<foreign xml:lang="grc">ἐξόμιλος</foreign> apud Sophoclem.</p>
+</note>
+
+    <milestone unit="page" n="xxvi"/>
+quo restituto homines reiuvenescentes cum plantis comparantur
+<foreign xml:lang="grc">παλιμβλαστέσι</foreign>, quas <cit><bibl>Theophrastus dixit Hist. Plant. 3, 19, 2.</bibl></cit>
+(ubi eodem quo apud Aeschylum errore libri, excepto optimo
+Urbinate, omnes <foreign xml:lang="grc">πολυβλαστῆ</foreign>) et <bibl>4, 8,5</bibl>. Non melioris notae
+illud esse <foreign xml:lang="grc">πολύς</foreign> videtur quod apud Aeschylum paullo ante
+intulit interpolator <bibl n="Aesch. Seven 7">v. 7.</bibl> ubi in codice scriptum est <quote xml:lang="grc">Ετεοκλέης
+ἂν εἶς κατὰ πτόλιν | ὑμνοῦθ᾽ ὑπ᾽ ἀστῶν φροιμίοις πολυρρό-
+θοις</quote>, scripto inter <foreign xml:lang="grc">εἷς</foreign> et <foreign xml:lang="grc">κατὰ</foreign> supra versum sive ab eadem sive
+ab alia manu antiqua <foreign xml:lang="grc">πολύς</foreign>, vocabulum valde supervacaneum,
+quum sequatur <foreign xml:lang="grc">πολυρρόθοις</foreign>, quod in <foreign xml:lang="grc">παλιρρόθοις</foreign> mutari vo-
+lebat Valckenarius, aliter fortasse iudicaturus, si scripturam
+codicis cognitam habuisset, etsi huic indicio soli non multum
+tribuendum foret, nisi <foreign xml:lang="grc">πολύς</foreign> per se ipsum suspectum esset.
+Nam Aeschylus haud dubie scripserat, <quote xml:lang="grc">Ἐτεοκλέης ἂν πᾶσαν εἷς
+κατὰ πτόλιν</quote>, – usitata inter <foreign xml:lang="grc">εἷς</foreign> et <foreign xml:lang="grc">πᾶς</foreign> antithesi ut in
+<cit><bibl>Agam. 1106.</bibl> dixit <quote xml:lang="grc">πᾶσα γὰρ πόλις βοᾷ</quote></cit>, et <cit><bibl>Horatius ab Paleio
+comparatus Sat. 2, 1, 46.</bibl> <quote>Flebit et insignis tota cantabitur
+urbe</quote></cit>. Origo autem erroris fortasse inde repetenda quod <foreign xml:lang="grc">πᾶσαν</foreign>
+aut in margine scriptum exciderat aut post <foreign xml:lang="grc">εἷς</foreign> positum, quae
+usitatior verborum collocatio est, metri caussa corrigendum
+videbatur. Cuiusmodi interpolatione affectus est <bibl n="Aesch. Seven 21">versus 21.</bibl> ubi
+in codice legitur, <quote xml:lang="grc">ἐθρέψατ᾽ οἰκιστῆρας ἀσπιδηφόρους | πι-
+στοὺς, ὅπως γένοισθε πρὸς χρέος τόδε</quote>, quod pro <quote xml:lang="grc">ὅπως γένοι-
+σθε πιστοὶ πρὸς χρέος τόδε</quote> dictum esse creditur per attractio-
+nem quandam, cuius figurae usus etsi late patet, tamen nullum
+exemplum vidi quod huic Aeschyleo omni ex parte simile esset,
+nec rationem reddiderunt interpretes quid Aeschylum movere
+potuerit ut versum faceret ex tribus partibus aequalibus com-
+positum, quod tragici vitare potius quam dedita opera quae-
+rere solent,
+<quote xml:lang="grc">πιστοὺς, ὅπως | γένοισθε πρὸς | χρέος τόδε,</quote>
+quum in promptu esset et sententia aptissima et numeris opti-
+mis scribere,
+<quote xml:lang="grc">ὅπως γένοισθε πρὸς χρέος πιστοὶ τόδε.</quote>
+Hoc igitur restitui. <foreign xml:lang="grc">πιστοὶ</foreign> quum aut in textu omissum in mar-
+
+<note type="footnote" n="n.xxvi.b">
+<p>Sic vocabula casu omissa supra versum scripta habet
+codex apud <bibl>Sophoclem <foreign xml:lang="grc">μαστήρ</foreign> Trach. 733. <foreign xml:lang="grc">Ἅιδου</foreign> 1161. <foreign xml:lang="grc">ἄτρα-
+κτος</foreign> Phil 290. <foreign xml:lang="grc">μέν</foreign> 1278.</bibl>
+</p>
+</note>
+
+gine positum esset, aut metro corrupto sive post <foreign xml:lang="grc">γένοισθε</foreign>
+sive post <foreign xml:lang="grc">τόδε</foreign> collocatum, corrector aliquis vulgatam effinxit
+scripturam <foreign xml:lang="grc">πιστοὺς, ὅπως γένοισθε πρὸς χρέος τόδε</foreign>. Ceterum
+similiter loquitur <cit><bibl>Aeschylus Eumen. 670.</bibl> <quote xml:lang="grc">καὶ τόνδ᾽ ἔπεμψα
+σῶν δόμων ἐφέστιον, | ὅπως γένοιτο πιστὸς ἐς τὸ πᾶν
+χρόνου</quote></cit>.
+</p>
+</div>
+</body>
+</text>
+</TEI>
