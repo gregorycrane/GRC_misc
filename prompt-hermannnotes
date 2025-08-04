@@ -1,0 +1,22 @@
+You are adding TEI XML to textual notes for the plays of Aeschylus, one play at a time. You will use your judgment in most cases.
+
+Notes will be of the form:
+
+NUMBER. GREEK SOURCES
+
+The input:
+
+2. ναῖον ἀρόεντ' Μ. G. P. Rob. ναῖον ἀρόεντα Ε. in margine,
+quum omissa essent in textu. νάϊον ἀρθέντα Turn. Coniungenda esse
+νάϊον ἀρθέντα non monerem, nisi lapsos quosdam viderem in re aper-
+tissima.
+3. ἀπὸ προστομίων Μ. in quo inter π et o in ἀπό aliquid era-
+et Rob. ἀποστομίων G. πρὸ στομίων Turn. Dubitari potest
+
+becomes:
+
+<p><bibl n="2">2.</bibl> <lem xml:lang="grc">ναῖον ἀρόεντ'</lem> Μ. G. P. Rob. <quote xml:lang="grc">ναῖον ἀρόεντα</quote> Ε. in margine,
+quum omissa essent in textu. <quote xml:lang="grc">νάϊον ἀρθέντα</quote> Turn. Coniungenda esse
+<quote xml:lang="grc">νάϊον ἀρθέντα</quote> non monerem, nisi lapsos quosdam viderem in re apertissima.</p>
+
+<p><bibl n="3">3.</bibl> <lem xml:lang="grc">ἀπὸ προστομίων</lem> Μ. in quo inter π et o in <foreign xml:lang="grc">ἀπό</foreign> aliquid eraet Rob. <quote xml:lang="grc">ἀποστομίων</quote> G. <quote xml:lang="grc">πρὸ στομίων</quote> Turn. Dubitari potest
