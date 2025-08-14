@@ -1,0 +1,454 @@
+<TEI><text><body>
+    <pb n="1"/>
+<head>
+<title type="main">PROMETHEUS BOUND</title>
+</head><pb n="2"/>
+
+<div type="DramatisPersonae">
+<head>DRAMATIS PERSONÆ</head>
+<castList>
+<castItem><role>PROMETHEUS</role>.</castItem>
+<castItem><role>HEPHAESTUS</role>.</castItem>
+<castItem><role>POWER</role> (<foreign xml:lang="grc">ΚΡΑΤΟΣ</foreign>).</castItem>
+<castItem><role>FORCE</role> (<foreign xml:lang="grc">ΒΙΑ</foreign>).</castItem>
+<castItem><role>CHORUS OF NYMPHS</role>, daughters of Ocean.</castItem>
+<castItem><role>OCEAN</role>.</castItem>
+<castItem><role>IO</role>.</castItem>
+<castItem><role>HERMES</role>.</castItem>
+</castList>
+</div>
+<pb n="3"/>
+
+<head>PROMETHEUS BOUND</head>
+<sp><speaker start-line="1" end-line="11">POWER</speaker><p>We have arrived at the furthest confines of the Earth, the Scythian track, a desert wilderness; and now, Hephaestus, thou must attend to the charges which the Father has enjoined upon thee, to clamp this malefactor to the towering crags in firm shackles of adamantine bonds. For thine own rare jewel, the bright fire enabling every art, he stole and gave to mortal men; that is the sin for which he must give satisfaction to the Gods, that he may be<lb n="10"/> taught to accept the sovereignty of Zeus and cease from his man-befriending ways.</p></sp>
+<sp><speaker start-line="12" end-line="35">HEPHAESTUS</speaker><p>Power and Force, the charge of Zeus to you is finished now, and there is nothing more before you; but I have not the heart to bind a brother-God by force upon a wintry bleak; however, come what may, strong need constrains me to take courage for it; for to make light of the Father's words is a grave thing. <stage>(To PROMETHEUS.)</stage> Thou high-contriving son of right-advisèd Themis, it is with a heart as loth as thine that I must pin thee with strong forged<lb n="20"/> fetters fast to this deserted steep,<ref n="3.1">1</ref> where thou shalt hear no voice nor see the form of man, but must be grilled by
+<note type="footnote" n="3.1">1 <foreign xml:lang="grc">πάγῳ</foreign> MSS., but M alone has <foreign xml:lang="grc">τόπῳ</foreign>, which was a gloss to distinguish one sense of <foreign xml:lang="grc">πάγος</foreign> from another; see for example <bibl>schol. <title>Agam.</title> 347</bibl>.</note>
+<pb n="4"/>
+the pure flame of the sun till thy complexion change; and thou shalt welcome it when starry-kirtled night shall hide the day, and when the sun shall dissipate again the morning frost; and ever the sore burden of the present ill shall harass thee; for thy deliverer is not yet born.</p>
+<p>These are the fruits that thou hast reaped from thy man-befriending bent; thou didst not quail before the anger of thy fellow-Gods, but in transgression of right bestowedst<lb n="30"/> honours upon mortals. Wherefore thou shalt keep sentry at this dismal rock, in upright posture, sleepless, never bending knee; and many a groan and unavailing lamentation shalt thou utter; for the heart of Zeus is inexorable, and everyone is harsh whose power is new.</p></sp>
+<sp><speaker start-line="36" end-line="38">POWER</speaker><p>Well now, why dallying and commiserating uselessly? Why dost thou not view with hatred one most hateful to the Gods, who betrayed thy precious thing and gave it to mankind?</p></sp>
+<sp><speaker start-line="39" end-line="39">HEPHAESTUS</speaker><p>Blood hath a strange power, and companionship.</p></sp>
+<sp><speaker start-line="40" end-line="41">POWER</speaker><p>I agree, but to be disobedient to the Father's<lb n="40"/> word, is that possible? Art thou not more strangely afraid of that?</p></sp>
+<sp><speaker start-line="42" end-line="42">HEPHAESTUS</speaker><p>Oh, ruthless ever thus art thou, and full of daring.</p></sp>
+<sp><speaker start-line="43" end-line="44">POWER</speaker><p>Ay, it is no remedy lamenting over him, so do not waste thy pains on what is profitless.</p></sp>
+<sp><speaker start-line="45" end-line="45">HEPHAESTUS</speaker><p>O how I hate this mastery of craft!</p></sp>
+<sp><speaker start-line="46" end-line="47">POWER</speaker><p>Why hate it? For these present troubles Art is absolutely not to blame.</p></sp>
+<sp><speaker start-line="48" end-line="48">HEPHAESTUS</speaker><p>Nevertheless I would it had belonged to someone else.</p></sp>
+<sp><speaker start-line="49" end-line="50">POWER</speaker><p>There is trouble in everything, except in empire over Heaven: for there is none free but Zeus alone.</p></sp>
+<sp><speaker start-line="51" end-line="51">HEPHAESTUS</speaker><p>I know it well; to that I have nothing to say<lb n="50"/> contrary.<ref n="4.1">1</ref></p>
+<note type="footnote" n="4.1">1 <foreign xml:lang="grc">ἔγνωκα· τοῖσδέ γ᾽ οὐδὲν ἀντειπεῖν ἔχω</foreign> (<bibl><editor>Hartung</editor></bibl>).</note></sp>
+<pb n="5"/>
+<sp><speaker start-line="52" end-line="53">POWER</speaker><p>Well, make haste then to cast the fetters round him, that the Father may not behold thee tarrying.</p></sp>
+<sp><speaker start-line="54" end-line="54">HEPHAESTUS</speaker><p>Here are the armlets ready.</p></sp>
+<sp><speaker start-line="55" end-line="56">POWER</speaker><p>Throw them now about his hands and with might and main smite with the hammer, and clamp him to the rocks.</p></sp>
+<sp><speaker start-line="57" end-line="57">HEPHAESTUS</speaker><p>The work is getting through, and no mistake about it.</p></sp>
+<sp><speaker start-line="58" end-line="59">POWER</speaker><p>Hammer harder, clinch, leave no link loose, for he is a rare clever one to find out ways and means in difficulties.</p></sp>
+<sp><speaker start-line="60" end-line="60">HEPHAESTUS</speaker><p>That arm is fixed fast enough at any rate.</p></sp>
+<sp><speaker start-line="61" end-line="62">POWER</speaker><p>Now rivet this one firmly, to teach him that his<lb n="60"/> clever wit is something sluggisher than Zeus.</p></sp>
+<sp><speaker start-line="63" end-line="63">HEPHAESTUS</speaker><p>Except him, no one could fairly complain of me.</p></sp>
+<sp><speaker start-line="64" end-line="65">POWER</speaker><p>Now drive the adamantine wedge's stubborn jaw right through his breast and nail it vigorously.</p></sp>
+<sp><speaker start-line="66" end-line="66">HEPHAESTUS</speaker><p>Ah me, Prometheus, I sigh for thy pains!</p></sp>
+<sp><speaker start-line="67" end-line="68">POWER</speaker><p>There thou art, shrinking again and sighing for the enemies of Zeus! See thou be pitying not thyself one day!</p></sp>
+<sp><speaker start-line="69" end-line="69">HEPHAESTUS</speaker><p>Thou seest a sad sight for the eyes to view.</p></sp>
+<sp><speaker start-line="70" end-line="71">POWER</speaker><p>I see a rogue here getting his deserts. Come,<lb n="70"/> throw the girths now around his ribs.</p></sp>
+<sp><speaker start-line="72" end-line="72">HEPHAESTUS</speaker><p>I am bound to do it; you need not urge me on so much.</p></sp>
+<sp><speaker start-line="73" end-line="74">POWER</speaker><p>Indeed I will urge, and halloo thee on too! Go down below, and ring his legs round strongly.</p></sp>
+<sp><speaker start-line="75" end-line="75">HEPHAESTUS</speaker><p>There is the work done without much labour.</p></sp>
+<sp><speaker start-line="76" end-line="77">POWER</speaker><p>Now hammer vigorously the perforated anklets; because the censor of the work is an austere one.</p></sp>
+<sp><speaker start-line="78" end-line="78">HEPHAESTUS</speaker><p>The utterance of thy tongue is like thy visage.</p></sp>
+<sp><speaker start-line="79" end-line="80">POWER</speaker><p>You may be soft, but cast not in my teeth my stern will and the harshness of my temper.</p></sp><lb n="80"/>
+<pb n="6"/>
+<sp><speaker start-line="81" end-line="81">HEPHAESTUS</speaker><p>Let us go, as he has the swathings now upon his limbs.</p></sp>
+<sp><speaker start-line="82" end-line="87">POWER</speaker><stage>(to PROMETHEUS)</stage><p>There now, do thine outrage there, and filch the Gods' rights to bestow them upon men! What power have mortals to relieve thee of thy pains? 'Tis by a false name that Spirits call thee Prometheus, for thou hast need thyself of that provision, to find a way of wriggling out of this art! <stage>[Exeunt.</stage></p></sp>
+<sp><speaker start-line="88" end-line="129">PROMETHEUS</speaker><p>O thou bright heavenly sky, and swift-winged breezes, ye river-springs, and thou innumerable dimpling smile of the ocean waves, O universal Mother Earth, and<lb n="90"/> thee, all-seeing orb of the Sun, I call—behold what I, a God, am suffering at the hands of Gods!</p>
+<p>Behold with what foul tortures I am racked and must endure in them my myriad years! This is the humiliating bondage that the Captain of the Blessed hath devised against me.</p>
+<p>Ah me, ah me, I groan for suffering present and for suffering to come, despairing of the quarter where the end of my afflictions is to rise.</p><lb n="100"/>
+<p>And yet, what say I? I have clear fore-knowledge of all that is in store, and no suffering will come upon me with surprise; and the lot by Fate appointed one must bear as easily as may be, recognising that the strength of Necessity is not to be striven with. And yet to hold my peace, and not to hold my peace about my case is equally impossible: it was for making gifts to mortals that I have been fastened in these torments:-I hunted out the spring of Fire concealed within the filling of a reed, a stolen source which<lb n="110"/> hath been revealed to mortal men for their instructress in every art and their great providing means. That is the offence for which I am enduring punishment, here riveted beneath the open sky in fetters.</p>
+<p>Ah, stay,—what sound, what perfume wingeth to me
+<pb n="7"/>
+without vision? divine or mortal or of mingled strain? Hath he come unto this world's end hill to view my sufferings, or with what intent?<ref n="7.1">1</ref> Behold ye me in bondage, an un-<lb n="120"/>happy God, the enemy of Zeus, that have incurred the enmity of all the Gods that have the entry into his royal Court by reason of my too-much love for mortals.—Ah, listen,-what is this fluttering stir I hear close by, of wingèd creatures? the sky is whistling with the light rapid beat of pinions.—Every coming thing is apprehended fear.</p>
+</sp>
+<stage>(The DAUGHTERS of OCEAN enter in a winged car.)</stage>
+<sp><speaker start-line="130" end-line="140">CHORUS OF NYMPHS</speaker><p>Fear not at all! for it is a friendly squadron this,<lb n="130"/> that hath advanced upon thy mountain with a racing rivalry of wings, having hardly won our Father over to consent; and I was carried by the coursing breezes; for the sound of the hammering of iron shot to the inner bower of my cavern and astounded all my meek-eyed shame away, and I sped unsandalled in a wingèd car.</p></sp>
+<sp><speaker start-line="141" end-line="149">PROMETHEUS</speaker><p>Offspring of many-childed Tethys and of him that encircleth all the earth with his unsleeping stream, your father Ocean, look ye, behold the bondage I am pinned with on the rocky summits of this gorge to keep my miserable watch.</p></sp><lb n="140"/>
+<sp><speaker start-line="150" end-line="160">CHORUS OF NYMPHS</speaker><p>I see well, Prometheus, and in fear there sped upon<lb n="150"/> my eyes a mist all full of tears, to see thy figure withering away upon the rocks here in these adamantine tortures; for the governors are new that hold the rule of Heaven, and with new-fangled laws Zeus holds dominion lawlessly, and the giant majesties of old he now abolisheth.</p></sp>
+<sp><speaker start-line="161" end-line="168">PROMETHEUS</speaker><p>Would that he had but cast me under the earth and below Hades the Receiver of the dead into the bottomless
+<note type="footnote" n="7.1">1 v. 118: read:
+<l><foreign xml:lang="grc">τερμόνιον ἐπὶ πάγον πόνων</foreign></l>
+<l><foreign xml:lang="grc">ἐμῶν θεωρὸς ἵκετ᾽, ἢ τί δὴ θέλων ;</foreign></l></note>
+<pb n="8"/>
+pit of Tartarus, and put me savagely in firmest fetters, that so no God nor any other had made merry over this! But now, a light thing shaken in the air, I have suffered to the derision of mine enemies.</p></sp>
+<sp><speaker start-line="169" end-line="179">CHORUS OF NYMPHS</speaker><p>What God is so hard-hearted as to make this matter of derision? Who shares not indignation at thy<lb n="170"/> distresses—except Zeus? He, with continual rancour, hath set his heart immovably and crusheth all the seed of Uranus, nor will he cease, until either he hath satisfied his heart or by some sleight another capture his impregnable domain.</p></sp>
+<sp><speaker start-line="180" end-line="190">PROMETHEUS</speaker><p>Ah neverthεless, although I be thus tortured in<lb n="180"/> strong fettering shackles, the prime lord of the Blessed Ones shall yet have need of me, to reveal him the new project, and the agency by which I see him stripped of his sceptre and his rank! And neither by honied enchantments of Persuasion shall he charm me, nor before stern menaces will I ever quail, to reveal the secret, until he loosen me from my cruel fetters and consent to give me satisfaction for this outrage.</p></sp><lb n="190"/>
+<sp><speaker start-line="191" end-line="201">CHORUS OF NYMPHS</speaker><p>Thou art bold in confidence and abatest nothing for thy bitter sorrows, and art over-free in speech; but my spirit is disquieted by thrilling fear :—I am afraid about thy fate,-I cannot guess what shore there is for thee to land upon and see the termination of these pains: for a nature beyond reaching and a heart inexorable hath the Son of<lb n="200"/> Cronos.</p></sp>
+<sp><speaker start-line="202" end-line="208">PROMETHEUS</speaker><p>Harsh, I know, he is, and with the law in his own hands;<ref n="8.1">1</ref> nevertheless his will, I reckon, shall be soft enough one day, when he hath been this way hammered; then he
+<note type="footnote" n="8.1">1 This has suffered from interpolation; the original probably was nearly in this form :
+<l><foreign xml:lang="grc">τραχύς γ᾽ οἶδ' ὅτι καὶ παρ' ἑαυτῷ</foreign></l>
+<l><foreign xml:lang="grc">τὸ δίκαιον ἔχων· ἔμπας, δΐω,</foreign></l></note>
+<pb n="9"/>
+shall assuage his stubborn wrath and meet my eagerness half-way, to enter into bond and amity with me.</p></sp>
+<sp><speaker start-line="209" end-line="212">CHORUS OF NYMPHS</speaker><p>Unfold now to us all the story and declare what charge it is that Zeus hath taken thee upon and tortures<lb n="210"/> thee with such disgrace and bitterness-unless there is any harm to thee in telling.</p></sp>
+<sp><speaker start-line="213" end-line="257">PROMETHEUS</speaker><p>It is a painful thing to tell, and painful to withhold; miserable every way.—When first the Deities began their anger, and sedition was stirred up amongst them-one party seeking to cast Cronos from his throne, to make Zeus king, to wit, the other bent upon the contrary, that Zeus should never reign over the Gods,-I thereupon endeavoured<lb n="220"/> to persuade the Titans, children of Heaven and Earth, with the best advice, and was not able; subtle stratagems they quite despised, and thought with violent imaginations to gain the mastery without trouble and by force. But more than once my Mother, Themis or Gaea (Earth)—one form with many titles-had foretold to me the way in which the future was decreed to happen-how that it was not by strength or in the way of violence that the overcomers were to gain the mastery, but by guile. When I expounded this<lb n="230"/> to them in speech, they would not deign so much as even to look at it. So the best course that lay before me then appeared to be that I should take my Mother's aid and range myself, a welcome volunteer, upon the side of Zeus. And through my counselling it is that the black nether deep of Tartarus buries now the ancient Cronos with his allies together. These are the benefits which the sovereign of the Gods hath received from me and hath requited me with a reward so ill; for it is a vice inherent somehow in a<lb n="240"/> sovereignty, that there is no putting trust in friends.</p>
+<p>But for your question, on what charge it is that he is torturing me, that I will make plain.</p>
+<p>So soon as ever he was seated on his Father's throne, he
+<pb n="10"/>
+set about assigning to the Powers Divine their several privileges and mapped out their spheres of rule; but of wretched mortals he took no account whatever, but desired to annihilate the race entirely and create another new one. And to this there was no one that made any opposition<lb n="250"/> except me; I had the courage, I delivered men from being smashed to pieces and descending to the house of Death. And that is why I am now being bent with punishments like this, painful to suffer and piteous to behold: after preferring mortal men in pity I was not allowed to win the same myself, but have been straitened into shape thus mercilessly-a spectacle far from glorious to Zeus.</p></sp>
+<sp><speaker start-line="258" end-line="261">CHORUS OF NYMPHS</speaker><p>A heart of iron and made out of rock, Prometheus, is the being that feels not compassion in thy labours: I should have wished never to behold them, and beholding<lb n="260"/> them my heart is grieved.</p></sp>
+
+<sp><speaker start-line="262" end-line="262">PROMETHEUS</speaker><p>I am indeed a sight that friends might pity.</p></sp>
+<sp><speaker start-line="263" end-line="263">CHORUS OF NYMPHS</speaker><p>Didst thou, perhaps, transgress a little beyond this?</p></sp>
+<sp><speaker start-line="264" end-line="264">PROMETHEUS</speaker><p>Yes, I caused Men no longer to foresee their latter end.</p></sp>
+<sp><speaker start-line="265" end-line="265">CHORUS OF NYMPHS</speaker><p>What was the medicine that you discovered for that ailment?</p></sp>
+<sp><speaker start-line="266" end-line="266">PROMETHEUS</speaker><p>I implanted in their breasts blind Hopes.</p></sp>
+<sp><speaker start-line="267" end-line="267">CHORUS OF NYMPHS</speaker><p>That was a great boon that you bestowed upon them.</p></sp>
+<sp><speaker start-line="268" end-line="268">PROMETHEUS</speaker><p>And there was this besides,—I gave them Fire.</p></sp>
+<sp><speaker start-line="269" end-line="269">CHORUS OF NYMPHS</speaker><p>And do weak mortals now possess the flame-eyed fire?</p></sp>
+
+
+<sp><speaker start-line="270" end-line="270">PROMETHEUS</speaker><p>Yes, from which they will learn many Arts. <lb n="270"/></p></sp>
+<sp><speaker start-line="271" end-line="271">CHORUS OF NYMPHS</speaker><p>These then are the charges upon which Zeus—</p></sp>
+<sp><speaker start-line="272" end-line="272">PROMETHEUS</speaker><p>Is torturing me, and relaxing nowise ever.</p></sp>
+<sp><speaker start-line="273" end-line="273">CHORUS OF NYMPHS</speaker><p>And is there no period appointed for thy pains?</p></sp>
+
+
+<pb n="11"/>
+<sp><speaker start-line="274" end-line="274">PROMETHEUS</speaker><p>No, none whatever, except when it seems good to him.</p></sp>
+<sp><speaker start-line="275" end-line="278">CHORUS OF NYMPHS</speaker><p>And how can it seem good? What hope is there? Seest thou not that thou hast erred, and how thou erredst it is not pleasurable to me to say, and pain to thee.-But let us leave this matter; turn thou now to seeking some release from thine affliction.</p></sp>
+<sp><speaker start-line="279" end-line="292">PROMETHEUS</speaker><p>It is an easy thing for one whose feet are safe out of the mire of harm to give advice and admonition to<lb n="280"/> another in distress; but I was aware beforehand of all this; of will, of will I erred, I will not deny it; succouring men, I got me sufferings myself. But still I never thought that I should be rewarded in this wise, to pine away upon rocks between earth and heaven, and get this desert and unneighboured peak. Now, pray you, mourn no longer for my present woes, but step upon the ground and let me tell you what is the oncoming future, that you may know the whole matter thoroughly. Consent, I pray, consent, show sympathy with<lb n="290"/> the one in trouble now; you know, 'tis common, and misfortune settles now upon one and now upon another.</p></sp>
+<sp><speaker start-line="293" end-line="299">CHORUS OF NYMPHS</speaker><p>Thine appeal is urged on willing hearts, Prometheus. So with light footstep I will quit my speeding seat and the pure airy path of wingèd creatures and draw nigh to yonder rugged land; and I desire to hear the whole story of thy suffering thoroughly.</p>
+<stage>(Enter OCEANUS, carried by a winged four-footed monster.)</stage></sp>
+<sp><speaker start-line="300" end-line="313">OCEAN</speaker><p>I have reached the end of a long journey in my<lb n="300"/> passage here to thee, Prometheus, guiding this swift-winged creature by my will without a bit; and be assured that I am sorry for the state that thou art in: relationship, I suppose, compels me, and apart from blood, there is no one I should have more consideration for than thee: and you will see that
+<pb n="12"/>
+this is genuine and that there is no tongue-benefit in me,<lb n="310"/> for come, name anything that I am to assist you in you will never say that you have any truer friend than Ocean!<ref n="12.1">1</ref></p></sp>
+<sp><speaker start-line="314" end-line="322">PROMETHEUS</speaker><p>Ha, what have we here? Hast thou too come to view my sufferings? How didst thou nerve thyself to leave the stream that bears thy name and those rock-vaulted self-built caverns, and to come unto this iron-wombing land? Is it to view my state that thou art come, and to compassionate in my distress? Behold the spectacle—<lb n="320"/> me here, the friend of Zeus, that helped him to set up his sovereignty, behold the sufferings that I am bent with now by him!</p></sp>
+<sp><speaker start-line="323" end-line="345">OCEAN</speaker><p>I see, Prometheus, and desire also to give thee the best advice, ingenious as thou art: recognise thyself, and adopt a new fashion of behaviour, for there is a new Sovereign in Heaven. But if thou persist in flinging out such harsh and whetted words, Zeus, though seated far aloft, perhaps may hear thee, so that thy present multitude<ref n="12.2">2</ref> of miseries shall seem but child's-play. Come, unhappy<lb n="330"/> one, dismiss thy present mood and try to find some way out of these troubles. What I say may seem, perhaps, trite and stale,-but these, Prometheus, are just the wages of a too presumptuous tongue. And you are not yet humble or submissive to misfortune, but wish to get still more than what you have already. If you will take my advice, you will not stretch out your legs against the goad, seeing that it is a harsh monarch now and irresponsible<lb n="340"/> that is in power. And now I shall go and try whether I can release thee from thy pains; remain thou quiet, and be not too violent in speech-or else, with thy superior mind
+<note type="footnote" n="12.1">1 The character of Oceanus, the <foreign xml:lang="grc">ἡσυχαστής</foreign> (compare the <bibl>Orphic fragments in <editor>Hermann</editor>'s <title><foreign xml:lang="lat">Orphica</foreign></title>, p. 468</bibl>), and Prometheus' ironical contempt for him, are drawn with admirable humour.</note>
+<note type="footnote" n="12.2">2 Reading <foreign xml:lang="grc">ὄχλον</foreign>.</note>
+<pb n="13"/>
+dost thou not know full well that there is fine inflicted on a wanton tongue?</p></sp>
+<sp><speaker start-line="346" end-line="350">PROMETHEUS</speaker><p>You are lucky to be clear of blame, after having shared my enterprise and taken part in everything with me.<ref n="13.1">1</ref> So now, let it alone and do not concern yourself about it, for you will certainly not persuade him; he is not easy to persuade. Look shrewdly to it that you get no harm<lb n="350"/> yourself upon this errand.</p></sp>
+<sp><speaker start-line="351" end-line="355">OCEAN</speaker><p>Truly thou art better far at schooling others than thyself! I judge by fact, not word. But as I am bent upon my course, by no means draw the curb, for I am confident, most confident, that Zeus will grant me this concession, to release thee from these sufferings.</p></sp>
+<sp><speaker start-line="356" end-line="392">PROMETHEUS</speaker><p>I am much obliged, and shall never cease to be so, for one thing-your zealousness leaves nothing to be desired: only, take no trouble, for it will be but labour wasted and do me no good-supposing that you mean to take it. No, remain thou quiet and keep thyself out of harm's<lb n="360"/> way; for because I am in distress, I would not therefore wish distresses to befall the whole world too. No indeed, for I am troubled by the sad plight of my brother, Atlas, who stands towards the West<ref n="13.2">2</ref> with the Pillar of Earth and Heaven bearing upon his shoulders, no sweet burden to embrace. And the earth-sprung inhabiter of the Cilician caverns moved my pity to behold subdued by force, that fell prodigious monster, the bold hundred-headed Typho,<lb n="370"/> who rose up against the Gods of Heaven, with grisly jaws whistling the sound of terror, as meaning to storm the sovereignty of Zeus by force. But there came upon
+<note type="footnote" n="13.1">1 With scornful sarcasm, whether we read with the MSS. <foreign xml:lang="grc">πάντων μετασχὼν καὶ τετολμηκὼς ἐμοί</foreign>, or (accepting <foreign xml:lang="grc">μετασχεῖν</foreign> from Weil) <foreign xml:lang="grc">πάντων μετασχεῖν καὶ τετολμηκὼς ἐμοί</foreign>, ' although having had the daring to take part in everything with me.'</note>
+<note type="footnote" n="13.2">2 <foreign xml:lang="grc">ὃς πρὸς ἑσπέρους τόπους</foreign>.</note>
+<pb n="14"/>
+him the unsleeping shaft of Zeus, the descending thunder-bolt with breath of flame; which shocked him and amazed him from his lofty vaunting; for he was smitten in the very seat of sense, charred to a cinder, and his whole strength blasted out of him and now, a palsied sprawling mass, he lies near the strait passage of the sea, pressed beneath the<lb n="380"/> roots of Etna; while on the topmost summits sits Hephaestus hammering at the forge. Thence one day there shall burst forth rivers of fire with angry jaws devouring the smooth fields of fruitful Sicily; so fierce the rage that Typho shall send boiling up, with perilous discharges of hot fiery deluge, although consumed to cinders by the thunderbolt of Zeus.-But thou art not without experience nor in need of me to teach thee. Save thyself to the best of thine<lb n="390"/> ability, while I will endure my present case, until the proud spirit of Zeus abate.</p></sp>
+<sp><speaker start-line="393" end-line="394">OCEAN</speaker><p>Knowest thou not then, Prometheus, what is said, that words are the physicians of a mood distempered?</p></sp>
+<sp><speaker start-line="395" end-line="396">PROMETHEUS</speaker><p>Yes, if one soften the heart betimes in season, and not reduce a swelling passion forcibly.</p></sp>
+<sp><speaker start-line="397" end-line="398">OCEAN</speaker><p>And in being zealous and adventuring boldly seest thou any disadvantage?</p></sp>
+<sp><speaker start-line="399" end-line="399">PROMETHEUS</speaker><p>Superfluous labour and light-witted simplicity.</p></sp>
+<sp><speaker start-line="400" end-line="401">OCEAN</speaker><p>Permit me to be still affected with that weakness,<lb n="400"/> since it is the best thing to be wise while seeming the contrary.</p></sp>
+<sp><speaker start-line="402" end-line="402">PROMETHEUS</speaker><p>This folly will be considered to be mine.</p></sp>
+<sp><speaker start-line="403" end-line="403">OCEAN</speaker><p>Your words most evidently despatch me home again.<ref n="14.1">1</ref></p></sp>
+<sp><speaker start-line="404" end-line="404">PROMETHEUS</speaker><p>Beware lest haply thy lament for me should bring thee into enmity,</p></sp>
+<sp><speaker start-line="405" end-line="405">OCEAN</speaker><p>With the new holder of the almighty throne?</p></sp>
+<sp><speaker start-line="406" end-line="406">PROMETHEUS</speaker><p>Be careful that his heart be not annoyed.</p></sp>
+<sp><speaker start-line="407" end-line="407">OCEAN</speaker><p>Thy fate, Prometheus, is my instructor.</p></sp>
+<note type="footnote" n="14.1">1 As <foreign xml:lang="grc">λέγεις δδόν μοι</foreign> in <bibl><author>Herodas</author> vi. 95</bibl>.</note>
+<pb n="15"/>
+<sp><speaker start-line="408" end-line="408">PROMETHEUS</speaker><p>Go thy ways, despatch, maintain thy present mind.</p></sp>
+<sp><speaker start-line="409" end-line="412">OCEAN</speaker><p>'Tis urging of the eager steed, for my four-footed bird is flapping with his wings the smooth road of the air,<lb n="410"/> and would fain repose his limbs in his own stable.<ref n="15.1">1</ref> <stage>[Exit.</stage></p></sp>
+<sp><speaker start-line="413" end-line="451">CHORUS OF NYMPHS</speaker><p>I sigh for thy disastrous case, Prometheus; with a stream of tears distilling from my tender eyes, my cheek is wetted in the springs of moisture; for this is sorry work, Zeus holding sway with new laws of his own and displaying an overweening mettle toward the Gods that were before.</p><lb n="420"/>
+<p>Every quarter of the land by now is crying aloud and sighing for the old-time grandeur and magnificence of dignity that belonged to thee and to thy brethren; all mortal men that occupy the planted habitation of pure Asia condole in thy great sufferings and groans.</p><lb n="430"/>
+<p>And the dwellers in the land of Colchis, maidens dauntless in the battle, and the Scythian multitude who tenant the extreme region of the earth about the lake Maeotis:</p>
+<p>And the warlike flower of Arabia that hold a towered citadel hard by the Caucasus, that savage army loudly raging with a serried front of spears.</p><lb n="440"/>
+<p>One other only among Gods divine have I beheld before in suffering, a Titan quelled with torturing bonds of adamant the sturdy Atlas in his overpowering strength, who doth eternally roof up the vaulted pole of Heaven.<ref n="15.2">2</ref></p>
+<p>The ocean billow, falling, roars in cadence, the deep groans, the black abyss of Hades rumbles in the
+<note type="footnote" n="15.1">1 Cf. <bibl><author>Herodas</author> vi. 97</bibl>, <bibl><author>Theocr.</author> xv. 147</bibl>.</note>
+<note type="footnote" n="15.2">2 Reading with Reisig:
+<l><foreign xml:lang="grc">Ατλαντος ὑπέροχον σθένος</foreign></l>
+and with Hermann:
+<l><foreign xml:lang="grc">νώτοις ὑποστεγάζει.</foreign></l>
+Compare Orph. hymn. i. 28 <foreign xml:lang="grc">"Ατλαντός τε καὶ Αἰῶνος μέγ᾽ ὑπείροχον ἰσχύν</foreign>, Soph. Trach. 1096, Pind. Nem. iii. 24.</note>
+<pb n="16"/>
+bass, and the springs of the pure-flowing rivers moan with piteous anguish.<ref n="16.1">1</ref></p></sp>
+<sp><speaker start-line="452" end-line="487">PROMETHEUS</speaker><p>Think not that I am silent out of pride or<lb n="450"/> stubbornness; my heart is gnawed with conscious thoughts, to see myself entreated thus with ignominy.-And yet to these new upstart Gods who else was it than I defined their dignities entirely? But I will not speak of them, because I should be only telling you what you already know; but listen to the sufferings among mankind, how they were witless before then, and I caused them to have mind and<lb n="460"/> be possessed of understanding. And I say this, not with any wish to sneer at the defects of men, but to expound the benevolence of my bestowings..</p>
+<p>First of all, they had eyes and saw to no purpose, had ears and heard not,, but were like the shapes of dream, all their life long doing everything confusedly at hazard; they knew neither of brick-woven houses turned to face the sun, nor timber-work, but lived as burrowers like tiny<ref n="16.2">2</ref> ants in sunless holes of caves. And they had no sign of winter or of<lb n="470"/> flowery spring or fruitful summer to rely upon, but used to act in everything without grounded purpose, until the day when I revealed to them the risings of the stars and their ill-distinguished settings. Number, again, most excellent of artifices, I invented for them, and combinations of
+<note type="footnote" n="16.1">1 Reading:
+<l><foreign xml:lang="grc">βοᾷ δὲ πόντιος κλυδὼν</foreign></l>
+<l><foreign xml:lang="grc">ξυμπίτνων, στένει βύθος,</foreign></l>
+<l><foreign xml:lang="grc">κελαινὸς ῎Αιδος ὑποβρέμει μυχός,</foreign></l>
+<l><foreign xml:lang="grc">παγαί θ᾽ ἁγνορύτων ποταμῶν</foreign></l>
+<l><foreign xml:lang="grc">στένουσιν ἄλγος οἰκτρόν.</foreign></l>
+In the third line two syllables appear to be wanting for the rhythm— perhaps <foreign xml:lang="grc">χθονός</foreign> with <foreign xml:lang="grc">βύθος</foreign> or <foreign xml:lang="grc">μέγας</foreign> with <foreign xml:lang="grc">μυχός</foreign>.</note>
+<note type="footnote" n="16.2">2 <bibl>v. 468</bibl> <foreign xml:lang="grc">ἀησ-υρός</foreign> (formed like <foreign xml:lang="grc">βλοσυρός</foreign> ‘blouzy,' <foreign xml:lang="grc">ἀσουρής</foreign> ‘filthy”) seems to have meant 'quivering with a breath,' and so may have come to be applied in the sense 'busy': cf. <bibl><author>Hom.</author> <foreign xml:lang="grc">η</foreign> 106 and schol</bibl>,</note>
+<pb n="17"/>
+letters, to be memory of everything,<ref n="17.1">1</ref> the Muses' mother-instrument. And I was first to couple brute beasts under the yoke, to be subservient to the collar and the pack-saddle,<ref n="17.2">2</ref> that they might have the greatest labours of mankind<lb n="480"/> transferred to them; and in the chariot I harnessed horses obedient to the rein, the lustre of luxurious affluence.<ref n="17.3">3</ref> And on the sea, it was no other one than I that found out sailors' canvas-winged cars to roam the sea.</p>
+<p>Such are the devices that I found out for mortal men, and now I cannot find a subtle shift myself to get me free from the pain that is upon me.</p></sp>
+<sp><speaker start-line="488" end-line="491">CHORUS OF NYMPHS</speaker><p>Thou hast suffered a sore humiliation; thou hast lost thy wits and gone astray, and like a bad physician, falling sick, thou losest heart and canst not find what<lb n="490"/> medicines thou art curable thyself withal.</p></sp>
+<sp><speaker start-line="492" end-line="522">PROMETHEUS</speaker><p>When thou hearest the rest, thou wilt marvel more, the arts and ways and means that I devised. This the chiefest,-if a man fell sick, there was no deliverance whether by way of eaten drug or ointment or of draught, but they were emaciated for want of medicines, until I showed to them the mixtures of beneficent remedies, by means of which they now can fend off all disorders.</p>
+<p>And I distinguished many ways of divination, and was<lb n="500"/> the first to judge results of dreams,-what were to come true in fact, and I made known to them the import of dark ominous chance-utterances and of signs that met them on the road; and I defined for them exactly the flight of crook-taloned fowls,—which were by nature favourable and
+<note type="footnote" n="17.1">1 <bibl><author>Euryphamus</author> the Pythagorean in <author>Stob.</author> <title>Flor.</title> 103. 27</bibl> <quote><foreign xml:lang="grc">ἀνεúpeto δὲ καὶ γράμματα, θησαυροὺς τῷ μνάμα παρασκευασάμενος</foreign></quote>.</note>
+<note type="footnote" n="17.2">2 Reading odyμaow with <bibl><editor>Pauw</editor></bibl>.</note>
+<note type="footnote" n="17.3">3 <quote><foreign xml:lang="grc">ἄγαλμα τῆς ὑπερπλούτου χλιδῆς</foreign></quote>, as Helen is <quote><foreign xml:lang="grc">ἄγαλμα πλούτου</foreign></quote> in <bibl><title>Agam.</title> 740</bibl>: <bibl><author>Mr George Meredith</author> has made a felicitous application of the phrase to the Yacht and the Lady in <title>Beauchamp's Career</title>, at the end of c. xv</bibl>.</note>
+<pb n="18"/>
+the contrary, and what habit of life they severally follow, and what are their mutual likings and dislikings and consorting sessions: and the smoothness of the inwards, and what colour these must have to make them pleasing to the<lb n="510"/> Deities, and the good mottled aspect of the gall and liver, and the thigh-bones rolled up in fat and the long chine I burned with fire, and showed mankind the way into an Art of abstruse inference; and the look of fiery signs, whose vision had been dim and clouded hitherto, I caused to have clear eyes.</p>
+<p>So much for these inventions; now the hidden benefits to men within the earth, brass, iron, silver, and gold, who can claim to have discovered before me? No one, I am very sure, unless he wished to babble empty folly. Hear<lb n="520"/> in a brief word the sum of the whole matter-all arts that mankind have are from Prometheus.</p></sp>
+<sp><speaker start-line="523" end-line="526">CHORUS OF NYMPHS</speaker><p>Now be not a benefactor of mankind unduly and yet careless of thine own distress; because I am full of hope that thou shalt yet be delivered from thy bondage and have power no whit inferior to Zeus.</p></sp>
+<sp><speaker start-line="527" end-line="530">PROMETHEUS</speaker><p>It is not so that all-effecting Fate is yet decreed to seal the issue; I must first be bent by pains and sorrows infinite, and only thus escape my bonds: the strength of Art is far inferior to Necessity.</p></sp><lb n="530"/>
+<sp><speaker start-line="531" end-line="531">CHORUS OF NYMPHS</speaker><p>Who then holds the helm that steers Necessity?</p></sp>
+<sp><speaker start-line="532" end-line="532">PROMETHEUS</speaker><p>The triple Fates and the remembering Furies.</p></sp>
+<sp><speaker start-line="533" end-line="533">CHORUS OF NYMPHS</speaker><p>Is Zeus then the inferior of these in strength?</p></sp>
+<sp><speaker start-line="534" end-line="534">PROMETHEUS</speaker><p>At any rate he cannot escape Fate's decree.</p></sp>
+<sp><speaker start-line="535" end-line="535">CHORUS OF NYMPHS</speaker><p>Why, is there aught decreed for Zeus but power eternal?</p></sp>
+<sp><speaker start-line="536" end-line="536">PROMETHEUS</speaker><p>That you cannot be told,<ref n="18.1">1</ref> and do not press me.</p></sp>
+<sp><speaker start-line="537" end-line="537">CHORUS OF NYMPHS</speaker><p>It must be a grand secret that you wrap so closely!</p></sp>
+<sp><speaker start-line="538" end-line="541">PROMETHEUS</speaker><p>Name some other subject, for this it is anything but the time to utter; it must be covered up with all care
+<note type="footnote" n="18.1">1 <bibl>v. 536</bibl> <foreign xml:lang="grc">τοῦT' OŮKét' av Tú0010</foreign> as <bibl><author>Plat.</author> <title>Legg.</title> 792 c</bibl>, <bibl><author>Plut.</author> <title>Themist.</title> 27</bibl>.</note>
+<pb n="19"/>
+possible, for it is by keeping this that I am to escape my<lb n="540"/> foul indignities and sorrows..</p></sp>
+<sp><speaker start-line="542" end-line="580">CHORUS OF NYMPHS</speaker><p>Never may Zeus the Disposer of all things set his power to cross my will, nor may I be tardy in approaching the Gods with religious sacrifice of slain oxen by the unquenched river of my father Ocean, nor may I offend in words, but may this rule abide within my heart and never<lb n="550"/> be effaced.</p>
+<p>A pleasant thing, to draw out all one's length of days in hopeful confidence, gladdening my spirit with bright merry cheer-but I shudder to behold thee racked with torments infinite. ; for without fear of Zeus in wilfulness thou payest regard to mortals overmuch, Prometheus.<ref n="19.1">1</ref></p><lb n="560"/>
+<p>Come tell me, friend, how thy good turn can find return?<ref n="19.2">2</ref> Where is there any power to succour thee, what saving help is there in creatures of a day? Have not thine eyes beheld the feeble strengthlessness, as of a dream, in which the blind generation of mankind is bound and trammelled?<ref n="19.3">3</ref> Never
+<note type="footnote" n="19.1">1 <l><foreign xml:lang="grc">φρίσσω δέ σε δερκομένα</foreign></l>
+<l><foreign xml:lang="grc">μυρίοις μόχθοις διακναιόμενον</foreign></l>
+<l><foreign xml:lang="grc">Ζῆνα γὰρ οὐ τρομέων</foreign></l>
+<l><foreign xml:lang="grc">αὐτοβουλίᾳ σέβει</foreign></l>
+<l><foreign xml:lang="grc">θνητοὺς ἄγαν, Προμηθεῦ.</foreign></l></note>
+<note type="footnote" n="19.2">2 v. 561:
+<l><foreign xml:lang="grc">φέρ᾽, ὅπως χάρις ἃ χάρις, ὦ</foreign></l>
+<l><foreign xml:lang="grc">φίλος, εἰπέ, ποῦ τις ἀλκά ;</foreign></l>
+I have corrected the reading of the MSS., which is <foreign xml:lang="grc">χάρις ἄχαρις</foreign>. The construction is <foreign xml:lang="grc">φέρ' εἰπὲ ὅπως χάρις ἁ χάρις</foreign>, a challenge, as Soph. Ο.Τ. 390 <foreign xml:lang="grc">ἐπεὶ φέρ᾽ εἰπέ, ποῦ σὺ μάντις εἶ σαφής ;</foreign> Εl. 286 <foreign xml:lang="grc">φέρε, πῶς ἀμελεῖν καλόν;</foreign> Eur. El. 1049 <foreign xml:lang="grc">λέγ' ὅπως τέθνηκε σὺς πατὴρ οὐκ ἐνδίκως</foreign>. The * order of the words is frequent, e.g. Eur. Οr. 367 <foreign xml:lang="grc">ὅπου ἐστὶν εἴπατε,</foreign> Pherecrates frag. 45 <foreign xml:lang="grc">ὅπως παρασκευάζεται τὸ δεῖπνον εἴπαθ᾽ ἡμῖν</foreign>.</note>
+<note type="footnote" n="19.3">3 Reading with Meineke:
+<l><foreign xml:lang="grc">ὀλιγοδρανίαν ἄκικυν ἰσ-</foreign></l>
+<l><foreign xml:lang="grc">όνειρον ᾧ τὸ φωτῶν</foreign></l>
+<l><foreign xml:lang="grc">ἀλαὸν <add>δέδεται</add> γένος ἐμπεποδισμένον ;</foreign></l>
+as Anth. Pal. vi. 296 <foreign xml:lang="grc">ἐκ γήρως ἀδρανίῃ δέδεται</foreign>.</note>
+<pb n="20"/>
+shall the devices of mankind transgress the Ordered Harmony of Zeus.<lb n="570"/><ref n="20.1">1</ref></p>
+
+
+
+<p>I have learnt this<ref n="20.2">2</ref> from beholding thy sad ruin, O Prometheus; and the difference in the strain came winging to my ears-in this and that which erst about thy bridal bath and couch I sang in wedding chorus upon occasion of thy marriage, when thou broughtest home Hermione my father's daughter, after winning her with gifts, to be thy bride and share thy bed.<ref n="20.3">3</ref></p></sp>
+<stage>(Enter Io, with a heifer's horns, distracted.)</stage>
+<sp><speaker start-line="581" end-line="613">IO</speaker><p>What land? What people? Who can I suppose this is that I behold here tempest-beaten in bridles made of rock? For what offence art thou being punished with destruction? Tell me what quarter of the world, unhappy toiler, I have wandered to.</p>
+<stage>(A sudden fit of frenzy seizes her.)</stage>
+
+<p>Ah, ah! there is a sting-fly fretting me again-the ghost of earth-born Argos-O forfend!—as I behold the myriad-visioned Herdsman. He travels ever with his crafty eye<lb n="590"/> upon me, and even after death the earth conceals him not, but winning his way from the dead below, he hunts me
+<note type="footnote" n="20.1">1 <bibl>v. 569</bibl> <foreign xml:lang="grc">τὰν Διὸς ἁρμονίαν</foreign>: see the notes on <bibl><title>Supp.</title> 106</bibl> in my prose translation and in <bibl><title>A Book of Greek Verse</title>, p. 278</bibl>.</note>
+<note type="footnote" n="20.2">2 <foreign xml:lang="grc">ἔμαθον</foreign>, a premonition of the new law <foreign xml:lang="grc">πάθει μάθος</foreign>.</note>
+<note type="footnote" n="20.3">3 Both <foreign xml:lang="grc">ἕδνοις</foreign> and <foreign xml:lang="grc">πιθών</foreign> are in all the MSS., except that M has <foreign xml:lang="grc">πείθων</foreign>, which is certainly wrong. Lachmann thought that <foreign xml:lang="grc">ἕδνοις</foreign> should be ejected, and it would be possible to have <foreign xml:lang="grc">ἕδνοις</foreign> without <foreign xml:lang="grc">πιθών</foreign>: Apollonius Rhodius i. 977:
+<l><foreign xml:lang="grc">Κλείτη ἐϋπλόκαμος, τὴν μὲν νέον ἐξέτι πατρὸς</foreign></l>
+<l><foreign xml:lang="grc">θεσπεσίοις ἕδνοισιν ἀνήγαγεν ἀντιπέρηθεν :</foreign></l>
+ii. 239:
+<l><foreign xml:lang="grc">Κλειοπάτρην ἕδνοισιν ἐμὸν δόμον ἦγον ἄκοιτιν.</foreign></l></note>
+<pb n="21"/>
+down, chased wandering and famished over the sand of the sea-shore.</p>
+<p>And the wax-compacted reed keeps humming in my ears a drowsy strain. Alas, alas, ah, whither am I brought in my far-roaming course?</p>
+<p>What is it, O Son of Cronos, what offence that thou hast<lb n="600"/> found in me to harness me in these afflictions and to harass a poor maiden thus, distraught with terror of the driving sting? Burn me with fire, or cover me in earth, or give me to be meat unto the monsters of the sea, and grudge me not, O Lord, my supplication! Enough have I been tried and exercised with far-strayed wanderings and cannot see<lb n="610"/> what way I can avoid my miseries. O hearest thou the utterance of the Hornèd Virgin?</p></sp>
+<sp><speaker start-line="614" end-line="617">PROMETHEUS</speaker><p>How can I fail to hear that Maiden frenzy-tossed, the Daughter of Inachus, who, story tells, inflamed the heart of Zeus, and now is being exercised and driven violently in those immense long courses under Hera's hatred?</p></sp>
+<sp><speaker start-line="618" end-line="635">IO</speaker><p>Whence comest thou to voice my father's name? Tell the poor weary maid who art thou, who, unhappy one,<lb n="620"/> that criest me my wretched name so verily, and namest the disease that wears me out, still fretting me with fitful goads of wild distraction!</p>
+<p>With cruel starving tortures of wild leaps I come in boisterous haste, the victim of Hera's rancorous devices. Where are they among the evil-starred that suffer toil the like, ah me! the like of mine? O signify me certainly<lb n="630"/> what suffering is yet in store for me, what remedy or medicine of my malady; reveal it, if thou knowest! Voice it, O declare to the poor Wandering Virgin!</p></sp>
+<sp><speaker start-line="636" end-line="639">PROMETHEUS</speaker><p>I will tell thee plainly all that thou desirest to know, with no riddling involution but in simple words, as it is right to open mouth toward friends :—he whom thou seest is Prometheus, the giver of Fire to Men.</p></sp>
+<pb n="22"/>
+<sp><speaker start-line="640" end-line="641">IO</speaker><p>O risen a general benefaction to mankind, what is<lb n="640"/> the cause that thou art suffering so?</p></sp>
+<sp><speaker start-line="642" end-line="642">PROMETHEUS</speaker><p>I have but lately ceased lamenting my own pains.</p></sp>
+<sp><speaker start-line="643" end-line="643">IO</speaker><p>Wilt thou then grant a gift to me?</p></sp>
+<sp><speaker start-line="644" end-line="644">PROMETHEUS</speaker><p>Tell me what it is thou askest, for there is nothing that thou mayst not learn from me.<ref n="22.1">1</ref></p></sp>
+<sp><speaker start-line="645" end-line="645">IO</speaker><p>Show me who it is that hath fastened thee in this ravine?</p></sp>
+<sp><speaker start-line="646" end-line="646">PROMETHEUS</speaker><p>Zeus for the will, and for the hand, Hephaestus.</p></sp>
+<sp><speaker start-line="647" end-line="647">IO</speaker><p>And what is the offence that thou art punished for?</p></sp>
+<sp><speaker start-line="648" end-line="648">PROMETHEUS</speaker><p>Thus much alone I can suffice thee with.</p></sp>
+<sp><speaker start-line="649" end-line="650">IO</speaker><p>Nay, show me besides that what date will be the termination of my miserable wandering?</p></sp><lb n="650"/>
+<sp><speaker start-line="651" end-line="651">PROMETHEUS</speaker><p>Not to know that is better for thee than to know.</p></sp>
+<sp><speaker start-line="652" end-line="652">IO</speaker><p>Nay, hide thou not from me what I am doomed to suffer.</p></sp>
+<sp><speaker start-line="653" end-line="653">PROMETHEUS</speaker><p>Oh, I am not jealous of the gift.</p></sp>
+<sp><speaker start-line="654" end-line="654">IO</speaker><p>Why then hesitate to utter the whole truth?</p></sp>
+<sp><speaker start-line="655" end-line="655">PROMETHEUS</speaker><p>No grudging, only I am loth to shock thy feelings.</p></sp>
+<sp><speaker start-line="656" end-line="656">IO</speaker><p>Be not considerate for me beyond my liking.</p></sp>
+<sp><speaker start-line="657" end-line="657">PROMETHEUS</speaker><p>Since thou art set upon it, I must speak: now listen.</p></sp>
+<sp><speaker start-line="658" end-line="661">CHORUS OF NYMPHS</speaker><p>Nay, wait a little, and indulge my pleasure also. First let us inquire the story of her malady, her own lips telling us of her lost wild wandering,<ref n="22.2">2</ref> and then let
+<note type="footnote" n="22.1">1 <foreign xml:lang="grc">πᾶν γὰρ ἂν πύθοιό μου.</foreign></note>
+<note type="footnote" n="22.2">2 <bibl>v. 660</bibl>. This is the meaning of <foreign xml:lang="grc">τὰς πολυφθόρους τύχας</foreign>, and of <foreign xml:lang="grc">τῆς πολυφθόρου πλάνης</foreign> <bibl>846</bibl>. <foreign xml:lang="grc">φθείρεσθαι</foreign> often meant to wander aimlessly adrift (e.g. <bibl><author>Eur.</author> <title>Hel.</title> 773</bibl> <quote><foreign xml:lang="grc">ἀλλοῖον ἐφθείρου πλάνην</foreign></quote>, <bibl><title>El.</title> 232</bibl>), and adjectives were used in the same sense; in <bibl><author>Soph.</author> frag. 511</bibl> <foreign xml:lang="grc">oi moλúplopol</foreign> is said of sailors cast adrift upon the sea, in <bibl><author>Lycophon</author> 235</bibl> <foreign xml:lang="grc">λαρνακοφθόρους ῥιπάς</foreign> means 'casting adrift in an ark,' in <bibl><author>Eur.</author> frag. 636</bibl> <foreign xml:lang="grc">νομάδα κυματόφθορον</foreign> (so read for <foreign xml:lang="grc">κυματοφθόρον</foreign>) <foreign xml:lang="grc">ἁλιαίετον</foreign> means 'wave-roaming,' and <foreign xml:lang="grc">ἁλίφθορος</foreign> properly meant 'shipwrecked,' like <foreign xml:lang="grc">ναύφθορος</foreign>, <foreign xml:lang="grc">ἐφθαρμένος</foreign> (<bibl><title>Cycl.</title> 298</bibl>, <bibl><title>I.T.</title> 268</bibl>), or 'sea-rover.'</note>
+<pb n="23"/>
+her have instruction in the remainder of her task from thee.</p></sp>
+<sp><speaker start-line="662" end-line="666">PROMETHEUS</speaker><p>It behoves thee, Io, to afford these maids the favour, more especially as they are sisters of thy Father; for to have one's fill of weeping and lament for sorrows in a case where one is like to win a tear, is worth the while.</p></sp>
+<sp><speaker start-line="667" end-line="713">IO</speaker><p>I do not know how I can be disobedient to you; ye shall hear in plain terms everything that ye desire of me :— yet I am ashamed even in the telling of the heaven-inflicted<lb n="670"/> storm and ruin of my features-to tell whence it swooped upon unhappy me.</p>
+<p>There were visions in the night continually haunting me, that kept visiting my bower with smooth words: 'O thou highly-blessèd Maiden, why art thou so long a virgin when thou mayest win the greatest marriage? The heart of Zeus hath been inflamed by an arrow of desire from thee, and he would fain have loving converse with thee: thou, therefore, my child, lift not thy foot to kick away the bed of Zeus, but go thou forth unto the deep meadow-land of Lerna to thy father's<lb n="680"/> flocks and oxen-stalls, to the end that the eye of Zeus may be eased of his desire.'</p>
+<p>With dreams like this I was afflicted every night; until at last I brought myself to confess the haunting visions to my father: and he kept sending frequent ambassadors to the oracles of Pytho and Dodona to find out what act or word he must perform to do the pleasure of the Deities. And they kept coming back with vaguely-spoken oracles of dim significance and darkly worded. But at last there<lb n="690"/> came to Inachus a clear injunction, charging him directly in so many words to thrust me from my home and country to go wandering free at the extremities of the earth; and if he refused, a fiery thunderbolt should come from Zeus, which should destroy his whole house utterly.</p>
+<p>Yielding obedience to this response of Loxias, he drove
+<pb n="24"/>
+me out and shut me from the house-as sorely against his will as mine; but the constraint of Zeus was upon him as a bridle, forcing him to do this thing.</p>
+<p>And immediately my shape and senses were distorted,<lb n="700"/> and with horns, as ye behold, upon my head, fretted with a sharp-biting sting I rushed with frantic leaps to the sweet drinking water of Kerchneia, and the springs of Lerna; and an earth-born herdsman of unmitigated temper, Argos, followed, having vision with a host of eyes, upon my steps. But a sudden destruction came upon him unawares<ref n="24.1">1</ref> and took his life. And I, still frenzy-stung, am driven by the Scourge of God from land to land.</p>
+<p>This is the story of these doings, and if thou canst tell<lb n="710"/> me what is the remainder of my toils, declare it, and do not out of pity flatter me with falsehood, for I think that made-up stories are the most shameful vice.</p></sp>
+<sp><speaker start-line="714" end-line="721">CHORUS OF NYMPHS</speaker><p>Ah, ah! away!</p>
+<p>Never, never did I dream that such unheard-of utterances would come to my hearing, or such hideous, fearful sufferings, tortures, terrors, pierce me with a prong and strike a chill into my soul!</p>
+<p>O Fate, O Fate, I am afraid at seeing the sore plight<lb n="720"/> of Io.</p>
+<note type="footnote" n="24.1">1 The MSS. give:
+<l><foreign xml:lang="grc">ἀπροσδόκητος δ' αὐτὸν αἰφνίδιος μόρος.</foreign></l>
+I think it very likely that <foreign xml:lang="grc">αἰφνίδιος</foreign> is a gloss on <foreign xml:lang="grc">ἄπτερος</foreign> : because with scholiasts it was one of the recognised interpretations of the doubtful <foreign xml:lang="grc">ἅπτερος</foreign> in Homer. Later poets, as Aeschylus in <title>Agam.</title> 288 <foreign xml:lang="grc">ἀπτερος φάτις</foreign>, used the word of things which, though wingless, are as swift as wings, wing-swift; and the vagueness would be suitable, because the legends differed as to the manner in which Hermes killed Argus. In such cases Aeschylus is fond of using terms which will apply to various versions and leave scope to the imagination,—the nature of the <foreign xml:lang="grc">οἶστρος</foreign>, for example, in this play, and of Clytemnestra's weapon in the <title>Agamemnon</title>.</note></sp>
+<pb n="25"/>
+<sp><speaker start-line="722" end-line="723">PROMETHEUS</speaker><p>It is too soon that thou complainest and art full of fear : wait until thou hast been told the rest.</p></sp>
+<sp><speaker start-line="724" end-line="725">CHORUS OF NYMPHS</speaker><p>Say on, inform me! to the sick it is relief to know for sure beforehand their remaining pain.</p></sp>
+<sp><speaker start-line="726" end-line="767">PROMETHEUS</speaker><p>Your former suit you obtained from me lightly; you desired instruction from her first, her own recital of her trial. Now hear the sequel-the sufferings that this damsel<lb n="730"/> must endure from Hera. And thou, O seed of Inachus, lay up my sayings in thy heart, that thou mayest learn the lesson of thy journey to its end.</p>
+<p>First, then, from hence reverse thy face toward the rising of the sun and take thy steps over the unploughed fields; and thou wilt come unto the Nomad Scythians, who dwell lifted up in wicker houses on wheeled caravans, accoutred with far-shooting bows. These thou must not approach, but keep thy footsteps close beside the thundering sea-beaches and so pass out of the country. And on the left<lb n="740"/> hand dwell the iron-workers, Chalybes, whom also thou must avoid, for they are savage and not fit for strangers to approach, and thou wilt come unto a river Violent,<ref n="25.1">1</ref> not falsely named, which cross thou not, for it is not easy to ford, until thou come to Caucasus himself, the loftiest among mountains, where there is a river that jets out
+<note type="footnote" n="25.1">1 v. 743 <foreign xml:lang="grc">ἥξεις δ' ὑβριστὴν ποταμὸν</foreign> MSS., 'a violent river,' as <foreign xml:lang="grc">ὑβριστὴν ἄνεμον</foreign> Hesiod <title>Theog.</title> 308, <foreign xml:lang="grc">τῷ ποταμῷ τοῦτο ὑβρίσαντι</foreign> Hdt. i. 189. The scholiast says that the Araxes is meant, <foreign xml:lang="grc">τὸν Ἀράξην, παρὰ τὸ ἀράσσειν καὶ ἠχεῖν τὰ κύματα αὐτοῦ</foreign>, ‘The Araxes, from <foreign xml:lang="grc">ἀράσσειν</foreign>, which, normally, should mean that the word in the text is derived from <foreign xml:lang="grc">ἀράσσειν</foreign>: e.g. <title>Theb.</title> 195 <foreign xml:lang="grc">ἀρχαῖα [βασιλικά, παρὰ τὴν ἀρχήν</foreign>, <title>Cho.</title> 445 <foreign xml:lang="grc">ἄφερκτος] κατάκλειστος, παρὰ τὴν εἱρκτήν</foreign>. No difficulty would have been found if the text had been
+<l><foreign xml:lang="grc">ἥξεις δ᾽ Αρακτὴν ποταμὸν οὐ ψευδώνυμον :</foreign></l>
+and one may conceive this being glossed with <foreign xml:lang="grc">ὑβριστήν</foreign>, for under the title <foreign xml:lang="grc">ὑβριστής</foreign> Pollux viii. 75-7 gives <foreign xml:lang="grc">ἐπάταξεν, ἦγξεν, ἤραξεν</foreign> and <foreign xml:lang="grc">παίων, πατάσσων, ἀράσσων</foreign>.</note>
+<pb n="26"/>
+fiercely from his very forehead: his star-neighbouring peaks thou must surmount and enter on the path of the meridian, where thou wilt reach the army of the Amazons, abhorring men, who one day shall inhabit Themiskyra beside<lb n="750"/> Thermodon, where is the rugged jaw of Salmydessus in the sea, ill-welcomer of mariners, the stepmother of ships: they shall bring thee on thy way most willingly; and right against the narrow entrance of the Lake thou wilt come to the Cimmerian isthmus, which thou must leave, and with a stout courage pass through the channel of Maeotis: and there shall be for ever among men great mention of thy passage and it shall be called after thee the Bosporus. And then leaving the land of Europe thou wilt reach the<lb n="760"/> continent of Asia.-Are ye satisfied that the new Sovereign of the Gods is violent and tyrannical in everything alike? A God, desiring to have converse with a mortal woman— thus it is that he hath inflicted all these wanderings upon her. It is a rueful suitor for thy marriage thou hast found, poor maiden! for the narrative that thou hast heard just now thou must not think is even in the prologue.</p></sp>
+
+<stage>(Io utters cries of despair.)</stage>
+<sp><speaker start-line="769" end-line="770">PROMETHEUS</speaker><p>Ah, thou art crying now and making moan,- what wilt thou do, I wonder, when thou hearest the<lb n="770"/> remainder?</p></sp>
+<sp><speaker start-line="771" end-line="771">CHORUS OF NYMPHS</speaker><p>Why, hast thou a remainder still to tell her?</p></sp>
+<sp><speaker start-line="772" end-line="772">PROMETHEUS</speaker><p>Ay, a tempestuous sea of ruinous distress.</p></sp>
+<sp><speaker start-line="768" end-line="768">IO</speaker><p>What profit then is life to me? Why not hurl myself at once from this rough crag, to plunge upon the ground and so be rid of all my troubles? Better to die once for all than all one's days to suffer misery!</p></sp>
+<sp><speaker start-line="778" end-line="782">PROMETHEUS</speaker><p>Ah, ill indeed wouldst thou endure my trials, for whom death is not designed by Fate-that would have been<lb n="780"/>
+<pb n="27"/>
+release from my afflictions; but now there is no term appointed me until Zeus be cast out from his sovereignty.</p></sp>
+<sp><speaker start-line="783" end-line="783">IO</speaker><p>Why, is it written that Zeus must be dethroned?</p></sp>
+<sp><speaker start-line="784" end-line="784">PROMETHEUS</speaker><p>You would be glad, I dare say, to see that happen?</p></sp>
+<sp><speaker start-line="785" end-line="785">IO</speaker><p>How should I not, when I am suffering ill from Zeus?</p></sp>
+<sp><speaker start-line="786" end-line="786">PROMETHEUS</speaker><p>Well, then, you may understand that so it is.<ref n="27.1">1</ref></p></sp>
+<sp><speaker start-line="787" end-line="787">IO</speaker><p>By whose means shall he be robbed of his imperial sceptre?</p></sp>
+<sp><speaker start-line="788" end-line="788">PROMETHEUS</speaker><p>By means of his own empty-headed counsels.</p></sp>
+<sp><speaker start-line="789" end-line="789">IO</speaker><p>In what manner? tell me, if there is no harm.</p></sp>
+<sp><speaker start-line="790" end-line="790">PROMETHEUS</speaker><p>He means to make a marriage that he shall one<lb n="790"/> day rue.</p></sp>
+<sp><speaker start-line="791" end-line="791">IO</speaker><p>Of divine seed or human? If it may be told, explain.</p></sp>
+<sp><speaker start-line="792" end-line="792">PROMETHEUS</speaker><p>Why ask the nature of it? This is not to be made known.</p></sp>
+<sp><speaker start-line="793" end-line="793">IO</speaker><p>Is it by his wife that he is to be dispossessed?</p></sp>
+<sp><speaker start-line="794" end-line="794">PROMETHEUS</speaker><p>Ay, she will bear a son who shall excel his father.</p></sp>
+<sp><speaker start-line="795" end-line="795">IO</speaker><p>Is there no averting of the peril?</p></sp>
+<sp><speaker start-line="796" end-line="796">PROMETHEUS</speaker><p>No-except I might, if I were released.</p></sp>
+<sp><speaker start-line="797" end-line="797">IO</speaker><p>Who then is to release thee in despite of Zeus?</p></sp>
+<sp><speaker start-line="798" end-line="798">PROMETHEUS</speaker><p>It is to be one of thine own offspring.</p></sp>
+<sp><speaker start-line="799" end-line="799">IO</speaker><p>How sayest thou! My son shall set thee free?</p></sp>
+<sp><speaker start-line="800" end-line="800">PROMETHEUS</speaker><p>Ay, the third in generation added to ten others.</p></sp><lb n="800"/>
+<sp><speaker start-line="801" end-line="801">IO</speaker><p>That utterance is no longer comprehensible.</p></sp>
+<sp><speaker start-line="802" end-line="802">PROMETHEUS</speaker><p>No, and seek not to inquire thine own fate either.</p></sp>
+<sp><speaker start-line="803" end-line="803">IO</speaker><p>Do not hold out a boon and then withdraw it.</p></sp>
+<sp><speaker start-line="804" end-line="804">PROMETHEUS</speaker><p>I will present thee with one or other of two secrets.</p></sp>
+<sp><speaker start-line="805" end-line="805">IO</speaker><p>What? Show me what they are, and offer me the choice.</p></sp>
+<sp><speaker start-line="806" end-line="807">PROMETHEUS</speaker><p>I will; choose, whether I shall explain to thee the remainder of thy toils, or my deliverer.</p>
+<note type="footnote" n="27.1">1 <bibl>v. 786</bibl> <foreign xml:lang="grc">ὡς τοίνον ὄντων τῶνδε μανθάνειν πάρα</foreign> was the reading of M before alteration (<bibl><editor>Sikes</editor> and <editor>Willson</editor></bibl>), and is certainly right.</note></sp>
+<pb n="28"/>
+<sp><speaker start-line="808" end-line="811">CHORUS OF NYMPHS</speaker><p>Be pleased to bestow one of these favours upon her and one on me; declare to her the remainder of her<lb n="810"/> wanderings and to me thy deliverer, and refuse us not the telling.<ref n="28.1">1</ref></p></sp>
+<sp><speaker start-line="812" end-line="844">PROMETHEUS</speaker><p>Since ye are bent upon it, I will not oppose you or refrain from telling all that ye desire.</p>
+
+<p>First, Io, I will show to thee thy long-tossed wandering, which do thou inscribe on the memorial tables of thy mind.</p>
+<p>After thou hast crossed the stream which is the bourne of the two continents, towards the fiery Sun-trod Orient,<ref n="28.2">2</ref> passing the swelling surge of the sea, until thou reach the Gorgon Plains of Kisthene, where dwell the Daughters of Phorcys, ancient of days, three, of swan fashion, with one<lb n="820"/> eye in common, and with one tooth only-upon whom the sun looks never with his rays, neither the moon by night. And near them are there sisters three, covered with wings and fleeced with serpents, horrible to human kind, whom no man born shall look upon and still draw breath.</p>
+<p>Such is the nature of the opening scene;<ref n="28.3">3</ref> now listen to another uncouth spectacle: There are the sharp-mouthed eagle-barking hounds of Zeus, the Gryphons, that you must beware of, and the one-eyed host of Arimaspians, mounted<lb n="830"/> upon horses, who inhabit by the golden-flowing stream of Pluto: these thou must not go nigh. And at the far end of the earth<ref n="28.4">4</ref> thou wilt arrive at the black tribe that dwell near to the sources of the Sun, where is the river Ethiop. Along his banks proceed thou until thou reach the falling Cataract, where from the Byblus Mountains Nile sends forth his worshipped river of sweet water.</p>
+<p>He shall guide thee on thy way to his three-angled land
+<note type="footnote" n="28.1">1 <foreign xml:lang="grc">μηδ' ἀτιμάσῃς λόγου.</foreign></note>
+<note type="footnote" n="28.2">2 There may be a lacuna here.</note>
+<note type="footnote" n="28.3">3 v. 827: reading <foreign xml:lang="grc">φροίμιον</foreign> (Wakefield); cf. 767.</note>
+<note type="footnote" n="28.4">4 <foreign xml:lang="grc">τηλουρὸν δὲ γῆς</foreign> <bibl><editor>Elmsley</editor></bibl>.</note>
+<pb n="29"/>
+Nilotic; and there it is destined for thee, Io, and thy children to plant thy far-off colony.</p>
+<p>Herein if there be ought obscure and hard to understand, you may repeat again and learn it clearly; I have leisure<lb n="840"/> at my disposal more than I desire.</p></sp>
+<sp><speaker start-line="845" end-line="848">CHORUS OF NYMPHS</speaker><p>If there be anything remaining or omitted in her lost wild<ref n="29.1">1</ref> wandering that thou hast yet to show to her, then say on; but if thou hast told all, now grant the boon we ask for; thou rememberest, doubtless.</p></sp>
+<sp><speaker start-line="849" end-line="902">PROMETHEUS</speaker><p>She hath now heard the whole conclusion of her journey; but that she may be assured that what she has<lb n="850"/> heard from me is not idle tale, I will rehearse the labours she has gone through before coming here, and give this for a warrant of my story.-Well, the great bulk of the narrative I will omit, and come to the conclusion of her wanderings.</p>
+<p>After thou hadst come to the Molossian plains and the steep ridges of Dodona, where there is an oracle and seat of Zeus Thesprotian, and that prodigy incredible, the Talking Oaks,--by whom thou distinctly and in no ambiguous terms wast hailed as she that was to be the spouse of Zeus<lb n="860"/> -doth any touch in this appeal to thee?<ref n="29.2">2</ref>—Thence in a frenzy thou didst rush upon the path along the shore to the great Gulf of Rhea, whence I see thee driven by a storm and beaten back upon thy course ;-and for ensuing time hereafter the sea-bay, be well assured, shall be called Ionian, for a memorial of thy passage unto all mankind.</p>
+<p>This a sign of my intelligence, to show that it discerneth more than what is visible.-The rest I will declare to you<lb n="870"/> (the Chorus) and her in common, picking up again the thread of my discourse.</p>
+<p>There is a city called Canobus at the far end of the
+<note type="footnote" n="29.1">1 v. 846 <foreign xml:lang="grc">πολυφθόρου</foreign>: see note on v. 660.</note>
+<note type="footnote" n="29.2">2 <bibl>v. 861</bibl> <foreign xml:lang="grc">προσσαίνει</foreign>: see my note on <foreign xml:lang="grc">προσγελᾷ</foreign>, <bibl><title>Eumen.</title> 253</bibl>.</note>
+<pb n="30"/>
+country, at the very mouth and silted bank of Nile; and there it is that Zeus is to restore thee to thy senses by the mere laying on of his undreadful hand and by its touch alone.</p>
+<p>And after the manner of his engendering shall be named a son that thou shalt bear, the swarthy Epaphus, who shall possess all the land that is watered by the broad stream of the Nile. And fifth in descent from him a generation of fifty children shall return again, not of their will, to Argos<lb n="880"/> -a female generation, flying from kindred marriage with their cousins; they, with hearts excited, hawks in chase of doves and close behind them, shall arrive there in pursuit of marriage wrongful to pursue. But God shall grudge possession of their bodies, and the Pelasgian land shall give them welcome, the men being slain in woman-battle with bold daring in the watches of the night:-for each wedded woman shall take her husband's life by plunging a two-edged sword into his throat-may wedded love like that befall my enemies!-But one among these<lb n="890"/> daughters shall be charmed by love's desire to spare her bedfellow; the edge of her resolve shall be abated, and between two evils she shall choose the name of coward rather than of murderess. She shall give birth in Argos to a royal race. It would require a long discourse to go through all this thoroughly, the sum, however, is that from this seed there shall be born an offspring bold and famous in the bow, who shall deliver me from my distress.<ref n="30.1">1</ref></p>
+<note type="footnote" n="30.1">1 v. 897: reading with Wecklein:
+<l><foreign xml:lang="grc">σπορᾶς γε μὴν ἐκ τῆσδε φύσεται θρασὺς</foreign></l>
+<l><foreign xml:lang="grc">τόξοισι κλεινὸς ἶνις, ὃς πόνων ἐμὲ</foreign></l>
+or <foreign xml:lang="grc">ὃς με τῶν πόνων</foreign>. This theory accounts well for the many variations which the MSS. play upon the words <foreign xml:lang="grc">ὃς πόνων ἐκ τῶνδ᾽ ἐμέ</foreign>, some omitting <foreign xml:lang="grc">ἐκ</foreign>. I note that a choliambic inscription, Kaibel <title>Epigr.</title> 549, begins <foreign xml:lang="grc">ὁ κλεινὸς ἶνις βασιλέων Ἀρίζασπος</foreign>, and Heracles is called <foreign xml:lang="grc">Διὸς ἶνις</foreign> in Eur. <title>Andr.</title> 781; and one may conceive him being called <foreign xml:lang="grc">θρασὺς τοξόκλυτος υἱός</foreign> in Epic. The alternative is to read with Sikes and Willson <foreign xml:lang="grc">σπόρος</foreign> for <foreign xml:lang="grc">σπορᾶς</foreign>, 'from this ancestress there shall be born an offspring bold.' This gives a more attractive rhythm, and the MSS. variations might possibly be accounted for by <foreign xml:lang="grc">τῶνδ᾽ ὃς ἐκ πόνων ἐκέ</foreign>.</note>
+<pb n="31"/>
+<p>This is the oracle that was expounded to me by my ancient Mother, Titan Themis; but the manner and the<lb n="900"/> means would take long to say, and thou wilt not gain anything from hearing it.</p></sp>
+<sp><speaker start-line="903" end-line="912">IO</speaker><p>Eleleu!</p>
+<p>Again convulsion is coming over me and brain-struck fits of madness that inflame; the sting is fretting me as with a red-hot point;<ref n="31.1">1</ref> my heart in terror is kicking at my ribs, my eyes are rolling wildly in a whirl; I am swept out of the course<ref n="31.2">2</ref> by frenzy's violent wind; my tongue is masterless,<lb n="910"/> and thick and turbid words come dashing all at random against waves of horrible affliction! <stage>[Exit.</stage></p></sp>
+<sp><speaker start-line="913" end-line="938">CHORUS OF NYMPHS</speaker><p>O wise, O wise was he that first well weighed that saying in his mind and made it current for a proverb with his tongue, that to make a match according to one's own condition is the best by far, and that neither among them that are made proud and delicate by wealth nor them that magnify themselves with birth should a man that is a<lb n="920"/> handicraftsman be enamoured to seek marriage.</p>
+<p>Never, never, O ye<ref n="31.3">3</ref> . . . Fates, may ye behold me made a partner in the couch of Zeus, neither may I be wedded to any spouse among the host of Heaven! For I am sore afraid when I behold the man-rejecting maidenhood
+<note type="footnote" n="31.1">1 Compare <bibl><title>Agam.</title> 1255, 1214, 984</bibl>.</note>
+<note type="footnote" n="31.2">2 As a ship.</note>
+<note type="footnote" n="31.3">3 An epithet has been omitted in the text. The loss would be accounted for by
+<l><foreign xml:lang="grc">μή ποτε, μή ποτέ μ᾽ ὦ</foreign></l>
+<l><foreign xml:lang="grc">Μοῖραι <![CDATA[<τελέστειραι>]]> </foreign></l>
+'effecters of fulfilment.'</note>
+<pb n="32"/>
+of Io in such tribulation from the toilsome wanderings of<lb n="930"/> Hera's task.</p>
+<p>For me, when equal, marriage hath no terrors; but may the kind I fear, the love of greater Powers, never cast its fatal eye upon me!<ref n="32.1">1</ref> That is a war unwarrable, a source of all resourcelessness-I cannot tell what I should turn into,<ref n="32.2">2</ref> because I cannot see any means by which I could escape the design of Zeus.</p></sp>
+<sp><speaker start-line="939" end-line="959">PROMETHEUS</speaker><p>Ah, nevertheless, although his pride be obstinate,<ref n="32.3">3</ref> Zeus verily shall yet be humble, seeing what a marriage he<lb n="940"/> is preparing to make, that shall oust him from his throne and sovereignty into nothingness and then the curse of his father Cronos shall be accomplished to the full, the curse he imprecated when he was being cast out from his ancient throne: that shall be his affliction, and averting of it there is no God in Heaven that can show him except me: I know, and know the manner.</p>
+<p>Now, therefore, let him sit there bravely, trusting in his loud noises up aloft, and brandishing in his hands his weapon that breathes fire! for all that shall serve him<lb n="950"/> nothing to prevent his being cast out ignominiously with a fall intolerable; so strong a wrestler he is now preparing for his own antagonist, a fell portentous adversary, one that
+<note type="footnote" n="32.1">1 v. 931: reading:
+<l><foreign xml:lang="grc">ἐμοὶ δ᾽ (ὁπότε) μὲν ὁμαλὸς ὁ γάμος</foreign></l>
+<l><foreign xml:lang="grc">ἄφοβος· ὃν δὲ δέδια, μή τι κρεισσόνων</foreign></l>
+<l><foreign xml:lang="grc">ἔρως ἄφυκτον ὄμμα προσδράκοι με.</foreign></l>
+See the <title>Journal of Philology</title>, 1907, p. 314.</note>
+<note type="footnote" n="32.2">2 <foreign xml:lang="grc">οὐδ᾽ ἔχω τις ἂν γενοίμαν</foreign>: I take this to be like the phrases <foreign xml:lang="grc">παντοῖος</foreign> or <foreign xml:lang="grc">παντόδαπος γevéolai</foreign>, 'to try all shifts' (<bibl><author>Hdt.</author> iii. 24, vii. 10, ix. 109</bibl>; <bibl><author>Lucian</author> i. 42</bibl>; <bibl><author>Dion Chrys.</author> i. 164</bibl>; <bibl><author>Achill. Tat.</author> ii. 29, iii. 23, vii. 1</bibl>); at least 'I cannot tell what would become of me' should be, in classical Greek, <foreign xml:lang="grc">τί ἂν γενοίμην</foreign>—e.g. <bibl><title>Theb.</title> 284</bibl>, <quote><foreign xml:lang="grc">τί γένωμαι</foreign></quote>?</note>
+<note type="footnote" n="32.3">3 <foreign xml:lang="grc">καίπερ αὐθάδη φρονῶν</foreign>: there is a v.l. <foreign xml:lang="grc">φρενῶν</foreign>, and this led to <foreign xml:lang="grc">αὐθάδης φρενῶν</foreign> which M has, and which is not Greek.</note>
+<pb n="33"/>
+shall find out a flame superior to the lightning, and a noise more powerful to out-din the thunder, and that sea-distemper, that earth-shaking plague, the trident, weapon of Poseidon, he shall scatter :-and then, wrecked upon this evil, Zeus shall learn the difference between rule and servitude!</p></sp>
+<sp><speaker start-line="960" end-line="960">CHORUS OF NYMPHS</speaker><p>'Tis what you wish that you vociferate so loudly<lb n="960"/> against Zeus.</p></sp>
+<sp><speaker start-line="961" end-line="961">PROMETHEUS</speaker><p>What shall be done, and also what I wish.</p></sp>
+<sp><speaker start-line="962" end-line="962">CHORUS OF NYMPHS</speaker><p>And may one really look for Zeus to find a master?</p></sp>
+<sp><speaker start-line="963" end-line="963">PROMETHEUS</speaker><p>Ay, and he shall have a yoke upon his neck still heavier than this!</p></sp>
+<sp><speaker start-line="964" end-line="964">CHORUS OF NYMPHS</speaker><p>How is it thou art not afraid to fling such words?</p></sp>
+<sp><speaker start-line="965" end-line="965">PROMETHEUS</speaker><p>What should I fear, when death is not my destiny?</p></sp>
+
+
+
+<sp><speaker start-line="966" end-line="966">CHORUS OF NYMPHS</speaker><p>But he might give thee a task still more painful.</p></sp>
+<sp><speaker start-line="967" end-line="967">PROMETHEUS</speaker><p>Then let him do it! I am prepared for everything.</p></sp>
+<sp><speaker start-line="968" end-line="968">CHORUS OF NYMPHS</speaker><p>They are wise that do obeisance to Adrasteia.</p></sp>
+<sp><speaker start-line="969" end-line="975">PROMETHEUS</speaker><p>Worship, adore, still court the one in power! For Zeus I do not care so much as-nothing! Let him do his<lb n="970"/> will and hold his power for this little space, for he shall not be long the King of Heaven! But stay:-yonder there I see his runner, our new imperial lord and master's lackey: he must have come with news to bring. <stage>[Enter HERMES.]</stage></p></sp>
+<sp><speaker start-line="976" end-line="984">HERMES</speaker><p>Thou there, the clever wit, thou bitter one to all extremes, thou that hast sinned against the Gods by giving dignities to mortal creatures, thou, the thief of Fire! The Father commands thee to say what is this marriage that thou talkest of, by which he is to be cast out from his<lb n="980"/> power :—and see too that thou tell it in no riddling fashion but explain with each particular, and do not give me the trouble of two journeys, Prometheus; thou seest that Zeus is not softened by such manners.</p></sp>
+<pb n="34"/>
+<sp><speaker start-line="985" end-line="995">PROMETHEUS</speaker><p>Haughty indeed and full of lofty spirit for an underling of the Gods! Your power is young, and you suppose the towers you dwell in to be scatheless: Have I not seen from those same towers a brace of sovereigns cast out? And I shall see a third, this present<lb n="990"/> King, with shamefullest fall and quickest. Dost thou imagine that I quail and cower before these new Gods? I am far-the whole way—from it! Get thee back again, trudge the road thou camest by, for thou shalt be told nothing that thou inquirest of.</p></sp>
+<sp><speaker start-line="996" end-line="997">HERMES</speaker><p>Well, it was by just such headstrong wilfulness before that thou didst land thyself<ref n="34.1">1</ref> in this disaster.</p></sp>
+<sp><speaker start-line="998" end-line="999">PROMETHEUS</speaker><p>Be very sure, I would not exchange my misfortunes for thy servitude.</p></sp>
+<sp><speaker start-line="1000" end-line="1001">HERMES</speaker><p>Better, I suppose, to be in service to this rock<lb n="1000"/> than to be the trusted messenger of Father Zeus.</p></sp>
+<sp><speaker start-line="1002" end-line="1002">PROMETHEUS</speaker><p>That is the right way for insolence to be insulting.<ref n="34.2">2</ref></p></sp>
+<sp><speaker start-line="1003" end-line="1003">HERMES</speaker><p>It seems that thou exultest in thy sufferings.</p></sp>
+<sp><speaker start-line="1004" end-line="1005">PROMETHEUS</speaker><p>Exult! may I behold my enemies exulting in this way-and thee among them.</p></sp>
+<sp><speaker start-line="1006" end-line="1006">HERMES</speaker><p>Why, dost thou count me to blame for what has happened to thee?</p></sp>
+<sp><speaker start-line="1007" end-line="1008">PROMETHEUS</speaker><p>In one word, I hate all the Gods that have had good done to them and treat me ill unjustly.</p></sp>
+<sp><speaker start-line="1009" end-line="1009">HERMES</speaker><p>Thou art brain-sick, mine ears tell me, in no slight degree.</p></sp>
+<sp><speaker start-line="1010" end-line="1010">PROMETHEUS</speaker><p>I am content to be so, if it be brain-sickness to<lb n="1010"/> hate one's enemies!</p></sp>
+<sp><speaker start-line="1011" end-line="1011">HERMES</speaker><p>Thou wouldst be quite insufferable in prosperity.</p>
+<note type="footnote" n="34.1">1 <bibl>v. 997</bibl> <foreign xml:lang="grc">κατούρισας</foreign> <bibl><editor>Hermann</editor></bibl>. The variants are the result of a gloss <foreign xml:lang="grc">καθώρμισας</foreign> or <foreign xml:lang="grc">καθώρμησας</foreign>, for <foreign xml:lang="grc">ὁρμίσαι</foreign> (<foreign xml:lang="grc">ὁρμῆσαι</foreign>) was the regular word by which <foreign xml:lang="grc">οὐρίσαι</foreign> and its compounds were explained.</note>
+<note type="footnote" n="34.2">2 Others take it to mean That is how one ought to insult the insolent,'-the proper way for me to behave toward such as you.</note></sp>
+<pb n="35"/>
+<sp><speaker start-line="1012" end-line="1012">PROMETHEUS</speaker><p>Alas!</p></sp>
+<sp><speaker start-line="1012a" end-line="1012a">HERMES</speaker><p>That is an expression Zeus is not acquainted with.</p></sp>
+<sp><speaker start-line="1013" end-line="1013">PROMETHEUS</speaker><p>But in his ageing course Time teaches everything.</p></sp>
+<sp><speaker start-line="1014" end-line="1014">HERMES</speaker><p>Yet thou hast not yet learnt wise-mindedness.</p></sp>
+<sp><speaker start-line="1015" end-line="1015">PROMETHEUS</speaker><p>No, else I would not have spoken to an underling like thee.</p></sp>
+<sp><speaker start-line="1016" end-line="1016">HERMES</speaker><p>It seems that thou wilt not say anything that the Father wishes.</p></sp>
+<sp><speaker start-line="1017" end-line="1017">PROMETHEUS</speaker><p>Well, if I were indebted to him I would repay.</p></sp>
+<sp><speaker start-line="1018" end-line="1018">HERMES</speaker><p>Thou mockest me as if I were a mere child.</p></sp>
+<sp><speaker start-line="1019" end-line="1028">PROMETHEUS</speaker><p>Why art thou not a child and still more foolish, if thou expectest to learn anything from me? There is no<lb n="1020"/> torture or contrivance by which Zeus shall impel my lips to utter it, until my galling bondage be undone. So let the sooty flame be hurled upon me, and with white feathery snow and earthquake-thunderings let him make ruin and confusion of the world! For nought of this shall bend my will to tell by whose hand he is to be dispossessed.</p></sp>
+<sp><speaker start-line="1029" end-line="1029">HERMES</speaker><p>Consider now whether this seem profitable to thee.</p></sp>
+<sp><speaker start-line="1030" end-line="1030">PROMETHEUS</speaker><p>It has been considered and determined long ago.</p></sp><lb n="1030"/>
+<sp><speaker start-line="1031" end-line="1032">HERMES</speaker><p>Find heart, thou foolish one, find heart at length in face of these calamities to be right-minded.</p></sp>
+<sp><speaker start-line="1033" end-line="1038">PROMETHEUS</speaker><p>Thou art but vexing me in vain, like a wave,<ref n="35.1">1</ref> with thine exhorting; let it never enter thy head that I will be afraid before the will of Zeus, and grow effeminate and humbly supplicate my greatest detestation with womanish outspreadings of my palms to release me from this bondage! I am as far as can be from it.</p></sp>
+<sp><speaker start-line="1039" end-line="1067">HERMES</speaker><p>It seems that all my words will but be said in
+<note type="footnote" n="35.1">1 <bibl>v. 1033</bibl> <quote><foreign xml:lang="grc">ὀχλεῖς μάτην με κῦμ᾽ ὅπως παρηγορῶν</foreign></quote>, 'I am firm as a rock.' <cit><bibl><author>Anacreon</author> frag. 90</bibl> <quote><foreign xml:lang="grc">μηδ' ὥστε κύμα πόντιον λάλαζε</foreign></quote></cit>, <bibl>Proverb</bibl> <quote><foreign xml:lang="grc">αἰγιαλῷ λαλεῖς</foreign></quote>. They came also to say 'deaf as a wave,' probably through <foreign xml:lang="grc">κῦμα</foreign> in the proverbial phrase being taken as a nominative.</note>
+<pb n="36"/>
+vain,<ref n="36.1">1</ref> for thou art not melted or softened by my entreaties,<lb n="1040"/> but dost take the bit in thy teeth, like a colt new to harness, and plunge violently and fight against the reins. Yet it is but a weak conceit that thou dost ground thy force upon, for mere self-will in one that is not well advised is by itself as weak as anything.</p>
+
+<p>Consider now, if thou refuse consent to my persuasion, what a storm and huge wave of calamity will come upon thee-first, this rocky gorge my Father with his thunder and the lightning-flame will rend to pieces, and thy body<lb n="1050"/> will conceal, and the embrace of rock shall fondle thee. And when thou hast completed a long space of time, thou shalt return back to the light again, and then, look you, there shall come the winged hound of Zeus, the blood-red eagle, and shall ravenously disjoint thy body into one great rag, a banqueter coming uninvited every day,<ref n="36.2">2</ref> and shall make his feast upon the dark meat of thy liver.</p>
+<p>This shall be thy punishment, whereof thou must expect no term, until some God arise to take thy pains upon him, and consent to pass into the unillumined house of Death,<lb n="1060"/> and the black nether pit of Tartarus.</p>
+<p>Therefore take counsel, because this declaration is not fabricated but most absolute verity;<ref n="36.3">3</ref> for the lips of God
+<note type="footnote" n="36.1">1 <bibl>v. 1039</bibl> <foreign xml:lang="grc">πολλὰ καὶ μάτην</foreign> go together, as in <bibl><title>Eum.</title> 144</bibl>, <cit><bibl><author>Dio Cass.</author> xlvi. 26</bibl> <quote><foreign xml:lang="grc">πολλὰ γοῦν καὶ μάτην ὑλακτεῖς</foreign></quote></cit>, <bibl><author>Soph.</author> <title>Ant.</title> 1252</bibl>, <bibl><title>O.C.</title> 1565</bibl> <quote><foreign xml:lang="grc">πολλῶν γὰρ ἂν καὶ μάτην πημάτων</foreign></quote>.</note>
+<note type="footnote" n="36.2">2 <foreign xml:lang="grc">πανήμερος</foreign>, or 'for the whole day.'.</note>
+<note type="footnote" n="36.3">3 v. 1062 reading with Hartung:
+<l><foreign xml:lang="grc">ὡς ὅδ᾽ οὐ πεπλασμένος</foreign></l>
+<l><foreign xml:lang="grc">ὁ κόμπος, ἀλλὰ καὶ λίαν ἐτήτυμος.</foreign></l>
+The MSS. give <foreign xml:lang="grc">ἀλλὰ καὶ λίαν εἰρημένος</foreign>, which is impossible; to make sense we should require <foreign xml:lang="grc">ἀλλὰ καὶ λίαν ἀληθῶς εἰρημένος</foreign>, e.g. Dinarchus i. 75 <foreign xml:lang="grc">οὐ γὰρ ψευδός ἐστιν, ἀλλὰ καὶ λίαν ἀληθές</foreign>, Antiphon 123. 15 <foreign xml:lang="grc">οὐ γὰρ ἀφανής, ἀλλὰ καὶ λίαν φανερός</foreign>, Lucian iii. 586, Themistius 170, Eustath. 459. The opposite of <foreign xml:lang="grc">πεπλασμένος</foreign> is not 'spoken' but ‘true," Plat. Rep. 485 E, Tim. 26 E, etc.</note>
+<pb n="37"/>
+know not how to speak falsehood, but will bring every syllable to pass. Therefore take thought, and never reckon obstinacy better than wise counsel.</p></sp>
+<sp><speaker start-line="1068" end-line="1071">CHORUS OF NYMPHS</speaker><p>To us what Hermes says seems not amiss; he urges thee to abandon Obstinacy and seek that Counsel<lb n="1070"/> that is wise. O yield it is discreditable for the wise to err.</p></sp>
+<sp><speaker start-line="1072" end-line="1086">PROMETHEUS</speaker><p>I knew the message that this fellow hath so loudly noised upon me, but to suffer ill entreatment from one's enemy is no humiliation. So let be hurled upon me the forked ringlet of his fire and let the sky be set a-quivering with thunder and convulsion of the furious winds; let the blast sway the earth by the roots from her foundations, and the wave of the sea with roughest surge and the<lb n="1080"/> courses of the stars in heaven confound together, and let him hurl my body into the bottomless pit of Tartarus with the circling whirl of stern Necessity: to death, at all events, he never shall put me!</p></sp>
+<sp><speaker start-line="1087" end-line="1095">HERMES</speaker><p>These are the very thoughts and speeches of the brain-struck! How does it come short of stark insanity, this prayer of his? What abatement is there in his mad-<lb n="1090"/> ness?-Ye, however, at any rate, that are condoling in his tribulations, retire somewhere speedily from these regions, lest the harsh bellowing of the thunder strike your senses silly.</p></sp>
+<sp><speaker start-line="1096" end-line="1103">CHORUS OF NYMPHS</speaker><p>Give me some other words and exhortation, that you are likely to persuade me with! for you do not surely imagine that this sweeping speech of yours is tolerable!<ref n="37.1">1</ref>
+<note type="footnote" n="37.1">1 V. 1097:
+<l><foreign xml:lang="grc">οὐ γὰρ δήπου</foreign></l>
+<l><foreign xml:lang="grc">τοῦτό γε τλητὸν παρέσυρας ἔπος</foreign></l>
+<foreign xml:lang="grc">παρεσεῖρας</foreign> (<foreign xml:lang="grc">παρ-εσ-είρας</foreign>) might be thought of; cf. <foreign xml:lang="grc">εἴρω, συνείρω, διείρω, παρείρω, παρενείρω</foreign>, 'get in edgeways,' 'interject,' 'insinuate': but <foreign xml:lang="grc">παρασῦραι</foreign> was especially used of orators who carry their audience away in an overwhelming flood of eloquence (Pollux iv. 21 and vi. 147, Longinus 32. 4 and 33. 5); and I think that Aeschylus, slightly varying the phrase of daily life, is making the Chorus sneer at Hermes as the irresistible Orator.</note>
+<pb n="38"/>
+How can you dream of urging me to practise cowardice? I am content to share with him whatever Fate may have in<lb n="1100"/> store; for I have learnt to abhor traitors, and there is no vice that I have greater loathing for than this!</p></sp>
+<sp><speaker start-line="1104" end-line="1113">HERMES</speaker><p>Well, remember my warning, and when taken by the snaring hand of Ate, do not then blame Fortune; never say that it was Zeus who cast you into trouble unforeseen; nay, blame yourselves, for it is with knowledge<lb n="1110"/> and with no sudden surprise that ye will be entangled in the inextricable Net of Ate by your folly. <stage>[Exit.</stage></p></sp>
+<sp><speaker start-line="1114" end-line="1127">PROMETHEUS</speaker><p>Ah now in deed, in word no more, the earth is rocked and the subterranean sound of thunder is booming at my side,<ref n="38.1">1</ref> the fiery streaks of lightning flashing out, and whirlwinds rolling up the eddying dust; the blasts of all the winds leap wildly and display contention setting contrary<lb n="1120"/> against each other, and the sky is confounded with the sea so dire the rushing onset that proceeds from Zeus against me manifestly, working terror. O thou holy one, my Mother, O thou Sky, revolving the common light of all the world, beholdest thou the injustice I am suffering?<ref n="38.2">2</ref></p>
+<note type="footnote" n="38.1">1 Or <foreign xml:lang="grc">περιμυκᾶται</foreign>, 'booming all around.'</note>
+<note type="footnote" n="38.2">2 <foreign xml:lang="grc">πάσχω</foreign> ends his last speech as it does his first; the sequel showed the working of the new law <quote><foreign xml:lang="grc">πάθει μάθος</foreign></quote>.</note></sp>
+
+
+</body></text></TEI>

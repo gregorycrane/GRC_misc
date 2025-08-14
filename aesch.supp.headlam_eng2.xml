@@ -1,0 +1,775 @@
+<TEI>
+    <text>
+        <body>
+<div type="textpart" subtype="chapter">
+<head>
+<title type="main">THE SUPPLIANTS</title>
+</head>
+<pb n="110"/>
+<div type="DramatisPersonae">
+<head>DRAMATIS PERSONÆ.</head>
+<castList>
+<castItem><role>CHORUS OF DANAIDS</role>.</castItem>
+<castItem><role>DANAUS</role>.</castItem>
+<castItem><role>PELASGUS</role>.</castItem>
+<castItem><role>HERALD</role>.</castItem>
+</castList>
+</div>
+<pb n="111"/>
+<head>THE SUPPLIANTS.</head>
+<sp><speaker start-line="1" end-line="181">CHORUS OF DANAIDS</speaker><p>May Zeus Petitionary look with grace upon our company, that took ship and launched from the fine-sanded mouths of Nile! The land divine,<ref n="111.1">1</ref> whose pastures march with Syria, we have left in exile—no outlawry decreed<ref n="111.2">2</ref> by public vote for bloodshed, but in abhorrence of sinful <lb n="10"/> wedlock of near kindred with the folly-prating<ref n="111.3">3</ref> sons of Aegyptus.</p>
+
+<p>It was Danaus our sire, chief in our counsels and leader of our cause, that determined on this move as the honourablest choice of evils, to fly pell-mell across the ocean-billow and put in at the shore of Argos: for thence it is hath grown this race of ours that claims its origin from the sting-tormented Cow by laying on of the hands of Zeus and by the breathing of his spirit.</p>
+<p>What friendlier land then could we come unto with these <lb n="20"/>
+    
+<note type="footnote" n="111.1">1 Or 'of Zeus.'</note>
+
+<note type="footnote" n="111.2">2 <foreign xml:lang="grc">δημηλασίαν</foreign> (Turnebus) . . . <foreign xml:lang="grc">γνωσθεῖσαν</foreign> (M. Schmidt).</note>
+
+<note type="footnote" n="111.3">3 <foreign xml:lang="grc">ἀλλ᾽ αὐτογενῆ τῶν φλυζαγορᾶν γάμον Αἰγύπτου παίδων ἀσεβῆ τ' ὀνοταζόμεναι</foreign> is my correction of the MS. <foreign xml:lang="grc">ἀλλ’ αὐτογένητον φυλαξάνομαν</foreign> with <foreign xml:lang="grc">υλαξ</foreign> written in erasure and an accent erased above the final a. It is called <foreign xml:lang="grc">γάμον Αἰγυπτογενῆ</foreign> 1064, <foreign xml:lang="grc">συγγενῆ γάμον</foreign> P. V. 881.</note>
+<pb n="112"/>
+wool-wreathed branches, the suppliant's weapons, in our hands?</p>
+<p>O realm, O land and water white, ye gods on high and powers of heavy vengeance filling tombs within the earth,<ref n="112.1">1</ref> and Zeus the Saviour over all, protector of the house of godly men, let compassion be wafted from the land to accept the petition<ref n="112.2">2</ref> of this company of womenkind; but that lewd swarm of males born of Aegyptus, ere they set <lb n="30"/> foot upon this silted shore, drive with their swift vessel out into the deep, and there let them encounter angry sea, and by buffeting storm, thunder and lightning, and winds rain-laden perish, ere ever they make this cousinhood their own, and mount unwilling beds that holiness denies them!</p>
+<p>Now call I to our succour from over seas that Zeus-<lb n="40"/>begotten Calf—offspring of the flower-Browse Cow by the spirit of Zeus (to that handling the appointed period gave due confirmation in his name,<ref n="112.3">3</ref> and he that she brought forth was Epaphus): him call I to our aid, and now in the region of our ancient Mother's pasturage by <lb n="50"/> recounting those former sufferings I shall display to the inhabitants<ref n="112.4">4</ref> trustworthy warrant<ref n="112.5">5</ref> for the nonce, and others, though unlooked for, shall appear: and the truth (of our story) will be seen in the course of speech.<ref n="112.6">6</ref></p>
+
+<note type="footnote" n="112.1">1 The Heroes.</note>
+
+<note type="footnote" n="112.2">2 <foreign xml:lang="grc">αἰδεῖσθαι ἱκέτην</foreign> is the regular phrase.</note>
+
+<note type="footnote" n="112.3">3 <foreign xml:lang="grc">ἶνιν ἀνθονομούσας προγόνου βοὸς ἐξ ἐπιπνοίας Ζηνός· ἔφαψιν ἐπωνυμίᾳ δ᾽ ἐπεκραίνετο μόρσιμος αἰών</foreign>, This punctuation appears to me necessary; cf. v. 17. <foreign xml:lang="grc">μόρσιμος αἰών</foreign> is the period of gestation: <foreign xml:lang="grc">ἔτεκεν δ᾽ ἁνίκα Μοῖραι τέλεσαν</foreign> Eur. <title>Bacch.</title> 99, <foreign xml:lang="grc">κυρίῳ ἐν μηνί</foreign> Pind. <title>O.</title> vi. 32; Opp. <title>Cyn.</title> iii. 156.</note>
+
+<note type="footnote" n="112.4">4 <foreign xml:lang="grc">πιστὰ τεκμήρια γαιονόμοις, τὰ δ᾽ ἄελπτά περ ὄντα φανεῖται</foreign> is an emendation by Hermann completed by Paley.</note>
+
+<note type="footnote" n="112.5">5 This is the meaning; not 'sure proofs,' but (as in v. 277, <title>Ag.</title> 364, Soph. <title>El.</title> 774) evidence credible enough (<title>Ag.</title> 1212) to form a prima facie probability.</note>
+
+<note type="footnote" n="112.6">6 The language indeed is almost legal: <foreign xml:lang="grc">γνώσεσθε προϊόντος τοῦ λόγου</foreign> say the orators (e.g. <bibl>Antiphon. v. 10</bibl>; <bibl>Isocr. xvii. 26</bibl>), = <foreign xml:lang="grc">ἐν μήκει λόγου</foreign>, as <foreign xml:lang="grc">προϊόντος τοῦ χρόνου</foreign> = <foreign xml:lang="grc">ἐν μήκει χρόνου</foreign>.</note>
+<pb n="113"/>
+<p>Now should there chance to be any native augur<ref n="113.1">1</ref> nigh, he will fancy, when my complaining meets his ear, that he <lb n="60"/> hears the voice of Tereus' wife of lamentable counsel<ref n="113.2">2</ref>— the hawk-chased nightingale, who being shut out from haunts (?) and rivers<ref n="113.3">3</ref> utters a mournful plaint<ref n="113.4">4</ref> for her wonted habitations, and weaves withal the story of her own child's death, how he met with an unnatural mother's wrath and perished by murder at her hand.</p>
+
+<note type="footnote" n="113.1">1 Tucker reads <foreign xml:lang="grc">οἰωνοπολῶν</foreign> 'auguring.'</note>
+
+<note type="footnote" n="113.2">2 This I take to be the construction, if <foreign xml:lang="grc">μήτιδος</foreign> is genuine; and I think it is genuine, considering the phrase of <cit><bibl>Hom. <title>Od.</title> 19.522</bibl> <quote xml:lang="grc">παῖδ' ὀλοφυρομένη Ἴτυλον φίλον ὅν ποτε χαλκῷ κτεῖνε δι' ἀφραδίας</quote></cit>.</note>
+
+<note type="footnote" n="113.3">3 <foreign xml:lang="grc">ἅτ᾽ ἀπὸ χώρων ποταμῶν τ᾽ ἐργομένα</foreign>: Tucker reads <foreign xml:lang="grc">ἅθ᾽ ὑπὸ χλωρῶν πετάλων τεγγομένα</foreign> 'weeping beneath the green leaves,' taking <foreign xml:lang="grc">χλωρῶν πετάλων</foreign> from Hermann.</note>
+
+<note type="footnote" n="113.4">4 <foreign xml:lang="grc">πενθεῖ μὲν</foreign> (Haecker for <foreign xml:lang="grc">νέον</foreign>) <foreign xml:lang="grc">οἶκτον ἠθέων</foreign> = 59 <foreign xml:lang="grc">ἔγγαιος οἶκτον ἀΐων</foreign>.</note>
+<p>Even so do I, lamenting in Ionian strains,<ref n="113.5">5</ref> tear tender <lb n="70"/> sunburnt<ref n="113.6">6</ref> cheek and heart unused to tears, and cull the bitterest of sighs, in fear concerning friends<ref n="113.7">7</ref>—whether there is any to champion this flight from the Hazy Land.<ref n="113.8">8</ref></p>
+
+<note type="footnote" n="113.5">5 Like the mourning songs of the 'Keeners' of Asia Minor. Observe that the metre in which they say this is that of the Ionian elegiac, broken off just before the couplet is completed. Similarly in the dirge of <cit><bibl>Eur. <title>Alcest.</title> 477</bibl>, <quote xml:lang="grc">κούφα σοι χθὼν ἐπάνωθε πέσοι, γύναι. εἰ δέ τι</quote></cit> . . . the words indicated are a suggestion of the familiar elegiac epitaph.</note>
+
+<note type="footnote" n="113.6">6 <foreign xml:lang="grc">εἱλοθερῆ</foreign> Bothe.</note>
+
+<note type="footnote" n="113.7">7 Weil conjectures <foreign xml:lang="grc">ἀφίλου τᾶσδε φυγάς</foreign>, and <foreign xml:lang="grc">ἀφόνου</foreign> might be suggested (cf. vv. 6 and 202).</note>
+
+<note type="footnote" n="113.8">8 <foreign xml:lang="grc">ἀήρ</foreign> is 'atmosphere.'</note>
+<p>O gods of our race, regard the right and give good ear! <lb n="80"/> So shall ye be righteous toward wedlock, if ye grant not unto youthful lust to find unholy consummation, but look on outrage with a hearty hate. Even for such as flee hard-pressed from war there is an altar to protect the fugitive from the sword, sacred in the sight of heaven.</p>
+<p>The (will) of Zeus O might one well and truly<ref n="113.9">9</ref>
+
+<note type="footnote" n="113.9">9 <foreign xml:lang="grc">εἴθ᾽ εἴη Διὸς εὖ παναληθῶς</foreign> 'O might one know the will of God
+    </note>
+<pb n="114"/>
+The desire of Zeus is ill to seize: everywhere, even in <lb n="90"/> the darkness, the flame of it burns but in obscure sort<ref n="114.1">1</ref> before the eyes of human folks—</p>
+<p>But safe, and not upon its back,<ref n="114.2">2</ref> a matter falls if the fulfilment of it be ordained by the nod of Zeus.</p>
+<p>—for dark and tangled stretch the paths of his intent, <lb n="100"/> past understanding to discern.</p>
+<p>Down from their towering imaginations he hurleth mortals to perdition, yet equips no force:—even from his holy throne, whereas he sitteth, his unlaboured Harmony<ref n="114.3">3</ref>
+
+<note type="footnote" n="113.9">with certainty,' I take it she was going to say, but is abruptly checked by another member of the Chorus, who recognises a proverbial aspiration, and replies to it. Aeschylus frequently breaks up his Chorus into separate voices, excitedly interrupting one another or expressing different views; but the MSS. hardly ever afford any indication of such dialogue, a neglect which has caused perhaps more trouble than any other. At the end of this play (1054 sqq.) there is an animated altercation between the two parties that I conjecture in this passage.</note>
+
+<note type="footnote" n="114.1">1 Even when it should show plain against the background of the night. <foreign xml:lang="grc">τύχη, μοίρα</foreign>, and even <foreign xml:lang="grc">κήρ</foreign> are used poetically of the 'character' or 'portion' with which anything is endowed.</note>
+
+<note type="footnote" n="114.2">2 A racy metaphor such as those from bowls, archery, tennis in our Elizabethans. Only a fall upon the back counted as a fair throw; if upon the shoulder, for example, it was a <foreign xml:lang="grc">ψευδόπτωμα</foreign>: <bibl>Ar. <title>Eq.</title> 571</bibl>, <bibl><title>A. P.</title> ix. 588. 5</bibl>. <cit><bibl>Lucian <title>Anacharsis</title> 24</bibl> <quote xml:lang="grc">καταπίπτειν τε ἀσφαλῶς μανθάνουσι καὶ ἀνίστασθαι εὐμαρῶς</quote></cit>.</note>
+
+<note type="footnote" n="114.3">3 <foreign xml:lang="grc">τὰν ἄπονον δ᾽ ἁρμονίαν ἥμενος ἀμ φρόνημά πως</foreign> for <foreign xml:lang="grc">τὰν ἄποινον δαιμονίων ἥμενον ἂν φρόνημά πως</foreign>. Here <foreign xml:lang="grc">ἄπονον</foreign> is due to Wellauer, <foreign xml:lang="grc">ἥμενος</foreign> to Paley; the rest I have restored. Aeschylus uses the metaphor again in <cit><bibl><title>P. V.</title> 569</bibl>, <quote xml:lang="grc">οὔποτε τὰν Διὸς ἁρμονίαν θνατῶν παρεξίασι βουλαί</quote></cit>, which it is strange no critic should have remarked to be one of his numerous Pythagoreanisms. The whole ordered universe (<foreign xml:lang="grc">κόσμος</foreign>, mundus) was conceived by Pythagoras, using musical symbolism, as a harmony: see e.g. <bibl>Zeller <title>Greek Philosophy</title> I. 465, 507</bibl>. And with God this complicated Scheme works, in Mr Kipling's phrase, <cit><quote>'wheel within wheel to the ordered, effortless end'</quote> (<bibl><title>A Fleet in Being</title>, p. 60</bibl>)</cit>. For it costs him no effort to effect his purpose; as <cit>Xenophanes (B.C. 538) said of his one God, <quote xml:lang="grc">ἀπάνευθε πόνοιο νόου φρενὶ πάντα κραδαίνει</quote></cit>. <cit><bibl>Aesch. fr. 99. 2</bibl>: <quote xml:lang="grc">τοῖόν γε μὴν Ζεὺς κλέμμα πρεσβύτου πατρὸς αὐτοῦ μένων</quote></cit>
+    </note>
+<pb n="115"/>
+by some means doth he accomplish after his design.<ref n="115.1">1</ref></p>
+
+<note type="footnote" n="114.3"><foreign xml:lang="grc">ἄμοχθον ἤνυσεν λαβεῖν</foreign>. <bibl><title>Eum.</title> 653</bibl>, <bibl>Pind. <title>O.</title> xiii. 83</bibl>, <bibl>Lucret. v. 1181</bibl>. That is the meaning of <foreign xml:lang="grc">ἥμενος κτέ.</foreign>: <cit><bibl>Hom. <title>Od.</title> 21.420</bibl> <quote xml:lang="grc">αὐτόθεν ἐκ δίφροιο, καθήμενος</quote></cit>, <bibl><title>Il.</title> 19.76</bibl>, <bibl><title>Od.</title> 20.56</bibl>, <cit><bibl>Apoll. Rhod. i. 343</bibl> <quote xml:lang="grc">αὐτόθεν ἔνθα περ ἧστο</quote></cit>, <cit><bibl>Ar. <title>Pax</title> 266</bibl> <quote xml:lang="grc">ταράξει τὰς πόλεις καθήμενος</quote></cit>, <bibl><title>Ach.</title> 838</bibl>; <cit><bibl>Xen. <title>Rep. Ath.</title> i. 16</bibl> <quote xml:lang="grc">οἴκοι καθήμενοι ἄνευ νεῶν ἔκπλου διοικοῦσι τὰς πόλεις τὰς συμμαχίδας</quote></cit>.</note>
+
+<note type="footnote" n="115.1">1 <foreign xml:lang="grc">ἀμ φρόνημα = κατὰ τὴν βούλησιν</foreign>: Hesych. <foreign xml:lang="grc">Φρόνημα: βούλημα, θέλημα</foreign>. <bibl>Hdt. iii. 122</bibl>: <foreign xml:lang="grc">πυνθάνομαί σε ἐπιβουλεύειν πρήγμασι μεγάλοισι καὶ χρήματά τοι οὐκ εἶναι κατὰ τὰ φρονήματα</foreign> ‘according to your ambitions' or 'projects.' <cit><bibl>Pind. <title>P.</title> ii. 49</bibl> <quote xml:lang="grc">θεὸς ἅπαν ἐπὶ ἐλπίδεσσι τέκμαρ ἀνύεται, θεὸς ὁ καὶ πτερόεντ᾽ αἰετὸν κίχε . . . καὶ ὑψιφρόνων τιν' ἔκαμψε βροτῶν</quote></cit>.</note>
+<p>So let him look now unto outrage upon earth, to behold <lb n="110"/> how the old stem grows young again,<ref n="115.2">2</ref> in desire of union with us a-burgeon with froward thoughts, its own frenzied purpose a resistless goad, a delusion bringing disaster to be rued.<ref n="115.3">3</ref></p>
+
+<note type="footnote" n="115.2">2 <foreign xml:lang="grc">οἳ ἀννεάζει</foreign> Tucker.</note>
+
+<note type="footnote" n="115.3">3 <foreign xml:lang="grc">ἄτας ἀπάταν μεταλγοῦς</foreign> Tucker, 'a mischief and a mock, with sorrow in its train': the genitive as in <bibl><title>Ag.</title> 373, 765</bibl>. (The accent on the MS. <foreign xml:lang="grc">μεταγνοῦς</foreign> was at first a circumflex.)</note>
+<p>Such miserable sufferings while I wail, now shrill, now low, blended with falling tears, alas! alas! resembling<ref n="115.4">4</ref> <lb n="120"/> funeral dirges, though yet alive I celebrate my own lament.</p>
+
+<note type="footnote" n="115.4">4 <foreign xml:lang="grc">ἐμφερῆ</foreign> Tucker.</note>
+<p>I implore the grace of hilly Apia (the outlandish utterance<ref n="115.5">5</ref> well, O land, thou kennest), and oft I fall on my Sidonian veil with linen-marring<ref n="115.6">6</ref> rent.</p>
+
+<note type="footnote" n="115.5">5 'Speech,' or 'expression' (cf. <foreign xml:lang="grc">πατρὸς αὐδάν</foreign> <title>Cho.</title> 827), meaning the epithet <foreign xml:lang="grc">βοῦνιν</foreign>, which is repeated in v. 784. It may be inferred that <foreign xml:lang="grc">βουνός</foreign> was a local word in Argos. It was used about Cyrene (<bibl>Hdt. iv. 199</bibl>), and in Syracusan poetry (<bibl>Phrynichus p. 355 Lobeck</bibl>), and there was a sanctuary of <foreign xml:lang="grc">Ἥρα Βουναία</foreign> at Corinth (<bibl>Pausan. ii. 4. 7</bibl>); all these are Dorian peoples. Whatever its origin, it was regarded as an alien or foreign word by <bibl>Philemon (Kock <title>CAF</title> ii. 491, 521)</bibl>, and the grammarians; though it is frequent in the Alexandrian version of the LXX, and came later into general use: <bibl>Dindorf in Steph. <title>Thesaur.</title></bibl></note>
+
+<note type="footnote" n="115.6">6 <foreign xml:lang="grc">λινοσινεί</foreign> here and v. 138 Tucker and Buecheler.</note>
+<pb n="116"/>
+<p>When all proves well, then payment of due offerings follows free<ref n="116.1">1</ref> unto the gods—where death be absent.<ref n="116.2">2</ref> O <lb n="130"/> trouble of undeterminable end! Whither will this wave carry me?</p>
+<p>I implore the grace of hilly Apia (the outlandish utterance well, O land, thou kennest), and oft I fall on my Sidonian veil with linen-marring rent.</p>
+<p>The oar and our timber's linen-woven sea-tight build<ref n="116.3">3</ref> <lb n="140"/> still sped me by the wind's aid without storm; and I complain not: so likewise may the all-seeing Father bring the end at length to pass in graciousness,</p>
+<p>That the great seed of an august Mother may escape unwedded, unsubdued, ah me! the beds of men.</p>
+<p>And may his Daughter, the pure Virgin, that owns the <lb n="150"/> stately portal-walls,<ref n="116.4">4</ref> be fain as I am fain to look upon me for my preservation;<ref n="116.5">5</ref> and, wroth at this pursuit, come with all her might, maiden to a maiden's rescue,</p>
+<p>That the great seed of an august Mother may escape unwedded, unsubdued, ah me! the beds of men.</p>
+<p>Else with our boughs will we, a dark sun-smitten race, <lb n="160"/> approach that nether Zeus, that most hospitable Zeus of
+
+<note type="footnote" n="116.1">1 <bibl>Lucian iii. 498</bibl> <foreign xml:lang="grc">τὸ δὲ σὸν κατὰ χειρὸς ἐπίδρομον</foreign> . . .</note>
+
+<note type="footnote" n="116.2">2 The argument is the common one, 'Who shall praise the most High in the grave, instead of them which live and give thanks? Thanksgiving perisheth from the dead, as from one that is not,' <bibl><title>Ecclesiasticus</title> xvii. 28</bibl>.</note>
+
+<note type="footnote" n="116.3">3 'Structure,' 'fabric'; a lyric use.</note>
+
+<note type="footnote" n="116.4">4 For the meaning of <foreign xml:lang="grc">ἐνώπια</foreign> see <bibl>Ebeling <title>Lex. Hom.</title></bibl>, and <bibl>Leaf on <title>Il.</title> 21.435</bibl>. This is a reference to some actual shrine of Artemis. It was customary to invoke divinities by flattering epithets and mention of the seats where they were worshipped (<bibl>Walz <title>Rhet.</title> ix. p. 135</bibl>; a typical example is the opening of <bibl>Pind. <title>O.</title> xiv</bibl>.); and <foreign xml:lang="grc">ἔχων</foreign> was a common formula in describing such possessions; e.g. <bibl>Ar. <title>Nub.</title> 595 sqq.</bibl>, <bibl><title>A. P.</title> 251, 273</bibl>, and often in the Orphic hymns.</note>
+
+<note type="footnote" n="116.5">5 I have translated <foreign xml:lang="grc">ἀσφαλέα</foreign> instead of <foreign xml:lang="grc">ἀσφαλές</foreign> (cf. v. 363), and in what follows have adopted the conjectures <foreign xml:lang="grc">πάντι δὲ σθένει διωγμοῖς ἀσχαλῶσ'</foreign> . . .</note>
+<pb n="117"/>
+the departed; for if we fail to win the Olympian gods, we will perish by the halter!</p>
+<p>Ah Zeus, 'tis through ire against Io<ref n="117.1">1</ref> that vengeance pursueth (us) from above! I ken thy Consort's heaven-subduing spite! for 'tis from a rough gale a stormy sea <lb n="170"/> arises.</p>
+<p>And shall not Zeus be convicted<ref n="117.2">2</ref> then by just arguments of neglecting the Cow's offspring that himself begat<ref n="117.3">3</ref> of old, if now he hold his face averted at our prayers? Nay, but let him give good ear from on high when now we call upon <lb n="180"/> him!</p>
+<p>Ah Zeus, 'tis through ire against Io that vengeance pursueth from above! I ken thy Consort's heaven-subduing spite! for 'tis from a rough gale a stormy sea arises.</p></sp>
+<sp><speaker start-line="182" end-line="209">DANAUS</speaker><p>Children, ye must be prudent. Prudent sea-captain was your old trusty father here ye came with; and so now for our land-faring have I taken thought, and charge you register my words, inscribing them on the tables of your mind. I descry dust, which is the voiceless harbinger of a host<ref n="117.4">4</ref>:—the sockets of their axles are not silent:—and I discern a throng equipped with spear and shield, with horses and curved chariots. It may be they are the rulers <lb n="190"/> of the land, informed by messengers, and coming to spy upon us: but be it with peaceable intent or whetted with savage anger that (the host) is pushing onward this advance, it were wiser, my daughters, on all accounts, to go
+
+<note type="footnote" n="117.1">1 <foreign xml:lang="grc">'Ioûs ἰῷ</foreign> Hermann.</note>
+
+<note type="footnote" n="117.2">2 Interrogative punctuation is necessary in any case. I have translated <foreign xml:lang="grc">ἐλέγξεται</foreign> (Markscheffel) instead of <foreign xml:lang="grc">ἐνεύξεται</foreign>. If Porson's <foreign xml:lang="grc">ἐνέξεται</foreign> is right, then I think a further alteration is required of <foreign xml:lang="grc">λόγοις</foreign> to <foreign xml:lang="grc">ψόγοις</foreign>, 'shall not Zeus be liable then to just reproaches, for having neglected . . .'</note>
+
+<note type="footnote" n="117.3">3 <foreign xml:lang="grc">γόνῳ</foreign> (<foreign xml:lang="grc">=φύσει</foreign>) is a legal term, <foreign xml:lang="grc">θέσει, ποιήσει</foreign> 'by adoption.'</note>
+
+<note type="footnote" n="117.4">4 E.g. Xen. <title>Anab.</title> i. 8. 8.</note>
+<pb n="118"/>
+and seat yourselves at yonder high place of the gods of meeting—better than a castle is an altar; an invulnerable shield. Go then with all speed, and in solemn form, holding in your left hands the white-wreathed petitionary boughs wherewith Zeus Merciful is worshipped, reply to the strangers (as beseemeth immigrants) in humble plaintive <lb n="200"/> language of sore need, telling them plainly the story of this unbloody flight. And let your utterance be attended before all by absence of boldness, and let that which is not wanton proceed from a quiet eye out of faces with a modest front.<ref n="118.1">1</ref> And be neither forward nor lagging in your speech—the race here is exceeding jealous.<ref n="118.2">2</ref> And mind thee to be submissive—thou art a needy foreign fugitive—for it beseemeth not the weaker to be blusterous.</p></sp>
+
+<sp><speaker start-line="210" end-line="212">CHORUS OF DANAIDS</speaker><p>Father, thou speakest prudently to prudent ears; <lb n="210"/> and I will observe these good charges of thine to be mindful<ref n="118.3">3</ref>:—may Zeus our ancestor regard!</p></sp>
+<sp><speaker start-line="216" end-line="216">DANAUS</speaker><p><ref n="118.4">4</ref>Yea, may he regard with favourable eye!</p></sp>
+<sp><speaker start-line="214" end-line="214">CHORUS OF DANAIDS</speaker><p>I would fain be seated nigh thee even now.</p></sp>
+<sp><speaker start-line="213" end-line="213">DANAUS</speaker><p>Tarry not, then, but secure means (i.e. of carrying out your purpose).</p></sp>
+<sp><speaker start-line="215" end-line="215">CHORUS OF DANAIDS</speaker><p>O Zeus, have pity upon our labours ere we be undone!</p></sp>
+
+
+<note type="footnote" n="118.1">1 <foreign xml:lang="grc">ἐκ μετωποσωφρόνων ἴτω προσώπων</foreign> Porson; a thoroughly Aeschylean <foreign xml:lang="grc">ῥῆμα γομποφαγές</foreign>. <title>A. P.</title> ii. 333 <foreign xml:lang="grc">ἐπ' ἀπλοκάμῳ δὲ μετώπῳ ἧστο σαοφροσύνη</foreign>. Tucker conjectures <foreign xml:lang="grc">κατωποσωφρόνων</foreign> 'downcast in modesty'; but his objection to Porson's word, that the form of the compound should be <foreign xml:lang="grc">σωφρονομετώπων</foreign>, is by no means fatal: cf. <foreign xml:lang="grc">πτερυγωκής</foreign> <title>P. V.</title> 302, <foreign xml:lang="grc">ποδώκης, ποδήνεμος, πόδαβρος, τρίχουλος, πύγαργος, χειρίσοφος, χειρόχωλος</foreign>.</note>
+
+<note type="footnote" n="118.2">2 Impatient, intolerant, prone to take offence.</note>
+
+
+<note type="footnote" n="118.3">3 If the text is sound, <foreign xml:lang="grc">μεμνῆσθαι</foreign> must be taken, I think, as depending on <foreign xml:lang="grc">τάσδε ἐφετμάς</foreign>: cf. <cit><bibl>Lucian <title>Tragoedopodagra</title> v. 271</bibl> <quote xml:lang="grc">μύστης με σιγᾶν ὅρκος οὐκ ἐᾷ φράσαι</quote></cit>, 'the oath to be silent.'</note>
+
+<note type="footnote" n="118.4">4 In the arrangement of these lines I have followed Hermann. The distribution of them between the speakers must remain uncertain.</note>
+<pb n="119"/>
+<sp><speaker start-line="217" end-line="218">DANAUS</speaker><p>If he be willing, it will end well. Call now also upon yonder son<ref n="119.1">1</ref> of Zeus.</p></sp>
+<sp><speaker start-line="219" end-line="219">CHORUS OF DANAIDS</speaker><p>We call, upon the saving rays of the Sun.</p></sp>
+<sp><speaker start-line="220" end-line="220">DANAUS</speaker><p>And pure Apollo, the god that was banished out of heaven.</p></sp>
+<lb n="220"/>
+<sp><speaker start-line="221" end-line="221">CHORUS OF DANAIDS</speaker><p>Acquainted with this portion, he may feel compassion for those on earth.</p></sp>
+<sp><speaker start-line="222" end-line="222">DANAUS</speaker><p>So may he feel, and graciously stand by us!</p></sp>
+<sp><speaker start-line="223" end-line="223">CHORUS OF DANAIDS</speaker><p>Which further of these divinities am I to call upon?</p></sp>
+<sp><speaker start-line="224" end-line="224">DANAUS</speaker><p>I see a trident yonder, symbol of a god.</p></sp>
+<sp><speaker start-line="225" end-line="225">CHORUS OF DANAIDS</speaker><p>Well, he hath given us good speed hither, and may he likewise give us good welcome in the land.</p></sp>
+<sp><speaker start-line="226" end-line="226">DANAUS</speaker><p>Here now is Hermes,<ref n="119.2">2</ref> after the fashion of the Greeks.</p></sp>
+<sp><speaker start-line="227" end-line="227">CHORUS OF DANAIDS</speaker><p>Then let him make proclamation of good tidings to free ears!</p></sp>
+<sp><speaker start-line="228" end-line="239">DANAUS</speaker><p>And make obeisance to the common altar of all these lords, and seat yourselves in sanctuary like a flock of doves in fear of hawks like-plumaged—the kinsmen your <lb n="230"/> enemies who would pollute the race. Shall bird prey on bird and be pure? And how should one be pure that takes from an unwilling father<ref n="119.3">3</ref> an unwilling bride? If he do so, he shall not escape arraignment for outrage<ref n="119.4">4</ref> even in the house of Hades after death. There too ('tis said<ref n="119.5">5</ref>) another
+
+<note type="footnote" n="119.1">1 <foreign xml:lang="grc">Ζηνὸς ἶνιν</foreign> Kiehl (Bamberger), and Tucker, who argues fully against the MS. <foreign xml:lang="grc">ὄρνιν</foreign>.</note>
+
+<note type="footnote" n="119.2">2 Kueck would read <foreign xml:lang="grc">κῆρυξ δ' ἄλλος</foreign>, 'this other is a herald,' supposing <foreign xml:lang="grc">Ἑρμῆς</foreign> to be an explanatory note.</note>
+
+<note type="footnote" n="119.3">3 <bibl>Dem. 528. 15</bibl>, <bibl>Apoll. Rhod. iii. 38</bibl>.</note>
+
+<note type="footnote" n="119.4">4 <foreign xml:lang="grc">φύγῃ ματαίων αἰτίας</foreign> Schuetz for <foreign xml:lang="grc">μάταιον</foreign>: as in Attic <foreign xml:lang="grc">βιαίων δίκην</foreign>, <foreign xml:lang="grc">παρανόμων γραφήν</foreign>.</note>
+
+<note type="footnote" n="119.5">5 The doctrine comes appropriately from an inhabitant of Egypt, for this was the function of Osiris (<bibl>Wilkinson <title>Ancient Egyptians</title> iii. pp. 466-470</bibl>); but the qualification <foreign xml:lang="grc">ὡς λόγος</foreign> is characteristically Greek: Socrates in <bibl>Plat. <title>Phædo</title> 107 D</bibl> prefaces his long account (ending p. 114 C) with <foreign xml:lang="grc">λέγεται δὲ οὕτως</foreign>, and that in the <bibl><title>Axiochus</title> pp. 371-2</bibl> he professes to have received from Gobryes the Mage, and offers it for what it is worth.</note>
+<pb n="120"/>
+Zeus holds among the departed a last judgment upon sins. Consider and answer in such terms, to the end that your cause may be triumphant.</p></sp>
+
+<stage>(Enter the KING, attended by a retinue.)</stage>
+<sp><speaker start-line="240" end-line="251">PELASGUS</speaker><p>To what land may we ascribe<ref n="120.1">1</ref> this company, attired <lb n="240"/> unGreek-wise and flaunting in outlandish vestures and fine woofs? For the women's raiment is not Argive, nor from Greece at all.<ref n="120.2">2</ref> And how ye ventured so undauntedly to come into the country, unannounced by herald, unchampioned by patron, and without guides—it is a marvel. Branches, however, in petitioners' wise have been laid by you<ref n="120.3">3</ref> before the gods of meeting: this alone will the land of Greece agree in guessing<ref n="120.4">4</ref>:—so likewise there are many <lb n="250"/> things might fairly have been conjectured, were there not speech to inform my presence.<ref n="120.5">5</ref></p></sp>
+
+<note type="footnote" n="120.1">1 <foreign xml:lang="grc">προσφωνῶμεν</foreign> Weil.</note>
+
+<note type="footnote" n="120.2">2 <foreign xml:lang="grc">τὸ πᾶν</foreign> Tucker.</note>
+
+<note type="footnote" n="120.3">3 <foreign xml:lang="grc">παρ' ὑμῶν</foreign> Pearson.</note>
+
+<note type="footnote" n="120.4">4 For <foreign xml:lang="grc">συνοίσεται</foreign> Paley quotes Eur. <title>Ion.</title> 705, <title>El.</title> 52; but the phrase is difficult to understand.</note>
+
+<note type="footnote" n="120.5">5 Soph. <title>El.</title> 3, Ar. <title>Av.</title> 548.</note>
+<sp><speaker start-line="252" end-line="254">CHORUS OF DANAIDS</speaker><p>Touching our attire thy language is unerring: but how am I in my turn to address thee? As a commoner, or as a warden with the rod of Hermes,<ref n="120.6">6</ref> or as chief ruler of the city?</p></sp>
+<sp><speaker start-line="255" end-line="279">PELASGUS</speaker><p>For that, you may answer me with confidence<ref n="120.7">7</ref>—for
+
+<note type="footnote" n="120.6">6 Reading <foreign xml:lang="grc">ἢ τηρὸν Ἑρμόρραβδον</foreign>: <foreign xml:lang="grc">ἱερόρραβδον</foreign> Schuetz 'with sacred wand.'</note>
+
+<note type="footnote" n="120.7">7 This is clearly the meaning; but it cannot be expressed by the corrupted MS. <foreign xml:lang="grc">πρὸς ταῦτ' ἀμείβου καὶ λέγετ' εὐθαρσεῖς ἐμοί</foreign>, because <foreign xml:lang="grc">πρὸς ταῦτα</foreign> or <foreign xml:lang="grc">πρὸς τάδε</foreign> mean 'in face of this,' 'since this is so,' <foreign xml:lang="grc">ὡς ὧδ' ἐχόντων τῶνδε</foreign>. The text must have arisen, I think, from a gloss upon <foreign xml:lang="grc">τούτων ἀμείβου γ' εἵνεκ' εὐθαρσὴς ἐμοί</foreign>.</note>
+<pb n="121"/>
+I am the son of Palaecthon the earth-born, Pelasgus, chieftain of this country: and the people that enjoys the fruit of it is named Pelasgian accordingly after me their king. Over all the region through which passes the pure <lb n="260"/> Strymon<ref n="121.1">1</ref> do I hold sway upon the western side; and I reckon as my borders the land of the Perrhaebi and the parts beyond Pindus, near the Paeones, and the mountain of Dodona; and another boundary that cuts short my realm is the liquid boundary of the sea: over all on the hither side of these limits do I rule.</p>
+<p>This plain of the Apian land itself has long borne its name in honour of a mediciner of old: from Naupactus on the further shore came Apis, leech and seer, son of Apollo, and purged this land of deadly monsters—a fell colony of <lb n="270"/> swarming serpents—wrathful plagues<ref n="121.2">2</ref> which Earth had sent up on pollution by ancient deeds of blood. For these did Apis by surgery and spell work cures to satisfaction, and by way of meed won from the land of Argos mention in her prayers.</p>
+<p>Now that you have<ref n="121.3">3</ref> my warranties,<ref n="121.4">4</ref> declare your race and speak further<ref n="121.5">5</ref>—only a long oration this people doth not like.</p></sp>
+<sp><speaker start-line="280" end-line="282">CHORUS OF DANAIDS</speaker><p>Our tale is brief and clear. We claim to be of <lb n="280"/> Argive race, the seed of a Cow blest in offspring; and the truth of this my argument shall fully clinch.</p></sp>
+<sp><speaker start-line="283" end-line="296">PELASGUS</speaker><p>Stranger women, your story passeth my belief—how this race of yours can be of Argos. For you are liker to women of Libya, and in no wise to the natives of this land:
+
+
+<note type="footnote" n="121.1">1 <foreign xml:lang="grc">ἧς δι' ἁγνὸς ἔρχεται Στρυμών</foreign> Wordsworth.</note>
+
+<note type="footnote" n="121.2">2 <foreign xml:lang="grc">μηνιταῖς ἄχη</foreign> (<title>Cho.</title> 584) or <foreign xml:lang="grc">μηνιταιαχῆ</foreign>? Such visitations, and blights, and droughts and so on were regarded as due to the resentment (<foreign xml:lang="grc">μῆνις</foreign>) of the Chthonic powers, aroused by polluting blood. Lobeck <title>Aglaopham.</title> p. 637.</note>
+
+<note type="footnote" n="121.3">3 <foreign xml:lang="grc">ἔχουσ' ἂν ἤδη</foreign>.</note>
+
+<note type="footnote" n="121.4">4 'Credentials,' as in v. 54.</note>
+
+<note type="footnote" n="121.5">5 <foreign xml:lang="grc">πρόσω</foreign> Robort.; <foreign xml:lang="grc">τορῶς</foreign> 'clearly,' Tucker.</note>
+
+
+
+
+
+
+<pb n="122"/>
+—the Nile too might nurture such a breed: and similar is the Cyprian impress that hath been stamped by male artificers upon female forms. And of such aspect<ref n="122.1">1</ref> I have <lb n="290"/> heard there are Nomad women, pillion-riding upon camels going horse-fashion, inhabiting a country neighbouring the Ethiopians. And had ye been armed with the bow, I had surely taken you for the unmated flesh-fed Amazons.—But  will inform me better how your stock and seed is Argive.</p></sp>
+
+
+<sp><speaker start-line="297" end-line="298">CHORUS OF DANAIDS</speaker><p>Say <ref n="122.2">2</ref> they that in this land of Argos Io upon a time was ward of Hera's temple?</p></sp>
+<sp><speaker start-line="299" end-line="299">PELASGUS</speaker><p>She was most certainly; the tradition prevails widely.</p></sp>
+<sp><speaker start-line="300" end-line="300">CHORUS OF DANAIDS</speaker><p>There is a story also, is there not? that Zeus had <lb n="300"/> mortal intercourse?</p></sp>
+<sp><speaker start-line="301" end-line="301">PELASGUS</speaker><p>Aye, and this entanglement<ref n="122.3">3</ref> was not hid from Hera.</p></sp>
+<sp><speaker start-line="302" end-line="302">CHORUS OF DANAIDS</speaker><p>What then was the issue of this royal feud?</p></sp>
+<sp><speaker start-line="303" end-line="303">PELASGUS</speaker><p>The goddess of Argos turned the woman into a cow.</p></sp>
+<sp><speaker start-line="304" end-line="304">CHORUS OF DANAIDS</speaker><p>And when a horned cow, did not Zeus approach her still?<ref n="122.4">4</ref></p></sp>
+
+
+<note type="footnote" n="122.1">1 <foreign xml:lang="grc">τοίας τ' ἀκούω</foreign> Tucker for <foreign xml:lang="grc">Ἰνδούς τ' ἀκούω</foreign>, taking <foreign xml:lang="grc">Ἰνδούς</foreign> to have been originally a note explaining who these Nomads were. This is better than Heimsoeth's conjecture, reading <foreign xml:lang="grc">τοίας</foreign> in the place of <foreign xml:lang="grc">εἶναι</foreign>.</note>
+
+<note type="footnote" n="122.2">2 The speakers are not indicated in the MS., so that the arrangement of the dialogue depends only upon conjecture.</note>
+
+<note type="footnote" n="122.3">3 <foreign xml:lang="grc">τἀμπαλάγματα</foreign>, restored by Hermann from Hesychius with the confirmation of the schol. Only it cannot mean, as he supposed, 'embraces': <foreign xml:lang="grc">ἐμπαλάσσειν</foreign> is a synonym of <foreign xml:lang="grc">ἐμπλέκειν</foreign>, to ensnare, enmesh, entangle: Hdt. vii. 85 <foreign xml:lang="grc">ἐν ἕρκεσι</foreign>, Thuc. vii. 84, Ael. <title>N. A.</title> v. 39, vi. 24, xii. 47, xiv. 7, xv. 1, xvi. 25; and <foreign xml:lang="grc">ἐμπαλάγματα</foreign> (rightly explained by Hesychius as <foreign xml:lang="grc">αἱ ἐμπλοκαί</foreign>) means the liaison, an entanglement in the snares of love, <foreign xml:lang="grc">δίκτυα Κύπριδος</foreign> Ibycus, <foreign xml:lang="grc">Ἀφροδίτας ἕρκεσιν</foreign> Ariphron; cf. Lucret. iv. 1145-8.</note>
+
+<note type="footnote" n="122.4">4 <foreign xml:lang="grc">ἔτ'</foreign> Schuetz for <foreign xml:lang="grc">ἐπ'</foreign>. This is confirmed by <bibl>Lucian i. 305</bibl> <foreign xml:lang="grc">ΖΕΦ. νῦν δὲ ἡ Ἥρα τοιαύτην ἐποίησεν αὐτὴν ξηλοτυπήσασα ὅτι πάνυ ἑώρα ἐρῶντα τον Δία. ΝΟΤ. νῦν οὖν ἔτι ἐρᾷ τῆς βοός; ΖΕΦ. καὶ μάλα· καὶ διὰ τοῦτο ἐς Αἴγυπτον αὐτὴν ἔπεμψε κτέ.</foreign> Here (as in i. 207) Lucian is following the Aeschylean version of the story.</note>
+<pb n="123"/>
+<sp><speaker start-line="305" end-line="305">PELASGUS</speaker><p>So they say, in the likeness of a stallion bull.</p></sp>
+<sp><speaker start-line="305" end-line="305">CHORUS OF DANAIDS</speaker><p>How then did his stubborn consort reply to that?</p></sp>
+<sp><speaker start-line="306" end-line="306">PELASGUS</speaker><p>She set the all-seeing one to keep watch over the cow.</p></sp>
+<sp><speaker start-line="307" end-line="307">CHORUS OF DANAIDS</speaker><p>Who was this all-seeing herdsman with a single charge?</p></sp>
+<sp><speaker start-line="308" end-line="308">PELASGUS</speaker><p>Argus, a son of Earth, who was slain by Hermes.</p></sp>
+<sp><speaker start-line="309" end-line="309">CHORUS OF DANAIDS</speaker><p>And what else did she devise against the hapless <lb n="310"/> cow?</p></sp>
+<sp><speaker start-line="310" end-line="310">PELASGUS</speaker><p>A cattle-driving sting<ref n="123.1">1</ref> to madden her.</p></sp>
+<sp><speaker start-line="311" end-line="311">CHORUS OF DANAIDS</speaker><p>Those by the Nile call it an oestrus.</p></sp>
+<sp><speaker start-line="312" end-line="312">PELASGUS</speaker><p>Very well:—she was driven in a long course out of the land.</p></sp>
+<sp><speaker start-line="313" end-line="313">CHORUS OF DANAIDS</speaker><p>This account too agrees with mine entirely.</p></sp>
+<sp><speaker start-line="314" end-line="314">PELASGUS</speaker><p>Further, she came to Canopus and to Memphis.</p></sp>
+<sp><speaker start-line="315" end-line="315">CHORUS OF DANAIDS</speaker><p>Aye, and there did Zeus engender issue by laying on of hands.<ref n="123.2">2</ref></p></sp>
+<sp><speaker start-line="317" end-line="317">PELASGUS</speaker><p>And who is it claims to be the Zeus-begotten calf?</p></sp>
+<sp><speaker start-line="318" end-line="319">CHORUS OF DANAIDS</speaker><p>Epaphus, so named after laying on of hands.</p></sp>
+<sp><speaker start-line="319a" end-line="318a">PELASGUS</speaker><p><add>And who was born of Epaphus?</add><ref n="123.3">3</ref></p></sp>
+<sp><speaker start-line="319" end-line="319">CHORUS OF DANAIDS</speaker><p>Libya, reaping the fruit of the largest <add>portion</add><ref n="123.4">4</ref> of the earth.</p></sp>
+<sp><speaker start-line="320" end-line="320">PELASGUS</speaker><p>And what other offspring of hers have you to tell of? <lb n="320"/></p></sp>
+
+<note type="footnote" n="123.1">1 <foreign xml:lang="grc">μύωψ</foreign> means either an ox-goad or an ox-fly, <foreign xml:lang="grc">οἶστρος</foreign> either an ox-fly or a frenzied impulse of passion, and the remark of the Chorus hints at variations in the story due to this ambiguity.</note>
+
+<note type="footnote" n="123.2">2 <foreign xml:lang="grc">ῥυσίων</foreign> is merely a synonym of <foreign xml:lang="grc">ἐφάψεως</foreign> in its sense of 'seizure,' as <foreign xml:lang="grc">ἀρρυσίαστος</foreign> (v. 606) is of <foreign xml:lang="grc">ἀνέπαφος</foreign>.</note>
+
+<note type="footnote" n="123.3">3 A line has been lost to this effect.</note>
+
+<note type="footnote" n="123.4">4 <foreign xml:lang="grc">γῆς &lt;μέρος&gt;</foreign> Todt or <foreign xml:lang="grc">&lt;λάχος&gt;</foreign> Zakas:—not <foreign xml:lang="grc">&lt;ὄνομα&gt; γῆς</foreign>, as Porson conjectured; the land was called after the heroine (<bibl>Isocrat. p. 223 c</bibl>), not the heroine after the land.</note>
+
+<pb n="124"/>
+<sp><speaker start-line="321" end-line="321">CHORUS OF DANAIDS</speaker><p>Belos, with two sons; the father of my father here.</p></sp>
+<sp><speaker start-line="322" end-line="322">PELASGUS</speaker><p>Tell me now what is his most sapient name.<ref n="124.1">1</ref></p></sp>
+<sp><speaker start-line="323" end-line="323">CHORUS OF DANAIDS</speaker><p>Danaus; and there is a brother of him with fifty sons.</p></sp>
+<sp><speaker start-line="324" end-line="324">PELASGUS</speaker><p>Disclose to me his name also without grudging.</p></sp>
+<sp><speaker start-line="325" end-line="326">CHORUS OF DANAIDS</speaker><p>Aegyptus. And now, knowing our descent of old, act I pray thee so as to restore<ref n="124.2">2</ref> a band which is from Argos.</p></sp>
+<sp><speaker start-line="327" end-line="329">PELASGUS</speaker><p>You appear, certainly,<ref n="124.3">3</ref> to belong originally to this land: but how did you bring yourselves to leave your father's home? What blow of fortune fell upon you?</p></sp>
+<sp><speaker start-line="330" end-line="334">CHORUS OF DANAIDS</speaker><p>King of the Pelasgians, human misfortunes are of <lb n="330"/> varying sort; nowhere will you find a matching 'plume'<ref n="124.4">4</ref> of sorrow. For who ever dreamed that kindred, native once, would bring such an unlooked-for flight<ref n="124.5">5</ref> (taking wing through abhorrence of wedded union) to an end at the shore of Argos?</p></sp>
+<sp><speaker start-line="335" end-line="336">PELASGUS</speaker><p>Tell me what is the petition you make by these gods of meeting, with white-wreathed bows fresh-plucked in your hands?</p></sp>
+<sp><speaker start-line="337" end-line="337">CHORUS OF DANAIDS</speaker><p>That I may not become a handmaid to the sons of Aegyptus.</p></sp>
+<sp><speaker start-line="338" end-line="338">PELASGUS</speaker><p>By reason of hatred, mean you? or unlawfulness?</p></sp>
+<sp><speaker start-line="339" end-line="339">CHORUS OF DANAIDS</speaker><p>Nay who would object<ref n="124.6">6</ref> to masters that they loved?</p></sp>
+
+<note type="footnote" n="124.1">1 The epithet by a common idiom is transferred from the person to the name. It is appropriate to the inventive Danaus, though strictly the king could not be aware of this.</note>
+
+<note type="footnote" n="124.2">2 Reading <foreign xml:lang="grc">ἀνστῆσαι</foreign> (Markscheffel) or <foreign xml:lang="grc">ἀνστήσῃς</foreign> (Victorius).</note>
+
+<note type="footnote" n="124.3">3 <foreign xml:lang="grc">δοκεῖτέ &lt;δή&gt; μοι</foreign> Turnebus, <foreign xml:lang="grc">&lt;μέν&gt; μοι</foreign> Zakas.</note>
+
+<note type="footnote" n="124.4">4 A variation of the metaphorical adjective <foreign xml:lang="grc">ὁμόπτερος</foreign> 'of like feather.'</note>
+
+<note type="footnote" n="124.5">5 <foreign xml:lang="grc">τήνδε . . . φυγὴν</foreign> is in any case the object, not the subject, of <foreign xml:lang="grc">κέλσειν</foreign>. If <foreign xml:lang="grc">κέλσειν μ'</foreign> is read with Schuetz, <foreign xml:lang="grc">μεταπτοιοῦσαν</foreign> will agree with <foreign xml:lang="grc">με</foreign>.</note>
+
+<note type="footnote" n="124.6">6 <foreign xml:lang="grc">ὄνοιτο</foreign> Robortellus (as <foreign xml:lang="grc">ὀνοταζόμεναι</foreign> v. 10) for <foreign xml:lang="grc">ὤνοιτο</foreign>.</note>
+<pb n="125"/>
+<sp><speaker start-line="340" end-line="340">PELASGUS</speaker><p>Power is thereby<ref n="125.1">1</ref> multiplied in the world.</p></sp>
+<sp><speaker start-line="341" end-line="341">CHORUS OF DANAIDS</speaker><p>Aye, and if things go ill, divorce is easy.</p></sp>
+<lb n="340"/>
+<sp><speaker start-line="342" end-line="342">PELASGUS</speaker><p>How then am I to show duty towards you?</p></sp>
+<sp><speaker start-line="343" end-line="343">CHORUS OF DANAIDS</speaker><p>By refusing to surrender us again at the demand of Aegyptus' sons.</p></sp>
+<sp><speaker start-line="344" end-line="344">PELASGUS</speaker><p>That is a hard<ref n="125.2">2</ref> saying—to undertake the peril of a war.</p></sp>
+<sp><speaker start-line="345" end-line="345">CHORUS OF DANAIDS</speaker><p>Nay but Justice champions those that side with her.</p></sp>
+<sp><speaker start-line="346" end-line="346">PELASGUS</speaker><p>Aye, supposing I had borne a part in the matter from the first.<ref n="125.3">3</ref></p></sp>
+<sp><speaker start-line="347" end-line="347">CHORUS OF DANAIDS</speaker><p>Show thou reverence to the helm of the city thus engarlanded.</p></sp>
+<sp><speaker start-line="348" end-line="348">PELASGUS</speaker><p>I shudder as I regard these holy places over-shaded.</p></sp>
+<sp><speaker start-line="349" end-line="357">CHORUS OF DANAIDS</speaker><p>Nevertheless,<ref n="125.4">4</ref> grievous is the wrath of Zeus Petitionary.</p>
+<p>Son of Palaecthon, hearken unto me with gracious heart! <lb n="350"/> Behold me, thy petitioner, a fugitive running hither and thither like a wolf-chased heifer on precipitous rocks, where having found security she lows, telling the herdsman of her trouble.</p></sp>
+<sp><speaker start-line="358" end-line="362">PELASGUS</speaker><p>I see the company of the gods of meeting yonder nodding<ref n="125.5">5</ref> beneath the shade of fresh-plucked bows.—May <lb n="360"/> this affair of claimants upon the city's friendship end only without mischief! And let no quarrel arise for the state
+<pb n="126"/>
+from causes unforeseen and unforestalled; for the state hath no need of any such.</p></sp>
+
+<note type="footnote" n="125.1">1 By intermarriage of relations.</note>
+
+<note type="footnote" n="125.2">2 'A serious undertaking you propose.'</note>
+
+<note type="footnote" n="125.3">3 So Tucker, reading <foreign xml:lang="grc">ἦ</foreign> the first person.</note>
+
+<note type="footnote" n="125.4">4 <foreign xml:lang="grc">γε μέντοι</foreign> means 'Yes, but all the same,' 'still you must remember that': <title>Theb.</title> 703, 1035, <title>Ag.</title> 929, Soph. <title>El.</title> 398, <title>Rhes.</title> 579. Unless, therefore, there is a lacuna before this line, it would seem that the Chorus understand the King to mean 'I tremble to think of my responsibility.'</note>
+
+<note type="footnote" n="125.5">5 As it were 'nodding assent'; <foreign xml:lang="grc">νεύονθ'</foreign> Bamberger for <foreign xml:lang="grc">νέον θ'</foreign>.</note>
+<sp><speaker start-line="363" end-line="369">CHORUS OF DANAIDS</speaker><p>Yea may the suppliant-law of Zeus Apportioner regard our flight that it bring not any mischief! Let thine old experience learn from one of younger birth: if thou regard a suppliant, thou (shalt) not (see) penury<ref n="126.1">1</ref> . . . from a holy man.</p></sp>
+<sp><speaker start-line="370" end-line="374">PELASGUS</speaker><p>'Tis not my house at the hearth whereof ye sit: if <lb n="370"/> the city be incurring pollution in its commonalty, to work out the cure must be the people's common business. For myself, I will pledge no promise before I have conferred with all the citizens about the case.</p></sp>
+
+<note type="footnote" n="126.1">1 <foreign xml:lang="grc">οὐ λιπερν</foreign> . . ., some form of <foreign xml:lang="grc">λιπερνής</foreign> or <foreign xml:lang="grc">λιπερνήτης</foreign>, a word used by Archilochus (Bergk II p. 396, Schneider <title>Callim.</title> II p. 211) and explained in the Lexicons (<title>Et. Mag., Zonaras, Suid.</title>) by <foreign xml:lang="grc">πτωχός</foreign>. The MS. has <foreign xml:lang="grc">οὖν περ</foreign> with schol. <foreign xml:lang="grc">οὐ πτωχεύσεις</foreign>. After this mutilated word there is a line lost, and then some further corruption now beyond restoring. The purport appears to have been 'the sacrifices of a godly man are acceptable in the sight of heaven, however small they may be,' a doctrine illustrated by Orelli-Hirschfelder on Hor. <title>C.</title> iii. 23. 18, Porph. <title>de abst.</title> ii. 15, and attributed to Pythagoras by Iamblich. <title>Vit. Pyth.</title> 27 § 122.</note>
+<sp><speaker start-line="375" end-line="380">CHORUS OF DANAIDS</speaker><p>Thou art the city, thou art the people! The altar, that is the country's hearth, with sovereignty unchallenged thou rulest by a monarch's nod, and determinest every matter upon a throne of undivided sway. Beware pollu-<lb n="380"/>tion!</p></sp>
+<sp><speaker start-line="381" end-line="385">PELASGUS</speaker><p>Pollution be upon my foes! But you I am unable to assist without harm.—Yet it likes me not<ref n="126.2">2</ref> either to disregard these supplications:—I am perplexed and my heart afraid, whether to act or not to act, and secure success.<ref n="126.3">3</ref></p></sp>
+
+<note type="footnote" n="126.2">2 A poetical sense of <foreign xml:lang="grc">εὔφρων</foreign> common in Aeschylus: <foreign xml:lang="grc">δύσφρονος</foreign> has the opposite sense in v. 399.</note>
+
+<note type="footnote" n="126.3">3 Cf. Eur. <title>I. A.</title> 56. Tucker reads <foreign xml:lang="grc">καὶ τύχην ἐᾶν</foreign> 'or not to act and so let fortune take her course.'</note>
+<sp><speaker start-line="386" end-line="391">CHORUS OF DANAIDS</speaker><p>Have regard to the Watcher upon high, the pro-
+<pb n="127"/>
+tector of those afflicted upon earth, who crouching at their neighbours' feet obtain not lawful justice. The wrath of Zeus Petitionary abides in store for such as are unsoftened <lb n="390"/> by the plaints of a sufferer.</p></sp>
+<sp><speaker start-line="392" end-line="396">PELASGUS</speaker><p>If the sons of Aegyptus are your masters by the law of the land, as claiming to be next of kin, who would care to contest their right? You must plead according to the laws of your own country that they have no authority over you.<ref n="127.1">1</ref></p></sp>
+<sp><speaker start-line="397" end-line="401">CHORUS OF DANAIDS</speaker><p>Never, never<ref n="127.2">2</ref> may I become subject to the mastery of these men! Flight under the stars<ref n="127.3">3</ref> I determine upon for avoidance of an odious union! Take thou Justice upon thy <lb n="400"/> side and judge that is righteous before heaven.</p></sp>
+<sp><speaker start-line="402" end-line="406">PELASGUS</speaker><p>No easy matter this for judgment: ask me not to judge. I said before, though I be ruler, I will not do this without the public will, for fear lest<ref n="127.4">4</ref> afterward (should some untoward<ref n="127.5">5</ref> thing befall) the people should say 'Through regarding immigrants thou hast ruined the country.'</p></sp>
+<sp><speaker start-line="407" end-line="411">CHORUS OF DANAIDS</speaker><p>Both sides herein doth Zeus of Blood-kindred with his wavering balance overlook, awarding, as is meet, wrong to the wicked<ref n="127.6">6</ref> and righteousness to the godly: since the <lb n="410"/> balance is thus equitably poised, what are you to rue hereafter for having done<ref n="127.7">7</ref> justice?</p></sp>
+
+<note type="footnote" n="127.1">1 Legal language of the baldest and most unsentimental kind.</note>
+
+<note type="footnote" n="127.2">2 <foreign xml:lang="grc">μή τί ποτ' οὖν</foreign> . . . . Here <foreign xml:lang="grc">οὖν</foreign> contributes merely emphasis: that is the effect of it in all its combinations except <foreign xml:lang="grc">οὔκουν, οὐκοῦν</foreign>.</note>
+
+<note type="footnote" n="127.3">3 <foreign xml:lang="grc">ὕπαστρον φυγάν</foreign> (Heath) is to be taken together. For this proverbial phrase see Jebb on <title>O. T.</title> 795.</note>
+
+<note type="footnote" n="127.4">4 <foreign xml:lang="grc">μὴ καί ποτε</foreign> Canter: cf. Hom. <foreign xml:lang="grc">Χ</foreign> 104 sqq. <foreign xml:lang="grc">ὡς μήποτε</foreign> would be good, as <title>Eum.</title> 883, <title>Rhes.</title> 50.</note>
+
+<note type="footnote" n="127.5">5 Tucker's conjecture may be right, <foreign xml:lang="grc">εἴ πού τι κἀλλοῖον τύχοι</foreign>.</note>
+
+<note type="footnote" n="127.6">6 <foreign xml:lang="grc">ἄξια ἀξίων</foreign>, that is; rewarding them after their iniquities; see Paley's note.</note>
+
+<note type="footnote" n="127.7">7 <foreign xml:lang="grc">τί . . . μεταλγεῖς, τὸ δίκαιον ἔρξας;</foreign> The MS. has <foreign xml:lang="grc">ἔρξαι</foreign> which I have corrected. Those to whom this 'prospective' use of the present tense is not familiar may compare <title>Cho.</title> 507, <title>P. V.</title> 529, 540, Soph. <title>Philoct.</title> 117 <foreign xml:lang="grc">ὡς τοῦτό γ' ἔρξας δύο φέρει δωρήματα</foreign>, <title>Rhes.</title> 581, 596, Eur. <title>I. T.</title> 977-80, <title>El.</title> 973 <foreign xml:lang="grc">βλάπτῃ δὲ δὴ τί πατρὶ τιμωρῶν σέθεν;</foreign></note>
+<pb n="128"/>
+<sp><speaker start-line="412" end-line="422">PELASGUS</speaker><p>We need deep preserving thought, for an eye of clear vision, not overmuch confused with wine, to descend like a diver into the depth, for means whereby this matter may bring no mischief in the first place on the state, and may turn out well for ourselves also; whereby neither struggle may seize prizes, nor yet by surrendering you from your seats of sanctuary we may bring upon us the heavy haunting vengeance of that destroying Power who releases <lb n="420"/> not his victim even in the house of death.<ref n="128.1">1</ref> Think you not we need preserving thought?</p></sp>
+<sp><speaker start-line="423" end-line="446">CHORUS OF DANAIDS</speaker><p>Take thou thought, and show thyself a righteous patron altogether! Betray not the fugitive that hath been cast out and hurried from afar ungodly! See me not ravished from this sanctuary of many gods, O thou that <lb n="430"/> hast full sovereignty of the land, but perceive the lewdness of the men, and beware the wrath of heaven!</p>
+<p>Suffer not thine eyes to behold the suppliant dragged in despite of justice from the images like a horse by the frontlet, and rude clutchings of my fine-woven robes! For be <lb n="440"/> assured of this, that whichever end thou bring to pass, it remaineth unto thy children and thy house to make payment of like equity. Consider this just ordinance of God.</p></sp>
+<sp><speaker start-line="447" end-line="463">PELASGUS</speaker><p>I have considered; and this is what the matter comes to—war with these or those I cannot choose but undertake; 'tis wedged firm as a ship hauled to by the windlass, and there is no concluding without hurt. Now, <lb n="450"/> when goods are plundered from a house, thanks to Zeus of Property other goods may come<ref n="128.2">2</ref>; and a tongue that hath
+
+<note type="footnote" n="128.1">1 <title>Eum.</title> 175.</note>
+
+<note type="footnote" n="128.2">2 The line that follows is omitted as an insertion. The form as well as the sentiment of this passage is exactly like <title>Ag.</title> 995-1006.</note>
+<pb n="129"/>
+shot an arrow out of place—one saying may be the healer of another.<ref n="129.1">1</ref> But to avoid shedding<ref n="129.2">2</ref> of kindred blood, must <lb n="460"/> sacrifice indeed be made, and many victims fall in deliverance to many gods. Of a truth I am fatally involved in<ref n="129.3">3</ref> this quarrel, though<ref n="129.4">4</ref> in sorrows I would rather be unskilled than practised:—but may all go well and prove my judgment false<ref n="129.5">5</ref>!</p></sp>
+<sp><speaker start-line="464" end-line="464">CHORUS OF DANAIDS</speaker><p>Hear now the conclusion of all our humble supplications.</p></sp>
+<sp><speaker start-line="465" end-line="465">PELASGUS</speaker><p>I hear; say on; it shall not escape me.</p></sp>
+<sp><speaker start-line="466" end-line="466">CHORUS OF DANAIDS</speaker><p>I have breast-bands and girdles to gather up my robes.</p></sp>
+<sp><speaker start-line="467" end-line="467">PELASGUS</speaker><p>Such things are suitable to the condition<ref n="129.6">6</ref> of women.</p></sp>
+<sp><speaker start-line="468" end-line="468">CHORUS OF DANAIDS</speaker><p>Very well:—by means of these understand we have a rare expedient,—</p></sp>
+<sp><speaker start-line="469" end-line="469">PELASGUS</speaker><p>Tell me what saying is this you mean to utter?</p></sp>
+<lb n="470"/>
+<sp><speaker start-line="470" end-line="470">CHORUS OF DANAIDS</speaker><p>Unless thou consent to afford our company some pledge,—</p></sp>
+<sp><speaker start-line="471" end-line="471">PELASGUS</speaker><p>To what effect proceeds the expedient of your sashes?</p></sp>
+<sp><speaker start-line="472" end-line="472">CHORUS OF DANAIDS</speaker><p>To adorn these images with tablets of a strange sort.<ref n="129.7">7</ref></p></sp>
+
+<note type="footnote" n="129.1">1 Another line is here ejected as an illustrative quotation.</note>
+
+<note type="footnote" n="129.2">2 The argument to be expected logically is 'but to repair kindred bloodshed, when it has once taken place, is impossible.' I think (with Schuetz and Weil) that that link is omitted and left to be inferred, and that the connexion of thought is 'but kindred blood (since it is irreparable) must by all means be averted.'</note>
+
+<note type="footnote" n="129.3">3 <foreign xml:lang="grc">νείκους τοῦδ' ἔσω παροίχομαι</foreign> Tucker: cf. Plaut. <title>Capt.</title> 649 <quote xml:lang="lat">ut quidem hercle in medium ego hodie pessime processerim.</quote></note>
+
+<note type="footnote" n="129.4">4 Cf. Soph. <title>Philoct.</title> 94.</note>
+
+<note type="footnote" n="129.5">5 Literally 'contrary to my conviction.'</note>
+
+<note type="footnote" n="129.6">6 <foreign xml:lang="grc">τύχῃ</foreign> (Turnebus) <foreign xml:lang="grc">γυναικῶν ταῦτα συμπρεπῆ πέλει</foreign> (cod. Guelf).</note>
+
+<note type="footnote" n="129.7">7 For the usual <foreign xml:lang="grc">πίνακες</foreign> see Mayor on Juv. x. 55, and my forthcoming note on Herodas iv. 19.</note>
+
+<pb n="130"/>
+
+<sp><speaker start-line="473" end-line="473">PELASGUS</speaker><p>Thy words are riddling; come, explain in simple terms.</p></sp>
+<sp><speaker start-line="474" end-line="474">CHORUS OF DANAIDS</speaker><p>To hang ourselves forthwith from these gods.</p></sp>
+<sp><speaker start-line="475" end-line="475">PELASGUS</speaker><p>Your threat cuts my heart like a whip.</p></sp>
+<sp><speaker start-line="476" end-line="476">CHORUS OF DANAIDS</speaker><p>Thou takest it, for I gave it clearer vision.<ref n="130.1">1</ref></p></sp>
+<sp><speaker start-line="477" end-line="498">PELASGUS</speaker><p>Aye, but far from simple<ref n="130.2">2</ref> is the difficulty of the case—there comes upon me like a river a multitude of troubles. It is a fathomless and impassable ocean of ruin I have launched upon, and nowhere is there a haven from <lb n="480"/> distress. If I refuse to perform this service for you, there is your warning of pollution untranscendable<ref n="130.3">3</ref>: while if I take my stand before the walls and try the issue of battle with the sons of Aegyptus, your kinsmen, the expense comes surely to a sore amount—men's blood to stain the ground for the sake of women.</p>
+
+<note type="footnote" n="130.1">1 Not 'I have given you'; cf. <title>P. V.</title> 515, <title>Cho.</title> 661, 534, 843, Soph. <title>O.C.</title> 74. Critias <title>Trag. fr.</title> 1. 26 <foreign xml:lang="grc">τυφλώσας</foreign>, and the adjectives <foreign xml:lang="grc">τυφλός, ἀλαός</foreign> (as we speak of a 'blind fence'), <foreign xml:lang="grc">κωφός</foreign>.</note>
+
+<note type="footnote" n="130.2">2 <foreign xml:lang="grc">οὐ μὴν ἁπλῆ γε δύσπάλαιστα πράγματα, κακῶν δὲ</foreign> ('but') <foreign xml:lang="grc">πλῆθος</foreign> ... I have restored <foreign xml:lang="grc">οὐ μὴν ἁπλῇ γε</foreign> for <foreign xml:lang="grc">καὶ μὴν πολλαχῇ γε</foreign> which is an interpretation of it. <foreign xml:lang="grc">ἁπλῇ</foreign> refers to <foreign xml:lang="grc">ἁπλῶς</foreign> in v. 473, 'yes, your answer is plain and simple enough; but it is not a simple problem that confronts me.' <foreign xml:lang="grc">ἁπλοῦς</foreign> simplex means both 'simple' and 'single' and the play upon the word can hardly be expressed in modern English.</note>
+
+<note type="footnote" n="130.3">3 Or 'unsurmountable.'</note>
+<p>Still, I must needs hold in awe the wrath of Zeus Petitionary, for that is the supremest fear on earth.—Do thou, aged father of these maids, take straightway in thine arms these <lb n="490"/> boughs, and lay them upon other altars of the country's deities, that all the people may see the token of this petitioning, and talk be not uttered sharply against me<ref n="130.4">4</ref>—for
+<pb n="131"/>
+the people is apt to complain against authority. It may be that some will feel compassion at the sight, and resent the lewdness of the troop of males, and the people be moved to greater friendliness toward you: for all men show sympathy with the weaker.</p></sp>
+
+<note type="footnote" n="130.4">4 My simple correction <foreign xml:lang="grc">ἐμοῦ κάτ'</foreign> removes at once both difficulties of construction. <foreign xml:lang="grc">ἀπορρίπτειν</foreign> (<foreign xml:lang="grc">ῥίπτειν, ἐκρίπτειν</foreign> <quote xml:lang="lat">dicta iacere, iactare</quote>) <foreign xml:lang="grc">λόγον, ἔπος</foreign> is a common phrase, e.g. Hdt. i. 153, iv. 142, vi. 69, vii. 13, viii. 92. <foreign xml:lang="grc">φιλαίτιος</foreign> governs the genitive <foreign xml:lang="grc">ἀρχῆς</foreign> as it governs the genitive <foreign xml:lang="grc">θεῶν</foreign> in Plat. <title>Legg.</title> 903 E <foreign xml:lang="grc">τῷ φιλαιτίῳ τῆς ἀμελείας πέρι θεῶν</foreign> 'the man who is fond of reproaching the gods for their neglect.'—There is no objection to the elision of <foreign xml:lang="grc">κάτα</foreign>: if a preposition can be placed after the noun, it can also be elided. Examples in iambic verse are <title>Supp.</title> 260 <foreign xml:lang="grc">ἧς δι' ἁγνὸς ἔρχεται</foreign>, <title>Ag.</title> 127 <foreign xml:lang="grc">βωμοῦ πατρῴου δ' ἀντ'</foreign> (<foreign xml:lang="grc">ἀντί</foreign> follows its case in Lycophr. 94 and 365), Eur. <title>I. A.</title> 966 <foreign xml:lang="grc">ὧν μέτ' ἐστρατευόμην</foreign>, Ar. <title>Lys.</title> 1146 <foreign xml:lang="grc">χώραν ἧς ὕπ' εὖ πεπόνθατε</foreign>, and with a pause as here, Eur. <title>Bacch.</title> 722 <foreign xml:lang="grc">θηρώμεθ' ἀνδρῶν τῶνδ' ὕπ' ἀλλ' ἕπεσθέ μοι</foreign>.</note>
+<sp><speaker start-line="499" end-line="508">DANAUS</speaker><p>We hold it of much value to have found a champion <lb n="500"/> both compassionate and prosperous.<ref n="131.1">1</ref> But send thou with us also a retinue and guides of the country, that we may find altars at the temple fronts and (worshipped) seats belonging to the city-gods, and that safety may attend our progress through the town: the nature of our aspect is dissimilar —Nile breeds a race unlike the Inachus. Beware lest rashness create dislike<ref n="131.2">2</ref>—friends ere now<ref n="131.3">3</ref> have been slain in misapprehension.</p></sp>
+
+<note type="footnote" n="131.1">1 I see no reason to reject the MS. reading <foreign xml:lang="grc">εὖ ῥέοντα</foreign>: the point is, a patron with a kind heart and an influential position—who has at once the will and the power to protect.</note>
+
+<note type="footnote" n="131.2">2 <foreign xml:lang="grc">φθόνον</foreign> Mueller-Struebing for <foreign xml:lang="grc">φόβον</foreign>: an unfavourable impression, hostility, resentment, displeasure, <quote xml:lang="lat">invidiam</quote>.</note>
+
+<note type="footnote" n="131.3">3 <foreign xml:lang="grc">ἤδη</foreign> Tucker for <foreign xml:lang="grc">καὶ δὴ</foreign>.</note>
+<sp><speaker start-line="509" end-line="512">PELASGUS</speaker><p>March on, my men, for the stranger says well: lead on to altars in the town and sanctuaries. And you <lb n="510"/> must not have long speech with such as meet you by the way<ref n="131.4">4</ref> while you are conducting our sea-farer to the dwellings of the gods.</p></sp>
+<stage>(DANAUS departs with an escort.)</stage>
+<sp><speaker start-line="513" end-line="514">CHORUS OF DANAIDS</speaker><p>To him thou hast spoken, and let him go with his instructions: but I, what shall I do? Where<ref n="131.5">5</ref> dost thou assign me security?</p></sp>
+
+<note type="footnote" n="131.4">4 <foreign xml:lang="grc">ξυμβολοῦσιν</foreign> Valckenaer.</note>
+
+<note type="footnote" n="131.5">5 Or 'wherein.'</note>
+<pb n="132"/>
+<sp><speaker start-line="515" end-line="515">PELASGUS</speaker><p>Your boughs leave there, in token of your distress.</p></sp>
+<sp><speaker start-line="516" end-line="516">CHORUS OF DANAIDS</speaker><p>There, I leave them so at (the direction of) thy hand<ref n="132.1">1</ref> and word.</p></sp>
+<sp><speaker start-line="517" end-line="517">PELASGUS</speaker><p>Betake your feet now unto this smooth green.</p></sp>
+<sp><speaker start-line="518" end-line="518">CHORUS OF DANAIDS</speaker><p>Why, how should an open green protect me?</p></sp>
+<sp><speaker start-line="519" end-line="519">PELASGUS</speaker><p>We will never give you up to wingéd creatures' ravishment.</p></sp>
+<sp><speaker start-line="520" end-line="520">CHORUS OF DANAIDS</speaker><p>But what if to foes worse than fell serpents!</p></sp>
+<sp><speaker start-line="521" end-line="521">PELASGUS</speaker><p>Fair words, prithee, since you have been spoken fair!</p></sp>
+<lb n="520"/>
+<sp><speaker start-line="522" end-line="522">CHORUS OF DANAIDS</speaker><p>It is no wonder in my state of fear I should be fretful.</p></sp>
+<sp><speaker start-line="523" end-line="523">PELASGUS</speaker><p>No, exceeding terror is ever uncontrolled.<ref n="132.2">2</ref></p></sp>
+<sp><speaker start-line="524" end-line="524">CHORUS OF DANAIDS</speaker><p>Do thou comfort me both by act and word!</p></sp>
+<sp><speaker start-line="525" end-line="532">PELASGUS</speaker><p>Come now, your father will not leave you alone long. I go<ref n="132.3">3</ref> now to convene the people of the country that I may make their general body friendly; and I will instruct your father what language he should use. Remain thou therefore, and entreat the gods of this country with prayer <lb n="530"/> for what your heart desires. I will go to set this matter forward: and may I be attended by persuasion and effectual success!</p><stage>[The KING departs.]</stage></sp>
+
+<note type="footnote" n="132.1">1 Cf. Soph. <title>Philoct.</title> 148.</note>
+
+<note type="footnote" n="132.2">2 <foreign xml:lang="grc">ἀεί γ' ἄναρκτόν ἐστι δεῖμ' ἐξαίσιον</foreign> is my correction of <foreign xml:lang="grc">ἀεὶ δ' ἀνάκτων ἐστὶ . . . δεῖμ' ἐξαίσιον</foreign> must be the subject of the sentence, and <foreign xml:lang="grc">ἀνάκτων</foreign> a corruption of the predicate, which naturally precedes. <foreign xml:lang="grc">ἀψυχίᾳ γὰρ γλῶσσαν ἁρπάζει φόβος</foreign> is the apology of the Chorus in a similar case, <title>Theb.</title> 245, 'panic runs away with the tongue,' bolting like a runaway horse (<foreign xml:lang="grc">ἔκφορος ἵππος</foreign>) which has <foreign xml:lang="grc">εὔαρκτον στόμα</foreign> (<title>Pers.</title> 196) no longer. Rage has the same effect, Ar. <title>Ran.</title> 993 <foreign xml:lang="grc">μόνον ὅπως μή σ' ὁ θυμὸς ἁρπάσας ἐκτὸς οἴσει τῶν ἐλαῶν</foreign>, or madness, <title>P. V.</title> 909, <title>Cho.</title> 1022 where Orestes, using this familiar simile of the race-course, speaks of his <foreign xml:lang="grc">φρένες δύσαρκτοι</foreign>. <foreign xml:lang="grc">ἀεί γ'</foreign> (suggested by Dindorf) is natural in a comment, as <title>P. V.</title> 42, Alexis 257 <foreign xml:lang="grc">ἀεί γ' ὁ Χαιρεφῶν τιν' εὑρίσκει τέχνην</foreign>.</note>
+
+<note type="footnote" n="132.3">3 <foreign xml:lang="grc">στείχω</foreign> Weil.</note>
+<pb n="133"/>
+<sp><speaker start-line="533" end-line="597">CHORUS OF DANAIDS</speaker><p>O King of Kings, most blessed of the blessed, power most perfect among the perfect, Zeus all-happy, give ear and with hearty loathing defend thy seed from the lust of men, and their black-benched engine of destruction plunge into the glooming lake<ref n="133.1">1</ref>! But on the women's side,<ref n="133.2">2</ref> con- <lb n="540"/> sider thou the long tradition of our line, and recall the sweet story of our ancestress, the woman of thy love. Show thyself mindful, O thou fondler of Io! We declare ourselves to be the seed of Zeus, by descent from a native of this land.<ref n="133.3">3</ref></p>
+
+<note type="footnote" n="133.1">1 The sea; the phrase is from the lyric vocabulary.</note>
+
+<note type="footnote" n="133.2">2 Adverbial, as Soph. <title>El.</title> 1071 <foreign xml:lang="grc">τὰ δὲ πρὸς τέκνων</foreign>, and geographical phrases like <foreign xml:lang="grc">τὸ πρὸς δύνοντος ἡλίου</foreign> in v. 261 above.</note>
+
+<note type="footnote" n="133.3">3 <foreign xml:lang="grc">Δῖαί τοι γένος εὐχόμεθ' εἶναι γᾶς ἀπὸ τᾶσδ' ἐνοίκου</foreign>: the MS. <foreign xml:lang="grc">δίας</foreign> was corrected by Pauw, and I have restored <foreign xml:lang="grc">ἐνοίκου</foreign> for <foreign xml:lang="grc">ἔνοικοι</foreign>. The construction is <foreign xml:lang="grc">ἀπ' ἐνοίκου τᾶσδε γᾶς</foreign>.</note>
+<p>Unto our mother's ancient foot-prints have I removed, the region of the watch upon her while she browsed the flowers,<ref n="133.4">4</ref> that pasturing meadow whence, tormented<ref n="133.5">5</ref> by the <lb n="550"/> sting, distraught fled Io, travelling through many a tribe of men, and duly cleaving the surging strait asunder, made the further shore<ref n="133.6">6</ref> her bourn.</p>
+
+<note type="footnote" n="133.4">4 This detail, mentioned before in v. 43, is traditionary: Severus (Walz <title>Rhet.</title> I p. 537), following the usual version, according to which Io was changed by Zeus, says <foreign xml:lang="grc">τιμῶσα ἡ γῆ τὴν τοῦ Διὸς ἐρωμένην ἄνθος ἀνῆκε τῇ βοὶ νέμεσθαι</foreign>.</note>
+
+<note type="footnote" n="133.5">5 <foreign xml:lang="grc">ἐρειθομένα</foreign> Paley, which agrees metrically with the corresponding line, and is, as he shows, a most appropriate word. Against the MS. <foreign xml:lang="grc">ἐρεσσομένα</foreign> it may be further remarked that <foreign xml:lang="grc">ἐρέσσειν</foreign> is metaphorically used only to describe such actions as resemble the movement to and fro of oars or arms in rowing.</note>
+
+<note type="footnote" n="133.6">6 <foreign xml:lang="grc">δίχα διατέμνουσα</foreign> are to be taken together; the disarrangement of the words is a license assumed especially by lyric verse (Soph. <title>Ant.</title> 960 Jebb).</note>
+<p>And now she darts across the land of Asia,—right through sheep-grazing Phrygia, and passes the city of Teuthras among the Mysians, and the Lydian dells, speeding right across the <lb n="560"/>
+<pb n="134"/>
+mountains of the Cilicians and Pamphylians, and over ever-flowing streams<ref n="134.1">1</ref> and affluent soil, and the rich cornland of Aphrodite.<ref n="134.2">2</ref></p>
+
+<note type="footnote" n="134.1">1 Reading <foreign xml:lang="grc">Λύδιά τε γύαλα, καὶ δι' ὀρῶν Κιλίκων Παμφύλων τε, διορνυμένα τ' ἀμ ποταμοὺς ἀενάους</foreign> for <foreign xml:lang="grc">τὰν ποταμούς</foreign>.</note>
+
+<note type="footnote" n="134.2">2 Phoenicia; so termed, as the schol. says, by reason of Byblus and Libanus, the famous seats of the worship of Thammuz and Astarte (Adonis and Aphrodite).</note>
+<p>So she arrives at last, still suffering injury<ref n="134.3">3</ref> from the winged herdsman's weapon, at the pasturing demesne of Zeus, that snow-fed<ref n="134.4">4</ref> meadow which the fury of Typho comes <lb n="570"/> upon, and at the water of Nile diseases may not touch, maddening with her sore indignities, and frenzied by the pain of Hera's torturing goad.</p>
+
+<note type="footnote" n="134.3">3 <foreign xml:lang="grc">ἱκνεῖται δὴ σινουμένα</foreign> is my conjecture for <foreign xml:lang="grc">ἱκνεῖται δ' εἰσικνουμένου</foreign> with the letters <foreign xml:lang="grc">ου</foreign> written in erasure; at first no doubt it was <foreign xml:lang="grc">εἰσικνουμένη</foreign> the reading of cod. Guelf. (<foreign xml:lang="grc">σινουμένου</foreign> I think less likely, because the form <foreign xml:lang="grc">σινέεσθαι</foreign> is Ionic). Suid. <foreign xml:lang="grc">Σίνος: βλάβη. καὶ Σινοῦται: βλάπτεται</foreign>. Hesych. gives also <foreign xml:lang="grc">Συνοῦται</foreign> (sic): <foreign xml:lang="grc">λυπεῖται</foreign>.</note>
+
+<note type="footnote" n="134.4">4 Egypt. The belief that the rising of the Nile was caused by the melting of snow on mountains in the interior was widely known and canvassed in antiquity. It has remained until our own day for the truth of it to be proved by Sir Henry Stanley (<title>Darkest Africa</title> xxix-xxxi).</note>
+<p>The mortals that were then dwellers in the land quaked with sickly fear at the unwonted sight, [when they beheld<ref n="134.5">5</ref>] a creature monstrous of half-human shape—part cow, part woman<ref n="134.6">6</ref>—and they were amazed at the prodigy.</p>
+
+<note type="footnote" n="134.5">5 There is more than one reason for supposing <foreign xml:lang="grc">ἐσορῶντες</foreign> an interpolation which has supplanted some adjective such as <foreign xml:lang="grc">δίμορφον</foreign>.</note>
+
+<note type="footnote" n="134.6">6 <foreign xml:lang="grc">τὰ μὲν βούς, τὰ δ' αὖ γυναικός</foreign>.</note>
+<p>And then at last who was it soothed poor wandering <lb n="580"/> sting-tormented Io?</p>
+<p>Zeus, lord through endless ages<ref n="134.7">7</ref> . . . and by force of painless power<ref n="134.8">8</ref> and by the breathing of his holy
+
+<note type="footnote" n="134.7">7 <foreign xml:lang="grc">δι' αἰῶνος</foreign> Hermann.</note>
+
+<note type="footnote" n="134.8">8 <foreign xml:lang="grc">βίᾳ δ' ἀπηματοσθενεῖ</foreign> for <foreign xml:lang="grc">βίᾳ δ' ἀπημάντῳ σθένει</foreign> (the remark of the schol. <foreign xml:lang="grc">λείπει ὁ καί</foreign> shows that he read <foreign xml:lang="grc">βίᾳ</foreign>). My reading restores the construction and improves the rhythm by one of those compound adjectives, characteristically Aeschylean, which in MSS. are habitually corrupted in this fashion.</note>
+
+
+<pb n="135"/>
+spirit was she stayed, and sheds the sorrowing shame of tears.<ref n="135.1">1</ref> And having conceived a burden in very truth of Zeus, she bare a perfect son—</p>
+
+
+<note type="footnote" n="135.1">1 Tears of grief and shame after she has been restored to human consciousness; compare her language in a lucid interval, <title>P. V.</title> 669 seqq. The phrase is in the ornater style of lyric. Weil quotes Musaeus <title>Hero and Leander</title> 173 <foreign xml:lang="grc">αἰδοῦς ὑγρὸν ἔρευθος ἀποστάζουσα προσώπου</foreign>, literally 'exuding the moist blush of shame.' In Soph. <title>Ant.</title> 959 <foreign xml:lang="grc">οὕτω τᾶς μανίας δεινὸν ἀποστάζει ἀνθηρόν τε μένος</foreign> the verb is intransitive, 'so dire and exuberant is the rage that emanates from madness.'</note>
+<p>Throughout long ages blessed. Whence every land doth <lb n="590"/> cry aloud 'Of a surety this is the seed of gendering<ref n="135.2">2</ref> Zeus; for who else could have stayed the distempers caused by Hera's plots? This is the act of Zeus; and you shall be right to call this race derived from Epaphus.'<ref n="135.3">3</ref></p>
+
+<note type="footnote" n="135.2">2 <foreign xml:lang="grc">φυσιζόου</foreign> Schuetz.</note>
+
+<note type="footnote" n="135.3">3 With the punctuation altered, the words admit the sense 'Call this the act of Zeus and this (his) race derived from Epaphus, and you shall be right.'</note>
+<p>What god in heaven could I with reason call upon for acts more warrantable?<ref n="135.4">4</ref></p>
+
+<note type="footnote" n="135.4">4 'What act on the part of any other god affords me greater justification for appealing to him?'</note>
+<p>Father himself and creator, the lord is he that by his own <lb n="600"/> hand planted us, with might and ancient wisdom fashioner of our race, prosperer of all devices, even Zeus.</p>
+<p>Is there none beneath whose authority he sits with lesser powers than a superior?</p>
+<p>None is there sitting in a higher place, whose powers he holds in awe; but act is ready to his hand as word, to set afoot forthwith aught that his counselling<ref n="135.5">5</ref> mind may lay before him.</p></sp>
+
+<note type="footnote" n="135.5">5 <foreign xml:lang="grc">βούλιος</foreign> Auratus, rightly. The language alludes to the functions of the two bodies of legislature at Athens, the <foreign xml:lang="grc">βουλή</foreign> and the <foreign xml:lang="grc">ἐκκλησία</foreign>.
+<pb n="136"/>
+Measures originated in the Council (<foreign xml:lang="grc">βουλή</foreign>): a bill passing the Council became a <foreign xml:lang="grc">προβούλευμα</foreign>, which had then to be introduced and submitted for ratification to the Assembly sitting on the hill (<foreign xml:lang="grc">ἐκφέρεσθαι</foreign> or <foreign xml:lang="grc">εἰσφέρεσθαι εἰς τὴν ἐκκλησίαν</foreign> or <foreign xml:lang="grc">τὸν δῆμον</foreign>). No such sanction is required for his policy by Zeus; he may execute his purposes at once without control.—The passage has not been explained before, nor correctly punctuated; the antistrophe, like the strophe, contains an answer to a question.—In v. 605 I have translated <foreign xml:lang="grc">κράτη</foreign>, the conjecture of H. Voss for <foreign xml:lang="grc">κάτω</foreign>. In v. 606 I am not quite sure of the construction—whether <foreign xml:lang="grc">πάρεστι</foreign> does not rather mean 'he may.'</note>
+<sp><speaker start-line="608" end-line="609">DANAUS</speaker><p>Comfort ye, my children! All is well on the part of the citizens; final decrees of the people have been passed.</p></sp>
+<sp><speaker start-line="610" end-line="612">CHORUS OF DANAIDS</speaker><p>O bless thee, our ambassador, for thy sweet <lb n="610"/> message! Tell us the purport of their decision—the course to which the majority of their suffrages inclines.</p></sp>
+<sp><speaker start-line="613" end-line="632">DANAUS</speaker><p>It was resolved by the Argives without dissent in such wise as made my old heart feel young again; for the air bristled with right hands uplifted as they passed this law in full assembly: that we be allowed to settle in this country, free, not liable to seizure, and with security from plunder of our goods: that neither native nor foreigner should carry us off; and should he proceed to apply force, <lb n="620"/> any of the landholders that withheld his aid should suffer loss of rights together with public banishment. Such was the moving speech the King of the Pelasgians made in our behalf, with warning that the city never let the wrath of Zeus Petitionary wax fat in time hereafter; telling them that double defilement arising before the city—from strangers and citizens at once—was a food of suffering past help. Hearing these words, the Argive nation, without waiting for crier, decreed by uplifted hands that so it be. It was the <lb n="630"/> Pelasgian people that heard the eloquent periods of the speech, and Zeus that brought about the issue.</p></sp>
+<sp><speaker start-line="633" end-line="717">CHORUS OF DANAIDS</speaker><p>Come then, let us utter for the Argives blessings in requital of their blessings. And may Zeus of Strangers
+<pb n="137"/>
+watch to their fulfilment the rewards that issue from a stranger's tongue, that they reach their perfect goal.<ref n="137.1">1</ref></p>
+
+<note type="footnote" n="137.1">1 <foreign xml:lang="grc">τέρμον᾽ ἄμεμπτον προσαπαντᾶν</foreign> Tucker, after Salvinius and Weil.</note>
+<p>Now is the moment, O ye gods divine, to give ear unto my utterance of orisons for the race,</p>
+<p>That wanton Ares never with untunéd cry may set this Pelasgian land on fire,<ref n="137.2">2</ref>—Ares that reaps a human harvest <lb n="640"/> in strange fields:</p>
+
+<note type="footnote" n="137.2">2 This is the construction, but the emendation of the corrupted words is uncertain.</note>
+<p>Because they had compassion upon us, and passed a kindly vote, and have reverence for the petitioners of Zeus, this sorry flock of us,</p>
+<p>And refrained from scorning the women's cause and giving their vote upon the side of the males,</p>
+<p>Having regard to that avenging wrath of Zeus,<ref n="137.3">3</ref> so ill to <lb n="650"/> battle with, that no house would have upon the roof defiling it, for heavy doth it settle there:</p>
+
+<note type="footnote" n="137.3">3 <foreign xml:lang="grc">Δῖον ἐπιδόμενοι πράκτορά τοι κότον</foreign> for <foreign xml:lang="grc">πράκτορά τε σκοπὸν</foreign>. Tucker argues effectually against <foreign xml:lang="grc">Δῖον σκοπόν</foreign> of the MS. <foreign xml:lang="grc">κότον</foreign> is due to Bamberger for the use of <foreign xml:lang="grc">τοι</foreign> cf. Soph. <title>El.</title> 1469.</note>
+<p>For they revere their kin petitioners of holy Zeus; there- <lb n="660"/> fore with altars pure shall they win the favour of the gods.</p>
+<p>Therefore from our overshaded lips fly forth our zealous prayer:</p>
+<p>Never may pestilence empty this city of her men, nor quarrel stain her soil with blood of native bodies:</p>
+<p>But unculled be the flower of her youth, nor havoc-dealing Ares, the paramour of Aphrodite, crop their bloom.</p>
+<lb n="670"/>
+<p>And let the altar-steps that receive the elders<ref n="137.4">4</ref> be thronged with reverend . . . .<ref n="137.5">5</ref></p>
+
+<note type="footnote" n="137.4">4 So Paul. Silent. <title>Ambo</title> 217 has <foreign xml:lang="grc">ἀνδροδόκων βωμῶν</foreign>.</note>
+
+<note type="footnote" n="137.5">5 <foreign xml:lang="grc">καὶ γεραροῖσι πρεσβυτοδόκοι &lt;...&gt; θυμέλαι φλεόντων</foreign>. Some substantive has been ousted by <foreign xml:lang="grc">γεμόντων</foreign>, a gloss on <foreign xml:lang="grc">φλεόντων</foreign> (Hermann).</note>
+<pb n="138"/>
+<p>Thus may the state be ordered well, if they duly worship <lb n="680"/> mighty Zeus, and Zeus of Strangers above all, who upholdeth right by ancient law.</p>
+<p>And tribute of the earth be brought forth ever new, we pray; and Artemis the Archeress watch over the child-bed of their women.</p>
+<p>Nor any murderous havoc come upon this land to ravage it,</p>
+<p>By arming Ares, the parent of tears, that fits not harp or <lb n="690"/> hymn, and the shout of war within their borders.</p>
+<p>And the loathéd swarm of diseases settle far from the burghers' head, and to all their young folk Lyceus<ref n="138.1">1</ref> be propitious.</p>
+<p>And Zeus grant the land to yield her due of fruit with produce in all seasons,</p>
+<p>And may their grazing cattle prove prolific, and by grace <lb n="700"/> of heaven may they flourish<ref n="138.2">2</ref> altogether.</p>
+<p>May bards offer hymns of praise upon their altars,<ref n="138.3">3</ref> and forth from pure lips be uttered harp-attended song.</p>
+<p>May the rights of the citizens be guarded well<ref n="138.4">4</ref> by the popular power that controls the state, a prudent government with careful conference of counsel; and to strangers, <lb n="710"/> before appeal to arms, may they grant easy arbitration without suffering.</p>
+<p>And the Gods who keep the land may they worship ever with the country's worship of laurel borne and oxen offered which their fathers used—for the honour of parents, that is
+
+<note type="footnote" n="138.1">1 Apollo in his character of Destroyer.</note>
+
+<note type="footnote" n="138.2">2 <foreign xml:lang="grc">θάλοιεν</foreign> Hermann.</note>
+
+<note type="footnote" n="138.3">3 Or 'raise anthems at the altars.'</note>
+
+<note type="footnote" n="138.4">4 <foreign xml:lang="grc">φυλάσσοι δ' εὖ τὰ τίμι' ἀστοῖς τὸ δήμιον</foreign>: the citizens are necessarily mentioned as contrasted with the foreigners. <foreign xml:lang="grc">τὰ τίμια</foreign> are synonymous with <foreign xml:lang="grc">τιμαί</foreign> or <foreign xml:lang="grc">γέρα</foreign> (<foreign xml:lang="grc">γέρα: τὰ τίμια</foreign> Hesych., <foreign xml:lang="grc">τίμιον γέρας</foreign> v. 997): see L. <bibl>Dindorf in Steph. <title>Thesaur.</title></bibl> s.v. <foreign xml:lang="grc">τίμιον</foreign>. (<foreign xml:lang="grc">τιμὰς</foreign> in the MS. was a marginal gloss.) <foreign xml:lang="grc">ἀστοῖς</foreign> is due to Bergk and <foreign xml:lang="grc">δ' εὖ</foreign> to Wecklein; <foreign xml:lang="grc">δέ</foreign> is required to begin the new paragraph.</note>
+<pb n="139"/>
+written third among the commandments of Heaven's highest-honoured Law.<ref n="139.1">1</ref></p></sp>
+
+
+
+
+<sp><speaker start-line="718" end-line="741">DANAUS</speaker><p>Dear children, I commend these well-judged prayers; but you must not be alarmed to hear the unexpected news your father has to tell:—from this high <lb n="720"/> sanctuary, my conning-place, I see the vessel; it is distinct. Plain to me is the trimming of the sail and fending along the bulwarks, and the prow eyeing her way forward, obeying the rudder, that guides her at the ship's extremity, too well for those she is not friendly to<ref n="139.2">2</ref>! And clear to view are seamen with swarthy limbs showing from white raiment. And the rest of the craft and all their armament are fully visible; and the leader has furled her sail and is approaching <lb n="730"/> shore rowed by all hands. Now you must face the matter with calm and orderly behaviour and not be unmindful of these divinities. I will come back presently with helpers and champions of our cause, for perchance a herald or mission may arrive, intending to lay hands on plunder and carry off—but there will be nought of this, have ye no fear of it. Still, it were better for you, should we be slow in succour, never for a moment to forget your means of safety here. Fear not, in good time and at the day appointed the <lb n="740"/> contemner of heaven shall be punished.</p></sp>
+<sp><speaker start-line="742" end-line="746">CHORUS OF DANAIDS</speaker><p>Father, I am afraid, with so swift wings the ships are coming, and there is no space of time before us.<ref n="139.3">3</ref></p>
+<p>I am possessed of a truth by quaking dread whether there is any use at all in our long flight. I am undone, father, with terror.</p></sp>
+
+
+<note type="footnote" n="139.1">1 That is 'Let them observe the three great commandments,' second here among which is 'Obey the laws of the land.' It is indicated by the epithet <foreign xml:lang="grc">ἐγχωρίοις</foreign>, while the transition to the third is made by <foreign xml:lang="grc">γάρ</foreign>, which refers to <foreign xml:lang="grc">πατρῴαις</foreign>. This artificial method is characteristic of the elaborate lyric style.</note>
+
+
+<note type="footnote" n="139.2">2 <foreign xml:lang="grc">τοῖσιν οὐ φίλη</foreign> Herwerden.</note>
+<note type="footnote" n="139.3">3 <quote xml:lang="lat">neque ullum in medio tempus.</quote></note>
+<pb n="140"/>
+
+
+<sp><speaker start-line="747" end-line="748">DANAUS</speaker><p>Since the Argives' vote is absolute, my children, fear not, they will fight for thee, I am very sure.</p></sp>
+<sp><speaker start-line="749" end-line="753">CHORUS OF DANAIDS</speaker><p>Abandoned are the ravening sons of Aegyptus and <lb n="750"/> athirst for battle, and you know it too. In ships with ribs of timber and dark eyes they have sailed hither in effectual rage, with a great and swarthy multitude!</p></sp>
+<sp><speaker start-line="754" end-line="755">DANAUS</speaker><p>Aye but they will find a many here with arms well fined<ref n="140.1">1</ref> under the heat of noonday.</p></sp>
+<sp><speaker start-line="756" end-line="760">CHORUS OF DANAIDS</speaker><p>But leave me not alone, I beseech thee, father! A woman left by herself is nought, there is no fighting in her.</p>
+<p>Cruel of heart<ref n="140.2">2</ref> and crafty of counsel, with wicked hearts, like ravens, recking nought of altars—</p></sp>
+<lb n="760"/>
+<sp><speaker start-line="761" end-line="762">DANAUS</speaker><p>That would suit us<ref n="140.3">3</ref> rarely, children, if they should incur the hate of heaven as well as thine!</p></sp>
+<sp><speaker start-line="763" end-line="767">CHORUS OF DANAIDS</speaker><p>They will never be so fearful, father, of these tridents and things sacred in the sight of heaven to refrain their hands from us.</p>
+<p>Quite overweening, ravening rash as hounds with wicked rage, with no understanding<ref n="140.4">4</ref> of the gods—</p></sp>
+<sp><speaker start-line="768" end-line="769">DANAUS</speaker><p>Yet is there a saying that wolves are better than hounds: the byblus-fruit outdoeth not the wheat-ear.</p></sp>
+<sp><speaker start-line="770" end-line="771">CHORUS OF DANAIDS</speaker><p>They have the passions of foul and violent mon-<lb n="770"/>sters; therefore must we guard against them speedily.<ref n="140.5">5</ref></p></sp>
+
+<note type="footnote" n="140.1">1 Rid of all superfluous flesh: Antyllus (<title>Stob. Flor.</title> 101. 16) <foreign xml:lang="grc">ὁ δὲ θερμὸς ἀὴρ σωμάτων δαπανητικός, ἰσχναίνων καὶ καταρρινῶν τὰ συγκρίματα· εὐτονίαν δὲ μᾶλλον καὶ εὐκινησίαν ἤπερ ὁ ψυχρὸς παρασκευάζει.</foreign></note>
+
+<note type="footnote" n="140.2">2 <foreign xml:lang="grc">οὐλόφρονες</foreign> Valckenaer. They are interrupted by Danaus, and again at 767.</note>
+
+<note type="footnote" n="140.3">3 Perhaps <foreign xml:lang="grc">ξυμφέροι γ' οὕτω, τέκνα</foreign> 'at that rate': cf. Ar. <title>Ran.</title> 1149 p. 435 Blaydes.</note>
+
+<note type="footnote" n="140.4">4 <foreign xml:lang="grc">ἔχοντας</foreign> Turnebus.</note>
+
+<note type="footnote" n="140.5">5 <foreign xml:lang="grc">τάχος</foreign> Tucker, taking <foreign xml:lang="grc">οὔτοι ταχεῖα</foreign> in the next line to be a reply to it. If <foreign xml:lang="grc">κράτος</foreign> is genuine, it may refer to <foreign xml:lang="grc">κρατεῖ</foreign> in v. 769: 'They are far more terrible than dogs, so they may overcome us' (Wecklein).</note>
+<pb n="141"/>
+<sp><speaker start-line="772" end-line="783">DANAUS</speaker><p>By no means is the despatch of a sea-force speedy, nor is anchorage, or the carrying ashore of the securing cables: even when at anchor,<ref n="141.1">1</ref> the shepherds of ships do not feel confidence forthwith, especially when they have come to a harbourless coast toward nightfall: when the sun is departing, night is wont to engender travail in the skilful pilot's mind. Thus a force cannot well be disembarked either, before the ship have gotten confidence in moorings. <lb n="780"/> Do thou be minded,<ref n="141.2">2</ref> as in terror, not to desert these gods; <add>I will presently return<ref n="141.3">3</ref></add> when I have secured assistance: the city shall find no fault with a messenger old in years but young in eloquent wit.</p><stage>[Exit.]</stage></sp>
+
+<note type="footnote" n="141.1">1 The punctuation, and consequently the exact rendering, of this passage is uncertain.</note>
+
+<note type="footnote" n="141.2">2 Hom. <title>h. Apoll.</title> 247, 258, 287, <title>Eum.</title> 989 <foreign xml:lang="grc">φρονοῦσιν εὑρίσκειν</foreign> (as it should be read).</note>
+
+<note type="footnote" n="141.3">3 Something to this effect has perished.</note>
+<sp><speaker start-line="784" end-line="831">CHORUS OF DANAIDS</speaker><p>O hilly land, most righteous object of our veneration,<ref n="141.4">4</ref> what is our fate to be? What quarter of the Apian land shall we take flight unto, if there is anywhere for us a dark hiding-place? O could I turn into black smoke, neighbouring the clouds of Zeus, and flying upwards without wings, vanish out of sight like dust and perish utterly!</p>
+
+<note type="footnote" n="141.4">4 <foreign xml:lang="grc">γᾶ βοῦνι, πάνδικον σέβας</foreign> (<foreign xml:lang="grc">βοῦνι</foreign> Dindorf, <foreign xml:lang="grc">πάνδικον</foreign> Paley).</note>
+<p>Fate can no longer be avoided<ref n="141.5">5</ref>; my heart is darkened <lb n="790"/> and quivering within me; my father's view hath overcome<ref n="141.6">6</ref> me; I am undone with fear. Fain would I meet my doom in a halter-noose before a loathéd man come near my body; sooner may I die and Hades be my master!</p>
+
+<note type="footnote" n="141.5">5 <foreign xml:lang="grc">ἀλυκτὸν δ'</foreign> (Hermann) <foreign xml:lang="grc">οὐκέτ' ἂν πέλοι &lt;τέλος&gt;</foreign></note>
+
+<note type="footnote" n="141.6">6 'convinced me,' cf. <title>Theb.</title> 81 <foreign xml:lang="grc">αἰθερία κόνις με πείθει . . ., ἕλε δὲ τᾶς ἐμᾶς πεδί' ὁπλόκτυπ' ὠτιχρίμπτῃ βοᾷ</foreign>.</note>
+<p>O for a seat somewhere in the heaven above, against <lb n="800"/> which watery clouds turn into snow, or some sheer, goat-free, uncommunionable,<ref n="141.7">7</ref> solitary beetling crag, some vul-
+<pb n="142"/>
+ture-haunted peak, assuring me a plunge into the depth, before I meet perforce with a wedlock that rends my heart.</p>
+
+<note type="footnote" n="141.7">7 <foreign xml:lang="grc">ἀπρόσμικτος</foreign> (Newman) or <foreign xml:lang="grc">ἀπρόσδερκτος</foreign> (Weil) is suitable; but I do not believe in the MS. <foreign xml:lang="grc">ἀπρόσδεικτος</foreign>, there is no such compound as <foreign xml:lang="grc">προσδείκνυμι</foreign>.</note>
+<p>Thereafter I refuse not to become a prey to dogs and a feast unto the fowls of the land; for death delivereth from <lb n="810"/> sorrow and sighing. Come death, befall me death before the marriage-bed! What way of escape can I yet find<ref n="142.1">1</ref> to deliver me from wedlock?</p>
+
+<note type="footnote" n="142.1">1 <foreign xml:lang="grc">ἀμφυγᾶς</foreign> (Weil after Hermann) <foreign xml:lang="grc">τίν' ἔτι πόρον</foreign>.</note>
+<p>Cry aloud with heaven-reaching voice strains of supplication to the gods: and do thou, O Father, see them prove effectual and releasing from our troubles,<ref n="142.2">2</ref> justly regarding <lb n="820"/> violence with unfriendly eyes,<ref n="142.3">3</ref> and show respect unto thy petitioners, O Zeus, almighty ruler of the earth.</p>
+
+<note type="footnote" n="142.2">2 I have given what appears to me the purport of these corrupted lines.</note>
+
+<note type="footnote" n="142.3">3 <foreign xml:lang="grc">μὴ φίλοις</foreign> (Lachmann) <foreign xml:lang="grc">ὁρῶν ὄμμασιν ἐνδίκως</foreign>, or <foreign xml:lang="grc">μὴ φίλως</foreign> (Marckscheffel) <foreign xml:lang="grc">ὁρῶν ὄμμασιν ἐνδίκοις</foreign> 'with just eyes regarding force unfavourably.'</note>
+<p>For the race of Aegyptus, male, in outrage loathsome, are pursuing me in flight with clamorous lewdness,<ref n="142.4">4</ref> and seek to get hold of me by force: but the beam of thy balance is universal; without thee nought on earth is brought to pass.</p></sp>
+<lb n="830"/>
+<stage>(Enter a Herald of the Egyptians.)</stage>
+<sp><speaker start-line="832" end-line="848">CHORUS OF DANAIDS</speaker><p><ref n="142.5">5</ref>Oh! oh! Here is the sea-pirate on the land! Ere that, thou pirate, mayst thou perish! . . . Alack, alack! Fly, fly for protection! Rough insolence doth he display past bearing on sea and land alike. O lord of the land, take post before us<ref n="142.6">6</ref>!</p></sp>
+
+<note type="footnote" n="142.4">4 The schol. took <foreign xml:lang="grc">μάταισι</foreign> to mean 'quest.'</note>
+
+<note type="footnote" n="142.5">5 The passage that follows (832-913) has suffered such mutilation and corruption as in many places to be past recovery. But the general effect of the scene is perfectly intelligible—terror and confusion on the women's part, rude and brutal humour on the herald's.</note>
+
+<note type="footnote" n="142.6">6 Perhaps <foreign xml:lang="grc">γαϊάναξ</foreign> in one word, as <foreign xml:lang="grc">ἱππιάνακτας</foreign> <title>Pers.</title> 999.</note>
+<pb n="143"/>
+<sp><speaker start-line="849" end-line="855">HERALD</speaker><p>Pack ye, pack to the boat at your feet's best <lb n="850"/> pace! Very well, then, plucking of hair and pricking with goad, cutting off of the head with blood! Pack ye, pack with a plague upon you to the vessel!</p></sp>
+<sp><speaker start-line="856" end-line="859">CHORUS OF DANAIDS</speaker><p>O on your briny course over the great flood that you had perished with your imperious arrogance and your rivetted barque!</p></sp>
+<sp><speaker start-line="860" end-line="865">HERALD</speaker><p>With a bloody head to the vessel will I—what <lb n="860"/> meanest, with thy pounding and shrieking and shout? I tell you, give o'er your clamours, for why? they are but a vain deceit.<ref n="143.1">1</ref> Away! Leave the sanctuary and be off to the boat! I care nothing for one without honour or city.<ref n="143.2">2</ref></p></sp>
+
+<note type="footnote" n="143.1">1 <foreign xml:lang="grc">αἵμον' ἐγώ σ' ἐπ' ἀμίδα—τί σύ, δουπίαχαπύτα; κέλομαι βοᾶν μεθέσθαι (τί γάρ;) φρεναπατᾶν</foreign> is my restoration of the MS. <foreign xml:lang="grc">αἵμονες ὡς ἐπάμιδα ησυδουπιατάπιτα κελεύω, βίᾳ, μεθέσθαι ἴχαρ φρενί τ' ἄταν</foreign>. The meaning of <foreign xml:lang="grc">δοῦπος</foreign> in the compound <foreign xml:lang="grc">δουπ-ιαχ-απύτα</foreign> is the noise made in beating the breast: cf. Soph. <title>Aj.</title> 630, Eur. <title>Alc.</title> 106.</note>
+
+<note type="footnote" n="143.2">2 <foreign xml:lang="grc">ἀτίετον ἄπολιν</foreign> (Peiper) <foreign xml:lang="grc">οὐ σέβω</foreign> (Butler). <bibl>Hom. <title>Il.</title> 9.648</bibl>, <bibl>16.59</bibl> <quote xml:lang="grc">ὡς εἴ τιν' ἀτίμητον μετανάστην</quote>.</note>
+<sp><speaker start-line="866" end-line="877">CHORUS OF DANAIDS</speaker><p>Never again may I behold the oxen-fattening water, whence grows and thrives for mankind the blood of life!</p>
+<p>I am a native, of old nobility, of a deep, deep-soiled <lb n="870"/> land,<ref n="143.3">3</ref> old man.</p></sp>
+
+<note type="footnote" n="143.3">3 <foreign xml:lang="grc">ἔγγαιος ἐγὼ βαθυχάϊος βαθείας, βαθείας, γέρον</foreign>. I take <foreign xml:lang="grc">βαθρείας</foreign> to have arisen from <foreign xml:lang="grc">βαθείας</foreign>, the <foreign xml:lang="grc">ρ</foreign> meaning a v.l. <foreign xml:lang="grc">βαρείας</foreign>: and <foreign xml:lang="grc">ἔγγειος</foreign> (as the word is usually spelt) is an easy alteration of <foreign xml:lang="grc">γαιος</foreign>.</note>
+<sp><speaker start-line="872" end-line="877">HERALD</speaker><p>Aye but on shipboard, on shipboard shall you presently go, willy-nilly, by force, by force . . . with desperate hands.<ref n="143.4">4</ref></p></sp>
+<sp><speaker start-line="878" end-line="883">CHORUS OF DANAIDS</speaker><p>Alack, alack! So may you perish desperately,
+<pb n="144"/>
+driven out of your course over the ocean-mead<ref n="144.1">1</ref> by east<ref n="144.2">2</ref> <lb n="880"/> winds off the sandy foreland of Sarpedon!</p></sp>
+
+<note type="footnote" n="143.4">4 <foreign xml:lang="grc">ὀλομέναις παλάμαις</foreign> Turnebus. The Herald mocks the iteration of their words.</note>
+
+<note type="footnote" n="144.1">1 A lyric phrase, as <foreign xml:lang="grc">πόντιον ἄλσος</foreign> Bacchylid. xvii. 84, Aesch. <title>Pers.</title> 111.</note>
+
+<note type="footnote" n="144.2">2 <foreign xml:lang="grc">Εὐρείαισιν αὔραις</foreign> Paley. The particular wind responsible is often named, e.g. <title>A. P.</title> vii. 273, 500, 501, Aesch. <title>Ag.</title> 696, Pind. <title>N.</title> vii. 29, <title>P.</title> iv. 203, Bacchylid. xvii. 6, 91.</note>
+<sp><speaker start-line="884" end-line="886">HERALD</speaker><p>You may wail and howl and call on heaven—for you will not overleap the Egyptian boat—more sorely than Achaeans that bear the name of ache<ref n="144.3">3</ref>!</p></sp>
+<sp><speaker start-line="887" end-line="892">CHORUS OF DANAIDS</speaker><p>. . .<ref n="144.4">4</ref> thou art overblown . . . may the mighty Nile that . . . overwhelm thine insolence!</p></sp>
+
+<note type="footnote" n="144.3">3 [<foreign xml:lang="grc">ἴυζε καὶ βόα</foreign>] <foreign xml:lang="grc">πικρότερ' Ἀχαιῶν οἰζύος φερωνύμων</foreign> is my conjecture (cf. <bibl>Ar. <title>Thesm.</title> 648</bibl>). The schol. read <foreign xml:lang="grc">Ἀχαιῶν</foreign>, and <foreign xml:lang="grc">ὄνομ' ἔχων</foreign> I suppose a corruption of <foreign xml:lang="grc">ὄνομα ἐχόντων</foreign>, itself a gloss on <foreign xml:lang="grc">φερωνύμων</foreign>.— Similarly the title <foreign xml:lang="grc">Ἀχαία</foreign> of Demeter was popularly referred to <foreign xml:lang="grc">ἄχος</foreign>, her sorrow for her daughter.</note>
+
+<note type="footnote" n="144.4">4 Robinson Ellis conjectures that in <foreign xml:lang="grc">περιχαμπτὰ</foreign> is concealed <foreign xml:lang="grc">χάμψα</foreign> 'a crocodile.'</note>
+<lb n="890"/>
+<sp><speaker start-line="893" end-line="895">HERALD</speaker><p>Go, I tell you, to the reversing boat with all speed; let there be no loitering, for haling hath no reverence at all for locks of hair.</p></sp>
+<sp><speaker start-line="896" end-line="903">CHORUS OF DANAIDS</speaker><p>O, father! . . .<ref n="144.5">5</ref> he is carrying me a-march like a spider off to sea, a black, black nightmare!</p>
+<p>O Mother Earth, drive him away fearful by thine aid<ref n="144.6">6</ref>! <lb n="900"/> O son of Earth, King Zeus!</p></sp>
+
+<note type="footnote" n="144.5">5 <foreign xml:lang="grc">βρετεοσάρος</foreign> could mean 'an image-sweeper'; but words are probably lost between <foreign xml:lang="grc">α</foreign> and <foreign xml:lang="grc">ρος</foreign>.</note>
+
+<note type="footnote" n="144.6">6 <foreign xml:lang="grc">βοᾷ</foreign> Hermann.</note>
+<sp><speaker start-line="904" end-line="905">HERALD</speaker><p>I am not fearful at all of the gods here, for they did not nurture me, nor should I have reached old age<ref n="144.7">7</ref> upon their nurture!</p></sp>
+<sp><speaker start-line="906" end-line="913">CHORUS OF DANAIDS</speaker><p>Ravening near me comes this human serpent; like a viper, or what venomous monster shall I call him?—is carrying me off by force!<ref n="144.8">8</ref>
+<pb n="145"/>
+O Mother Earth, drive him away fearful by thine aid! <lb n="910"/> O son of Earth, King Zeus!</p></sp>
+
+<note type="footnote" n="144.7">7 <foreign xml:lang="grc">οὐδ' ἐγήρασ' ἂν</foreign> Peiper.</note>
+
+<note type="footnote" n="144.8">8 <quote xml:lang="grc"><l>ἔχιδνα δ' ὥς με <add>φόνιος ἢ</add></l> <l>τί ποτέ ν<add>ιν καλῶ</add></l> <l>δάκος; ἄγ<add>ει βίᾳ</add>.</l></quote></note>
+<sp><speaker start-line="914" end-line="915">HERALD</speaker><p>Unless ye go resignedly to the ship, rending shall have no mercy on your garment's work.</p></sp>
+<sp><speaker start-line="916" end-line="916">CHORUS OF DANAIDS</speaker><p>Ho, chiefs and leaders of the city, I am suffering violence!</p></sp>
+<sp><speaker start-line="917" end-line="918">HERALD</speaker><p>Lords in plenty shall you presently see in the sons of Aegyptus; never fear, you will not speak of lack of government.<ref n="145.1">1</ref></p></sp>
+<sp><speaker start-line="919" end-line="919">CHORUS OF DANAIDS</speaker><p>We are undone! O King, we are being dealt with sinfully<ref n="145.2">2</ref>!</p></sp>
+<sp><speaker start-line="920" end-line="921">HERALD</speaker><p>I shall have to hale you off by<ref n="145.3">3</ref> the hair, it <lb n="920"/> seems, since ye are not quick of hearing when I speak.</p></sp>
+
+<note type="footnote" n="145.1">1 Heath suggested that this and the succeeding distich of the Herald should change places, thus making <foreign xml:lang="grc">πολλοὺς ἄνακτας</foreign> have reference to <foreign xml:lang="grc">ἄναξ</foreign>.</note>
+
+<note type="footnote" n="145.2">2 <foreign xml:lang="grc">ἄσεπτ'</foreign> Tucker.</note>
+
+<note type="footnote" n="145.3">3 <foreign xml:lang="grc">ἐπισπάσας κόμης</foreign> Pierson: <foreign xml:lang="grc">ἀποσπάσας</foreign> would mean 'dragging from.'</note>
+<stage>(Enter KING.)</stage>
+<sp><speaker start-line="922" end-line="926">PELASGUS</speaker><p>Sirrah, what doest thou? With what imagination set you thus at nought this city of Pelasgian men? Or think you, peradventure, it is a land of women you have come to? Your bearing is over haughty for an outlander toward Greeks; and you have made many misses and no hits.</p></sp>
+<sp><speaker start-line="927" end-line="927">HERALD</speaker><p>And what herein has wrongfully been done amiss?</p></sp>
+<sp><speaker start-line="928" end-line="928">PELASGUS</speaker><p>First, you know not how to demean yourself as a foreigner.</p></sp>
+<sp><speaker start-line="929" end-line="929">HERALD</speaker><p>I know not? How, when I find what I had lost?</p></sp>
+<sp><speaker start-line="930" end-line="930">PELASGUS</speaker><p>After notice given to what patrons in the country?</p></sp>
+<lb n="930"/>
+<sp><speaker start-line="931" end-line="931">HERALD</speaker><p>To the greatest of patrons—Hermes the Searcher.</p></sp>
+<sp><speaker start-line="932" end-line="932">PELASGUS</speaker><p>To gods; yet show you no reverence to those same.</p></sp>
+<sp><speaker start-line="933" end-line="933">HERALD</speaker><p>It is the deities about the Nile whom I revere.</p></sp>
+<pb n="146"/>
+<sp><speaker start-line="934" end-line="934">PELASGUS</speaker><p>And those here are nothing, as I understand thee?</p></sp>
+<sp><speaker start-line="935" end-line="935">HERALD</speaker><p>I shall carry these girls off, unless any choose to take them from me.</p></sp>
+<sp><speaker start-line="936" end-line="936">PELASGUS</speaker><p>Thou shalt smart for it if thou lay finger on them, and that very soon.</p></sp>
+<sp><speaker start-line="937" end-line="937">HERALD</speaker><p>I hear; it is not a hospitable answer.</p></sp>
+<sp><speaker start-line="938" end-line="938">PELASGUS</speaker><p>I show not hospitality to robbers of the gods.</p></sp>
+<sp><speaker start-line="939" end-line="939">HERALD</speaker><p>I will go and tell this to the sons of Aegyptus.</p></sp>
+<sp><speaker start-line="940" end-line="940">PELASGUS</speaker><p>That is no concern to my mind.</p></sp>
+<sp><speaker start-line="941" end-line="948">HERALD</speaker><p>But that I may speak by knowledge in plainer terms—for it is a herald's duty to give a clear account in all particulars—what am I to say? Who may I report has taken from me the women-folks, their cousins<ref n="146.1">1</ref>? 'Tis not by the mouths of witnesses that Ares judgeth in such case; not in the receipt of silver doth he settle the dispute, but first there comes to pass full many a fall of man and shuffling-off of life.</p></sp>
+<sp><speaker start-line="949" end-line="960">PELASGUS</speaker><p>Why should I tell thee my name? Thou shalt <lb n="950"/> learn it in good season, both thou and thy companions. These maidens now, if they choose of their good will, you may take away—should they be prevailed upon by lawful argument. To such effect is the people's vote resolved unanimously by the state, never to surrender this band of women under force: through that the rivet has been driven clean, to keep it fast unalterably. It is not inscribed on tablets, this, or sealed up within the leaves of books, but you hear it plainly from outspoken lips. Get thee now straightway from my sight!</p></sp>
+<sp><speaker start-line="961" end-line="962">HERALD</speaker><p>We are like, it seems, to involve ourselves in <lb n="960"/> war. Be victory and triumph with the males!</p></sp>
+<sp><speaker start-line="963" end-line="976">PELASGUS</speaker><p>Oh, males you will find in the people of this country; no drinkers of barley-mead.</p>
+    <p>You now, take courage all of you and proceed with your own 
+    
+<note type="footnote" n="146.1">1 Weil supposes a lacuna here.</note>
+    <pb n="147"/>
+    
+    handmaidens to the strong city locked with bastions of profound device. And houses are there, public in abundance, and I am housed myself on no illiberal scale: where you may share ready abodes with company, or if it be more <lb n="970"/> to your pleasure, you are free to dwell in single-fashioned<ref n="147.1">1</ref> houses. Choose herein—you are free—what is best and most to your liking: I am your protector, and the citizens all, whose will this is we are fulfilling. What higher authority need you wait for?</p></sp>
+
+
+<sp><speaker start-line="977" end-line="989">CHORUS OF DANAIDS</speaker><p>O filled be thou with blessings, noble king of the Pelasgians, for thy blessings done to us! But prithee send hither our brave father Danaus, our adviser and leader of <lb n="980"/> our counsels; for precedence belongs to his consideration where we should make our abode and what region is agreeable. Every tongue is ready to cast reproach on foreigners; but may the best befall! With good report and unresentful language from the people<ref n="147.2">2</ref> take up your stations<ref n="147.3">3</ref> handmaids, according as Danaus allotted her portion of retinue in each daughter's case.</p></sp>
+
+<stage>(The handmaids take their places by their mistresses. Enter DANAUS with a body-guard.)</stage>
+<sp><speaker start-line="990" end-line="1024">DANAUS</speaker><p>My children, we should offer to the Argives prayer <lb n="990"/> and sacrifice and libation as to Olympian gods, for they are saviours absolutely! The behaviour of cousins towards their own relations they heard from me with indignation against them,<ref n="147.4">4</ref> and to me assigned this retinue of spearmen,
+
+
+<note type="footnote" n="147.1">1 <foreign xml:lang="grc">μονορρύθμους = μονοτρόπους</foreign>: cf. <foreign xml:lang="grc">ἰδιόρρυθμοι )( κοινοβιακοί, ἑτερόρρυσμος, ὁμόρρυσμος</foreign>.</note>
+
+    
+<note type="footnote" n="147.2">2 Perhaps there has been something lost here.</note>
+
+<note type="footnote" n="147.3">3 I conjecture <foreign xml:lang="grc">ἐνὶ χώρᾳ τάσσεσθε</foreign>.</note>
+
+<note type="footnote" n="147.4">4 <foreign xml:lang="grc">αὐτανεψίοις</foreign> is constructed with <foreign xml:lang="grc">πικρῶς</foreign> and so placed in order to emphasise the antithesis <foreign xml:lang="grc">ἐμοὶ δέ</foreign>: the simple form of the sentence would be <foreign xml:lang="grc">τὰ μὲν ὑπὸ τῶν αὐτανεψίων πρὸς τοὺς ἐγγενεῖς φίλους πραχθέντα πικρῶς ἤκουσαν</foreign>, . . .</note>
+
+<pb n="148"/>
+that I might have rank and honour, and might not suddenly fall unawares by the death of the spear, and so an ever-living burden come upon the land. Recipients of such <lb n="1000"/> boons should hold gratitude in reverence at the helm of the mind. . . . This precept also add to your father's many others recorded in your memory, that unknown company may be proved by time. In an alien's case every one bears an evil tongue in readiness, and to utter an expression of disgust comes easy. My charge to you is to bring no shame upon me, with your bloom so attractive to men's eyes. Ripe tender fruit is not easy to protect; mankind, of course, ruin (it) as much as beasts [and brutes that fly and <lb n="1010"/> that walk upon the earth:] . . . Cypris . . . proclaims open to desire<ref n="148.1">1</ref>: and so every man in passing darts under the influence of desire a seductive arrow of the eye at the dainty loveliness of virgins. See therefore that we suffer not that for cause whereof all that labour (was endured) and all that ocean furrowed by our barque, and that we work not shame to ourselves and pleasure to our enemies. Habitation is before us of twain sort, the one offered by <lb n="1020"/> Pelasgus and the other by the city, to inhabit without rent: these are easy terms. Only observe these your father's charges, valuing chastity more than life itself.</p></sp>
+
+<sp><speaker start-line="1025" end-line="1084">CHORUS OF DANAIDS</speaker><p>In all else may the gods of Olympus grant us fortune! but for my bloom, father, thou needst have no fear; for unless some harm has been designed by heaven, my mind shall not swerve from her former path.</p>
+<p>Come away now to glorify the blessed city-lords,<ref n="148.2">2</ref> both
+
+
+<note type="footnote" n="148.1">1 Not only the words, but the punctuation and construction of this passage are uncertain. I suspect that <foreign xml:lang="grc">καρπώματα</foreign> should be <foreign xml:lang="grc">κηπεύματα</foreign>, 'gardens' cultivated by irrigation, as <foreign xml:lang="grc">καρπεύματα</foreign> has been altered to <foreign xml:lang="grc">κηπεύματα</foreign> in another case by Hermann (<title>Opusc.</title> i. p. 55). <foreign xml:lang="grc">ἀνθωσμένην ἐρῶ</foreign> I have little doubt should be <foreign xml:lang="grc">ἀνεωγμέν' ἱμέρῳ</foreign> (<foreign xml:lang="grc">ἀνεωγμένην</foreign> had been conjectured by Tucker).</note>
+
+<note type="footnote" n="148.2">2 Tucker plausibly conjectures <foreign xml:lang="grc">ἴτε μὰν ἄστυδ', ἄνακτας</foreign> 'go ye citywards.'</note>
+
+<pb n="149"/>
+the keepers of the town and them that dwell about the <lb n="1030"/> ancient stream of Erasinus.</p>
+
+<p>And ye handmaids, take up the strain, and let this the Pelasgians' country be the subject of our praise, and no more let the homage of our hymns be paid to the outpourings of the Nile:</p>
+<p>But to the rivers that through this country pour their gentle draught and give it increase, with their rich flood solacing her soil.</p>
+<lb n="1040"/>
+<p>And may pure Artemis look with compassion on this band, and marriage never come through constraint of Cytherea: that prize be the portion of my enemies!</p>
+<p>Yet is not Cypris disregarded by this friendly hymn; she shares with Hera power nearest removed from Zeus; and in august rites is the subtle-witted goddess honoured:</p>
+<p>And leagued in their Mother's company are Desire and <lb n="1050"/> she to whom nothing is denied, winning Persuasion; also upon Harmonia hath been bestowed a share in Aphrodite,<ref n="149.1">1</ref> and (upon) the whispering dalliance of the Loves.</p>
+<p>But for the fugitives I have boding fears of vengeance yet<ref n="149.2">2</ref> and sore distress and bloody war:—what means it that they have effected a successful voyage in swiftly-sped pursuit?</p>
+<p>What is fated, that will come to pass. The mighty untranscended will of Zeus may not be overstepped: may <lb n="1060"/> this marriage prove as in many other women's case before us!<ref n="149.3">3</ref></p>
+<p>May mighty Zeus defend me from wedlock with Aegyptus' race!</p>
+<p>That would be best; but thou wouldst move the immoveable.</p>
+
+<note type="footnote" n="149.1">1 Eur. <title>Bacch.</title> 295 <foreign xml:lang="grc">Ἄρεώς τε μοῖραν μεταλαβὼν ἔχει τινά</foreign>. Tucker, who has a good note.</note>
+
+<note type="footnote" n="149.2">2 <foreign xml:lang="grc">φυγάδεσσιν δ' ἔτι ποινὰς</foreign> Burges.</note>
+
+<note type="footnote" n="149.3">3 <foreign xml:lang="grc">μετὰ πολλῶν . . . προτέρων . . . γυναικῶν</foreign>: so e.g. Hdt. vi. 68, Eur. <title>Hipp.</title> 441, 830, Plat. <title>Gorg.</title> 521 D.</note>
+<pb n="150"/>
+<p>And thou knowest not what shall be!</p>
+<p>Why how should I discern the mind of Zeus, a sight unfathomable? Prithee let the words of thy prayer be <lb n="1070"/> moderate!</p>
+<p>What limit<ref n="150.1">1</ref> is this I am to learn?</p>
+<p>To observe the Nought too much<ref n="150.2">2</ref> in things of heaven.</p>
+<p>May Zeus the Lord spare me from cruel wedlock with a hated man, even as with healing hand he delivered Io again from her affliction, after making her possessed<ref n="150.3">3</ref> by kindly force:</p>
+<p>And award the victory to the women!<ref n="150.4">4</ref> I am content with <lb n="1080"/> that which is better than bad, with two parts out of three<ref n="150.5">5</ref>; content that by means of deliverance from heaven (conflicting) rights, in accordance with my prayers, should go the way of righteousness.<ref n="150.6">6</ref></p></sp>
+
+<note type="footnote" n="150.1">1 <foreign xml:lang="grc">καιρός</foreign> is the 'right point' of time or place, and hence is often synonymous as here with <foreign xml:lang="grc">μέτρον</foreign>.</note>
+
+<note type="footnote" n="150.2">2 <foreign xml:lang="grc">μηδὲν ἄγαν</foreign>: the verb is formed as <foreign xml:lang="grc">λιάζειν</foreign> from <foreign xml:lang="grc">λίαν</foreign>.</note>
+
+<note type="footnote" n="150.3">3 <foreign xml:lang="grc">ὥσπερ Ἰὼ πημονᾶς ἐλύσατ' αὖ χειρὶ παιωνίᾳ, κατάσχετον εὐμενεῖ βίᾳ κτίσας</foreign>, where <foreign xml:lang="grc">ὥσπερ</foreign> for <foreign xml:lang="grc">ὅσπερ</foreign> is Auratus' correction, <foreign xml:lang="grc">αὖ</foreign> for <foreign xml:lang="grc">εὖ</foreign> is mine, and <foreign xml:lang="grc">κατάσχετον</foreign> for <foreign xml:lang="grc">κατασχέθων</foreign> was restored by Weil. He took it to mean 'stayed from her distress'; but elsewhere it is a synonym of <foreign xml:lang="grc">κατάσχετος</foreign>, and so I have translated it, referring it to Io's condition before she was restored again to her human form—the aorist participle <foreign xml:lang="grc">κτίσας</foreign> having thus the same value as in Soph. <title>Aj.</title> 675 <foreign xml:lang="grc">λύει πεδήσας</foreign>.</note>
+
+<note type="footnote" n="150.3">The drift is 'May this only be a temporary trial; may Zeus, after subjecting us to all this tribulation, set us free again, and refrain from inflicting upon us finally the union we abhor.' <foreign xml:lang="grc">ἀποστεροίη</foreign> is 'withhold.'</note>
+
+<note type="footnote" n="150.4">4 So Weil, rightly. 'I am content so long as the balance of fortune be ever so little on the right side.'</note>
+
+<note type="footnote" n="150.5">5 <foreign xml:lang="grc">τὸ δίμοιρον</foreign> is 'the ratio 2:1,' as <foreign xml:lang="grc">διμοιρία</foreign> = ⅔, <foreign xml:lang="grc">τὰ δύο μέρη</foreign>.</note>
+
+<note type="footnote" n="150.6">6 <title>Cho.</title> 307, 460.</note>
+
+</div>
+</body>
+</text>
+</TEI>
