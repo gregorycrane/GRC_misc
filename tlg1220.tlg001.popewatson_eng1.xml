@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <text>
+    <body>
+      <div>
+        <pb n="398"/>
+        <head>BATTLE OF THE FROGS AND MICE.</head>
+        <head>DRAMATIS PERSONAE.</head>
+        <table>
+          <row>
+            <cell>NAMES OF THE MICE.</cell>
+            <cell>NAMES OF THE FROGS.</cell>
+          </row>
+          <row>
+            <cell>Psicharpax, one who plunders granaries.</cell>
+            <cell>Physignathus, one who swells his cheeks.</cell>
+          </row>
+          <row>
+            <cell>Troxartes, a bread-eater.</cell>
+            <cell>Peleus, a name from mud.</cell>
+          </row>
+          <row>
+            <cell>Lychomyle, a licker of meal.</cell>
+            <cell>Hydromeduse, a ruler in the waters.</cell>
+          </row>
+          <row>
+            <cell>Pternotroctas, a bacon-eater.</cell>
+            <cell>Hypsiboas, a loud bawler.</cell>
+          </row>
+          <row>
+            <cell>Lichopinax, a licker of dishes.</cell>
+            <cell>Pelion, from mud.</cell>
+          </row>
+          <row>
+            <cell>Embasichytros, a creeper into pots.</cell>
+            <cell>Seutlæus, called from the beets.</cell>
+          </row>
+          <row>
+            <cell>Lichenor, a name from licking.</cell>
+            <cell>Polyphonus, a great babbler.</cell>
+          </row>
+          <row>
+            <cell>Troglodytes, one who runs into holes.</cell>
+            <cell>Limnocharis, one who loves the lake.</cell>
+          </row>
+          <row>
+            <cell>Artophagus, who feeds on bread.</cell>
+            <cell>Crambophagus, cabbage-eater.</cell>
+          </row>
+          <row>
+            <cell>Tyroglyphus, a cheese-scooper.</cell>
+            <cell>Limnisius, called from the lake.</cell>
+          </row>
+          <row>
+            <cell>Pternoglyphus, a bacon-scooper.</cell>
+            <cell>Calaminthius, from the herb.</cell>
+          </row>
+          <row>
+            <cell>Pternophagus, a bacon-eater.</cell>
+            <cell>Hydrocharis, who loves the water.</cell>
+          </row>
+          <row>
+            <cell>Cnissodioctes, one who follows the steam of kitchens.</cell>
+            <cell>Borborocetes, who lies in the mud.</cell>
+          </row>
+          <row>
+            <cell>Sitophagus, an eater of wheat.</cell>
+            <cell>Prassophagus, an eater of garlic.</cell>
+          </row>
+          <row>
+            <cell>Meridarpax, one who plunders his share.</cell>
+            <cell>Pelusius, from mud.</cell>
+          </row>
+          <row>
+            <cell> </cell>
+            <cell>Pelobates, who walks in the dirt.</cell>
+          </row>
+          <row>
+            <cell> </cell>
+            <cell>Prassæus, called from garlic.</cell>
+          </row>
+          <row>
+            <cell> </cell>
+            <cell>Craugasides, from croaking.</cell>
+          </row>
+        </table>
+        <head>BOOK I.</head>
+        <l n="1">To fill my rising song with sacred fire,</l>
+        <l n="2">Ye tuneful nine, ye sweet celestial quire!</l>
+        <l n="3">From Helicon's imbowering height repair,</l>
+        <l n="4">Attend my labours, and reward my prayer.</l>
+        <l n="5">The dreadful toils of raging Mars I write,</l>
+        <l n="6">The springs of contest and the fields of fight;</l>
+        <l n="7">How threatening mice advanc'd with warlike grace,</l>
+        <l n="8">And wag'd dire combats with the croaking race.</l>
+        <l n="9">Not louder tumults shook Olympus' towers,</l>
+        <l n="10">When earth-born giants dared immortal powers.</l>
+        <l n="11">These equal acts an equal glory claim,</l>
+        <l n="12">And thus the Muse records the tale of fame.</l>
+        <pb n="399"/>
+        <l n="13">Once on a time, fatigued and out of breath,</l>
+        <l n="14">And just escaped the stretching claws of death,</l>
+        <l n="15">A gentle mouse, whom cats pursued in vain,</l>
+        <l n="16">Flies swift of foot across the neighbouring plain,</l>
+        <l n="17">Hangs o'er a brink, his eager thirst to cool,</l>
+        <l n="18">And dips his whiskers in the standing pool:</l>
+        <l n="19">When near a courteous frog advanc'd his head,</l>
+        <l n="20">And from the waters, hoarse resounding, said,</l>
+        <sp>
+          <speaker>Physignathus</speaker>
+          <l n="21">'What art thou, stranger? what the line you boast?</l>
+          <l n="22">'What chance hath cast thee panting on our coast?</l>
+          <l n="23">'With strictest truth let all thy words agree,</l>
+          <l n="24">'Nor let me find a faithless mouse in thee.</l>
+          <l n="25">'If worthy friendship, proffer'd friendship take,</l>
+          <l n="26">'And ent'ring view the pleasurable lake:</l>
+          <l n="27">'Range o'er my palace, in my bounty share,</l>
+          <l n="28">'And glad return from hospitable fare.</l>
+          <l n="29">'This silver realm extends beyond my sway,</l>
+          <l n="30">'And me, their monarch, all its frogs obey.</l>
+          <l n="31">'Great Physignathus I, from Peleus' race,</l>
+          <l n="32">'Begot in fair Hydromeduse' embrace,</l>
+          <l n="33">'Where by the nuptial bank that paints his side,</l>
+          <l n="34">'The swift Eridanus delights to glide.</l>
+          <l n="35">'Thee too, thy form, thy strength, and port proclaim</l>
+          <l n="36">'A sceptred king; a son of martial fame :</l>
+          <l n="37">'Then trace thy line, and aid my guessing eyes.'</l>
+        </sp>
+        <l n="38">Thus ceas'd the frog, and thus the mouse replies:</l>
+        <sp>
+          <speaker>Psicharpax</speaker>
+          <l n="39">'Known to the gods, the men, the birds that fly,</l>
+          <l n="40">'Through wild expanses of the midway sky,</l>
+          <l n="41">'My name resounds; and if, unknown to thee,</l>
+          <l n="42">'The soul of great Psicharpax lives in me,</l>
+          <l n="43">'Of brave Troxartes' line, whose sleeky down</l>
+          <l n="44">'In love compress'd Lichomyle the brown.</l>
+          <l n="45">'My mother she, and princess of the plains</l>
+          <l n="46">'Where'er her father Pternotroctas reigns:</l>
+          <l n="47">'Born where a cabin lifts its airy shed,</l>
+          <l n="48">'With figs, with nuts, with varied dainties fed,</l>
+          <l n="49">'But since our natures nought in common know,</l>
+          <l n="50">'From what foundation can a friendship grow?</l>
+          <l n="51">'These curling waters o'er thy palace roll;</l>
+          <l n="52">'But man's high food supports my princely soul.</l>
+          <l n="53">'In vain the circled loaves attempt to lie</l>
+          <l n="54">'Conceal'd in flaskets from my curious eye,</l>
+          <l n="55">'In vain the tripe that boasts the whitest hue,</l>
+          <l n="56">'In vain the gilded bacon shuns my view,</l>
+          <l n="57">'In vain the cheeses, offspring of the pail,</l>
+          <l n="58">'Or honey'd cakes, which gods themselves regale.</l>
+          <pb n="400"/>
+          <l n="59">'And as in arts I shine, in arms I fight,</l>
+          <l n="60">'Mix'd with the bravest, and unknown to flight.</l>
+          <l n="61">'Though large to mine the human form appear,</l>
+          <l n="62">'Not man himself can smite my soul with fear:</l>
+          <l n="63">'Sly to the bed with silent steps I go,</l>
+          <l n="64">'Attempt his finger, or attack his toe,</l>
+          <l n="65">'And fix indented wounds with dextrous skill;</l>
+          <l n="66">'Sleeping he feels, and only seems to feel.</l>
+          <l n="67">'Yet have we foes which direful dangers cause,</l>
+          <l n="68">'Grim owls with talons arm'd, and cats with claws;</l>
+          <l n="69">'And that false trap, the den of silent fate,</l>
+          <l n="70">'Where death his ambush plants around the bait;</l>
+          <l n="71">'All dreaded these, and dreadful o'er the rest</l>
+          <l n="72">'The potent warriors of the tabby vest:</l>
+          <l n="73">'If to the dark we fly, the dark they trace,</l>
+          <l n="74">'And rend our heroes of the nibbling race.</l>
+          <l n="75">'But me, nor stalks, nor wat'rish herbs delight,</l>
+          <l n="76">'Nor can the crimson radish charm my sight,</l>
+          <l n="77">'The lake-resounding frogs' selected fare,</l>
+          <l n="78">'Which not a mouse of any taste can bear.'</l>
+        </sp>
+        <l n="79">As thus the downy prince his mind express'd,</l>
+        <l n="80">His answer thus the croaking king address'd.</l>
+        <sp>
+          <speaker>Physignathus</speaker>
+          <l n="81">'Thy words luxuriant on thy dainties rove,</l>
+          <l n="82">'And, stranger, we can boast of bounteous Jove :</l>
+          <l n="83">'We sport in water or we dance on land,</l>
+          <l n="84">'And, born amphibious, food from both command.</l>
+          <l n="85">'But trust thyself where wonders ask thy view,</l>
+          <l n="86">'And safely tempt those seas, I'll bear thee through :</l>
+          <l n="87">'Ascend my shoulders, firmly keep thy seat,</l>
+          <l n="88">'And reach my marshy court, and feast in state.'</l>
+        </sp>
+        <l n="89">He said, and lean'd his back; with nimble bound</l>
+        <l n="90">Leaps the light mouse, and clasps his arms around;</l>
+        <l n="91">Then wond'ring floats, and sees with glad survey</l>
+        <l n="92">The winding banks resembling ports at sea.</l>
+        <l n="93">But when aloft the curling water rides,</l>
+        <l n="94">And wets with azure wave his downy sides,</l>
+        <l n="95">His thoughts grow conscious of approaching woe,</l>
+        <l n="96">His idle tears with vain repentance flow,</l>
+        <l n="97">His locks he rends, his trembling feet he rears,</l>
+        <l n="98">Thick beats his heart with unaccustom'd fears;</l>
+        <l n="99">He sighs, and chill'd with danger, longs for shore:</l>
+        <l n="100">His tail extended forms a fruitless oar,</l>
+        <l n="101">Half drench'd in liquid death his prayers he spake,</l>
+        <l n="102">And thus bemoan'd him from the dreadful lake:</l>
+        <sp>
+          <speaker>Psicharpax</speaker>
+          <l n="103">'So pass'd Europa through the rapid sea,</l>
+          <l n="104">'Trembling and fainting all the venturous way ;</l>
+          <pb n="401"/>
+          <l n="105">'With oary feet the bull triumphant rode,</l>
+          <l n="106">'And safe in Crete depos'd his lovely load.</l>
+          <l n="107">'Ah safe at last! may thus the frog support</l>
+          <l n="108">'My trembling limbs to reach his ample court.'</l>
+        </sp>
+        <l n="109">As thus he sorrows, death ambiguous grows,</l>
+        <l n="110">Lo! from the deep a water-hydra rose;</l>
+        <l n="111">He rolls his sanguin'd eyes, his bosom heaves;</l>
+        <l n="112">And darts with active rage along the waves.</l>
+        <l n="113">Confus'd, the monarch sees his hissing foe,</l>
+        <l n="114">And dives to shun the sable fates below.</l>
+        <l n="115">Forgetful frog! the friend thy shoulders bore,</l>
+        <l n="116">Unskill'd in swimming, floats remote from shore.</l>
+        <l n="117">He grasps with fruitless hands to find relief,</l>
+        <l n="118">Supinely falls, and grinds his teeth with grief;</l>
+        <l n="119">Plunging he sinks, and struggling mounts again,</l>
+        <l n="120">And sinks and strives, but strives with fate in vain.</l>
+        <l n="121">The weighty moisture clogs his hairy vest,</l>
+        <l n="122">And thus the prince his dying rage express'd:</l>
+        <sp>
+          <speaker>Psicharpax</speaker>
+          <l n="123">'Nor thou, that fling'st me floundering from thy back,</l>
+          <l n="124">'As from hard rocks rebounds the shattering wrack,</l>
+          <l n="125">'Nor thou shalt 'scape thy due, perfidious king!</l>
+          <l n="126">'Pursued by vengeance on the swiftest wing:</l>
+          <l n="127">'At land thy strength could never equal mine,</l>
+          <l n="128">'At sea to conquer, and by craft, was thine.</l>
+          <l n="129">'But heaven has gods, and gods have searching eyes:</l>
+          <l n="130">'Ye mice, ye mice, my great avengers rise!'</l>
+        </sp>
+        <l n="131">This said, he sighing gasp'd, and gasping died.</l>
+        <l n="132">His death the young Lichopinax espied,</l>
+        <l n="133">As on the flowery brink he pass'd the day,</l>
+        <l n="134">Bask'd in the beam, and loiter'd life away:</l>
+        <l n="135">Loud shrieks the mouse, his shrieks the shores repeat;</l>
+        <l n="136">The nibbling nation learn their hero's fate:</l>
+        <l n="137">Grief, dismal grief ensues; deep murmurs sound,</l>
+        <l n="138">And shriller fury fills the deafen'd ground;</l>
+        <l n="139">From lodge to lodge the sacred heralds run,</l>
+        <l n="140">To fix their council with the rising sun;</l>
+        <l n="141">Where great Troxartes crown'd in glory reigns,</l>
+        <l n="142">And winds his lengthening court beneath the plains :</l>
+        <l n="143">Psicharpax' father, father now no more!</l>
+        <l n="144">For poor Psicharpax lies remote from shore :</l>
+        <l n="145">Supine he lies! the silent waters stand,</l>
+        <l n="146">And no kind billow wafts the dead to land!'</l>
+        <pb n="402"/>
+        <head>BOOK II.</head>
+        <l n="1">WHEN rosy-finger'd morn had ting'd the clouds,</l>
+        <l n="2">Around their Monarch mouse the nation crowds;</l>
+        <l n="3">Slow rose the monarch, heav'd his anxious breast,</l>
+        <l n="4">And thus the council, fill'd with rage, address'd :</l>
+        <sp>
+          <speaker>Troxartes</speaker>
+          <l n="5">'For lost Psicharpax much my soul endures,</l>
+          <l n="6">'Tis mine the private grief, the public, yours.</l>
+          <l n="7">'Three warlike sons adorn'd my nuptial bed,</l>
+          <l n="8">'Three sons, alas, before their father dead!</l>
+          <l n="9">'Our eldest perish'd by the ravening cat,</l>
+          <l n="10">'As near my court the prince unheedful sat.</l>
+          <l n="11">'Our next, an engine fraught with danger drew,</l>
+          <l n="12">"The portal gaped, the bait was hung in view,</l>
+          <l n="13">'Dire arts assist the trap, the fates decoy,</l>
+          <l n="14">'And men unpitying kill'd my gallant boy.</l>
+          <l n="15">"The last, his country's hope, his parents' pride,</l>
+          <l n="16">'Plung'd in the lake by Physignathus, died.</l>
+          <l n="17">'Rouse all the war, my friends! avenge the deed,</l>
+          <l n="18">'And bleed that monarch, and his nation bleed.'</l>
+        </sp>
+        <l n="19">His words in every breast inspir'd alarms,</l>
+        <l n="20">And careful Mars supplied their host with arms.</l>
+        <l n="21">In verdant hulls despoil'd of all their beans,</l>
+        <l n="22">The buskin'd warriors stalk'd along the plains.</l>
+        <l n="23">Quills, aptly bound, their bracing corselet made,</l>
+        <l n="24">Faced with the plunder of a cat they flayed;</l>
+        <l n="25">The lamp's round boss affords their ample shield,</l>
+        <l n="26">Large shells of nuts their covering helmet yield;</l>
+        <l n="27">And o'er the region, with reflected rays,</l>
+        <l n="28">Tall groves of needles for their lances blaze.</l>
+        <l n="29">Dreadful in arms the marching mice appear:</l>
+        <l n="30">The wondering frogs perceive the tumult near,</l>
+        <l n="31">Forsake the waters, thickening form a ring,</l>
+        <l n="32">And ask, and hearken, whence the noises spring;</l>
+        <l n="33">When near the crowd, disclos'd to public view,</l>
+        <l n="34">The valiant chief Embasichytros drew:</l>
+        <l n="35">The sacred herald's sceptre graced his hand,</l>
+        <l n="36">And thus his words express'd his king's command:</l>
+        <sp>
+          <speaker>Embasichytros</speaker>
+          <l n="37">'Ye frogs! the mice, with vengeance fir'd, advance,</l>
+          <l n="38">'And deck'd in armour shake the shining lance,</l>
+          <l n="39">'Their hapless prince by Physignathus slain,</l>
+          <l n="40">"Extends incumbent on the watery plain.</l>
+          <l n="41">'Then arm your host, the doubtful battle try ;</l>
+          <l n="42">'Lead forth those frogs that have the soul to die.'</l>
+        </sp>
+        <pb n="403"/>
+        <l n="43">The chief retires, the crowd the challenge hear,</l>
+        <l n="44">And proudly swelling, yet perplex'd, appear:</l>
+        <l n="45">Much they resent, yet much their monarch blame,</l>
+        <l n="46">Who, rising, spoke to clear his tainted fame :</l>
+        <sp>
+          <speaker>Physignathus</speaker>
+          <l n="47">"O friends! I never forc'd the mouse to death,</l>
+          <l n="48">'Nor saw the gaspings of his latest breath.</l>
+          <l n="49">'He, vain of youth, our art of swimming tried,</l>
+          <l n="50">'And venturous in the lake the wanton died.</l>
+          <l n="51">'To vengeance now by false appearance led,</l>
+          <l n="52">"They point their anger at my guiltless head.</l>
+          <l n="53">'But wage the rising war by deep device,</l>
+          <l n="54">'And turn its fury on the crafty mice.</l>
+          <l n="55">'Your king directs the way; my thoughts elate</l>
+          <l n="56">'With hopes of conquest form designs of fate.</l>
+          <l n="57">'Where high the banks their verdant surface heave,</l>
+          <l n="58">'And the steep sides confine the sleeping wave,</l>
+          <l n="59">"There, near the margin, and in armour bright,</l>
+          <l n="60">'Sustain the first impetuous shocks of fight:</l>
+          <l n="61">'Then where the dancing feather joins the crest,</l>
+          <l n="62">'Let each brave frog his obvious mouse arrest;</l>
+          <l n="63">'Each strongly grasping, headlong plunge a foe,</l>
+          <l n="64">'Till countless circles whirl the lake below:</l>
+          <l n="65">'Down sink the mice in yielding waters drown'd;</l>
+          <l n="66">'Loud flash the waters; echoing shores resound:</l>
+          <l n="67">"The frogs triumphant tread the conquer'd plain,</l>
+          <l n="68">'And raise their glorious trophies of the slain.';</l>
+        </sp>
+        <l n="69">He spake no more: his prudent scheme imparts</l>
+        <l n="70">Redoubling ardour to the boldest hearts.</l>
+        <l n="71">Green was the suit his arming heroes chose ;</l>
+        <l n="72">Around their legs the greaves of mallows close;</l>
+        <l n="73">Green were the beets about their shoulders laid,</l>
+        <l n="74">And green the colewort, which the target made;</l>
+        <l n="75">Form'd of the varied shells the waters yield,</l>
+        <l n="76">Their glossy helmets glisten'd o'er the field;</l>
+        <l n="77">And tapering sea-reeds for the polish'd spear,</l>
+        <l n="78">With upright order pierced the ambient air.</l>
+        <l n="79">Thus dress'd for war, they take th' appointed height,</l>
+        <l n="80">Poise the long arms, and urge the promis'd fight.</l>
+        <l n="81">But now, where Jove's irradiate spires arise,</l>
+        <l n="82">With stars surrounded in ethereal skies,</l>
+        <l n="83">(A solemn council call'd) the brazen gates</l>
+        <l n="84">Unbar; the gods assume their golden seats:</l>
+        <l n="85">The sire superior leans, and points to show</l>
+        <l n="86">What wondrous combats mortals wage below:</l>
+        <l n="87">How strong, how large, the numerous heroes stride;</l>
+        <l n="88">What length of lance they shake with warlike pride :</l>
+        <pb n="404"/>
+        <l n="89">What eager fire their rapid march reveals;</l>
+        <l n="90">So the fierce centaurs ravaged o'er the dales;</l>
+        <l n="91">And so confirm'd, the daring Titans rose,</l>
+        <l n="92">Heap'd hills on hills, and bid the gods be foes.</l>
+        <l n="93">This seen, the power his sacred visage rears;</l>
+        <l n="94">He casts a pitying smile on worldly cares,</l>
+        <l n="95">And asks what heavenly guardians take the list,</l>
+        <l n="96">Or who the mice, or who the frogs assist?</l>
+        <sp>
+          <speaker>Jove</speaker>
+          <l n="97">Then thus to Pallas: 'If my daughter's mind</l>
+          <l n="98">'Have join'd the mice, why stays she still behind ?</l>
+          <l n="99">'Drawn forth by savoury steams they wind their way,</l>
+          <l n="100">'And sure attendance round thine altar pay,</l>
+          <l n="101">'Where, while the victims gratify their taste,</l>
+          <l n="102">"They sport to please the goddess of the feast.'</l>
+        </sp>
+        <l n="103">Thus spake the ruler of the spacious skies;</l>
+        <l n="104">When thus, resolv'd, the blue-eyed maid replies:</l>
+        <sp>
+          <speaker>Pallas</speaker>
+          <l n="105">'In vain, my father! all their dangers plead;</l>
+          <l n="106">'To such thy Pallas never grants her aid.</l>
+          <l n="107">'My flowery wreaths they petulantly spoil,</l>
+          <l n="108">'And rob my crystal lamps of feeding oil;</l>
+          <l n="109">'(Ills following ills) but what afflicts me more,</l>
+          <l n="110">'My veil, that idle race profanely tore.</l>
+          <l n="111">'The web was curious, wrought with art divine;</l>
+          <l n="112">'Relentless wretches! all the work was mine.</l>
+          <l n="113">'Along the loom the purple warp I spread,</l>
+          <l n="114">'Cast the light shoot, and cross'd the silver thread:</l>
+          <l n="115">'In this their teeth a thousand breaches tear;</l>
+          <l n="116">'The thousand breaches skilful hands repair;</l>
+          <l n="117">'For which vile earthly duns thy daughter grieve,</l>
+          <l n="118">'But gods, that use no coin, have none to give.</l>
+          <l n="119">'And learning's goddess never less can owe,</l>
+          <l n="120">'Neglected learning gets no wealth below.</l>
+          <l n="121">'Nor let the frogs to gain my succour sue,</l>
+          <l n="122">'Those clamorous fools have lost my favour too.</l>
+          <l n="123">'For late, when all the conflict ceas'd at night,</l>
+          <l n="124">'When my stretch'd sinews ach'd with eager fight,</l>
+          <l n="125">'When, spent with glorious toil, I left the field,</l>
+          <l n="126">'And sunk for slumber on my swelling shield,</l>
+          <l n="127">'Lo from the deep, repelling sweet repose,</l>
+          <l n="128">'With noisy croakings half the nation rose:</l>
+          <l n="129">'Devoid of rest, with aching brow I lay,</l>
+          <l n="130">'Till cocks proclaim'd the crimson dawn of day.</l>
+          <l n="131">'Let all, like me, from either host forbear,</l>
+          <l n="132">'Nor tempt the flying furies of the spear.</l>
+          <l n="133">'Let heavenly blood (or what for blood may flow)</l>
+          <l n="134">'Adorn the conquest of a meaner foe,</l>
+          <pb n="405"/>
+          <l n="135">'Who, wildy rushing, meet the wondrous odds,</l>
+          <l n="136">'Though gods oppose, and brave the wounded gods.</l>
+          <l n="137">'O'er gilded clouds reclined, the danger view,</l>
+          <l n="138">'And be the wars of mortals scenes for you.'</l>
+        </sp>
+        <l n="139">So mov'd the blue-eyed queen; her words persuade;</l>
+        <l n="140">Great Jove assented, and the rest obeyed.</l>
+        <head>BOOK III.</head>
+        <l n="1">Now front to front the marching armies shine,</l>
+        <l n="2">Halt e'er they meet, and form the lengthening line;</l>
+        <l n="3">The chiefs conspicuous seen, and heard afar,</l>
+        <l n="4">Give the loud sign to loose the rushing war;</l>
+        <l n="5">Their dreadful trumpets deep-mouth'd hornets sound,</l>
+        <l n="6">The sounded charge remurmurs o'er the ground;</l>
+        <l n="7">Even Jove proclaims a field of horror nigh,</l>
+        <l n="8">And rolls low thunder through the troubled sky.</l>
+        <l n="9">First to the fight the large Hypsiboas flew ;</l>
+        <l n="10">And brave Lichenor with a javelin slew;</l>
+        <l n="11">The luckless warrior, filled with generous flame,</l>
+        <l n="12">Stood foremost glittering in the post of fame.</l>
+        <l n="13">When in his liver struck, the javelin hung,</l>
+        <l n="14">The mouse fell thundering and the target rung,</l>
+        <l n="15">Prone to the ground he sinks his closing eye,</l>
+        <l n="16">And soiled in dust his lovely tresses lie.</l>
+        <l n="17">A spear at Pelion Troglodytes cast;</l>
+        <l n="18">The missive spear within the bosom pass'd;</l>
+        <l n="19">Death's sable shades the fainting frog surround,</l>
+        <l n="20">And life's red tide runs ebbing from the wound.</l>
+        <l n="21">Embasichytros felt Seutlæus' dart</l>
+        <l n="22">Transfix, and quiver in his panting heart;</l>
+        <l n="23">But great Artophagus aveng'd the slain,</l>
+        <l n="24">And big Seutlæus tumbling loads the plain,</l>
+        <l n="25">And Polyphonus dies, a frog renown'd</l>
+        <l n="26">For boastful speech, and turbulence of sound:</l>
+        <l n="27">Deep through the belly pierced, supine he lay,</l>
+        <l n="28">And breath'd his soul against the face of day.</l>
+        <l n="29">The strong Limnocharis, who viewed with ire,</l>
+        <l n="30">A victor triumph, and a friend expire,</l>
+        <l n="31">With heaving arms a rocky fragment caught,</l>
+        <l n="32">And fiercely flung where Troglodytes fought,</l>
+        <l n="33">A warrior vers'd in arts, of sure retreat,</l>
+        <l n="34">Yet arts in vain elude impending fate;</l>
+        <pb n="406"/>
+        <l n="35">Full on his sinewy neck the fragment fell,</l>
+        <l n="36">And o'er his eyelids clouds eternal dwell.</l>
+        <l n="37">Lichenor (second of the glorious name)</l>
+        <l n="38">Striding advanced, and took no wand'ring aim;</l>
+        <l n="39">Through all the frog the shining javelin flies,</l>
+        <l n="40">And near the vanquished mouse the victor dies;</l>
+        <l n="41">The dreadful stroke Crambophagus affrights,</l>
+        <l n="42">Long bred to banquets, less inur'd to fights;</l>
+        <l n="43">Heedless he runs, and stumbles o'er the steep,</l>
+        <l n="44">And wildly floundering flashes up the deep;</l>
+        <l n="45">Lichenor following, with a downward blow</l>
+        <l n="46">Reached, in the lake, his unrecovered foe;</l>
+        <l n="47">Gasping he rolls, a purple stream of blood</l>
+        <l n="48">Distains the surface of the silver flood:</l>
+        <l n="49">Through the wide wound the rushing entrails throng,</l>
+        <l n="50">And slow the breathless carcass floats along.</l>
+        <l n="51">Limnisius good Tyroglyphus assails,</l>
+        <l n="52">Prince of the mice that haunt the flowery vales;</l>
+        <l n="53">Lost to the milky fares and rural seat,</l>
+        <l n="54">He came to perish on the bank of fate.</l>
+        <l n="55">The dread Pternoglyphus demands the fight,</l>
+        <l n="56">Which tender Calaminthius shuns by flight,</l>
+        <l n="57">Drops the green target, springing quits the foe,</l>
+        <l n="58">Glides through the lake, and safely dives below.</l>
+        <l n="59">The dire Pternophagus divides his way</l>
+        <l n="60">Through breaking ranks, and leads the dreadful day;</l>
+        <l n="61">No nibbling prince excelled in fierceness more,</l>
+        <l n="62">His parents fed him on the savage boar;</l>
+        <l n="63">But where his lance the field with blood imbrued,</l>
+        <l n="64">Swift as he mov'd Hydrocharis pursued,</l>
+        <l n="65">Till fallen in death he lies; a shattering stone</l>
+        <l n="66">Sounds on the neck, and crushes all the bone.</l>
+        <l n="67">His blood pollutes the verdure of the plain,</l>
+        <l n="68">And from his nostrils bursts the gushing brain.</l>
+        <l n="69">Lichopinax with Borb'rocetes fights,</l>
+        <l n="70">A blameless frog, whom humbler life delights;</l>
+        <l n="71">The fatal javelin unrelenting flies,</l>
+        <l n="72">And darkness seals the gentle croaker's eyes.</l>
+        <l n="73">Incens'd Prassophagus, with sprightly bound,</l>
+        <l n="74">Bears Cnissodioctes off the rising ground,</l>
+        <l n="75">Then drags him o'er the lake depriv'd of breath,</l>
+        <l n="76">And downward plunging, sinks his soul to death.</l>
+        <l n="77">But now the great Psicharpax shines afar,</l>
+        <l n="78">(Scarce he so great whose loss provok'd the war ;)</l>
+        <l n="79">Swift to revenge his fatal javelin fled,</l>
+        <l n="80">And through the liver struck Pelusius dead;</l>
+        <pb n="407"/>
+        <l n="81">His freckled corpse before the victor fell,</l>
+        <l n="82">His soul indignant sought the shades of hell.</l>
+        <l n="83">This saw Pelobates, and from the flood</l>
+        <l n="84">Lifts with both hands a monstrous mass of mud;</l>
+        <l n="85">The cloud obscene o'er all the warrior flies,</l>
+        <l n="86">Dishonours his brown face, and blots his eyes.</l>
+        <l n="87">Enrag'd, and wildly sputt'ring, from the shore</l>
+        <l n="88">A stone immense of size the warrior bore,</l>
+        <l n="89">A load for labouring earth, whose bulk to raise,</l>
+        <l n="90">Asks ten degenerate mice of modern days:</l>
+        <l n="91">Full to the leg arrives the crushing wound,</l>
+        <l n="92">The frog supportless writhes upon the ground.</l>
+        <l n="93">Thus flush'd, the victor wars with matchless force,</l>
+        <l n="94">Till loud Craugasides arrests his course,</l>
+        <l n="95">Hoarse croaking threats precede; with fatal speed</l>
+        <l n="96">Deep through the belly runs the pointed reed,</l>
+        <l n="97">Then, strongly tugg'd, return'd imbrued with gore,</l>
+        <l n="98">And on the pile his reeking entrails bore.</l>
+        <l n="99">The lame Sitophagus, oppress'd with pain,</l>
+        <l n="100">Creeps from the desperate dangers of the plain;</l>
+        <l n="101">And where the ditches rising weeds supply,</l>
+        <l n="102">To spread their lowly shades beneath the sky,</l>
+        <l n="103">There lurks the silent mouse reliev'd of heat,</l>
+        <l n="104">And, safe embower'd, avoids the chance of fate.</l>
+        <l n="105">But here Troxartes, Physignathus there,</l>
+        <l n="106">Whirl the dire furies of the pointed spear:</l>
+        <l n="107">Then, where the foot around its ankle plies,</l>
+        <l n="108">Troxartes wounds, and Physignathus flies,</l>
+        <l n="109">Halts to the pool, a safe retreat to find,</l>
+        <l n="110">And trails a dangling length of leg behind.</l>
+        <l n="111">The mouse still urges, still the frog retires,</l>
+        <l n="112">And half in anguish of the flight expires;</l>
+        <l n="113">Then pious ardour young Prassæus brings,</l>
+        <l n="114">Betwixt the fortune of contending kings:</l>
+        <l n="115">Lank, harmless frog! with forces hardly grown,</l>
+        <l n="116">He darts the reed in combats not his own,</l>
+        <l n="117">Which, faintly tinkling on Troxartes' shield,</l>
+        <l n="118">Hangs at the point, and drops upon the field.</l>
+        <l n="119">Now nobly towering o'er the rest appears</l>
+        <l n="120">A gallant prince that far transcends his years,</l>
+        <l n="121">Pride of his sire, and glory of his house,</l>
+        <l n="122">And more a Mars in combat than a mouse;</l>
+        <l n="123">His action bold, robust his ample frame,</l>
+        <l n="124">And Meridarpax his resounding name.</l>
+        <l n="125">The warrior, singled from the fighting crowd,</l>
+        <l n="126">Boasts the dire honours of his arms aloud;</l>
+        <pb n="408"/>
+        <l n="127">Then, strutting near the lake, with looks elate,</l>
+        <l n="128">Threats all its nations with approaching fate.</l>
+        <l n="129">And such his strength, the silver lakes around</l>
+        <l n="130">Might roll their waters o'er unpeopled ground.</l>
+        <l n="131">But powerful Jove, who shows no less his grace</l>
+        <l n="132">To frogs that perish, than to human race,</l>
+        <l n="133">Felt soft compassion rising in his soul,</l>
+        <l n="134">And shook his sacred head, that shook the pole.</l>
+        <l n="135">Then thus to all the gazing powers began,</l>
+        <l n="136">The sire of gods, and frogs, and mouse, and man:</l>
+        <sp>
+          <speaker>Jove</speaker>
+          <l n="137">'What seas of blood I view, what worlds of slain,</l>
+          <l n="138">'An Iliad rising from a day's campaign!</l>
+          <l n="139">'How fierce his javelin o'er the trembling lakes</l>
+          <l n="140">'The black-furr'd hero Meridarpax shakes!</l>
+          <l n="141">'Unless some favouring deity descend,</l>
+          <l n="142">'Soon will the frogs' loquacious empire end.</l>
+          <l n="143">'Let dreadful Pallas wing'd with pity fly,</l>
+          <l n="144">'And make her Ægis blaze before his eye:</l>
+          <l n="145">'While Mars, refulgent on his rattling car,</l>
+          <l n="146">'Arrests his raging rival of the war.'</l>
+        </sp>
+        <l n="147">He ceas'd, reclining with attentive head,</l>
+        <l n="148">When thus the glorious god of combats said:</l>
+        <sp>
+          <speaker>Mars</speaker>
+          <l n="149">'Nor Pallas, Jove! though Pallas take the field,</l>
+          <l n="150">'With all the terrors of her hissing shield,</l>
+          <l n="151">'Nor Mars himself, though Mars in armour bright</l>
+          <l n="152">'Ascend his car, and wheel amidst the fight;</l>
+          <l n="153">'Nor these can drive the desperate mouse afar,</l>
+          <l n="154">'And change the fortunes of the bleeding war.</l>
+          <l n="155">'Let all go forth, all heaven in arms arise,</l>
+          <l n="156">'Or launch thy own red thunder from the skies.</l>
+          <l n="157">'Such ardent bolts as flew that wondrous day,</l>
+          <l n="158">'When heaps of Titans mix'd with mountains lay,</l>
+          <l n="159">'When all the giant-race enormous fell,</l>
+          <l n="160">'And huge Enceladus was hurl'd to hell.'</l>
+        </sp>
+        <l n="161">'Twas thus th' armipotent advis'd the gods,</l>
+        <l n="162">When from his throne the cloud-compeller nods;</l>
+        <l n="163">Deep lengthening thunders run from pole to pole,</l>
+        <l n="164">Olympus trembles as the thunders roll.</l>
+        <l n="165">Then swift he whirls the brandish'd bolt around,</l>
+        <l n="166">And headlong darts it at the distant ground;</l>
+        <l n="167">The bolt, discharg'd, inwrapp'd with lightning flies,</l>
+        <l n="168">And rends its flaming passage through the skies:</l>
+        <l n="169">Then earth's inhabitants, the nibblers, shake,</l>
+        <l n="170">And frogs, the dwellers in the waters, quake.</l>
+        <l n="171">Yet still the mice advance their dread design,</l>
+        <l n="172">And the last danger threats the croaking line;</l>
+        <pb n="409"/>
+        <l n="173">Till Jove that inly mourn'd the loss they bore,</l>
+        <l n="174">With strange assistance fill'd the frighted shore.</l>
+        <l n="175">Pour'd from the neighbouring strand, deform'd to view,</l>
+        <l n="176">They march, a sudden unexpected crew.</l>
+        <l n="177">Strong suits of armour round their bodies close,</l>
+        <l n="178">Which like thick anvils blunt the force of blows;</l>
+        <l n="179">In wheeling marches turn'd oblique they go,</l>
+        <l n="180">With harpy claws their limbs divide below.</l>
+        <l n="181">Fell sheers the passage to their mouth command,</l>
+        <l n="182">From out the flesh the bones by nature stand,</l>
+        <l n="183">Broad spread their backs, their shining shoulders rise,</l>
+        <l n="184">Unnumber'd joints distort their lengthen'd thighs;</l>
+        <l n="185">With nervous cords their hands are firmly brac'd,</l>
+        <l n="186">Their round black eyeballs in their bosom plac'd,</l>
+        <l n="187">On eight long feet the wondrous warriors tread,</l>
+        <l n="188">And either end alike supplies a head.</l>
+        <l n="189">These, mortal wits to call the crabs, agree;</l>
+        <l n="190">The gods have other names for things than we.</l>
+        <l n="191">Now where the jointures from their loins depend,</l>
+        <l n="192">The heroes' tails with severing grasps they rend.</l>
+        <l n="193">Here, short of feet, depriv'd the power to fly,</l>
+        <l n="194">There without hands upon the field they lie.</l>
+        <l n="195">Wrench'd from their holds, and scatter'd all around,</l>
+        <l n="196">The bended lances heap'd the cumber'd ground.</l>
+        <l n="197">Helpless amazement, fear pursuing fear,</l>
+        <l n="198">And mad confusion through their host appear;</l>
+        <l n="199">O'er the wild waste with headlong flight they go,</l>
+        <l n="200">Or creep conceal'd in vaulted holes below.</l>
+        <l n="201">But down Olympus to the western seas,</l>
+        <l n="202">Far-shooting Phoebus drove with fainter rays,</l>
+        <l n="203">And a whole war (so Jove ordain'd) begun,</l>
+        <l n="204">Was sought, and ceas'd, in one revolving sun.</l>
+      </div>
+    </body>
+  </text>
+</TEI>

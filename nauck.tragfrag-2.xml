@@ -1,4 +1,4 @@
-<?xml version="1 .0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http ://www .stoa .org/epidoc/schema/latest/tei-epidoc .rng" type="xml"?>
 <TEI xmlns="http ://www .tei-c .org/ns/1 .0">
 <teiHeader>
@@ -12,7 +12,7 @@
 <principal>Monica Berti</principal>
 <meeting/>
 <respStmt>
-<persName xml :id="DDD">Digital Divide Data</persName>
+<persName xml:id="DDD">Digital Divide Data</persName>
 <resp>Corrected and encoded the text</resp>
 </respStmt>
 <respStmt>
@@ -40,13 +40,13 @@ License</p>
 <pubPlace>Germany</pubPlace>
 </publicationStmt>
 <sourceDesc>
-<listBibl xml :lang="la">
+<listBibl xml:lang="la">
 <biblStruct>
 <monogr>
 <title>TRAGICORVM GRAECORVM FRAGMENTA</title>
 <editor>
 <persName>
-<name xml :lang="la">AVGVSTVS NAVCK</name>
+<name xml:lang="la">AVGVSTVS NAVCK</name>
 </persName>
 </editor>
 <author ref="urn :tmp">AVGVSTVS NAVCK</author>
@@ -11594,7 +11594,7 @@ ubi Scholia : ὁμορροθῶ] Σοφοκλέους ἐκ Πηλέως · ἀ
 <lg>
 <l>ἴτω δὲ Πυθιὰς βοά .</l>
 </lg>
-<p>Ar . Av . 857 : ἴτω ἴτω , ἴτω δὲ Πυθιὰς βοὰ τῷ θεῷ . ubi Scholia :
+<p>Ar . Av . 857 : ἴτω ἴτω , ἴτω δὲ Πυθιὰς βοὰ τῷ θεῷ . [ubi Scholia :
 Πυθιὰς βοά] — καὶ τοῦτο δὲ ἐκ Πηλέως . Sophoclis Peleum
 dici docet annotatio v . 851 adscripta (fr . 449) . ἴτω ἴτω δὲ Πυθιὰς
 βοᾷ θεῷ scripsisse Sophoclem coni . Bentley .</p>
@@ -12585,7 +12585,7 @@ crit . p . 23 , ἐκστρέφει φροντὶς Gleditsch Cantica p . 228 .<
 <l>αἰγείρου βιοτὰν ἀποβάλλει .</l>
 <l>ζῴη τις ἀνθρώπων τὸ κατ’ ἦμαρ ὅπως</l> <note type="marginal">ἀντ .</note>
 <l>ἥδιστα πορσύνων · τὸ δ’ ἐς αὔριον αἰεὶ</l> <lb n="5"/>
-<l>τυφλὸν ἕρπει _ &#x23D1 ; &#x23D1 ; _ &#x23D1 ; &#x23D1 ; _ _</l>
+<l>τυφλὸν ἕρπει _ &#x23D1; &#x23D1; _ &#x23D1; &#x23D1; _ _</l>
 </lg>
 <p>Porphyr . in Stob . Flor . 105 , 57 (ecl . om . S) : ἥ τε γὰρ αἴγειρος ,
 ὡς φασὶν ἄλλοι τε καὶ Πλούταρχος , φιλοπενθὴς καὶ ἀτελὴς πρὸς
@@ -28018,20 +28018,20 @@ Blass agnovit : <add>ΦΑ . — — αυναλλ</add>αγὰς
 exitus : — ι προθυμίαι | — σο λοψο | — οἰκία υχοι | — δυστυχεῖς | — λιπών
 5 | — σω χθονός | — πλοῦτον δόμων | — χοὰς ἄγῃ | — ιλοης ἑκόν |
 —  .  .  . ἴχονς 10 | —  .  .  . ἀνιέτω | — χθονὸς σκότου | —  .  . ελει | — ννίδι
-| — θεροι 15 | — ον #&#x003E ; | — νηπόλις | — μη νόμος |
+| — θεροι 15 | — ον #&#x003E; | — νηπόλις | — μη νόμος |
 — σεν ᾔνεσα | —  .  .  . ν σοφή 20 | — τάγματα | —  .  .  . μόνων | — ἀμήχανοι |
 — γὰρ αὖ πλοκὴ | —  .  . ἧμαι τόδε 25 | — λογερα | —  .  .  . σοῖς κακοῖς |
 — σκότῳ | — οίῳ τάφῳ | —  .  . σεται 30 | — ν δἰ ἄστεως | —  .  .  . ἥλιον |
 —  . νεκροί | —  .  . τὰς τύχας | — ν πειρατέον 35 | desunt v . VI</p>
-<p>pag . IV eisudem folii initia versuum continet : #&#x003E ; δια —
-ὃς #&#x003E ; — | #&#x003E ; | ὡς #&#x003E ; — | σὺ δὲ παρ — 5 | σα —
-ουκειοι — | #&#x003E ; — | ολ — | | βο — 10 | δα — | σι — | το — | ιλε̣
+<p>pag . IV eisudem folii initia versuum continet : #&#x003E; δια —
+ὃς #&#x003E; — | #&#x003E; | ὡς #&#x003E; — | σὺ δὲ παρ — 5 | σα —
+ουκειοι — | #&#x003E; — | ολ — | | βο — 10 | δα — | σι — | το — | ιλε̣
 φι — 15 | ὅστις ἰσ — | οι — | κα — | λι — | καλεῖτε — 20 | ὃς ἐμὰν —
-κακὰ δὲ — | ΧΟ . ὅδ’ ἐκ #&#x003E ; — | παιδὸς #&#x003E ; | ΜΕΡ .—
+κακὰ δὲ — | ΧΟ . ὅδ’ ἐκ #&#x003E; — | παιδὸς #&#x003E; | ΜΕΡ .—
 εἶεν σὺ — 25 | ὡς εισο — | οἵαν εκ — | θεᾶς δὲ — | ΤΡΟΦ . ὤμοι . | ΜΕΡ .
-#&#x003E ; — 30 | ΤΡ . αἰαῖ . | ΜΕΡ . διπλᾶ #&#x003E ; — | ΤΡ . τί γὰρ
-#&#x003E ; — | ΜΕΡ . τίς παῖσ’ #&#x003E ; — | ΤΡ . εἰσως
-#&#x003E ; — 35 I ΜΕΡ . ἕν’ #&#x003E ; — | ΤΡ σμικρῷ — | ΜΕΡ . κρεισσ —
+#&#x003E; — 30 | ΤΡ . αἰαῖ . | ΜΕΡ . διπλᾶ #&#x003E; — | ΤΡ . τί γὰρ
+#&#x003E; — | ΜΕΡ . τίς παῖσ’ #&#x003E; — | ΤΡ . εἰσως
+#&#x003E; — 35 I ΜΕΡ . ἕν’ #&#x003E; — | ΤΡ σμικρῷ — | ΜΕΡ . κρεισσ —
 ΤΡ . οσσεο — | desunt v . II
 
 <pb n="601"/>
@@ -34540,8 +34540,8 @@ legendum) ἐν Εἰρήνῃ , ἐν Μώμῳ Σοφοκλέους προκε
 περὶ γραμματικοῦ ποτηρίου ποιεῖ τοὺς σατύρους τάδε λέγοντας ‘ὁ δὲ
 σκύφος — κηρύσσετον’ . v . 1 cf . Ath . XI p . 498 E : καὶ Ἀχαιὸς ἐν
 Ὀμφάλῃ ‘ὁ δὲ σκύφος με τοῦ θεοῦ καλεῖ’ . v . 2 φαῖνον libri , φαίνων
-Toup Emend . 2 p . 552 . v . 3 &#x772 ;ω &#x772 ;ν&#x772 ;υ A , ΟΥ ΝΥ Cobet Coll . crit .
-p . 219 . τό τ’ Υ Toup , τοῦ &#x772 ;υ A . πάρεστιν , οὗ κἀπουσίαν Porson
+Toup Emend . 2 p . 552 . v . 3 &#x772;ω &#x772;ν&#x772;υ A , ΟΥ ΝΥ Cobet Coll . crit .
+p . 219 . τό τ’ Υ Toup , τοῦ &#x772;υ A . πάρεστιν , οὗ κἀπουσίαν Porson
 Tracts and misc . crit . p . 242 . verba πάρεστι , κοὐκ ἀπουσίαν et quae
 sequuntur alteri personae tribuit Gomperz Beitr . 1 p . 265 sqq . v . 4
 το τε ου A , τό τ’ Ο Ρ correctus et V . hoc verum esse docet
@@ -37813,7 +37813,7 @@ F . G . Schmidt Krit . Stud . 3 p . 28 .</p>
 <p>Alciphr . 2 , 2 , 7 : ὁ Ἀτρεὺς οὗτος ‘ἔξελθε’ φησίν ‘ἐκ τῆς ἐμῆς
 μοναγρίας’ . ‘videntur haec ad tragoediam Graeci poetae , fortasse
 Sophoclis , referenda esse ; nec inepte quis coniciat sequentia ipsa
-poetae verba esse : ἔξελθε — &#x23D1 ; τῆς ἐμῆς μοναρχίας , cui scriptor suo
+poetae verba esse : ἔξελθε — &#x23D1; τῆς ἐμῆς μοναρχίας , cui scriptor suo
 consilio accommodate μοναγρίας substituit’ . Meineke .</p>
 <p>16</p>
 <lg><l>μάτην ἀδήλους ἐλπίδας καραδοκῶν</l></lg>
