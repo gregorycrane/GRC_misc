@@ -71,39 +71,39 @@
                     </item>
                     <item>
                         <label>PART I.</label>
-                        English Syntax: Subject, Predicate, Complement; the Parts of Speech; the Simple Sentence; the Compound Sentence, §§ 1-39 <milestone unit="page" n="1"/>
+                        English Syntax: Subject, Predicate, Complement; the Parts of Speech; the Simple Sentence; the Compound Sentence, §§ <ref target="eng_1-eng_39">1-39</ref> <milestone unit="page" n="1"/>
                     </item>
-                    <item>Agreement: the Three Concords and Apposition (§§ 40-52) <milestone unit="page" n="12"/>
+                    <item>Agreement: the Three Concords and Apposition (§§ <ref target="lat_40-lat_52">40-52</ref>) <milestone unit="page" n="12"/>
                     </item>
                     <item>
                         <label>PART II.</label>
                         THE PARTS OF SPEECH.
                         <list type="toc">
-                            <item>1. Substantives (§§ 53-54) <milestone unit="page" n="17"/>
+                            <item>1. Substantives (§§ <ref target="lat_53-lat_54">53-54</ref>) <milestone unit="page" n="17"/>
                             </item>
-                            <item>2. Adjectives (§§ 55-79) (Comparatives, § 62; Superlatives, §69; Numerals, § 75) <milestone unit="page" n="18"/>
+                            <item>2. Adjectives (§§ <ref target="lat_55-lat_79">55-79</ref>) (Comparatives, § <ref target="lat_62">62</ref>; Superlatives, §69; Numerals, § <ref target="lat_75">75</ref>) <milestone unit="page" n="18"/>
                             </item>
-                            <item>Nouns (Substitutes for the Article in Latin; Order of words and Clauses; the Article in Greek (§§ 80-103) <milestone unit="page" n="24"/>
+                            <item>Nouns (Substitutes for the Article in Latin; Order of words and Clauses; the Article in Greek (§§ <ref target="lat_80-lat_103">80-103</ref>) <milestone unit="page" n="24"/>
                             </item>
-                            <item>3. Pronouns (§§ 104-143): (1) Personal (§ 104), (2) Demonstrative (§ 123), (3) Indefinite (§ 125), (4) Interrogative (§ 136), (5) Relative (138) <milestone unit="page" n="32"/>
+                            <item>3. Pronouns (§§ <ref target="lat_104-lat_143">104-143</ref>): (1) Personal (§ <ref target="lat_104">104</ref>), (2) Demonstrative (§ <ref target="lat_123">123</ref>), (3) Indefinite (§ <ref target="lat_125">125</ref>), (4) Interrogative (§ <ref target="lat_136">136</ref>), (5) Relative (138) <milestone unit="page" n="32"/>
                             </item>
-                            <item>4. Verbs (§§ 144-220) (Voice, § 145; Mood, § 165; Tense, § 200) <milestone unit="page" n="44"/>
+                            <item>4. Verbs (§§ <ref target="lat_144-lat_220">144-220</ref>) (Voice, § <ref target="lat_145">145</ref>; Mood, § <ref target="lat_165">165</ref>; Tense, § <ref target="lat_200">200</ref>) <milestone unit="page" n="44"/>
                             </item>
-                            <item>(Potential and Indefinite Tenses in Latin; the Particle ἄν in Greek (§ 217)) <milestone unit="page" n="74"/>
+                            <item>(Potential and Indefinite Tenses in Latin; the Particle ἄν in Greek (§ <ref target="lat_217">217</ref>)) <milestone unit="page" n="74"/>
                             </item>
-                            <item>(The Cases (§§ 222-288)) <milestone unit="page" n="76"/>
+                            <item>(The Cases (§§ <ref target="lat_222-lat_288">222-288</ref>)) <milestone unit="page" n="76"/>
                             </item>
-                            <item>5. Prepositions (§§ 289-299) <milestone unit="page" n="94"/>
+                            <item>5. Prepositions (§§ <ref target="lat_289-lat_299">289-299</ref>) <milestone unit="page" n="94"/>
                             </item>
-                            <item>(Expression of Time, Place, Space (§§ 300-311)) <milestone unit="page" n="100"/>
+                            <item>(Expression of Time, Place, Space (§§ <ref target="lat_300-lat_311">300-311</ref>)) <milestone unit="page" n="100"/>
                             </item>
-                            <item>(Case-construction of commoner Verbs (§ 312)) <milestone unit="page" n="104"/>
+                            <item>(Case-construction of commoner Verbs (§ <ref target="lat_312">312</ref>)) <milestone unit="page" n="104"/>
                             </item>
-                            <item>6. Conjunctions and Particles (§§ 313-325) <milestone unit="page" n="105"/>
+                            <item>6. Conjunctions and Particles (§§ <ref target="lat_313-lat_325">313-325</ref>) <milestone unit="page" n="105"/>
                             </item>
-                            <item>7. Interjections (§ 326) <milestone unit="page" n="110"/>
+                            <item>7. Interjections (§ <ref target="lat_326">326</ref>) <milestone unit="page" n="110"/>
                             </item>
-                            <item>8. Adverbs (§ 327) <milestone unit="page" n="111"/>
+                            <item>8. Adverbs (§ <ref target="lat_327">327</ref>) <milestone unit="page" n="111"/>
                             </item>
                         </list>
                     </item>
@@ -113,13 +113,13 @@
                         <list type="toc">
                             <item>(1) SYNTAX OF THE SIMPLE SENTENCE.
                                 <list type="toc">
-                                    <item>1. Direct Statement (§ 329) <milestone unit="page" n="112"/>
+                                    <item>1. Direct Statement (§ <ref target="lat_329">329</ref>) <milestone unit="page" n="112"/>
                                     </item>
-                                    <item>2. Direct Command, Wish, Exhortation (§§ 330-334) <milestone unit="page" n="112"/>
+                                    <item>2. Direct Command, Wish, Exhortation (§§ <ref target="lat_330-lat_334">330-334</ref>) <milestone unit="page" n="112"/>
                                     </item>
-                                    <item>3. Direct Question (§§ 335-337) <milestone unit="page" n="114"/>
+                                    <item>3. Direct Question (§§ <ref target="lat_335-lat_337">335-337</ref>) <milestone unit="page" n="114"/>
                                     </item>
-                                    <item>(Exclamation, § 338) <milestone unit="page" n="116"/>
+                                    <item>(Exclamation, § <ref target="lat_338">338</ref>) <milestone unit="page" n="116"/>
                                     </item>
                                 </list>
                             </item>
@@ -127,47 +127,47 @@
                             <fw type="header" place="top">viii GREEK AND LATIN SYNTAX.</fw>
                             <item>(2) SYNTAX OF THE COMPOUND SENTENCE.
                                 <list type="toc">
-                                    <item>Three kinds of Compound Sentence (§§ 339-342); Sequence (§§ 343-347) <milestone unit="page" n="116"/>
+                                    <item>Three kinds of Compound Sentence (§§ <ref target="lat_339-lat_342">339-342</ref>); Sequence (§§ <ref target="lat_343-lat_347">343-347</ref>) <milestone unit="page" n="116"/>
                                     </item>
                                     <item>Substantival Sentences:
                                         <list type="toc">
-                                            <item>1. Indirect Statement (§§ 348-354) <milestone unit="page" n="120"/>
+                                            <item>1. Indirect Statement (§§ <ref target="lat_348-lat_354">348-354</ref>) <milestone unit="page" n="120"/>
                                             </item>
-                                            <item>2. Indirect Command (§§ 355-359) <milestone unit="page" n="122"/>
+                                            <item>2. Indirect Command (§§ <ref target="lat_355-lat_359">355-359</ref>) <milestone unit="page" n="122"/>
                                             </item>
-                                            <item>3. Indirect Question (§§ 360-364) <milestone unit="page" n="124"/>
+                                            <item>3. Indirect Question (§§ <ref target="lat_360-lat_364">360-364</ref>) <milestone unit="page" n="124"/>
                                             </item>
-                                            <item>(Compel, try and take care, prevent and deny (§§ 365-374); Impersonal Verbs (§§ 375-381); certain Special Verbs (§§ 382-383)) <milestone unit="page" n="126"/>
+                                            <item>(Compel, try and take care, prevent and deny (§§ <ref target="lat_365-lat_374">365-374</ref>); Impersonal Verbs (§§ <ref target="lat_375-lat_381">375-381</ref>); certain Special Verbs (§§ <ref target="lat_382-lat_383">382-383</ref>)) <milestone unit="page" n="126"/>
                                             </item>
                                         </list>
                                     </item>
                                     <item>Adverbial Sentences:
                                         <list type="toc">
-                                            <item>1. Final (§§ 384-387) <milestone unit="page" n="131"/>
+                                            <item>1. Final (§§ <ref target="lat_384-lat_387">384-387</ref>) <milestone unit="page" n="131"/>
                                             </item>
-                                            <item>2. Consecutive (§§ 388-394) <milestone unit="page" n="133"/>
+                                            <item>2. Consecutive (§§ <ref target="lat_388-lat_394">388-394</ref>) <milestone unit="page" n="133"/>
                                             </item>
-                                            <item>3. Conditional (§§ 395-408) <milestone unit="page" n="134"/>
+                                            <item>3. Conditional (§§ <ref target="lat_395-lat_408">395-408</ref>) <milestone unit="page" n="134"/>
                                             </item>
-                                            <item>4. Causal (§§ 409-412) <milestone unit="page" n="140"/>
+                                            <item>4. Causal (§§ <ref target="lat_409-lat_412">409-412</ref>) <milestone unit="page" n="140"/>
                                             </item>
-                                            <item>5. Temporal (§§ 413-435) (quum, § 415; dum, § 424; priusquam, § 428; ἐπεί, § 415; ἕως, § 424; πρίν, § 428) <milestone unit="page" n="141"/>
+                                            <item>5. Temporal (§§ <ref target="lat_413-lat_435">413-435</ref>) (quum, § <ref target="lat_415">415</ref>; dum, § <ref target="lat_424">424</ref>; priusquam, § <ref target="lat_428">428</ref>; ἐπεί, § <ref target="lat_415">415</ref>; ἕως, § <ref target="lat_424">424</ref>; πρίν, § <ref target="lat_428">428</ref>) <milestone unit="page" n="141"/>
                                             </item>
-                                            <item>6. Local (§§ 436-438) <milestone unit="page" n="148"/>
+                                            <item>6. Local (§§ <ref target="lat_436-lat_438">436-438</ref>) <milestone unit="page" n="148"/>
                                             </item>
-                                            <item>7. Concessive (§§ 439-445) <milestone unit="page" n="149"/>
+                                            <item>7. Concessive (§§ <ref target="lat_439-lat_445">439-445</ref>) <milestone unit="page" n="149"/>
                                             </item>
-                                            <item>8. Comparative (§§ 446-457) <milestone unit="page" n="151"/>
+                                            <item>8. Comparative (§§ <ref target="lat_446-lat_457">446-457</ref>) <milestone unit="page" n="151"/>
                                             </item>
                                         </list>
                                     </item>
-                                    <item>Adjectival Sentences: viz., Relative Clauses (§§ 458-472) <milestone unit="page" n="155"/>
+                                    <item>Adjectival Sentences: viz., Relative Clauses (§§ <ref target="lat_458-lat_472">458-472</ref>) <milestone unit="page" n="155"/>
                                     </item>
-                                    <item>Mood in sub-Oblique Clauses (§§ 473-478) <milestone unit="page" n="158"/>
+                                    <item>Mood in sub-Oblique Clauses (§§ <ref target="lat_473-lat_478">473-478</ref>) <milestone unit="page" n="158"/>
                                     </item>
-                                    <item>Oratio Obliqua: continuous (§§ 479-488) <milestone unit="page" n="160"/>
+                                    <item>Oratio Obliqua: continuous (§§ <ref target="lat_479-lat_488">479-488</ref>) <milestone unit="page" n="160"/>
                                     </item>
-                                    <item>The Negatives (§§ 489-519) (non, haud, ne, § 489; quominus, § 510; quin, § 512; οὐ, μή, § 489; μὴ οὐ, § 512; οὐ μή, § 517) <milestone unit="page" n="165"/>
+                                    <item>The Negatives (§§ <ref target="lat_489-lat_519">489-519</ref>) (non, haud, ne, § <ref target="lat_489">489</ref>; quominus, § <ref target="lat_510">510</ref>; quin, § <ref target="lat_512">512</ref>; οὐ, μή, § <ref target="lat_489">489</ref>; μὴ οὐ, § <ref target="lat_512">512</ref>; οὐ μή, § <ref target="lat_517">517</ref>) <milestone unit="page" n="165"/>
                                     </item>
                                 </list>
                             </item>
@@ -177,19 +177,19 @@
                         <label>PART IV.</label>
                         FIGURES OF SPEECH AND NOTES ON SYNTAX.
                         <list type="toc">
-                            <item>Figures of Speech (§§ 520-550) <milestone unit="page" n="174"/>
+                            <item>Figures of Speech (§§ <ref target="lat_520-lat_550">520-550</ref>) <milestone unit="page" n="174"/>
                             </item>
-                            <item>Excursus I. Attraction (§§ 551-558) <milestone unit="page" n="183"/>
+                            <item>Excursus I. Attraction (§§ <ref target="lat_551-lat_558">551-558</ref>) <milestone unit="page" n="183"/>
                             </item>
-                            <item>Excursus II. Sense-Construction (§§ 559-564) <milestone unit="page" n="185"/>
+                            <item>Excursus II. Sense-Construction (§§ <ref target="lat_559-lat_564">559-564</ref>) <milestone unit="page" n="185"/>
                             </item>
-                            <item>Excursus III. The Cases (§§ 565-580) <milestone unit="page" n="187"/>
+                            <item>Excursus III. The Cases (§§ <ref target="lat_565-lat_580">565-580</ref>) <milestone unit="page" n="187"/>
                             </item>
-                            <item>Excursus IV. The Indicative, Imperative, Conjunctive (§§ 581-590) <milestone unit="page" n="192"/>
+                            <item>Excursus IV. The Indicative, Imperative, Conjunctive (§§ <ref target="lat_581-lat_590">581-590</ref>) <milestone unit="page" n="192"/>
                             </item>
-                            <item>Excursus V. The Infinitive and Participle (§§ 591-599) <milestone unit="page" n="195"/>
+                            <item>Excursus V. The Infinitive and Participle (§§ <ref target="lat_591-lat_599">591-599</ref>) <milestone unit="page" n="195"/>
                             </item>
-                            <item>Excursus VI. Gerund and Gerundive; οὐ μή (§ 600) <milestone unit="page" n="199"/>
+                            <item>Excursus VI. Gerund and Gerundive; οὐ μή (§ <ref target="lat_600">600</ref>) <milestone unit="page" n="199"/>
                             </item>
                         </list>
                     </item>
@@ -215,45 +215,45 @@
                         <head>LATIN.</head>
                         <div type="form_division">
                             <head>Ι. γ.</head>
-                            <div xml:id="p9_r1_lat">40-41. Concord of Verb and Adjective.</div>
-                            <div xml:id="p9_r2_lat">222-224. <term>Nominative</term> and <term>Vocative</term>.</div>
-                            <div xml:id="p9_r3_lat">328-329. Direct Statement.</div>
+                            <div xml:id="p9_r1_lat"><ref target="lat_40-lat_41">40-41</ref>. Concord of Verb and Adjective.</div>
+                            <div xml:id="p9_r2_lat"><ref target="lat_222-lat_224">222-224</ref>. <term>Nominative</term> and <term>Vocative</term>.</div>
+                            <div xml:id="p9_r3_lat"><ref target="lat_328-lat_329">328-329</ref>. Direct Statement.</div>
                         </div>
                         <div type="form_division">
                             <head>Ι. β.</head>
-                            <div xml:id="p9_r4_lat">44-46. The Composite Subject.</div>
-                            <div xml:id="p9_r5_lat">226. <term>Accusative</term> of Direct Object.</div>
-                            <div xml:id="p9_r6_lat">239. Possessive <term>Genitive</term>.</div>
-                            <div xml:id="p9_r7_lat">277. <term>Dative</term> of Indirect Object.</div>
+                            <div xml:id="p9_r4_lat"><ref target="lat_44-lat_46">44-46</ref>. The Composite Subject.</div>
+                            <div xml:id="p9_r5_lat"><ref target="lat_226">226</ref>. <term>Accusative</term> of Direct Object.</div>
+                            <div xml:id="p9_r6_lat"><ref target="lat_239">239</ref>. Possessive <term>Genitive</term>.</div>
+                            <div xml:id="p9_r7_lat"><ref target="lat_277">277</ref>. <term>Dative</term> of Indirect Object.</div>
                         </div>
                         <div type="form_division">
                             <head>Ι. α.</head>
                             <div xml:id="p9_r8_lat">144 (first paragraph). Voices.</div>
-                            <div xml:id="p9_r9_lat">148-150. Passive Construction.</div>
-                            <div xml:id="p9_r10_lat">221. Survey of the Cases.</div>
-                            <div xml:id="p9_r11_lat">243. Partitive <term>Genitive</term>.</div>
-                            <div xml:id="p9_r12_lat">266. Instrumental <term>Ablative</term>.</div>
+                            <div xml:id="p9_r9_lat"><ref target="lat_148-lat_150">148-150</ref>. Passive Construction.</div>
+                            <div xml:id="p9_r10_lat"><ref target="lat_221">221</ref>. Survey of the Cases.</div>
+                            <div xml:id="p9_r11_lat"><ref target="lat_243">243</ref>. Partitive <term>Genitive</term>.</div>
+                            <div xml:id="p9_r12_lat"><ref target="lat_266">266</ref>. Instrumental <term>Ablative</term>.</div>
                         </div>
                     </div>
                     <div type="column" xml:lang="en">
                         <head>ENGLISH.</head>
                         <div type="form_division">
                             <head>Ι. γ.</head>
-                            <div xml:id="p9_r1_eng">1-9. Subject, Predicate, Copula.</div>
-                            <div xml:id="p9_r2_eng">35-39. Agreement and Government.</div>
+                            <div xml:id="p9_r1_eng"><ref target="lat_1-lat_9">1-9</ref>. Subject, Predicate, Copula.</div>
+                            <div xml:id="p9_r2_eng"><ref target="eng_35-eng_39">35-39</ref>. Agreement and Government.</div>
                             <div xml:id="p9_r3_eng"/>
                         </div>
                         <div type="form_division">
                             <head>Ι. β.</head>
-                            <div xml:id="p9_r4_eng">16-19. The Parts of Speech.</div>
+                            <div xml:id="p9_r4_eng"><ref target="eng_16-eng_19">16-19</ref>. The Parts of Speech.</div>
                             <div xml:id="p9_r5_eng"/>
                             <div xml:id="p9_r6_eng"/>
                             <div xml:id="p9_r7_eng"/>
                         </div>
                         <div type="form_division">
                             <head>Ι. α.</head>
-                            <div xml:id="p9_r8_eng">30. Principal Sentences (with English of examples, 329-338).</div>
-                            <div xml:id="p9_r9_eng">20-29. Parts of Speech (continued).</div>
+                            <div xml:id="p9_r8_eng"><ref target="eng_30">30</ref>. Principal Sentences (with English of examples, 329-338).</div>
+                            <div xml:id="p9_r9_eng"><ref target="eng_20-eng_29">20-29</ref>. Parts of Speech (continued).</div>
                             <div xml:id="p9_r10_eng"/>
                             <div xml:id="p9_r11_eng"/>
                             <div xml:id="p9_r12_eng"/>
@@ -282,44 +282,44 @@
                         <head>LATIN.</head>
                         <div type="form_division">
                             <head>ΙΙ. γ.</head>
-                            <div xml:id="p10_r1_lat">42-43. Concord of Relative, and Apposition.</div>
-                            <div xml:id="p10_r2_lat">55-58. Adjective as Epithet.</div>
-                            <div xml:id="p10_r3_lat">191-192. Participle as Adjective.</div>
-                            <div xml:id="p10_r4_lat">225, 227-228. Direct <term>Accusative</term> (continued).</div>
-                            <div xml:id="p10_r5_lat">335-336. Direct Questions.</div>
-                            <div xml:id="p10_r6_lat">338. Exclamation.</div>
+                            <div xml:id="p10_r1_lat"><ref target="lat_42-lat_43">42-43</ref>. Concord of Relative, and Apposition.</div>
+                            <div xml:id="p10_r2_lat"><ref target="lat_55-lat_58">55-58</ref>. Adjective as Epithet.</div>
+                            <div xml:id="p10_r3_lat"><ref target="lat_191-lat_192">191-192</ref>. Participle as Adjective.</div>
+                            <div xml:id="p10_r4_lat"><ref target="lat_225">225</ref>, 227-228. Direct <term>Accusative</term> (continued).</div>
+                            <div xml:id="p10_r5_lat"><ref target="lat_335-lat_336">335-336</ref>. Direct Questions.</div>
+                            <div xml:id="p10_r6_lat"><ref target="lat_338">338</ref>. Exclamation.</div>
                         </div>
                         <div type="form_division">
                             <head>ΙΙ. β.</head>
-                            <div xml:id="p10_r7_lat">47-52. Notes on the Concords.</div>
-                            <div xml:id="p10_r8_lat">165. The Moods.</div>
-                            <div xml:id="p10_r9_lat">166. The Indicative (definition only).</div>
-                            <div xml:id="p10_r10_lat">167. The Imperative.</div>
-                            <div xml:id="p10_r11_lat">229-233. <term>Accusative</term> (continued).</div>
-                            <div xml:id="p10_r12_lat">240-242. Possessive <term>Genitive</term> (continued).</div>
-                            <div xml:id="p10_r13_lat">244-245. Partitive <term>Genitive</term> (continued).</div>
-                            <div xml:id="p10_r14_lat">274-276. <term>Ablative</term>: Locative.</div>
-                            <div xml:id="p10_r15_lat">330-331. Direct Command and Exhortation.</div>
-                            <div xml:id="p10_r16_lat">337. Deliberative Questions.</div>
+                            <div xml:id="p10_r7_lat"><ref target="lat_47-lat_52">47-52</ref>. Notes on the Concords.</div>
+                            <div xml:id="p10_r8_lat"><ref target="lat_165">165</ref>. The Moods.</div>
+                            <div xml:id="p10_r9_lat"><ref target="lat_166">166</ref>. The Indicative (definition only).</div>
+                            <div xml:id="p10_r10_lat"><ref target="lat_167">167</ref>. The Imperative.</div>
+                            <div xml:id="p10_r11_lat"><ref target="lat_229-lat_233">229-233</ref>. <term>Accusative</term> (continued).</div>
+                            <div xml:id="p10_r12_lat"><ref target="lat_240-lat_242">240-242</ref>. Possessive <term>Genitive</term> (continued).</div>
+                            <div xml:id="p10_r13_lat"><ref target="lat_244-lat_245">244-245</ref>. Partitive <term>Genitive</term> (continued).</div>
+                            <div xml:id="p10_r14_lat"><ref target="lat_274-lat_276">274-276</ref>. <term>Ablative</term>: Locative.</div>
+                            <div xml:id="p10_r15_lat"><ref target="lat_330-lat_331">330-331</ref>. Direct Command and Exhortation.</div>
+                            <div xml:id="p10_r16_lat"><ref target="lat_337">337</ref>. Deliberative Questions.</div>
                         </div>
                         <div type="form_division">
                             <head>II. a.</head>
-                            <div xml:id="p10_r17_lat">62-63. Comparatives.</div>
-                            <div xml:id="p10_r18_lat">69-70. Superlatives.</div>
-                            <div xml:id="p10_r19_lat">168. Subjunctive.</div>
-                            <div xml:id="p10_r20_lat">234-238. Two Accusatives.</div>
-                            <div xml:id="p10_r21_lat">259-265. <term>Ablative</term> Proper.</div>
-                            <div xml:id="p10_r22_lat">282-288. <term>Dative</term> of Interest.</div>
-                            <div xml:id="p10_r23_lat">339-334. The Compound Sentence: Sequence.</div>
-                            <div xml:id="p10_r24_lat">384. Final Clauses.</div>
-                            <div xml:id="p10_r25_lat">388-389, 392. Consecutive Clauses.</div>
+                            <div xml:id="p10_r17_lat"><ref target="lat_62-lat_63">62-63</ref>. Comparatives.</div>
+                            <div xml:id="p10_r18_lat"><ref target="lat_69-lat_70">69-70</ref>. Superlatives.</div>
+                            <div xml:id="p10_r19_lat"><ref target="lat_168">168</ref>. Subjunctive.</div>
+                            <div xml:id="p10_r20_lat"><ref target="lat_234-lat_238">234-238</ref>. Two Accusatives.</div>
+                            <div xml:id="p10_r21_lat"><ref target="lat_259-lat_265">259-265</ref>. <term>Ablative</term> Proper.</div>
+                            <div xml:id="p10_r22_lat"><ref target="lat_282-lat_288">282-288</ref>. <term>Dative</term> of Interest.</div>
+                            <div xml:id="p10_r23_lat"><ref target="lat_339-lat_334">339-334</ref>. The Compound Sentence: Sequence.</div>
+                            <div xml:id="p10_r24_lat"><ref target="lat_384">384</ref>. Final Clauses.</div>
+                            <div xml:id="p10_r25_lat"><ref target="lat_388-lat_389">388-389</ref>, 392. Consecutive Clauses.</div>
                         </div>
                     </div>
                     <div type="column" xml:lang="en">
                         <head>ENGLISH.</head>
                         <div type="form_division">
                             <head>ΙΙ. γ.</head>
-                            <div xml:id="p10_r1_eng">10-15. Complements.</div>
+                            <div xml:id="p10_r1_eng"><ref target="eng_10-eng_15">10-15</ref>. Complements.</div>
                             <div xml:id="p10_r2_eng"/>
                             <div xml:id="p10_r3_eng"/>
                             <div xml:id="p10_r4_eng"/>
@@ -328,7 +328,7 @@
                         </div>
                         <div type="form_division">
                             <head>ΙΙ. β.</head>
-                            <div xml:id="p10_r7_eng">31-34. Subordinate Clauses (with English of examples, 339-478).</div>
+                            <div xml:id="p10_r7_eng"><ref target="eng_31-eng_34">31-34</ref>. Subordinate Clauses (with English of examples, 339-478).</div>
                             <div xml:id="p10_r8_eng">Summarise English Syntax, 1-39.</div>
                             <div xml:id="p10_r9_eng"/>
                             <div xml:id="p10_r10_eng"/>
@@ -372,15 +372,15 @@
                             <div xml:id="p10_r14_grc"/>
                             <div xml:id="p10_r15_grc"/>
                             <div xml:id="p10_r16_grc"/>
-                            <div xml:id="p10_r17_grc">40-46. The Concords.</div>
-                            <div xml:id="p10_r18_grc">83-84. The Definite Article.</div>
+                            <div xml:id="p10_r17_grc"><ref target="lat_40-lat_46">40-46</ref>. The Concords.</div>
+                            <div xml:id="p10_r18_grc"><ref target="lat_83-lat_84">83-84</ref>. The Definite Article.</div>
                             <div xml:id="p10_r19_grc">144 (first paragraph). Voices.</div>
-                            <div xml:id="p10_r20_grc">165, (first paragraphs of) 166 and 167, 168. The Moods.</div>
-                            <div xml:id="p10_r21_grc">222-224. <term>Nominative</term> and <term>Vocative</term>.</div>
-                            <div xml:id="p10_r22_grc">225-228. <term>Accusative</term>.</div>
-                            <div xml:id="p10_r23_grc">239. Possessive <term>Genitive</term>.</div>
-                            <div xml:id="p10_r24_grc">277. Indirect <term>Dative</term>.</div>
-                            <div xml:id="p10_r25_grc">328-329. Direct Statement.</div>
+                            <div xml:id="p10_r20_grc"><ref target="lat_165">165</ref>, (first paragraphs of) 166 and 167, 168. The Moods.</div>
+                            <div xml:id="p10_r21_grc"><ref target="lat_222-lat_224">222-224</ref>. <term>Nominative</term> and <term>Vocative</term>.</div>
+                            <div xml:id="p10_r22_grc"><ref target="lat_225-lat_228">225-228</ref>. <term>Accusative</term>.</div>
+                            <div xml:id="p10_r23_grc"><ref target="lat_239">239</ref>. Possessive <term>Genitive</term>.</div>
+                            <div xml:id="p10_r24_grc"><ref target="lat_277">277</ref>. Indirect <term>Dative</term>.</div>
+                            <div xml:id="p10_r25_grc"><ref target="lat_328-lat_329">328-329</ref>. Direct Statement.</div>
                         </div>
                     </div>
                 </div>
@@ -392,38 +392,38 @@
                         <head>LATIN.</head>
                         <div type="form_division">
                             <head>ΙΙΙ. γ.</head>
-                            <div xml:id="p11_r1_lat">53-54. Substantives.</div>
-                            <div xml:id="p11_r2_lat">172-174. Infinitive as Noun; Prolative.</div>
-                            <div xml:id="p11_r3_lat">195-197, 199. The <term>Ablative</term> Absolute.</div>
-                            <div xml:id="p11_r4_lat">246-248. <term>Genitive</term>: Descriptive.</div>
-                            <div xml:id="p11_r5_lat">257-258. <term>Genitive</term>: Locative.</div>
-                            <div xml:id="p11_r6_lat">267-273. <term>Ablative</term>: Instrumental (continued).</div>
-                            <div xml:id="p11_r7_lat">348-354. Indirect Statement.</div>
+                            <div xml:id="p11_r1_lat"><ref target="lat_53-lat_54">53-54</ref>. Substantives.</div>
+                            <div xml:id="p11_r2_lat"><ref target="lat_172-lat_174">172-174</ref>. Infinitive as Noun; Prolative.</div>
+                            <div xml:id="p11_r3_lat"><ref target="lat_195-lat_197">195-197</ref>, 199. The <term>Ablative</term> Absolute.</div>
+                            <div xml:id="p11_r4_lat"><ref target="lat_246-lat_248">246-248</ref>. <term>Genitive</term>: Descriptive.</div>
+                            <div xml:id="p11_r5_lat"><ref target="lat_257-lat_258">257-258</ref>. <term>Genitive</term>: Locative.</div>
+                            <div xml:id="p11_r6_lat"><ref target="lat_267-lat_273">267-273</ref>. <term>Ablative</term>: Instrumental (continued).</div>
+                            <div xml:id="p11_r7_lat"><ref target="lat_348-lat_354">348-354</ref>. Indirect Statement.</div>
                             <div xml:id="p11_r8_lat">Summarise the <term>Ablative</term>, 259-276.</div>
                         </div>
                         <div type="form_division">
                             <head>ΙΙΙ. β.</head>
-                            <div xml:id="p11_r9_lat">64-68. Comparatives (continued).</div>
-                            <div xml:id="p11_r10_lat">71-74. Superlatives (continued).</div>
-                            <div xml:id="p11_r11_lat">104-106, 110-122. Pronouns: Personal, Reflexive.</div>
-                            <div xml:id="p11_r12_lat">249-256. <term>Genitive</term> (continued): Objective, etc.</div>
-                            <div xml:id="p11_r13_lat">289-292. Prepositions and their Cases.</div>
-                            <div xml:id="p11_r14_lat">300-311. Time, Place, Space.</div>
-                            <div xml:id="p11_r15_lat">355-358. Indirect Command and Petition.</div>
-                            <div xml:id="p11_r16_lat">359. Verbs of Statement and Command.</div>
+                            <div xml:id="p11_r9_lat"><ref target="lat_64-lat_68">64-68</ref>. Comparatives (continued).</div>
+                            <div xml:id="p11_r10_lat"><ref target="lat_71-lat_74">71-74</ref>. Superlatives (continued).</div>
+                            <div xml:id="p11_r11_lat"><ref target="lat_104-lat_106">104-106</ref>, 110-122. Pronouns: Personal, Reflexive.</div>
+                            <div xml:id="p11_r12_lat"><ref target="lat_249-lat_256">249-256</ref>. <term>Genitive</term> (continued): Objective, etc.</div>
+                            <div xml:id="p11_r13_lat"><ref target="lat_289-lat_292">289-292</ref>. Prepositions and their Cases.</div>
+                            <div xml:id="p11_r14_lat"><ref target="lat_300-lat_311">300-311</ref>. Time, Place, Space.</div>
+                            <div xml:id="p11_r15_lat"><ref target="lat_355-lat_358">355-358</ref>. Indirect Command and Petition.</div>
+                            <div xml:id="p11_r16_lat"><ref target="lat_359">359</ref>. Verbs of Statement and Command.</div>
                             <div xml:id="p11_r17_lat">Summarise the <term>Genitive</term>, 239-258.</div>
                         </div>
                         <div type="form_division">
                             <head>III. a.</head>
-                            <div xml:id="p11_r18_lat">59-61. The Adjective with the Verb.</div>
-                            <div xml:id="p11_r19_lat">151-156. Impersonal Construction, etc.</div>
-                            <div xml:id="p11_r20_lat">178-180. <term>Accusative</term> and <term>Nominative</term> with Infinitive.</div>
-                            <div xml:id="p11_r21_lat">182-183. The Supine.</div>
-                            <div xml:id="p11_r22_lat">184-186. <term>Gerund</term> and <term>Gerundive</term> (Verbal Action).</div>
-                            <div xml:id="p11_r23_lat">200-202, 208. Present, Imperfect, Future.</div>
-                            <div xml:id="p11_r24_lat">278-281. "Dative Verbs."</div>
-                            <div xml:id="p11_r25_lat">293-295. Prepositional Phrases.</div>
-                            <div xml:id="p11_r26_lat">371-374. Verbs of Fearing.</div>
+                            <div xml:id="p11_r18_lat"><ref target="lat_59-lat_61">59-61</ref>. The Adjective with the Verb.</div>
+                            <div xml:id="p11_r19_lat"><ref target="lat_151-lat_156">151-156</ref>. Impersonal Construction, etc.</div>
+                            <div xml:id="p11_r20_lat"><ref target="lat_178-lat_180">178-180</ref>. <term>Accusative</term> and <term>Nominative</term> with Infinitive.</div>
+                            <div xml:id="p11_r21_lat"><ref target="lat_182-lat_183">182-183</ref>. The Supine.</div>
+                            <div xml:id="p11_r22_lat"><ref target="lat_184-lat_186">184-186</ref>. <term>Gerund</term> and <term>Gerundive</term> (Verbal Action).</div>
+                            <div xml:id="p11_r23_lat"><ref target="lat_200-lat_202">200-202</ref>, 208. Present, Imperfect, Future.</div>
+                            <div xml:id="p11_r24_lat"><ref target="lat_278-lat_281">278-281</ref>. "Dative Verbs."</div>
+                            <div xml:id="p11_r25_lat"><ref target="lat_293-lat_295">293-295</ref>. Prepositional Phrases.</div>
+                            <div xml:id="p11_r26_lat"><ref target="lat_371-lat_374">371-374</ref>. Verbs of Fearing.</div>
                             <div xml:id="p11_r27_lat">Summarise Substantive and Adjective, 53-61.</div>
                             <div xml:id="p11_r28_lat">Summarise the <term>Dative</term>, 277-288.</div>
                         </div>
@@ -432,37 +432,37 @@
                         <head>GREEK.</head>
                         <div type="form_division">
                             <head>ΙΙΙ. γ.</head>
-                            <div xml:id="p11_r1_grc">47-50. Notes on Concords: Neuter Plural, Dual.</div>
-                            <div xml:id="p11_r2_grc">53-54. Use of Substantives.</div>
-                            <div xml:id="p11_r3_grc">55-57. Adjective as Epithet.</div>
-                            <div xml:id="p11_r4_grc">88-89. The Article as a Noun-maker.</div>
-                            <div xml:id="p11_r5_grc">191-192. The Participle as Adjective.</div>
-                            <div xml:id="p11_r6_grc">221. Survey of the Cases.</div>
-                            <div xml:id="p11_r7_grc">259. <term>Genitive</term> of Ablation.</div>
-                            <div xml:id="p11_r8_grc">266. <term>Dative</term>: Instrumental. 274. Dative: Locative.</div>
+                            <div xml:id="p11_r1_grc"><ref target="lat_47-lat_50">47-50</ref>. Notes on Concords: Neuter Plural, Dual.</div>
+                            <div xml:id="p11_r2_grc"><ref target="lat_53-lat_54">53-54</ref>. Use of Substantives.</div>
+                            <div xml:id="p11_r3_grc"><ref target="lat_55-lat_57">55-57</ref>. Adjective as Epithet.</div>
+                            <div xml:id="p11_r4_grc"><ref target="lat_88-lat_89">88-89</ref>. The Article as a Noun-maker.</div>
+                            <div xml:id="p11_r5_grc"><ref target="lat_191-lat_192">191-192</ref>. The Participle as Adjective.</div>
+                            <div xml:id="p11_r6_grc"><ref target="lat_221">221</ref>. Survey of the Cases.</div>
+                            <div xml:id="p11_r7_grc"><ref target="lat_259">259</ref>. <term>Genitive</term> of Ablation.</div>
+                            <div xml:id="p11_r8_grc"><ref target="lat_266">266</ref>. <term>Dative</term>: Instrumental. 274. Dative: Locative.</div>
                         </div>
                         <div type="form_division">
                             <head>ΙΙΙ. β.</head>
-                            <div xml:id="p11_r9_grc">51-52. Notes on Concords: the Relative.</div>
-                            <div xml:id="p11_r10_grc">62-68. The Comparative.</div>
-                            <div xml:id="p11_r11_grc">69-74. The Superlative.</div>
-                            <div xml:id="p11_r12_grc">85-87. The Article: Possessive, Generic.</div>
-                            <div xml:id="p11_r13_grc">104-106. Pronouns: Personal.</div>
-                            <div xml:id="p11_r14_grc">172-174. Infinitive as Noun; Prolative.</div>
-                            <div xml:id="p11_r15_grc">229-238. <term>Accusative</term> (continued).</div>
-                            <div xml:id="p11_r16_grc">240-250. <term>Genitive</term> Proper (continued).</div>
+                            <div xml:id="p11_r9_grc"><ref target="lat_51-lat_52">51-52</ref>. Notes on Concords: the Relative.</div>
+                            <div xml:id="p11_r10_grc"><ref target="lat_62-lat_68">62-68</ref>. The Comparative.</div>
+                            <div xml:id="p11_r11_grc"><ref target="lat_69-lat_74">69-74</ref>. The Superlative.</div>
+                            <div xml:id="p11_r12_grc"><ref target="lat_85-lat_87">85-87</ref>. The Article: Possessive, Generic.</div>
+                            <div xml:id="p11_r13_grc"><ref target="lat_104-lat_106">104-106</ref>. Pronouns: Personal.</div>
+                            <div xml:id="p11_r14_grc"><ref target="lat_172-lat_174">172-174</ref>. Infinitive as Noun; Prolative.</div>
+                            <div xml:id="p11_r15_grc"><ref target="lat_229-lat_238">229-238</ref>. <term>Accusative</term> (continued).</div>
+                            <div xml:id="p11_r16_grc"><ref target="lat_240-lat_250">240-250</ref>. <term>Genitive</term> Proper (continued).</div>
                             <div xml:id="p11_r17_grc">Summarise Comparative and Superlative, 62-74. Summarise the <term>Accusative</term>, 225-238.</div>
                         </div>
                         <div type="form_division">
                             <head>III. a.</head>
-                            <div xml:id="p11_r18_grc">58-61. Adjective as Epithet and Predicate.</div>
-                            <div xml:id="p11_r19_grc">92. Article with Subject and Predicate.</div>
-                            <div xml:id="p11_r20_grc">93-94. Article with Attribute and Predicate.</div>
-                            <div xml:id="p11_r21_grc">148-156. Passive Construction.</div>
-                            <div xml:id="p11_r22_grc">200-202, 208. Present, Imperfect, Future.</div>
-                            <div xml:id="p11_r23_grc">278-288. <term>Dative</term> Proper (continued).</div>
-                            <div xml:id="p11_r24_grc">335-336. Direct Questions.</div>
-                            <div xml:id="p11_r25_grc">338. Exclamation.</div>
+                            <div xml:id="p11_r18_grc"><ref target="lat_58-lat_61">58-61</ref>. Adjective as Epithet and Predicate.</div>
+                            <div xml:id="p11_r19_grc"><ref target="lat_92">92</ref>. Article with Subject and Predicate.</div>
+                            <div xml:id="p11_r20_grc"><ref target="lat_93-lat_94">93-94</ref>. Article with Attribute and Predicate.</div>
+                            <div xml:id="p11_r21_grc"><ref target="lat_148-lat_156">148-156</ref>. Passive Construction.</div>
+                            <div xml:id="p11_r22_grc"><ref target="lat_200-lat_202">200-202</ref>, 208. Present, Imperfect, Future.</div>
+                            <div xml:id="p11_r23_grc"><ref target="lat_278-lat_288">278-288</ref>. <term>Dative</term> Proper (continued).</div>
+                            <div xml:id="p11_r24_grc"><ref target="lat_335-lat_336">335-336</ref>. Direct Questions.</div>
+                            <div xml:id="p11_r25_grc"><ref target="lat_338">338</ref>. Exclamation.</div>
                             <div xml:id="p11_r26_grc">Summarise Substantive and Adjective, 53-61.</div>
                             <div xml:id="p11_r27_grc">Summarise the Concords, 40-52.</div>
                             <div xml:id="p11_r28_grc">Summarise the <term>Dative</term> Proper, 277-288.</div>
@@ -506,41 +506,41 @@
                         <head>LATIN.</head>
                         <div type="form_division">
                             <head>IV. γ.</head>
-                            <div xml:id="p12_r1_lat">75-79. The <term>Numerals</term>.</div>
-                            <div xml:id="p12_r2_lat">108-109, 123-124. <term>Pronouns</term>: Intensive, Demonstrative.</div>
-                            <div xml:id="p12_r3_lat">144-147. Trans. and Intrans. Verbs.</div>
-                            <div xml:id="p12_r4_lat">157-161. Passive as Middle.</div>
-                            <div xml:id="p12_r5_lat">162-164. Deponents.</div>
-                            <div xml:id="p12_r6_lat">203-206. (First paragraph only of 205): <term>Perfect</term>, <term>Pluperfect</term>.</div>
-                            <div xml:id="p12_r7_lat">312. Cases after Verbs.</div>
-                            <div xml:id="p12_r8_lat">360-362. Indirect Questions.</div>
-                            <div xml:id="p12_r9_lat">375-383. Impersonal Verbs.</div>
+                            <div xml:id="p12_r1_lat"><ref target="lat_75-lat_79">75-79</ref>. The <term>Numerals</term>.</div>
+                            <div xml:id="p12_r2_lat"><ref target="lat_108-lat_109">108-109</ref>, 123-124. <term>Pronouns</term>: Intensive, Demonstrative.</div>
+                            <div xml:id="p12_r3_lat"><ref target="lat_144-lat_147">144-147</ref>. Trans. and Intrans. Verbs.</div>
+                            <div xml:id="p12_r4_lat"><ref target="lat_157-lat_161">157-161</ref>. Passive as Middle.</div>
+                            <div xml:id="p12_r5_lat"><ref target="lat_162-lat_164">162-164</ref>. Deponents.</div>
+                            <div xml:id="p12_r6_lat"><ref target="lat_203-lat_206">203-206</ref>. (First paragraph only of 205): <term>Perfect</term>, <term>Pluperfect</term>.</div>
+                            <div xml:id="p12_r7_lat"><ref target="lat_312">312</ref>. Cases after Verbs.</div>
+                            <div xml:id="p12_r8_lat"><ref target="lat_360-lat_362">360-362</ref>. Indirect Questions.</div>
+                            <div xml:id="p12_r9_lat"><ref target="lat_375-lat_383">375-383</ref>. Impersonal Verbs.</div>
                             <div xml:id="p12_r10_lat">Summarise the Voices, 144-164.</div>
                         </div>
                         <div type="form_division">
                             <head>IV. β.</head>
-                            <div xml:id="p12_r11_lat">138-141. Relative <term>Pronouns</term>.</div>
-                            <div xml:id="p12_r12_lat">187-190. <term>Gerund</term> and <term>Gerundive</term> (Obligation).</div>
-                            <div xml:id="p12_r13_lat">193-194, 198. <term>Participle</term>: Adverbial, Supplementary.</div>
-                            <div xml:id="p12_r14_lat">213-216. Tense in the Moods.</div>
-                            <div xml:id="p12_r15_lat">364. Sub-Clauses in Indirect Statement.</div>
-                            <div xml:id="p12_r16_lat">365-370. Compel, try, beware.</div>
-                            <div xml:id="p12_r17_lat">385-387. Final Clauses (continued).</div>
-                            <div xml:id="p12_r18_lat">409-412. Causal Clauses.</div>
-                            <div xml:id="p12_r19_lat">462-463. Final and Consecutive Relative.</div>
+                            <div xml:id="p12_r11_lat"><ref target="lat_138-lat_141">138-141</ref>. Relative <term>Pronouns</term>.</div>
+                            <div xml:id="p12_r12_lat"><ref target="lat_187-lat_190">187-190</ref>. <term>Gerund</term> and <term>Gerundive</term> (Obligation).</div>
+                            <div xml:id="p12_r13_lat"><ref target="lat_193-lat_194">193-194</ref>, 198. <term>Participle</term>: Adverbial, Supplementary.</div>
+                            <div xml:id="p12_r14_lat"><ref target="lat_213-lat_216">213-216</ref>. Tense in the Moods.</div>
+                            <div xml:id="p12_r15_lat"><ref target="lat_364">364</ref>. Sub-Clauses in Indirect Statement.</div>
+                            <div xml:id="p12_r16_lat"><ref target="lat_365-lat_370">365-370</ref>. Compel, try, beware.</div>
+                            <div xml:id="p12_r17_lat"><ref target="lat_385-lat_387">385-387</ref>. Final Clauses (continued).</div>
+                            <div xml:id="p12_r18_lat"><ref target="lat_409-lat_412">409-412</ref>. Causal Clauses.</div>
+                            <div xml:id="p12_r19_lat"><ref target="lat_462-lat_463">462-463</ref>. Final and Consecutive Relative.</div>
                             <div xml:id="p12_r20_lat">Summarise the <term>Gerund</term> and <term>Gerundive</term>, 184-190.</div>
                         </div>
                         <div type="form_division">
                             <head>IV. a.</head>
-                            <div xml:id="p12_r21_lat">142-143. Correlation.</div>
-                            <div xml:id="p12_r22_lat">181. <term>Dative</term> with <term>Infinitive</term>.</div>
-                            <div xml:id="p12_r23_lat">205, 207, 209-212, 217. Tenses (continued).</div>
-                            <div xml:id="p12_r24_lat">313-319, 324. Conjunctions.</div>
-                            <div xml:id="p12_r25_lat">345-347. Sequence (continued).</div>
-                            <div xml:id="p12_r26_lat">363. Indirect Deliberative Questions.</div>
-                            <div xml:id="p12_r27_lat">413-435. Temporal Clauses: quum, dum, etc.</div>
-                            <div xml:id="p12_r28_lat">436-438. Local Clauses.</div>
-                            <div xml:id="p12_r29_lat">510-519. Quominus and quin.</div>
+                            <div xml:id="p12_r21_lat"><ref target="lat_142-lat_143">142-143</ref>. Correlation.</div>
+                            <div xml:id="p12_r22_lat"><ref target="lat_181">181</ref>. <term>Dative</term> with <term>Infinitive</term>.</div>
+                            <div xml:id="p12_r23_lat"><ref target="lat_205">205</ref>, 207, 209-212, 217. Tenses (continued).</div>
+                            <div xml:id="p12_r24_lat"><ref target="lat_313-lat_319">313-319</ref>, 324. Conjunctions.</div>
+                            <div xml:id="p12_r25_lat"><ref target="lat_345-lat_347">345-347</ref>. Sequence (continued).</div>
+                            <div xml:id="p12_r26_lat"><ref target="lat_363">363</ref>. Indirect Deliberative Questions.</div>
+                            <div xml:id="p12_r27_lat"><ref target="lat_413-lat_435">413-435</ref>. Temporal Clauses: quum, dum, etc.</div>
+                            <div xml:id="p12_r28_lat"><ref target="lat_436-lat_438">436-438</ref>. Local Clauses.</div>
+                            <div xml:id="p12_r29_lat"><ref target="lat_510-lat_519">510-519</ref>. Quominus and quin.</div>
                             <div xml:id="p12_r30_lat">Summarise Tenses in <term>Indicative</term>, 200-212.</div>
                             <div xml:id="p12_r31_lat">Summarise the Cases, 221-288.</div>
                             <div xml:id="p12_r32_lat">Summarise Sequence, 343-347.</div>
@@ -550,43 +550,43 @@
                         <head>GREEK.</head>
                         <div type="form_division">
                             <head>IV. γ.</head>
-                            <div xml:id="p12_r1_grc">75-79. The <term>Numerals</term>.</div>
-                            <div xml:id="p12_r2_grc">95-98. Article with <term>Genitives</term>, etc.</div>
-                            <div xml:id="p12_r3_grc">110-124. <term>Pronouns</term>: Reflexive, Possessive, Demonstrative.</div>
-                            <div xml:id="p12_r4_grc">144-147. Trans. and Intrans. Verbs.</div>
-                            <div xml:id="p12_r5_grc">157-161. Middle Voice.</div>
-                            <div xml:id="p12_r6_grc">162-164. Deponents.</div>
-                            <div xml:id="p12_r7_grc">203-206. (First paragraph only of 205): <term>Perfect</term>, <term>Aorist</term>, <term>Pluperfect</term>.</div>
-                            <div xml:id="p12_r8_grc">267-273. <term>Dative</term>: Instrumental (cont.).</div>
-                            <div xml:id="p12_r9_grc">275-276. <term>Dative</term>: Locative (continued).</div>
-                            <div xml:id="p12_r10_grc">300-311. Time, Place, Space. Summarise the Voices, 144-164. Summarise <term>Dative</term>, as a whole, 277-288.</div>
+                            <div xml:id="p12_r1_grc"><ref target="lat_75-lat_79">75-79</ref>. The <term>Numerals</term>.</div>
+                            <div xml:id="p12_r2_grc"><ref target="lat_95-lat_98">95-98</ref>. Article with <term>Genitives</term>, etc.</div>
+                            <div xml:id="p12_r3_grc"><ref target="lat_110-lat_124">110-124</ref>. <term>Pronouns</term>: Reflexive, Possessive, Demonstrative.</div>
+                            <div xml:id="p12_r4_grc"><ref target="lat_144-lat_147">144-147</ref>. Trans. and Intrans. Verbs.</div>
+                            <div xml:id="p12_r5_grc"><ref target="lat_157-lat_161">157-161</ref>. Middle Voice.</div>
+                            <div xml:id="p12_r6_grc"><ref target="lat_162-lat_164">162-164</ref>. Deponents.</div>
+                            <div xml:id="p12_r7_grc"><ref target="lat_203-lat_206">203-206</ref>. (First paragraph only of 205): <term>Perfect</term>, <term>Aorist</term>, <term>Pluperfect</term>.</div>
+                            <div xml:id="p12_r8_grc"><ref target="lat_267-lat_273">267-273</ref>. <term>Dative</term>: Instrumental (cont.).</div>
+                            <div xml:id="p12_r9_grc"><ref target="lat_275-lat_276">275-276</ref>. <term>Dative</term>: Locative (continued).</div>
+                            <div xml:id="p12_r10_grc"><ref target="lat_300-lat_311">300-311</ref>. Time, Place, Space. Summarise the Voices, 144-164. Summarise <term>Dative</term>, as a whole, 277-288.</div>
                         </div>
                         <div type="form_division">
                             <head>IV. β.</head>
-                            <div xml:id="p12_r11_grc">99-103. Article with <term>Pronouns</term>: οὗτος, etc.</div>
-                            <div xml:id="p12_r12_grc">108-109. <term>Pronouns</term>: Intensive.</div>
-                            <div xml:id="p12_r13_grc">138-141. Relative <term>Pronouns</term>.</div>
-                            <div xml:id="p12_r14_grc">193-197. <term>Participle</term>: Adverbial; <term>Genitive</term> Absolute.</div>
-                            <div xml:id="p12_r15_grc">213-215. Tense in the Moods.</div>
-                            <div xml:id="p12_r16_grc">251-258. <term>Genitive</term> Proper (continued).</div>
-                            <div xml:id="p12_r17_grc">260-265. <term>Genitive</term> of Ablation (cont.).</div>
-                            <div xml:id="p12_r18_grc">312. Cases after Verbs.</div>
-                            <div xml:id="p12_r19_grc">330-332. Direct Command, Exhortation, (Optative of) Wish.</div>
-                            <div xml:id="p12_r20_grc">337. Deliberative Questions. 489-490, 506-507. Negative: Redundant, etc. Summarise the <term>Genitive</term>, as a whole, 239-265.</div>
+                            <div xml:id="p12_r11_grc"><ref target="lat_99-lat_103">99-103</ref>. Article with <term>Pronouns</term>: οὗτος, etc.</div>
+                            <div xml:id="p12_r12_grc"><ref target="lat_108-lat_109">108-109</ref>. <term>Pronouns</term>: Intensive.</div>
+                            <div xml:id="p12_r13_grc"><ref target="lat_138-lat_141">138-141</ref>. Relative <term>Pronouns</term>.</div>
+                            <div xml:id="p12_r14_grc"><ref target="lat_193-lat_197">193-197</ref>. <term>Participle</term>: Adverbial; <term>Genitive</term> Absolute.</div>
+                            <div xml:id="p12_r15_grc"><ref target="lat_213-lat_215">213-215</ref>. Tense in the Moods.</div>
+                            <div xml:id="p12_r16_grc"><ref target="lat_251-lat_258">251-258</ref>. <term>Genitive</term> Proper (continued).</div>
+                            <div xml:id="p12_r17_grc"><ref target="lat_260-lat_265">260-265</ref>. <term>Genitive</term> of Ablation (cont.).</div>
+                            <div xml:id="p12_r18_grc"><ref target="lat_312">312</ref>. Cases after Verbs.</div>
+                            <div xml:id="p12_r19_grc"><ref target="lat_330-lat_332">330-332</ref>. Direct Command, Exhortation, (Optative of) Wish.</div>
+                            <div xml:id="p12_r20_grc"><ref target="lat_337">337</ref>. Deliberative Questions. 489-490, 506-507. Negative: Redundant, etc. Summarise the <term>Genitive</term>, as a whole, 239-265.</div>
                         </div>
                         <div type="form_division">
                             <head>IV. a.</head>
-                            <div xml:id="p12_r21_grc">80-82, 90-91. Article (continued).</div>
-                            <div xml:id="p12_r22_grc">142-143. Correlation.</div>
-                            <div xml:id="p12_r23_grc">178-181. Subject and Predicate of <term>Infinitive</term>.</div>
-                            <div xml:id="p12_r24_grc">205, 207, 209-212. Tenses (continued).</div>
-                            <div xml:id="p12_r25_grc">289-292. Prepositions and Cases.</div>
-                            <div xml:id="p12_r26_grc">313-319, 324. Conjunctions.</div>
-                            <div xml:id="p12_r27_grc">339-345, (first par. of) 346. Sequence.</div>
-                            <div xml:id="p12_r28_grc">348-354. Indirect Statement.</div>
-                            <div xml:id="p12_r29_grc">355-359. Indirect Command. 360-363. Indirect Questions.</div>
-                            <div xml:id="p12_r30_grc">364. Sub-Clauses in Indirect Statement.</div>
-                            <div xml:id="p12_r31_grc">375-382. Impersonal Verbs.</div>
+                            <div xml:id="p12_r21_grc"><ref target="lat_80-lat_82">80-82</ref>, 90-91. Article (continued).</div>
+                            <div xml:id="p12_r22_grc"><ref target="lat_142-lat_143">142-143</ref>. Correlation.</div>
+                            <div xml:id="p12_r23_grc"><ref target="lat_178-lat_181">178-181</ref>. Subject and Predicate of <term>Infinitive</term>.</div>
+                            <div xml:id="p12_r24_grc"><ref target="lat_205">205</ref>, 207, 209-212. Tenses (continued).</div>
+                            <div xml:id="p12_r25_grc"><ref target="lat_289-lat_292">289-292</ref>. Prepositions and Cases.</div>
+                            <div xml:id="p12_r26_grc"><ref target="lat_313-lat_319">313-319</ref>, 324. Conjunctions.</div>
+                            <div xml:id="p12_r27_grc"><ref target="lat_339-lat_345">339-345</ref>, (first par. of) 346. Sequence.</div>
+                            <div xml:id="p12_r28_grc"><ref target="lat_348-lat_354">348-354</ref>. Indirect Statement.</div>
+                            <div xml:id="p12_r29_grc"><ref target="lat_355-lat_359">355-359</ref>. Indirect Command. 360-363. Indirect Questions.</div>
+                            <div xml:id="p12_r30_grc"><ref target="lat_364">364</ref>. Sub-Clauses in Indirect Statement.</div>
+                            <div xml:id="p12_r31_grc"><ref target="lat_375-lat_382">375-382</ref>. Impersonal Verbs.</div>
                             <div xml:id="p12_r32_grc">Summarise the Article, 80-103. Summarise Tenses in <term>Indicative</term>, 200-212. Summarise the Cases, 221-288.</div>
                         </div>
                     </div>
@@ -632,30 +632,30 @@
                         <head>LATIN.</head>
                         <div type="form_division">
                             <head>V. γ.</head>
-                            <div xml:id="p13_r1_lat">107. <term>Pronouns</term>, Notes on.</div>
-                            <div xml:id="p13_r2_lat">127-135. <term>Pronouns</term>: Indefinite, Interrog.</div>
-                            <div xml:id="p13_r3_lat">218. Potential Tenses.</div>
-                            <div xml:id="p13_r4_lat">322-323, 325. Conjunctions (continued).</div>
-                            <div xml:id="p13_r5_lat">332-334. Direct Wishes.</div>
-                            <div xml:id="p13_r6_lat">390-391, 393-394. Consecutive Clauses (continued).</div>
-                            <div xml:id="p13_r7_lat">395-404. Conditional Clauses.</div>
-                            <div xml:id="p13_r8_lat">439-445. Concessive Clauses.</div>
-                            <div xml:id="p13_r9_lat">446-457. Comparative Clauses.</div>
-                            <div xml:id="p13_r10_lat">479-488. <term>Oratio Obliqua</term>.</div>
+                            <div xml:id="p13_r1_lat"><ref target="lat_107">107</ref>. <term>Pronouns</term>, Notes on.</div>
+                            <div xml:id="p13_r2_lat"><ref target="lat_127-lat_135">127-135</ref>. <term>Pronouns</term>: Indefinite, Interrog.</div>
+                            <div xml:id="p13_r3_lat"><ref target="lat_218">218</ref>. Potential Tenses.</div>
+                            <div xml:id="p13_r4_lat"><ref target="lat_322-lat_323">322-323</ref>, 325. Conjunctions (continued).</div>
+                            <div xml:id="p13_r5_lat"><ref target="lat_332-lat_334">332-334</ref>. Direct Wishes.</div>
+                            <div xml:id="p13_r6_lat"><ref target="lat_390-lat_391">390-391</ref>, 393-394. Consecutive Clauses (continued).</div>
+                            <div xml:id="p13_r7_lat"><ref target="lat_395-lat_404">395-404</ref>. Conditional Clauses.</div>
+                            <div xml:id="p13_r8_lat"><ref target="lat_439-lat_445">439-445</ref>. Concessive Clauses.</div>
+                            <div xml:id="p13_r9_lat"><ref target="lat_446-lat_457">446-457</ref>. Comparative Clauses.</div>
+                            <div xml:id="p13_r10_lat"><ref target="lat_479-lat_488">479-488</ref>. <term>Oratio Obliqua</term>.</div>
                             <div xml:id="p13_r11_lat">Summarise <term>Pronouns</term>, 104-143.</div>
                             <div xml:id="p13_r12_lat">Summarise <term>Participle</term>, 191-199.</div>
                             <div xml:id="p13_r13_lat">Summarise Substantival Clauses, 348-383.</div>
                         </div>
                         <div type="form_division">
                             <head>V. β.</head>
-                            <div xml:id="p13_r14_lat">80-103. Order of Words and Clauses.</div>
-                            <div xml:id="p13_r15_lat">175-177. <term>Infinitive</term>: Epexegetic, Absolute.</div>
-                            <div xml:id="p13_r16_lat">219-220. Potential and Indefinite.</div>
-                            <div xml:id="p13_r17_lat">296-299. Prepositions in Composition with Verbs.</div>
-                            <div xml:id="p13_r18_lat">405-408. Notes on Conditionals.</div>
-                            <div xml:id="p13_r19_lat">458-461, 464-472. Relative Clauses (other uses).</div>
-                            <div xml:id="p13_r20_lat">473-478. Sub-Oblique <term>Conjunctive</term>.</div>
-                            <div xml:id="p13_r21_lat">489-499, 504-505, 506-509. Negative.</div>
+                            <div xml:id="p13_r14_lat"><ref target="lat_80-lat_103">80-103</ref>. Order of Words and Clauses.</div>
+                            <div xml:id="p13_r15_lat"><ref target="lat_175-lat_177">175-177</ref>. <term>Infinitive</term>: Epexegetic, Absolute.</div>
+                            <div xml:id="p13_r16_lat"><ref target="lat_219-lat_220">219-220</ref>. Potential and Indefinite.</div>
+                            <div xml:id="p13_r17_lat"><ref target="lat_296-lat_299">296-299</ref>. Prepositions in Composition with Verbs.</div>
+                            <div xml:id="p13_r18_lat"><ref target="lat_405-lat_408">405-408</ref>. Notes on Conditionals.</div>
+                            <div xml:id="p13_r19_lat"><ref target="lat_458-lat_461">458-461</ref>, 464-472. Relative Clauses (other uses).</div>
+                            <div xml:id="p13_r20_lat"><ref target="lat_473-lat_478">473-478</ref>. Sub-Oblique <term>Conjunctive</term>.</div>
+                            <div xml:id="p13_r21_lat"><ref target="lat_489-lat_499">489-499</ref>, 504-505, 506-509. Negative.</div>
                             <div xml:id="p13_r22_lat">Summarise the <term>Infinitive</term>, 172-181.</div>
                             <div xml:id="p13_r23_lat">Summarise the Tenses, 200-220.</div>
                             <div xml:id="p13_r24_lat">Summarise the Simple Sentence, 328-338.</div>
@@ -663,11 +663,11 @@
                         </div>
                         <div type="form_division">
                             <head>V. a.</head>
-                            <div xml:id="p13_r26_lat">166. Uses of <term>Indicative</term>.</div>
-                            <div xml:id="p13_r27_lat">169-171. Uses of <term>Subjunctive</term>.</div>
-                            <div xml:id="p13_r28_lat">320-321. Particles: Intensive, etc.</div>
-                            <div xml:id="p13_r29_lat">326-327. Interjections and Adverbs.</div>
-                            <div xml:id="p13_r30_lat">500-503. Negative (continued).</div>
+                            <div xml:id="p13_r26_lat"><ref target="lat_166">166</ref>. Uses of <term>Indicative</term>.</div>
+                            <div xml:id="p13_r27_lat"><ref target="lat_169-lat_171">169-171</ref>. Uses of <term>Subjunctive</term>.</div>
+                            <div xml:id="p13_r28_lat"><ref target="lat_320-lat_321">320-321</ref>. Particles: Intensive, etc.</div>
+                            <div xml:id="p13_r29_lat"><ref target="lat_326-lat_327">326-327</ref>. Interjections and Adverbs.</div>
+                            <div xml:id="p13_r30_lat"><ref target="lat_500-lat_503">500-503</ref>. Negative (continued).</div>
                             <div xml:id="p13_r31_lat">Summarise <term>Indicative</term>, <term>Imperative</term>, <term>Conjunctive</term>, 165-171.</div>
                             <div xml:id="p13_r32_lat">Summarise the Particles, 313-327.</div>
                             <div xml:id="p13_r33_lat">Summarise Adverbial Clauses, 384-457.</div>
@@ -679,47 +679,47 @@
                         <head>GREEK.</head>
                         <div type="form_division">
                             <head>V. γ.</head>
-                            <div xml:id="p13_r1_grc">107. Personal <term>Pronouns</term>, Note on.</div>
-                            <div xml:id="p13_r2_grc">125-137. <term>Pronouns</term>: Indefinite, Interrog.</div>
-                            <div xml:id="p13_r3_grc">198-199. Supplementary <term>Participle</term>.</div>
-                            <div xml:id="p13_r4_grc">293-295. Prepositional Idioms.</div>
-                            <div xml:id="p13_r5_grc">322-323, 325. Conjunctions (continued).</div>
-                            <div xml:id="p13_r6_grc">363. Indirect Deliberative Questions.</div>
-                            <div xml:id="p13_r7_grc">365-374. Compel, try, beware, fear.</div>
-                            <div xml:id="p13_r8_grc">383. χαίρω, etc.</div>
-                            <div xml:id="p13_r9_grc">384-387. Final Clauses.</div>
-                            <div xml:id="p13_r10_grc">388-394. Consecutive Clauses.</div>
-                            <div xml:id="p13_r11_grc">409-412. Causal Clauses.</div>
+                            <div xml:id="p13_r1_grc"><ref target="lat_107">107</ref>. Personal <term>Pronouns</term>, Note on.</div>
+                            <div xml:id="p13_r2_grc"><ref target="lat_125-lat_137">125-137</ref>. <term>Pronouns</term>: Indefinite, Interrog.</div>
+                            <div xml:id="p13_r3_grc"><ref target="lat_198-lat_199">198-199</ref>. Supplementary <term>Participle</term>.</div>
+                            <div xml:id="p13_r4_grc"><ref target="lat_293-lat_295">293-295</ref>. Prepositional Idioms.</div>
+                            <div xml:id="p13_r5_grc"><ref target="lat_322-lat_323">322-323</ref>, 325. Conjunctions (continued).</div>
+                            <div xml:id="p13_r6_grc"><ref target="lat_363">363</ref>. Indirect Deliberative Questions.</div>
+                            <div xml:id="p13_r7_grc"><ref target="lat_365-lat_374">365-374</ref>. Compel, try, beware, fear.</div>
+                            <div xml:id="p13_r8_grc"><ref target="lat_383">383</ref>. χαίρω, etc.</div>
+                            <div xml:id="p13_r9_grc"><ref target="lat_384-lat_387">384-387</ref>. Final Clauses.</div>
+                            <div xml:id="p13_r10_grc"><ref target="lat_388-lat_394">388-394</ref>. Consecutive Clauses.</div>
+                            <div xml:id="p13_r11_grc"><ref target="lat_409-lat_412">409-412</ref>. Causal Clauses.</div>
                             <div xml:id="p13_r12_grc">Summarise <term>Pronouns</term>, 104-143.</div>
                             <div xml:id="p13_r13_grc">Summarise <term>Participle</term>, 191-199. Summarise Substantival Clauses, 348-383.</div>
                         </div>
                         <div type="form_division">
                             <head>V. β.</head>
-                            <div xml:id="p13_r14_grc">175-177, 182-186. <term>Infinitive</term>: Epexegetic, Absolute.</div>
-                            <div xml:id="p13_r15_grc">187-190. Verbal Adjectives.</div>
-                            <div xml:id="p13_r16_grc">217-220. The Particle ἄν.</div>
-                            <div xml:id="p13_r17_grc">296-299. Prepositions in Composition with Verbs.</div>
-                            <div xml:id="p13_r18_grc">332-334. Direct Wishes.</div>
-                            <div xml:id="p13_r19_grc">395-403. Conditional Clauses.</div>
-                            <div xml:id="p13_r20_grc">413-435. Temporal Clauses: ὅτε, ἕως, πρίν.</div>
-                            <div xml:id="p13_r21_grc">436-438. Local Clauses.</div>
-                            <div xml:id="p13_r22_grc">439-443. Concessive Clauses.</div>
-                            <div xml:id="p13_r23_grc">458-472. Relative Clauses.</div>
+                            <div xml:id="p13_r14_grc"><ref target="lat_175-lat_177">175-177</ref>, 182-186. <term>Infinitive</term>: Epexegetic, Absolute.</div>
+                            <div xml:id="p13_r15_grc"><ref target="lat_187-lat_190">187-190</ref>. Verbal Adjectives.</div>
+                            <div xml:id="p13_r16_grc"><ref target="lat_217-lat_220">217-220</ref>. The Particle ἄν.</div>
+                            <div xml:id="p13_r17_grc"><ref target="lat_296-lat_299">296-299</ref>. Prepositions in Composition with Verbs.</div>
+                            <div xml:id="p13_r18_grc"><ref target="lat_332-lat_334">332-334</ref>. Direct Wishes.</div>
+                            <div xml:id="p13_r19_grc"><ref target="lat_395-lat_403">395-403</ref>. Conditional Clauses.</div>
+                            <div xml:id="p13_r20_grc"><ref target="lat_413-lat_435">413-435</ref>. Temporal Clauses: ὅτε, ἕως, πρίν.</div>
+                            <div xml:id="p13_r21_grc"><ref target="lat_436-lat_438">436-438</ref>. Local Clauses.</div>
+                            <div xml:id="p13_r22_grc"><ref target="lat_439-lat_443">439-443</ref>. Concessive Clauses.</div>
+                            <div xml:id="p13_r23_grc"><ref target="lat_458-lat_472">458-472</ref>. Relative Clauses.</div>
                             <div xml:id="p13_r24_grc">Summarise the <term>Infinitive</term>, 172-186.</div>
                             <div xml:id="p13_r25_grc">Summarise the Tenses, 200-220. Summarise the Simple Sentence, 328-338. Summarise Adjectival Clauses, 458-472.</div>
                         </div>
                         <div type="form_division">
                             <head>V. a.</head>
-                            <div xml:id="p13_r26_grc">166. <term>Indicative</term>.</div>
-                            <div xml:id="p13_r27_grc">167. <term>Imperative</term>.</div>
-                            <div xml:id="p13_r28_grc">169-171. <term>Subjunctive</term> and <term>Optative</term>.</div>
-                            <div xml:id="p13_r29_grc">320-321. Particles: Intensive, etc.</div>
-                            <div xml:id="p13_r30_grc">326-327. Interjections and Adverbs.</div>
-                            <div xml:id="p13_r31_grc">346-347. Note on Sequence.</div>
-                            <div xml:id="p13_r32_grc">404-408. Note on Conditionals.</div>
-                            <div xml:id="p13_r33_grc">444-445. Limitative Clauses.</div>
-                            <div xml:id="p13_r34_grc">446-447. Comparative Clauses.</div>
-                            <div xml:id="p13_r35_grc">473-478. Sub-Oblique <term>Conjunctive</term>. 479-488. <term>Oratio Obliqua</term>. 491-499, 500-505. Negative (continued). 508-519. μὴ οὐ, οὐ μή. Summarise <term>Indicative</term>, <term>Imperative</term>, <term>Conjunctive</term>, 165-171. Summarise the Particles, 313-327. Summarise Sequence, 343-347. Summarise Adverbial Clauses, 384-457. Summarise Oblique Statement, 473-488. Summarise the Negative, 389-519.</div>
+                            <div xml:id="p13_r26_grc"><ref target="lat_166">166</ref>. <term>Indicative</term>.</div>
+                            <div xml:id="p13_r27_grc"><ref target="lat_167">167</ref>. <term>Imperative</term>.</div>
+                            <div xml:id="p13_r28_grc"><ref target="lat_169-lat_171">169-171</ref>. <term>Subjunctive</term> and <term>Optative</term>.</div>
+                            <div xml:id="p13_r29_grc"><ref target="lat_320-lat_321">320-321</ref>. Particles: Intensive, etc.</div>
+                            <div xml:id="p13_r30_grc"><ref target="lat_326-lat_327">326-327</ref>. Interjections and Adverbs.</div>
+                            <div xml:id="p13_r31_grc"><ref target="lat_346-lat_347">346-347</ref>. Note on Sequence.</div>
+                            <div xml:id="p13_r32_grc"><ref target="lat_404-lat_408">404-408</ref>. Note on Conditionals.</div>
+                            <div xml:id="p13_r33_grc"><ref target="lat_444-lat_445">444-445</ref>. Limitative Clauses.</div>
+                            <div xml:id="p13_r34_grc"><ref target="lat_446-lat_447">446-447</ref>. Comparative Clauses.</div>
+                            <div xml:id="p13_r35_grc"><ref target="lat_473-lat_478">473-478</ref>. Sub-Oblique <term>Conjunctive</term>. 479-488. <term>Oratio Obliqua</term>. 491-499, 500-505. Negative (continued). 508-519. μὴ οὐ, οὐ μή. Summarise <term>Indicative</term>, <term>Imperative</term>, <term>Conjunctive</term>, 165-171. Summarise the Particles, 313-327. Summarise Sequence, 343-347. Summarise Adverbial Clauses, 384-457. Summarise Oblique Statement, 473-488. Summarise the Negative, 389-519.</div>
                         </div>
                     </div>
                     <div type="column" xml:lang="en">
@@ -912,6 +912,329 @@
                 <link target="#p13_r34_lat #p13_r34_grc #p13_r34_eng"/>
                 <link target="#p13_r35_lat #p13_r35_grc #p13_r35_eng"/>
             </linkGrp>
+        <pb n="1" facs="#21"/>
+         <head>PART I.</head>
+         <head>SYNTAX.</head>
+
+         <div type="textpart" subtype="section" n="1"  xml:id="eng_1">
+            <p><term>Accidence</term> deals with the different forms of words; <term>Syntax</term> deals with the different uses of words, showing how words are employed, arranged and constructed with one another (Greek, <foreign xml:lang="grc">syntassō</foreign>, I arrange together). Syntax therefore deals with Sentences.</p>
+         </div>
+
+         <div type="textpart" subtype="section" n="2" xml:id="eng_2">
+            <head>Sentences.</head>
+            <p>A <term>Sentence</term> is a complete thought expressed in language (Latin, <foreign xml:lang="la">sententia</foreign>, a thought). Sentences are either <term>Simple</term> or <term>Compound</term>.</p>
+            <p>A <term>Simple Sentence</term> expresses one single thought, as, <q>he went to Athens</q>.</p>
+            <p>A <term>Compound Sentence</term> expresses one principal thought and one or more dependent thoughts, as, <q>he went to Athens, that he might see Socrates</q>. That part of the sentence which contains the leading thought is called the <term>Main</term> or <term>Principal Sentence</term>; that part which contains the dependent thought is called the <term>Dependent</term> or <term>Subordinate Clause</term>. We can always distinguish between them by seeing which will stand alone. Thus, <q>that he might see Socrates</q> makes no sense by itself, and is therefore the Dependent Clause; <q>he went to Athens</q> will stand alone: it is therefore the Main Sentence.</p>
+         </div>
+
+         <div type="textpart" subtype="section" n="3" xml:id="eng_3">
+            <p>If two Main Sentences or two Dependent Clauses are linked together they are called <term>Coordinate</term>. Thus, <q>he went to Athens, and he stayed there</q> are two Coordinate Main Sentences;</p>
+      
+
+         <pb n="2" facs="#22"/>
+         <fw type="header" place="top">2 I. ENGLISH SYNTAX.</fw>
+         
+         
+             <p><q>that he might see Socrates, and that he might converse with him</q> are two Coordinate Dependent Clauses.</p>
+
+             <p>The Particle which connects the Subordinate Clause to the Main Sentence or which joins together two Coordinate Clauses (<foreign xml:lang="la" rend="italic">e.g.</foreign> <foreign xml:lang="la">sup.</foreign>, <q>that,</q> <q>and</q>) is called a <term>Conjunction</term> (<ref>§ 27</ref>). The Conjunction <q>and</q> is also called the <term><q>Copula</q></term>.</p>
+         </div>
+
+         <div type="textpart" subtype="section" n="4" xml:id="eng_4">
+         <head>Subject, Predicate and Connexion.</head>
+         <p>In a complete thought or sentence there are always at least two ideas, which are coupled together: <foreign xml:lang="la" rend="italic">i.e.</foreign>,</p>
+         <list type="ordered">
+            <item n="1">
+               <label>(1)</label> The <term>Subject</term>: the person or thing spoken about.
+               <p>The Subject must be a Substantive, as, <q>Socrates</q>; or a Substantival word or phrase, such as a Substantive Pronoun, <q>he</q>; an Adjective or Participle used Substantivally, <q>a Greek,</q> <q>the dying</q>; a Verb Noun Infinitive, <q>to flee</q>; or even an entire Clause, <q>the fact that this is true</q>.</p>
+            </item>
+
+          </list>
+        </div>
+
+         <div type="textpart" subtype="section" n="5" xml:id="eng_5">
+           <list type="ordered">
+            <item n="2">
+               <label>(2)</label> The <term>Predicate</term>: that which is said (<foreign xml:lang="la" rend="italic">predico, -are</foreign>, <hi rend="italic">I state</hi>) about the Subject. The Predicate must be—
+               <list type="ordered">
+                  <item n="a">
+                     <label>(a)</label> An Adjective, as, <q>wise</q>; or a Pronoun, Participle, or Substantive used Adjectivally, as, <q>his,</q> <q>educated,</q> <q>a philosopher</q>.
+                     <p>We require here some word to connect the Predicate with the Subject, and to supply the connexion some part of the verb <q>to be</q> is generally used. Thus—
+                     <cit><quote>Socrates (subject) was (connexion) wise (predicate).</quote></cit>
+                     </p>
+                     <note type="observation"><label>Obs.</label> The verb <q>to be</q> so used is called the <term>Copula</term> because it couples two ideas together. (Note, therefore, that the word <q>copula</q> is used in two senses, of the Conjunction <q>and,</q> and of the verb <q>to be</q>.)</note>
+                  </item>
+                  <item n="b">
+                     <label>(b)</label> A Verb, <foreign xml:lang="la" rend="italic">e.g.</foreign>, <q>speak</q>. Here the connexion is contained in the Predicate itself, and no connecting word is necessary. Thus—
+                     <cit><quote>Socrates (subject) spoke (predicate, including connexion).</quote></cit>
+                  </item>
+               </list>
+            </item>
+         </list>
+           </div>
+         <pb n="3" facs="#23"/>
+               
+
+         <div type="textpart" subtype="section" n="6" xml:id="eng_6">
+
+         <fw type="header" place="top">SUBJECT AND PREDICATE. 3</fw>
+         
+      
+            <p><label>Note 1.</label> With the Predicative Adjective the copula <q>to be</q> is often omitted in statements; <foreign xml:lang="la" rend="italic">e.g.</foreign>, <q>noble (is) the deed</q>. (The Verb <q>to be,</q> as expressing existence, <foreign xml:lang="la" rend="italic">e.g.</foreign>, <q>there is,</q> must not be omitted.)</p>
+            <p><label>Note 2.</label>—With both the Predicative Adjective and the Predicative Verb the Personal Pronoun as subject is often omitted, if unemphatic. In English this omission is almost confined to the Imperative: <q>be (thou) wise!</q> <q>speak (thou)!</q>. In Greek and Latin, owing to their use of inflexions, the omission can occur freely, without loss of clearness, in other Moods, <foreign xml:lang="la" rend="italic">e.g.</foreign>, <q>(he) was wise,</q> <q>(he) may speak</q>.</p>
+        </div>
+
+         <div type="textpart" subtype="section" n="7" xml:id="eng_7">
+
+            <p>Observe, therefore, that a complete Sentence, in its simplest shape, may consist of three words, or two, or even one; and may, with the omission of Pronoun or Copula, assume the following forms:—</p>
+            <list type="simple">
+               <item><emph>Three words:</emph> 1. He is happy.</item>
+               <item><emph>Two words:</emph> 2. He speaks.</item>
+               <item>3. Happy (is) he. <note>[Copula omitted.]</note></item>
+               <item>4. Be (thou) happy. <note>[Pronoun omitted.]</note></item>
+               <item><emph>One word:</emph> 5. Speak (thou). <note>[Subject, Predicate and Copula being all contained in one.]</note></item>
+            </list>
+        </div>
+
+         <div type="textpart" subtype="section" n="8" xml:id="eng_8">
+         
+         <head>Complements.</head>
+         
+  
+            <p>On the other hand, the Subject, Predicate and Copula may each have other words added to them to fill out their sense. Thus: Many verbs, as, <q>I desire,</q> require the addition of another word to complete their meaning—<q>I desire success,</q> <q>I fear to die</q>. Other verbs, <foreign xml:lang="la" rend="italic">e.g.</foreign>, <q>I consider,</q> require the addition not merely of one word, but of a second word in agreement with the first—<q>I consider Socrates wise</q>. In such a Sentence, <q>I</q> is the Subject; while the words <q>consider-Socrates-wise,</q> taken together, form the Predicate.</p>
+         </div>
+
+         <div type="textpart" subtype="section" n="9" xml:id="eng_9">
+            <p>Beside the addition of such necessary words, any Subject, Predicate, or Copula may have a word added to it to amplify
+            <pb n="4" facs="#24"/>
+            <fw type="header" place="top">4 I. ENGLISH SYNTAX.</fw>
+            its meaning, as, <q>the noble-Socrates undoubtedly-was very-wise</q>. And the added word may itself be qualified by the addition of another word, as, <q>the exceedingly-noble-Socrates,</q> etc. In such a sentence, <q>the-exceedingly-noble-Socrates</q> becomes the Subject, <q>undoubtedly-was</q> becomes the Copula, <q>very-wise</q> the Predicate.</p>
+            <p>These added words, necessary or otherwise, are called <term>Complements</term> because they <q>complete</q> the sense. Complements are of three kinds:—</p>
+         </div>
+
+         <div type="textpart" subtype="section" n="10" xml:id="eng_10">
+            <head>1. Substantival Complements.</head>
+            <p>Substantives, or words used as such (<ref>§ 4</ref>), are added in the oblique cases to certain Verbs to complete their meaning. Such a Substantive is called the <term>Object</term> of the Verb—the <term>Direct Object</term> if it is in the Accusative; the <term>Indirect Object</term> if it is in the Dative. Thus, <q>Socrates desired wisdom</q> (Direct Object); <q>Socrates yielded to the Thirty Tyrants</q> (Indirect Object).</p>
+            <p>Substantival Complements are sometimes found with Adjectives and Substantives, as, <q>desirous of death,</q> <q>obedience to the laws</q>. Such complements are also called <term>Objective</term>.</p>
+         </div>
+
+         <div type="textpart" subtype="section" n="11" xml:id="eng_11">
+             <head>2. Adjectival Complements.</head>
+             <p><label>(a)</label> Adjectives, or words used as such (<ref>§ 4</ref>), are added to Substantives to complete their meaning, as, <q>the philosophic Socrates</q>. An Adjective so used is called an <term>Attribute</term> or <term>Epithet</term> (<q>that which is put on</q> to the Substantive).</p>
+             <p>When a Substantive is thus used attributively, <foreign xml:lang="la" rend="italic">e.g.</foreign>, <q>Socrates, the philosopher,</q> it is said to stand in <term>Apposition</term> to the Substantive it qualifies.</p>
+         </div>
+
+         <div type="textpart" subtype="section" n="12" xml:id="eng_12">
+            <p><label>(b)</label> Many Verbs have an Adjective, referring to the Subject or to the Object, to complete their meaning. Such Adjectives are called <term>Secondary Predicates,</term> if they refer to the Subject; <term>Tertiary Predicates,</term> if they refer to the Object: to distinguish them from the simpler Predicates with the Verb-Copula <q>to be,</q> which are called <term>Primary</term>.</p>
+            <p>These Predicates are necessary complements to Copulative
+            <pb n="5" facs="#25"/>
+            <fw type="header" place="top">COMPLEMENTS. 5</fw>
+            and Factitive Verbs (<ref>§§ 21, 22</ref>), <foreign xml:lang="la" rend="italic">e.g.</foreign>, <q>Socrates was considered wise</q> (Secondary); <q>They considered Socrates wise</q> (Tertiary). But they may also be involved in the construction of other Verbs: thus—</p>
+            <list type="simple">
+               <item><term>Primary Predicate</term> : <q>The water was hot</q>.</item>
+               <item><term>Secondary Predicate</term> : <q>The water was brought in hot</q>.</item>
+               <item><term>Tertiary Predicate</term> : <q>They brought in the water hot</q>.</item>
+            </list>
+            <p>(Observe that, in all its uses as a Predicate, the Adjective gives fresh information about the Subject: <q>the water is hot</q>; as an Attribute, it assumes that such information is already known: <q>the hot water</q>.)</p>
+         </div>
+
+         <div type="textpart" subtype="section" n="13" xml:id="eng_13">
+            <head>3. Adverbial Complements.</head>
+            <p>An Adverb or Adverbial phrase may be added to a Verb or Adjective to complete its meaning. Thus, in <q>the truly-great act with-prudence,</q> <q>truly</q> is an Adverbial Complement qualifying the Adjective <q>great</q>; <q>with-prudence,</q> <foreign xml:lang="la" rend="italic">i.e.</foreign> prudently," is an Adverbial Complement qualifying the verb <q>act</q>.</p>
+            <p>Adverbial Complements qualify the word they refer to in respect of Time, Place, Circumstance, Manner, or Degree. Thus, <q>On-the-next-day Pompey remained quietly in-camp with-all-his-forces</q>: <q>Pompey</q> is the Subject, <q>remained</q> is the Verb-Predicate, all the rest are Adverbial Complements of the Verb <q>remained</q>.</p>
+         </div>
+
+         <div type="textpart" subtype="section" n="14" xml:id="eng_14">
+            <p><label>Note.</label> The Complement may, like the Subject (<ref>§ 4</ref>), be not a mere word, but an entire Clause; and such Clauses will fall under one of the three headings of Complements just given above. Thus 
+               <list type="ordered">
+                 <item><label>(1)</label> Substantival : <q>Socrates desired that-he-should-be-wise</q>;</item> 
+                 <item><label>(2)</label> Adjectival: <q>Socrates, who-was-a-philosopher</q>;</item> 
+                 <item><label>(3)</label> <q>the truly great act so-that-they-are-always-prudent</q>.</item>
+               </list>
+               See <ref>§ 34</ref>.
+            </p>
+         </div>
+
+         <div type="textpart" subtype="section" n="15" xml:id="eng_15">
+            <p>In the second of these, which is a Relative Clause, the word to which the Relative refers is called the <term>Antecedent</term>, because, as a rule, it immediately <q>goes before</q> (<foreign xml:lang="la" rend="italic">antecedo</foreign>) the Relative. Thus, <q>Socrates</q> is the Antecedent of <q>who</q>.</p>
+         </div>
+
+                  <pb n="6" facs="#26"/>
+         <fw type="header" place="top">6 I. ENGLISH SYNTAX.</fw>
+         
+         <head>1. The Parts of Speech.</head>
+         <p>There are eight Parts of Speech, which affect or are affected by the Syntax of a Sentence in various ways:—</p>
+         
+         <div type="textpart" subtype="section" n="16" xml:id="eng_16">
+            <head>1. Substantives</head>
+            <p>names of persons, places, things, as, <q>Cæsar,</q> <q>Athens,</q> <q>honour</q>.</p>
+            <p>A substantive may form the Subject or Object of the verb, or it may be used Adverbially: as, <q>Socrates spoke,</q> <q>he loved Socrates,</q> <q>he walked with Socrates</q>.</p>
+            <p>A substantive may, like an Adjective, form an Attribute or Predicate: as, <q>Socrates, the philosopher</q> (Apposition, <ref>§ 11</ref>), <q>Socrates was a philosopher</q>.</p>
+            <p>A substantive may be either <term>Concrete</term>, expressing something which we can perceive (see, hear, etc.) with the five senses, as, <q>a hero</q>; or <term>Abstract</term>, expressing something which we can conceive only with the mind, as, <q>heroism</q>.</p>
+            <p>A substantive which includes several Persons or things is called A <term>Noun of Multitude</term>, as, <q>the army</q>. Names of persons and places are called <term>Proper Names</term>: <q>Cæsar,</q> <q>Athens</q>.</p>
+         </div>
+         
+         <div type="textpart" subtype="section" n="17" xml:id="eng_17">
+            <head>2. Adjectives</head>
+            <p>express the qualities of Substantives, as, <q>good,</q> <q>bad</q>.</p>
+            <p>An Adjective may be either an Attribute (Epithet) or Predicate: <q>the good man,</q> <q>the man is good</q>. (On the different forms of Predicate see <ref>§ 12</ref>.)</p>
+            <p>An Adjective is often used as a Substantive: <q>the wicked</q>.</p>
+         </div>
+         
+         <div type="textpart" subtype="section" n="18" xml:id="eng_18">
+            <head>3. Pronouns</head>
+            <p>stand for a Substantive or Adjective, as, <q>he,</q> <q>his</q>; <q>which,</q> <q>what</q>. They are of five kinds:—</p>
+            <list type="ordered">
+               <item><label>(a)</label> <term>Personal</term>: <q>I,</q> <q>thou,</q> <q>he</q>. (<term>Intensive</term>, <q>self</q>; <term>Reflexive</term>, <q>himself</q>; <term>Reciprocal</term>, <q>each other</q>; <term>Possessive</term>, <q>his</q>.)</item>
+               <item><label>(b)</label> <term>Demonstrative</term>: <q>this,</q> <q>that,</q> <q>the other</q>.</item>
+               <item><label>(c)</label> <term>Indefinite</term>: <q>anyone,</q> <q>any,</q> <q>someone,</q> <q>some</q>.</item>
+               <item><label>(d)</label> <term>Interrogative</term>: <q>who?</q> <q>which?</q>.</item>
+               <item><label>(e)</label> <term>Relative</term>: <q>who,</q> <q>which</q>. (On the Antecedent to the Relative, see <ref>§ 15</ref>.)</item>
+            </list>
+      
+
+         <pb n="7" facs="#27"/>
+    
+            <p>The plain Personal Pronouns, <q>he,</q> <q>his,</q> etc., are omitted if unemphatic.</p>
+            <p>(All, except the Personal, have Adverbs: <q>thus,</q> <q>anyhow,</q> <q>how?</q> <q>as</q>.)</p>
+         </div>
+         
+         <div type="textpart" subtype="section" n="19" xml:id="eng_19">
+            <head>4. Verbs</head>
+            <p>express an action or state, as, <q>I smite,</q> <q>I remain</q>. Verbs are—</p>
+            <list type="ordered">
+               <item><label>(a)</label> <term>Transitive</term>: so called because their action <q>passes over</q> (<foreign xml:lang="la">transeo</foreign>) to something else. These take a Direct Object in the Accusative and may also take an Indirect Object in the Dative: <q>I gave a-book to-him</q>.</item>
+               <item><label>(b)</label> <term>Intransitive</term>: so called because their action does not thus pass on: <foreign xml:lang="la" rend="italic">e.g.</foreign>, <q>I submit</q>. —Intransitive Verbs cannot take a Direct Object, but they can sometimes take an Indirect Object: <q>I submit to him</q>. Verbs which cannot take even an Indirect Object are sometimes called <term>Neuter</term> verbs.</item>
+            </list>
+            <p>Observe also the following kinds of Verbs:—</p>
+         </div>
+         
+         <div type="textpart" subtype="section" n="20" xml:id="eng_20">
+            <p><term>Indeterminate Verbs</term>: (so called because they determine nothing by themselves) <foreign xml:lang="la" rend="italic">e.g.</foreign>, <q>I wish,</q> <q>I try,</q> <q>I am accustomed,</q> require an Infinitive to complete their sense. This Infinitive is called a <term>Prolative Infinitive</term>, because it <q>carries on</q> (<foreign xml:lang="la">profero</foreign>) the meaning of the Verb: <foreign xml:lang="la" rend="italic">e.g.</foreign>, <q>I wish to depart</q>.</p>
+         </div>
+         
+         <div type="textpart" subtype="section" n="21" xml:id="eng_21">
+            <p><term>Factitive Verbs</term>, <foreign xml:lang="la" rend="italic">i,e.</foreign>, verbs of (1) <q>making,</q> (2) <q>saying,</q> (3) <q>thinking,</q> require not only a Direct Object in the Accusative, but also an Adjective or Substantive in the same case: as, <q>the Romans made Cicero consul</q>.</p>
+         </div>
+         
+         <div type="textpart" subtype="section" n="22" xml:id="eng_22">
+            <p><term>Copulative Verbs</term>, <foreign xml:lang="la" rend="italic">e.g.</foreign>, <q>I seem,</q> <q>I become,</q> etc., and the Verb-Copula <q>I am,</q> take the same case after them as before them, as, <q>Cicero became consul</q>. — Factitive Verbs become, in the Passive, Copulative: as, <q>Cicero was made consul</q>.</p>
+            <p>(On Factitive and Copulative Verbs see further Primary, Secondary, Tertiary Predicate, <ref>§ 12</ref>.)</p>
+         </div>
+         
+         <div type="textpart" subtype="section" n="23" xml:id="eng_23">
+            <p><label>Note 1.</label>— The Infinitive is not only a Verb, but also a Substantive: as, <q>I desire to-die</q> (= I desire death)—Object;</p>
+         </div>
+
+         <pb n="8" facs="#28"/>
+         <fw type="header" place="top">8 I. ENGLISH SYNTAX.</fw>
+         <div type="textpart" subtype="section_continued" n="23">
+            <p><q>to-die is pleasant</q> — Subject. And so with other Substantival uses (<ref>§ 16</ref>).</p>
+         </div>
+
+         <div type="textpart" subtype="section" n="24" xml:id="eng_24">
+            <p><label>Note 2.</label>— The Participle is not only a Verb, but also an Adjective, <foreign xml:lang="la" rend="italic">e.g.</foreign>, <q>the stolen apples</q> — Attribute; <q>the apples are stolen</q>—Predicate. So with other Adjectival uses (<ref>§ 8</ref>).</p>
+         </div>
+
+         <div type="textpart" subtype="section" n="25" xml:id="eng_25">
+            <head>5. Adverbs</head>
+            <p>qualify Verbs, Adjectives, and other Adverbs: as, <q>I walk slowly,</q> <q>truly noble,</q> <q>almost rightly</q>. They are classified according to their meaning as, (a) <term>Modal</term>, <q>he acted well</q>; (b) <term>Local</term>, <q>he lives here</q>; (c) <term>Temporal</term>, <q>then he fled</q>.</p>
+            <note><label>Note.</label> Modal adverbs include words expressing Negation, Emphasis, Interrogation, <q>not,</q> <q>indeed,</q> <q>whether</q>.</note>
+         </div>
+
+         <div type="textpart" subtype="section" n="26" xml:id="eng_26">
+            <head>6. Prepositions</head>
+            <p>words prefixed (<foreign xml:lang="la">prepono</foreign>) to other words, have two uses:—</p>
+            <list type="ordered">
+               <item><label>(a)</label> As prefixed to a Substantive in the Oblique Cases, they define further the relation of that Substantive to the rest of the Sentence, as, <q>I stood over him</q>.</item>
+               <item><label>(b)</label> As compounded with a Verb (Substantive, Adjective, or Adverb), and making one word with it, they qualify its meaning, as, <q>he over-stated the truth</q> (<q>an over-statement</q>); and sometimes affect the construction that it takes, <foreign xml:lang="la" rend="italic">e.g.</foreign>, <q>they overran the country,</q> where the Intransitive Verb <q>ran</q> becomes Transitive by the addition of the Preposition <q>over</q>.</item>
+            </list>
+            <p>(Many Prepositions were originally Adverbs, and some retain an Adverbial force, <foreign xml:lang="la" rend="italic">e.g.</foreign>, <q>how much is over?</q>.)</p>
+         </div>
+
+         <div type="textpart" subtype="section" n="27" xml:id="eng_27">
+            <head>7. Conjunctions</head>
+            <p>connect words, phrases, sentences. They are of two kinds:—</p>
+            <list type="ordered">
+               <item><label>(a)</label> <term>Coordinate Conjunctions</term>, <q>and,</q> <q>but,</q> etc., which couple similar words, phrases or sentences.</item>
+               <item><label>(b)</label> <term>Subordinate Conjunctions</term>, <q>that,</q> <q>if,</q> etc., which join the Subordinate Clause to the Main Sentence.</item>
+            </list>
+            <p>(The Coordinate Conjunction <q>and</q> is also called the <q>copula,</q> <ref>§ 3</ref>.)</p>
+         </div>
+
+         <div type="textpart" subtype="section" n="28" xml:id="eng_28">
+            <head>8. Interjections</head>
+            <p>words of exclamation, as, <q>alas!</q>.</p>
+         </div>
+
+         <pb n="9" facs="#29"/>
+         <fw type="header" place="top">COMPOUND SENTENCES. 9</fw>
+
+         <div type="textpart" subtype="section" n="29" xml:id="eng_29">
+            <p>These eight Parts of Speech are also divided into three classes:—</p>
+            <list type="ordered">
+               <item><label>(i.)</label> Nouns (viz., (1) Substantives, (2) Adjectives, (3) Pronouns—admitting of Declension).</item>
+               <item><label>(ii.)</label> Verbs (admitting of Conjugation).</item>
+               <item><label>(iii.)</label> Particles ((5) Adverbs, (6) Prepositions, (7) Conjunctions, (8) Interjections—admitting no Inflexion).</item>
+            </list>
+            <note><label>N.B.</label> The term <q>Noun</q> is used particularly of the Substantive.</note>
+            <p>Of these, the first two, the Nouns and Verbs, both affect and are affected by the Syntax of a Sentence; the Particles (except the Prepositions) have little effect on the grammar of a Sentence, and mainly supplement the sense.</p>
+         </div>
+         
+         <head>II. Principal Sentences.</head>
+         
+         <div type="textpart" subtype="section" n="30" xml:id="eng_30">
+            <p>Principal Sentences are of three kinds:—</p>
+            <list type="ordered">
+               <item><label>(1)</label> Direct Statement: <foreign xml:lang="la" rend="italic">e.g.</foreign>, <q>he has succeeded</q>.</item>
+               <item><label>(2)</label> Direct Command, Wish, and Exhortation: <q>succeed thou!</q> <q>oh, that he may succeed!</q> <q>let us succeed!</q>.</item>
+               <item><label>(3)</label> Direct Question: <foreign xml:lang="la" rend="italic">e.g.</foreign>, <q>has he succeeded?</q>.</item>
+            </list>
+            <note><label>Note.</label> Exclamation partakes of the character of all those, but most often resembles the last: <q>has he succeeded!</q>.</note>
+            <p>(The term <term>Exhortation</term> is confined to the First Person, Sing. and Plur.: <q>let us succeed!</q>.)</p>
+         </div>
+         
+         <head>III. Subordinate Clauses.</head>
+         <p>Subordinate or Complementary Clauses are, like Complementary words (<ref>§§ 9-12</ref>), of three kinds:—</p>
+         
+         <div type="textpart" subtype="section" n="31" xml:id="eng_31">
+            <head>1. Substantival Clauses</head>
+            <p>these correspond to the three forms of Principal Sentence:—</p>
+            <list type="ordered">
+               <item><label>(a)</label> Indirect Statement: <q>he mentioned that he had succeeded</q>.</item>
+               <item><label>(b)</label> Indirect Command or Wish: <q>we pray Heaven that he may succeed</q>.</item>
+
+               <pb n="10" facs="#30"/>
+               <fw type="header" place="top">10 I. ENGLISH SYNTAX.</fw>
+               
+               <item><label>(c)</label> Indirect Question: <q>you ask whether he has succeeded</q>.</item>
+            </list>
+            <p>In these instances the Substantival Clause forms the Object of the Main Verb. It may also, with Impersonal Verbs and Phrases, form the Subject, <q>that-he-may-succeed is our desire</q>.</p>
+            <p>As Subject, the Clause is often <q>anticipated</q> in English by the Pronoun <q>it</q>: <q>it is our desire that he may succeed</q>.</p>
+            <p>The Substantival Clause may also stand in Apposition to a Neuter Pronoun, <foreign xml:lang="la" rend="italic">e.g.</foreign>, <q>we only desire this, that he may succeed</q>; or as a Cognate Accusative (<ref>§ 232</ref>), <q>we exhorted him to succeed</q>.</p>
+            <p>(Indirect Statements and Questions are not always dependent on words of actual statement or enquiry. Thus, <q>it is certain that he did this</q> is an Indirect Statement; <q>they told us,</q> or <q>we did not know, who did this</q> is an Indirect Question: the Direct forms being <q>he did this,</q> <q>who did this?</q>.)</p>
+         </div>
+         
+         <div type="textpart" subtype="section" n="32" xml:id="eng_32">
+            <head>2. Adverbial Clauses</head>
+            <p>express—</p>
+            <list type="ordered">
+               <item><label>(a)</label> Purpose (in order that): <q>he came to Athens in order that he might see Socrates</q>.</item>
+               <item><label>(b)</label> Consequence (so that): <q>he fought so well that he could not be resisted</q>.</item>
+               <item><label>(c)</label> Condition (if): <q>if you are good, you will be happy</q>.</item>
+               <item><label>(d)</label> Concession (although, even if): <q>although he had failed, he tried again</q>.</item>
+               <item><label>(e)</label> Cause (because, since): <q>he spoke well, because he was an Athenian</q>.</item>
+               <item><label>(f)</label> Manner, Comparison (as, as if, than): <q>as you sow, so will you reap</q>.</item>
+               <item><label>(g)</label> Time (when, before, after, since, till): <q>when day dawned, the Gauls attacked the camp</q>.</item>
+               <item><label>(h)</label> Place (where, whither, whence): <q>he remained where I left him</q>.</item>
+            </list>
+         </div>
+         
+         <div type="textpart" subtype="section" n="33" xml:id="eng_33">
+            <head>3. Adjectival Clauses</head>
+            <p>are only of one kind, viz.—</p>
+            <p><term>Relative Clauses</term> (who, which): <q>the friend in whom I trusted</q>.</p>
+         </div>
 
 
                   <pb n="11"/>
@@ -924,38 +1247,37 @@
         <p>But observe that the insertion of an <term>Antecedent</term> will often convert an <term>Indirect Question</term> into a <term>Relative Clause</term>. These two Clauses are specially hard to distinguish. Thus:—</p>
         <p>"I asked him who had done this": <term>Indirect Question</term> (<term>Conjunctive Mood</term>, § 360).</p>
         <p>"I asked him the man who had done this": <term>Relative Clause</term> (<term>Indicative Mood</term>, § 459).</p>
-      </div>
-
-      <div type="observation" n="34">
+         </div>
+         
+         <div type="textpart" subtype="section" n="34" xml:id="eng_34">
         <p>Obs. The three Clauses—<term>Substantival</term>, <term>Adverbial</term>, <term>Relative</term>—may be tested by substitution. Thus:—</p>
         <p>(1) "He mentioned that-he-had-succeeded," i.e., his success: <term>Substantival</term>.</p>
         <p>(2) "He fought so-well-that-he-could-not-be-resisted," i.e., irresistibly: <term>Adverbial</term>.</p>
         <p>(3) "The friend in-whom-I-trusted," i.e., my trusty friend : <term>Adjectival</term>.</p>
         <p>The hardest to test in this way is the <term>Adverbial Clause</term>. If neither a <term>Substantive</term> nor an <term>Adjective</term> will make sense, the Clause is <term>Adverbial</term>.</p>
-      </div>
+ 
       
       <head>Agreement and Government.</head>
       
-      <div type="section" n="35">
+         </div>
+         
+         <div type="textpart" subtype="section" n="35" xml:id="eng_35">
         <p>The <term>Subject</term>, <term>Predicate</term>, <term>Copula</term>, and <term>Complement</term>, whether these be expressed by one word or an entire Clause, stand in a certain relation to each other. This relation is called <term>Construction</term>; and <term>Construction</term> is of two kinds, <term>Agreement</term> and <term>Government</term>.</p>
-      </div>
-      
-      <div type="section" n="36">
+         </div>
+         
+         <div type="textpart" subtype="section" n="36" xml:id="eng_36">
         <p>A word is said to <term>agree</term> with another word if its inflexions conform to it. Thus, in the Sentence "the man runs," the Verb-Predicate "runs" agrees with the <term>Subject</term> "man," because both are Singular. 
         <pb n="12"/>
         If we said "the man run," the Verb would not <term>agree</term> with its <term>Subject</term>.</p>
-      </div>
-      
-      <div type="section" n="37">
-        <p>A word is said to <term>govern</term> another word if it requires a certain inflexion in that word. Thus we say "I saw him," because the Verb "see" is Transitive and requires a Direct Object in the <term>Accusative</term>. If we said "I saw he," a law of <term>Government</term> would be violated.</p>
-      </div>
-      
-      <div type="section" n="38">
-        <p>So with Clauses. If we said "he comes that he might see," instead of "that he may see," we should violate a law of <term>Agreement</term>. If we said "he compelled us that we might go," instead of "to go," we should be violating a law of <term>Government</term>.</p>
-      </div>
-      
-      <div type="section" n="39">
-        <p>The laws of <term>Government</term>, along with the general usage of words and clauses, are given below in II. The Parts of Speech; III. The Syntax of the Simple Sentence; and The Syntax of the Compound Sentence.</p>
+           </div>
+         
+         <div type="textpart" subtype="section" n="37" xml:id="eng_37">      <p>A word is said to <term>govern</term> another word if it requires a certain inflexion in that word. Thus we say "I saw him," because the Verb "see" is Transitive and requires a Direct Object in the <term>Accusative</term>. If we said "I saw he," a law of <term>Government</term> would be violated.</p>
+         </div>
+         
+         <div type="textpart" subtype="section" n="38" xml:id="eng_38">        <p>So with Clauses. If we said "he comes that he might see," instead of "that he may see," we should violate a law of <term>Agreement</term>. If we said "he compelled us that we might go," instead of "to go," we should be violating a law of <term>Government</term>.</p>
+          </div>
+         
+         <div type="textpart" subtype="section" n="39" xml:id="eng_39">        <p>The laws of <term>Government</term>, along with the general usage of words and clauses, are given below in II. The Parts of Speech; III. The Syntax of the Simple Sentence; and The Syntax of the Compound Sentence.</p>
         <p>The laws of <term>Agreement</term> of Clauses, called Sequence, are given in § 343. The laws of <term>Agreement</term> of words, called the <term>Concords</term> (concordia, agreement), are as follows :—</p>
       </div>
 
