@@ -1,20 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Aeschyli Septem ad Thebas</title>
-            <author>Aeschylus</author>
-            <editor role="editor">N. Wecklein</editor>
-         </titleStmt>
-         <publicationStmt>
-            <p>Digital encoding of the N. Wecklein edition of Aeschylus's Seven Against Thebes.</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Transcribed from the physical edition by N. Wecklein.</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
+    <teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title xml:lang="lat">Aeschyli Fabulae: cum lectionibus et scholiis codicis Medicei et in <title level="a" xml:lang="lat">Agamemnonem</title> codicis Florentini ab Hieronymo Vitelli denuo collatis</title>
+      <author xml:lang="la">Aeschylus</author>
+      <editor key="wecklein-nikolaus">N. Wecklein</editor>
+      <respStmt>
+        <resp xml:lang="la">lectiones et scholia denuo collata</resp>
+        <name key="vitelli-hieronymus">Hieronymus Vitelli</name>
+      </respStmt>
+    </titleStmt>
+
+    <editionStmt>
+      <edition n="1" xml:lang="la">Editio Berolinensis</edition>
+    </editionStmt>
+
+    <extent>2 volumes</extent>
+
+    <publicationStmt>
+      <publisher xml:lang="la">S. Calvary eiusque socius</publisher>
+      <pubPlace xml:lang="la">Berolini</pubPlace>
+      <date when="1885">1885</date>
+      <availability status="free">
+        <licence target="https://www.hathitrust.org/rights/public-domain">Public domain</licence>
+        <p>Digitized by Google; served via HathiTrust.</p>
+      </availability>
+      <idno type="oclc">843255544</idno>
+      <idno type="ht-record">010110186</idno>
+    </publicationStmt>
+
+    <sourceDesc>
+      <biblStruct type="monograph">
+        <monogr>
+          <title xml:lang="la">Aeschyli Fabulae: cum lectionibus et scholiis codicis Medicei et in Agamemnonem codicis Florentini ab Hieronymo Vitelli denuo collatis</title>
+          <author>Aeschylus</author>
+          <editor>N. Wecklein</editor>
+          <imprint>
+            <pubPlace>Berolini</pubPlace>
+            <publisher>S. Calvary eiusque socius</publisher>
+            <date when="1885">1885</date>
+          </imprint>
+          <extent>2 v.</extent>
+        </monogr>
+        <listBibl>
+          <bibl xml:id="vol1">
+            <title xml:lang="la">Pars I: Textus, Scholia, Apparatus criticus</title>
+            <idno type="hdl">https://hdl.handle.net/2027/uc1.$b64979</idno>
+            <idno type="htid">uc1.$b64979</idno>
+          </bibl>
+          <bibl xml:id="vol2">
+            <title xml:lang="la">Pars II: Appendix coniecturas virorum doctorum minus certas continens</title>
+            <idno type="hdl">https://hdl.handle.net/2027/uc1.$b64980</idno>
+            <idno type="htid">uc1.$b64980</idno>
+          </bibl>
+        </listBibl>
+      </biblStruct>
+    </sourceDesc>
+  </fileDesc>
+
+  <encodingDesc>
+    <projectDesc>
+      <p>Header generated from HathiTrust catalog and volume title pages; language and responsibility statements normalized for TEI.</p>
+    </projectDesc>
+    <editorialDecl>
+      <p>No textual normalization described herein; header only.</p>
+    </editorialDecl>
+  </encodingDesc>
+
+  <profileDesc>
+    <langUsage>
+      <language ident="lat">Latin</language>
+      <language ident="grc">Ancient Greek</language>
+    </langUsage>
+    <textClass>
+      <keywords scheme="lcsh">
+        <term>Aeschylus</term>
+        <term>Greek drama (Tragedy)</term>
+        <term>Scholia</term>
+        <term>Apparatus criticus</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+
+  <revisionDesc>
+    <change when="2025-10-17" who="mailto:gcrane2008@gmail.com">Initial TEI header created from HathiTrust metadata and scans.</change>
+  </revisionDesc>
+</teiHeader>
    <text>
       <body>
          <div type="page" n="2">
