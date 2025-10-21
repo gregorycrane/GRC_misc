@@ -1,19 +1,110 @@
-<TEI>
-    <text>
-        <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader xml:lang="eng">
+    <fileDesc>
+      <titleStmt>
+        <title>The Eumenides</title>
+        <author>Aeschylus</author>
+        <editor role="translator">Walter George Headlam</editor>
+        <editor role="translator">Clinton Edward Sowerby Headlam</editor>
+        <sponsor>Perseus Project, Tufts University</sponsor>
+        <principal>Gregory Crane</principal>
+        <respStmt>
+          <resp>Prepared under the supervision of</resp>
+          <name>Gregory Crane</name>
+        </respStmt>
+        <funder>Volunteer</funder>
+      </titleStmt>
+
+      <!-- Added series -->
+       
+      <seriesStmt>
+        <title level="s">Bohn’s classical library</title>
+        <respStmt>
+          <resp>Series publisher</resp>
+          <name>George Bell &amp; Sons</name>
+        </respStmt>
+      </seriesStmt>
+
+      <extent>About 90Kb</extent>
+
+      <publicationStmt>
+        <publisher>Trustees of Tufts University</publisher>
+        <pubPlace>Medford, MA</pubPlace>
+        <authority>Perseus Project</authority>
+        <availability status="free">
+          <licence target="https://www.hathitrust.org/rights/public-domain">Public domain (U.S.)</licence>
+          <p>Digitized copy served via HathiTrust.</p>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Aeschylus</author>
+            <title>The plays of Aeschylus</title>
+            <title type="sub">Introduction; Prometheus Bound; Persians; Seven Against Thebes; Suppliant Maidens; Agamemnon; Choephoroi; Eumenides</title>
+            <editor role="translator">Walter George Headlam</editor>
+            <editor role="translator">Clinton Edward Sowerby Headlam</editor>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>George Bell &amp; Sons</publisher>
+              <date when="1909">1909</date>
+            </imprint>
+            <biblScope unit="series">Bohn’s classical library</biblScope>
+            <!-- Added page start for this excerpt -->
+            <biblScope unit="page" from="110" to="150"/>
+          </monogr>
+          <ref target="https://hdl.handle.net/2027/coo1.ark:/13960/t9t15kg7n">HathiTrust handle</ref>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+
+    <encodingDesc>
+      <editorialDecl>
+        <quotation marks="none"/>
+      </editorialDecl>
+      <refsDecl n="CTS">
+        <cRefPattern n="l"
+                     matchPattern="(\w+)"
+                     replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div//tei:l[@n='$1'])">
+          <p>This pointer pattern extracts lines</p>
+        </cRefPattern>
+      </refsDecl>
+    </encodingDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="eng">English</language>
+        <language ident="grc">Greek</language>
+        <language ident="lat">Latin</language>
+      </langUsage>
+    </profileDesc>
+
+
+    <revisionDesc>
+      <change when="2025-10-18" who="GRC">New file created drawing text and imprint from Headlam &amp; Headlam (1909) via HathiTrust.</change>
+    </revisionDesc>
+  </teiHeader>
+     <text xml:lang="eng">
+<body>
+              
+ <div type="translation"
+              xml:lang="eng"
+              n="urn:cts:greekLit:tlg0085.tlg007.perseus-eng2">   
             
        
 <pb n="273"/>
 <head>
 <title type="main">EUMENIDES</title>
 </head>
-<p>
-<note type="footnote">18</note>
-</p>
+
 <pb n="274"/>
-<div type="DramatisPersonae">
-<head>DRAMATIS PERSONÆ</head>
-<castList>
+
+
+<castList><head>DRAMATIS PERSONÆ</head>
 <castItem><role>THE PYTHIAN PROPHETESS</role>.</castItem>
 <castItem><role>APOLLO</role>.</castItem>
 <castItem><role>ORESTES</role>.</castItem>
@@ -24,7 +115,8 @@
 <castItem><role>JURY OF AREOPAGITES</role>.</castItem>
 <castItem><role>ESCORT OF ATHENIANS</role>, who conduct the Furies to their cavern in procession, with a chorus.</castItem>
 </castList>
-</div>
+
+
 <pb n="275"/>
 <head>EUMENIDES</head>
 <stage>Delphi, before the temple of Apollo.</stage>
@@ -629,33 +721,8 @@ It is tempting to make <quote xml:lang="grc">ἐπειδή</quote> depend direct
 </quote>
 The true reading is uncertain, but the sense is clear; v. 702 <quote xml:lang="grc">τίς γὰρ δεδοικὼς μηδὲν ἔνδικος βροτῶν</quote> ? and Soph. Aj. 1073-6, 1084.
 </note>
-</p>
-</sp>
 
-<sp>
-<speaker start-line="511" end-line="568">CHORUS OF THE FURIES</speaker>
-<p>No man hereafter, when smitten by calamity, need appeal in wailing phrase, 'O avenging Justice, O ye thrones of the Erinyes' Therefore a father, it may be, or mother newly-stricken may make piteous complaint,<ref n="298.1">1</ref> because the House of Justice is now falling.</p>
-<p>There are times when Fear is well, and it should remain still seated as a warder of the mind; it is a good thing to preserve wise-mindedness<ref n="298.2">2</ref> beneath constraint: and who that fostereth in his heart no sense of awe<ref n="298.3">3</ref>—
-<note n="298.1" type="footnote">
-<quote xml:lang="grc" rend="blockquote">
-    <l>μηδέ τις κικλησκέτω</l>
-    <l>ξυμφορᾷ τετυμμένος</l>
-    <l>· ἰὼ Δίκα, ἰὼ θρόνοι τ' Ἐρινύων’ —</l>
-    <l>ταῦτά τις τάχ᾽ ἂν πατὴρ</l>
-    <l>ἢ τεκοῦσα νεοπαθὴς</l>
-    <l>οἶκτον οἰκτίσαιτ' ἐπειδὴ</l>
-    <l>πίτνει δόμος Δίκας.</l>
-</quote>
-It is tempting to make <quote xml:lang="grc">ἐπειδή</quote> depend directly on <quote xml:lang="grc">μηδέ τις κικλησκέτω</quote> and take <quote xml:lang="grc">ταῦτα—οἰκτίσαιτ'</quote> as a parenthesis, 'in such terms as these a parent might make piteous complaint—,' but though <quote xml:lang="grc">τάδε</quote> is used so in Agam. 456, 1334, Cho. 313, we must surely have had <quote xml:lang="grc">τόνδε</quote> if <quote xml:lang="grc">οἶκτον</quote> is sound.
-</note>
-<note n="298.2" type="footnote"><quote xml:lang="grc">σωφρονεῖν</quote> is synonymous with <quote xml:lang="grc">γνῶναι σεαυτόν</quote>, to know your place in relation to the Gods and to your fellow-men.</note>
-<note n="298.3" type="footnote">v. <bibl>525</bibl>:
-<quote xml:lang="grc" rend="blockquote">
-    <l>τίς δὲ μηδὲν ἐν φάει</l>
-    <l>καρδίαν ἀνατρέφων.</l>
-</quote>
-The true reading is uncertain, but the sense is clear; v. 702 <quote xml:lang="grc">τίς γὰρ δεδοικὼς μηδὲν ἔνδικος βροτῶν</quote> ? and Soph. Aj. 1073-6, 1084.
-</note>
+
 <pb n="299"/>
 whether man or city equally—would still keep reverence for Justice?</p>
 <p>Neither an ungoverned life approve thou, nor a despot-ridden; God hath everywhere assigned superiority to the Mean, though the ways of his administration vary.</p>
@@ -1020,15 +1087,14 @@ deadly wrath upon this land, nor cause her barrenness, by discharging droppings 
     <l>μηδ᾽ ὑπερθύμως ἄγαν</l>
     <l>θεαὶ βροτῶν κτίσητε δύσκηλον χθόνα.</l>
 </quote>
-<quote xml:lang="grc">κτίσητε</quote> (Linwood's correction of <quote xml:lang="grc">στήσητε</quote>) is a synonym of <quote xml:lang="grc">θῆτε</quote> or <quote xml:lang="grc">ποιήσητε</quote>, and a favourite use with Aeschylus. The precise sense that he attached to <quote xml:lang="grc">δύσκηλον</quote> cannot be determined, but I feel sure the word is genuine, for this reason:—there were several Epic words in <quote xml:lang="grc">κηλ-</quote> whose meaning was a matter of debate,—<quote xml:lang="grc">κῆλον</quote> and <quote xml:lang="grc">περίκηλος</quote>, and <quote xml:lang="grc">ἀεκήλια</quote> in Σ 77 (though that, no doubt, was. merely an Epic license for <quote xml:lang="grc">ἀεικέλια</quote>, like <quote xml:lang="grc">ἀπερείσια</quote> for <quote xml:lang="grc">ἀπειρέσια</quote>). Aeschylus therefore was at liberty to charge the word with various suggestions, including the
-</note>
+<quote xml:lang="grc">κτίσητε</quote> (Linwood's correction of <quote xml:lang="grc">στήσητε</quote>) is a synonym of <quote xml:lang="grc">θῆτε</quote> or <quote xml:lang="grc">ποιήσητε</quote>, and a favourite use with Aeschylus. The precise sense that he attached to <quote xml:lang="grc">δύσκηλον</quote> cannot be determined, but I feel sure the word is genuine, for this reason:—there were several Epic words in <quote xml:lang="grc">κηλ-</quote> whose meaning was a matter of debate,—<quote xml:lang="grc">κῆλον</quote> and <quote xml:lang="grc">περίκηλος</quote>, and <quote xml:lang="grc">ἀεκήλια</quote> in Σ 77 (though that, no doubt, was. merely an Epic license for <quote xml:lang="grc">ἀεικέλια</quote>, like <quote xml:lang="grc">ἀπερείσια</quote> for <quote xml:lang="grc">ἀπειρέσια</quote>). Aeschylus therefore was at liberty to charge the word with various suggestions, including the <quote xml:lang="grc">κηλῖδας</quote> of v. 820,—stained, scorched, withered (<quote xml:lang="grc">αὐονά</quote> v. 334), plagued, enchanted. His admirer Ion (Nauck, Trag. Frag. p. 571) used <quote xml:lang="grc">εὔκηλος</quote> of a tree, as an equivalent of <quote xml:lang="grc">εὐκέατος</quote> (which was interpreted easy to burn, or easy to split), and Hesychius records the use of <quote xml:lang="grc">κηλός</quote> in the sense of <quote xml:lang="grc">κήλεος</quote>.</note>
 <pb n="311"/>
 need not say it—and I alone among the Powers of Heaven know the keys of the store-chamber in which the Thunderbolt is sealed up:—but there is no need of that;<ref n="311.1">1</ref> thou wilt yield, I pray, to my persuasion, and not cast forth over the land from an unbridled tongue (the curse) that all things bearing fruit should fail to prosper.<ref n="311.2">2</ref> Calm the fierce bitterness of the dark swelling wave,<ref n="311.3">3</ref> as being held in honour and veneration, and partaker in abode with me. Enjoying for evermore the first-fruits of this broad domain, as offerings for the sake of children and the marriage-rite, you shall yet applaud my saying.</p>
 </sp>
 <sp>
 <speaker start-line="840" end-line="849">CHORUS OF THE FURIES</speaker>
 <p>Me to be treated thus! me with the wisdom of antiquity! and to have my habitation in the land, a dishonoured thing, forsooth, and foul! My spirit is full of fury and utter wrath. What pang is this that enters my
-<note n="310.2" type="footnote"><quote xml:lang="grc">κηλῖδας</quote> of v. 820,—stained, scorched, withered (<quote xml:lang="grc">αὐονά</quote> v. 334), plagued, enchanted. His admirer Ion (Nauck, Trag. Frag. p. 571) used <quote xml:lang="grc">εὔκηλος</quote> of a tree, as an equivalent of <quote xml:lang="grc">εὐκέατος</quote> (which was interpreted easy to burn, or easy to split), and Hesychius records the use of <quote xml:lang="grc">κηλός</quote> in the sense of <quote xml:lang="grc">κήλεος</quote>.</note>
+
 <note n="311.1" type="footnote">A delightful touch of humour, '—but of course we shall not want that.'</note>
 <note n="311.2" type="footnote">
 <quote xml:lang="grc" rend="blockquote">
@@ -1181,7 +1247,8 @@ is absolute, to some affording songs of gladness, and to others life that is a b
     <l>μέγα κέρδος ὁρῶ τοῖσδε πολίταις·</l>
 </quote>
 <quote xml:lang="grc">προσέρπον</quote> is my reading for the MS. <quote xml:lang="grc">προσώπων</quote>; see Journal of Hellenic
-</note>
+
+Studies, 1906, p. 276, note 11. <quote xml:lang="grc">ἕρπειν</quote> is to be upon the road, and <quote xml:lang="grc">προσέρπειν, ἐφέρπειν</quote> were used especially of time's oncoming, and what it promises or threatens in its course: P. V. 129, 288, Soph. Aj. 228, 1255 <quote xml:lang="grc">καὶ σοὶ προσέρπον τοῦτ᾽ ἐγὼ τὸ φάρμακον ὁρῶ</quote>, O.T. 540, Pind. Pyth. i. 57, Nem. iv. 44, vii. 68, Ol. vi. 97, frag. 131, Theocr. v. 83, xxii. 15, Eur. frag. 441.</note>
 <pb n="317"/>
 good feeling between them and you, and hold them in high honour, ye shall surely shine conspicuous in the world for guiding land and city in the path of upright justice.</p>
 </sp>
@@ -1192,7 +1259,7 @@ good feeling between them and you, and hold them in high honour, ye shall surely
 <sp>
 <speaker start-line="1005" end-line="1015">ATHENA</speaker>
 <p>Joy to you also! But I must now go before you to point out your chambers by the sacred light of these your Escort:<ref n="317.2">2</ref> come ye now, and with these solemn sacrifices being sped below the earth, what is harmful to the country keep down there suppressed,<ref n="317.3">3</ref> and what is profitable send aloft to make my city triumph!—Lead on now, ye Sons of Cranaus that possess this City, lead these Denizens upon
-<note n="316.5" type="footnote">Studies, 1906, p. 276, note 11. <quote xml:lang="grc">ἕρπειν</quote> is to be upon the road, and <quote xml:lang="grc">προσέρπειν, ἐφέρπειν</quote> were used especially of time's oncoming, and what it promises or threatens in its course: P. V. 129, 288, Soph. Aj. 228, 1255 <quote xml:lang="grc">καὶ σοὶ προσέρπον τοῦτ᾽ ἐγὼ τὸ φάρμακον ὁρῶ</quote>, O.T. 540, Pind. Pyth. i. 57, Nem. iv. 44, vii. 68, Ol. vi. 97, frag. 131, Theocr. v. 83, xxii. 15, Eur. frag. 441.</note>
+
 <note n="317.1" type="footnote">v. <bibl>998</bibl>. Reading with Bothe:
 <quote xml:lang="grc" rend="blockquote">
     <l>χαίρετ' ἀστικὸς λεώς,</l>
@@ -1237,8 +1304,7 @@ Compare Supp. 81 and Cho. 792 in my translation. The accepted punctuation at <qu
     <l>ὅπως ἂν εὔφρων ἥδ᾽ ὁμιλία χθονὸς</l>
     <l>τὸ λοιπὸν εὐάνδροισι συμφοραῖς πρέπῃ.</l>
 </quote>
-There are three allusions in this passage to the Panathenaic Festival: on that occasion the <quote xml:lang="grc">μέτοικοι</quote>, Resident Aliens or Denizens, were permitted to take part in the procession as being of good will (Hesychius s.v. <quote xml:lang="grc">Σκαφηφόροι</quote>), and for special honour were arrayed in scarlet cloaks (Photius s.v. <quote xml:lang="grc">Σκάφας</quote>). The Furies (now <quote xml:lang="grc">Εὐμενίδες</quote>, Benign Ones) are to be treated as the <quote xml:lang="grc">μέτοικοι</quote> were at the Panathenaea, and the whole
-</note>
+There are three allusions in this passage to the Panathenaic Festival: on that occasion the <quote xml:lang="grc">μέτοικοι</quote>, Resident Aliens or Denizens, were permitted to take part in the procession as being of good will (Hesychius s.v. <quote xml:lang="grc">Σκαφηφόροι</quote>), and for special honour were arrayed in scarlet cloaks (Photius s.v. <quote xml:lang="grc">Σκάφας</quote>). The Furies (now <quote xml:lang="grc">Εὐμενίδες</quote>, Benign Ones) are to be treated as the <quote xml:lang="grc">μέτοικοι</quote> were at the Panathenaea, and the whole of this procession is designed as a reflection of the great procession at that feast. And <quote xml:lang="grc">εὐάνδροισι</quote> is an allusion to the contest of <quote xml:lang="grc">εὐανδρία</quote> on that occasion. See my paper on 'The Last Scene of the Eumenides' in the Journal of Hellenic Studies, 1906, p. 268. It is still possible that, as Hermann thought, a passage may have fallen out before this. <quote xml:lang="grc">πυρός</quote> should perhaps be <quote xml:lang="grc">πάρος</quote>.</note>
 </p>
 </sp>
 <pb n="319"/>
@@ -1252,13 +1318,14 @@ There are three allusions in this passage to the Panathenaic Festival: on that o
 <p>Cry aloud now with jubilee in chorus!</p>
 <p>the citizens of Pallas: Zeus the all-seeing and Fate have conspired to this end.</p>
 <p>Cry aloud now with jubilee in chorus!
-<note n="318.3" type="footnote">of this procession is designed as a reflection of the great procession at that feast. And <quote xml:lang="grc">εὐάνδροισι</quote> is an allusion to the contest of <quote xml:lang="grc">εὐανδρία</quote> on that occasion. See my paper on 'The Last Scene of the Eumenides' in the Journal of Hellenic Studies, 1906, p. 268. It is still possible that, as Hermann thought, a passage may have fallen out before this. <quote xml:lang="grc">πυρός</quote> should perhaps be <quote xml:lang="grc">πάρος</quote>.</note>
-<note n="319.1" type="footnote"><quote xml:lang="grc">βᾶθ’ ὁδόν, ὦ μεγάλαι φιλότιμοι</quote> is my emendation. Being written (as was often done) without elision, <quote xml:lang="grc">βατεοδονω</quote> was mistaken for <quote xml:lang="grc">βατ’ ἐν δόμῳ</quote>. Many have been content to read <quote xml:lang="grc">βᾶτε δόμῳ</quote>, but the utmost that could mean is 'step upon the house.' The sentence seems to call for <quote xml:lang="grc">ὦ</quote>, and in starting the procession to Athena at the <quote xml:lang="grc">Χαλκεῖα</quote> Sophocles frag. 760 uses the phrase <quote xml:lang="grc">βᾶτ’ εἰς ὁδὸν δή, πᾶς ὁ χειρῶναξ λεώς</quote>.</note>
-<note n="319.2" type="footnote">This is a Paean of gladness, in dactylic metre, like those in Bergk Poetae Lyrici III p. 676 and in Eur. Phaethon 773. 66 seqq., and corresponds to that which was chanted at the Panathenaea: J.H.S. 1906, p. 274. </note>
+
+<note n="319.1" type="footnote"><p><quote xml:lang="grc">βᾶθ’ ὁδόν, ὦ μεγάλαι φιλότιμοι</quote> is my emendation. Being written (as was often done) without elision, <quote xml:lang="grc">βατεοδονω</quote> was mistaken for <quote xml:lang="grc">βατ’ ἐν δόμῳ</quote>. Many have been content to read <quote xml:lang="grc">βᾶτε δόμῳ</quote>, but the utmost that could mean is 'step upon the house.' The sentence seems to call for <quote xml:lang="grc">ὦ</quote>, and in starting the procession to Athena at the <quote xml:lang="grc">Χαλκεῖα</quote> Sophocles frag. 760 uses the phrase <quote xml:lang="grc">βᾶτ’ εἰς ὁδὸν δή, πᾶς ὁ χειρῶναξ λεώς</quote>.</p>
+    <p>This is a Paean of gladness, in dactylic metre, like those in Bergk Poetae Lyrici III p. 676 and in Eur. Phaethon 773. 66 seqq., and corresponds to that which was chanted at the Panathenaea: J.H.S. 1906, p. 274. </p></note>
 <note type="footnote"> At the words <foreign xml:lang="grc">ἀλολύξατε νῦν ἐπὶ μολπαῖς</foreign> the Eumenides will join in
 the women's cry of Ololu  ! The words themselves are probably uttered
 by a Herald (whose commands were usually in anapaestic verse); and
 if so, it is he who gives the warning <foreign xml:lang="grc">εὐφαμεῖτε</foreign>. </note></p></sp>
- </body>
+</div> 
+</body>
     </text>
 </TEI>

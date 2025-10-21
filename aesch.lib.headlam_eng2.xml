@@ -1,16 +1,107 @@
-<TEI>
-    <text>
-        <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader xml:lang="eng">
+    <fileDesc>
+      <titleStmt>
+        <title>The Libation Bearers</title>
+        <author>Aeschylus</author>
+        <editor role="translator">Walter George Headlam</editor>
+        <editor role="translator">Clinton Edward Sowerby Headlam</editor>
+        <sponsor>Perseus Project, Tufts University</sponsor>
+        <principal>Gregory Crane</principal>
+        <respStmt>
+          <resp>Prepared under the supervision of</resp>
+          <name>Gregory Crane</name>
+        </respStmt>
+        <funder>Volunteer</funder>
+      </titleStmt>
 
-        
+      <!-- Added series -->
+       
+      <seriesStmt>
+        <title level="s">Bohn’s classical library</title>
+        <respStmt>
+          <resp>Series publisher</resp>
+          <name>George Bell &amp; Sons</name>
+        </respStmt>
+      </seriesStmt>
+
+      <extent>About 90Kb</extent>
+
+      <publicationStmt>
+        <publisher>Trustees of Tufts University</publisher>
+        <pubPlace>Medford, MA</pubPlace>
+        <authority>Perseus Project</authority>
+        <availability status="free">
+          <licence target="https://www.hathitrust.org/rights/public-domain">Public domain (U.S.)</licence>
+          <p>Digitized copy served via HathiTrust.</p>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Aeschylus</author>
+            <title>The plays of Aeschylus</title>
+            <title type="sub">Introduction; Prometheus Bound; Persians; Seven Against Thebes; Suppliant Maidens; Agamemnon; Choephoroi; Eumenides</title>
+            <editor role="translator">Walter George Headlam</editor>
+            <editor role="translator">Clinton Edward Sowerby Headlam</editor>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>George Bell &amp; Sons</publisher>
+              <date when="1909">1909</date>
+            </imprint>
+            <biblScope unit="series">Bohn’s classical library</biblScope>
+            <!-- Added page start for this excerpt -->
+            <biblScope unit="page" from="110" to="150"/>
+          </monogr>
+          <ref target="https://hdl.handle.net/2027/coo1.ark:/13960/t9t15kg7n">HathiTrust handle</ref>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+
+    <encodingDesc>
+      <editorialDecl>
+        <quotation marks="none"/>
+      </editorialDecl>
+      <refsDecl n="CTS">
+        <cRefPattern n="l"
+                     matchPattern="(\w+)"
+                     replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div//tei:l[@n='$1'])">
+          <p>This pointer pattern extracts lines</p>
+        </cRefPattern>
+      </refsDecl>
+    </encodingDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="eng">English</language>
+        <language ident="grc">Greek</language>
+        <language ident="lat">Latin</language>
+      </langUsage>
+    </profileDesc>
+
+
+    <revisionDesc>
+      <change when="2025-10-18" who="GRC">New file created drawing text and imprint from Headlam &amp; Headlam (1909) via HathiTrust.</change>
+    </revisionDesc>
+  </teiHeader>
+     <text xml:lang="eng">
+<body>
+              
+ <div type="translation"
+              xml:lang="eng"
+              n="urn:cts:greekLit:tlg0085.tlg006.perseus-eng2">        
 <head>
 <title type="main">CHOEPHOROE</title>
 </head>
 
 <pb n="216"/>
-<div type="DRAMATIS PERSONAE">
-<head>DRAMATIS PERSONÆ</head>
-<castList>
+
+
+<castList><head>DRAMATIS PERSONÆ</head>
 <castItem><role>Orestes</role>.</castItem>
 <castItem><role>PYLADES</role>, his friend, son of Strophius.</castItem>
 <castItem><role>Electra</role>.</castItem>
@@ -22,10 +113,10 @@
 <castItem><role>DOORKEEPER</role>.</castItem>
 </castList>
 <stage>SCENE.—At the opening, the mounded tomb of Agamemnon, on which stands a funeral column representing Hermes: afterwards (v. 649), before the palace-gates.</stage>
-</div>
+
 
 <pb n="217"/>
-<div type="play">
+
 <head>CHOEPHOROE.</head>
 <sp><speaker start-line="1" end-line="21">Orestes</speaker><p>Hermes of the earth, watching over rights of patrimony, be thou my preserver and fight with me in the battle, I beseech thee; for I have reached this land again, returned from banishment. And on this mounded sepulchre I cry unto my father to give ear and hearken ....<ref n="217.1">1</ref> a tress of hair to Inachus for nurture,<ref n="217.2">2</ref> and this second one for mourning; for I was not present,<ref n="217.3">3</ref> father, to lament thy death, neither at the outcarrying of thy corpse did I stretch forth my hand.</p>
 <p>What is this that I behold? What can be this company of women that walks hither, showing plain in grievous mourning? To what event can I refer it? Is it some new sorrow happening to the house? Or is it libations to my father I may suppose these women to be bringing, to appease the nether powers?<ref n="217.4">4</ref>—Nought else; for there, I
@@ -695,17 +786,17 @@ by Davies) <quote xml:lang="grc">κτέ</quote>.</note>
 
 
 <pb n="240"/>
-<sp><speaker start-line="449" end-line="453">Chorus</speaker><p>But through thine ears let the words penetrate and join a calm and steady base of thought:<ref n="240.1">1</ref> for this is how<lb n="450"/>
+<sp><speaker start-line="449" end-line="453">Chorus</speaker><p>But through thine ears let the words penetrate and join a calm and steady base of thought:<ref n="240.1">1</ref> for this is how<milestone unit="marginlnum" n="450"/>
 things stand so far, but there is more yet which we ardently desire to know; and the lists should be entered with a spirit stubborn and unbent.<ref n="240.2">2</ref></p></sp>
 <sp><speaker start-line="454" end-line="454">Orestes</speaker><p>Father, on thee I call; take part with thine own.</p></sp>
 <sp><speaker start-line="455" end-line="455">Electra</speaker><p>And I too, all in tears, add my voice thereto.</p></sp>
 <sp><speaker start-line="456" end-line="458">Chorus</speaker><p>And all this company together sound assent in chorus: Hearken, come to the light, and take part with us against the foe.</p></sp>
 <sp><speaker start-line="459" end-line="459">Orestes</speaker><p>War shall engage with War, and Cause with Cause.</p></sp>
-<sp><speaker start-line="460" end-line="460">Electra</speaker><p>O gods, determine the cause of right with righteous-<lb n="460"/>
+<sp><speaker start-line="460" end-line="460">Electra</speaker><p>O gods, determine the cause of right with righteous-<milestone unit="marginlnum" n="460"/>
 ness.</p></sp>
 <sp><speaker start-line="461" end-line="476">Chorus</speaker><p>Trembling steals over me as I hear these invoca- tions: fated destiny hath been abiding from of old, and in answer to prayer is like to come.</p>
 <p>O suffering inbred in the race! Discordant blow and bloody, struck by the hand of Doom! O sorrows harsh and heavy! O pain so hard to be assuaged!</p>
-<p>... lint to stanch these wounds .... the house .... and not from others without, but from itself, in<lb n="470"/>
+<p>... lint to stanch these wounds .... the house .... and not from others without, but from itself, in<milestone unit="marginlnum" n="470"/>
 contest raw and bloody.</p>
 <note type="footnote" n="240.1">Stanley and Heath were right, I think, in taking <quote xml:lang="grc">βάσει</quote> to mean 'base.'</note>
 <note type="footnote" n="240.2"><quote rend="blockquote"><l xml:lang="grc">τὰ μὲν γὰρ οὕτως ἔχει,</l><l xml:lang="grc">τὰ δ᾽ αὖ τις ὀργᾷ μαθεῖν·</l><l xml:lang="grc">πρέπει δ᾽ ἀκάμπτῳ μένει καθήκειν.</l></quote> <quote xml:lang="grc">ὀργᾶν</quote> means <quote xml:lang="grc">ἐπιτεταμένως ἐπιθυμεῖν</quote> (Hesych.), to be intensely desirous: Phrynichus in Bekk. Anecd. i. 7 <quote xml:lang="grc">'Aκοῦσαι ὀργῶ: σημαίνει τὸ πάνυ ἐπαίρομαι πρὸς τὸ πρᾶξαί τι ἢ ἀκοῦσαι</quote>. The MS. had <quote xml:lang="grc">αὐτοῖς</quote> at first, which was wrongly altered to <quote xml:lang="grc">αὐτός</quote>: I have corrected it to <quote xml:lang="grc">αὖ τις</quote>. The Chorus are addressing Orestes, urging on him the importance of remaining cool (cf. v. 790, with my note): 'But remember that this is only the first bout, and that the next, of which we passionately long to see the issue, is before you still; you must not allow yourself to be excited and unnerved by indulging too freely in emotion.'</note>
@@ -713,14 +804,14 @@ contest raw and bloody.</p>
 <p>To the Gods beneath the ground is sung this hymn.</p>
 <p>O hearken then, ye nether Blessed, to this invocation, and with ready will send aid to the children for their triumph.</p></sp>
 <sp><speaker start-line="477" end-line="478">Orestes</speaker><p>Father, who wast murdered in unkingly fashion, grant me at my petition the mastership of thy house.</p></sp>
-<sp><speaker start-line="479" end-line="480">Electra</speaker><p>I also, father, have a like boon that I require of thee: escape .... Aegisthus.<ref n="241.1">1</ref><lb n="480"/>
+<sp><speaker start-line="479" end-line="480">Electra</speaker><p>I also, father, have a like boon that I require of thee: escape .... Aegisthus.<ref n="241.1">1</ref><milestone unit="marginlnum" n="480"/>
 </p></sp>
 <sp><speaker start-line="481" end-line="483">Orestes</speaker><p>For thus will the customary feasts of [or 'for'] humankind be made for thee: else, at the savoury baked meats of nether Banquet,<ref n="241.2">2</ref> thou wilt have no tribute.</p></sp>
 <sp><speaker start-line="484" end-line="486">Electra</speaker><p>I, likewise, out of the fulness of my dower from patrimony will bring thee drink-offerings at marriage; and before all else will hold this tomb in chiefest honour.</p></sp>
 <sp><speaker start-line="487" end-line="487">Orestes</speaker><p>O Earth, send up my father to be witness of the fight!</p></sp>
 <sp><speaker start-line="488" end-line="488">Electra</speaker><p>Yea, and grant, O Persephassa, beauteous victory!<ref n="241.3">3</ref></p></sp>
 <sp><speaker start-line="489" end-line="489">Orestes</speaker><p>Remember the bath, father, whereby thy life was taken.</p></sp>
-<sp><speaker start-line="490" end-line="490">Electra</speaker><p>Remember what strange invention of a cloak-net they<lb n="490"/>
+<sp><speaker start-line="490" end-line="490">Electra</speaker><p>Remember what strange invention of a cloak-net they<milestone unit="marginlnum" n="490"/>
 devised.<ref n="241.4">4</ref></p></sp>
 <note type="footnote" n="241.1"><quote rend="blockquote"><l xml:lang="grc">κἀγὼ, πάτερ, τοιάνδε σου χρείαν ἔχω·</l><l xml:lang="grc">φυγεῖν μέγαν προσθεῖσαν Αἰγίσθῳ</l></quote> If the accusative participle is correct, I think the sentence must have contained <quote xml:lang="grc">με</quote>: 'grant that I may'; for example, <quote xml:lang="grc">φυγεῖν μέγ’ ἄλγος θεῖσαν Αἰγίσθῳ μ' ἔτι</quote>, 'grant that I may yet escape after inflicting great distress upon Aegisthus'; or <quote xml:lang="grc">φυγεῖν μ' ἐς ἀνδρὸς θεῖσαν Αἰγίσθῳ χέρα</quote>, 'that I may escape to a husband's house, after inflicting violence upon Aegisthus'; or <quote xml:lang="grc">θῆσσαν Αἰγίσθῳ τύχην</quote>, 'escape my condition of servitude to Aegisthus.'</note>
 <note type="footnote" n="241.2">Or 'with the feasters at the baked meats.'</note>
@@ -736,17 +827,17 @@ devised.<ref n="241.4">4</ref></p></sp>
 <sp><speaker start-line="493" end-line="493">Orestes</speaker><p>Art thou not roused up, father, by these taunts?</p></sp>
 <sp><speaker start-line="494" end-line="494">Electra</speaker><p>Dost thou not lift up thy beloved head?</p></sp>
 <sp><speaker start-line="495" end-line="497">Orestes</speaker><p>Either send Justice to fight upon our side, or let us get the like grip of them in return, if thou wouldst revenge thine overthrow by victory.</p></sp>
-<sp><speaker start-line="498" end-line="500">Electra</speaker><p>And give ear, father, to this final cry: behold these younglings seated at thy tomb, and have compassion on their lamentation, both the female and the male's together.<lb n="500"/>
+<sp><speaker start-line="498" end-line="500">Electra</speaker><p>And give ear, father, to this final cry: behold these younglings seated at thy tomb, and have compassion on their lamentation, both the female and the male's together.<milestone unit="marginlnum" n="500"/>
 </p></sp>
 <sp><speaker start-line="501" end-line="502">Orestes</speaker><p>And let not the seed of Pelops' line be blotted out: for by this means, in spite of death, thou art not dead.</p></sp>
 <sp><speaker start-line="503" end-line="505">Electra</speaker><p>For when a man dies, children are preserving voices to keep mention of his name alive; they are as corks afloat carrying a net, keeping the spun yarn out of the engulfing deep.</p></sp>
 <sp><speaker start-line="506" end-line="507">Orestes</speaker><p>Hearken; these are our complaints, made for thy sake;<ref n="242.1">1</ref> it is thine own preservation to show favour to our plea.</p></sp>
-<sp><speaker start-line="508" end-line="511">Chorus</speaker><p>Well, ye have both drawn out your speech to full sufficient length, to compensate the tomb for its lack of lamentation. Now, since your heart is fixed to act, forth-<lb n="510"/>
+<sp><speaker start-line="508" end-line="511">Chorus</speaker><p>Well, ye have both drawn out your speech to full sufficient length, to compensate the tomb for its lack of lamentation. Now, since your heart is fixed to act, forth-<milestone unit="marginlnum" n="510"/>
 with to work, and put your destined fortune to the touch.</p></sp>
 <sp><speaker start-line="512" end-line="520">Orestes</speaker><p>It shall be so. But it is not from the purpose to inquire first how she came to send libations,—what reason moving her to make amends so tardy for a hurt past cure. To a dead man, unconscious, it was a sorry solacing to send:—I cannot fathom it:—but the offering is less large than the offence. For though a man should pour out all the world to atone one deed of blood, the labour were in
 <note type="footnote" n="242.1">Or <quote xml:lang="grc">ὑπὲр σοῦ τοι τάδ᾽ ἔστ’ ὀδύρματα</quote>, 'it is on thy behalf that these complaints are made.'</note>
 <pb n="243"/>
-vain; so runs the saying. If you know this, I would fain<lb n="520"/>
+vain; so runs the saying. If you know this, I would fain<milestone unit="marginlnum" n="520"/>
 have you tell me.</p></sp>
 <sp><speaker start-line="521" end-line="523">Chorus</speaker><p>I do, my son, for I was there: it was from dreams and wandering terrors of the night that with a quaking heart the godless woman sent these offerings.</p></sp>
 <sp><speaker start-line="524" end-line="524">Orestes</speaker><p>Have you heard the nature of the dream, so as to tell it rightly?</p></sp>
@@ -755,47 +846,47 @@ have you tell me.</p></sp>
 <sp><speaker start-line="527" end-line="527">Chorus</speaker><p>That she havened it like a child in swaddling-clothes.</p></sp>
 <sp><speaker start-line="528" end-line="528">Orestes</speaker><p>What food did it crave for, as a new-born monster?</p></sp>
 <sp><speaker start-line="529" end-line="529">Chorus</speaker><p>She herself in her dream gave it the breast.</p></sp>
-<sp><speaker start-line="530" end-line="530">Orestes</speaker><p>Surely the foul thing did not leave the teat<lb n="530"/>
+<sp><speaker start-line="530" end-line="530">Orestes</speaker><p>Surely the foul thing did not leave the teat<milestone unit="marginlnum" n="530"/>
 unwounded?</p></sp>
 <sp><speaker start-line="531" end-line="531">Chorus</speaker><p>No, in milking, it sucked a curd of blood.</p></sp>
 <sp><speaker start-line="532" end-line="532">Orestes</speaker><p>This vision cannot be unmeaning.<ref n="243.1">1</ref></p></sp>
 <sp><speaker start-line="533" end-line="537">Chorus</speaker><p>And she awoke from sleep screaming in a panic; and many a lamp within that had been blinded in the darkness blazed up for the mistress' sake. And thereupon she sends these pious offerings, hoping they should be a knife's cure for the mischief.</p></sp>
-<sp><speaker start-line="538" end-line="548">Orestes</speaker><p>Well then, I make prayer unto the Earth here and my father's grave, that I may find this dream come true! I read it, look you, so as to tally at all points:—If the snake<lb n="540"/>
+<sp><speaker start-line="538" end-line="548">Orestes</speaker><p>Well then, I make prayer unto the Earth here and my father's grave, that I may find this dream come true! I read it, look you, so as to tally at all points:—If the snake<milestone unit="marginlnum" n="540"/>
 came from the same place as I, and thereupon was tendered with swaddling,<ref n="243.2">2</ref> and opened its mouth about the breast
 <note type="footnote" n="243.1"><quote rend="blockquote"><l xml:lang="grc">οὔτοι μάταιον ἂν τόδ' (or τό γ') ὄψανον πέλοι.</l></quote></note>
-<note type="footnote" n="243.2"><quote rend="blockquote"><l xml:lang="grc">εἰ γὰρ τὸν αὐτὸν χῶρον ἐκλιπὼν ἐμοὶ</l><l xml:lang="grc">ὁ ὄφις ἔπειτα σπαργάνῃ 'κομίζετο.</l></quote> The archetype must have been hard to decipher, for the MS. gives <quote xml:lang="grc">οὑφεῖσεπᾶσασπαργανηλείζετο</quote>. Fortunately, it records also an ex-</note>
+<note type="footnote" n="243.2"><quote rend="blockquote"><l xml:lang="grc">εἰ γὰρ τὸν αὐτὸν χῶρον ἐκλιπὼν ἐμοὶ</l><l xml:lang="grc">ὁ ὄφις ἔπειτα σπαργάνῃ 'κομίζετο.</l></quote> The archetype must have been hard to decipher, for the MS. gives <quote xml:lang="grc">οὑφεῖσεπᾶσασπαργανηλείζετο</quote>. Fortunately, it records also an explanation of the verb, <quote xml:lang="grc">ἐπιμελείας ἠξιοῦτο</quote>. This was the phrase regularly used by the grammarians (Class. Rev. 1900, p. 195) to explain the words <quote xml:lang="grc">κομεῖν</quote> and <quote xml:lang="grc">κομίζειν</quote>, 'to tend with care,' as a nurse does, or a gardener or a groom, <quote xml:lang="grc">παιδοκόμος, φυτηκόμος, ἱπποκόμος</quote>. The reading <quote xml:lang="grc">σπαργάνῃ 'κομίζετο</quote> accounts both for the schol. and for the strange spelling <quote xml:lang="grc">λείζετο</quote>, which is simply <quote xml:lang="grc">μίζετο</quote> misread. Ample support for the form <quote xml:lang="grc">σπαργάνη</quote> will be found in Lobeck Prolegomena, p. 175. There were, it is true, a few other words of similar meaning which were occasionally explained by the same formula, but none could with any sort of probability be read here. Innumerable words have been conjectured in ignorance, or in defiance, of the schol., but not one of them could possibly have been explained by <quote xml:lang="grc">ἐπιμελείας ἠξιοῦτο</quote>: Bamberger's <quote xml:lang="grc">ηὐλίζετο</quote>, for instance ('was lodged'), never was or could have been explained so, because it never had that meaning.</note>
 <pb n="244"/>
 that nourished me, and mingled then the kind milk with a curd of blood, while she for terror shrieked aloud at the event,—it needs must be that as she nurtured the prodigious portent, she must die by violence; and I, according to the telling of the dream, must turn to serpent and must slay her.</p></sp>
-<sp><speaker start-line="549" end-line="551">Chorus</speaker><p>I choose your divination in the matter; so may it<lb n="550"/>
+<sp><speaker start-line="549" end-line="551">Chorus</speaker><p>I choose your divination in the matter; so may it<milestone unit="marginlnum" n="550"/>
 be! Expound now to your friends their parts, bidding these do, and those forbear from doing.<ref n="244.1">1</ref></p></sp>
 <sp><speaker start-line="552" end-line="580">Orestes</speaker><p>It is simple telling:—she must go within; and these women here I charge conceal my covenant;<ref n="244.2">2</ref> that as by guile they slew a man of rank, by guile they may be also taken and perish in the self-same snare, even as was declared by Loxias, the Lord Apollo, a prophet never found untruthful hitherto.</p>
-<p>In the guise of a strange traveller, with the complete gear, I shall come to the court-gate with this man, Pylades, both traveller-cousin and spear-cousin<ref n="244.3">3</ref> to the house. And we<lb n="560"/>
-<note type="footnote" n="243.2 cont.">planation of the verb, <quote xml:lang="grc">ἐπιμελείας ἠξιοῦτο</quote>. This was the phrase regularly used by the grammarians (Class. Rev. 1900, p. 195) to explain the words <quote xml:lang="grc">κομεῖν</quote> and <quote xml:lang="grc">κομίζειν</quote>, 'to tend with care,' as a nurse does, or a gardener or a groom, <quote xml:lang="grc">παιδοκόμος, φυτηκόμος, ἱπποκόμος</quote>. The reading <quote xml:lang="grc">σπαργάνῃ 'κομίζετο</quote> accounts both for the schol. and for the strange spelling <quote xml:lang="grc">λείζετο</quote>, which is simply <quote xml:lang="grc">μίζετο</quote> misread. Ample support for the form <quote xml:lang="grc">σπαργάνη</quote> will be found in Lobeck Prolegomena, p. 175. There were, it is true, a few other words of similar meaning which were occasionally explained by the same formula, but none could with any sort of probability be read here. Innumerable words have been conjectured in ignorance, or in defiance, of the schol., but not one of them could possibly have been explained by <quote xml:lang="grc">ἐπιμελείας ἠξιοῦτο</quote>: Bamberger's <quote xml:lang="grc">ηὐλίζετο</quote>, for instance ('was lodged'), never was or could have been explained so, because it never had that meaning.</note>
+<p>In the guise of a strange traveller, with the complete gear, I shall come to the court-gate with this man, Pylades, both traveller-cousin and spear-cousin<ref n="244.3">3</ref> to the house. And we<milestone unit="marginlnum" n="560"/>
+
 <note type="footnote" n="244.1"><quote rend="blockquote"><l xml:lang="grc">τοὺς μέν τι ποιεῖν.</l></quote></note>
 <note type="footnote" n="244.2"><quote rend="blockquote"><l xml:lang="grc">αἰνῶ δὲ κρύπτειν τάσδε συνθήκας ἐμάς: see v. 579.</l></quote></note>
 <note type="footnote" n="244.3"><quote xml:lang="grc">δορύξενος</quote> <quote xml:lang="lat">sinistram ambiguitatem habere videtur</quote>,' Weil.</note>
 <pb n="245"/>
 shall utter, both of us, the language of Parnassus, imitating the accent of the Phocian tongue.</p>
 <p>Say then that no door-keeper is like to admit us with a cheerful welcome, by reason that the house is sheer possessed by devilry: then we shall wait, so as to cause one that passes by the house to make conjecture and say thus: 'Wherefore doth Aegisthus have his door shut against the petitioner, if he is not abroad but here at home and knows?'</p>
-<p>Let me, however, but once cross the threshold of the court and find that villain sitting in my father's throne,—<lb n="570"/>
+<p>Let me, however, but once cross the threshold of the court and find that villain sitting in my father's throne,—<milestone unit="marginlnum" n="570"/>
 or if he come, and thereupon before me face to face raise— oh, I warrant you that he shall presently cast down—his eyes:<ref n="245.1">1</ref> ere ever he can say What countryman? upon my nimble iron I will spit the man and lay him dead. And the Avenging Spirit, that hath had no stint of slaughter, shall for her third and crowning draught drink blood unmixed!</p>
-<p>Now, then, your part [to Electra] must be to keep good watch within the house, that all may come off pat exactly; and you [to the women] I charge to keep a discreet tongue —silence where requisite and words in season. For what<lb n="580"/>
+<p>Now, then, your part [to Electra] must be to keep good watch within the house, that all may come off pat exactly; and you [to the women] I charge to keep a discreet tongue —silence where requisite and words in season. For what<milestone unit="marginlnum" n="580"/>
 remains, I call on this man<ref n="245.2">2</ref> to come hither and be witness, directing to success my contest of the sword.</p></sp>
 <sp><speaker start-line="582" end-line="648">Chorus</speaker><p>Many are the strange and woeful terrors bred of the earth, and the embraces of the ocean teem with baleful monsters; hurtful also are the meteor-torches that hang in the mid-space to things that fly and things that walk
 <note type="footnote" n="245.1"><quote rend="blockquote"><l xml:lang="grc">ἢ καὶ μολὼν ἔπειτά μοι κατὰ στόμα</l><l xml:lang="grc">ἀρεῖ—σάφ’ ἴσθι, καὶ κατ’ ὀφθαλμοὺς βαλεῖ—</l></quote> Cf. Hom. h. Dem. 194, h. Aphr. 137, Eur. fr. 410. 3, Achill. Tat. vi. 6 <quote xml:lang="grc">ἀνανεύσασα μικρὸν, αὖθις τοὺς ὀφθαλμοὺς κατέβαλεν</quote>.</note>
 <note type="footnote" n="245.2">Pylades, who is thus assigned his part, which he performs at v. 899. Cf. Eur. Or. 1236, where Pylades says <quote xml:lang="grc">ἡψάμην δ' ἐγὼ ξίφους</quote>.</note>
 <pb n="246"/>
-upon the ground: consider also the fury of tempestuous<lb n="590"/>
+upon the ground: consider also the fury of tempestuous<milestone unit="marginlnum" n="590"/>
 hurricanes.<ref n="246.1">1</ref></p>
-<p>But who shall tell the overbold audacity of man's high spirit, and in women desperate of mind the daring criminal passions linked with human ruin? Wedded unions, among mankind and beasts alike, are violently perverted by unholy<ref n="246.2">2</ref><lb n="600"/>
+<p>But who shall tell the overbold audacity of man's high spirit, and in women desperate of mind the daring criminal passions linked with human ruin? Wedded unions, among mankind and beasts alike, are violently perverted by unholy<ref n="246.2">2</ref><milestone unit="marginlnum" n="600"/>
 female-mastering desire.</p>
-<p>Whoso is not light of wit<ref n="246.3">3</ref> may know this when instructed of the foreknown plot which Thestius' wretched daughter, the child-murderess, devised-the plot of fire-kindling, when she burned the ruddy brand that dated with her son's age from the hour that he first cried on coming from his mother's womb, and kept proportion with him throughout life until the day ordained by fate.<lb n="610"/>
+<p>Whoso is not light of wit<ref n="246.3">3</ref> may know this when instructed of the foreknown plot which Thestius' wretched daughter, the child-murderess, devised-the plot of fire-kindling, when she burned the ruddy brand that dated with her son's age from the hour that he first cried on coming from his mother's womb, and kept proportion with him throughout life until the day ordained by fate.<milestone unit="marginlnum" n="610"/>
 <note type="footnote" n="246.1"><quote rend="blockquote"><l xml:lang="grc">αἱ πόντιαί τ’ ἀγκαλαὶ κνωδάλων</l><l xml:lang="grc">ἀνταίων βρύουσι· βλάπτουσι καὶ πεδαίχμιοι</l><l xml:lang="grc">λαμπάδες πεδάοροι</l><l xml:lang="grc">πτανά τε καὶ πεδοβάμονα· κἀνεμοέντων</l><l xml:lang="grc">αἰγίδων φράσαι κότον.</l></quote> This supposes that <quote xml:lang="grc">πλήθουσι</quote> was a gloss on <quote xml:lang="grc">βρύουσι</quote>, as in Soph. O. C. 10. <quote xml:lang="grc">ἀνεμοέντων</quote> used as a feminine has parallels enough, but we might read <quote xml:lang="grc">πτανά τε καὶ πεδοβάμονα κἀνεμόεντ’ ἂν αἰγίδων φράσαι κότον</quote>, 'both things that fly and things that walk upon the ground can tell also the tempestuous rage of hurricanes.' And there are other possibilities too many to discuss. <quote xml:lang="grc">λαμπάδες</quote> or <quote xml:lang="grc">λαμπαδίαι</quote> were a kind of meteor very often mentioned, and by ancient meteorologists all such phenomena were regarded as dangerous and harmful; see e.g. Manilius i. 809-903, who gives various theories of their generation. <quote xml:lang="grc">βλαστοῦσι</quote>, therefore, 'are born in the mid-region,' would not in itself be meaningless.</note>
 <note type="footnote" n="246.2"><quote xml:lang="grc">ἀπέρωτος</quote>, or <quote xml:lang="grc">ἀπέρωπος</quote>, 'reckless.'</note>
 <note type="footnote" n="246.3"><quote xml:lang="grc">ἴστω δ', ὅστις οὐχ ὑπόπτερος φροντίσιν</quote>: as <quote xml:lang="grc">ὑπόπτερος</quote> commonly means 'flighty,' <quote xml:lang="grc">κοῦφος</quote> (e.g. Themist. 220 c, Eubulus in Ath. 562 c), this would appear to mean the same as the phrase <quote xml:lang="grc">τοῦτό τις φρονῶν ἴστω</quote> in Soph. Aj. 416; but Mr. Tucker's interpretation may be right, ' "let him who is not fledged with thought know this," i.e. let any one, whose apprehension (reflection or experience) is not ready (to supply instances) perceive the truth by taking as his lesson the crime of Althæa.'</note></p>
 
 <pb n="247"/>
-<p>And there is another one in legend to be held abominable, a murderess daughter,<ref n="247.1">1</ref> who at the instance of enemies destroyed the life of a man near to her and dear, when yielding to the temptation of a golden carcanet of Cretan work, the gift of Minos,<ref n="247.2">2</ref> she reft the hair of immortality from Nisus' head while he drew his breath—ah! the dog's heart of her!<ref n="247.3">3</ref>—unguardedly in sleep; and Hermes<lb n="620"/>
+<p>And there is another one in legend to be held abominable, a murderess daughter,<ref n="247.1">1</ref> who at the instance of enemies destroyed the life of a man near to her and dear, when yielding to the temptation of a golden carcanet of Cretan work, the gift of Minos,<ref n="247.2">2</ref> she reft the hair of immortality from Nisus' head while he drew his breath—ah! the dog's heart of her!<ref n="247.3">3</ref>—unguardedly in sleep; and Hermes<milestone unit="marginlnum" n="620"/>
 overtook him.</p>
 <p>And since I have made mention of heartless deeds of cruelty—</p>
 <p><stage>(Another Voice, interrupting.)</stage> But not to the purpose! A loathsome couplement, abominable to the house, and plots devised by wedded woman's cunning against man and soldier, against wedded man—do you regard such things with honour and approval, in a way befitting enemies? My admiration is for a domestic hearth unfired to wickedness, a spirit womanly and unaudacious!<ref n="247.4">4</ref>
@@ -804,18 +895,18 @@ overtook him.</p>
 <note type="footnote" n="247.3">So Tucker well translates <quote xml:lang="grc">ἁ κυνόφρων</quote>.</note>
 <note type="footnote" n="247.4"><quote rend="blockquote"><l xml:lang="grc">ἐπεὶ δ᾽ ἐπεμνασάμην ἀμειλίχων</l><l xml:lang="grc">πόνων,—</l><l xml:lang="grc">Ἀκαίρως δέ· δυσφιλὲς γαμή-</l><l xml:lang="grc">λευμ' ἀπεύχετον δόμοις</l><l xml:lang="grc">γυναικοβούλους τε μήτιδας φρενῶν</l><l xml:lang="grc">ἐπ᾽ ἀνδρὶ τευχεσφόρῳ,</l><l xml:lang="grc">ἐπ᾽ ἀνδρὶ, δῄοις ἐπεικότως σέβεις ;</l><l xml:lang="grc">τίω δ᾽ ἀθέρμαντον ἑστίαν δόμων,</l><l xml:lang="grc">γυναικείαν ἄτολμον αἰχμάν.</l></quote> Lucian Nigrin. 18 <quote xml:lang="grc">τὸ λοιπὸn οἰκουρεῖν εἱλόμην καὶ βίον τινὰ τοῦτον ‘γυναικώδη καὶ ἄτολμον’ τοῖς πολλοῖς δοκοῦντα προτιθέμενος</quote>. Or <quote xml:lang="grc">γυναικειᾶν ἄτολμον αἰχμᾶν</quote> (Schöne), 'a hearth free from bold impetuousness in woman.' An interrupting voice, with the alteration of <quote xml:lang="grc">σέβας</quote> to <quote xml:lang="grc">σέβεις</quote>, gives, I believe, the solution of this very difficult passage. The first voice had set out to illustrate the theme by examples in which the motives and the relationships were artfully differentiated from Clytemnestra's, intending them as steps in a climax leading to the worst, the Lemnian crime, which really corresponds to hers in both respects. But some one present does not understand this, and impatiently breaks in with a petulant complaint that the examples do not fit the case: 'The murder of a husband by an adulterous wife—do you then admire that and approve it, that you pass it over?' <quote xml:lang="grc">σέβεις</quote> and <quote xml:lang="grc">τίω</quote> are answered by <quote xml:lang="grc">ἀτιμωθὲν</quote> and <quote xml:lang="grc">σέβει γὰρ οὔτις</quote>, and <quote xml:lang="grc">τί τῶνδ’ οὐκ ἐνδίκως ἀγείρω</quote>; is the final and triumphant retort to <quote xml:lang="grc">ἀκαίρως δέ</quote>. See Class. Rev. 1900, p. 196, and my note on Supp. 88 sqq., where a passage equally unintelligible is solved by the same remedy.</note>
 <pb n="248"/>
-<stage>(First Voice, resuming.)</stage> But among all crimes in history the Lemnian stands in the chief place:— .... abomin-<lb n="630"/>
+<stage>(First Voice, resuming.)</stage> But among all crimes in history the Lemnian stands in the chief place:— .... abomin-<milestone unit="marginlnum" n="630"/>
 able .... a theme for lamentation;<ref n="248.1">1</ref> and again the horrible thing men liken to the 'Lemnian calamity': through sin abhorred by God, the race of them is cast out with degradation and dishonour from mankind; for there is no one that 'regards with admiration and approval' what is loathsome in the sight of heaven. What instance is there here that I adduce 'impertinently'?</p>
 <p>But there is a keen and piercing sword that by the act of Justice strikes through and stabs close to the vitals him that doeth what is unlawful, leaving God's reverence
 <note type="footnote" n="248.1">What to read for <quote xml:lang="grc">γοᾶται δὲ δὴ ποθὲι κατάπτυστον</quote> is uncertain. If <quote xml:lang="grc">δήποθεν</quote> was used, as Hesychius says, like <quote xml:lang="grc">δήπου</quote> or <quote xml:lang="grc">δήπουθεν</quote>, 'I presume' would suit the ironical tone of this retort. Philostratus Heroica 325 = 740 says that an annual ceremony of purification for this crime was held at Lemnos.</note>
 <pb n="249"/>
-wholly trampled under foot and turning aside unto iniquity.<ref n="249.1">1</ref><lb n="640"/>
+wholly trampled under foot and turning aside unto iniquity.<ref n="249.1">1</ref><milestone unit="marginlnum" n="640"/>
 </p>
 <p>The foundation of Justice is (being) planted firm, and a weapon forged for her betimes by Fate, her armourer: to pay for the pollution of blood shed of old, a Child<ref n="249.2">2</ref> is introduced into the house in time by the renowned and deep-designing fiend Erinys.</p></sp>
 <ab>
 <title type="sub">(Orestes and PYLADES before the palace.)</title>
 </ab>
-<sp><speaker start-line="649" end-line="652">Orestes</speaker><p>Boy, boy! Hear my knocking at the court-door!— Who's within there, boy?—Boy, once more, who's within?<ref n="249.3">3</ref><lb n="650"/>
+<sp><speaker start-line="649" end-line="652">Orestes</speaker><p>Boy, boy! Hear my knocking at the court-door!— Who's within there, boy?—Boy, once more, who's within?<ref n="249.3">3</ref><milestone unit="marginlnum" n="650"/>
 This is the third time I call for some step to issue from the house, if it is permitted by Aegisthus to give hospitality.</p></sp>
 <sp><speaker start-line="653" end-line="653">Doorkeeper</speaker><p>All right; I hear: what countryman, and whence?</p></sp>
 <sp><speaker start-line="654" end-line="658">Orestes</speaker><p>Announce me to the masters of the house, for it is to them I come and bring intelligence: and make haste,
@@ -823,21 +914,21 @@ This is the third time I call for some step to issue from the house, if it is pe
 <note type="footnote" n="249.2"><quote rend="blockquote"><l xml:lang="grc">τέκνον δ᾽ ἐπεισφέρει δόμοις</l><l xml:lang="grc">αἱμάτων παλαιτέρων</l><l xml:lang="grc">τίνειν μύσος.</l></quote> New Murder begotten by the old to be its penalty: compare 799-801, <bibl>Agam. 760-766, 385</bibl> <quote xml:lang="grc">ἐκτίνουσ’ ἀτολμήτων ἀρή</quote>, and 1512 <quote xml:lang="grc">Ἄρης δίκας πάχνᾳ κουροβόρῳ παρέξει</quote>.</note>
 <note type="footnote" n="249.3"><quote xml:lang="grc">τίς ἔνδον, ὦ, παῖ; — παῖ; μάλ’ αὖ, τίς ἐν δόμοις ;</quote> Schwerdt's correction of <quote xml:lang="grc">παῖ μάλ’ αὖθις ἐν δόμοις</quote>. Cf. 875, Agam. 1344, Eur. Phoen. 1340-2, <bibl>Hdt. v. 76</bibl>.</note>
 <pb n="250"/>
-for the dark chariot of Night is coming on apace, and it is time for travellers to slip anchor in some house of common entertainment. Let some one of authority come forth— a woman ....<ref n="250.1">1</ref> seemlier it should be a man, for then in<lb n="660"/>
+for the dark chariot of Night is coming on apace, and it is time for travellers to slip anchor in some house of common entertainment. Let some one of authority come forth— a woman ....<ref n="250.1">1</ref> seemlier it should be a man, for then in<milestone unit="marginlnum" n="660"/>
 conversation shame does not cause language to be veiled; man speaks to man with boldness, and gives plain indication of his meaning.</p></sp>
 <ab>
 <title type="sub">(CLYTEMNESTRA appears at the door, with Electra in attendance.<ref n="250.2">2</ref>)</title>
 </ab>
 <sp><speaker start-line="664" end-line="669">Clytemnestra</speaker><p>Sirs, you will speak your wishes; at your service here is all such entertainment as befits this house,—warm baths and labour-soothing couch, and the presence of true eyes about you. But if you have business of graver counsel to despatch, that is man's affair, and to man we will impart it.</p></sp>
-<sp><speaker start-line="670" end-line="686">Orestes</speaker><p>I am a foreigner, a Daulian from Phocis; and as I<lb n="670"/>
-was going on business of my own with my own pack to Argos, where my unharnessed feet have reached their destination,<ref n="250.3">3</ref> a man strange to me, as I to him, fell in with me, inquired my road, and told me his-one Strophius a Phocian, as I learned in course of talk-and said to me, 'Since, friend, you are wending anyhow to Argos, be sure by all means to remember and inform his parents that Orestes is dead; on no account forget. So whether his friends' opinion decide to bring him home, or to bury him in a strange land as an alien denizen for evermore, convey<lb n="680"/>
+<sp><speaker start-line="670" end-line="686">Orestes</speaker><p>I am a foreigner, a Daulian from Phocis; and as I<milestone unit="marginlnum" n="670"/>
+was going on business of my own with my own pack to Argos, where my unharnessed feet have reached their destination,<ref n="250.3">3</ref> a man strange to me, as I to him, fell in with me, inquired my road, and told me his-one Strophius a Phocian, as I learned in course of talk-and said to me, 'Since, friend, you are wending anyhow to Argos, be sure by all means to remember and inform his parents that Orestes is dead; on no account forget. So whether his friends' opinion decide to bring him home, or to bury him in a strange land as an alien denizen for evermore, convey<milestone unit="marginlnum" n="680"/>
 these charges back again. Meanwhile the round sides of a
 <note type="footnote" n="250.1"><quote xml:lang="grc">γυνὴ τὰπαρχοσ</quote> MS.</note>
 <note type="footnote" n="250.2">See the note on Electra's speech, v. 687.</note>
 <note type="footnote" n="250.3"><quote rend="blockquote"><l xml:lang="grc">ὥσπερ δεῦρ᾽ ἀπεζύγην πόδας,</l></quote> 'according as I have reached my destination here,' or 'according as I had quitted for my destination hither.'</note>
 <pb n="251"/>
 brazen urn enclose the ashes of a man right well bewept.' That is the message I was told. Whether I am speaking to those in authority and the family whom it concerns I do not know; but his parent ought to be aware.</p></sp>
-<sp><speaker start-line="687" end-line="695">Electra</speaker><p><ref n="251.1">1</ref>Ah me, we are taken ruthlessly by storm and spoiled!<ref n="251.2">2</ref> O thou invincible Curse of this sad House, how wide thy vision ranges! Even what is well bestowed<ref n="251.3">3</ref> out of the way thou bringest down with thy<lb n="690"/>
+<sp><speaker start-line="687" end-line="695">Electra</speaker><p><ref n="251.1">1</ref>Ah me, we are taken ruthlessly by storm and spoiled!<ref n="251.2">2</ref> O thou invincible Curse of this sad House, how wide thy vision ranges! Even what is well bestowed<ref n="251.3">3</ref> out of the way thou bringest down with thy<milestone unit="marginlnum" n="690"/>
 well-aimed arrows from afar, and strippest me of friends, unhappiest me!</p>
 <p>Orestes now—for he was, as he imagined, prudently keeping his foot safe out of the mire of ruin—now that Hope, which once the House had for a mediciner of the accursed carnival, might have been registered upon the roll as Present!<ref n="251.4">4</ref>
 <note type="footnote" n="251.1">This speech, which nearly all modern editors assign to Clytemnestra, must, as I have shown in the Classical Review, 1903, p. 245, be spoken by Electra. There are thus three speaking characters upon the stage at once, Orestes, Clytemnestra, and Electra, as in a scene of the Eumenides, 569 sqq., Athena, Apollo, and Orestes.</note>
@@ -846,11 +937,11 @@ well-aimed arrows from afar, and strippest me of friends, unhappiest me!</p>
 <note type="footnote" n="251.4"><quote rend="blockquote"><l xml:lang="grc">καὶ νῦν Ὀρέστης—ἦν γὰρ εὐβούλως ἔχειν</l><l xml:lang="grc">ἔξω νομίζων ὀλεθρίου πηλοῦ πόδα—</l><l xml:lang="grc">νῦν δ᾽ ἥπερ ἦν δόμοισι βακχείας κακῆς</l><l xml:lang="grc">ἰατρὸς ἐλπίς—ἦν παροῦσαν ἐγγράφειν.</l></quote> These difficult lines are fully explained in Class. Rev. 1903, p. 245 sqq., where the restoration of them is, I think, completed. The reiterated <quote xml:lang="grc">ἦν</quote> designedly enables Electra to imply that Orestes is no more, without asserting it expressly.</note>
 </p></sp>
 <pb n="252"/>
-<sp><speaker start-line="696" end-line="702">Orestes</speaker><p>Well, I am sure, for my part, I could have wished, with entertainers in such happy state, that matter of good had been the occasion of my becoming known to them and entertained: where is there good-will greater than from guest toward host? Only, to my thought, it was like sin<lb n="700"/>
+<sp><speaker start-line="696" end-line="702">Orestes</speaker><p>Well, I am sure, for my part, I could have wished, with entertainers in such happy state, that matter of good had been the occasion of my becoming known to them and entertained: where is there good-will greater than from guest toward host? Only, to my thought, it was like sin<milestone unit="marginlnum" n="700"/>
 and wickedness<ref n="252.1">1</ref> to leave such an office of friendship unfulfilled, after the pledge of my promise and the bond of hospitality.</p></sp>
-<sp><speaker start-line="703" end-line="714">Clytemnestra</speaker><p>Oh, you shall by no means receive less than your deserts:<ref n="252.2">2</ref> another would have brought us the news equally, if you had not. But it is time for travellers spending the day on a long journey to find tending suitable:—[To Electra] Conduct him to the chambers of men's entertainment, and this retinue and company, and there let them find tending<lb n="710"/>
+<sp><speaker start-line="703" end-line="714">Clytemnestra</speaker><p>Oh, you shall by no means receive less than your deserts:<ref n="252.2">2</ref> another would have brought us the news equally, if you had not. But it is time for travellers spending the day on a long journey to find tending suitable:—[To Electra] Conduct him to the chambers of men's entertainment, and this retinue and company, and there let them find tending<milestone unit="marginlnum" n="710"/>
 for their bodies. And I warn you to perform this as you shall answer for it.<ref n="252.3">3</ref> <stage>[Exit Electra with Orestes and PYLADES.]</stage> We meanwhile will impart the matter to the master of the house, and, being in no lack of friends, will take counsel together about this sad event. <stage>[Exit.</stage></p></sp>
-<sp><speaker start-line="715" end-line="727">Chorus</speaker><p>Well, loyal handmaids! how long shall it be ere we show forth the strength of our voices for Orestes' triumph? O sovereign earth, and sovereign mound that liest now upon the body of the royal admiral, now hearken,<lb n="720"/>
+<sp><speaker start-line="715" end-line="727">Chorus</speaker><p>Well, loyal handmaids! how long shall it be ere we show forth the strength of our voices for Orestes' triumph? O sovereign earth, and sovereign mound that liest now upon the body of the royal admiral, now hearken,<milestone unit="marginlnum" n="720"/>
 now lend aid! The moment is ripe now for guileful Persuasion to bring her help into the lists, and for Hermes
 <note type="footnote" n="252.1"><quote xml:lang="grc">πρὸς δυσσεβείας δ’</quote> . . . . It would in truth have been a sin— against Apollo. All the speech consists of these ambiguous ironies.</note>
 <note type="footnote" n="252.2"><quote xml:lang="grc">οὔτοι κυρήσεις μεῖον ἀξίων σέθεν</quote>, i.e. <quote xml:lang="grc">οὔτοι μεῖον ἢ τὰ ἄξιά σου ἕξεις</quote>. Messengers were rewarded according to the nature of the news they brought: Class. Rev. 1902, p. 60.</note>
@@ -861,22 +952,22 @@ of the earth and him of the night to be spectator at this contest of the deadly 
 <title type="sub">(Enter Orestes' Nurse.)</title>
 </ab>
 <p>Our traveller, it seems, is working mischief:—yonder I see Orestes' nurse all in tears.—Whither stepping, Cilissa, in the palace-gate, with grief for unhired company?</p></sp>
-<sp><speaker start-line="730" end-line="761">Nurse</speaker><p>The mistress bids summon Aegisthus for the<lb n="730"/>
-strangers as quick as may be, that he may come and learn more certainly, as man from man, this piece of news—with eyes of assumed sadness before the servants, and within them masking laughter<ref n="253.2">2</ref> at a piece of work done excellently well for her,—but miserable ill work for the house it is that comes of the message these strangers have so plainly told. Oh, I warrant, his heart will be gladdened when he hears the tale. O woe is me! All that past minglement of heavy<lb n="740"/>
+<sp><speaker start-line="730" end-line="761">Nurse</speaker><p>The mistress bids summon Aegisthus for the<milestone unit="marginlnum" n="730"/>
+strangers as quick as may be, that he may come and learn more certainly, as man from man, this piece of news—with eyes of assumed sadness before the servants, and within them masking laughter<ref n="253.2">2</ref> at a piece of work done excellently well for her,—but miserable ill work for the house it is that comes of the message these strangers have so plainly told. Oh, I warrant, his heart will be gladdened when he hears the tale. O woe is me! All that past minglement of heavy<milestone unit="marginlnum" n="740"/>
 sorrows happening in this house of Atreus made my heart ache enough within my breast, but never yet did I endure a blow like this. All the other troubles I bore patiently; but my beloved Orestes, that I spent my soul upon, that I took to nurse from his mother's womb—and all the many and the weary tasks caused me by loud summonings that set one stirring in the night<ref n="253.3">3</ref>—all to no profit of my pains. Because a thing without sense must be tended, surely, like
 <note type="footnote" n="253.1"><quote rend="blockquote"><l xml:lang="grc">νῦν γὰρ ἀκμάζει Πειθὼ δολίαν</l><l xml:lang="grc">ξυγκαταβῆναι, χθόνιον δ᾽ Ἑρμῆν</l><l xml:lang="grc">καί τὸν νύχιον τοῖσδ᾽ ἐφορεῦσαι</l><l xml:lang="grc">ξιφοδηλήτοισιν ἀγῶσιν.</l></quote> Class. Rev. 1903, p. 289.</note>
 <note type="footnote" n="253.2"><quote rend="blockquote"><l xml:lang="grc">θετοσκυθρωπῶν ἐντὸς ὀμμάτων γέλων κεύθουσα: Eur. Or. 461 τίνα</l><l xml:lang="grc">σκότον λάβω προσώπῳ; ποῖον ἐπίπροσθεν νέφος θῶμαι; 1311 σκυθρωποὺς</l><l xml:lang="grc">ὀμμάτων ἕξω κόρας ὡς δῆθεν οὐκ εἰδυῖα τἀξειργασμένα. Phoen. 1338</l><l xml:lang="grc">σκυθρωπὸν ὄμμα.</l></quote></note>
 <note type="footnote" n="253.3"><quote xml:lang="grc">κἀκ νυκτιπλάγκτων.</quote></note>
 <pb n="254"/>
-a dumb beast, according to its humour.<ref n="254.1">1</ref> For it has no<lb n="750"/>
-speech, a child still in its swaddling-clothes, to say what is the matter with it, hunger or thirst perchance or wanting to make water; and the infant belly waits for no assistance. These needs I would be a prophet to forecast, but many a time, I trow, being mistaken, would be laundress of its linen, so that fuller and nurse had work to the same end. With these two handicrafts it was that I received Orestes from his father's hands, and now, unhappy me! I learn that he is dead. And I am on my way to the man who is<lb n="760"/>
+a dumb beast, according to its humour.<ref n="254.1">1</ref> For it has no<milestone unit="marginlnum" n="750"/>
+speech, a child still in its swaddling-clothes, to say what is the matter with it, hunger or thirst perchance or wanting to make water; and the infant belly waits for no assistance. These needs I would be a prophet to forecast, but many a time, I trow, being mistaken, would be laundress of its linen, so that fuller and nurse had work to the same end. With these two handicrafts it was that I received Orestes from his father's hands, and now, unhappy me! I learn that he is dead. And I am on my way to the man who is<milestone unit="marginlnum" n="760"/>
 the ruin of this house; and glad he will be to hear these tidings.</p></sp>
 <sp><speaker start-line="762" end-line="762">Chorus</speaker><p>How then does she bid him come arrayed?</p></sp>
 <sp><speaker start-line="763" end-line="763">Nurse</speaker><p>What mean you by 'How'?<ref n="254.2">2</ref> Say it again to make me clear.</p></sp>
 <sp><speaker start-line="764" end-line="764">Chorus</speaker><p>I mean, whether with a guard or unattended?</p></sp>
 <sp><speaker start-line="765" end-line="765">Nurse</speaker><p>She bids him bring a retinue of spearmen.</p></sp>
 <sp><speaker start-line="766" end-line="769">Chorus</speaker><p>Now, do not you give that message to our hated master, but to come by himself, that he may hear without alarm, as soon as may be, with a merry heart.<ref n="254.3">3</ref></p></sp>
-<sp><speaker start-line="770" end-line="770">Nurse</speaker><p>What! are you in sympathy with the present<lb n="770"/>
+<sp><speaker start-line="770" end-line="770">Nurse</speaker><p>What! are you in sympathy with the present<milestone unit="marginlnum" n="770"/>
 news?</p></sp>
 <sp><speaker start-line="771" end-line="771">Chorus</speaker><p>Well, suppose Zeus means at last to change the weather of our troubles?<ref n="254.4">4</ref>
 <note type="footnote" n="254.1"><quote xml:lang="grc">τρόπῳ φρενός</quote>, if sound, can have no other meaning than 'by the state of its mind.' Compare Plat. Rep. 493 A, Legg. 791 E, Xen. Mem. ii. 2. 5, Porph. de abst. iii. 5, Ar. Nub. 1380.</note>
@@ -889,10 +980,10 @@ news?</p></sp>
 <sp><speaker start-line="774" end-line="774">Nurse</speaker><p>What do you mean? Have you any information outside what has been told?</p></sp>
 <sp><speaker start-line="775" end-line="776">Chorus</speaker><p>Go and take your message; do as you are charged. The Gods attend to what they are concerned with.</p></sp>
 <sp><speaker start-line="777" end-line="778">Nurse</speaker><p>Well, I will go and obey your counsel. With the gift of the Gods, may all turn to the best! <stage>[Exit.</stage></p></sp>
-<sp><speaker start-line="779" end-line="836">Chorus</speaker><p>Now at my supplication, Zeus, Father of the<lb n="780"/>
+<sp><speaker start-line="779" end-line="836">Chorus</speaker><p>Now at my supplication, Zeus, Father of the<milestone unit="marginlnum" n="780"/>
 Olympian Gods, grant that fortune may befall .... to them that long to see the rule of Soberness. Every syllable that I cry is voiced in righteousness: mayest thou uphold it!<ref n="255.2">2</ref></p>
 <p>Ah me! And him within the palace advance, O Zeus, before his enemies; for if thou exalt him, thou shalt at thy pleasure receive<ref n="255.3">3</ref> twofold and threefold in return.</p>
-<p>Bethink thee how the young horse sired by a man dear to<lb n="790"/>
+<p>Bethink thee how the young horse sired by a man dear to<milestone unit="marginlnum" n="790"/>
 thee is harnessed in a chariot of distress: it is by imposition of measure in his running that the stride of steps winning to the goal may be seen preserving over this course an ordered pace.<ref n="255.4">4</ref>
 <note type="footnote" n="255.1"><quote xml:lang="grc">οὔπω · κακός γε μάντις ἂν γνοίη τάδε</quote>: cf. Eur. Hel. 518 <quote xml:lang="grc">Μενέλαος οὔπω οἴχεται</quote>. Not, as some render it, 'even an ill soothsayer could tell that,' which in Greek would be <quote xml:lang="grc">οὔπω κἂν κακὸς μάντις ἂν γνοίη τάδε</quote>. If the line were all one sentence, we should have to read <quote xml:lang="grc">οὔπω καλός γε μάντις</quote> (Eur. Heracl. 65) <quote xml:lang="grc">ἂν γνοίη τάδε</quote>, 'a good soothsayer would not divine that yet,' as Empedocles 350 <quote xml:lang="grc">οὐκ ἂν ἀνὴρ τοιαῦτα σοφὸς φρεσὶ μαντεύσαιτο</quote>.</note>
 <note type="footnote" n="255.2">There is much uncertainty in the text here.</note>
@@ -900,21 +991,21 @@ thee is harnessed in a chariot of distress: it is by imposition of measure in hi
 <note type="footnote" n="255.4">Read and punctuate:</note>
 <pb n="256"/>
 <quote rend="blockquote"><l xml:lang="grc">ἴσθι δ᾽ ἀνδρὸς φίλου πῶλον εὖν-</l><l xml:lang="grc">ιν ζυγέντ᾽ ἐν ἅρμασιν</l><l xml:lang="grc">πημάτων· ἐν δρόμῳ προστιθεὶς</l><l xml:lang="grc">μέτρον τις ἂν σῳζόμενον ῥυθμὸν</l><l xml:lang="grc">δάπεδον ἂν τοῦτ᾽ ἴδοι</l><l xml:lang="grc">ἀνομένων βημάτων ὄρεγμα.</l></quote> Class. Rev. 1900, p. 198. It is of vital moment that Orestes should remain cool (cf. v. 450, with my note); the Chorus therefore pray that Zeus will put the check upon him, keep him under control, not allow him to get out of hand and go too fast, <quote xml:lang="grc">βίᾳ καί ἀτάκτως φέρεσθαι</quote>. Othello, iv. 1: <quote rend="blockquote" xml:lang="eng"><p>'Oth. Dost thou hear, Iago?<lb/> I will be found most cunning in my patience;<lb/> But—dost thou hear?—most bloody.</p><p>Iago. That's not amiss;<lb/> But yet keep time in all.'</p></quote> <quote xml:lang="grc">δάπεδον ἂν</quote> (i.e. <quote xml:lang="grc">ἀνὰ</quote>) <quote xml:lang="grc">τοῦτο</quote> as <quote xml:lang="grc">δάπεδον ἂν τόδε</quote>, Pind. Nem. vii. 83, <quote xml:lang="grc">ἀνὰ δάπεδον</quote>, Eur. Or. 330, <quote xml:lang="grc">ἀμ πέδον</quote> and <quote xml:lang="grc">ἀμ πεδίον</quote> often.</p>
-<p>And ye that within the house inhabit your wealth-gladdened cell,<ref n="256.1">1</ref> hearken, ye Deities that feel with us! Redeem the blood of deeds done anciently with fresh<lb n="800"/>
+<p>And ye that within the house inhabit your wealth-gladdened cell,<ref n="256.1">1</ref> hearken, ye Deities that feel with us! Redeem the blood of deeds done anciently with fresh<milestone unit="marginlnum" n="800"/>
 requital; let murder, being old, have offspring in the house no more!</p>
 <p>And thou that dwellest in thy great fair-builded cavern, grant that we may happily engarland a man's house and that it may look forth from the veil of gloom with brightness, as the mien of freedom is, in eyes of friendliness!<ref n="256.2">2</ref></p>
 <p>And let the son of Maia take part also, as is warrantable,
 <note type="footnote" n="256.1">The <quote xml:lang="grc">θεοὶ μύχιοι</quote>.</note>
 <note type="footnote" n="256.2"><quote rend="blockquote"><l xml:lang="grc">τὸ δὲ καλῶς κτίμενον ὦ μέγα ναίων</l><l xml:lang="grc">στόμιον, εὖ δὸς ἀναδεῖν δόμον ἀνδρός,</l><l xml:lang="grc">καί νιν ἐλευθερίως</l><l xml:lang="grc">λαμπρὸν ἰδεῖν φιλίοις</l><l xml:lang="grc">ὄμμασιν ἐκ δνοφερᾶς καλύπτρας.</l></quote> See Class. Rev. 1900, p. 198. <quote xml:lang="grc">ἐλευθέριος</quote> means <quote xml:lang="lat">liberalis</quote>, 'like an <quote xml:lang="grc">ἐλεύθερος</quote>,' as <quote xml:lang="grc">δούλιος</quote> means <quote xml:lang="lat">servilis</quote>, and <quote xml:lang="grc">φίλιος</quote> 'like a <quote xml:lang="grc">φίλος</quote>,' and the adverb has its proper meaning here: see e.g. Theognis 535-8, Liban. iv. 581. 7.</note>
 <pb n="257"/>
-since he is most penetrating, and will make much manifest<lb n="810"/>
+since he is most penetrating, and will make much manifest<milestone unit="marginlnum" n="810"/>
 when so he chooses; but when uttering an obscure speech, he brings darkness before the eyes by night, and in the daytime is not a whit more plain.<ref n="257.1">1</ref></p>
-<p>And then at last .... upon deliverance of the house with wind set fair in women's accents we shall vent the ....-toned wizards' strain: The vessel speeds! Hereby<lb n="820"/>
+<p>And then at last .... upon deliverance of the house with wind set fair in women's accents we shall vent the ....-toned wizards' strain: The vessel speeds! Hereby<milestone unit="marginlnum" n="820"/>
 <note type="footnote" n="257.1">This passage, which has been much corrupted by glosses, I would read as follows: <quote rend="blockquote"><l xml:lang="grc">ξυλλάβοι δ᾽ ἐνδίκως (or δ᾽ ἂν ἐνδίκως)</l><l xml:lang="grc">παῖς ὁ Μαίας, ἐπεὶ τορώτατος,</l><l xml:lang="grc">πολλά τ᾽ ἀμφανεῖ θέλων·</l><l xml:lang="grc">ἄσκοπον δ' ἔπος λέγων,</l><l xml:lang="grc">νύκτ᾽ ἀντ᾽ ὀμμάτων σκότον φέρει</l><l xml:lang="grc">καθ' ἡμέραν τ᾽ οὐδὲν ἐμφανέστερος.</l></quote> <quote xml:lang="grc">πρᾶξιν οὐρίαν</quote>, which is metrically superfluous, I take to be part of a gloss in explanation of the reading <quote xml:lang="grc">ἐπιφορώτατος</quote>. Upon that there is a schol.: <quote xml:lang="grc">ὡς ἐπὶ ἀνέμου εἶπεν, ἀντὶ τοῦ ὁ λογικώτατος</quote>. It is hard to see how the last part could have been written if the text before the writer had been <quote xml:lang="grc">ἐπιφορώτατος πρᾶξιν οὐρίαν</quote>. Hermes is here invoked in virtue of his recognised qualities; and <quote xml:lang="grc">φορώτατος</quote> would represent him as a wafting wind. But this was no epithet or attribute of his. Dr Roscher has indeed a theory that Hermes was originally a Wind-God; but no Greek writer anywhere betrays the least suspicion of it. Zeus is <quote xml:lang="grc">οὔριος</quote> (Supp. 602); Hermes might be called <quote xml:lang="grc">φραδώτατος</quote> or <quote xml:lang="grc">πορώτατος</quote>: certainly <quote xml:lang="grc">τορώτατος</quote>, which includes the notions piercing, penetrating, lucid, clear, perspicuous, and perspicacious, the audience would have recognised at once, for it is appropriate to him on many accounts, as Herald or Crier, as Messenger (Suppl. 942), as Interpreter (Agam. 621, 1046), and as <quote xml:lang="grc">λόγιος</quote> generally. His epithet <quote xml:lang="grc">διάκτορος</quote> was by many held to mean <quote xml:lang="grc">διάτορος</quote>: and when in the ancient 'Homeric' Hymn to Hermes the words used of his boring out the tortoise are 42 <quote xml:lang="grc">ἐξετόρησε</quote>, 119 <quote xml:lang="grc">διατορήσας</quote>, and of his boring through a house 178 <quote xml:lang="grc">ἀντιτορήσων</quote>, 283 <quote xml:lang="grc">ἀντιτοροῦντα</quote>, I suspect these are allusions to his quality of <quote xml:lang="grc">τορός</quote>. One scholiast's note, <quote xml:lang="grc">θέλων πολλὰ κρυπτὰ εὑρίσκει</quote>, shows, as Mr Tucker has pointed out, that instead of <quote xml:lang="grc">ἀμφανεῖ</quote> there was a variant <quote xml:lang="grc">ἀλφάνει</quote>, 'makes many gains.'</note>
 <pb n="258"/>
 is harm removed from those I love, and my own gain, my own, increased withal.<ref n="258.1">1</ref></p>
 <p>Thou, with a good courage, when the turn of action comes, overbearing her piteous cry of Child with Father, carry to the end a deed of slaughter unreprovable.<ref n="258.2">2</ref></p>
-<p>And taking within thy breast the heart of Perseus, for thy<lb n="830"/>
+<p>And taking within thy breast the heart of Perseus, for thy<milestone unit="marginlnum" n="830"/>
 friends below the earth and those above it working joy .... within the house make bloody slaughter, but destroy the guilty cause ....<ref n="258.3">3</ref>
 <note type="footnote" n="258.1"><quote rend="blockquote"><l xml:lang="grc">καὶ τότ᾽ ἤδη</l><l xml:lang="grc">θῆλυν οὐριοστάταν</l><l xml:lang="grc">... κρεκτὸν γοήτων νόμον μεθήσομεν·</l><l xml:lang="grc">“πλεῖ τάδ᾽ εὖ”·</l><l xml:lang="grc">ἐμὸν ἐμὸν κέρδος αὔξεται τόδ', ἄτα δ᾽</l><l xml:lang="grc">ἀποστατεῖ φίλων.</l></quote> The point of this is that <quote xml:lang="grc">γόητες</quote>, conjurers or wizards, while delivering others from distress, were notorious at the same time for an eye to their own pockets (<quote xml:lang="grc">κέρδος</quote>): hence the slaves, looking for their own advantage too, anticipate for themselves 'the wizards' strain.' Class. Rev. 1902, p. 60, where add Soph. Ant. 1047, Eur. Bacch. 250, Plat. Legg. 909 B, Paroemiogr. i. p. 228 Leutsch, Thesaur. s.v. <quote xml:lang="grc">ἀγύρτης</quote>. <quote xml:lang="grc">πλοῦτον</quote> in the MS. is an error for an adjective (<quote xml:lang="grc">κλυτὸν</quote>, 'loud,' Bamberger), and <quote xml:lang="grc">ὁμοῦκρεκτὸν</quote> a corruption of some compound.</note>
 <note type="footnote" n="258.2"><quote rend="blockquote"><l xml:lang="grc">σὺ δὲ θαρσῶν, ὅταν ἥκῃ μέρος ἔργων,</l><l xml:lang="grc">ἐπαΰσας πατρὸς αὐδὰν</l><l xml:lang="grc">θρεομένᾳ “τέκνον,” πέραιν᾽</l><l xml:lang="grc">ἀνεπίμομφον ἄταν.</l></quote> Soph. Trach. 1034 <quote xml:lang="grc">ἀνεπίφθονον εἴρυσον ἔγχος</quote>.</note>
@@ -956,16 +1047,15 @@ as nothing compared with going and inquiring about it on the spot oneself.<ref n
 Conington for <foreign xml:lang="grc">αὐτὸσο</foreign>
 </note>
 <note n="260.2" type="footnote"><quote xml:lang="grc">πειραί</quote> (cf. <quote xml:lang="grc">εὐραί, ζειρά, σειρά, θερμαστρά</quote>), or <quote xml:lang="grc">πείραι</quote>, essays, 'attacks.'</note>
-<note n="260.3" type="footnote">
+<note n="260.3" type="footnote"><p>
 <quote xml:lang="grc" rend="blockquote">
 <l>ἢ πῦρ καὶ φῶς ἐπ᾽ ἐλευθερίᾳ</l>
 <l>δαίων ἀρχάς τε πολισσονόμους</l>
 <l><add> καὶ δώματ' (or χρήματ') ἀνὴρ </add></l>
 <l>ἕξει, πατέρων μέγαν ὄλβον.</l>
 </quote>
-There are three reasons for this supplement: (1) the ungrammatical <quote xml:lang="grc">τε</quote> ; (2) to omit mention of the House, around which everything centres, would be hardly possible; (3) there is no subject to the verb. Supplying this with <quote xml:lang="grc">ἀνήρ</quote>, we have an example of a rhetorical artifice which I have called attention to in Class. Rev. 1900, p. 12; first comes a vague description, the proper name being deferred until the second clause, where it comes with telling emphasis. It is frequent in Pindar and Bacchylides, and Tragic examples may be seen in Cho. 614, Agam. 105-110, 210, Supp. 542-549, Soph. O.C. 675, Eur. Ion 1146, Rhes. 909-918.
-</note>
-<note n="260.4" type="footnote"><quote xml:lang="grc">μόνος ὢν ἔφεδρος δισσοῖς θεῖος Ὀρέστης</quote> : it was characteristic of the</note>
+There are three reasons for this supplement: (1) the ungrammatical <quote xml:lang="grc">τε</quote> ; (2) to omit mention of the House, around which everything centres, would be hardly possible; (3) there is no subject to the verb. Supplying this with <quote xml:lang="grc">ἀνήρ</quote>, we have an example of a rhetorical artifice which I have called attention to in Class. Rev. 1900, p. 12; first comes a vague description, the proper name being deferred until the second clause, where it comes with telling emphasis. It is frequent in Pindar and Bacchylides, and Tragic examples may be seen in Cho. 614, Agam. 105-110, 210, Supp. 542-549, Soph. O.C. 675, Eur. Ion 1146, Rhes. 909-918.</p></note>
+<note n="260.4" type="footnote"><p><quote xml:lang="grc">μόνος ὢν ἔφεδρος δισσοῖς θεῖος Ὀρέστης</quote> : it was characteristic of the Heroes to whom Orestes is compared (see note on v. 163) that they performed their exploits travelling alone, without allies, <quote xml:lang="grc">ἰδίᾳ, μόνοι ἄνευ στρατιᾶς</quote> : Heracles, the <quote xml:lang="grc">θεῖος ἀνήρ</quote>, Pind. Nem. 3. 24 (and Peleus rivalling him, v. 34), Megaclides in Ath. 512 f., Dio Chrys. I. 64, Arr. Epictet. iii. 26; his emulator Theseus, Bacchyl. xviii. 35, Xen. Cyneg. i. 10; Perseus, Lucian i. 322.</p></note>
 <pb n="261"/>
 <stage>(A shriek and groans are heard within from ÆGISTHUS.)</stage></p>
 </sp>
@@ -986,7 +1076,7 @@ There are three reasons for this supplement: (1) the ungrammatical <quote xml:la
 <sp>
 <speaker start-line="885" end-line="885">Servant</speaker>
 <p>It means that the dead are slaying the live.
-<note n="260.4" type="footnote"> Heroes to whom Orestes is compared (see note on v. 163) that they performed their exploits travelling alone, without allies, <quote xml:lang="grc">ἰδίᾳ, μόνοι ἄνευ στρατιᾶς</quote> : Heracles, the <quote xml:lang="grc">θεῖος ἀνήρ</quote>, Pind. Nem. 3. 24 (and Peleus rivalling him, v. 34), Megaclides in Ath. 512 f., Dio Chrys. I. 64, Arr. Epictet. iii. 26; his emulator Theseus, Bacchyl. xviii. 35, Xen. Cyneg. i. 10; Perseus, Lucian i. 322.</note>
+
 <note n="261.1" type="footnote"><quote xml:lang="grc">τελουμένου</quote> was probably repeated by mistake from v. 871 instead, e.g., of <quote xml:lang="grc">πεπληγμένου</quote> (Schuetz).</note>
 <note n="261.2" type="footnote"><quote xml:lang="grc">οὐχ ὡς δ' ἀρῆξαι</quote> MS., <quote xml:lang="grc">οὐχ ὥς γ' ἀρῆξαι</quote> Wecklein.</note>
 <note n="261.3" type="footnote">
@@ -1185,7 +1275,7 @@ The <quote xml:lang="grc">μέτοικοι δόμων</quote> are the bodyguard 
 <quote xml:lang="grc">ἀκοῦσαι</quote>, which follows <quote xml:lang="grc">ἰδεῖν</quote> in the MS., is a gloss upon it; as upon <quote xml:lang="grc">ὡς ὁρᾷς</quote> in Trachin. 365 the schol. says <quote xml:lang="grc">ἀντὶ τοῦ ὡς ἀκούεις</quote>.
 </note>
 <pb n="267"/>
-by its sworn terms. They swore a covenant of death to my unhappy father,<ref n="267.1">1</ref> and to die together: it has been kept faithfully.</p>
+by its sworn terms. They swore a covenant of death to my unhappy father,<ref n="267.1">1</ref> and to die together: it<ref n="267.2">2</ref> has been kept faithfully.</p>
 <p>Behold again, in taking cognisance of this sad work, the instrument for binding my unhappy father, fettering of the hands and shackling of the feet. Spread it out; stand round in a ring,<ref n="267.3">3</ref> and display it, this man-wrapping-sheet, to let the Father—not my father, but him that surveyeth all this world, the Sun—behold my mother's bloody work;<ref n="267.4">4</ref> that in the day of judgment I may have a witness to attest that I pursued this killing justifiably—my mother's,—for Ægisthus' death I do not count; he has got the punishment of the corrupter as the law permits:—but she that devised this abominable thing against a wedded man, by whom beneath her girdle she conceived the weight of children—of love once, but now, as it declares, of deadly hate—what thinkest thou of her? For wickedness and iniquity of spirit,<ref n="267.5">5</ref> had she been born sea-snake or land-viper, surely she would rot another's flesh, unbitten, by her touch!</p>
 <p>What shall I name it, though I use the sweetest terms? Trap for a wild beast, or a foot-donned coffin-curtain for a corpse? Rather a hunting-snare, or stake-net you might call it, and long frock for the feet's trammelling!—This
 <note n="267.1" type="footnote">See Wecklein's note. Dr Verrall thinks that the line is spurious, and that the passage ran originally <quote xml:lang="grc">ὅρκος τ' ἐμμένει πιστώμασιν, καὶ ξυνθανεῖσθαι</quote> 'their oath abides by its sworn terms, that they would also die together.'</note>
