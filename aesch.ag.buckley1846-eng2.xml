@@ -1,8 +1,96 @@
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="eng">
+    <fileDesc>
+      <titleStmt>
+        <title>The tragedies of Aeschylus</title>
+        <author>Aeschylus</author>
+        <editor role="translator">Theodore Alois Buckley</editor>
+        <respStmt>
+          <resp>Translator credited as</resp>
+          <name>Theodore Alois Buckley (1825–1856)</name>
+        </respStmt>
+        <sponsor>Perseus Project, Tufts University</sponsor>
+        <principal>Gregory Crane</principal>
+        <respStmt>
+          <resp>Prepared under the supervision of</resp>
+          <name>Gregory Crane</name>
+        </respStmt>
+        <funder>Volunteer</funder>
+      </titleStmt>
+
+      <!-- Added series -->
+      <seriesStmt>
+        <title level="s">Bohn’s classical library</title>
+        <respStmt>
+          <resp>Series publisher</resp>
+          <name>Henry G. Bohn</name>
+        </respStmt>
+      </seriesStmt>
+
+      <extent>About 90Kb</extent>
+
+      <publicationStmt>
+        <publisher>Trustees of Tufts University</publisher>
+        <pubPlace>Medford, MA</pubPlace>
+        <authority>Perseus Project</authority>
+        <availability status="free">
+          <licence target="https://www.hathitrust.org/rights/public-domain">Public domain (U.S.)</licence>
+          <p>Digitized copy served via HathiTrust.</p>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Aeschylus</author>
+            <title>The tragedies of Aeschylus</title>
+            <title type="sub">Literally translated, with critical and illustrative notes, and an introduction</title>
+            <editor role="translator">Theodore Alois Buckley</editor>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Bohn</publisher>
+              <date when="1849">1849</date>
+            </imprint>
+            <biblScope unit="series">Bohn’s classical library</biblScope>
+            <biblScope unit="extent">xx, 234 p.; front.; 19 cm</biblScope>
+          </monogr>
+          <ref target="https://hdl.handle.net/2027/hvd.32044005046321">HathiTrust handle</ref>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+
+    <encodingDesc>
+      <editorialDecl>
+        <quotation marks="none"/>
+      </editorialDecl>
+      <refsDecl n="CTS">
+        <cRefPattern n="l"
+                     matchPattern="(\w+)"
+                     replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div//tei:l[@n='$1'])">
+          <p>This pointer pattern extracts lines</p>
+        </cRefPattern>
+      </refsDecl>
+    </encodingDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="eng">English</language>
+      </langUsage>
+    </profileDesc>
+
+    <revisionDesc>
+      <change when="2025-10-23" who="GRC">New file created drawing metadata from the HathiTrust record for Buckley (1849); series noted as Bohn’s classical library.</change>
+    </revisionDesc>
+  </teiHeader>
   <text>
     <body>
       <pb n="95"/>
-      <milestone unit="page" n="95"/>
+       <div type="translation"
+              xml:lang="eng"
+              n="urn:cts:greekLit:tlg0085.tlg007.perseus-eng2">  
       <milestone unit="linechunk" n="1-11"/>
       <ab>
         <title type="sub">AGAMEMNON.</title>
@@ -37,46 +125,35 @@
       <sp>
         <speaker start-line="1" end-line="39">WATCHMAN</speaker>
         <p>I pray the gods a deliverance from these toils, a remedy <ref n="95.1">1</ref> for my year-long watch, in which, couching on my elbows <ref n="95.2">2</ref> on the roofs of the Atreidae, like a dog, I have contemplated the host <ref n="95.3">3</ref> of the nightly stars, and the bright potentates that bear winter and summer to mortals, conspicuous in the firmament. And now I am watching for the signal of the beacon, the blaze of fire that brings a voice from Troy, and tidings of its capture; for thus strong in hope is the woman's heart, of manly counsel <ref n="95.4">4</ref>. And whilst
-          <note type="footnote">
-            <ref n="95.1">1</ref> Although Paley says of this emendation of Valckenaer's, <cit><quote xml:lang="grc">μη̃χος</quote> for <quote xml:lang="grc">μη̃κος</quote>, <quote xml:lang="lat">"pauci hodie probabunt."</quote></cit>
+          <note type="footnote" xml:id="95.1" n="95.1">Although Paley says of this emendation of Valckenaer's, <cit><quote xml:lang="grc">μη̃χος</quote> for <quote xml:lang="grc">μη̃κος</quote>, <quote xml:lang="lat">"pauci hodie probabunt."</quote></cit>
           </note>
-          <note type="footnote">
-            <ref n="95.2">2</ref> See Sewell's note.
+          <note type="footnote" xml:id="95.2" n="95.2">See Sewell's note.
           </note>
-          <note type="footnote">
-            <ref n="95.3">3</ref> <cit><quote xml:lang="grc">όμήυριν</quote></cit>. A beautiful metaphor, by which the multitude of stars is compared to an assembly or chorus. Cf. <bibl>Eurip. El. 467</bibl>, <quote xml:lang="grc">ἀστρω̃ν τ</quote>’ <quote xml:lang="grc">αἰθέριοι χοροί</quote>; <bibl>Maximus Tyrius xiv</bibl>., <quote xml:lang="grc">ἡλίου φω̃ς, ἄστρων χορόν</quote>; <bibl>Manetho, V. 7</bibl>, <quote xml:lang="grc">ὑπ</quote>’ <quote xml:lang="grc">οὐράνιον χορόν ἀστρω̃ν</quote>. It is probable, from the allusion to the changes of the weather, that the Pleiades are particularly meant; of which <bibl>Hyginus, Poet. Astr. II. 21</bibl>, observes, <quote xml:lang="lat">"existimantur choream ducere stellis."</quote> See <bibl>Muncker on fab. excii</bibl>., and <bibl>Burmann on Valer. Flacc. V. 46</bibl>.
+          <note type="footnote" xml:id="95.3" n="95.3"><cit><quote xml:lang="grc">όμήυριν</quote></cit>. A beautiful metaphor, by which the multitude of stars is compared to an assembly or chorus. Cf. <bibl>Eurip. El. 467</bibl>, <quote xml:lang="grc">ἀστρω̃ν τ</quote>’ <quote xml:lang="grc">αἰθέριοι χοροί</quote>; <bibl>Maximus Tyrius xiv</bibl>., <quote xml:lang="grc">ἡλίου φω̃ς, ἄστρων χορόν</quote>; <bibl>Manetho, V. 7</bibl>, <quote xml:lang="grc">ὑπ</quote>’ <quote xml:lang="grc">οὐράνιον χορόν ἀστρω̃ν</quote>. It is probable, from the allusion to the changes of the weather, that the Pleiades are particularly meant; of which <bibl>Hyginus, Poet. Astr. II. 21</bibl>, observes, <quote xml:lang="lat">"existimantur choream ducere stellis."</quote> See <bibl>Muncker on fab. excii</bibl>., and <bibl>Burmann on Valer. Flacc. V. 46</bibl>.
           </note>
-          <note type="footnote">
-            <ref n="95.4">4</ref> See Sewell and Klausen.
+          <note type="footnote" xml:id="95.4" n="95.4">See Sewell and Klausen.
           </note>
           <pb n="96"/>
-          <milestone unit="page" n="96"/>
+          
           <milestone unit="linechunk" n="12-36"/>
           I have a night-bewildered and dew-drenched couch <ref n="96.1">1</ref>, not visited by dreams, for fear, in place of sleep, stands at my side, so that I cannot firmly close my eyelids in slumber. And when I think to sing or whistle, preparing <ref n="96.2">2</ref> this the counter-charm of song against sleep, then do I mourn, sighing over the sad condition of this house, that is not, as of yore, most excellently administered. But now, may there be a happy release from my toils, as the fire of joyous tidings appears through the gloom! Oh hail! thou lamp of night, thou that displayest a light like as the day, and the marshalling of many dances in Argos, on account of this event <ref n="96.3">3</ref>. Ho! ho! I will give a signal distinctly to the wife of Agamemnon, that she, having arisen with all speed from her couch, may raise aloud a joyous shout in welcome to this beacon, if indeed the city of Ilion is taken, as the beacon-light stands forth <ref n="96.4">4</ref> announcing; and I myself will dance a prelude. For I will count the throws <ref n="96.6">6</ref> of my lord that have fallen well, mine own <ref n="96.5">5</ref>, since this kindling of the beacon-light has cast me thrice six. May it then befall me to grasp with this hand of mine the friendly hand of the sovereign of this palace on his arrival. But for the rest I am silent; a mighty ox hath come upon my tongue <ref n="96.7">7</ref>:
-          <note type="footnote">
-            <ref n="96.1">1</ref> Although an apodosis for <quote xml:lang="grc">εὐτ</quote>’ <quote xml:lang="grc">ἂν</quote> has been sought for by Klausen in v. 18; yet I am by no means satisfied on the subject. Sewell, who candidly confesses his doubts, renders it, "And well may I retain," etc.; but that would require <quote xml:lang="grc">ευ̃ δ</quote>’ or <quote xml:lang="grc">ευ̃</quote> y'. I cannot help thinking Æschylus wrote <quote xml:lang="grc">εὐνὴν δὲ νυκτίπλαγτον εὐνὴν ὀνείροις</quote>, a repetition that might easily escape the copyists. Such repetitions are familiar to every reader of the poets, especially <bibl>Homer</bibl>. See <bibl>Schrader on Mus. 145, p. 232 sqq</bibl>.
+          <note type="footnote" xml:id="96.1" n="96.1">Although an apodosis for <quote xml:lang="grc">εὐτ</quote>’ <quote xml:lang="grc">ἂν</quote> has been sought for by Klausen in v. 18; yet I am by no means satisfied on the subject. Sewell, who candidly confesses his doubts, renders it, "And well may I retain," etc.; but that would require <quote xml:lang="grc">εὖ δ’</quote> or <quote xml:lang="grc">εὖ γ’</quote>. I cannot help thinking Aeschylus wrote <quote xml:lang="grc">εὐνὴν δὲ νυκτίπλαγτον εὐνὴν ὀνείροις</quote>, a repetition that might easily escape the copyists. Such repetitions are familiar to every reader of the poets, especially <bibl>Homer</bibl>. See <bibl>Schrader on Mus. 145, p. 232 sqq</bibl>.
           </note>
-          <note type="footnote">
-            <ref n="96.2">2</ref> "drug-like shredding in," Sewell; which is the proper meaning of <quote xml:lang="grc">ἐντέμνειν</quote>.
+          <note type="footnote" xml:id="96.2" n="96.2">"drug-like shredding in," Sewell; which is the proper meaning of <quote xml:lang="grc">ἐντέμνειν</quote>.
           </note>
-          <note type="footnote">
-            <ref n="96.3">3</ref> Sewell, "for the joy of this fair hap," apparently taking <quote xml:lang="grc">χάριν</quote> in apposition with the preceding sentence, and not adverbially.
+          <note type="footnote" xml:id="96.3" n="96.3">Sewell, "for the joy of this fair hap," apparently taking <quote xml:lang="grc">χάριν</quote> in apposition with the preceding sentence, and not adverbially.
           </note>
-          <note type="footnote">
-            <ref n="96.4">4</ref> <quote xml:lang="grc">πρέπει</quote>, stands conspicuous. See <bibl>Sewell on v. 6</bibl>.
+          <note type="footnote" xml:id="96.4" n="96.4"><quote xml:lang="grc">πρέπει</quote>, stands conspicuous. See <bibl>Sewell on v. 6</bibl>.
           </note>
-          <note type="footnote">
-            <ref n="96.5">5</ref> I follow Blomfield, Sewell, and Paley. Klausen seems utterly wrong.
+          <note type="footnote" xml:id="96.5" n="96.5">I follow Blomfield, Sewell, and Paley. Klausen seems utterly wrong.
           </note>
-          <note type="footnote">
-            <ref n="96.6">6</ref> The lucky throw. See <bibl>Stanley</bibl>.
+          <note type="footnote" xml:id="96.6" n="96.6">The lucky throw. See <bibl>Stanley</bibl>.
           </note>
-          <note type="footnote">
-            <ref n="96.7">7</ref> There seems no doubt that this is a proverbial expression. Sewell remarks, "the general meaning of this harsh figure is obvious, whether mere weight of obligation is typified, or weight of money. pecuniae. bribing to silence. There is something of a similar idea in <cit><bibl>Timon of Athens</bibl>,— <quote xml:lang="eng"><l>He ne'er drinks,</l>
+          <note type="footnote" xml:id="96.7" n="96.7">There seems no doubt that this is a proverbial expression. Sewell remarks, "the general meaning of this harsh figure is obvious, whether mere weight of obligation is typified, or weight of money. pecuniae. bribing to silence. There is something of a similar idea in <cit><bibl>Timon of Athens</bibl>,— <quote xml:lang="eng"><l>He ne'er drinks,</l>
               <l>But Timon's silver treads upon his lip.</l></quote></cit> Perhaps, however, as the Greeks constantly used compounds of <quote xml:lang="grc">βου̃ς</quote> to signify great magnitude, the phrase <quote xml:lang="grc">μέγας βου̃ς</quote> might merely be used to express a great weight.
           </note>
           <pb n="97"/>
-          <milestone unit="page" n="97"/>
+          
           <milestone unit="linechunk" n="57-61"/>
           but the house itself, could it find a voice, would tell most plainly. Thus I readily speak to them that know, and for such as know not I have no memory.</p>
       </sp>
@@ -84,71 +161,124 @@
       <sp>
         <speaker start-line="83" end-line="103">CHORUS</speaker>
         <p>This is now the tenth year since the great adversary of Priam, king Menelaus and Agamemnon the stalwart yoke <ref n="97.1">1</ref> the Atreidae, by the gift of Jove [possessed] of a twin-throned and twin-sceptred majesty, led from this land their armament of a thousand ships of the Argives, a warrior aid, screaming through passion a great noise of war, like vultures, which, in their sorrows for their young far from the [paths of men <ref n="97.2">2</ref>,] wheel their flight high above their nests, oaring with the oars of their pinions, having lost the nestling care <ref n="97.3">3</ref> of their callow young: but some god <ref n="97.4">4</ref>, either Apollo, or Pan, or Jove, hearing aloft the shrill-voiced wail uttered by the birds on account of these outcasts <ref n="97.5">5</ref>, sends Erinnys, the late avenger, upon the transgressors; even so mighty Jove the Hospitable sends the sons of Atreus against Paris, about to impose on
-          <note type="footnote">
-            <ref n="97.1">1</ref> <bibl>Themistius, OraL xxi p. 116. D.</bibl>, calls the Atridae <quote xml:lang="grc">ξυτωρὶς τω̃ν στρατηγω̃ν</quote>, by a similar metaphor.
+          <note type="footnote" xml:id="97.1" n="97.1"><bibl>Themistius, OraL xxi p. 116. D.</bibl>, calls the Atridae <quote xml:lang="grc">ξυτωρὶς τω̃ν στρατηγω̃ν</quote>, by a similar metaphor.
           </note>
-          <note type="footnote">
-            <ref n="97.2">2</ref> Or "solitary," says Paley. Klausen says, “<quote xml:lang="grc">ἐκπάτιον</quote>, quod sese continere nequit in itinere suo .... itaque quicquid immodicum est et certis rationis finibus destitutum." See also Dindorf. Paley rightly condemns the supposition that <quote xml:lang="grc">ἐκπατίοις</quote> is an enallage for <quote xml:lang="grc">ἐκπατίων</quote>. <bibl>Linwood</bibl> follows <bibl>Klausen</bibl>, and renders it "irregular, uncontrolled."
+          <note type="footnote" xml:id="97.2" n="97.2">Or "solitary," says Paley. Klausen says, “<quote xml:lang="grc">ἐκπάτιον</quote>, quod sese continere nequit in itinere suo .... itaque quicquid immodicum est et certis rationis finibus destitutum." See also Dindorf. Paley rightly condemns the supposition that <quote xml:lang="grc">ἐκπατίοις</quote> is an enallage for <quote xml:lang="grc">ἐκπατίων</quote>. <bibl>Linwood</bibl> follows <bibl>Klausen</bibl>, and renders it "irregular, uncontrolled."
           </note>
-          <note type="footnote">
-            <ref n="97.3">3</ref> This sense is now fully established. Sewell elegantly renders, "having lost for aye and e'er their nestlings' eyrie-watching care."
+          <note type="footnote" xml:id="97.3" n="97.3">This sense is now fully established. Sewell elegantly renders, "having lost for aye and e'er their nestlings' eyrie-watching care."
           </note>
-          <note type="footnote">
-            <ref n="97.4">4</ref> I am unwilling to believe, with <bibl>Sewell</bibl>, in <bibl>Klausen's</bibl> mystical and far-fetched interpretation of <quote xml:lang="grc">τις</quote>. I have construed <quote xml:lang="grc">ὔπατος</quote> with <quote xml:lang="grc">ἀίων</quote>, like <quote xml:lang="grc">v7rarot.... ἐρεσσόμενοι</quote>, v. 52.
+          <note type="footnote" xml:id="97.4" n="97.4">I am unwilling to believe, with <bibl>Sewell</bibl>, in <bibl>Klausen's</bibl> mystical and far-fetched interpretation of <quote xml:lang="grc">τις</quote>. I have construed <quote xml:lang="grc">ὔπατος</quote> with <quote xml:lang="grc">ἀίων</quote>, like <quote xml:lang="grc">v7rarot.... ἐρεσσόμενοι</quote>, v. 52.
           </note>
-          <note type="footnote">
-            <ref n="97.5">5</ref> <cit><bibl>Sewell</bibl> translates, <quote>"her who avengeth late these Metics of our state,"</quote> observing-in his note, <quote>"So much political allusion is traceable in the whole of the tetralogy, that perhaps a reference is intended here to some art of injustice meditated against the Metaeci at this moment by the democratical party; <quote xml:lang="grc">τω̃νδε</quote> must be rendered 'these'—'these present in the theatre.' Never was I less inclined to admire the ingenuity of this able scholar than in this instance. To say nothing of the unpoetical change from a pathetic description to a personal allusion—to say nothing of the probable reception of such a remark, if understood-have we any warranty for supposing that it could be understood? Of the music of the choruses we know nothing; but, I believe, any one acquainted with chorus-singing in general, will confess that such a sound as "t6nde metoikôn” would probably stick in the throat of the singer, if he attempted to lay any peculiar stress upon it."</quote></cit>"
+          <note type="footnote" xml:id="97.5" n="97.5"><cit><bibl>Sewell</bibl> translates, <quote>"her who avengeth late these Metics of our state,"</quote> observing-in his note, <quote>"So much political allusion is traceable in the whole of the tetralogy, that perhaps a reference is intended here to some art of injustice meditated against the Metaeci at this moment by the democratical party; <quote xml:lang="grc">τω̃νδε</quote> must be rendered 'these'—'these present in the theatre.' Never was I less inclined to admire the ingenuity of this able scholar than in this instance. To say nothing of the unpoetical change from a pathetic description to a personal allusion—to say nothing of the probable reception of such a remark, if understood-have we any warranty for supposing that it could be understood? Of the music of the choruses we know nothing; but, I believe, any one acquainted with chorus-singing in general, will confess that such a sound as "t6nde metoikôn” would probably stick in the throat of the singer, if he attempted to lay any peculiar stress upon it."</quote></cit>"
           </note>
           <pb n="98"/>
-          <milestone unit="page" n="98"/>
+          
           <milestone unit="linechunk" n="62-100"/>
           Greeks and Trojans alike, on account of the wife of many husbands, many limb-wearying struggles, when the knee is strained in the dust, and the spear-staff is shivered in the onset. But things are as they are; and will be brought to the issue doomed. Neither by weeping nor by pouring libations, nor by shedding tears, will he soothe away the intense wrath of fireless rites <ref n="98.1">1</ref>. But we, with our unhonoured aged frame, remain left behind the armament of that time, propping on staves our childlike strength. For both the marrow of youth shooting up within our breasts is weak as age, and Mars is not in place; and very advanced age likewise, after that its foliage is already withered, totters along its three-footed path, and nought superior to a child, flits like a day-dream. But thou, daughter of Tyndarus, Queen Clytemnestra, what means this? what new event? what is it that thou hast heard, and on the faith of what tidings art thou burning incense sent around <ref n="98.2">2</ref>? and the altars of all our city-guarding gods, of those above and those below, gods of heaven and gods of the forum, are blazing with offerings: and in different directions different flames are streaming upward, high as heaven, drugged with the mild unadulterated cordials of pure unguent, with the royal cake, brought from the inmost cells <ref n="98.3">3</ref>. Concerning these things tell one both what is possible and lawful for thee to say <ref n="98.4">4</ref>, and become thou the healer of this distracting anxiety, which now one while is full of evil
 
-                <note type="footnote">
-        <ref n="98.1">1</ref> The disputes respecting <quote xml:lang="grc">άπύρων ῐερω̃ν</quote> seem to be set at rest by Bamberger and Dindorf, who understand the sacrifice of Iphigenia to be meant. And if we consider the connexion of the sense, this is clearly required by the context from v. 40, as follows : The Atridæ hover over the heads of those who stole away Helen, like vultures mourning over their lost young. But as some god sends an Erinnys to aid the birds, so Jove sends the Atridæ against Paris, bringing a doubtful contest upon both Greeks and Trojans. But the end of all will be as fate decrees. Nor by any means will Agamemnon avert the unflinching wrath resulting from Iphigentia’s death." The chorus darkly hints at the consequences of Agamemnon's connexion with Menelaus, which are more fully explained hereafter.
+                <note type="footnote" xml:id="98.1" n="98.1">The disputes respecting <quote xml:lang="grc">άπύρων ῐερω̃ν</quote> seem to be set at rest by Bamberger and Dindorf, who understand the sacrifice of Iphigenia to be meant. And if we consider the connexion of the sense, this is clearly required by the context from v. 40, as follows : The AtridAe hover over the heads of those who stole away Helen, like vultures mourning over their lost young. But as some god sends an Erinnys to aid the birds, so Jove sends the AtridAe against Paris, bringing a doubtful contest upon both Greeks and Trojans. But the end of all will be as fate decrees. Nor by any means will Agamemnon avert the unflinching wrath resulting from Iphigentia’s death." The chorus darkly hints at the consequences of Agamemnon's connexion with Menelaus, which are more fully explained hereafter.
       </note>
-      <note type="footnote">
-        <ref n="98.2">2</ref> Although the epithet <quote xml:lang="grc">περίπεμπτα</quote> is not destitute of meaning, I have little doubt that Æschylus wrote <quote xml:lang="grc">περίπεπτα</quote>—“decocta.”
+      <note type="footnote" xml:id="98.2" n="98.2">Although the epithet <quote xml:lang="grc">περίπεμπτα</quote> is not destitute of meaning, I have little doubt that Aeschylus wrote <quote xml:lang="grc">περίπεπτα</quote>—“decocta.”
       </note>
-      <note type="footnote">
-        <ref n="98.3">3</ref> The <quote xml:lang="grc">πέλανος</quote> was a common offering to all the gods, as we learn from Pollux, vi. ii. p. 288, ed. Seber. Sewell observes, " it should be remembered that the oil used in religious rites was of great value."
+      <note type="footnote" xml:id="98.3" n="98.3">The <quote xml:lang="grc">πέλανος</quote> was a common offering to all the gods, as we learn from Pollux, vi. ii. p. 288, ed. Seber. Sewell observes, " it should be remembered that the oil used in religious rites was of great value."
       </note>
-      <note type="footnote">
-        <ref n="98.4">4</ref> <quote xml:lang="grc">αἰνει̃ν</quote>—to say. Cf. v. 1481, <quote xml:lang="grc">ἦ μέγαν ὄικοις τοι̃σδε Δαίμονα</quote> Mai <quote xml:lang="grc">ϐαρύμηνιν αὶνει̃ς</quote>. Thus <quote xml:lang="grc">αίνος</quote>, a narrative, v. 1483, <quote xml:lang="grc">κακὸν</quote> alvo' <quote xml:lang="grc">ὰτηρα̃ς τύχας</quote>.
+      <note type="footnote" xml:id="98.4" n="98.4"><quote xml:lang="grc">αἰνει̃ν</quote>—to say. Cf. v. 1481, <quote xml:lang="grc">ἦ μέγαν ὄικοις τοι̃σδε Δαίμονα</quote> Mai <quote xml:lang="grc">ϐαρύμηνιν αὶνει̃ς</quote>. Thus <quote xml:lang="grc">αίνος</quote>, a narrative, v. 1483, <quote xml:lang="grc">κακὸν</quote> alvo' <quote xml:lang="grc">ὰτηρα̃ς τύχας</quote>.
       </note>
           <pb n="99"/>
-          <milestone unit="page" n="99"/>
+          
           <milestone unit="linechunk" n="100-134"/>
-          thought, but at another time, because of the sacrifices, hope blandly fawning <ref n="99.1">1</ref> upon me repels the insatiate care, the rankling sorrow that is preying upon my heart. I am <ref n="99.2">2</ref> able to tell of the prowess of the surpassing <ref n="99.3">3</ref> heroes, well-omened on the way—for still from the gods doth persuasion inspire me with song, [and] the commensurate crisis with strength <ref n="99.4">4</ref>—how the impetuous bird sends against the land of Teucer the twin-throned power of the Archaeans, the one-minded chief of the youth of Hellas, with spear and avenging hand, the monarch of birds to the monarchs of the ships, one of them black and the other white behind, having appeared near the palace, on the right hand in all-conspicuous position <ref n="99.5">5</ref>, feeding on a hare-brood teeming with embryo-offspring, cut off from their last <ref n="99.6">6</ref> course. Chaunt Ælinon, Ælinon! but may the good prevail. And the clever seer of the army, having seen the twin-warlike Atreidae differing <ref n="99.7">7</ref> in their spirits, knew [them for] the devourers of the hare, and the commanders who led the expedition, and thus he spake expounding the portent: "In time of a truth shall this inroad take the city of Priam; but of all the public wealth in its towers shall Destiny first violently make havoc <ref n="99.8">8</ref>. Only may no envy from the gods fling gloom over the mighty embattled curb
+          thought, but at another time, because of the sacrifices, hope blandly fawning <ref n="99.1">1</ref> upon me repels the insatiate care, the rankling sorrow that is preying upon my heart. I am <ref n="99.2">2</ref> able to tell of the prowess of the surpassing <ref n="99.3">3</ref> heroes, well-omened on the way—for still from the gods doth persuasion inspire me with song, [and] the commensurate crisis with strength <ref n="99.4">4</ref>—how the impetuous bird sends against the land of Teucer the twin-throned power of the Archaeans, the one-minded chief of the youth of Hellas, with spear and avenging hand, the monarch of birds to the monarchs of the ships, one of them black and the other white behind, having appeared near the palace, on the right hand in all-conspicuous position <ref n="99.5">5</ref>, feeding on a hare-brood teeming with embryo-offspring, cut off from their last <ref n="99.6">6</ref> course. Chaunt Aelinon, Aelinon! but may the good prevail. And the clever seer of the army, having seen the twin-warlike Atreidae differing <ref n="99.7">7</ref> in their spirits, knew [them for] the devourers of the hare, and the commanders who led the expedition, and thus he spake expounding the portent: "In time of a truth shall this inroad take the city of Priam; but of all the public wealth in its towers shall Destiny first violently make havoc <ref n="99.8">8</ref>. Only may no envy from the gods fling gloom over the mighty embattled curb
+          <note xml:id="fn99.1" type="footnote" n="99.1">¹ I follow Butler's, or rather Jacob's, emendation, with Blomfield and
+      Dindorf.</note>
+        <note xml:id="fn99.2" type="footnote" n="99.2">² Perhaps the literal meaning of <hi rend="italic">κύptos</hi> would best be rendered, "'tis
+      mine to tell."</note>
+        <note xml:id="fn99.3" type="footnote" n="99.3">³ Thus I have rendered <hi rend="italic">KTEλÉWV</hi>. Klausen's <hi rend="italic">ἐκ τελέων</hi> is neither
+      Greek nor sense. Dindorf's view, which I have followed, seems the sim-
+      plest, although I must plead to a bias in favor of reading <hi rend="italic">evteĥéwv</hi>.</note>
+        <note xml:id="fn99.4" type="footnote" n="99.4">⁴ I have closely followed Klausen, and, apparently, Jelf, Gk. Gr. 895,
+      6 (see Index). But did any one ever hear of <hi rend="italic">aiùv</hi> being used for <hi rend="italic">kaιpòs</hi>,
+      or can we suppose that <hi rend="italic">ouμouros aiùv</hi> can mean "the time of the oracle's
+      fulfillment ?"Besides, how awkward is the asyndeton! Dindorf seems
+      but imperfectly satisfied; but uncertainty prevents me from advancing
+      any new readings. None of the present conjectures appear safe.</note>
+        <note xml:id="fn99.5" type="footnote" n="99.5">⁵ <hi rend="italic">dpa</hi> must be an augurial term. See Klausen.</note>
+        <note xml:id="fn99.6" type="footnote" n="99.6">⁶ See Dindorf, and Jelf, Gk. Gr. § 531.</note>
+        <note xml:id="fn99.7" type="footnote" n="99.7">⁷ I should prefer reading <hi rend="italic">diooois</hi> with Blomfield, from Canter's emen-
+      dation. Had Lobeck's <hi rend="italic">Toroùç</hi> (which is not an emendation, but an
+      alteration, and that for the worse) been proposed by any one else, Din-
+      dorf would hardly have honored it with his approbation. There is some
+      doubt, however, whether <hi rend="italic">dioooì</hi> can mean "different."</note>
+        <note xml:id="fn99.8" type="footnote" n="99.8">⁸ Paley tries to take <hi rend="italic">Kτývη</hi> in its usual sense, "cattle," and supports
+      his interpretation with some ingenuity.</note>
           <pb n="100"/>
-          <milestone unit="page" n="100"/>
+          
           <milestone unit="linechunk" n="135-161"/>
-          forged against Troy: for chaste Diana is jealous against the house, on account of the winged hounds <ref n="100.1">1</ref> of the sire, that made a victim of the wretched hare together with her brood before delivery, and she loathes the banquet of the eagles. Chaunt Ælinon, Ælinon! but may the good prevail. So kindly is the fair <ref n="100.2">2</ref> goddess to the cubs of fierce lions unable to follow <ref n="100.3">3</ref> [their dams], and to the suckling whelps of all the wild beasts that roam the field, and she beseeches [her father <ref n="100.4">4</ref>] to bring to a favourable issue these omens; propitious indeed, yet open to complaint are the apparitions <ref n="100.5">5</ref>. And I invoke Ieïan Paean, that she may not work any long ship-detaining stress of weather, with winds adverse to the Greeks, urging on another sacrifice, an impious one, banquetless, the framer of strife among kindred, having no awe for a husband: for there abides a fearful, recurring <ref n="100.6">6</ref>, fraudful keeper of the house, a mindful child-avenging wrath <ref n="100.7">7</ref>."—Such destinies, drawn from birds seen upon the march, did Calchas along with great blessings chaunt forth to the royal households. And in harmony with these chaunt Ælinon, Ælinon! but may the good prevail. Jove—whosoever <ref n="100.8">8</ref> he be, if this name be well-pleasing to him
+          forged against Troy: for chaste Diana is jealous against the house, on account of the winged hounds <ref n="100.1">1</ref> of the sire, that made a victim of the wretched hare together with her brood before delivery, and she loathes the banquet of the eagles. Chaunt Aelinon, Aelinon! but may the good prevail. So kindly is the fair <ref n="100.2">2</ref> goddess to the cubs of fierce lions unable to follow <ref n="100.3">3</ref> [their dams], and to the suckling whelps of all the wild beasts that roam the field, and she beseeches [her father <ref n="100.4">4</ref>] to bring to a favourable issue these omens; propitious indeed, yet open to complaint are the apparitions <ref n="100.5">5</ref>. And I invoke Ieïan Paean, that she may not work any long ship-detaining stress of weather, with winds adverse to the Greeks, urging on another sacrifice, an impious one, banquetless, the framer of strife among kindred, having no awe for a husband: for there abides a fearful, recurring <ref n="100.6">6</ref>, fraudful keeper of the house, a mindful child-avenging wrath."—Such destinies, drawn from birds seen upon the march, did Calchas along with great blessings chaunt forth to the royal households. And in harmony with these chaunt Aelinon, Aelinon! but may the good prevail. Jove—whosoever <ref n="100.7">7</ref> he be, if this name be well-pleasing to him
+
+          <note xml:id="fn100.1" type="footnote" n="100.1">¹ See the commentators, and G. Arnaud, <hi rend="italic">de Diis Пapédpots</hi>, xxviii.</note>
+        <note xml:id="fn100.2" type="footnote" n="100.2">² This seems to have been a popular epithet of Diana. Feder refers to
+      Aristoph. Ran. 1358, <hi rend="italic">ἅμα δὲ Δίκτυννα παῖς Ἄρτεμις καλά</hi>. Eurip. Hipp.
+      66, <hi rend="italic">καλλίστα πολὺ παρθένων</hi>.</note>
+        <note xml:id="fn100.3" type="footnote" n="100.3">³ Such is the established sense of <hi rend="italic">dέлTоç</hi>; but I still incline, with
+      Sewell, to Blomfield's reading, <hi rend="italic">¿λéπTо</hi>.</note>
+        <note xml:id="fn100.4" type="footnote" n="100.4">⁴ See Linwood, s. v. <hi rend="italic">тεрπνос</hi>, whom I have followed.</note>
+        <note xml:id="fn100.5" type="footnote" n="100.5">⁵ <hi rend="italic">OTрovov</hi> is rightly condemned by Porson as an interpolation from
+      Homer, Il. II. 311.</note>
+        <note xml:id="fn100.6" type="footnote" n="100.6">⁶ I read <hi rend="italic">ahívoрros</hi>, with Linwood, Paley, and Dindorf. See a clear
+      explanation of the passage in Linwood's Lexicon.</note>
+        <note xml:id="fn100.7" type="footnote" n="100.7">⁷ This skeptical formula is very common. See Blomfield (to whom
+      Klausen is, as usual, indebted for his matter), and compare also the
+      prayer of the Pontifices, in Servius on Virg. Æn. IV. 577—"<hi rend="italic">Jupiter,
+      Optime, Maxime, sive quo alio nomine te appellari volueris</hi>." Livy, I. 2
+      of Æneas—"<hi rend="italic">situs est, quemcumque eum dici jus fasque est</hi>." This su-
+      perstition arose partly from the Semitic belief that the true name of the
+      deity was concealed from man (cf. Gall. on Lactant. I. p. 30); and hence
+      the Athenians, as well as other nations, had altars to unknown or un-
+      certain deities (see Augustin, <hi rend="italic">de cons. En</hi>. I. 30; Tertullian. <hi rend="italic">adv. Mar-
+      cion</hi>. I. 9). Valerius Soranus came to an evil end, in consequence of
+      divulging the name of the genius of the city of Rome (Serv. ad Æn. I.
+      284). The Platonic superstition on this head is well known. Besides
+      the passages adduced by Blomfield, cf. Phileb. p. 72, E. But the skep-
+      ticism of Æschylus in v. 165, <quote xml:lang="grc">εἰ τὸ μάταν ἀπὸ φροντίδος ἄχθος χρὴ
+      βαλεῖν</quote>, seems to amount to absolute ridicule of the popular polytheism.</note>
           <pb n="101"/>
-          <milestone unit="page" n="101"/>
+          
           <milestone unit="linechunk" n="162-206"/>
-          when invoked, by this do I address him; balancing all reasons. I am not able to make any further guess, except Jove, if in truth it behoves me to cast off the groundless burthen of anxiety. Nor can he who before was great, flourishing in unconquerable boldness say aught, as one that has passed away <ref n="101.1">1</ref>; and he who existed next has passed away, having found his third thrower <ref n="101.2">2</ref>. But any one that cheerfully celebrates Jove in songs of triumph shall completely attain to understanding; him that leads mortals the way to wisdom, that places knowledge upon suffering, firmly to remain <ref n="101.3">3</ref>. But e'en in slumber the pang of the memory of ills keeps dripping before the heart, and Wisdom hath come to the wayward. But 'tis a gift, I ween, of the divinities who sit severely <ref n="101.4">4</ref> on the awful bench. Then too the senior leader of the ships of the Greeks, blaming no seer, but breathing with the fortunes that befell him—when the Grecian host was afflicted by stress of weather <ref n="101.5">5</ref>, while it was occupying the coast beyond Chalcis, in the refluent coasts of Aulis, and blasts that came from the Strymon. of evil holiday, of direful famine, and ill anchorage, stray guides to mortals, unsparing both of ships and cables, rendering the time [of voyage] twice the length <ref n="101.6">6</ref>—were carding down with delay <ref n="101.7">7</ref> the flower of the Greeks; when moreover the seer loudly announced to the chieftains another more grievous remedy for the fell tempest <ref n="101.8">8</ref>, bringing forward Diana; so that the Atreidae, smiting the ground with their sceptres, checked not the tear, and the elder monarch spake thus aloud: “Hard is the fate not to obey;
+          when invoked, by this do I address him; balancing all reasons. I am not able to make any further guess, except Jove, if in truth it behoves me to cast off the groundless burthen of anxiety. Nor can he who before was great, flourishing in unconquerable boldness say aught, as one that has passed away <ref n="101.1">1</ref>; and he who existed next has passed away, having found his third thrower <ref n="101.2">2</ref>. But any one that cheerfully celebrates Jove in songs of triumph shall completely attain to understanding; him that leads mortals the way to wisdom, that places knowledge upon suffering, firmly to remain <ref n="101.3">3</ref>. But e'en in slumber the pang of the memory of ills keeps dripping before the heart, and Wisdom hath come to the wayward. But 'tis a gift, I ween, of the divinities who sit severely <ref n="101.4">4</ref> on the awful bench. Then too the senior leader of the ships of the Greeks, blaming no seer, but breathing with the fortunes that befell him—when the Grecian host was afflicted by stress of weather <ref n="101.5">5</ref>, while it was occupying the coast beyond Chalcis, in the refluent coasts of Aulis, and blasts that came from the Strymon. of evil holiday, of direful famine, and ill anchorage, stray guides to mortals, unsparing both of ships and cables, rendering the time [of voyage] twice the length —were carding down with delay <ref n="101.6">6</ref> the flower of the Greeks; when moreover the seer loudly announced to the chieftains another more grievous remedy for the fell tempest <ref n="101.7">7</ref>, bringing forward Diana; so that the Atreidae, smiting the ground with their sceptres, checked not the tear, and the elder monarch spake thus aloud: “Hard is the fate not to obey;
+          <note xml:id="fn101.1" type="footnote" n="101.1">¹ I have done my best with this awkward passage, following Klausen's
+      version, "<hi rend="italic">nihil amplius dicat, quum de eo actum sit</hi>." But I am by no
+      means satisfied.</note>
+        <note xml:id="fn101.2" type="footnote" n="101.2">² "The victory was adjudged to him that gave his adversary three falls,
+      whence <hi rend="italic">τpiúğaι</hi> and <hi rend="italic">úrоτрiúžαι</hi> signify to conquer."—POTTER, I. 502.</note>
+        <note xml:id="fn101.3" type="footnote" n="101.3">³ I have followed Sewell, understanding <hi rend="italic">GTE</hi> before <hi rend="italic">kvρiws Exεiv</hi>.</note>
+        <note xml:id="fn101.4" type="footnote" n="101.4">⁴ <hi rend="italic">Βιαίως</hi> seems awkward. Linwood translates it, "sitting with se-
+      verity" ("serenity" must be a misprint). Sewell, "there is a gracious
+      gift, compulsory as fate."</note>
+        <note xml:id="fn101.5" type="footnote" n="101.5">⁵ Literally, "inability to sail.” Cf. Thucyd. iv. 4, <hi rend="italic">hoúxašεv Úπ'
+      ἀπλοίας</hi>. Eur. Iph. Τ. 15, <hi rend="italic">δεινῆς τ' ἀπλοίας πνευμάτων τ' οὐ τυγχάνων</hi>.
+      Iph. Aul. 88, <hi rend="italic">ήμεσθ' ἀπλοίᾳ χρώμενοι κατ' Αυλίδα</hi>. Cf. Dion. Chrysost.
+      Or. II. p. 80, ed. Reiske.</note>
+        <note xml:id="fn101.6" type="footnote" n="101.6">⁶ With the apparent approbation of Dindorf, I have followed Blom-
+      field's punctuation.</note>
+        <note xml:id="fn101.7" type="footnote" n="101.7">⁷ I have adopted Klausen's explanation. Sewell's version is quito
+      foreign to the sense.</note>
           <pb n="102"/>
-          <milestone unit="page" n="102"/>
+          
           <milestone unit="linechunk" n="207-241"/>
           hard too if I am to sacrifice my daughter, the ornament of my house, polluting a father's hands with the gushings of a virgin's blood near the altar. Which of these alternatives is without its horrors? How can I be a deserter of the fleet, failing the confederacy? for it is meet that they <ref n="102.1">1</ref> with wrath full wrathfully should desire the sacrifice that shall lull the winds, and the blood of the maiden,—for it would be well.” But after that he had put on the yoke of necessity, breathing an impious, impure, unholy change of soul, from that time he changed his mind so as to cherish all-daring thoughts. For wretched frenzy, first source of woe, of foul counsel, hardens mortals. And thus he dared to become the sacrificer of his daughter, to promote a war undertaken for the avenging of a woman, and as a first-offering <ref n="102.2">2</ref> for the fleet: and the chieftains, eager for the fight, set at nought her supplications, and her cries to her father <ref n="102.3">3</ref>, and her maiden age. But after prayer her father bade the ministering priests with all zeal, to lift like a kid high above the altar, her who lay prostrate wrapt in her robes, and to put a check upon her beauteous mouth, a voice of curses <ref n="102.4">4</ref> upon the house, by force of muzzles and strength which allowed no vent to her cry. And pouring to the ground her vestments of saffron dye, she smote each of her sacrificers with a piteous glance from her eye, and remarkable in her beauty as
-          <note type="footnote">
-            <ref n="102.1">1</ref> The connexion of the sense evidently requires <quote xml:lang="grc">ἐπιθυμε</quote>ῖ<quote xml:lang="grc">ν</quote> to be referred to the Greeks, not to Artemis: <cit><quote xml:lang="grc">ὀργὰ</quote></cit> proleptically alludes to the wrath of the Greeks, if the sacrifice of Iphigenia was refused. There is a somewhat similar sense in <bibl>Virgil, Æn. II. 130</bibl>—<cit><quote xml:lang="lat">"Assensere omnes, et quae sibi quisque timebat, Unius in miseri exitium conversa tulere."</quote></cit> With <quote xml:lang="grc">εὔ γὰρ εἴη</quote>, understand <quote xml:lang="grc">ἀυτο</quote>ῖ<quote xml:lang="grc">ς</quote>.
+          <note type="footnote" xml:id="102.1" n="102.1">The connexion of the sense evidently requires <quote xml:lang="grc">ἐπιθυμε</quote>ῖ<quote xml:lang="grc">ν</quote> to be referred to the Greeks, not to Artemis: <cit><quote xml:lang="grc">ὀργὰ</quote></cit> proleptically alludes to the wrath of the Greeks, if the sacrifice of Iphigenia was refused. There is a somewhat similar sense in <bibl>Virgil, Aen. II. 130</bibl>—<cit><quote xml:lang="lat">"Assensere omnes, et quae sibi quisque timebat, Unius in miseri exitium conversa tulere."</quote></cit> With <quote xml:lang="grc">εὔ γὰρ εἴη</quote>, understand <quote xml:lang="grc">ἀυτο</quote>ῖ<quote xml:lang="grc">ς</quote>.
           </note>
-          <note type="footnote">
-            <ref n="102.2">2</ref> On <quote xml:lang="grc">προτέλεια</quote>, see <bibl>Blomfield</bibl>. It was properly a marriage-rite. <bibl>Pollux, III. 3, p. 137, 20</bibl>, <quote xml:lang="grc">ἡ δὲ πρὸ γάμου θυσία, προτέλεια.... προτε</quote>-
+          <note type="footnote" xml:id="102.2" n="102.2">On <quote xml:lang="grc">προτέλεια</quote>, see <bibl>Blomfield</bibl>. It was properly a marriage-rite. <bibl>Pollux, III. 3, p. 137, 20</bibl>, <quote xml:lang="grc">ἡ δὲ πρὸ γάμου θυσία, προτέλεια.... προτε</quote>-
           </note>
-          <note type="footnote">
-            <ref n="102.3">3</ref> <bibl>Sewell</bibl> would extend the signification of <quote xml:lang="grc">πατρω̢ους</quote> to the kin of Agamemnon as well, but I am scarcely disposed to accede to that view. <bibl>Lucretius</bibl> preferred the simple notion: <cit><quote xml:lang="lat"><l>Nec miserae tali prodesse in tempore quibat,</l>
+          <note type="footnote" xml:id="102.3" n="102.3"><bibl>Sewell</bibl> would extend the signification of <quote xml:lang="grc">πατρω̢ους</quote> to the kin of Agamemnon as well, but I am scarcely disposed to accede to that view. <bibl>Lucretius</bibl> preferred the simple notion: <cit><quote xml:lang="lat"><l>Nec miserae tali prodesse in tempore quibat,</l>
               <l>Quod patrio princeps donarat nomine regem.</l></quote></cit>
           </note>
-          <note type="footnote">
-            <ref n="102.4">4</ref> I agree with the same elegant scholar, that the imprecation of curses upon her father's house was ill-suited to the feminine delicacy of Iphigenia; but his translation tells us more than the original contains. In fact, to his credit we may say that he often forgets the translator in the poet. Perhaps we may best take <quote xml:lang="grc">ἀραῖον</quote> proleptically, as referring to what would befal the house on account of her death.
+          <note type="footnote" xml:id="102.4" n="102.4">I agree with the same elegant scholar, that the imprecation of curses upon her father's house was ill-suited to the feminine delicacy of Iphigenia; but his translation tells us more than the original contains. In fact, to his credit we may say that he often forgets the translator in the poet. Perhaps we may best take <quote xml:lang="grc">ἀραῖον</quote> proleptically, as referring to what would befal the house on account of her death.
           </note>
           <pb n="103"/>
-          <milestone unit="page" n="103"/>
+          
           <milestone unit="linechunk" n="242-274"/>
-          in a picture <ref n="103.1">1</ref>, wishing to speak; since oft times in the hospitable halls of her father she was wont to sing, and undeflowered in maidenhood, to do honour with fond respect by her voice to the life of her father happy to a third libation <ref n="103.2">2</ref>. What followed thereupon neither did I witness, nor do I tell; but the divinations of Calchas fail not of accomplishment. To those that suffer, indeed Justice brings knowledge. But for futurity <ref n="103.3">3</ref>, since it will come farewell to it—’tis but the same with sorrowing beforehand; for the event will come dawning clearly with the morning rays <ref n="103.4">4</ref>. Oh! may there be in the sequel a happy issue, as wishes this the sole guardian, closest bulwark of the Apian land <ref n="103.5">5</ref>. I have come revering thy majesty, Clytemnestra; for right it is to honour the consort of a chieftain hero, when the monarch's throne has been left empty. And gladly shall I hear whether thou, having learned aught that is good or not, art doing sacrifice with hopes that herald gladness—yet not if thou continuest silent will there be offence.</p>
+          in a picture , wishing to speak; since oft times in the hospitable halls of her father she was wont to sing, and undeflowered in maidenhood, to do honour with fond respect by her voice to the life of her father happy to a third libation <ref n="103.2">2</ref>. What followed thereupon neither did I witness, nor do I tell; but the divinations of Calchas fail not of accomplishment. To those that suffer, indeed Justice brings knowledge. But for futurity <ref n="103.2">2</ref>, since it will come farewell to it—’tis but the same with sorrowing beforehand; for the event will come dawning clearly with the morning rays <ref n="103.3">3</ref>. Oh! may there be in the sequel a happy issue, as wishes this the sole guardian, closest bulwark of the Apian land <ref n="103.4">4</ref>. I have come revering thy majesty, Clytemnestra; for right it is to honour the consort of a chieftain hero, when the monarch's throne has been left empty. And gladly shall I hear whether thou, having learned aught that is good or not, art doing sacrifice with hopes that herald gladness—yet not if thou continuest silent will there be offence.</p>
       </sp>
       <sp>
         <speaker start-line="264" end-line="267">CLYTEMNESTRA</speaker>
@@ -182,8 +312,15 @@
         <speaker start-line="272" end-line="272">CHORUS</speaker>
         <p>Art thou, then, reverencing the vision of dreams, that win easy credence?</p>
       </sp>
+      <note xml:id="fn103.1" type="footnote" n="103.1"> i. e. worthy of the third cup in honor of Jupiter the Savior.</note>
+        <note xml:id="fn103.2" type="footnote" n="103.2"> I read <hi rend="italic">τὸ μέλλονδ᾽ ἐπεὶ</hi>, omitting <hi rend="italic">τὸ δὲ προκλύειν</hi> (see Linwood).
+      Of the common reading nothing can be made. The meaning of <hi rend="italic">ἐπεὶ γ.
+      av navois</hi> exactly corresponds to the Italian "<hi rend="italic">che sara, sara</hi>."</note>
+        <note xml:id="fn103.3" type="footnote" n="103.3"> Sewell's ingenuity can not induce me to depart from Dindorf.</note>
+        <note xml:id="fn103.4" type="footnote" n="103.4"> The old men may be speaking of themselves: <hi rend="italic">йyxoros</hi> is, at best,
+      but a doubtful epithet. To refer it to Clytemnestra is perhaps better.</note>
       <pb n="104"/>
-      <milestone unit="page" n="104"/>
+      
       <milestone unit="linechunk" n="275-308"/>
       <sp>
         <speaker start-line="275" end-line="275">CLYTEMNESTRA</speaker>
@@ -226,22 +363,19 @@
           Cithaeron, aroused another relay of the courier fire. And the watch refused
           not the light that was sent from afar, lighting a larger pile than those above
           mentioned; but it darted across the lake Gorgopis, and having reached mount
-          Ægiplanctus, stirred it up, that the rule <ref n="104.3">3</ref> of fire might not be stint. And
+          Aegiplanctus, stirred it up, that the rule <ref n="104.3">3</ref> of fire might not be stint. And
           lighting it up in unscanting strength, they send on a mighty beard of flame, so
           that it passed glaring beyond the headland that looks down upon the Saronic
           frith, then it darted down until it reached the Arachnaean height, the
           neighbouring post of observation, and thereupon to this
-          <note type="footnote">
-            <ref n="104.1">1</ref> <quote xml:lang="grc">ἄγγαρος</quote> a Persian word, which Symmons translates by estafette, a Spanish word for a military courier, which has been naturalized in English. The original institution is described by Xenophon, Cyrop. VIII. 6. 9, and by Herodotus, VIII. 98. OLD TRANSLATION.
+          <note type="footnote" xml:id="104.1" n="104.1"><quote xml:lang="grc">ἄγγαρος</quote> a Persian word, which Symmons translates by estafette, a Spanish word for a military courier, which has been naturalized in English. The original institution is described by Xenophon, Cyrop. VIII. 6. 9, and by Herodotus, VIII. 98. OLD TRANSLATION.
           </note>
-          <note type="footnote">
-            <ref n="104.2">2</ref> See the commentators: <quote xml:lang="grc">ὥστε νωτίσαι</quote> seems to compel us to take <quote xml:lang="grc">ὺπερτέλης</quote> in the sense expressed.
+          <note type="footnote" xml:id="104.2" n="104.2">See the commentators: <quote xml:lang="grc">ὥστε νωτίσαι</quote> seems to compel us to take <quote xml:lang="grc">ὺπερτέλης</quote> in the sense expressed.
           </note>
-          <note type="footnote">
-            <ref n="104.3">3</ref> i. e., "the fixed succession" (see Linwood). There is some doubt about <quote xml:lang="grc">χατίζεσθαε</quote> being taken passively.
+          <note type="footnote" xml:id="104.3" n="104.3">i. e., "the fixed succession" (see Linwood). There is some doubt about <quote xml:lang="grc">χατίζεσθαε</quote> being taken passively.
           </note>
           <pb n="105"/>
-          <milestone unit="page" n="105"/>
+          
           <milestone unit="linechunk" n="309-343"/>
           roof of the Atreidae here darts this light, no new descendant <ref n="105.1">1</ref> of the fire of Ida. Such, in truth, were my regulations for the bearers of the torch fulfilled by succession from one to another; and the first and the last in the course <ref n="105.2">2</ref> surpass [the rest]. Such proof and signal do I tell thee of my husband having sent me tidings from Troy.</p>
       </sp>
@@ -252,23 +386,18 @@
       <sp>
         <speaker start-line="320" end-line="350">CLYTEMNESTRA</speaker>
         <p>On this very day the Greeks are in possession of Troy: I think that a discordant clamour is loud in the city. If you pour into the same vessel both vinegar and oil, you will pronounce that they are foemen, and not friends. So you may hear the voices of the captured and the conquerors distinct [because of] a double result; for the one party having fallen about the corpses of men, both those of brothers, and children those of their aged parents, are bewailing, from a throat that is no longer free, the death of those that were dearest to them. But the other party, on the contrary is hungry, fatigue from roaming all the night after the battle arranging at meals of such things as the city furnishes, by no fixed law in the distribution, but as each hath drawn the lot of fortune <ref n="105.3">3</ref>. Already are they dwelling in the captured houses of the Trojans, freed from the frost beneath the sky, and from the dews, thus will they, poor wretches <ref n="105.4">4</ref>, sleep the whole night through without sentries. And if they reverence well the tutelary gods of the land which they have conquered, and the fanes of the god, assuredly, after having been captors, they shall not in their turn become captives. But let no lust first fall upon the army of making havoc of things forbidden, overcome by lucre. For, in order to a safe return, they must turn back through the other length of the race. But if the host return in guilt <ref n="105.5">5</ref>, the
-          <note type="footnote">
-            <ref n="105.1">1</ref> I have done my best with a very bold expression.
+          <note type="footnote" xml:id="105.1" n="105.1">I have done my best with a very bold expression.
           </note>
-          <note type="footnote">
-            <ref n="105.2">2</ref> Or, "the one that was both first hand last" (see Paley). With the whole description compare Boyes' Illustrations, and Scott's magnificent description of the journey of the fiery cross, Lady of the Lake, canto III. stanza XIX.
+          <note type="footnote" xml:id="105.2" n="105.2">Or, "the one that was both first hand last" (see Paley). With the whole description compare Boyes' Illustrations, and Scott's magnificent description of the journey of the fiery cross, Lady of the Lake, canto III. stanza XIX.
           </note>
-          <note type="footnote">
-            <ref n="105.3">3</ref> A full stop should be put after <quote xml:lang="grc">πάλον</quote>.
+          <note type="footnote" xml:id="105.3" n="105.3">A full stop should be put after <quote xml:lang="grc">πάλον</quote>.
           </note>
-          <note type="footnote">
-            <ref n="105.4">4</ref> This seems the only satisfactory explanation of the common reading. Conington prefers <quote xml:lang="grc">ώς δ</quote>’ <quote xml:lang="grc">εὐδαίμονες</quote>,the conjecture of Vossins, and with reason.
+          <note type="footnote" xml:id="105.4" n="105.4">This seems the only satisfactory explanation of the common reading. Conington prefers <quote xml:lang="grc">ώς δ</quote>’ <quote xml:lang="grc">εὐδαίμονες</quote>,the conjecture of Vossins, and with reason.
           </note>
-          <note type="footnote">
-            <ref n="105.5">5</ref> I have followed Dindorf in reading <quote xml:lang="grc">ἀμπλύκητος</quote>.
+          <note type="footnote" xml:id="105.5" n="105.5">I have followed Dindorf in reading <quote xml:lang="grc">ἀμπλύκητος</quote>.
           </note>
           <pb n="106"/>
-          <milestone unit="page" n="106"/>
+          
           <milestone unit="linechunk" n="344-375"/>
           curse of those slain might awake in the [minds of the] gods, even though fresh mischances should not befall them. Such words thou mayest hear from me a woman. But may the good prevail, so that we may see it in no wavering balance; for I have received in this an enjoyment of many blessings.</p>
       </sp>
@@ -282,52 +411,43 @@
         <p>O sovereign Jove, and friendly night, possessor of mighty glories, and that didst fling a close net <ref n="106.1">1</ref> over the towers of Troy, so that neither old nor young could overleap the vast toil of slavery, all-ensnaring bane. I therefore revere the mighty Xenian Jove, that hath accomplished these things, that bent his bow aforetime against Paris, in such wise that the shaft might not idly descend either before the proper moment, or above the stars <ref n="106.2">2</ref>. They have to say that they feel the stroke of Jove. This we may trace out exactly <ref n="106.3">3</ref>. He hath fared according as he hath wrought. Some one denied that the gods deigned to have the care of mortals, by whom the honor of hallowed things might be trampled on <ref n="106.4">4</ref>. Not holy was he; and it is upon the descendants of those who were breathing forth, more violently than just, a war which they ought not to have
 
 
-                    <note type="footnote">
-            <ref n="106.1">1</ref> It seems much more spirited to take <quote xml:lang="grc">ἄτης παναλώτον</quote> in apposition with <quote xml:lang="grc">δουλειας</quote> (although Pollux is against this view): <quote xml:lang="grc">γάγγαμον</quote> (which Sewell retains in his version) does not seem to imply more than <quote xml:lang="grc">στεγανὸν δίκτυον</quote> in v. 358.
+                    <note type="footnote" xml:id="106.1" n="106.1">It seems much more spirited to take <quote xml:lang="grc">ἄτης παναλώτον</quote> in apposition with <quote xml:lang="grc">δουλειας</quote> (although Pollux is against this view): <quote xml:lang="grc">γάγγαμον</quote> (which Sewell retains in his version) does not seem to imply more than <quote xml:lang="grc">στεγανὸν δίκτυον</quote> in v. 358.
           </note>
-          <note type="footnote">
-            <ref n="106.2">2</ref> After all the explanations of this difficult passage, I have ventured on a new one. The simple verb <quote xml:lang="grc">σκήπτω</quote> is everywhere in Æschylus used intransitively, cf. v. 308—310 : Prom. 749; Sept. c. Th. 429 ; and I do not see why we should not take it in this sense, especially as it is commonly used of the descent of the thunderbolt. We may join <quote xml:lang="grc">ἠλίθιον σκήψειεν</quote> the former word expressing the consequence of the stroke descending either before or beyond its mark (see Linwood, s. <quote xml:lang="grc">ἄστρον</quote>). <quote xml:lang="grc">ὑπὲρ ἄστρων</quote> can only be a proverbial phrase, denoting excessive distance, probably derived from the temporary vanishing of objects shot to a great distance. Respecting <quote xml:lang="grc">ὅπως ἂν</quote>—just as that, see Blomfield, and Jelf, Gk. Gr. § 810.
+          <note type="footnote" xml:id="106.2" n="106.2">After all the explanations of this difficult passage, I have ventured on a new one. The simple verb <quote xml:lang="grc">σκήπτω</quote> is everywhere in Aeschylus used intransitively, cf. v. 308—310 : Prom. 749; Sept. c. Th. 429 ; and I do not see why we should not take it in this sense, especially as it is commonly used of the descent of the thunderbolt. We may join <quote xml:lang="grc">ἠλίθιον σκήψειεν</quote> the former word expressing the consequence of the stroke descending either before or beyond its mark (see Linwood, s. <quote xml:lang="grc">ἄστρον</quote>). <quote xml:lang="grc">ὑπὲρ ἄστρων</quote> can only be a proverbial phrase, denoting excessive distance, probably derived from the temporary vanishing of objects shot to a great distance. Respecting <quote xml:lang="grc">ὅπως ἂν</quote>—just as that, see Blomfield, and Jelf, Gk. Gr. § 810.
           </note>
-          <note type="footnote">
-            <ref n="106.3">3</ref> i. e. Paris. This change from <quote xml:lang="grc">ἔχουσι</quote> is a customary enallage, particularly when the speaker proceeds from the general remark to the individual instance (see Blomf. Pers. 606).
+          <note type="footnote" xml:id="106.3" n="106.3">i. e. Paris. This change from <quote xml:lang="grc">ἔχουσι</quote> is a customary enallage, particularly when the speaker proceeds from the general remark to the individual instance (see Blomf. Pers. 606).
           </note>
-          <note type="footnote">
-            <ref n="106.4">4</ref> Blomfield thinks there is an allusion to Diagoras, the Melian atheist.
+          <note type="footnote" xml:id="106.4" n="106.4">Blomfield thinks there is an allusion to Diagoras, the Melian atheist.
           </note>
           <pb n="107"/>
-          <milestone unit="page" n="107"/>
+          
           <milestone unit="linechunk" n="376-412"/>
           dared, while their dwellings were teeming beyond all measure, beyond what is best.<ref n="107.1">1</ref> But may an untroubled lot be mine, so as for a man well disposed in disposition to have sufficient strength <ref n="107.2">2</ref>. For there is no bulwark in wealth against destruction to the man who, in the wantonness of his heart, has spurned the great altar of Justice: but wretched Persuasion, intolerable daughter of Atè, joint in her councils <ref n="107.3">3</ref>, forces him on; and remedy is utterly vain. Guilt is not concealed, but is conspicuous, a light of lurid glare <ref n="107.4">4</ref>; and like adulterate brass is proved black-in-grained by wear, and by attrition, when a boy pursues a bird upon the wing, bringing upon his country a blow beyond all endurance. And not one of the gods lends an ear to his orisons, but sweeps away the unrighteous that hath concerned himself with these doings. Such too was Paris, when he came to the mansion of the Atreidae, and profaned the hospitable board by the abduction of a wife. And she, leaving citizens shield-bearers, and the discomfiture of spears, and naval armaments, and bearing to Ilion destruction as her dowry, passed swiftly through the gates, having dared undarable deeds and much did the bards <ref n="107.5">5</ref> of the house lament as they told this ditty. “Alas! alas! for the palace and the chiefs; alas! for the couch, and the footsteps of her who once loved her spouse <ref n="107.6">6</ref>. He stands by silent, dishonored, uttering no
 
-          <note type="footnote">
-          <ref n="107.1">1</ref> There seems little hope of making anything of this passage, and I should prefer Blomfield's emendation. I have, however, followed Sewell and Klausen in taking <quote xml:lang="grc">ἐγγόνους</quote> (rather <quote xml:lang="grc">ἐκγόνους</quote>) to mean "per posteros,” which, though intolerably harsh, is better than supposing that <quote xml:lang="grc">πέφανται</quote> can be the plural: but this is only the lesser of two evils. Dindorf says the passage is interpolated, but he does not tell us how. Perhaps we should connect these words with the preceding, and read <quote xml:lang="grc"><l part="F">εὐσεβὴς</l><l>Πέφανται, καὶ γένους κτλ.</l></quote>—<gloss>but he is shewn forth no pious man, but of the race,</gloss> etc. <quote xml:lang="grc">ὑπέρφευ</quote> also appears corrupt.
+          <note type="footnote" xml:id="107.1" n="107.1">There seems little hope of making anything of this passage, and I should prefer Blomfield's emendation. I have, however, followed Sewell and Klausen in taking <quote xml:lang="grc">ἐγγόνους</quote> (rather <quote xml:lang="grc">ἐκγόνους</quote>) to mean "per posteros,” which, though intolerably harsh, is better than supposing that <quote xml:lang="grc">πέφανται</quote> can be the plural: but this is only the lesser of two evils. Dindorf says the passage is interpolated, but he does not tell us how. Perhaps we should connect these words with the preceding, and read <quote xml:lang="grc"><l part="F">εὐσεβὴς</l><l>Πέφανται, καὶ γένους κτλ.</l></quote>—<gloss>but he is shewn forth no pious man, but of the race,</gloss> etc. <quote xml:lang="grc">ὑπέρφευ</quote> also appears corrupt.
         </note>
-        <note type="footnote">
-          <ref n="107.2">2</ref> i. e., to be able to meet the force of circumstances. See Paley.
+        <note type="footnote" xml:id="107.2" n="107.2">i. e., to be able to meet the force of circumstances. See Paley.
         </note>
-        <note type="footnote">
-          <ref n="107.3">3</ref> See Sewell and Conington.
+        <note type="footnote" xml:id="107.3" n="107.3">See Sewell and Conington.
         </note>
-        <note type="footnote">
-          <ref n="107.4">4</ref> I have used “bards," as containing the two senses of <quote xml:lang="grc">προφητ̃αι</quote>. See Blomfield.
+        <note type="footnote" xml:id="107.4" n="107.4">I have used “bards," as containing the two senses of <quote xml:lang="grc">προφητ̃αι</quote>. See Blomfield.
         </note>
-        <note type="footnote">
-          <ref n="107.5">5</ref> Burges would more elegantly render " the footsteps of her who followed a loved one," i. e., Paris.
+        <note type="footnote" xml:id="107.5" n="107.5">Burges would more elegantly render " the footsteps of her who followed a loved one," i. e., Paris.
         </note>
 
-        <note type="footnote"> 6 I read with Hermann, <foreign xml:lang="grc">σιγὰς.... ἄπιστος ἀφεμέναν, ἰδεῖν</foreign> with Her­mann and Sewell. The defences of the common reading, lately proposed, 
+        <note type="footnote" xml:id="107.6" n="107.6"> 6 I read with Hermann, <foreign xml:lang="grc">σιγὰς.... ἄπιστος ἀφεμέναν, ἰδεῖν</foreign> with Her­mann and Sewell. The defences of the common reading, lately proposed, 
             are beneath notice. Blomfield truly remarks that <foreign xml:lang="grc">ἀφεμέναν</foreign> is the middle 
             voice, but I do not see how that fact involves any difficulty. May it not 
             purposely be used to signify the willing elopement of Helen ? I have used a word of the same force in the translation. Thus <cit><bibl>Euripides, Iph. 
             Aul. 78, says,</bibl> <quote xml:lang="grc"><l>ἐρω̃ν ἐρω̃σαν ᾤχετ ἐξανάρπασας</l></quote></cit>. </note> 
           <pb n="108"/>
-          <milestone unit="page" n="108"/>
+          
           <milestone unit="linechunk" n="413-444"/>
-          reproach, not believing that he sees her eloped <ref n="108.1">1</ref>. And in yearning after her beyond the sea, a phantom will seem to rule the house, and the beauty of fair-formed statues <ref n="108.2">2</ref> is loathed by her husband, and in the unfed glance of his eyes all their loveliness passes away. And melancholy visions, appearing in dreams, present themselves, bringing a vain delight; for vain it is when any one seeming to see blessings, the vision having slipped through his hands, passes away forthwith on the pinions that lackey on the paths of sleep <ref n="108.3">3</ref>.” These, indeed, are the sorrows at the hearth <ref n="108.4">4</ref>, within the mansion, but there are sorrows surpassing these. And universally because of the heroes who went together from the land of Hellas, the sorrow of a patient spirit from the families of each is plainly observable. Many things of a truth touch them to the core; for those whom any one sent forth, he knows, but, instead of men, urns and ashes come back to the dwellings of each. And Mars, that barters for gold their bodies, and that holds the balance in the tug of the spears, sends to their friends some fragment of scorched dust from Ilion, a thing of bitter tears, filling the vases with light <ref n="108.5">5</ref> ashes instead of the man. And they
+          reproach, not believing that he sees her eloped. And in yearning after her beyond the sea, a phantom will seem to rule the house, and the beauty of fair-formed statues  is loathed by her husband, and in the unfed glance <ref n="108.1">1</ref> of his eyes all their loveliness passes away. And melancholy visions, appearing in dreams, present themselves, bringing a vain delight; for vain it is when any one seeming to see blessings, the vision having slipped through his hands, passes away forthwith on the pinions that lackey on the paths of sleep.” These, indeed, are the sorrows at the hearth <ref n="108.2">2</ref>, within the mansion, but there are sorrows surpassing these. And universally because of the heroes who went together from the land of Hellas, the sorrow of a patient spirit from the families of each is plainly observable. Many things of a truth touch them to the core; for those whom any one sent forth, he knows, but, instead of men, urns and ashes come back to the dwellings of each. And Mars, that barters for gold their bodies, and that holds the balance in the tug of the spears, sends to their friends some fragment of scorched dust from Ilion, a thing of bitter tears, filling the vases with light <ref n="108.3">3</ref> ashes instead of the man. And they
 
           <note type="footnote"> </note>
             
-            <note type="footnote"> 1 There seems something very harsh in Menelaus oeing made the <foreign xml:lang="grc">φάσμα</foreign> 
+            <note type="footnote" n="108.1"> 1 There seems something very harsh in Menelaus oeing made the <foreign xml:lang="grc">φάσμα</foreign> 
             in this passage, and I regret that Conington should not have preferred 
             following his own taste, instead of the tasteless defence of the common 
             reading, proposed by others. The sight of a beautiful image would recall 
@@ -347,44 +467,37 @@
           </quote></cit>
         </note>
         
-        <note type="footnote"> 2 And <cit><bibl>Ion I. 2.—</bibl>
+        <note type="footnote" n="108.2"> 2 And <cit><bibl>Ion I. 2.—</bibl>
           <quote xml:lang="eng">
             <l>When thou art gone-the light of our life quench’d— </l>
           
 <l>Haunting like spectres of departed joy </l>
 <l>The home where thou wert dearest !</l>
         </quote></cit>
-          </note><note type="footnote"> 3 <foreign xml:lang="grc">εὐθέτου</foreign>. I prefer, however, the reading proposed by <unclear>Auratus</unclear>, 
+          </note><note type="footnote" n="108.3"> 3 <foreign xml:lang="grc">εὐθέτου</foreign>. I prefer, however, the reading proposed by <unclear>Auratus</unclear>, 
             <foreign xml:lang="grc">εὐθέτους</foreign>, with Sowell, Linwood, and others. </note>
           <pb n="109"/>
-          <milestone unit="page" n="109"/>
+          
           <milestone unit="linechunk" n="445-487"/>
           sigh as they praise one as skilled in fight and another as having fallen gloriously amid the carnage, in behalf of another's wife. These things does many a one in silence mutter. And jealous vexation creeps upon the chieftain Atrida <ref n="109.1">1</ref>. And others, fair of form, there around the walls, occupy tombs in the land of Ilion; and a foe-land shrouds them as its dwellers. Bitter is the rumour of the citizens accompanied by wrath, and it pays the debt as of a curse <ref n="109.2">2</ref> ratified by the people. And my anxious care is waiting to hear something wrapt in nightly gloom. For the gods are not regardless of those that occasion great slaughter: and the black Erinnyes in time, reduce to obscurity the man that is fortunate without righteousness, by a reverse of fortune; and the power of him that lives among the obscure is nought. Now for a man to have an exceedingly <ref n="109.3">3</ref> high reputation is a sad thing; for the thunderbolt from Jove is launched against his eyes <ref n="109.4">4</ref>; but I prefer happiness free from envy. May I never be a sacker of cities, nor yet myself a captive may I see my life under the control of others. But by the fire that brings glad tidings a swift rumour is pervading the city—but who knows whether it be true <ref n="109.5">5</ref>? or some delusion of the gods. Who is so childish, or bereft of judgment, as, after having been warmed in heart by recent tidings of the beacon-light, to despond at a change of ws <ref n="109.6">6</ref>? It fits a woman's wit <ref n="109.7">7</ref> to acknowledge a boon before it has appeared. The female sex, overcredulous, ranges with rapid step; but glory that depends on a woman's proclamations, perishes in a short-lived fate.</p>
   
     
-          <note type="footnote">
-            <ref n="109.1">1</ref> <quote xml:lang="grc">προσδίκοις</quote>. See Peile.
+          <note type="footnote" xml:id="109.1" n="109.1"><quote xml:lang="grc">προσδίκοις</quote>. See Peile.
           </note>
-          <note type="footnote">
-            <ref n="109.2">2</ref> See Paley, and compare the paraphrases of Sewell and Conington. I do not think Agamemnon should be mentioned, but merely hinted at.
+          <note type="footnote" xml:id="109.2" n="109.2">See Paley, and compare the paraphrases of Sewell and Conington. I do not think Agamemnon should be mentioned, but merely hinted at.
           </note>
-          <note type="footnote">
-            <ref n="109.3">3</ref> See Linwood. Dindorf rightly prefers Pearson's conjecture, <quote xml:lang="grc">ὑπερκότως</quote>, with Blomfield.
+          <note type="footnote" xml:id="109.3" n="109.3">See Linwood. Dindorf rightly prefers Pearson's conjecture, <quote xml:lang="grc">ὑπερκότως</quote>, with Blomfield.
           </note>
-          <note type="footnote">
-            <ref n="109.4">4</ref> Klausen takes <quote xml:lang="grc">ὅσσοις</quote> as referring to Jove. But what writer would use <quote xml:lang="grc">ὅσσοις διόθεν</quote> to mean "from the eye of Jove?" I have no doubt that the passage is corrupt. Burges reads <quote xml:lang="grc">βάλλεται δ' ἄκρ' ὄσσης</quote>, which has been partly anticipated by Lobeck.
+          <note type="footnote" xml:id="109.4" n="109.4">Klausen takes <quote xml:lang="grc">ὅσσοις</quote> as referring to Jove. But what writer would use <quote xml:lang="grc">ὅσσοις διόθεν</quote> to mean "from the eye of Jove?" I have no doubt that the passage is corrupt. Burges reads <quote xml:lang="grc">βάλλεται δ' ἄκρ' ὄσσης</quote>, which has been partly anticipated by Lobeck.
           </note>
-          <note type="footnote">
-            <ref n="109.5">5</ref> See Dindorf's note.
+          <note type="footnote" xml:id="109.5" n="109.5">See Dindorf's note.
           </note>
-          <note type="footnote">
-            <ref n="109.6">6</ref> I have followed Dindorf's emendation (see his notes), although, with himself, I prefer Stanley's <quote xml:lang="grc">τίς οἶδεν, εἴ τοι θεῖόν ἐστιν ἢ ψύθος</quote>; the common reading seems untenable. Symmons, whose taste is finer than his scholarship, agrees with Stanley.
+          <note type="footnote" xml:id="109.6" n="109.6">I have followed Dindorf's emendation (see his notes), although, with himself, I prefer Stanley's <quote xml:lang="grc">τίς οἶδεν, εἴ τοι θεῖόν ἐστιν ἢ ψύθος</quote>; the common reading seems untenable. Symmons, whose taste is finer than his scholarship, agrees with Stanley.
           </note>
-          <note type="footnote">
-            <ref n="109.7">7</ref> There seems no parallel in this passage to Choeph. 630; but I have rendered <quote xml:lang="grc">αἰχμά</quote> (=edge, point) as closely to English notions as I could.
+          <note type="footnote" xml:id="109.7" n="109.7">There seems no parallel in this passage to Choeph. 630; but I have rendered <quote xml:lang="grc">αἰχμά</quote> (=edge, point) as closely to English notions as I could.
           </note>
           <pb n="110"/>
-          <milestone unit="page" n="110"/>
+          
           <milestone unit="linechunk" n="488-523"/>
          
 
@@ -401,9 +514,9 @@
 <sp>
 <speaker start-line="503" end-line="537">HERALD TALTHYBIUS</speaker>
 <p>O! father-land of the soil<ref n="110.1">1</ref> of Argos, in this the light of the tenth year am I arrived, mastering one only hope, with many broken down. For never dared I think that, dying, I should share a burial dearest to me in this Argive land. Now hail to thee, country mine, and hail to thee light of the sun, and to thee O Jove, supreme god of the realm, and to the Pythian king, that no longer with thy bow dost launch thy shafts against us. Enough unfavouring comest<ref n="110.2">2</ref> thou by Scamander; but now in turn be thou our saviour, and freer from our contests<ref n="110.3">3</ref> and I address both all the gods of battle and my patron Mercury, beloved herald, herald's glory, and the heroes that sent us forth, that they may kindly welcome back again the residue of the host that has escaped the spear. O halls of our kings, dear roofs! and awful judgment-seat, and ye divinities that face the sun, if ever in the olden times ye did with these your bright eyes receive with honourable greeting our sovereign after his long absence; for king Agamemnon is come, bringing a light in darkness common to you and to all
-<note type="footnote">1. I have ventured to transpose the sense of <quote xml:lang="grc">οὖδας</quote> and <quote xml:lang="grc">χθονός</quote>.</note>
-<note type="footnote">2. But read <quote xml:lang="grc">ἦσθ' ἀνάρσιος</quote>. See Paley.</note>
-<note type="footnote">3. Dindorf, however, prefers taking <quote xml:lang="grc">κἀπαγώνιος</quote> for καὶ <quote xml:lang="grc">ἐπαγώνιος</quote>, not <quote xml:lang="grc">ἀπαγώνιος</quote>. An anonymous critic in Scholfield's notes proposes <quote xml:lang="grc">καὶ παιώνιος</quote>, which Paley and Conington have admitted, and supported with good taste. The common reading might easily result from the next line. In confirmation of the conjecture, cf. Soph., <quote xml:lang="grc">Œd</quote>. Tyr. 150.</note>
+<note type="footnote" n="110.1">1. I have ventured to transpose the sense of <quote xml:lang="grc">οὖδας</quote> and <quote xml:lang="grc">χθονός</quote>.</note>
+<note type="footnote" n="110.2">2. But read <quote xml:lang="grc">ἦσθ' ἀνάρσιος</quote>. See Paley.</note>
+<note type="footnote" n="110.3">3. Dindorf, however, prefers taking <quote xml:lang="grc">κἀπαγώνιος</quote> for καὶ <quote xml:lang="grc">ἐπαγώνιος</quote>, not <quote xml:lang="grc">ἀπαγώνιος</quote>. An anonymous critic in Scholfield's notes proposes <quote xml:lang="grc">καὶ παιώνιος</quote>, which Paley and Conington have admitted, and supported with good taste. The common reading might easily result from the next line. In confirmation of the conjecture, cf. Soph., <quote xml:lang="grc">Œd</quote>. Tyr. 150.</note>
 <pb n="111"/>
 <milestone unit="linechunk" n="524-549"/>
 these assembled. But greet him well, (and sooth 'tis fitting so) him that hath overturned Troy with the spade of avenging Jove with which the plain bath been tilled. Their altars are demolished and the shrines of their gods and the seed of all the land hath utterly perished. Having flung such a yoke over Troy, the elder royal son of Atreus, a happy man, hath arrived and most deserving to be honoured is he of the mortals of this day : for neither Paris nor his accomplice-city boasts that their deed was greater than their suffering<ref n="111.1">1</ref>. For, cast in the penalty of abduction and theft, he both lost his gage<ref n="111.2">2</ref> and mowed down to the very earth in utter destruction the house of his father : and the children of Priam have paid a double penalty.</p>
@@ -541,7 +654,7 @@ that these things most of all concern the house and Clytaemnestra, and that they
 <milestone unit="linechunk" n="636-673"/>
 <sp>
 <speaker start-line="636" end-line="673">HERALD TALTHYBIUS</speaker>
-<p>It is not seemly to sully with a tongue of evil tidings an auspicious day. The honour of the gods is distinct<ref n="115.1">1</ref>. But when a messenger with doleful countenance brings to a city sufferings of a defeated army to be deprecated,—that one public wound has befallen the state and that many men out of many families have been devoted<ref n="115.2">2</ref> to the double scourge which Mars loves,—a doubly-speared calamity, a gory yoke.—well in good truth does it befit one that is laden with such sufferings to utter this hymn of the Furies; but a glad messenger of saved fortunes coming to a city that is exulting in prosperity,—how shall I dash good news with ill, while I tell of the tempest that fell upon the Greeks, not free from heaven's wrath? For fire and sea, of old most deadly foes, conspired together, and proved their faithful plight, destroying the hapless armament of the Greeks. And in the night, dire terrors of the waves were aroused. For Thracian blasts dashed the ships one against the other; and they, violently struck by the beaks of other vessels through the whirlwind's rage, along with rain-lashed surge, disappeared under the whirling steerage of an evil shepherd<ref n="115.3">3</ref>. But when the brilliant light of the sun arose, we behold the Ægaean deep blossoming with the corpses of Grecian men and wrecks of vessels. For us, indeed, and our vessel undamaged in her hull, some god stole us away or begged us off<ref n="115.4">4</ref> seizing our helm. And Saviour Fortune took her seat, managing our vessel, so that we neither encountered the swell of waves at our anchorage, nor dashed on the rocky strand. And having escaped a watery grave, in a white-dawning day, not crediting our fortune, we beguiled in anxious thoughts the recent mishap of our host worn out, and evilly crushed in ruin. And now, if any of them is still breathing, they talk of us as perished,—why should they not?—we too fancy that they have met the
+<p>It is not seemly to sully with a tongue of evil tidings an auspicious day. The honour of the gods is distinct<ref n="115.1">1</ref>. But when a messenger with doleful countenance brings to a city sufferings of a defeated army to be deprecated,—that one public wound has befallen the state and that many men out of many families have been devoted<ref n="115.2">2</ref> to the double scourge which Mars loves,—a doubly-speared calamity, a gory yoke.—well in good truth does it befit one that is laden with such sufferings to utter this hymn of the Furies; but a glad messenger of saved fortunes coming to a city that is exulting in prosperity,—how shall I dash good news with ill, while I tell of the tempest that fell upon the Greeks, not free from heaven's wrath? For fire and sea, of old most deadly foes, conspired together, and proved their faithful plight, destroying the hapless armament of the Greeks. And in the night, dire terrors of the waves were aroused. For Thracian blasts dashed the ships one against the other; and they, violently struck by the beaks of other vessels through the whirlwind's rage, along with rain-lashed surge, disappeared under the whirling steerage of an evil shepherd<ref n="115.3">3</ref>. But when the brilliant light of the sun arose, we behold the Aegaean deep blossoming with the corpses of Grecian men and wrecks of vessels. For us, indeed, and our vessel undamaged in her hull, some god stole us away or begged us off<ref n="115.4">4</ref> seizing our helm. And Saviour Fortune took her seat, managing our vessel, so that we neither encountered the swell of waves at our anchorage, nor dashed on the rocky strand. And having escaped a watery grave, in a white-dawning day, not crediting our fortune, we beguiled in anxious thoughts the recent mishap of our host worn out, and evilly crushed in ruin. And now, if any of them is still breathing, they talk of us as perished,—why should they not?—we too fancy that they have met the
 <note type="footnote">1. This best seems to mean that the rejoicings due to the gods for the happy events ought not to be disturbed by mourning. I scarcely understand Conington's version. We must remember that all marks of sorrow were absolutely interdicted at certain festivals, in the true spirit of King Segad, in the Rambler.</note>
 <note type="footnote">2. See Peile's note, and the discursive, but entertaining treatise of Lomeier, de lustrationibus, § XXII.</note>
 <note type="footnote">3. Cf. Virg. Aen. I. 115, seq. with De la Cerda's notes.</note>
@@ -706,7 +819,7 @@ house extending over them a shade against the dog Sirius; and when thou comest t
 <speaker start-line="975" end-line="1000">CHORUS</speaker>
 <p>Why o'er me doth this terror steadily hover close to my portent-boding heart, and in an unbought unbidden strain plays prophet, nor doth well-assured confidence take seat upon my heart's dear throne, after rejecting this like dreams hard of Interpretation? Long is the time since the naval armament with their cables cast firmly into the sandy shore, languished away<ref n="124.2">2</ref>, when it was speeding to Ilion.—And I learn their return from my eyes, being myself my own witness. And yet, notwithstanding this, my soul within me, self-taught, is chanting the lament of an Erinnys unaccompanied by the lyre, in nought possessing the dear confidence of hope. And my bosom tells no idle tale, my heart being whirled in eddies by just thoughts that have fulfilment. But I pray that those, beyond my hope, may turn out to be false, so as to come to no fulfilment. For verily the limit of abundant health is insa-
     
-<note type="footnote">1. Probably standing in an attitude of silent grief, as we may suppose the captive Iole, in Soph. Trach. 323. This eloquent silence was a favourite "point" with Æschylus, who is ridiculed for it by Aristophanes, Ran. 911—13. Much might be done by the actor's silent expression, notwithstanding the length of silence imposed by the ensuing dialogue, A somewhat similar difficulty is entailed upon the impersonation of Christopher Sly, in the “Taming of the Shrew."</note>
+<note type="footnote">1. Probably standing in an attitude of silent grief, as we may suppose the captive Iole, in Soph. Trach. 323. This eloquent silence was a favourite "point" with Aeschylus, who is ridiculed for it by Aristophanes, Ran. 911—13. Much might be done by the actor's silent expression, notwithstanding the length of silence imposed by the ensuing dialogue, A somewhat similar difficulty is entailed upon the impersonation of Christopher Sly, in the “Taming of the Shrew."</note>
 <note type="footnote">2. I read <quote xml:lang="grc">ξυνεμβολαι̃ς ψαμμίας ἀκτα̃ς παρήβησεν</quote>, with Wellauer ; but I cannot conceive whence Conington, and some other translators, have got the notion that it was at their departure from Greece, not on their arriva­ at Troy, that the army suffered thus. The stoppages at Aulis, and under the walls of Troy, are evidently meant. In other respects, Conington's view is confirmed by the tragedians, and by Dion. Chrysost. Or. II. p. 80, and Apuleius de Deo Socr. § 19. I remember a similar passage in Dictys Cretensis, but have not the book at hand.</note>
 <pb n="125"/>
 <milestone unit="linechunk" n="1003-1046"/>
@@ -718,7 +831,7 @@ tiable<ref n="125.1">1</ref>. For calamity presses upon it a close-adjoining nei
 <p>Do thou betake thyself within too—I mean thee, Cassandra; since Jove in no wise wrathful hath made thee to be a partaker of the layers in our house, along with many slaves, placed near the altar of the god of property; step forth from out this car, and be not high-minded. For in truth they say, that even Alcmena's son once upon a time submitted to be sold, and against his will to put his hand to the yoke. If then the destiny. of this condition befall any, great is the advantage of having masters of old-established opulence. But they who, without having ever expected it, have reaped a rich harvest, are' both stern in all things to their slaves, and go beyond the line. With us you have such things as are regular<ref n="125.4">4</ref>.</p>
 </sp>
 <note type="footnote">1. <bibl>Symmons</bibl> compares <bibl>Hamlet, IV. 7</bibl> : <cit><quote xml:lang="eng">And nothing is at a like goodness still; For goodness, growing to a pleurisy, Dies in his own too much.</quote></cit></note>
-<note type="footnote">2. Æsculapius. Cf. Pindar Pyth. III. 98, quoted by Paley.</note>
+<note type="footnote">2. Aesculapius. Cf. Pindar Pyth. III. 98, quoted by Paley.</note>
 <note type="footnote">3. Symmons, whom I follow, takes <quote xml:lang="grc">μοι̃ρα</quote> to mean “the superior fate in the hands of heaven,” <quote xml:lang="grc">μοι̃ραν</quote> for the fateful bodings of the Chorus! own mind (so Conington). I am not quite satisfied, and could better understand these verses in the mouth of Cassandra, than of the Chorus.</note>
 <note type="footnote">4. Compare the encouraging remarks of Mrs. Bombazine, Rambler, No, 12—" They know they shall have a belly-full that live with me. Not like people at the other end of the town, we dine at one o'clock," etc.</note>
 <pb n="126"/>
@@ -1097,7 +1210,7 @@ of our cause, a matricidal scion, avenger of his sire. And he, a wandering exile
 <p>Yet once more do I wish to utter a speech, or mine own dirge<ref n="134.2">2</ref>. And (looking upon) his light for the last time, I pray the sun, upon my hated murderers, that they may at the same time pay the penalty for a slave, that dies an easy victim, to my avengers their murderers<ref n="134.3">3</ref>. Alas for the condition of mortals! them when prosperous a shadow may overturn; but
 <note type="footnote">1. Medwin refers to Henry the Sixth, 3rd part, V. 6. <quote xml:lang="eng">" The bird that hath been limed in a bush, With trembling wings misdoubteth every twig."</quote></note>
 <note type="footnote">2. Sewell's version is truly elegant: <quote xml:lang="eng">" Once, once again; One word, one dirge, fain would I speak, my own."</quote> But I wish "above myself" did not follow. The redundancy in <quote xml:lang="grc">ἐμὸν τὸν αὐτη̃ς</quote> here seems disagreeable, and I would read <quote xml:lang="grc">ἐγὼ τὸν αὐτη̃ς</quote>. The stress is upon the fact that Cassandra, like the fabled swan, sings her own dirge.</note>
-<note type="footnote">3. Such is, in substance, Paley's interpretation. Conington (although Dindorf has condemned the passage as corrupt) finds no difficulty, but follows Peile. Both of them have slurred over the absurd <quote xml:lang="grc">ὁμου̃</quote>. Klausen's Latin, which people carefully avoid translating, is as follows: <quote xml:lang="lat">" Precibus, quibus solem in ultima luce (?) invoco, imprecor (<foreign xml:lang="grc">ἐπεύχομαι</foreign> standing for two verbs with their datives of a different signification!) ultoribus meis ut occisoribus invisis meis idem solvant."</quote> (i.e., I invoke upon my avengers that they suffer the same at the hands of my slayers!) I can only express my conviction that these interpretations may fairly be met aside in favour of the following readings: <quote xml:lang="grc">τὸν....ἡλίου</quote> is due to Jacobs. and is approved by Dindorf, <quote xml:lang="grc">ἐχθροὺς....τοὺς ἐμοὺς</quote> is Wellaner's conjecture, as also <quote xml:lang="grc">ἐμου̃</quote> for <quote xml:lang="grc">όμου̃</quote>. For the transposition of the half lines, I am myself answerable, as well as for <quote xml:lang="grc">κατεύχομαι</quote> in lieu of <quote xml:lang="grc">ἐπεύχομαι</quote>. Compare Choeph. 88, <quote xml:lang="grc">πω̃ς κατεύξωμαι πατρί</quote>; 139, <quote xml:lang="grc">κατεύχομαί σοι</quote>. Eum. 922, <quote xml:lang="grc">ᾇτ' ἐγὼ κατεύχομαι .. ἐξαμβρόσαι φαιδρὸν ἁλίου σέλας</quote>, which last passage is almost conclusive; the same verb occurs, but in a somewhat different sense, also in Sept. c. Th. 633, and above, vs. 1250. In further support of the genitive in this simple form cf. Soph., Aj. 856, at <quote xml:lang="grc">δ</quote>’, <quote xml:lang="grc">ῴ φαεννη̃ς ἡμέρας ... σέλας</quote>. Æsch., Prom. 91, <quote xml:lang="grc">καὶ τὸν πανόπτην κυκλον ἡλίου καλω̃</quote>. Orph., Hymn. VII. 1. </note>
+<note type="footnote">3. Such is, in substance, Paley's interpretation. Conington (although Dindorf has condemned the passage as corrupt) finds no difficulty, but follows Peile. Both of them have slurred over the absurd <quote xml:lang="grc">ὁμου̃</quote>. Klausen's Latin, which people carefully avoid translating, is as follows: <quote xml:lang="lat">" Precibus, quibus solem in ultima luce (?) invoco, imprecor (<foreign xml:lang="grc">ἐπεύχομαι</foreign> standing for two verbs with their datives of a different signification!) ultoribus meis ut occisoribus invisis meis idem solvant."</quote> (i.e., I invoke upon my avengers that they suffer the same at the hands of my slayers!) I can only express my conviction that these interpretations may fairly be met aside in favour of the following readings: <quote xml:lang="grc">τὸν....ἡλίου</quote> is due to Jacobs. and is approved by Dindorf, <quote xml:lang="grc">ἐχθροὺς....τοὺς ἐμοὺς</quote> is Wellaner's conjecture, as also <quote xml:lang="grc">ἐμου̃</quote> for <quote xml:lang="grc">όμου̃</quote>. For the transposition of the half lines, I am myself answerable, as well as for <quote xml:lang="grc">κατεύχομαι</quote> in lieu of <quote xml:lang="grc">ἐπεύχομαι</quote>. Compare Choeph. 88, <quote xml:lang="grc">πω̃ς κατεύξωμαι πατρί</quote>; 139, <quote xml:lang="grc">κατεύχομαί σοι</quote>. Eum. 922, <quote xml:lang="grc">ᾇτ' ἐγὼ κατεύχομαι .. ἐξαμβρόσαι φαιδρὸν ἁλίου σέλας</quote>, which last passage is almost conclusive; the same verb occurs, but in a somewhat different sense, also in Sept. c. Th. 633, and above, vs. 1250. In further support of the genitive in this simple form cf. Soph., Aj. 856, at <quote xml:lang="grc">δ</quote>’, <quote xml:lang="grc">ῴ φαεννη̃ς ἡμέρας ... σέλας</quote>. Aesch., Prom. 91, <quote xml:lang="grc">καὶ τὸν πανόπτην κυκλον ἡλίου καλω̃</quote>. Orph., Hymn. VII. 1. </note>
 <pb n="135"/>
 <milestone unit="linechunk" n="1328-1344"/>
 if they be in adversity, a moistened sponge blots out the picture: and for this I have far greater pity thau for that.</p>
@@ -1183,7 +1296,7 @@ if they be in adversity, a moistened sponge blots out the picture: and for this 
 </sp>
 <note type="footnote">1. On the disposition of the chorus, and the allotting of all these stupid verses, see Müller, Eumenides, p. 55, sqq., and the notes of the commentators.</note>
 <note type="footnote">2. If we render <quote xml:lang="grc">χρονίζομεν</quote>, "we are slow," it will convey a pleasing criticism as well as an undoubted truth! at least, no reader of poetry will challenge the assertion.</note>
-<note type="footnote">3. How Æschylus came to perpetrate this absurd scene, cannot easily be conceived. I think the fact that such stuff was written to employ the chorus during an interval of such excitement, is almost sufficient to prove that the histrionic abilities of these supernumeraries were as little to be taxed, as those of modern chorus singers. Müller, however, Eumenides. 1. 2, p 48. sq., is eloquent on their behalf.</note>
+<note type="footnote">3. How Aeschylus came to perpetrate this absurd scene, cannot easily be conceived. I think the fact that such stuff was written to employ the chorus during an interval of such excitement, is almost sufficient to prove that the histrionic abilities of these supernumeraries were as little to be taxed, as those of modern chorus singers. Müller, however, Eumenides. 1. 2, p 48. sq., is eloquent on their behalf.</note>
 <pb n="137"/>
 <milestone unit="linechunk" n="1372-1403"/>
 <sp>
@@ -1221,7 +1334,7 @@ whether thou wilt praise or censure,—this is Agamemnon, my husband, and a corp
 </sp>
 <sp>
 <speaker start-line="1431" end-line="1447">CLYTEMNESTRA</speaker>
-<p>And thou shalt hear this plea of mine oath: By the perfect vengeance of my daughter, by <unclear>Atè</unclear>, and Erinnys, to whom I sacrificed this man, I expect not to tread the hall of Terror, so long as Ægisthus burns fire on my hearth, well-disposed to me as heretofore: for he is to me no small shield of confidence. He lies, the marrer of this woman, the minion
+<p>And thou shalt hear this plea of mine oath: By the perfect vengeance of my daughter, by <unclear>Atè</unclear>, and Erinnys, to whom I sacrificed this man, I expect not to tread the hall of Terror, so long as Aegisthus burns fire on my hearth, well-disposed to me as heretofore: for he is to me no small shield of confidence. He lies, the marrer of this woman, the minion
     
 <note type="footnote">1. Eumen, 452, <quote xml:lang="grc">ῥυτοῖς πόροις</quote>.</note>
 <note type="footnote">2. i.e., bust made thyself a victim to public abhorrence. See Conington.</note>
@@ -1351,7 +1464,7 @@ so perish the whole race of Pleisthenes! In consequence of these things you may 
 </sp>
 <sp>
 <speaker start-line="1612" end-line="1616">CHORUS</speaker>
-<p>Ægisthus! I honour not insolence amidst guilt. And dost thou say, that thou didst wilfully slay this man, and that thou alone didst plot this piteous murder? I declare that thy head shall not escape, be sure of it, curses of stoning, hurled by the populace.</p>
+<p>Aegisthus! I honour not insolence amidst guilt. And dost thou say, that thou didst wilfully slay this man, and that thou alone didst plot this piteous murder? I declare that thy head shall not escape, be sure of it, curses of stoning, hurled by the populace.</p>
 </sp>
 <sp>
 <speaker start-line="1617" end-line="1624">AEGISTHUS</speaker>
@@ -1451,6 +1564,7 @@ so perish the whole race of Pleisthenes! In consequence of these things you may 
 <speaker start-line="1672" end-line="1673">CLYTEMNESTRA</speaker>
 <p>Make not thou any account of these vain yelpings; I and thou mastering this house, will order things aright.</p>
 </sp>
+</div>
     </body>
   </text>
 </TEI>
