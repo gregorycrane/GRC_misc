@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="eng">
+    <fileDesc>
+      <titleStmt>
+        <title>The Persians.</title>
+        <title>The tragedies of Aeschylus</title>
+        <author>Aeschylus</author>
+        <editor role="translator">Theodore Alois Buckley</editor>
+        <respStmt>
+          <resp>Translator credited as</resp>
+          <name>Theodore Alois Buckley (1825–1856)</name>
+        </respStmt>
+        <sponsor>Perseus Project, Tufts University</sponsor>
+        <principal>Gregory Crane</principal>
+        <respStmt>
+          <resp>Prepared under the supervision of</resp>
+          <name>Gregory Crane</name>
+        </respStmt>
+        <funder>Volunteer</funder>
+      </titleStmt>
+
+      <!-- Added series -->
+      <seriesStmt>
+        <title level="s">Bohn’s classical library</title>
+        <respStmt>
+          <resp>Series publisher</resp>
+          <name>Henry G. Bohn</name>
+        </respStmt>
+      </seriesStmt>
+
+      <extent>About 90Kb</extent>
+
+      <publicationStmt>
+        <publisher>Trustees of Tufts University</publisher>
+        <pubPlace>Medford, MA</pubPlace>
+        <authority>Perseus Project</authority>
+        <availability status="free">
+          <licence target="https://www.hathitrust.org/rights/public-domain">Public domain (U.S.)</licence>
+          <p>Digitized copy served via HathiTrust.</p>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Aeschylus</author>
+            <title>The tragedies of Aeschylus</title>
+            <title type="sub">Literally translated, with critical and illustrative notes, and an introduction</title>
+            <editor role="translator">Theodore Alois Buckley</editor>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Bohn</publisher>
+              <date when="1849">1849</date>
+            </imprint>
+            <biblScope unit="series">Bohn’s classical library</biblScope>
+            <biblScope unit="extent">xx, 234 p.; front.; 19 cm</biblScope>
+          </monogr>
+          <ref target="https://hdl.handle.net/2027/hvd.32044005046321">HathiTrust handle</ref>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+
+    <encodingDesc>
+      <editorialDecl>
+        <quotation marks="none"/>
+      </editorialDecl>
+      <refsDecl n="CTS">
+        <cRefPattern n="l"
+                     matchPattern="(\w+)"
+                     replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div//tei:l[@n='$1'])">
+          <p>This pointer pattern extracts lines</p>
+        </cRefPattern>
+      </refsDecl>
+    </encodingDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="eng">English</language>
+      </langUsage>
+    </profileDesc>
+
+    <revisionDesc>
+      <change when="2025-10-23" who="GRC">New file created drawing metadata from the HathiTrust record for Buckley (1849); series noted as Bohn’s classical library.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+     <pb n="67"/>
+       <div type="translation"
+              xml:lang="eng"
+              n="urn:cts:greekLit:tlg0085.tlg002.perseus-eng2"> <head>THE PERSIANS.</head>
+
+<p>The ill-boding dream of Atossa is confirmed by a messenger from the Persian army, giving an account of the defeat at Salamis, and the shade of Darius, being invoked, denounces the mad folly of Xerxes, with whose lamentations, upon his disgraceful return, the play concludes.</p>
+
+    <castList>
+<head>PERSONS REPRESENTED.</head>
+<castItem><role>CHORUS OF AGED PERSIANS</role>.</castItem>
+<castItem><role>ATOSSA</role>, THE QUEEN-MOTHER.</castItem>
+<castItem><role>A MESSENGER</role>.</castItem>
+<castItem><role>THE GHOST OF DARIUS</role>.</castItem>
+<castItem><role>XERXES</role>.</castItem>
+    </castList>
+
+<sp>
+<speaker start-line="1" end-line="155">CHORUS</speaker>
+<p>These are the faithful band<ref n="67.1">1</ref> left by the Persians who have gone into the land of Hellas, and guardians of these opulent abodes abounding in gold, whom our prince Xerxes himself, a monarch descended from Darius, selected according to seniority, to have the superintendence of the realm. And now for some time my ill-boding soul within me has been in a state of exceeding agitation concerning the return of our monarch, and of the army in its rich array, for the whole native power of Asia hath gone, and [my mind] calls for its youthful hero<ref n="67.2">2</ref>.
+
+
+<note type="footnote" n="67.1">1 <quote xml:lang="grc">πιστά</quote> = <quote xml:lang="grc">οἱ πιστοὶ,</quote> see Blomfield, who shows that this was a customary epithet applied to the Satraps and other Persian dignitaries. Siebelis, <quote xml:lang="lat">Diatrib. in Aeschyli Persas,</quote> pp. 37, sqq. brings a great show of learning to prove that these were the Eunuchs, especially from their being consulted by Atossa, and moreover supposes both from the etymology of certain of the names, and the enumeration of those allies of the Persians only, who were chiefly infamous for their effeminacy, that a stream of irony runs throughout the whole of this chorus, admirably calculated to please an Atbenian audience. This is confirmed by Aeschylus having ventured to employ a parody of the commencement of Phrynichus' Phoenissae, which ran thus: <quote xml:lang="grc">τάδ' ἐστι Περσω̃ν τω̃ν πάλαι βεβηκότων</quote> (see Sieb. ibid, p. 39). The scene is laid at Susa, where the royal residence and treasury was. See <bibl>Herodot. V. 49</bibl>. Hence Susa is placed inter <quote xml:lang="lat">ornamenta regni</quote> by Curtius V. 1, 7.</note>
+
+<note type="footnote" n="67.2">2 I have, with Paley, followed the clear and satisfactory explanation which Linwood has confirmed in his Lexicon, s. v. <quote xml:lang="grc">βαυ̂ζειν.</quote> He well remarks that we cannot supply <quote xml:lang="grc">Ἀσία</quote> from <quote xml:lang="grc">Ἀσιατογενὴς,</quote> because the subject referred to is not really the same in both cases. Jelf, Gk. Gr. § 566, 3, says "<quote xml:lang="grc">βαυ̂ζει ἄνδρα,</quote> the shout was '<quote xml:lang="grc">ἀνήρ;</quote>'" comparing Eur. Hipp. 168, <quote xml:lang="grc">ἀυ̂τεον "Αρτεμιν.</quote> But the passages are not parallels. The force of <quote xml:lang="grc">βαυ̂ζει</quote> is well illustrated by Stanley.</note>
+<pb n="68"/>
+
+
+<milestone unit="linechunk" n="14—54"/>
+And neither does any messenger nor any horseman arrive at the city of the Persians, who, having quitted the city of Susa and of Ecbatana<ref n="68.1">1</ref>, and the antique Cissian fortress, set forth, some on steeds, some in ships, and the infantry in slow march, forming a dense file of war. Amistres<ref n="68.2">2</ref>, for instance, and Artaphrenes, and Megabayes, and Astaspes, leaders of the Persians, kings, subalterns of the great king, speed their way, inspectors of the great host, both those that conquer with the bow, and mounted upon steeds, fearful to look upon<ref n="68.3">3</ref>, and terrible in fight, through their stern determination of spirit. Artembaces too, rejoicing in his charger, and Masistres, and stout Imae us that slays with the bow, and Pharandaces and Sosthanes, driver of steeds. And others Nile, the mighty stream and nourisher of many, sent forth; Susiscanes, Pegastagon native of Egypt, and the lord of sacred Memphis mighty Arsames, and Ariomardus ruler of ancient Thebes, and the dwellers in the fens, skilful rowers of galleys, and in multitude beyond all numbering. There follows a crowd of Lydians, delicate in their habits of life, and they that hold every nation native on the continent<ref n="68.4">4</ref>, whom Mithragathes and valiant Arcteus, inspector-princes, and Sardis that teems with gold, send forth in many chariots, in ranks of double and treble yokes<ref n="68.5">5</ref>, a spectacle fearful to look upon. The borderers too on sacred Tmolus are bent on casting the yoke of servitude around Hellas, Mardon, Tharybis, [twin] anvils of the spear, and the Mysians who launch the javelin. Babylon too, that teems with gold, sends forth her mingled multitude in long array,
+
+
+
+
+<note type="footnote" n="68.1">1 Ecbatana was another royal residence. Cf. <bibl>Herodot. I. 98; Curtius, V. 8, 1</bibl>.</note>
+
+<note type="footnote" n="68.2">2 Siebelis (pp. 43, 4) will entertain the reader with some facetious etymologies of some of these Persian names. At all event, Aeschylus was not very particular about their orthography or prosody.</note>
+
+<note type="footnote" n="68.3">3 Blomfield observes from <cit><bibl>Herodot. Erato CXII.</bibl></cit> that this was no more than the truth.</note>
+
+<note type="footnote" n="68.4">4 This is Blomfield's interpretation, who supposes the Ionians to be designated by this circumlocution, but Dindorf approves the correction of Schutz, omitting <quote xml:lang="grc">του̃ς,</quote> and writing <quote xml:lang="grc">οἵ τ'.</quote></note>
+
+<note type="footnote" n="68.5">5 i. e. with four or six horses.</note>
+<pb n="69"/>
+<milestone unit="linechunk" n="54—97"/>
+both those who embark in ships, and are trust in their valor to draw the bow. And the scimitar-wielding populace from all Asia follows in their train, under the dread mandates of the king. Such a flower of men is gone from the Persian land; concerning whom the Asiatic soil which reared them is shrivelled with vehement anxiety: and parents and wives, as they count the day, shudder at the lengthening date.</p>
+<p>The royal armament that makes havoc of cities, hath some time since passed over to the adjoining opposite region, having crossed the frith of Helle daughter of Athamas<ref n="69.1">1</ref>, on a cable-fastened raft, after flinging a many-rivetted causeway by way of yoke over the neck of Ocean. And against every land does the impetuous lord of many-peopled Asia urge forward his godlike armament in two divisions, of infantry, and of forces drawn from the sea, trusting in his strong sturdy commanders, a man equal to the gods of the race that sprung from gold<ref n="69.2">2</ref>. And flashing from his eyes the dark-blue glare of the deadly serpent, appointed with many a warrior and many a mariner, and urging on his Syrian<ref n="69.3">3</ref> car, he is leading on a war victorious with the bow against men who are famous for the spear<ref n="69.4">4</ref>. And no one is of such approved prowess as that, having made stand against a mighty torrent of men, he can repulse, by mighty bulwarks, the irresistible billow of the sea. For terrible to approach is the army of Persians, and valiant of soul the host. But what mortal man shall elude the treacherous deceit of the deity? Who is he that with an agile foot, of easy spring<ref n="69.5">5</ref>, can bound over it? For fawning on him at first
+
+<note type="footnote" n="69.1">1 <cit><bibl>Hygin. Fab. III.</bibl></cit>: <quote xml:lang="lat">Phrixus et Helle, insania a Libero objecta, cum in sylvis errarent, nebula mater eo dicitur venisse, et arietem inauratum adduxisse Neptuni et Theophanes filium, eumque natos sues ascendere jussit, et Colchos ad regem Aetam Solis filium transire, ibique arietem Marti immolare. Quo cum ascendissent, et aries eos in pelagus detulisset, Helle de ariete decidit, ex quo Hellespontum pelagus est appellatum.</quote></note>
+
+<note type="footnote" n="69.2">2 Schol. a. prefers it. It alludes to the way in which Jove was feigned to have visited Danae, v. 86.</note>
+
+<note type="footnote" n="69.3">3 i. e. Assyrian. See Blomfield.</note>
+
+<note type="footnote" n="69.4">4 Great stress is constantly laid upon the superiority of the hand to hand contests of the Grecian weapons over the archery of the barbarians. See <bibl>Herodot. V. 49</bibl>, VII. 211, and Siebelis, p. 41.</note>
+
+<note type="footnote" n="69.5">5 Wellauer vainly attempts to defend <quote xml:lang="grc">ἀνάσσων.</quote> Although the enallage proposed by Blomfield is defensible, I still prefer regarding <quote xml:lang="grc">πηδήματος</quote> merely as the attributive genitive, with Linwood's Lex. p. 33, and Jelf's Gk. Gr. 521. Obs. 3.</note>
+<pb n="70"/>
+<milestone unit="linechunk" n="97—155"/>
+with kindly disposition it lures a man on within the densest toils, whence it is not possible for mortal to struggle out and make his escape. For destiny, fixed by heaven, prevailed in the olden time, and enjoined on the Persians to carry on wars that beat down towers, and the tumults of cavalry warfare, and demolitions of cities. They learned, too, to look upon the ocean fields of the wide-winding sea when it whitens with the violent blast, putting confidence in their slightly-constructed tackling, and the machines in which hosts are wafted [across the deep]. By reason of these things my soul, wrapt in gloom, is torn by terror, alas! for this army of the Persians! lest the state should learn that the mighty city of the Susian district is drained of its warriors, and the fortress of the Cissians; (the crowded assemblage of women uttering<ref n="70.1">1</ref> this word, alas! will re-echo the strain,) and rending shall fall upon the finely-woven vestments. For all the host that drive the steed, and that tramp along the plain, hath gone off like a swarm of bees, along with the leader of the army, having crossed the ocean promontory common to both continents<ref n="70.2">2</ref>, united to either side. And through regret for their lords, the couches are filled with tears: and the matrons of Persia in excessive grief, each one of them in tenderness for her lord, having sent off her fierce warrior consort, is left behind in solitude. But come, Persians, let us seat ourselves beneath in this ancient dwelling, and take wary and well-pondered care,-for the necessity has arrived-how haply fares our king Xerxes, offspring of Darius, being of the same ancestral race with us<ref n="70.3">3</ref>. Is it the drawing of the bow that prevails, or hath the might of the barbed spear got the mastery? But here comes forth a light like to the eyes of gods, the mother of our sovereign, and my queen, I do lowly homage. And fitting it is that we all address her with, words of salutation.
+<stage>Enter Atossa.</stage>O queen, supreme of Persia's deep-waisted matrons, aged mother of Xerxes, hail to thee! spouse to Darius, consort of the Persians' god, and mother of a god thou art, unless in some respect our ancient fortune hath forsaken our host.</p>
+</sp>
+
+<note type="footnote" n="70.1">1 Jelf, Gk. Gr. § 583, 23.</note>
+
+<note type="footnote" n="70.2">2 Blomfield rightly understands this of the bridge across the Hellespont, which, in respect to either side, formed a kind of promontory.</note>
+
+<note type="footnote" n="70.3">3 I have followed Dindorf in retaining the old reading. Dindorf compares the forms <quote xml:lang="grc">ἐπωνύμιος</quote> and <quote xml:lang="grc">παρωνύμιος,</quote> to which Paley adds <quote xml:lang="grc">ὕστάτιος.</quote> This origin was from Perses.</note>
+<pb n="71"/>
+<milestone unit="linechunk" n="156-190"/>
+<sp>
+<speaker start-line="156" end-line="172">ATOSSA</speaker>
+<p>For this reason, in truth, am I come, having left my gold-garnished mansion, the common bridal-dwelling both of Darius and of myself. And anxiety is tearing me at heart: and I will make a disclosure to you, my friends, being of myself by no means free from apprehension, lest mighty wealth, having made great speed, should, with his foot, overturn the wealth which Darius reared, not without the aid of some god. These things are to my soul a two-fold unutterable care, not to honor with reverence a multitude of riches unprotected by men, and that the light shines not on those who are destitute of wealth, however great the strength which they may possess. For our wealth at all events is beyond the reach of censure, but touching our eye<ref n="71.1">1</ref> is my terrors. For I deem the presence of the master the eye of an household. Whereupon, since these things stand thus, lend me your counsel in this matter, ye aged trusty servants of the Persians. For all my good measures depend on you.</p>
+</sp>
+
+<sp>
+<speaker start-line="173" end-line="175">CHORUS</speaker>
+<p>Be well assured of this, O queen of this land, that thou needest not to speak twice of either word or deed, to which our ability can lead the way to completion. For thou summonest us who are well-affected to thee, as in these matters.</p>
+</sp>
+<sp>
+<speaker start-line="176" end-line="214">ATOSSA</speaker>
+<p>I have been continually haunted by many dreams in the night, ever since my son, having fitted forth his armament, went to the land of the Ionians, purposing to lay it waste. But I never yet saw any so plain, as on the night just passed, -and I will tell it thee. There seemed to appear before two women<ref n="71.2">2</ref> in fair attire-the one robed in Persian vestments, but the other in Doric, both in statue by far the most comely of those who live now-a-days, and in beauty beyond rebuke, and sisters of the same family. And as to country-they inhabited, the one, having had it assigned to her by lot, the land of Hellas,-the other the barbarian<ref n="71.3">3</ref>; these two, as 1 fancied I saw, had a feud the one with the other: and my son, when he heard it, was checking and soothing them, and
+
+
+<note type="footnote" n="71.1">1 i. e. Xerxes, as Blomfield, Linwood, and Paley rightly understand.</note>
+
+<note type="footnote" n="71.2">2 This description of Atossa's dream has been imitated by Moschus in a similar vision seen by Europa, II. 8.</note>
+
+<note type="footnote" n="71.3">3 This phrase, as Pauw remarks, was more proper in Aeschylus than Atossa.</note>
+<pb n="72"/>
+<milestone unit="linechunk" n="190-221"/>
+he yokes them beneath his car, and places a collar on their necks. And the one towered loftily in these trappings, and had a tractable mouth in the reins: but the other kept plunging, and tears in pieces with her hands the harness of the car, and whirls it violently along without the bit, and snaps the yoke in the middle: and my son falls, and his sire Darius stands beside him, commiserating him; and when Xerxes sees him, he rends his robes about his person. These things, indeed, I say that I beheld last night. But when I had arisen, and had touched with my hands a fair-streaming fountain<ref n="72.1">1</ref>, I stood by the altar, wishing to offer a sacrificial cake to the divinities that avert evil, to whom these rites belong. And I behold an eagle fleeing to the altar of Phoebus; and from terror I stood speechless, my friends, and afterwards I see a falcon speeding onward in his course with his pinions, and tearing his head with his talons. And the eagle did nought but cower down and yield his body. These sights are terrible for me to behold, and for you to hear. For be ye well assured, my son, were he successful, would be a man worthy of admiration, and though he fail, he is not liable to be called to account by the state; but if he escape, will equally be sovereign of this realm<ref n="72.2">2</ref>.</p>
+</sp>
+<sp>
+<speaker start-line="215" end-line="225">CHORUS</speaker>
+<p>We wish not, O mother, either to terrify too much by our words, or to cheer thee; but do thou, if thou hast seen aught disastrous, approach the gods with supplications, and implore of them to grant it may be averted, but that what is favourable may be accomplished for thyself, and for thy children, and for the city, and for all thy friends. And in the second place it is proper that thou pour libations both to the earth and to the departed. And gently make thy prayer that thy husband Darius, whom thou sayest thou didst see by night, would send good things for thee and for thy
+
+
+<note type="footnote" n="72.1">1 This was the custom after an ill-omened dream. Washing, either of the hands or the whole body, was the first act on rising, which was followed, by the offering of a salted cake, wine, and incense. Cf. <bibl>Tibull. I. 5, 9—III. 4, 9</bibl>; <bibl>Apul. Met. XI. p. 257, ed. Elm.</bibl>; <bibl>Plautus Amph. II. 2; Mil. Glor. II. 4</bibl>; <bibl>Martial, XI. 50</bibl>; <bibl>Sueton. Galba, § XVIII.</bibl>; <bibl>Silius Ital. Pun. VIII. 122, sqq.</bibl>; <bibl>Valer. Flacc. V. 330, sqq.</bibl> See also an exquisite burlesque of the custom in <cit><bibl>Aristoph. Ran. 1338</bibl></cit>, sqq.</note>
+
+<note type="footnote" n="72.2">2 I cannot relish this passage as it stands, and think some lines have been lost.</note>
+<pb n="73"/>
+<milestone unit="linechunk" n="222—243"/>
+child, into the light of day from beneath the earth: and that what is contrary to these, being detained beneath the earth, may fade away in gloom. This advice have I given thee with kindly intent, auguring by my mind's judgment. And, touching these things, we judge that in all things there will come to thee a favourable issue.</p>
+</sp>
+
+<sp>
+<speaker start-line="226" end-line="231">ATOSSA</speaker>
+<p>Well certainly thou the first interpreter of these dreams of mine, with friendly disposition at least, towards my son and house, hast given confirmation to this. And may what is good in very deed come to pass. And all these things, as thou enjoinest, I will perform to the gods, and to those dear to me beneath the earth, after I shall have gone into the palace; but on those points, my friends, I wish to be thoroughly informed, in what part of the earth they say Athens is situated<ref n="73.1">1</ref>?</p>
+</sp>
+<sp>
+<speaker start-line="232" end-line="232">CHORUS</speaker>
+<p>Far hence, towards the west, where are the wanings of the sovereign sun.</p>
+</sp>
+<sp>
+<speaker start-line="233" end-line="233">ATOSSA</speaker>
+<p>What! had my son then a desire to make this city his prey?</p>
+</sp>
+<sp>
+<speaker start-line="234" end-line="234">CHORUS</speaker>
+<p>Yes, for so all Hellas would be in subjection to the king.</p>
+</sp>
+<sp>
+<speaker start-line="235" end-line="235">ATOSSA</speaker>
+<p>Does so numerous a force belong to them?</p>
+</sp>
+<sp>
+<speaker start-line="236" end-line="236">CHORUS</speaker>
+<p>Aye, and such an army as in good truth wrought the Medes much mischief.</p>
+</sp>
+<sp>
+<speaker start-line="237" end-line="237">ATOSSA</speaker>
+<p>And what beside these things have they? Is there sufficient wealth in their dwellings?</p>
+</sp>
+<sp>
+<speaker start-line="238" end-line="238">CHORUS</speaker>
+<p>They have a fountain of silver, a treasure of their soil.</p>
+</sp>
+<sp>
+<speaker start-line="239" end-line="239">ATOSSA</speaker>
+<p>Does the bow-stretching shaft display itself in their hands?</p>
+</sp>
+<sp>
+<speaker start-line="240" end-line="240">CHORUS</speaker>
+<p>Not at all. They have spears for close fighting, and shield-guarded panoply.</p>
+</sp>
+<sp>
+<speaker start-line="241" end-line="241">ATOSSA</speaker>
+<p>And who is over them as their leader, and has the command of their army?</p>
+</sp>
+<sp>
+<speaker start-line="242" end-line="242">CHORUS</speaker>
+<p>They are not called the slaves nor even the subjects of any man.</p>
+</sp>
+<sp>
+<speaker start-line="243" end-line="243">ATOSSA</speaker>
+<p>How then should they abide invading foemen?</p>
+</sp>
+
+<note type="footnote" n="73.1">1 Nothing but the fact that this play (like the Heraclidae and Supplices of Euripides) was written as a pleasing compliment to Athenian vanity, can excuse the absurdity of these interrogations. In this case Aeschylus could certainly not plead that he wrote for the information of the audience! Siebelis, however, (p. 55, sq.) has not only found an excuse for this, but a reason also.</note>
+<pb n="74"/>
+<milestone unit="linechunk" n="244-279"/>
+<sp>
+<speaker start-line="244" end-line="244">CHORUS</speaker>
+<p>So [well do they], that they destroyed a large and goodly army of Darius.</p>
+</sp>
+<sp>
+<speaker start-line="245" end-line="245">ATOSSA</speaker>
+<p>Truly thou tellest of what is dreadful for the parents of those who are gone to think upon.</p>
+</sp>
+<sp>
+<speaker start-line="246" end-line="248">CHORUS</speaker>
+<p>But, as it seems to me, thou shalt soon know the whole truth; for the running of this man we may plainly perceive to be that of a Persian; and he is bringing some clear tidings of good or ill for us to hear.</p>
+</sp>
+<stage>Enter a MESSENGER.</stage>
+<sp>
+<speaker start-line="249" end-line="255">MESSENGER</speaker>
+<p>O ye cities of the whole land of Asia! O realm of Persia, and mighty haven of opulence, how hath the ample weal been demolished by a single stroke, and the flower of the Persians is fallen and gone. Woe's me, 'tis an ill office to be the first messenger of ill, but yet it is necessary to unfold the whole of the disaster of the Persians, for all the army of the barbarians hath perished.</p>
+</sp>
+<sp>
+<speaker start-line="256" end-line="258">CHORUS</speaker>
+<p>Dismal, dismal, strange evils, and adverse,-alas. Drench yourselves in tears, ye Persians, hearing of this sorrow.</p>
+</sp>
+<sp>
+<speaker start-line="260" end-line="261">MESSENGER</speaker>
+<p>How has all that armament gone to ruin! But I myself, beyond my hope, behold the day of my return.</p>
+</sp>
+<sp>
+<speaker start-line="262" end-line="265">CHORUS</speaker>
+<p>Verily this life of ours appears too long protracted to us aged men, that we should hear of this unlooked-for calamity.</p>
+</sp>
+<sp>
+<speaker start-line="266" end-line="267">MESSENGER</speaker>
+<p>And in very deed I, being on the spot, and not having heard reports from others<ref n="74.1">1</ref>, can tell how great ills have been dealt out to the Persians.</p>
+</sp>
+<sp>
+<speaker start-line="268" end-line="271">CHORUS</speaker>
+<p>Woe! woe! in vain did the multitude of shafts of every kind go from the land of Asia, against a hostile land, the realm of Hellas.</p>
+</sp>
+<sp>
+<speaker start-line="272" end-line="273">MESSENGER</speaker>
+<p>The shores of Salamis, and all the adjoining region, are full of the corpses of those who miserably perished.</p>
+</sp>
+<sp>
+<speaker start-line="274" end-line="277">CHORUS</speaker>
+<p>Woe! woe! thou tellest us that the dead bodies of our friends, tossed on the billow, oft immersed, are borne along on the twice-changing surface of the tide<ref n="74.2">2</ref>.</p>
+</sp>
+<sp>
+<speaker start-line="278" end-line="279">MESSENGER</speaker>
+<p>Yes, for our bows availed us nought, and our whole host perished, beaten down by the collision of the beaks of the vessels.</p>
+</sp>
+
+<sp>
+<speaker start-line="280" end-line="283">CHORUS</speaker>
+<p>Shriek forth a doleful outcry, full of woe to the
+
+
+<note type="footnote" n="74.1">1 Cf. Soph. <quote xml:lang="grc">Œd.</quote> C. 6.</note>
+
+<note type="footnote" n="74.2">2 This is Blomfield's interpretation. See others in Paley's note.</note>
+<pb n="75"/>
+<milestone unit="linechunk" n="280—318"/>
+wretched Persians; for ill did they succeed in all things, alas! when their host was destroyed.</p>
+</sp>
+
+<sp>
+<speaker start-line="284" end-line="285">MESSENGER</speaker>
+<p>O name of Salamis, most hateful to our ears. Alas! how I sigh when I remember Athens.</p>
+</sp>
+<sp>
+<speaker start-line="286" end-line="289">CHORUS</speaker>
+<p>Hateful is Athens to us miserable: we have to remember, in sooth, how many of the Persian matrons it has made widows and bereft of their husbands to no gain<ref n="75.1">1</ref> of ours!</p>
+</sp>
+<sp>
+<speaker start-line="290" end-line="298">ATOSSA</speaker>
+<p>I, wretched, have for a long time kept silence, utterly astounded by the evils: for this calamity is too great for me to speak, or to enquire about our sufferings. Nevertheless, it is necessary for mortals to endure afflictions, when the gods award them : and do thou compose thyself and tell us, unfolding the whole of our suffering, even though thou sigh est over the evils: who is there that hath not fallen? and whom of the leaders of the host shall we bewail, who, having been appointed to a sceptred office, by his death left his file desolate without their chief?</p>
+</sp>
+<sp>
+<speaker start-line="299" end-line="299">MESSENGER</speaker>
+<p>Xerxes himself lives, and beholds the light.</p>
+</sp>
+<sp>
+<speaker start-line="300" end-line="301">ATOSSA</speaker>
+<p>Thou tellest me of a great light to my house, and a bright-dawning day after a night wrapped in gloom.</p>
+</sp>
+<sp>
+<speaker start-line="302" end-line="318">MESSENGER</speaker>
+<p>But Artembares, leader of a myriad of horse, is dashed against the rugged shores of Sileniae<ref n="75.2">2</ref>. And Dadaces the chiliarch, beneath the stroke of the spear, bounded a light leap out of his vessel. Tenagon too, the true-born chieftain<ref n="75.3">3</ref> of the Bactrians, haunts the sea-beat isle of Ajax. Lilaeus, and Arsames, and Argestes third, overcome, keep butting against the hard shore around the dove-breeding isle. Arcteus, too, that dwelt near the sources of Egyptian Nile, Adeues, and Pheres-seues the third, Pharnuchus, these fell from one vessel. Matallus of Chrysa, commander of a myriad, leader of a body of thirty thousand black cavalry, in his death, tinged his bright auburn. bushy, thick, shadowy beard, changing its colour with a stain of purple<ref n="75.4">4</ref>. And Arabus the Mage, and Artames the Bactrian,
+
+
+<note type="footnote" n="75.1">1 Because the victory was lost. See Schutz.</note>
+
+<note type="footnote" n="75.2">2 The <quote xml:lang="grc">ἄκρα τρόπαια</quote> of Salamis. See the scholiast.</note>
+
+<note type="footnote" n="75.3">3 I follow, with Dindorf, Blomfield's elegant emendation, <quote xml:lang="grc">ἀριστεὺς</quote> for <quote xml:lang="grc">ἄριστος.</quote></note>
+
+<note type="footnote" n="75.4">4 This was at all events more glorious than the transformation of Tittlebat Titmouse's hair by the Tetaragmenon Abracadabra. See "<quote xml:lang="eng">Ten Thousand a Year.</quote>"</note>
+
+
+<pb n="76"/>
+<milestone unit="linechunk" n="319—353"/>
+a settler on the rugged land, perished there. Amestris, and Amphistreus who wielded a spear that did great execution, and brave Ariomardus<ref n="76.1">1</ref> occasioning grief to Sardis, and Sesames, the Mysian; Tharybis, too, commander of five times fifty ships, of Lyrnaean race, a hero of fair form, lies wretched, having died by no means happily. And Syennesis, foremost in gallantry, governor of the Cilicians, that with his single arm occasioned much trouble to the foe, fell gloriously. Of such of our leaders have I now made mention; and I report a few of the many evils that have befallen us.</p>
+</sp>
+
+<sp>
+<speaker start-line="331" end-line="336">ATOSSA</speaker>
+<p>Alas! Alas! I hear these supreme of horrors, both a disgrace to the Persians, and a subject for shrill shriekings. But turn back again and tell me this, how great was the number of the ships of the Greeks, that they ventured to join battle with the Persian armament in the encounter of vessels?</p>
+</sp>
+<sp>
+<speaker start-line="319" end-line="330">MESSENGER</speaker>
+<p>So far as numbers are concerned, be well assured that the barbarians had the advantage with their ships: for the whole number of those of the Greeks amounted to ten squadrons of thirty, and beside these there were ten of surpassing excellence<ref n="76.2">2</ref>. But Xerxes, for I know this also, had a thousand, the number of those which he led: and those which exceeded in swiftness were two hundred and seven: thus runs report. Do we seem to you to have been inferior in fight in this respect<ref n="76.3">3</ref>? But 'twas some divinity that thus depressed the balance with a counterpoise of fortune.</p>
+</sp>
+<sp>
+<speaker start-line="347" end-line="347">ATOSSA</speaker>
+<p>The gods preserve the city of the goddess Pallas<ref n="76.4">4</ref>.</p>
+</sp>
+<sp>
+<speaker start-line="337" end-line="346">MESSENGER</speaker>
+<p>The city indeed of Athens is still not laid waste, for while there are men there is a sure bulwark.</p>
+</sp>
+<sp>
+<speaker start-line="350" end-line="352">ATOSSA</speaker>
+<p>And what was the commencement of the encounter of the ships? Tell us; who began the fight, was it the Greeks, or my son, elated by, the multitude of his ships?</p>
+</sp>
+<sp>
+<speaker start-line="348" end-line="349">MESSENGER</speaker>
+<p>It was some fiend, lady, or evil spirit appearing from
+
+
+<note type="footnote" n="76.1">1 The reader must consult the commentators, as many of these names are corrupt, and violate the metre.</note>
+
+<note type="footnote" n="76.2">2 See Blomfield.</note>
+
+<note type="footnote" n="76.3">3 <quote xml:lang="grc">Τῇδε</quote> <quote xml:lang="lat">non debet cum</quote> <quote xml:lang="grc">μάχῃ</quote> <quote xml:lang="lat">conjungo, sed seorsim sumptum verti, hac ex parte, i. e. quod ad numerum adtinet.</quote> Heath.</note>
+
+<note type="footnote" n="76.4">4 So Dindorf. But different arrangements of these lines have beeu proposed. The best is Paley's, who reads <quote xml:lang="grc">ἔτ' ἀρ' 'Αθηνω̃ν κτλ.</quote> with Robertclli, and assigns it to Atossa, giving the next line to the Messenger. At present, they fully justify the sarcasms of Pauw.</note>
+<pb n="77"/>
+<milestone unit="linechunk" n="354—398"/>
+some quarter or other that began all the mischief. For a Greek that had come from the host of the Athenians<ref n="77.1">1</ref>, told thy son Xerxes this, that, when the gloom of murky night should come, the Greeks would not remain, but, springing on the benches of their vessels, would severally, in different directions, save their lives by stealthy flight. And he, as soon as he heard it, not aware of the stratagem of the Greek, nor ol the jealousy of the gods, publishes this order to all his captains, that when the sun should have ceased to illumine the earth with his rays, and darkness tenant the temple of the firmament, they should draw up the squadron of the ships in three lines, to guard the outlets, and the murmuring passes of the sea, and others in a circle around the isle of Ajax; so that if the Greeks should elude fatal destruction, by discovering any escape for their ships by stealth, it was decreed, that they all should be deprived of their heads. To this effect he spake from a frantic spirit; for he knew not that which was preordained of the gods. And they, without disorder, and with obedient mind, both provided supper for themselves, and the mariner lashed his oar to the well-fitted rowlock. And when the light of the sun had waned, and night had come on, every man, master of an oar, went on board his ship, and every one that had sway over arms; and one line of ships of war cheered on another line, and they make sail as each had been appointed, and all the live-long night the commanders of the ships were keeping the whole naval host occupied in sailing about. And night withdrew, and the force of the Greeks by no means made a stealthy escape in any direction. But when Day, drawn by white steeds, had occupied the whole earth, of radiance beautiful to behold, first of all a shout from the Greeks greeted Echo like a song, and Echo from the island-rock at the same instant shouted forth an inspiring cry: and terror fell on all the barbarians, baulked of their purpose; for not as in flight were the Greeks then chaunting the solemn paean, but speeding on to the fight with gallant daring of soul. And the trumpet, with its clang, inflamed their whole line; and forthwith, with the collision of the dashing oar, at the word of command they smote the roaring brine. And quickly
+
+<note type="footnote" n="77.1">1 Sicinus. Cf. Herodot. VIII. 7G, and see <bibl>Justin, II. 12</bibl>.</note>
+<pb n="78"/>
+<milestone unit="linechunk" n="399—438"/>
+were they conspicuous to view. The right wing, well marshalled, led on foremost in good order, and secondly, their whole force was coming forth against us. and we could at the same time hear a mighty shout: SONS OF THE GREEKS! ON! FREE YOUR COUNTRY, AND FREE YOUR CHILDREN, YOUR WIVES, THE ABODES TOO OF THE GODS OF YOUR FATHERS, AND THE TOMBS OF YOUR ANCESTORS; NOW IS THE CONFLICT FOR THEM ALL! And sooth to say, a murmur of the Persian tongue met them from our line, and no longer was it the moment to delay, but forthwith ship dashed her brazen prow at ship. And a Grecian vessel commenced the engagement, and breaks off the whole of the figure-head of a Phoenician ship: and each commander severally directed his bark against another of the enemy's. At first, indeed, the torrent of the Persian armament bore up against them: but when the multitude of our ships were crowded in the strait, and no assistance could be given to one another, but they were struck by their own brazen beaks, and were smashing their entire equipment of oars, and the Grecian vessels, not without science, were smiting them in a circle on all sides, and the hulls of our vessels were upturned, and the sea was no longer to behold, filled as it was with wrecks and the slaughter of men. The shores, too, and the rugged rocks were filled with the dead; and every ship, as many as ever there were of the barbaric armament, was rowed in flight without order. But the Greeks kept striking, hacking us as it were tunnies, or any draught of fishes, with fragments of oars, and splinters of wrecks; and wailing filled the ocean brine with shrieks, until the eye of murky night removed it. But for the multitude of our woes,-no, not if I should recite them in order for ten days, could I complete the tale for thee. For be thou well assured of this, that there never fell in a single day a multitude of men of such number.</p>
+</sp>
+
+<sp>
+<speaker start-line="433" end-line="434">ATOSSA</speaker>
+<p>Alas! alas! a mighty ocean of ills has, in truth, burst upon both the Persians and the entire race of the barbarians.</p>
+</sp>
+<sp>
+<speaker start-line="435" end-line="437">MESSENGER</speaker>
+<p>Be now well assured of this, that the evil hath not yet reached its half. Such a visitation of ills hath come upon them, as to overbalance these even twice over.</p>
+</sp>
+<sp>
+<speaker start-line="438" end-line="440">ATOSSA</speaker>
+<p>And what event can have befallen that is yet more
+
+
+<pb n="79"/>
+<milestone unit="linechunk" n="439—473"/>
+hateful than this? Say what misfortune this is, which, thou sayest, hath farther come upon the host, verging to greater horrors.</p>
+</sp>
+
+<sp>
+<speaker start-line="441" end-line="444">MESSENGER</speaker>
+<p>As many of the Persians as were in the very bloom of life, most valiant in their spirit, and distinguished by their high birth, and were ever foremost in faithfulness to our monarch himself, have fallen foully by a most inglorious doom.</p>
+</sp>
+<sp>
+<speaker start-line="445" end-line="445">ATOSSA</speaker>
+<p>Alas! the wretch that I am, my friends, by this evil hap. And by what kind of doom sayest thou that these of whom thou speakest perished?</p>
+</sp>
+<sp>
+<speaker start-line="447" end-line="471">MESSENGER</speaker>
+<p>There is a certain island lying off the shores of Salamis, small, a dangerous station for ships, which Pan, who delights in the dance, haunts on its beach. Thither [Xerxes] sends these men, in order that, when the foeman wandering out of their ships should make their escape to the island, they might slay the soldiery of the Greeks, an easy prey, and rescue their comrades from the streams of the sea, ill knowing of the future; for when God gave the glory of the naval battle to the Greeks, on that very day having fortified their bodies in their armour well-wrought of brass, they leaped out of their vessels, and encompassed the whole island around, so that they were at a loss whither they should betake themselves; for often were they smitten by stones from their hands, and arrows falling on them from the bowstring destroyed them. And at last, having charged them with one onslaught, they smite, they how in pieces the limbs of the wretches, until they had utterly destroyed the life of all of them. And Xerxes shrieked aloud, when he saw the depth of his calamities; for he had a seat that afforded a clear prospect<ref n="79.1">1</ref> of the whole armament, a high hill near the ocean brine; and having rent his clothes, and uttered a shrill wail, after issuing orders quickly to the land forces, he dismisses them in disorderly flight. Such a misfortune is it thine to wail over, in addition to the aforementioned.</p>
+</sp>
+<sp>
+<speaker start-line="446" end-line="446">ATOSSA</speaker>
+<p>O hateful demon! How hast thou then deluded the Persians in their hopes. But bitter did my son find the
+
+
+<note type="footnote" n="79.1">1 Hemsterhuis is probably right in reading <quote xml:lang="grc">εὐαυγὴς,</quote> which Hesychius, us quoted by Stanley, confirms: <quote xml:lang="grc">εὐαγές-ἔυοπτον.</quote> Paley thinks that <quote xml:lang="grc">αὐγὴ</quote> is only <quote xml:lang="grc">ἀργὴ,</quote> and that the common reading may therefore be defended.</note>
+<pb n="80"/>
+<milestone unit="linechunk" n="474—508"/>
+vengeance of renowned Athens, and those of the barbarians, whom Marathon formerly destroyed, sufficed not, for whom my son, thinking to exact atonement, drew<ref n="80.1">1</ref> upon himself so great a multitude of sufferings. But say thou-those of the ships which esaped destruction—where didst thou leave them? knowest thou so as to tell clearly?</p>
+</sp>
+
+<sp>
+<speaker start-line="480" end-line="514">MESSENGER</speaker>
+<p>The commanders of the ships, indeed, which were left, tumultuously take to flight before the wind, not in good order. But the residue of the forces perished both in the land of the Boeotians—some around the fountain spring suffering from thirst, and some<ref n="80.2">2</ref> of us exhausted by panting, pass on thence into the territory of the Phocians, and the land of Doris, and the Melian bay, where Spercheius waters the plain with kindly stream; and thence the soil of the Achaian land, and the city of the Thessalians received us, straitened for want of food: here, indeed, a great many perished both from thirst and hunger; for both these evils befel us. We came also into the land of Magnesia, and the country of the Macedonians, to the ford of the Axius, and the fenny reed of Bolbe, and to mount Pangaeus, Edonian land. And in this night God called up winter out of his season<ref n="80.3">3</ref>, and congeals the whole stream of the sacred Strymon. And one that had aforetime believed not in the gods, then made prayer in orisons, doing reverence to earth and heaven<ref n="80.4">4</ref>. And after that the host had ceased from offering their many invocations, it makes its passage across the ice-bound stream. And whosoever of us had sped our way before the rays of the god had been shed abroad, bath escaped; for the bright orb of the sun blazing with his beams, penetrated through the middle of the stream, warming it with its blaze. They fell, too, one upon another; and happy, in sooth, was any that most speedily broke off the breath of life. And as many as survived and attained to safety, having with
+
+
+<note type="footnote" n="80.1">1 See some capital illustrations in Boyes, p. 14.</note>
+
+<note type="footnote" n="80.2">2 On the apodosis of the particles in these lines, see Dindorf.</note>
+
+<note type="footnote" n="80.3">3 The battle of Salamis was fought on the 20th of October, 480, B.C.</note>
+
+<note type="footnote" n="80.4">4 Boyes appositely quotes Webster's Westward Ho, act iv. sc. 1, "<quote xml:lang="eng">I think I shall pray more, what for fear of the water, and my good success, than I did this twelvemonth.</quote>" And Hudibras, Part III. c 2, line 537: <quote xml:lang="eng">Carnal seamen, in a storm, Turn pious converts, and reform.</quote></note>
+<pb n="81"/>
+<milestone unit="linechunk" n="509—549"/>
+difficulty made their way through Thrace with much toil<ref n="81.1">1</ref>, having made their escape, have reached, in no great numbers, the land of their homes; so that the city of the Persians may well sigh, regretting the dearest youth of our country. These tidings are true: but I omit to tell you of many of the horrors which the god bath hurled down upon the Persians.</p>
+</sp>
+
+<sp>
+<speaker start-line="515" end-line="516">CHORUS</speaker>
+<p>O daemon, hard to struggle with, how exceedingly heavy hast thou with thy feet leaped on the entire Persian race!</p>
+</sp>
+<sp>
+<speaker start-line="517" end-line="531">ATOSSA</speaker>
+<p>Alas! wretched that I am for our undone host! O manifest phantom of my visions of the night, how too truly didst thou discover the horrors to me. And very sorrily did ye interpret these things. But notwithstanding, since your speech sanctions this, I would fain first of all make my prayers to the gods; then will I come, after fetching from my dwelling<ref n="81.2">2</ref> a sacrificial cake, offerings both for earth and for the departed: over things past [recal] I well know, but it may be that something more auspicious will befal hereafter. But it behoves you to communicate faithful counsels with the faithful, touching what has taken place; and for my son, if he come hither before me, soothe ye him, and escort him into his dwelling, lest even a further ill be added over and above to our present ills<ref n="81.3">3</ref>.</p>
+</sp>
+<stage>Exit Atossa.</stage>
+<sp>
+<speaker start-line="532" end-line="549">CHORUS</speaker>
+<p>O sovereign Jove! now hast thou destroyed the armament of the high-vaunting and numerous Persians; and thou hast veiled in gloomy grief the city of Susa and of Ecbatana: and many virgins, rending their veils with their delicate hands, sharing in the sorrow, drench their bosoms with dense floods of tears. Our Persian matrons too, in excess of mourning, longing for the sight of the recent wedlock of their husbands, and having abandoned their couches<ref n="81.4">4</ref> covered with elegant tapestry, the delight of their delicate youth, they sorrow with most insatiate sighs. And I, for my part, heartily take [for my theme] the melancholy fate of the departed.</p>
+<p>Now, in truth, the whole of the land of Asia made desolate
+    <pb/>
+
+
+
+
+
+
+<note type="footnote" n="81.1">1 Porson thinks that this inharmonious verse was intended to espress the toilsome march of the shattered remnant of the army.</note>
+
+<note type="footnote" n="81.2">2 Cf. Agam. 96, <quote xml:lang="grc">πελάνω̩ μυχόθεν βασιλείω̩.</quote></note>
+
+<note type="footnote" n="81.3">3 i. e. lest Xerxes commit suicide. So say the commentators. But may it not mean, lest disrespect be added to his present sufferings?</note>
+
+<note type="footnote" n="81.4">4 This is only a periphrase for <quote xml:lang="grc">λέκτρα.</quote> See Linwood.</note>
+<pb n="82"/>
+<milestone unit="linechunk" n="550—604"/>
+
+ moans. For Xerxes led forth, O gods! and Xerxes lost, well-a-day! Xerxes managed all things haplessly in his ocean-barks. Oh! why was not Darius at that time in command, so safe a master of the bow to the citizens, beloved sovereign of Susa? The ships, all winged alike and with dark-stained beaks, carried forth both our land forces and our marines, O gods! and ships destroyed them, ah! well-a-day! the ships with the deadly onslaughts of their beaks, and through the hands of the Ionians, as we hear, the king barely made his escape to the champagne and chilly tracts of Thrace. They therefore, indeed, first met their doom, alas! left by necessity, ah! around the shores of Cychreia<ref n="82.1">1</ref>, woe's me! they have been drenched by the billows<ref n="82.2">2</ref>. Moan, and gnash the teeth, and raise aloud the cry of sorrow; laments that shall reach the heavens, woe's me! and lengthen out the dismally-sounding shout, the piteous cry. And torn dreadfully by the sea, alas! they are lacerated by the dumb children, alas! of the unpolluted [deep,] woe's me! And the dwelling mourns its lord, bereft of him, and parents that are left childless, woe's me! advanced in age, wailing the calamities sent on them by the divinities, now hear the whole of their sorrow. And they in sooth throughout the land of Asia, no longer own the Persian sway, nor any longer pay their tribute under constraint imposed by their sovereign, nor prostrating themselves on the ground will they hold themselves in subjection: for the might of our monarch hath utterly perished. And no longer is the tongue of mortals held in check: for the people have been set at liberty to speak their mind freely, since the yoke of strength hath been loosened. And the sea-washed isle of Ajax, with its soil stained with gore, holds the [bodies] of the Persians.</p></sp>
+<stage>Re-enter Atossa.</stage>
+<sp>
+<speaker start-line="598" end-line="622">ATOSSA</speaker>
+<p>My friends, whosoever is experienced in evils knows that when a sea-surge of troubles comes upon mortals, they are wont to dread all things: but when fortune glides smoothly, to feel confident that the same divinity will constantly propel their fortunes with a favourable breeze. For to me now all things are full of terror, and before my eyes appear the adverse dispensations
+
+
+<note type="footnote" n="82.1">1 A name for Salamis.</note>
+
+<note type="footnote" n="82.2">2 <quote xml:lang="grc">ἔρρανται</quote> has been rightly placed here by Hermann, instead of in v. 580.</note>
+    <pb n="83"/>
+
+    of the gods; and there is ringing in my ears a strain not soothing; such an amazement in consequence of these horrors scares my soul. Wherefore I have come this way from my house a second time, without either car or my former pomp, bringing propitiatory drink-offerings for the sire of my child, things which are soothing charms to the dead; both, white milk, sweet for drink, from a holy cow, and the distillation of the flower-craftsman, transparent honey, along with limpid drops of a virgin fountain<ref n="83.1">1</ref>, and this pure liquid from its wild mother, the glory of an ancient vine; and the fragrant fruit of the pale-green olive, that ever flourishes as to life in its leaves, is at hand, and wreathed flowers, children of the all-teeming earth. But, my friends, chaunt ye lays in accordance with these libations of the dead, and call up the divine Darius, and I will convey to the gods below these honours that are to be drank by earth.</p>
+</sp>
+
+<sp>
+<speaker start-line="623" end-line="649">CHORUS</speaker>
+<p>Royal dame, venerable majesty of the Persians, do thou convey libations to the chambers beneath the earth, and we, in our lays, will implore the conductors of the dead beneath the earth to be propitious. Come, O ye holy divinities below the earth, both Earth and Mercury, and thou. monarch of the dead, send from beneath the spirit into the light of day; for if he knows any remedy<ref n="83.2">2</ref> of our ills, he alone could tell the termination more than mortals<ref n="83.3">3</ref>. Does then the godlike monarch, of blessed memory, hear me as I utter the all-varied barbaric clear plaintive dismal cries? A loud outcry will I make over our utterly wretched sorrows. Does he then hear me from beneath the earth? But do thou, O Earth, and ye other rulers of the infernal regions, suffer the illustrious divinity, the god of the Persians, born in Susa, to pass from your dwellings, and send him into upper air, such an one as never heretofore Persian mould covered. Aye, dear was the man, and dear is his sepulchre, for dear was the character that it entombs.
+
+
+<note type="footnote" n="83.1">1 See my former note on lustrations after dreams, and on these apparitions of the dead my remarks on Soph. <quote xml:lang="grc">Œd.</quote> Col. 999, Bolin's edition. Cf. <quote xml:lang="lat">Lomeier de veterum gentilium lustrationibus,</quote> XXXVIII. p. 477, sqq., and on the modes of appeasing them, ibid. VII. p. 64.</note>
+
+<note type="footnote" n="83.2">2 I cannot see why Pauw's <quote xml:lang="grc">ἄκος</quote> should have been followed. <quote xml:lang="grc">πέο̧ας,</quote> in v. 632, is an epexegesis of <quote xml:lang="grc">ἄκος.</quote></note>
+
+<note type="footnote" n="83.3">3 If <quote xml:lang="grc">θνητω̃ν</quote> follows <quote xml:lang="grc">μόνος,</quote> it will be at variance with <quote xml:lang="grc">δαίμονα Δαο̧ει̃ονι</quote> n v. 620. I have therefore united it to <quote xml:lang="grc">πλέον</quote> at the suggestion of Mr Burges.</note>
+<pb n="84"/>
+<milestone unit="linechunk" n="650—683"/>
+And thou, Aldoneus, that dost send the shades to this upper world, set at liberty, Aidoneus, Darius, all kingly as he was. Alas<ref n="84.1">1</ref>! For as at no time he was the destroyer of men by the wasting calamities of war, so he was called by his Persians, counsellor divine; and counsellor divine he was, for he conducted the host well. Lord<ref n="84.2">2</ref>, ancient lord, come, draw nigh, appear on the topmost peak<ref n="84.3">3</ref> of the mound, raising the saffrou dyed sandal of thy foot, displaying the crest of thy royal tiara. Come forth, O Darius, author of no ill: Hoa<ref n="84.4">4</ref>! Show thyself, sovereign lord<ref n="84.5">5</ref>, that thou mayest hear the sorrows of our sovereign, strange in their nature, and new. For some Stygian gloom is hovering over us; for all<ref n="84.6">6</ref> our youth have already sunk in ruin. Come forth, O Darius, author of no ill: Hoa! alas! alas! O thou that didst die deeply deplored by thy friends!<ref n="84.7">7</ref> O king, O king! why should these redoubled mishaps pass throughout all this thy land? All the three-banked galleys of this our land have utterly perished, so as to be no longer galleys.</p>
+</sp>
+<stage>The GHOST OF DARIUS rises.</stage>
+<sp>
+<speaker start-line="681" end-line="693">GHOST OF DARIUS</speaker>
+<p>O ye most trusty of the trusty! ye compeers of my youth, aged Persians, with what trouble is our city troubled? the ground groans, is smitten and torn<ref n="84.8">8</ref>. And beholding
+
+<note type="footnote" n="84.1">1 See Blomfield and Dindorf. Both sense and construction are doubtful.</note>
+
+<note type="footnote" n="84.2">2 See Blomfield, who has learnedly illustrated this Graeco-Phœnician word.</note>
+
+<note type="footnote" n="84.3">3 Cf. <cit><bibl>Eurip. Hec. 37</bibl></cit>, <quote xml:lang="grc">ὁ Πηλέως γὰρ παῖς ὑπὲρ τύμβου φανεὶς Κατέσχ᾽
+Ἀχιλλεὺς πᾶν στράτευμ Ἑλληνικόν.</quote> <cit><bibl><cit><bibl>Aesch. Choeph. 4.</bibl></cit></bibl> <quote xml:lang="grc">τύμβου δ' ἐπ' ὄχθῳ—</quote></cit> </note>
+
+
+
+<note type="footnote" n="84.4">4 I follow Blomfield and Paley. <quote xml:lang="grc">Δαρειὰν</quote> could never be correct. 1 cannot clearly understand what Dindorf's opinion is, as he adduces the same authority (viz. <cit><bibl>Aristoph. Ran. 1028</bibl></cit>), but says nothing about the reading of this passage.</note>
+
+<note type="footnote" n="84.5">5 Dindorf's punctuation requires amendment. Read <quote xml:lang="grc">ἄχη δέσποτα.</quote></note>
+
+<note type="footnote" n="84.6">6 See Dindorf.</note>
+
+<note type="footnote" n="84.7">7 I have given the best sense I can to the text, but nothing is here certain but the uncertainty of the reading. <quote xml:lang="grc">Διάγοιεν</quote> is doubtless corrupt, and Blomfield reads <quote xml:lang="grc">δι' ἄνοιαν,</quote> which Linwood. Lex. p. 89, explains thus: .. what, O prince, is this double penalty for error arising from folly concerning (or affecting) thy land, even the whole of thy land? Paley's emendation <quote xml:lang="grc">δυναστα̃ν δονάστα</quote> seems deserving of consideration. but the passage is beyond any satisfactory understanding.</note>
+
+<note type="footnote" n="84.8">8 Or "prostrate on the ground, he sigbs" etc.</note>
+<pb n="85"/>
+<milestone unit="linechunk" n="684—718"/>
+
+my consort here near my sepulchre, I am in fear, I have received soothing libations. And ye arc wailing, standing near my sepulchre, and shouting shrill in cries that evoke the shades, ye piteously summon me. And exit is no easy matter, both in all other respects, and also inasmuch as the gods beneath the ground are better at receiving than at letting go. Notwithstanding, I having rule among them, am come; and be thou quick, that I may not be censured for the time [of my absence]. What new heavy calamity bath befallen the Persians?</p>
+</sp>
+<sp>
+<speaker start-line="694" end-line="696">CHORUS</speaker>
+<p>I shrink in awe from looking on thee, and I shrink in awe from speaking in thy presence, by reason of my ancient reverence for thee.</p>
+</sp>
+<sp>
+<speaker start-line="697" end-line="699">GHOST OF DARIUS</speaker>
+<p>But since persuaded by thy groanings I have come from below, in no wise utter a tedious tale, but concisely tell me, and complete the whole, laying aside thine awe for me.</p>
+</sp>
+<sp>
+<speaker start-line="700" end-line="702">CHORUS</speaker>
+<p>I dread<ref n="85.1">1</ref> to comply, and I dread to speak in thy presence, telling things hateful to tell to friends.</p>
+</sp>
+<sp>
+<speaker start-line="703" end-line="708">GHOST OF DARIUS</speaker>
+<p>But since the ancient dread of thy spirit is an obstacle to thee, do thou, aged partner of my bed, high-born dame, cease from these wailings and groans of thine, and give me a clear account. Human calamities will befal mankind. For many ills arise to mortals by sea, and many by land, if their more lengthened life be far protracted.</p>
+</sp>
+<sp>
+<speaker start-line="709" end-line="714">ATOSSA</speaker>
+<p>O thou who in thy prosperous lot didst excel all mortals, inasmuch as thou, so long as thou didst behold the rays of the sun, an object of envy, didst lead a continued life of happiness as a god to the Persians; now too do I envy thee dead, before thou didst witness this depth of ills. For in brief words thou shalt hear, Darius, the whole tale. In a word, the fortunes of the Persians have been utterly o'erthrown.</p>
+</sp>
+<sp>
+<speaker start-line="715" end-line="715">GHOST OF DARIUS</speaker>
+<p>In what way? came there any blast of pestilence, or a rebellion on the city?</p>
+</sp>
+<sp>
+<speaker start-line="716" end-line="716">ATOSSA</speaker>
+<p>By no means; but the whole host hath been utterly destroyed about Athens.</p>
+</sp>
+<sp>
+<speaker start-line="717" end-line="717">GHOST OF DARIUS</speaker>
+<p>And which of my sons led an armament thither? tell me.</p>
+</sp>
+<sp>
+<speaker start-line="718" end-line="718">ATOSSA</speaker>
+<p>Impetuous Xerxes, after draining the whole surface of the continent.</p>
+</sp>
+
+<note type="footnote" n="85.1">1 See Jelf, Gk. Gr. Vol. I. § 278, 5 Obs. 2.</note>
+<pb n="86"/>
+<milestone unit="linechunk" n="619—737"/>
+<sp>
+<speaker start-line="719" end-line="719">GHOST OF DARIUS</speaker>
+<p>Was it by land or by sea that he, wretched, made this mad attempt?</p>
+</sp>
+<sp>
+<speaker start-line="720" end-line="720">ATOSSA</speaker>
+<p>Both. There was a twofold face of two armaments.</p>
+</sp>
+<sp>
+<speaker start-line="721" end-line="721">GHOST OF DARIUS</speaker>
+<p>And how too did such large land forces accomplish their passage?</p>
+</sp>
+<sp>
+<speaker start-line="722" end-line="722">ATOSSA</speaker>
+<p>With machines he bridged the frith of Helle, so as to have a passage.</p>
+</sp>
+<sp>
+<speaker start-line="723" end-line="723">GHOST OF DARIUS</speaker>
+<p>And did he effect this, so as to shut up the mighty Bosporus?</p>
+</sp>
+<sp>
+<speaker start-line="724" end-line="724">ATOSSA</speaker>
+<p>Such is the fact: but some daemon, I ween, abetted his inclination.</p>
+</sp>
+<sp>
+<speaker start-line="725" end-line="725">GHOST OF DARIUS</speaker>
+<p>Alas! some mighty daemon came, so that he had not his right senses.</p>
+</sp>
+<sp>
+<speaker start-line="726" end-line="726">ATOSSA</speaker>
+<p>Yes—so that we can see how evil an issue he accomplished.</p>
+</sp>
+<sp>
+<speaker start-line="727" end-line="727">GHOST OF DARIUS</speaker>
+<p>And how fared they over whom ye are thus pouring your lament?</p>
+</sp>
+<sp>
+<speaker start-line="728" end-line="728">ATOSSA</speaker>
+<p>The naval force being worsted was the destruction of the land armament.</p>
+</sp>
+<sp>
+<speaker start-line="729" end-line="729">GHOST OF DARIUS</speaker>
+<p>And hath the whole host thus utterly been destroyed by the spear?</p>
+</sp>
+<sp>
+<speaker start-line="730" end-line="730">ATOSSA</speaker>
+<p>Aye, so that, moreover, the whole city of Susa mourns its desolation<ref n="86.1">1</ref>.</p>
+</sp>
+<sp>
+<speaker start-line="731" end-line="731">GHOST OF DARIUS</speaker>
+<p>O ye gods! good<ref n="86.2">2</ref> was the support and assistance of the army!</p>
+</sp>
+<sp>
+<speaker start-line="732" end-line="732">ATOSSA</speaker>
+<p>And the whole Bactrian population hath perished in utter ruin, and that no aged people<ref n="86.3">3</ref>?</p>
+</sp>
+<sp>
+<speaker start-line="733" end-line="733">GHOST OF DARIUS</speaker>
+<p>O wretched man! how much of the youth of our allies then hath he destroyed.</p>
+</sp>
+<sp>
+<speaker start-line="734" end-line="734">ATOSSA</speaker>
+<p>They say too that Xerxes alone and destitute, with not many—</p>
+</sp>
+<sp>
+<speaker start-line="735" end-line="735">GHOST OF DARIUS</speaker>
+<p>—ended how and where? is there any escape?</p>
+</sp>
+<sp>
+<speaker start-line="736" end-line="736">ATOSSA</speaker>
+<p>—arrived gladly at the bridge that links the two continents<ref n="86.4">4</ref>.</p>
+</sp>
+<sp>
+<speaker start-line="737" end-line="737">GHOST OF DARIUS</speaker>
+<p>—and reached in this continent? is this true?</p>
+</sp>
+
+<note type="footnote" n="86.1">1 I think <quote xml:lang="grc">στένειν,</quote> not <quote xml:lang="grc">στένει,</quote> was from the hand of Aeschylus.</note>
+
+<note type="footnote" n="86.2">2 <quote xml:lang="grc">κεδνη̃ς</quote> is a much more powerful reading than <quote xml:lang="grc">κενη̃ς.</quote> See Paley.</note>
+
+<note type="footnote" n="86.3">3 I follow the Scholiast and Paley. Dindorf's conjecture seems scarcely Greek.</note>
+
+<note type="footnote" n="86.4">4 Dindorf reads <quote xml:lang="grc">γαῖν</quote> for <quote xml:lang="grc">ἐν</quote> from Askew's conjecture. But is <quote xml:lang="grc">γῆ</quote> ever used in the plural?</note>
+
+
+<pb n="87"/>
+<milestone unit="linechunk" n="738—770"/>
+<sp>
+<speaker start-line="738" end-line="738">ATOSSA</speaker>
+<p>Yes: a clear account prevails; in this, at all events, there is no dispute.</p>
+</sp>
+<sp>
+<speaker start-line="739" end-line="752">GHOST OF DARIUS</speaker>
+<p>Alas! swift indeed came the accomplishment of the oracles; and upon my son Jove hath inflicted the consummation of the divine declarations. I have expected that the gods would bring these things to their complete fulfillment after a long issue<ref n="87.1">1</ref>. But when a man is himself speeding onward, god also lends a hand. Now a fountain of ills seems to have been discovered for my friends. And my son, not understanding this, hath brought it about by his youthful presumption; who hoped to check in its course the sacred Hellespont, the Bosphorus, stream of the god, like a slave, with bonds, and was for reducing the stream to order; and binding it with hammer-wrought fetters, accomplished a great road for his great army, and he unwisely thought, mortal as he was, that he should get the mastery of all the gods, and of Neptune. Did not therefore a distemper of soul possess my son? I fear lest my great store of wealth shall become a prey to the first comer.</p>
+</sp>
+<sp>
+<speaker start-line="753" end-line="758">ATOSSA</speaker>
+<p>These things is impetuous Xerxes taught by consorting with evil men; and they tell him, how that thou didst win great wealth for thy children with thy spear, but that he, from want of manhood, wars at home, and nought augments his patrimonial opulence. Hearing such taunts as these oftentimes from evil men, he planned this expedition and armament against Greece.</p>
+</sp>
+<sp>
+<speaker start-line="759" end-line="772">GHOST OF DARIUS</speaker>
+<p>Therefore a work has been accomplished by him<ref n="87.2">2</ref> exceedingly great, ever to be had in remembrance, such as never at any time utterly drained this falling city of Susa, ever since sovereign Jove awarded this honour, that one man should sway the whole of flock-breeding Asia, wielding the sceptre of rule. For a Mede<ref n="87.3">3</ref> was the first commander of the host; and another<ref n="87.4">4</ref>, his son, completed this work; for prudence managed the helm of his soul. And third from him Cyrus, a prosperous man, when he reigned gave peace to all his friends; and acquired the people of the Lydians and</p>
+</sp>
+
+<note type="footnote" n="87.1">1 Such was the reasoning of Apollo, who deferred the doom of Croesus which he could not avert. <quote xml:lang="lat"><cit><bibl>Herodot. I. 92.</bibl></cit></quote></note>
+
+<note type="footnote" n="87.2">2 <quote xml:lang="grc">σφιν</quote> is the singular number. See Herm. on <quote xml:lang="lat">Soph. Ed. C. 1487</quote> <quote xml:lang="lat">Buttmann, Lexil.</quote> quoted by Dindorf.</note>
+
+<note type="footnote" n="87.3">3 Astyages.</note>
+
+<note type="footnote" n="87.4">4 Cyaxares.</note>
+<milestone unit="linechunk" n="771—801"/>
+<pb n="88"/>
+<sp>
+<speaker start-line="773" end-line="786">GHOST OF DARIUS</speaker>
+<p>Phrygians. and subdued by his prowess the whole of Ionia For god did not abhor him, because he was discreet. And fourth<ref n="88.1">1</ref> in order a son of Cyrus ruled the host: and Smerdis reigned fifth, a disgrace to his country, and to the ancient throne: but valiant Artaphrenes, along with friends, whose part this was<ref n="88.2">2</ref>, slew him in the palace by stratagem. And I too attained to the lot which I desired, and waged many wars with a large army; but I brought not such great mischief as this upon the city. But Xerxes my son, being young, has youthful thoughts, and bears not in mind my injunctions; for of this be ye well and distinctly assured, ye my compeers in age, all of us who held this sovereignty, could not be shown to have wrought so many evils.</p>
+</sp>
+<sp>
+<speaker start-line="787" end-line="789">CHORUS</speaker>
+<p>What then, my liege Darius? to what point turnest thou the issue of thy words? In consequence of these events, how shall we thy Persian host hereafter fare as best may be?</p>
+</sp>
+<sp>
+<speaker start-line="790" end-line="792">GHOST OF DARIUS</speaker>
+<p>If we make not war upon the country of the Greeks; no, not even if the Median force be the larger: for to them the earth herself is an ally.</p>
+</sp>
+<sp>
+<speaker start-line="793" end-line="793">CHORUS</speaker>
+<p>How sayest thou this? and in what way acts it as an ally?</p>
+</sp>
+<sp>
+<speaker start-line="794" end-line="794">GHOST OF DARIUS</speaker>
+<p>Inasmuch as it slays by famine those that are over-numerous.</p>
+</sp>
+<sp>
+<speaker start-line="795" end-line="795">CHORUS</speaker>
+<p>Well, but we will furnish forth an expedition well equipped and select.</p>
+</sp>
+<sp>
+<speaker start-line="796" end-line="797">GHOST OF DARIUS</speaker>
+<p>Aye, but not even shall the army that now remains in the regions of Hellas attain to a safe return.</p>
+</sp>
+<sp>
+<speaker start-line="798" end-line="799">CHORUS</speaker>
+<p>How sayest thou: What! does not the whole armament of the barbarians cross the frith of Helle from Europe?</p>
+</sp>
+<sp>
+<speaker start-line="800" end-line="804">GHOST OF DARIUS</speaker>
+<p>Few, be sure, of many, if it be proper for one that looks upon what hath now taken place at all to put faith in the declarations of the gods: for it is not that one part is accomplished, and another not.<ref n="88.3">3</ref> And if this be the fact, the multitude selected out of the army fails, having been lured on</p>
+</sp>
+
+<note type="footnote" n="88.1">1 Cambyses.</note>
+
+<note type="footnote" n="88.2">2 Another verse is added in brackets: "<quote xml:lang="eng">and sixth Maraphis, and seventh Artaphrenes,</quote>" which seems an evident corruption. Perhaps it was a quotation from some other poet, who had enumerated the conspirators according to his own authorities, and the line was inserted from a scholium.</note>
+
+<note type="footnote" n="88.3">3 See Blomfield.</note>
+<milestone unit="linechunk" n="505—842"/>
+<pb n="89"/>
+<sp>
+<speaker start-line="805" end-line="842">GHOST OF DARIUS</speaker>
+<p>by groundless expectations. And<ref n="89.1">1</ref> they are remaining where Asopus with his streams waters the plain, a kind enrichment of the Boeotian fields: where the supreme of horrors await them to suffer, in retribution for their presumption and godless devices; who, when they arrived in the land of Hellas, shrunk not from despoiling the statues of the gods, nor from firing their shrines: but the altars are demolished, and the temples of the divinities utterly overthrown from their basements in confused ruin; wherefore, having done evil, they experience not less, and will still further; and not yet is it come to the dregs<ref n="89.2">2</ref> of their calamities, but still they keep on gushing forth: for so great a clotted gore-dripping mass shall there be amid the land of the Plataeans, beneath the Dorian spear; and heaps of corpses, even to the third generation, shall voicelessly announce to the eyes of mortals, how that it becomes not one that is mortal to entertain thoughts too high for him. For presumption, when it has bloomed, is wont to produce for fruit a crop of Atè, whence it reaps an all-mournful harvest. Seeing such are the recompenses of these things, be ye mindful of Athens and of Hellas, and let not any one contemning his present fortune, enamoured of other things, cast away great felicity. Jove is in sooth over us a chastiser of extremely overbearing thoughts, a stern censor. Wherefore do ye instruct him, destitute as he is of prudence<ref n="89.3">3</ref>, with reasonable admonitions, that he should cease to insult the gods with his overweening confidence. And do thou, dear aged mother of Xerxes, go into the palace, and fetch vesture such as is seemly, and meet thy child; for in his sorrow for these misfortunes, tatters of his embroidered robes are rent all about his person. But do thou mildly soothe him with words; for to thee alone, I am assured, will he endure to listen. But I will depart from earth into the gloom that is beneath. And you, my aged friends, give yourselves to joy, though ye be in afflictions, giving your spirits to pleasure day by day; since to the dead wealth is of no avail.</p>
+</sp>
+<stage>The GHOST OF DARIUS descends.<ref n="89.4">4</ref></stage>
+
+<note type="footnote" n="89.1">1 There is something inconsistent in the fact that Darius, who required to be told how the Persians had fared, should be able to tell how they would fare afterwards. Perhaps, however, he merely draws a general inference.</note>
+
+<note type="footnote" n="89.2">2 Literally "<quote xml:lang="eng">to the bottom [of the cup].</quote>"</note>
+
+<note type="footnote" n="89.3">3 I follow Dindorf in his notes.</note>
+
+<note type="footnote" n="89.4">4 In the ancient theatres they had "<quote xml:lang="grc">χαρώνιοι κλίμακες</quote>". of Charon's ladder, which led to hell through the trap-doors, and by which the <quote xml:lang="grc">εἴδωλα,</quote> or ghosts, came up." <quote xml:lang="lat">Blomfield, Mus. Crit. ii. 214. See Siebelis, p. 101.</quote></note>
+<milestone unit="linechunk" n="843—891"/>
+<pb n="90"/>
+<sp>
+<speaker start-line="843" end-line="844">CHORUS</speaker>
+<p>Verily I feel sorrow when I hear of the many woes that both even now press upon, and are hereafter to befall, the barbarians.</p>
+</sp>
+<sp>
+<speaker start-line="845" end-line="851">ATOSSA</speaker>
+<p>O Fortune! how many bitter sorrows are coming upon me, and most of all doth this mischance prey upon my spirit, when I hear also of the dishonour of the robes about the person of my child<ref n="90.1">1</ref>, which envelope him. But I will go, and having fetched vesture from the house, I will endeavour to meet my son. For we will not desert in their misfortunes those that are dearest to us.</p>
+</sp>
+<stage>ATOSSA enters the palace.</stage>
+<sp>
+<speaker start-line="852" end-line="891">CHORUS</speaker>
+<p>O ye gods! we surely enjoyed a noble and goodly life, under civic rule, when the aged monarch, aider of all, author of no ill, not given to war, godlike Darius ruled the realm. In the first place we were celebrated on account of our well-approved army, and the laws of the state directed all things<ref n="90.2">2</ref>. And our returns too from our wars brought us without trouble, without suffering, in flourishing condition to our homes. And what a number of cities did he take without having crossed the river Halys, nor having sped forth from his home; such are the Acheloian cities on the Strymonian sea, adjoining the dwellings of the Thracians, and beyond the sea, those along the main land environed with fortresses obeyed this king, and those who boast<ref n="90.3">3</ref> to dwell on both sides of the broad frith of Helle, and the gulfy Propontis, and the outlet of the Pontus: the sea-girt islands too, near the marine promontory, lying hard by this land, Lesbos, for instance, and olive-planted Samos, Chios, and Paros, Myconus, and Andros touching in close neighbourhood upon Tenos. He was lord too of the sea-girt isles situate midway between the continents, Lemnos, and the dwelling of Icarus, and Rhodes, Cnidus too, and the cities of Venus, Paphos, and Soli, and</p>
+</sp>
+
+<note type="footnote" n="90.1">1 Paley is disposed to omit this whole speech of Atossa.</note>
+
+<note type="footnote" n="90.2">2 This is Linwood's rendering of this unsatisfactory passage, who makes <quote xml:lang="grc">πύργινα,</quote> like <quote xml:lang="grc">πύργου</quote> is often used, to allude merely to the city. Dindorf considers the word corrupt.</note>
+
+<note type="footnote" n="90.3">3 See Linwood, s. v. <quote xml:lang="grc">εὔχομαι. εἶναι</quote> is understood, Blomfield's emendation, <quote xml:lang="grc">ἀρχόμεναι</quote> is much more simple; but the alteration is hardly needed.</note>
+<milestone unit="linechunk" n="892—942"/>
+<pb n="91"/>
+<sp>
+<speaker start-line="892" end-line="906">CHORUS</speaker>
+<p>Salamis, the mother city of which is now the cause of our present sighs. He ruled too, by his prudence, over the opulent populous cities of the Greeks in the Ionian district. And there was at hand an unconquerable power of armed men, and of allies gathered from every nation. But now we, in no dubious way, have to endure the overthrow of these things from the hand of the gods, being terribly beaten down by wars, and by disasters on the deep.</p>
+</sp>
+<stage>Enter XERXES.<ref n="91.1">1</ref></stage>
+<sp>
+<speaker start-line="907" end-line="917">XERXES</speaker>
+<p>Alas! wretched that I am, having met with this hateful doom beyond all conjecture;-how ruthlessly hath the demon assailed the race of the Persians! What shall I suffer miserable? for the vigour of my limbs fails as I look upon this [aged] company of citizens here before me. O Jove! that the doom of death could enshroud me also along with the men that are departed.</p>
+</sp>
+<sp>
+<speaker start-line="918" end-line="930">CHORUS</speaker>
+<p>Well-a-day, my liege! for the goodly armament, and the great honour accruing to the Persians from their vassal states, and the fair array of men, whom now the demon hath mowed down. And the land bewails her native youth that have been brought to death by Xerxes; who crams Hades with Persians. For to Hades are gone<ref n="91.2">2</ref> many, for countless was the mass<ref n="91.3">3</ref>, the flower of the realm vanquished with the bow, of men that have utterly perished.</p>
+</sp>
+<sp>
+<speaker start-line="928" end-line="928">XERXES</speaker>
+<p>Alas! alas! alas! alas for the mighty force!</p>
+</sp>
+<sp>
+<speaker start-line="929" end-line="930">CHORUS</speaker>
+<p>And the land of Asia, O monarch of the country, hath sunk piteously, piteously on her knee.</p>
+</sp>
+<sp>
+<speaker start-line="931" end-line="933">XERXES</speaker>
+<p>I here before you, alas! alas! meet subject for wailing, hapless have been born an evil to my family, and my father-land.</p>
+</sp>
+<sp>
+<speaker start-line="935" end-line="938">CHORUS</speaker>
+<p>I will utter, by way of greeting thy return, the ill-omened exclamation, the voice of a Mariandynian wailer that sings of woe, a very tearful outcry.</p>
+</sp>
+<sp>
+<speaker start-line="940" end-line="942">XERXES</speaker>
+<p>Pour ye forth a grievous all-lamentable, sad-re-sounding voice; for this daemon hath made a turn back upon me.</p>
+</sp>
+
+<note type="footnote" n="91.1">1 See my Introduction.</note>
+
+<note type="footnote" n="91.2">2 I have translated Passow's <quote xml:lang="grc">ᾀδόβαται,</quote> which Dindorf seems to approve, and Paley admits.</note>
+
+<note type="footnote" n="91.3">3 I translate Blomfield's <quote xml:lang="grc">φύρσις.</quote> The student must endeavour to satisfy himself in this passage. I cannot.</note>
+<milestone unit="linechunk" n="943—999"/>
+<pb n="92"/>
+<sp>
+<speaker start-line="943" end-line="947">CHORUS</speaker>
+<p>I will, in truth, utter even an all-lamentable outcry, honouring<ref n="92.1">1</ref> [with a wail] the heavy calamities of the race of the mourning city endured by the people, inflicted by the lashing of the sea; and again will I utter the extremely tearful moan.</p>
+</sp>
+<sp>
+<speaker start-line="948" end-line="953">XERXES</speaker>
+<p>For our ship-fenced Mars, yielding the victory to others, hath reaped mischief from the Ionians, after laying waste the darkling surface of the main and the ill-fated shore.</p>
+</sp>
+<sp>
+<speaker start-line="954" end-line="961">CHORUS</speaker>
+<p>Oh! oh! oh! cry, and enquire exactly into all the particulars. And where is the rest of the multitude of thy friends? and where are those who stood by thy side in the battle? such as was Pharandaces, Susas, Pelagon, Dotamas, Agdabatas, and Psammis, and Susiscanes, that left Ecbatana?</p>
+</sp>
+<sp>
+<speaker start-line="962" end-line="965">XERXES</speaker>
+<p>I left them fallen in death out of a Tyrian ship on the shores of Salamis, striking on the rugged headland.</p>
+</sp>
+<sp>
+<speaker start-line="966" end-line="973">CHORUS</speaker>
+<p>Oh! oh! and what has become of thy Pharnuchus, and the brave Ariomardus? and where is prince Seualces, or Lilaeus sprung from a high-born sire, Memphis, Tharybis, and Masistras, Artembares too, and Hystaechmas? These things would I again enquire from thee.</p>
+</sp>
+<sp>
+<speaker start-line="974" end-line="976">XERXES</speaker>
+<p>Alas for me! after having beheld ancient Athens the hateful, all in one shock of fight, ah! ah! ah! wretched, lie gasping on the ground.</p>
+</sp>
+<sp>
+<speaker start-line="977" end-line="986">CHORUS</speaker>
+<p>What didst thou also leave, didst thou leave him of thy Persians, thine own eye<ref n="92.2">2</ref>, in all things faithful, that numbered thy tens of thousands, tens of thousands, Alpistus, son of Batanochus, <gap extent="***"/> son of Sesamas, son of Megabatas, Parthus too, and mighty Œbares. Alas! for them wretched. Thou tellest evils that bode further ills to the renowned Persians.</p>
+</sp>
+<sp>
+<speaker start-line="987" end-line="991">XERXES</speaker>
+<p>Thou dost in sooth call to my mind a lament for my excellent friends, while thou speakest of baleful, hateful, exceeding hateful horrors. My heart within me moans aloud, moans aloud for them unhappy.</p>
+</sp>
+<sp>
+<speaker start-line="992" end-line="999">CHORUS</speaker>
+<p>And, in truth, we regret another too, Xanthus, leader of ten thousand Mardians, and warlike Anehares, Diaexis too, and Arsames, chiefs of the cavalry, Cigdates and Lythimnes, and Tolmus that was never satisfied with the spear.<ref n="92.3">3</ref> They</p>
+</sp>
+
+<note type="footnote" n="92.1">1 See Dindorf. The metre is at fault.</note>
+
+<note type="footnote" n="92.2">2 See the elaborate remarks of Blomfield.</note>
+
+<note type="footnote" n="92.3">3 I shall not take notice of the different changes of the dramatis personae throughout this scene.</note>
+
+<milestone unit="linechunk" n="1000-1040"/>
+<pb n="93"/>
+<sp>
+<speaker start-line="1000" end-line="1001">XERXES</speaker>
+<p>were buried, they were buried, not following in our train, in tents mounted on wheels.</p>
+</sp>
+<sp>
+<speaker start-line="1002" end-line="1002">CHORUS</speaker>
+<p>For they that were commanders of the host are gone.</p>
+</sp>
+<sp>
+<speaker start-line="1003" end-line="1003">XERXES</speaker>
+<p>They are gone, alas! inglorious. Woe! woe! woe. woe! woe! ye divinities have brought upon us an unlooked-for surpassing evil, as ever Atè hath witnessed.</p>
+</sp>
+<sp>
+<speaker start-line="1004" end-line="1004">CHORUS</speaker>
+<p>We have been smitten, alas! what are the fortunes of man's life<ref n="93.1">1</ref>!</p>
+</sp>
+<sp>
+<speaker start-line="1005" end-line="1006">XERXES</speaker>
+<p>We have been smitten, for 'tis full plain, (there are new calamities, new calamities), having with no good success encountered the Ionian mariners. Ill-fortuned in war is the race of the Persians.</p>
+</sp>
+<sp>
+<speaker start-line="1007" end-line="1007">CHORUS</speaker>
+<p>And how not? I wretched have been smitten in the article of so great an army?</p>
+</sp>
+<sp>
+<speaker start-line="1008" end-line="1012">XERXES</speaker>
+<p>And what wonder? have not the mighty of the Persians fallen?</p>
+</sp>
+<sp>
+<speaker start-line="1013" end-line="1013">CHORUS</speaker>
+<p>Seest thou this remnant of my vesture?</p>
+</sp>
+<sp>
+<speaker start-line="1014" end-line="1014">XERXES</speaker>
+<p>I see it, I see it.</p>
+</sp>
+<sp>
+<speaker start-line="1015" end-line="1015">CHORUS</speaker>
+<p>This quiver too-</p>
+</sp>
+<sp>
+<speaker start-line="1016" end-line="1016">XERXES</speaker>
+<p>What is this that thou sayest hath been saved?</p>
+</sp>
+<sp>
+<speaker start-line="1017" end-line="1017">CHORUS</speaker>
+<p>areceptacle for shafts?</p>
+</sp>
+<sp>
+<speaker start-line="1020" end-line="1020">XERXES</speaker>
+<p>Little enough assuredly, as from much.</p>
+</sp>
+<sp>
+<speaker start-line="1021" end-line="1021">CHORUS</speaker>
+<p>We have been reft of our supporters.</p>
+</sp>
+<sp>
+<speaker start-line="1022" end-line="1022">XERXES</speaker>
+<p>The host of the Ionians shrinks not from the spear.</p>
+</sp>
+<sp>
+<speaker start-line="1023" end-line="1023">CHORUS</speaker>
+<p>Valiant are they; and I witnessed an unlooked-for calamity.</p>
+</sp>
+<sp>
+<speaker start-line="1024" end-line="1024">XERXES</speaker>
+<p>'Tis of the rout of the naval host that thou art speaking.</p>
+</sp>
+<sp>
+<speaker start-line="1025" end-line="1025">CHORUS</speaker>
+<p>It is-and I rent my robe at the ill visitation.</p>
+</sp>
+<sp>
+<speaker start-line="1026" end-line="1026">XERXES</speaker>
+<p>Alas! alas!</p>
+</sp>
+<sp>
+<speaker start-line="1027" end-line="1027">CHORUS</speaker>
+<p>Aye-and more than alas.</p>
+</sp>
+<sp>
+<speaker start-line="1030" end-line="1030">XERXES</speaker>
+<p>Yes, for double and threefold are our woes.</p>
+</sp>
+<sp>
+<speaker start-line="1031" end-line="1031">CHORUS</speaker>
+<p>Grievous; but joys to our foes.</p>
+</sp>
+<sp>
+<speaker start-line="1032" end-line="1032">XERXES</speaker>
+<p>And our prowess too hath been maimed.</p>
+</sp>
+<sp>
+<speaker start-line="1033" end-line="1033">CHORUS</speaker>
+<p>I am stripped of my escort.</p>
+</sp>
+<sp>
+<speaker start-line="1034" end-line="1034">XERXES</speaker>
+<p>Through the disasters of thy friends on the deep.</p>
+</sp>
+<sp>
+<speaker start-line="1035" end-line="1035">CHORUS</speaker>
+<p>Deplore, deplore the calamity, and move toward the house.</p>
+</sp>
+<sp>
+<speaker start-line="1036" end-line="1036">XERXES</speaker>
+<p>Ah! ah! woe! woe!</p>
+</sp>
+<sp>
+<speaker start-line="1037" end-line="1037">CHORUS</speaker>
+<p>Shriek now in response to me.</p>
+</sp>
+
+<note type="footnote" n="93.1">1 The metre is inaccurate. See Dindorf and Paley.</note>
+<milestone unit="linechunk" n="1041—1076"/>
+<pb n="94"/>
+<sp>
+<speaker start-line="1042" end-line="1042">XERXES</speaker>
+<p>A wretched offering from the wretched to the wretched.</p>
+</sp>
+<sp>
+<speaker start-line="1041" end-line="1041">CHORUS</speaker>
+<p>Wail forth a strain, making it harmonize.</p>
+</sp>
+<sp>
+<speaker start-line="1046" end-line="1046">XERXES</speaker>
+<p>Woe! woe! woe! heavy indeed is this calamity of ours. Alas! and very much do I sorrow over it.</p>
+</sp>
+<sp>
+<speaker start-line="1043" end-line="1045">CHORUS</speaker>
+<p>Ply<ref n="94.1">1</ref> again and again, and sigh for my sake.</p>
+</sp>
+<sp>
+<speaker start-line="1048" end-line="1048">XERXES</speaker>
+<p>I am drenched with tears, being full of sorrow.</p>
+</sp>
+<sp>
+<speaker start-line="1047" end-line="1047">CHORUS</speaker>
+<p>Shriek now in response to me.</p>
+</sp>
+<sp>
+<speaker start-line="1050" end-line="1050">XERXES</speaker>
+<p>'Tis my present concern, my liege!</p>
+</sp>
+<sp>
+<speaker start-line="1049" end-line="1049">CHORUS</speaker>
+<p>Wail aloud now with groans.</p>
+</sp>
+<sp>
+<speaker start-line="1054" end-line="1054">XERXES</speaker>
+<p>Woe! woe! woe! woe! again there shall be mingled a black and bloody blow.</p>
+</sp>
+<sp>
+<speaker start-line="1051" end-line="1053">CHORUS</speaker>
+<p>Beat thy breast too, and loudly pour forth too the Mysian lament.</p>
+</sp>
+<sp>
+<speaker start-line="1056" end-line="1056">XERXES</speaker>
+<p>Woe! woe!</p>
+</sp>
+<sp>
+<speaker start-line="1055" end-line="1055">CHORUS</speaker>
+<p>And make havoc of the white hair of thy chin.</p>
+</sp>
+<sp>
+<speaker start-line="1058" end-line="1058">XERXES</speaker>
+<p>With vehemence, with vehemence, very sadly.</p>
+</sp>
+<sp>
+<speaker start-line="1057" end-line="1057">CHORUS</speaker>
+<p>And utter a shrill cry.</p>
+</sp>
+<sp>
+<speaker start-line="1060" end-line="1060">XERXES</speaker>
+<p>This too will I do.</p>
+</sp>
+<sp>
+<speaker start-line="1059" end-line="1059">CHORUS</speaker>
+<p>Rend too with strength of hand thy robe that hangs in folds.</p>
+</sp>
+<sp>
+<speaker start-line="1062" end-line="1062">XERXES</speaker>
+<p>Woe! woe!</p>
+</sp>
+<sp>
+<speaker start-line="1061" end-line="1061">CHORUS</speaker>
+<p>Strike thy locks too, and pity the army.</p>
+</sp>
+<sp>
+<speaker start-line="1065" end-line="1065">XERXES</speaker>
+<p>With vehemence, with vehemence, very sadly.</p>
+</sp>
+<sp>
+<speaker start-line="1063" end-line="1063">CHORUS</speaker>
+<p>And drench thine eyes.</p>
+</sp>
+<sp>
+<speaker start-line="1067" end-line="1067">XERXES</speaker>
+<p>I am steeped in tears.</p>
+</sp>
+<sp>
+<speaker start-line="1066" end-line="1066">CHORUS</speaker>
+<p>Shriek now in response to me.</p>
+</sp>
+<sp>
+<speaker start-line="1069" end-line="1069">XERXES</speaker>
+<p>Oh! oh! oh! oh!</p>
+</sp>
+<sp>
+<speaker start-line="1068" end-line="1068">CHORUS</speaker>
+<p>Move on to the house with exclamations of sorrow.</p>
+</sp>
+<sp>
+<speaker start-line="1070" end-line="1070">XERXES</speaker>
+<p>Alas! thou Persian land now sad to tread<ref n="94.2">2</ref>!</p>
+</sp>
+<sp>
+<speaker start-line="1070" end-line="1070">CHORUS</speaker>
+<p>Alas! indeed through the city.</p>
+</sp>
+<sp>
+<speaker start-line="1072" end-line="1072">XERXES</speaker>
+<p>Alas! in sooth, yea, yea.</p>
+</sp>
+<sp>
+<speaker start-line="1071" end-line="1071">CHORUS</speaker>
+<p>Pour your sighs as ye gently advance.</p>
+</sp>
+<sp>
+<speaker start-line="1073" end-line="1073">XERXES</speaker>
+<p>Alas! thou Persian land now sad to tread.</p>
+</sp>
+<sp>
+<speaker start-line="1074" end-line="1074">CHORUS</speaker>
+<p>Alas! for those who perished, alas! in the three-tiered barks.</p>
+</sp>
+<sp>
+<speaker start-line="1075" end-line="1075">XERXES</speaker>
+<p>I will escort thee with sad-sounding sighs.</p>
+</sp>
+
+<note type="footnote" n="94.1">1 See note on Septem. c. Th. 855.</note>
+
+<note type="footnote" n="94.2">2 "<quote xml:lang="lat">Terra Persica</quote> <quote xml:lang="grc">δυσβατος</quote> <quote xml:lang="lat">nunc est mihi, eamque tristis nunc calco pede tristi.</quote>" Pauw. See Linwood, s. v.</note>
+</div>
+</body>
+</text>
+</TEI>
