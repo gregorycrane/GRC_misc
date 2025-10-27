@@ -5,7 +5,7 @@
   <teiHeader xml:lang="eng">
     <fileDesc>
       <titleStmt>
-        <title>The Persians.</title>
+        <title>Prometheus Bound.</title>
         <title>The tragedies of Aeschylus</title>
         <author>Aeschylus</author>
         <editor role="translator">Theodore Alois Buckley</editor>
@@ -91,27 +91,24 @@
      <pb n="1"/>
        <div type="translation"
               xml:lang="eng"
-              n="urn:cts:greekLit:tlg0085.tlg003.perseus-eng2"> <head>THE PERSIANS.</head>
-          <ab>
-            <title type="sub">PROMETHEUS CHAINED.</title>
-          </ab>
+              n="urn:cts:greekLit:tlg0085.tlg003.perseus-eng2"> <head>PROMETHEUS CHAINED.</head>
+
           <p>PROMETHEUS having, by his attention to the wants of men, provoked the anger of Jove, is bound down, in a cleft of a rock in a distant desert of Scythia. Here he not only relates the wanderings, but foretells the future lot of Io, and likewise alludes to the fall of Jove's dynasty. Disdaining to explain his meaning to Mercury, he is swept into the abyss amidst terrific hurricane and earthquake.</p>
-          <ab>
-            <title type="sub">PERSONS REPRESENTED.</title>
-          </ab>
-          <p>STRENGTH.</p>
-          <p>FORCE.</p>
-          <p>VULCAN.</p>
-          <p>PROMETHEUS.</p>
-          <p>CHORUS OF NYMPHS, DAUGHTERS OF OCEAN.</p>
-          <p>IO, DAUGHTER OF INACHUS.</p>
-          <p>MERCURY.</p>
-          <ab>
-            <title type="sub">STRENGTH, FORCE, VULCAN, PROMETHEUS.</title>
-          </ab>
+          <castList>
+          <head>PERSONS REPRESENTED.</head>
+          <castItem><role>STRENGTH.</role></castItem>
+          <castItem><role>FORCE.</role></castItem>
+          <castItem><role>VULCAN.</role></castItem>
+          <castItem><role>PROMETHEUS.</role></castItem>
+          <castItem><role>CHORUS OF NYMPHS, DAUGHTERS OF OCEAN.</role></castItem>
+          <castItem><role>IO, DAUGHTER OF INACHUS.</role></castItem>
+          <castItem><role>MERCURY.</role></castItem>
+          </castList>
+          <stage>STRENGTH, FORCE, VULCAN, PROMETHEUS.
+          </stage>
           <sp><speaker start-line="1" end-line="11">STRENGTH</speaker> <p> We<ref n="1.1"/> are come to a plain, the distant boundary
 
-<note type="footnote" n="1.1">1 Lucian, in his dialogue entitled <quote xml:lang="eng">Prometheus,</quote> or <quote xml:lang="eng">Caucasus,</quote> has given occasional imitations of passages in this play, not, however, sufficient to amount to a paraphrase, as Dr. Blomfield asserted. Besides, as Lucian lays the scene at Caucasus, he would rather seem to have had the <quote xml:lang="lat">Prometheus solitus</quote> in mind. (<quote xml:lang="lat">See Schutz, Argum.</quote>) But the ancients commonly made Caucasus the seat of the punishment of Prometheus, and, as Aeschylus is not over particular in his geography, it is possible that he may be not altogether consistent with himself. Lucian makes no mention of Strength and Force, but brings in Mercury at the beginning of the dialogue. Moreover, Mercury is represented in an excellent humour, and rallies Prometheus good-naturedly upon his tortures. Thus § 6, he says, <quote xml:lang="grc">εὖ ἔχει. καταπτήσεται ἤδη καὶ ὁ ἀετὸς ἀποκερω̃ν τὸ ἦπαρ, ὡς πάντα ἔχοις ἀντὶ τη̃ς καλη̃ς και εὐμηχάνου πλαστικῆς.</quote> In regard to the place where Prometheus was bound, the scene doubtless represented a ravine between two precipices rent from each other, with a distant prospect of some of the places mentioned in the wanderings of Io. (<quote xml:lang="lat">See Schutz, ibid.</quote>) But as the whole mention of Scythia is an anachronism, the less said on this point the better. Compare, however, the following remarks of Humboldt, Cosmos, vol. ii. p. 140, "The legend of Prometheus, and the unbinding the chains of the fire-bringing Titan on the Caucasus by Hercules in journeying eastward—the ascent of Io from the valley of the Hybrites—[See Griffiths' note on v. 717, on <quote xml:lang="grc"><l>ὑβριστὴς ποταμὸς</l>,</quote> which must be a proper name.]—towards the Caucasus; and the myth of Phryxus and Helle,—all point to the same path on which Phoenician navigators had earlier adventured."</note>
+<note type="footnote" n="1.1">1 Lucian, in his dialogue entitled <title>Prometheus</title>, or <title>Caucasus</title>, has given occasional imitations of passages in this play, not, however, sufficient to amount to a paraphrase, as Dr. Blomfield asserted. Besides, as Lucian lays the scene at Caucasus, he would rather seem to have had the <title>Prometheus solitus</title> in mind. (See <bibl>Schutz, Argum.</bibl>) But the ancients commonly made Caucasus the seat of the punishment of Prometheus, and, as Aeschylus is not over particular in his geography, it is possible that he may be not altogether consistent with himself. Lucian makes no mention of Strength and Force, but brings in Mercury at the beginning of the dialogue. Moreover, Mercury is represented in an excellent humour, and rallies Prometheus good-naturedly upon his tortures. Thus § 6, he says, <quote xml:lang="grc">εὖ ἔχει. καταπτήσεται ἤδη καὶ ὁ ἀετὸς ἀποκερω̃ν τὸ ἦπαρ, ὡς πάντα ἔχοις ἀντὶ τη̃ς καλη̃ς και εὐμηχάνου πλαστικῆς.</quote> In regard to the place where Prometheus was bound, the scene doubtless represented a ravine between two precipices rent from each other, with a distant prospect of some of the places mentioned in the wanderings of Io. (<quote xml:lang="lat">See Schutz, ibid.</quote>) But as the whole mention of Scythia is an anachronism, the less said on this point the better. Compare, however, the following remarks of Humboldt, Cosmos, vol. ii. p. 140, "The legend of Prometheus, and the unbinding the chains of the fire-bringing Titan on the Caucasus by Hercules in journeying eastward—the ascent of Io from the valley of the Hybrites—[See Griffiths' note on v. 717, on <quote xml:lang="grc"><l>ὑβριστὴς ποταμὸς</l>,</quote> which must be a proper name.]—towards the Caucasus; and the myth of Phryxus and Helle,—all point to the same path on which Phoenician navigators had earlier adventured."</note>
 
 <pb n="2"/>
 
