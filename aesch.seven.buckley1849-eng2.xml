@@ -108,18 +108,18 @@
 
 <castList>
 <head>PERSONS REPRESENTED.</head>
-<castItem>ETEOCLES.</castItem>
-<castItem>A MESSENGER.</castItem>
-<castItem>CHORUS OF THEBAN VIRGINS.</castItem>
-<castItem>ISMENE.</castItem>
-<castItem>ANTIGONE.</castItem>
-<castItem>A HERALD.</castItem>
+<castItem><role>ETEOCLES.</role></castItem>
+<castItem><role>A MESSENGER.</role></castItem>
+<castItem><role>CHORUS OF THEBAN VIRGINS.</role></castItem>
+<castItem><role>ISMENE.</role></castItem>
+<castItem><role>ANTIGONE.</role></castItem>
+<castItem><role>A HERALD.</role></castItem>
 </castList>
-<stage>SCENE. The Acropolis of Thebes. [Compare <bibl>v. 227, ed. Blomf.</bibl>]</stage>
+<stage><p>SCENE. The Acropolis of Thebes. [Compare <bibl>v. 227, ed. Blomf.</bibl>]</p>
 <p>TIME. Early in the morning; the length of the action can scarcely be fixed with absolute certainty. It certainly did not exceed twelve hours.</p>
-<p>The expedition of <quote xml:lang="eng">the Seven</quote>" against Thebes is fixed by Sir I. Newton, B.C. 928. Cf. <bibl>his Chronology, p. 27.</bibl> Blair carries it as far back as B.C. 1225.—<bibl>OLD TRANSLATOR.</bibl></p>
+<p><cit><quote>The expedition of "the Seven" against Thebes is fixed by Sir I. Newton, B.C. 928. Cf. <bibl>his Chronology, p. 27.</bibl> Blair carries it as far back as B.C. 1225.</quote>—<bibl>OLD TRANSLATOR.</bibl></cit></p></stage>
 
-<sp><speaker start-line="1" end-line="35">Eteocles</speaker>
+<sp><speaker start-line="1" end-line="38">Eteocles</speaker>
 <p>Citizens of Cadmus! it is fitting that he should speak things seasonable, who has the care of affairs on the poop of a state, managing the helm, not lulling his eyelids in slumber. For if we succeed, the gods are the cause; but if, on the other hand, (which heaven forbid,) mischance should befall, Eteocles alone would be much bruited through the city by the townsmen in strains clamorous and in wailings, of which may Jove prove rightly called the Averter to the city of the Cadmaeans<ref n="36.1"/>. And now it behoves you—both him who still falls short of youth in its prime, and him who in point of age has passed his youth, nurturing the ample vigour of his frame and each that is in his prime<ref n="36.2"/>, as is best fitting—
 
 <note type="footnote" n="36.1">Or, "of which may Jove the Averter be what his name imports." See <bibl>Paley and Linwood's Lex.</bibl></note>
@@ -223,7 +223,7 @@ for us to cling to your statues—why do we deeply sighing delay? Hear ye, or he
 
 <note type="footnote" n="40.4">Not <quote xml:lang="eng">at the seven gates,</quote> as Valckenaer has clearly shewn.</note>
 
-<note type="footnote" n="40.5">The paronomasia can only be kept up by rendering, <quote xml:lang="eng">do thou, king of wolves, fall with wolf-like fierceness,</quote> etc. Muller, Dorians, vol. i. p. 325, considers that <quote xml:lang="grc">Λύκειος</quote> is connected with <quote xml:lang="grc">λύκη</quote> light, not with <quote xml:lang="grc">λύκος,</quote> a wolf.</note>
+<note type="footnote" n="40.5">The paronomasia can only be kept up by rendering, <quote xml:lang="eng">do thou, king of wolves, fall with wolf-like fierceness,</quote> etc. Muller, Dorians, vol. i. p. 325, considers that <quote xml:lang="grc">Λύκειος</quote> is connected with <foreign xml:lang="grc">λύκη</foreign> <gloss>light</gloss>, not with <foreign xml:lang="grc">λύκος,</foreign> <gloss>a wolf</gloss>.</note>
 
 <pb n="41"/>
 
@@ -237,7 +237,7 @@ for us to cling to your statues—why do we deeply sighing delay? Hear ye, or he
 
 
 
-<note type="footnote" n="41.1">I follow Paley's emendation, <quote xml:lang="grc">ἀ̈ϋται̃ς.</quote></note>
+<note type="footnote" n="41.1">I follow Paley's emendation, <quote xml:lang="grc">ἀϋται̃ς.</quote></note>
 
 <note type="footnote" n="41.2">See a judicious note of <bibl>Paley's.</bibl></note>
 
@@ -589,7 +589,7 @@ man, a mighty prophet, associated with unholy bold-mouthed men, in spite of his 
 <pb n="56"/>
 
 
-<milestone unit="linechunk" n="686—712"/></sp>
+<milestone unit="linechunk" n="686—714"/></sp>
 
 <sp><speaker start-line="686" end-line="688">Chorus</speaker>
 <p>Why art thou eager, my son? let not Até, full of wrath, raging with the spear, hurry thee away—but banish the first impulse of [evil] passion.</p></sp>
@@ -700,7 +700,7 @@ Apollo, chose for himself, bringing to a consummation the ancient indiscretions 
 <p>These men have fallen by hands that dealt mutual slaughter<ref n="59.1"/>.</p></sp>
 
 <sp><speaker start-line="806" end-line="806">Chorus</speaker>
-<p>Who? What is it thou gayest! I am distracted with terror at thy tidings.</p></sp>
+<p>Who? What is it thou sayest! I am distracted with terror at thy tidings.</p></sp>
 
 <sp><speaker start-line="807" end-line="807">Messenger</speaker>
 <p>Now be calm and listen, the race of Œdipus—</p></sp>
