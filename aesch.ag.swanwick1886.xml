@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+  schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
       <teiHeader xml:lang="eng">
           <fileDesc>
@@ -93,12 +94,12 @@
         which sits in judgment upon a poet must be composed
         of his peers; it must be empanelled by time from the
         selectest of the wise of many generations.</q> By the
-        verdict of this august tribunal, Eschylus takes rank
+        verdict of this august tribunal, Aeschylus takes rank
         with Homer, Dante, and Shakespeare, and may justly
         be regarded as one of <q>the unacknowledged legislators
         of the world.</q></p>
         <p>As it may appear presumptuous to offer to the public
-        a new translation of the Eschylean trilogy, the
+        a new translation of the Aeschylean trilogy, the
         grandest dramatic work of classical antiquity, I may
         perhaps be allowed to state that I have not entered
         upon the task altogether uninvited. On the publication
@@ -114,8 +115,8 @@ an arduous and very difficult undertaking.</p>
         the propriety of employing rhymed metres as substitutes for the complex forms of classical poetry;
 
         <pb n="viii" xml:id="p16"/>
-        <fw type="header" place="top-left">viii</fw>
-        <fw type="header" place="top-right">Preface.</fw>
+        
+        
         hence it may not be inexpedient briefly to state my
         reasons for adopting them, as affording in my judgment
         the only adequate vehicle for reproducing the choral
@@ -129,8 +130,7 @@ deviation from it is tantamount to a breach of
         trust. The difficulty of rigidly applying these principles
 to the translation of the choral odes will be
         apparent when we remember that the medium through
-        which the thought of the ancient poet has to be re-
-        <lb/>embodied differs so essentially from that of the original
+        which the thought of the ancient poet has to be re-embodied differs so essentially from that of the original
         as to render the principle of imitation, with reference
         to their musical intonations, inapplicable. The futility
         of attempting to imitate the forms of classical poetry
@@ -140,16 +140,16 @@ to the translation of the choral odes will be
         translation of the <title>Iliad</title>, the excellence of which can
         only be fully appreciated by a careful comparison with
         the original.</p>
-        <p><q>An accented metre,</q> he says, <q>in a language
+        <p><quote>An accented metre,</quote> he says, <quote>in a language
         loaded with consonants cannot have the same sort of
         sounding beauty as a quantitative metre in a highly
         vocalized language. It is not audible sameness of
         metre, but a likeness of moral genius which is to be
 
         <pb n="ix" xml:id="p17"/>
-        <fw type="header" place="top-left">Preface.</fw>
-        <fw type="header" place="top-right">ix</fw>
-        aimed at.</q> The translator, having thus no authoritative
+        
+        
+        aimed at.</quote> The translator, having thus no authoritative
 models to necessitate the adoption of particular
         forms, is at liberty, without incurring the charge of
         unfaithfulness, to adopt those metres, rhymed or
@@ -178,18 +178,18 @@ models to necessitate the adoption of particular
         better to aim at the true lyrical ideal, however difficult
         of realization. The solution of the problem can only
         be worked out by experience. How far I have
-        succeeded in combining scrupulous fidelity to the</p>
-        <fw type="signature" place="bottom-center">KK</fw>
+        succeeded in combining scrupulous fidelity to the
+        
 
         <pb n="x" xml:id="p18"/>
-        <fw type="header" place="top-left">x</fw>
-        <fw type="header" place="top-right">Preface.</fw>
-        <p>original with the employment of rhyme, it is not for
+        
+        
+     with the employment of rhyme, it is not for
         me to judge; metrical translation must always be a
         matter of compromise, and no one can be so sensitively
         aware of the shortcomings of a translation as the
         translator.</p>
-        <p>My desire to bespeak for the dramas of Eschylus
+        <p>My desire to bespeak for the dramas of Aeschylus
         that intelligent study which is essential for their true
         appreciation has induced me to attempt in my introduction
 a very slight sketch of the progress of religious
@@ -216,8 +216,8 @@ of which we have any record, and also to
         investigate the links of transition from the Vedic
 
         <pb n="xi" xml:id="p19"/>
-        <fw type="header" place="top-left">Preface.</fw>
-        <fw type="header" place="top-right">xi</fw>
+        
+        
         Divinities to the ideal Personalities of Olympus. Such
         an inquiry would, however, exceed the scope of an
         introduction.</p>
@@ -237,7 +237,7 @@ myself almost entirely to the conception of the
         satisfactorily interpreted when studied in connection
         with the <title>Oresteia</title>. The investigation would, however,
         necessitate a reference to the remaining dramas of
-        Eschylus, and must therefore be postponed to a future
+        Aeschylus, and must therefore be postponed to a future
         opportunity.</p>
         <p>All true lovers of Art, who recognize her legitimate
         function as a revealer of truth, a mediator between the
@@ -250,8 +250,8 @@ day, when she is too often regarded in the light of
         work, entitled <title>Vorlesungen über die Aesthetik</title>. As
 
         <pb n="xii" xml:id="p20"/>
-        <fw type="header" place="top-left">xii</fw>
-        <fw type="header" place="top-right">Preface.</fw>
+        
+        
         this work is, I believe, comparatively little known in
         England, I have ventured to recast, with some modifications,
 a few of his leading ideas, and to embody
@@ -277,40 +277,45 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
          <div type="translation" xml:lang="eng" n="urn:cts:greekLit:tlg0085.tlg005.perseus-eng2">
 
 
-
 <head>
             <title type="sub">AGAMEMNON.</title>
 </head>
-          <stage>The WATCHMAN is discovered reclining on the flat roof of <lb/>
+          <stage>The WATCHMAN is discovered reclining on the flat roof of 
             the palace.</stage>
                            <milestone ed="p" n="1" unit="card"/>
 
-            <div type="textpart" subtype="prologue">
-             <div type="textpart" subtype="trimeter">
-          <sp>
+            <div type="textpart" subtype="prologue" start-line="1" end-line="39">
+              <head>Prologue</head>
+              <div type="textpart" subtype="trimeter" n="1">
+             
+          <sp start-line="1" end-line="39">
             <speaker>WATCHMAN</speaker>
-            <lg>
+            <lg start-line="1" end-line="7">
               <l>I PRAY the gods deliverance from these toils,</l>
               <l>Release from year-long watch, which, couch'd aloft</l>
               <l>On these Atreidan roofs, dog-like, I keep,</l>
               <l>Marking the stars which nightly congregate;</l>
               <l>And those bright potentates who bring to mortals</l>
               <l>Winter and summer, signal in the sky,</l>
-              <l><ref n="3.2">2</ref>What time they wane I note, their risings too.</l>
+              <l><ref n="3.1">1</ref>What time they wane I note, their risings too.</l>
+            </lg>
+            <lg start-line="8" end-line="11">
               <l>And for the beacon's token now I watch,</l>
               <l>The blaze of fire, bearing from Troy a tale,</l>
               <l><ref n="3.2">2</ref>Tidings of capture; for so proudly hopes<ref n="3.1">1</ref></l>
               <l>A woman's heart, with manly counsel fraught.</l>
+            </lg>
+            <lg start-line="12" end-line="15">
               <l>Dew-drenched and restless is my nightly couch,</l>
               <l>By dreams unvisited, for at my side,</l>
               <l>Fear stands, in place of sleep, nor suffers me</l>
-            </lg>
-          </sp>
+      
           <pb n="4"/>
-          <sp>
-            <speaker>WATCHMAN</speaker>
-            <lg>
+      
+    
               <l>Soundly, in slumberous rest, my lids to close.</l>
+            </lg>
+            <lg start-line="16" end-line="21">
               <l>Then when I think to chant a strain, or hum,</l>
               <l>(Such against sleep my tuneful counter-charm,)</l>
               <l>Moaning, I wail the sorrows of this house,</l>
@@ -318,16 +323,15 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>But may glad respite from these toils be mine,</l>
               <l>When fire, joy's herald, through the darkness gleams.</l>
             </lg>
-          </sp>
+    
           <stage>He suddenly beholds the beacon-light and starts to his feet.</stage>
-          <sp>
-            <speaker>WATCHMAN</speaker>
-            <lg>
+       
+            <lg start-line="22" end-line="24">
               <l>Hail lamp of night, forth shining like the day,</l>
               <l>Of many a festive dance in Argos' land,</l>
               <l>Through joy at this event, the harbinger.</l>
             </lg>
-            <lg>
+            <lg start-line="25" end-line="31">
               <l>Hurrah! Hurrah! To Agamemnon's queen,</l>
               <l>Thus with shrill cry I give th' appointed sign.</l>
               <l>That from her couch up-rising with all speed,</l>
@@ -336,14 +340,14 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>If Ilion's citadel in truth is ta'en,</l>
               <l>As, shining forth, this beacon-fire proclaims.</l>
             </lg>
-            <lg>
+            <lg start-line="32" end-line="35">
               <l>The joyous prelude I myself will dance,</l>
               <l>For to my lords good fortune I shall score,</l>
               <l>Now that this torch hath cast me triple six.</l>
               <l>Well! be it mine, when comes this mansion's lord,</l>
               <l>In this my hand his much-loved hand to hold !</l>
             </lg>
-            <lg>
+            <lg start-line="36" end-line="39">
               <l>The rest I speak not; o'er my tongue hath passed</l>
               <l>An ox with heavy tread: the house itself,</l>
               <l>Had it a voice, would tell the tale full clear ;</l>
@@ -355,17 +359,21 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
    
             <note n="1">* The figures correspond to the number of lines in the <lb/>original. </note>
             <note n="2">† The obelisks refer to the conjectural emendations of <lb/>the text at the end of each drama.</note>
-            </div> 
-                        <milestone ed="p" n="40" unit="card"/>
+           
+                 </div>       
+          </div>
+          <div type="textpart" subtype="parados">
 
-         <div type="textpart" subtype="anapests">
-               
+            <head>Parodos</head>
+            <milestone ed="p" n="40" unit="card"/>
+         <div type="textpart" subtype="anapests" n="1">
+               <head>Anapaests</head>
           <pb n="5"/>
-          <sp>
+          <sp start-line="40" end-line="103">
             <speaker>Chorus</speaker>
                       <stage>Enter in rank and file the Chorus of ARGIVE ELDERS, each leaning on his staff; during their slow and measured advance they sing the following Ode, the conclusion of which brings them in front of the stage.</stage>
 
-            <lg>
+            <lg start-line="40" end-line="71">
               <l>Lo the tenth year rolls apace</l>
               <l>Since Priam's mighty challenger,</l>
               <l>Lord Menelas and Atreus' heir,</l>
@@ -402,7 +410,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>The wrath relentless can appease</l>
               <l>Of violated sanctities.</l>
             </lg>
-            <lg>
+            <lg start-line="72" end-line="82">
               <l>But we, unhonoured, weak of frame,</l>
               <l>Excluded from that proud array,</l>
               <l>Tarry at home, and, age-oppressed,</l>
@@ -417,7 +425,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
        
           <stage>Enter CLYTEMNESTRA, followed by a female train. The Chorus sings the following Ode as it advances to take up its usual position round the altar of ZEUS, adorned with a statue of the god.</stage>
-        <lg>
+        <lg start-line="83" end-line="91">
               <l>But Clytemnestra, thou,</l>
               <l>Tyndareus' daughter, Argos queen,</l>
               <l>What hath befallen ? What hast heard ?</l>
@@ -429,13 +437,13 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>In heaven, or in the mart who wait,</l>
               <l>With gifts the altars glow.</l>
             </lg>
-            <lg>
+            <lg start-line="92" end-line="96">
               <l>Now here, now yonder, doth a torch arise,</l>
               <l>Streaming aloft to reach the skies,</l>
               <l>Charmed with pure unguent's soothing spell,</l>
               <l>Guileless and suasive, from the royal cell.</l>
             </lg>
-            <lg>
+            <lg start-line="97" end-line="103">
               <l>What here 'tis lawful to declare,</l>
               <l>What may be told proclaim;</l>
               <l>Be healer of this care</l>
@@ -446,20 +454,20 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
         </div>
-        </div>
+ 
 
                     <milestone ed="p" n="104" unit="card"/>
 
-        <div type="textpart" subtype="choral">
+  
           <stage>While CLYTEMNESTRA offers sacrifice, the following Ode is sung by the Chorus from the altar of ZEUS.</stage>
-               <div type="textpart" subtype="strophe" n="1">
-          
-          <ab>
-            <title type="sub">STROPHE.</title>
-          </ab>
-          <sp>
+           <div type="textpart" subtype="choral">
+            <head>Choral.</head>
+                          <div type="textpart" subtype="strophe" n="1">
+
+          <head>STROPHE.</head>
+          <sp start-line="104" end-line="121">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="104" end-line="121">
               <l>The way-side omen mine it is to sing,<ref n="7.1">1</ref></l>
               <l>The leaders' prosperous might foreshadowing,</l>
               <l>For still my age, unquenched its natal power,</l>
@@ -485,12 +493,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                   <milestone ed="p" n="122" unit="card"/>
 
                <div type="textpart" subtype="antistrophe" n="1">
-          <ab>
-            <title type="sub">ANTISTROPHE.</title>
-          </ab>
-          <sp>
+          <head>ANTISTROPHE.</head>
+          <sp start-line="122" end-line="139">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="122" end-line="139">
               <l>Then the sagacious army-seer, aware</l>
               <l>How diverse-minded the Atridan kings,</l>
               <l>In the hare-renders sees the martial pair,</l>
@@ -512,13 +518,11 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
            </div>
                   <milestone ed="p" n="140" unit="card"/>
 
-               <div type="textpart" subtype="epode">
-          <ab>
-            <title type="sub">EPODE.</title>
-          </ab>
-          <sp>
+               <div type="textpart" subtype="epode" n="1">
+          <head>EPODE.</head>
+          <sp start-line="140" end-line="159">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="140" end-line="155">
               <l>†For she, the beauteous goddess, loves</l>
               <pb n="9"/>
               <l>The tender whelps, new-dropped, of creatures rude,</l>
@@ -538,7 +542,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>For child-avenging wrath, with fear and fraud,</l>
               <l>Dread palace-warden, doth untiring wait."</l>
             </lg>
-            <lg>
+            <lg start-line="156" end-line="159">
               <l>Such woes, with high successes blent,</l>
               <l>By Fate on the twain royal houses sent,</l>
               <l>Did Calchas from the way-side auguries</l>
@@ -550,12 +554,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
            </div>
                              <milestone ed="p" n="160" unit="card"/>
                <div type="textpart" subtype="strophe" n="2">
-          <ab>
-            <title type="sub">STROPHE I.</title>
-          </ab>
-          <sp>
+          <head>STROPHE II.</head>
+          <sp start-line="160" end-line="166">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="160" end-line="166">
               <l>Zeus, whoe'er he be, this name</l>
               <l>If it pleaseth him to claim,</l>
               <l>This to him will I address;</l>
@@ -565,18 +567,16 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
          
-            <note n="7.1">* The original being here in oracular style is purposely <lb/>obscure, and cannot be fitly rendered otherwise in the trans­ <lb/>lation. </note>
-            <note n="8.1">* By a harsh metaphor the Greek army is called a curb <lb/>forged against Troy. </note>
+            <note n="7.1">* The original being here in oracular style is purposely obscure, and cannot be fitly rendered otherwise in the translation. </note>
+            <note n="8.1">* By a harsh metaphor the Greek army is called a curb forged against Troy. </note>
          </div>
              <milestone ed="p" n="167" unit="card"/>
                <div type="textpart" subtype="antistrophe" n="2">
           <pb n="10"/>
-          <ab>
-            <title type="sub">ANTISTROPHE I.</title>
-          </ab>
-          <sp>
+          <head>ANTISTROPHE II.</head>
+          <sp start-line="167" end-line="175">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="167" end-line="175">
               <l>Nor doth he so great of yore,<ref n="10.1">1</ref></l>
               <l>With all-defying boldness rife,</l>
               <l>†Longer avail; his reign is o'er.</l>
@@ -588,12 +588,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
              </div>
               <milestone ed="p" n="176" unit="card"/>
                <div type="textpart" subtype="strophe" n="3">
-          <ab>
-            <title type="sub">STROPHE II.</title>
-          </ab>
-          <sp>
+          <head>STROPHE III.</head>
+          <sp start-line="176" end-line="183">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="176" end-line="183">
               <l>To sober thought Zeus paves the way,</l>
               <l>And wisdom links with pain.</l>
               <l>In sleep the anguish of remembered ill</l>
@@ -606,12 +604,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
              </div>
               <milestone ed="p" n="184" unit="card"/>
                <div type="textpart" subtype="antistrophe" n="3">
-          <ab>
-            <title type="sub">ANTISTROPHE II.</title>
-          </ab>
-          <sp>
+          <head>ANTISTROPHE III.</head>
+          <sp start-line="184" end-line="191">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="184" end-line="191">
               <l>E'en so the elder of the twain,</l>
               <l>Achaia's fleet who swayed,</l>
               <l>No seer upbraiding, bowed, with grief suppressed,</l>
@@ -624,12 +620,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
              </div>
                    <milestone ed="p" n="192" unit="card"/>
                <div type="textpart" subtype="strophe" n="4">
-          <ab>
-            <title type="sub">STROPHE III.</title>
-          </ab>
-          <sp>
+          <head>STROPHE IV.</head>
+          <sp start-line="192" end-line="204">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="192" end-line="204">
               <l>Blasts, dire delay and famine in their train,</l>
               <l>And evil-anchorage, from Strymon sweep,-</l>
               <l>Ruin to mortals; with malignant power,</l>
@@ -648,12 +642,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
              </div>
                 <milestone ed="p" n="205" unit="card"/>
                <div type="textpart" subtype="antistrophe" n="4">
-          <ab>
-            <title type="sub">ANTISTROPHE III.</title>
-          </ab>
-          <sp>
+          <head>ANTISTROPHE IV.</head>
+          <sp start-line="205" end-line="217">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="205" end-line="217">
               <l>Then thus aloud the elder chieftain cried :—</l>
               <l>" Grievous, in sooth, the doom to disobey,</l>
               <l>But grievous too if I my child must slay,</l>
@@ -672,12 +664,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                        <milestone ed="p" n="218" unit="card"/>
                <div type="textpart" subtype="strophe" n="5">
 
-          <ab>
-            <title type="sub">STROPHE IV.</title>
-          </ab>
-          <sp>
+          <head>STROPHE V.</head>
+          <sp start-line="218" end-line="227">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="218" end-line="227">
               <l>Then harnessed in Necessity's stern yoke</l>
               <l>An impious change-wind in his bosom woke,</l>
               <l>Profane, unhallowed, with dire evil fraught,</l>
@@ -690,7 +680,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
       
-            <note n="10.1">* The combatants probably are Uranos, father of Kronos ; <lb/>and Kronos, father of Zeus. </note>
+            <note n="10.1">* The combatants probably are Uranos, father of Kronos ; and Kronos, father of Zeus. </note>
        
                                 </div>
                                   <milestone ed="p" n="228" unit="card"/>
@@ -698,12 +688,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
 
           <pb n="12"/>
 
-          <ab>
-            <title type="sub">ANTISTROPHE IV.</title>
-          </ab>
-          <sp>
+          <head>ANTISTROPHE V.</head>
+          <sp start-line="228" end-line="237">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="228" end-line="237">
               <l>Her prayers, her cries of " Father," her young life</l>
               <l>Were nought to those stern umpires, breathing strife:</l>
               <l>So, after prayer, her sire the servants bade,</l>
@@ -720,12 +708,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                                                <milestone ed="p" n="238" unit="card"/>
                <div type="textpart" subtype="strophe" n="6">
 
-          <ab>
-            <title type="sub">STROPHE V.</title>
-          </ab>
-          <sp>
+          <head>STROPHE VI.</head>
+          <sp start-line="238" end-line="247">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="238" end-line="247">
               <l>Then letting fall her veil of saffron dye,</l>
               <l>She smote, with piteous arrow from her eye,</l>
               <l>Each murderer; while, passing fair,</l>
@@ -742,12 +728,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
          <milestone ed="p" n="248" unit="card"/>
                <div type="textpart" subtype="antistrophe" n="6">
 
-          <ab>
-            <title type="sub">ANTISTROPHE V.</title>
-          </ab>
-          <sp>
+          <head>ANTISTROPHE VI.</head>
+          <sp start-line="248" end-line="257">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="248" end-line="257">
               <l>What next befel I know not, nor relate;</l>
               <l>Not unfulfill'd were Calchas' words of fate.</l>
               <l>For justice doth for sufferers ordain</l>
@@ -763,11 +747,13 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </sp>
         </div>
         </div>
-     <milestone ed="p" n="258" unit="card"/>
-     
-         <div type="textpart" subtype="episode">
-        <sp><speaker>Chorus</speaker>
-            <lg>
+      </div>
+         <div type="textpart" subtype="episode" n="1">
+          <head>Episode 1</head>
+          <div type="textpart" subtype="trimeter">
+            <head>Trimeter</head>
+        <sp start-line="258" end-line="263"><speaker>Chorus</speaker>
+            <lg start-line="258" end-line="263">
               <l>Hail Clytemnestra! Hither am I come</l>
               <l>Thy majesty revering. For 'tis meet</l>
               <l>When the male throne is empty, that we pay</l>
@@ -778,97 +764,97 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Yet shall thy silence nought unkind be deemed.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="264" end-line="267">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="264" end-line="267">
               <l>Joy's harbinger, be radiant Morning born</l>
               <l>From kindly, mother Night! So runs the saw.</l>
               <l>But thou of joy beyond all hope shalt hear,</l>
               <l>For Priam's city have the Argives won.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="268" end-line="268">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="268" end-line="268">
               <l>How queen! through unbelief I miss thy word.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="269" end-line="269">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="269" end-line="269">
               <l>Troy is in Argive hands; now speak I plain?</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="270" end-line="270">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="270" end-line="270">
               <l>Joy, stealing o'er my heart, calls forth the tear.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="271" end-line="271">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="271" end-line="271">
               <l>'Tis true, thine eye thy loyalty bewrays.</l>
             </lg>
           </sp>
           <pb n="14"/>
-          <sp>
+          <sp start-line="272" end-line="272">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="272" end-line="272">
               <l>Of these great tidings what the certain proof?</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="273" end-line="273">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="273" end-line="273">
               <l>Warrant I have; -how not? or Heaven deceives me.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="274" end-line="274">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="274" end-line="274">
               <l>Trusting the suasive augury of dreams?</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="275" end-line="275">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="275" end-line="275">
               <l>The fancies of the sleep-bound soul I heed not.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="276" end-line="276">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="276" end-line="276">
               <l>But hath some wingless rumour buoy'd thee up?</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="277" end-line="277">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="277" end-line="277">
               <l>Thou chidest me as were I a young girl.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="278" end-line="278">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="278" end-line="278">
               <l>But since what time was Priam's city spoiled?</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="279" end-line="279">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="279" end-line="279">
               <l>This very night now bringing forth the day.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="280" end-line="280">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="280" end-line="280">
               <l>What messenger could travel with such speed?</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="281" end-line="316">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="281" end-line="316">
               <l>Hephaestos, a bright flash from Ida sending.</l>
               <l>Hither through swift relays of courier-flame,</l>
               <l>Beacon transmitted beacon. Ida first</l>
@@ -911,17 +897,17 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Of tidings sent me by my Lord from Troy.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="317" end-line="319">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="317" end-line="319">
               <l>The gods, O queen, will I invoke hereafter.</l>
               <l>But now I fain would marvel at thy words,</l>
               <l>Heard more at large so thou wouldst speak again.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="320" end-line="350">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="320" end-line="350">
               <l>Troy on this very day th' Achaians hold.</l>
               <l>I ween ill-blending clamour fills the town:</l>
               <l>Pour in one vessel vinegar and oil,</l>
@@ -955,9 +941,9 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>For I of many blessings choose this joy.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="351" end-line="354">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="351" end-line="354">
               <l>Like prudent man well hast thou spoken, lady.</l>
               <l>But I, on hearing of thy certain proofs,</l>
               <l>Forthwith prepare me to salute the gods,</l>
@@ -966,10 +952,16 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </sp>
           
           <stage>Exit CLYTEMNESTRA.</stage>
+                    </div>
+                    </div>
+
+           <div type="textpart" subtype="stasimon" n="1">
+            <head>Stasimon 1</head>
           <milestone ed="p" n="355" unit="card"/>
-<div type="textpart" subtype="anapests">
-            <sp><speaker>Chorus</speaker>
-            <lg>
+<div type="textpart" subtype="anapests" n="2">
+  <head>Anapaests</head>
+            <sp start-line="355" end-line="366"><speaker>Chorus</speaker>
+            <lg start-line="355" end-line="366">
               <l>Hail, sovereign Zeus, and friendly Night,</l>
               <l>Mistress of mighty glories, hail!</l>
               <l>Thou who o'er Troia's tower-crowned height,</l>
@@ -988,18 +980,18 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
           </div>
-          </div>
-           <milestone ed="p" n="367" unit="card"/>
-           <div type="textpart" subtype="choral">
+
+          
+                       <milestone ed="p" n="367" unit="card"/>
+                       <div type="textpart" subtype="choral">
+                        <head>Choral</head>
             <div type="textpart" subtype="strophe" n="1">
           <pb n="18"/>
-          <ab>
-            <title type="sub">STROPHE I.</title>
-          </ab>
-          <sp>
+          <head>STROPHE I.</head>
+          <sp start-line="367" end-line="384">
             <speaker>Chorus</speaker>
-            <lg>
-              <l>"Tis Zeus who smote them, this we may aver,</l>
+            <lg start-line="367" end-line="384">
+              <l>'Tis Zeus who smote them, this we may aver,</l>
               <l>For easy 'tis to trace;</l>
               <l>The end he shaped as he decreed.</l>
               <l>Yet gods supernal, some declare,</l>
@@ -1018,12 +1010,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </div>
                <milestone ed="p" n="385" unit="card"/>
           <div type="textpart" subtype="antistrophe" n="1">
-          <ab>
-            <title type="sub">ANTISTROPHE I.</title>
-          </ab>
-          <sp>
+          <head>ANTISTROPHE I.</head>
+          <sp start-line="385" end-line="402">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="385" end-line="402">
               <l>Frenzy's unhappy suasion, fraught with bane</l>
               <l>To hapless children, sways the will;</l>
               <l>Against the mischief cure is vain;</l>
@@ -1044,12 +1034,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                      <milestone ed="p" n="403" unit="card"/>
           <div type="textpart" subtype="strophe" n="2">
           <pb n="19"/>
-          <ab>
-            <title type="sub">STROPHE II.</title>
-          </ab>
-          <sp>
+          <head>STROPHE II.</head>
+          <sp start-line="403" end-line="419">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="403" end-line="419">
               <l>Bequeathing to her people deadly stour</l>
               <l>Of shielded hosts, of spears, and ships' array,</l>
               <l>And Ilion's ruin bearing as her dower,</l>
@@ -1071,12 +1059,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                     </div>
               <milestone ed="p" n="420" unit="card"/>
           <div type="textpart" subtype="antistrophe" n="2">
-          <ab>
-            <title type="sub">ANTISTROPHE II.</title>
-          </ab>
-          <sp>
+          <head>ANTISTROPHE II.</head>
+          <sp start-line="420" end-line="436">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="420" end-line="436">
               <l>And dreamy fancies, coinage of the brain,</l>
               <l>Come o'er the troubled heart with vain delight;</l>
               <l>For vain the rapture, the illusion vain,</l>
@@ -1098,12 +1084,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                     </div>
                <milestone ed="p" n="437" unit="card"/>
           <div type="textpart" subtype="strophe" n="3">
-          <ab>
-            <title type="sub">STROPHE III.</title>
-          </ab>
-          <sp>
+          <head>STROPHE III.</head>
+          <sp start-line="437" end-line="455">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="437" end-line="455">
               <l>For Ares, bartering for gold</l>
               <l>The flesh of men, the scales doth hold</l>
               <l>In battle of the spear.</l>
@@ -1127,12 +1111,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                     </div>
                        <milestone ed="p" n="456" unit="card"/>
           <div type="textpart" subtype="antistrophe" n="3">
-          <ab>
-            <title type="sub">ANTISTROPHE III.</title>
-          </ab>
-          <sp>
+          <head>ANTISTROPHE III.</head>
+          <sp start-line="456" end-line="474">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="456" end-line="474">
               <l>Direful the people's voice, to hate</l>
               <l>Attuned, which worketh soon or late</l>
               <l>As ban of public doom.</l>
@@ -1156,13 +1138,11 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </sp>
                     </div>
                      <milestone ed="p" n="475" unit="card"/>
-          <div type="textpart" subtype="epode">
-          <ab>
-            <title type="sub">EPODE.</title>
-          </ab>
-          <sp>
+          <div type="textpart" subtype="epode" n="1">
+          <head>EPODE I.</head>
+          <sp start-line="475" end-line="487">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="475" end-line="487">
               <l>Borne by the joy-announcing flame</l>
               <l>Swift through the town the tidings fly;</l>
               <l>But whether true who may proclaim,</l>
@@ -1179,12 +1159,17 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </sp>
            </div>
          </div>
+         </div>
                <milestone ed="p" n="488" unit="card"/>
-            <div type="textpart" subtype="episode">
+            <div type="textpart" subtype="episode" n="2">
+              <head>Episode 2</head>
+              <div type="textpart" subtype="trimeter">
+                <head>Trimeter</head>
+              
           <pb n="22"/>
-          <sp>
+          <sp start-line="488" end-line="502">
             <speaker>Chorus Leader</speaker>
-            <lg>
+            <lg start-line="488" end-line="502">
               <l>Soon shall we know whether the signal fires,</l>
               <l>The swift relays of courier-light be true,</l>
               <l>Or whether, dreamlike, they beguiled our minds</l>
@@ -1201,9 +1186,9 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
           <stage>Enter Herald.</stage>
-          <sp>
+          <sp start-line="503" end-line="537">
             <speaker>HERALD</speaker>
-            <lg>
+            <lg start-line="503" end-line="509">
               <l>Oh soil of Argos, oh my native land,</l>
               <l>In light of this tenth year to thee I come;</l>
               <l>While many a hope hath snapt, this one still holds,</l>
@@ -1213,11 +1198,11 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Supreme o'er Argos.</l>
             </lg>
           </sp>
-          <stage>Here the Herald salutes the statues of the gods in the <lb/>
+          <stage>Here the Herald salutes the statues of the gods in the 
             orchestra.</stage>
-          <sp>
+          <sp start-line="510" end-line="517">
             <speaker>HERALD</speaker>
-            <lg>
+            <lg start-line="510" end-line="517">
               <l>Thou too, Pythian king,</l>
               <l>With thy fell darts assailing us no more;</l>
               <l>Let it suffice that on Scamander's banks</l>
@@ -1232,9 +1217,9 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
           <stage>He turns to the stage.</stage>
-          <sp>
+          <sp start-line="518" end-line="537">
             <speaker>HERALD</speaker>
-            <lg>
+            <lg start-line="518" end-line="537">
               <l>Hail royal palace! roofs beloved, hail!</l>
               <l>Ye seats august, ye powers that front the sun,</l>
               <l>If e'er of yore, now, with those cheerful eyes</l>
@@ -1257,91 +1242,91 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>With twofold forfeit have atoned their crime.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="538" end-line="538">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="538" end-line="538">
               <l>Hail, herald of Achaia's host!</l>
             </lg>
           </sp>
 
 
-        <sp>
+        <sp start-line="539" end-line="539">
             <speaker>HERALD</speaker>
-            <lg>
+            <lg start-line="539" end-line="539">
               <l>All hail!</l>
               <l>So please the gods, I grudge not now to die.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="540" end-line="540">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="540" end-line="540">
               <l>Love for thy father-land thy heart hath wrung!</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="541" end-line="541">
             <speaker>HERALD</speaker>
-            <lg>
+            <lg start-line="541" end-line="541">
               <l>So wrung that from mine eyes fall tears of joy.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="542" end-line="542">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="542" end-line="542">
               <l>Sweet the heart-sickness that o'ercame you thus.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="543" end-line="543">
             <speaker>HERALD</speaker>
-            <lg>
+            <lg start-line="543" end-line="543">
               <l>The key I lack which may thy words unlock.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="544" end-line="544">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="544" end-line="544">
               <l>Smit with desire for those who longed for you.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="545" end-line="545">
             <speaker>HERALD</speaker>
-            <lg>
+            <lg start-line="545" end-line="545">
               <l>Hath Argos yearned then for the yearning host ?</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="546" end-line="546">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="546" end-line="546">
               <l>Ay, so that oft from darken'd soul I groaned.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="547" end-line="547">
             <speaker>HERALD</speaker>
-            <lg>
+            <lg start-line="547" end-line="547">
               <l>Whence this sad gloom, abhorrent to the host?</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="548" end-line="548">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="548" end-line="548">
               <l>Silence I long have held bale's safest cure.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="549" end-line="549">
             <speaker>HERALD</speaker>
-            <lg>
+            <lg start-line="549" end-line="549">
               <l>How! Aught didst fear in absence of thy lords?</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="550" end-line="550">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="550" end-line="550">
               <l>To die was oft my wish as whilom thine.</l>
             </lg>
           </sp>
           <pb n="25"/>
-          <sp>
+          <sp start-line="551" end-line="582">
             <speaker>HERALD</speaker>
-            <lg>
+            <lg start-line="551" end-line="582">
               <l>Well ended, all is well. But, in long years,</l>
               <l>Some chances, one might say, fell happily,</l>
               <l>While others adverse were. For who, save gods,</l>
@@ -1378,9 +1363,9 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Due honour shall attain. My tale is told.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="583" end-line="586">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="583" end-line="586">
               <l>Ungrudged surrender yield I to thy words.</l>
               <l>Age still is young enough for grateful lore.</l>
               <l>But Atreus' halls and Clytemnestra most</l>
@@ -1388,9 +1373,9 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
           <stage>Enter CLYTEMNESTRA.</stage>
-          <sp>
+          <sp start-line="587" end-line="614">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="587" end-line="614">
               <l>The shout of jubilee erewhile I raised,</l>
               <l>When first by night the fiery herald came,</l>
               <l>Telling of Ilion captured and o'erthrown.</l>
@@ -1423,9 +1408,9 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
           <stage>Exit CLYTEMNESTRA.</stage>
-          <sp>
+          <sp start-line="615" end-line="619">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="615" end-line="619">
               <l>Behold! The queen herself hath tutored thee;</l>
               <l>Decorous words her clear interpreters.</l>
               <l>But tell me, Herald, touching Menelas,</l>
@@ -1433,66 +1418,67 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Hither return, prince to his country dear ?</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="620" end-line="621">
             <speaker>HERALD</speaker>
-            <lg>
+            <lg start-line="620" end-line="621">
               <l>False news were I to tell, in flatt'ring terms,</l>
               <l>Not long would friends enjoy the fair deceit.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="622" end-line="623">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="622" end-line="623">
               <l>Oh, could'st thou speak auspicious words yet true!</l>
               <l>That here they sundered are is all too plain.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="624" end-line="625">
             <speaker>HERALD</speaker>
-            <lg>
+            <lg start-line="624" end-line="625">
               <l>The man is vanished from th' Achaian host;</l>
               <l>Himself and galley. No untruth I tell.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="626" end-line="627">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="626" end-line="627">
               <l>Steering ahead from Troy ? or hath a storm,</l>
               <l>A common terror, snatched him from the host?</l>
             </lg>
           </sp>
           <pb n="28"/>
-          <sp>
+          <sp start-line="628" end-line="629">
             <speaker>HERALD</speaker>
-            <lg>
+            <lg start-line="628" end-line="629">
               <l>Like skilful archer thou hast hit the mark;</l>
               <l>And hast in brief a mighty woe declared.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="630" end-line="631">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="630" end-line="631">
               <l>Say, doth the voice of other mariners</l>
               <l>Report of him as living, or as dead ?</l>
+
             </lg>
           </sp>
-          <sp>
+          <sp start-line="632" end-line="633">
             <speaker>HERALD</speaker>
-            <lg>
+            <lg start-line="632" end-line="633">
               <l>Not one so knoweth as to speak his doom,</l>
               <l>Save the bright Sun, feeder of teeming earth.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="634" end-line="635">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="634" end-line="635">
               <l>How ! Burst the tempest on the naval host</l>
               <l>Through anger of the gods ? say, what the end ?</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="636" end-line="680">
             <speaker>HERALD</speaker>
-            <lg>
+            <lg start-line="636" end-line="680">
               <l>Auspicious day with ill-announcing tongue</l>
               <l>Beseems not to defile. In weal and woe</l>
               <l>Diverse the honour due unto the gods.</l>
@@ -1538,23 +1524,22 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Foremost and chief, expect him to arrive;</l>
               <l>If any sunbeam knows of him as safe,</l>
               <l>Rejoicing in the light, (through the device</l>
-              <pb n="30"/>
+                <pb n="30"/>
               <l>Of Zeus, not willing yet the race to whelm,)</l>
               <l>Good hope there is that he may yet return.</l>
               <l>Hearing this tale, know, thou the truth hast heard.</l>
             </lg>
           </sp>
-                      </div>
-            <milestone ed="p" n="681" unit="card"/>
-            
-            <div type="textpart" subtype="choral">
+            </div>
+            </div>
+            <div type="textpart" subtype="stasimon" n="2">
+              <head>Stasimon 2</head>
                <div type="textpart" subtype="strophe" n="1">
-          <ab>
-            <title type="sub">Chorus. STROPHE I.</title>
-          </ab>
-          <sp>
+                         <head>Chorus. STROPHE I.</head>
+  
+          <sp start-line="681" end-line="698">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="681" end-line="698">
               <l>Who, oh who, with truest aim,</l>
               <l>Did the battle-wedded dame,</l>
               <l>Prize of conflict, Helen name ?</l>
@@ -1572,15 +1557,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
                          </div>
-         
                <div type="textpart" subtype="antistrophe" n="1">
-                  <milestone ed="p" n="699" unit="card"/>
-          <ab>
-            <title type="sub">ANTISTROPHE I.</title>
-          </ab>
-          <sp>
+                         <head>ANTISTROPHE I.</head>
+
+          <sp start-line="699" end-line="715">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="699" end-line="715">
               <l>Wrath, with direful issue fraught,</l>
               <l>Thus to hapless Ilion brought</l>
               <l>Dear alliance, dearly bought:</l>
@@ -1600,15 +1582,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
                          </div>
-               
                <div type="textpart" subtype="strophe" n="2">
-                  <milestone ed="p" n="716" unit="card"/>
-          <ab>
-            <title type="sub">STROPHE II.</title>
-          </ab>
-          <sp>
+                          <head>STROPHE II.</head>
+
+          <sp start-line="716" end-line="726">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="716" end-line="726">
               <l>So once did wight incautious rear</l>
               <l>A suckling lion, for the breast</l>
               <l>Still yearning, to the house a pest.</l>
@@ -1622,15 +1601,13 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </sp>
                          </div>
                <div type="textpart" subtype="antistrophe" n="2">
-                  <milestone ed="p" n="727" unit="card"/>
-              
+                             
 
-          <ab>
-            <title type="sub">ANTISTROPHE II.</title>
-          </ab>
-          <sp>
+          <head>ANTISTROPHE II.</head>
+
+          <sp start-line="727" end-line="736">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="727" end-line="736">
               <l>But time the temper doth bewray</l>
               <l>Inherent in his race. Due meed</l>
               <l>Of gentle nurture to repay,</l>
@@ -1644,18 +1621,16 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </sp>
                          </div>
                <div type="textpart" subtype="strophe" n="3">
-                  <milestone ed="p" n="737" unit="card"/>
-          <ab>
-            <title type="sub">STROPHE III.</title>
-          </ab>
-          <sp>
+                         <head>STROPHE III.</head>
+  
+          <sp start-line="737" end-line="749">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="737" end-line="749">
               <l>So came to Troia's walls, in evil hour,</l>
               <l>Spirit of breathless calm, fair pride</l>
               <l>Of riches, love's soul-piercing flower,</l>
               <l>The eyes' soft dart; but from her course aside</l>
-              <pb n="32"/>
+               <pb n="32"/>
               <l>Swerving, to wedlock bitter end she wrought.</l>
               <l>To Priam's offspring came she, mischief fraught,</l>
               <l>Evil companion, bringing evil dower.</l>
@@ -1665,13 +1640,11 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </sp>
                          </div>
                <div type="textpart" subtype="antistrophe" n="3">
-                  <milestone ed="p" n="750" unit="card"/>
-          <ab>
-            <title type="sub">ANTISTROPHE III.</title>
-          </ab>
-          <sp>
+                <head>ANTISTROPHE III.</head>
+          <sp start-line="750" end-line="762">
+                      
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="750" end-line="762">
               <l>Lives among men this saw, voiced long ago;</l>
               <l>" Success consummate breeds apace,</l>
               <l>Nor childless dies, but to the race</l>
@@ -1685,13 +1658,11 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </sp>
                          </div>
                <div type="textpart" subtype="strophe" n="4">
-                  <milestone ed="p" n="763" unit="card"/>
-          <ab>
-            <title type="sub">STROPHE IV.</title>
-          </ab>
-          <sp>
+                         <head>STROPHE IV.</head>
+ 
+          <sp start-line="763" end-line="771">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="763" end-line="771">
               <l>†But ancient Arrogance, or soon or late,</l>
               <l>When strikes the hour ordained by Fate,</l>
               <l>Breedeth new Arrogance, which still</l>
@@ -1705,16 +1676,13 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </sp>
                          </div>
                <div type="textpart" subtype="antistrophe" n="4">
-                  <milestone ed="p" n="772" unit="card"/>
-          <ab>
-            <title type="sub">ANTISTROPHE IV.</title>
-          </ab>
-          <sp>
+                          <head>ANTISTROPHE IV.</head>
+          <sp start-line="772" end-line="781">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="772" end-line="781">
               <l>But Justice doth the smoke-begrimèd cell</l>
               <l>Illumine with celestial sheen,</l>
-              <pb n="33"/>
+               <pb n="33"/>
               <l>And loves with honest worth to dwell.</l>
               <l>Gold-spangled palaces with hands unclean,</l>
               <l>Forsaking with averted eyes,</l>
@@ -1726,16 +1694,17 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </sp>
                          </div>
             </div>
-               <div type="textpart" subtype="episode">
-                  <div type="textpart" subtype="anapests">
-                     <milestone ed="p" n="782" unit="card"/>
-          <stage>[Enter warriors and captives; at last AGAMEMNON appears, <lb/>
-            seated on a chariot, with CASSANDRA at his side; soon after <lb/>
-            CLYTEMNESTRA, accompanied by female attendants, issues <lb/>
-            from the palace.]</stage>
-          <sp>
+               <div type="textpart" subtype="episode" n="3">
+                <head>Episode 3</head>
+                  <div type="textpart" subtype="anapests" n="3">
+                    <head>Anapaests</head>
+                    <stage>Enter warriors and captives; at last AGAMEMNON appears, 
+            seated on a chariot, with CASSANDRA at his side; soon after 
+            CLYTEMNESTRA, accompanied by female attendants, issues 
+            from the palace.</stage>
+          <sp start-line="782" end-line="809">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="782" end-line="798">
               <l>Hail, royal lord! Stormer of Ilion, hail!</l>
               <l>Scion of Atreus! How compose my speech,</l>
               <l>How due obeisance render thee,</l>
@@ -1753,7 +1722,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Who simulating love, with glozing art</l>
               <l>And watery kindness fawn, but inly mock.</l>
             </lg>
-            <lg>
+            <lg start-line="799" end-line="809">
               <l>But thou, O King, (I speak without disguise,)</l>
               <pb n="34"/>
               <l>In Helen's quarrel asking war's array,</l>
@@ -1770,11 +1739,13 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
           </div>
-          <div type="textpart" subtype="iambic">
-          <sp>
+          <div type="textpart" subtype="trimeter" n="2">
+            <head>Trimeters</head>
+
+          <sp start-line="810" end-line="854">
             <speaker>AGAMEMNON</speaker>
             <stage>speaking from the chariot.</stage>
-            <lg>
+            <lg start-line="810" end-line="854">
               <l>First Argos and her tutelary gods,</l>
               <l>Who with me wrought to compass my return,</l>
               <l>And visit Priam's town with vengeance due,</l>
@@ -1826,11 +1797,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Here may she henceforth stedfastly abide!</l>
             </lg>
           </sp>
-
           <pb n="36"/>
-          <sp>
+          <sp start-line="855" end-line="913">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="855" end-line="913">
               <l>Men of our city, Argive elders here,</l>
               <l>I shame not in your presence to avow</l>
               <l>My wifely temper ; bashful Fear in time</l>
@@ -1856,7 +1826,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Of mine and thine, stands not beside me now,</l>
               <l>As stand he should, Orestes. Marvel not,</l>
               <pb n="37"/>
-              <l>For him thy trusty spear-guest nourisheth ; <ref n="37.1">1</ref></l>
+              <l>For him thy trusty spear-guest nourisheth ;<ref n="37.1">1</ref> </l>
               <l>Strophius, the Phocian, who hath me forewarned</l>
               <l>Of twofold peril, thine 'neath Ilion's wall,</l>
               <l>And next lest clamour-fostered Anarchy</l>
@@ -1882,7 +1852,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>With such addresses do I honour him.</l>
               <l>Let Envy stand aloof! for we have borne</l>
               <l>Ere this full many a woe. Now dear my lord</l>
-              <l>Come from thy car; but on the ground, 0 King,</l>
+              <l>Come from thy car; but on the ground, O King,</l>
               <pb n="38"/>
               <l>Plant not the foot that trampled Ilion.</l>
               <l>Maidens, why tarry ye, whose duty 'tis</l>
@@ -1893,15 +1863,15 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Thought, not by sleep o'ermastered, shall dispose.</l>
             </lg>
           </sp>
-          
-            <note n="36.1">* Geryon, a monster represented by the poets as having <lb/>three bodies and three heads, and located by them in the <lb/>fabulous island of Erytheia. The capture of the oxen of <lb/>Geryon was one of the twelve labours of Heracles.</note>
-            <note n="36.2">‡ [<quote xml:lang="grc">Πολλὴν ἄνωθεν, τὴν κάτω γὰρ οὐ λέγω</quote>.]</note>
-            <note n="36.3">I agree with those critics who reject this line as spurious.</note>
-            <note n="37.1">* Spear-guest. The Greek word <quote xml:lang="grc">δορύξενος</quote> is explained <lb/>by Plutarch, whom Bishop Thirlwall follows, as expressing <lb/>the relation established when a prisoner of war dismissed on <lb/>parole has honourably paid his ransom.</note>
+
+            <note n="36.1">* Geryon, a monster represented by the poets as having three bodies and three heads, and located by them in the fabulous island of Erytheia. The capture of the oxen of Geryon was one of the twelve labours of Heracles.</note>
+            <note n="36.2">‡ <quote xml:lang="grc">[Πολλὴν ἄνωθεν, τὴν κάτω γὰρ οὐ λέγω].</quote>
+              I agree with those critics who reject this line as spurious.</note>
+            <note n="37.1">* Spear-guest. The Greek word <quote xml:lang="grc">δορύξενος</quote> is explained by Plutarch, whom Bishop Thirlwall follows, as expressing the relation established when a prisoner of war dismissed on parole has honourably paid his ransom.</note>
          
-<sp>
+          <sp start-line="914" end-line="930">
             <speaker>AGAMEMNON</speaker>
-            <lg>
+            <lg start-line="914" end-line="930">
               <l>Daughter of Leda! Guardian of my home!</l>
               <l>Such as my absence was, is now thy speech,</l>
               <l>Drawn out to ample length. With better grace</l>
@@ -1922,89 +1892,89 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>If thus I bear myself I need not fear.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="931" end-line="931">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="931" end-line="931">
               <l>Against my settled purpose speak not thus.</l>
             </lg>
           </sp>
-          <pb n="39"/>
-          <sp>
+              <pb n="39"/>
+          <sp start-line="932" end-line="932">
             <speaker>AGAMEMNON</speaker>
-            <lg>
+            <lg start-line="932" end-line="932">
               <l>Deem not my sober purpose I will mar.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="933" end-line="933">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="933" end-line="933">
               <l>Haply thou thus to act hast vowed in fear.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="934" end-line="934">
             <speaker>AGAMEMNON</speaker>
-            <lg>
+            <lg start-line="934" end-line="934">
               <l>Final and sure my word as man e'er spake.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="935" end-line="935">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="935" end-line="935">
               <l>What, thinkest thou, had Priam done if victor ?</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="936" end-line="936">
             <speaker>AGAMEMNON</speaker>
-            <lg>
+            <lg start-line="936" end-line="936">
               <l>Purples, I ween, he verily had trod.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="937" end-line="937">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="937" end-line="937">
               <l>Then stand not thou in fear of human blame.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="938" end-line="938">
             <speaker>AGAMEMNON</speaker>
-            <lg>
+            <lg start-line="938" end-line="938">
               <l>Yet hath the people's rumour mighty power.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="939" end-line="939">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="939" end-line="939">
               <l>Life envy-free is life unenviable.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="940" end-line="940">
             <speaker>AGAMEMNON</speaker>
-            <lg>
+            <lg start-line="940" end-line="940">
               <l>'Tis not for woman to be fond of strife.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="941" end-line="941">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="941" end-line="941">
               <l>But it becomes the fortunate to yield.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="942" end-line="942">
             <speaker>AGAMEMNON</speaker>
-            <lg>
+            <lg start-line="942" end-line="942">
               <l>Does conquest in this struggle rate so high ?</l>
             </lg>
           </sp>
-          <pb n="40"/>
-          <sp>
+               <pb n="40"/>
+          <sp start-line="943" end-line="943">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="943" end-line="943">
               <l>Yield thee; thy will bend willingly to mine.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="944" end-line="957">
             <speaker>AGAMEMNON</speaker>
-            <lg>
+            <lg start-line="944" end-line="957">
               <l>If thou wilt have it so, let one with speed</l>
               <l>These buskins loosen, vassals of the foot;</l>
               <l>Lest, if with them sea-tinctured robes I tread,</l>
@@ -2021,9 +1991,9 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Treading on purple to my halls I go.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="958" end-line="974">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="958" end-line="974">
               <l>A sea there is (which who may drain ?) that breeds</l>
               <l>Abundant purple, fresh from many a shell,</l>
               <l>Precious as silver, brilliant dye of robes,</l>
@@ -2034,7 +2004,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Had thus the oracles our house enjoined,</l>
               <l>Ransom devising for this precious life.</l>
               <l>For while the root lives on, the leafage spreads,</l>
-              <pb n="41"/>
+                 <pb n="41"/>
               <l>Screening the mansion from the dog-star's ray.</l>
               <l>So now, returning to thy household hearth,</l>
               <l>As warmth in winter doth thy presence show.</l>
@@ -2045,18 +2015,15 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Thine be the care of that which crown thou wilt.</l>
             </lg>
           </sp>
-          <stage>Exeunt CLYTEMNESTRA and AGAMEMNON into the palace.</stage>
+                 <stage>Exeunt CLYTEMNESTRA and AGAMEMNON into the palace.</stage>
           </div></div>
-
-           <milestone ed="p" n="975" unit="card"/>
-            <div type="textpart" subtype="choral">
+           <div type="textpart" subtype="stasimon" n="3">
+            <head>Stasimon 3</head>
                <div type="textpart" subtype="strophe" n="1">
-          <ab>
-            <title type="sub">Chorus. STROPHE I.</title>
-          </ab>
-          <sp>
+                        <head>Chorus. STROPHE I.</head>
+          <sp start-line="975" end-line="987">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="975" end-line="987">
               <l>Whence this dread portent, that untired</l>
               <l>Before my bodeful spirit floats ?</l>
               <l>Wherefore, unbidden and unhired,</l>
@@ -2071,22 +2038,18 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
                      </div>
-               
                <div type="textpart" subtype="antistrophe" n="1">
-                  <milestone ed="p" n="988" unit="card"/>
-          <ab>
-            <title type="sub">ANTISTROPHE I.</title>
-          </ab>
-          <sp>
+                          <head>ANTISTROPHE I.</head>
+          <sp start-line="988" end-line="1000">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="988" end-line="1000">
               <l>After long absence their return</l>
               <l>With self-informing eyes I learn ;</l>
               <l>Yet in its depths my soul, self-taught,</l>
               <l>Chanteth Erinys' lyreless strains ;</l>
               <l>My hopes, of courage reft, depart;</l>
               <l>Not vainly throb my inmost reins ;</l>
-              <pb n="42"/>
+               <pb n="42"/>
               <l>Whirleth on eddies of dark thought</l>
               <l>My bodeful heart;</l>
               <l>Yet, against hope, the gods I pray,</l>
@@ -2095,14 +2058,16 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
                          </div>
-               <div type="textpart" subtype="strophe" n="2">
-                  <milestone ed="p" n="1001" unit="card"/>
-          <ab>
-            <title type="sub">STROPHE II.</title>
-          </ab>
-          <sp>
+
+
+                         
+
+
+                         <div type="textpart" subtype="strophe" n="2">
+                                      <head>STROPHE II.</head>
+          <sp start-line="1001" end-line="1016">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1001" end-line="1016">
               <l>Never will perfect health confess</l>
               <l>Her limit sated ; though disease,</l>
               <l>Neighbour, with party-wall, against her press.</l>
@@ -2121,13 +2086,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </sp>
                          </div>
                <div type="textpart" subtype="antistrophe" n="2">
-                 <milestone ed="p" n="1017" unit="card"/>
-          <ab>
-            <title type="sub">ANTISTROPHE II.</title>
-          </ab>
-          <sp>
+                          <head>ANTISTROPHE II.</head>
+          <sp start-line="1017" end-line="1033">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1017" end-line="1033">
               <l>But when on earth the crimson gore</l>
               <l>Of man hath fallen, never more</l>
               <l>May charm or spell the vanished life evoke;</l>
@@ -2136,7 +2098,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Fell, blasted by the Thunderer's warning stroke.</l>
               <l>†Now did not Fate—a heaven-sent Fate—</l>
               <l>Baffle my impulse, ere too late,</l>
-              <pb n="43"/>
+               <pb n="43"/>
               <l>Leaving behind the lagging tongue,</l>
               <l>My heart its bodeful strain had sung.</l>
               <l>But now it raves; no cheering rays</l>
@@ -2145,14 +2107,14 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>With fiery ardour glows.</l>
             </lg>
           </sp>
-          <stage>Enter CLYTEMNESTRA, stepping hastily out of the palace.</stage>
                          </div>
             </div>
-            <milestone ed="p" n="1035" unit="card"/>
-            <div type="textpart" subtype="episode">
-          <sp>
+            <div type="textpart" subtype="episode" n="4">
+              <head>Episode 4</head>
+                        <stage>Enter CLYTEMNESTRA, stepping hastily out of the palace.</stage>
+          <sp start-line="1035" end-line="1046">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="1035" end-line="1046">
               <l>Come thou too in, Cassandra, thee I mean;</l>
               <l>For not in wrath Zeus placed thee in our house</l>
               <l>A sharer in our lustral rites to stand,</l>
@@ -2167,33 +2129,33 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>From us thou hast what usuage warranteth.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1047" end-line="1049">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1047" end-line="1049">
               <l>Thee in clear words she hath addressed, and thou,</l>
               <l>Meshed as thou art within the toils of Fate,</l>
               <l>Yield if thou canst; mayhap thou wilt not yield.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1050" end-line="1052">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="1050" end-line="1052">
               <l>Nay, an she be not, swallow-like, possessed</l>
               <l>Of an unknown, barbaric tongue, my words,</l>
               <l>Reaching her mind, must move her to comply.</l>
             </lg>
           </sp>
-          <pb n="44"/>
-          <sp>
+           <pb n="44"/>
+          <sp start-line="1053" end-line="1054">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1053" end-line="1054">
               <l>Follow! She counsels for thy need the best:</l>
               <l>Be thou persuaded;—leave thy chariot-seat.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1055" end-line="1061">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="1055" end-line="1061">
               <l>No leisure have I here before the gates</l>
               <l>To linger; for, beside the central hearth,</l>
               <l>The victims wait the sacrificial fire ;</l>
@@ -2204,179 +2166,168 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>In lieu of voice, speak with barbarian hand.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1062" end-line="1063">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1062" end-line="1063">
               <l>A clear interpreter the stranger needs :</l>
               <l>Distraught she seems, like creature newly caught.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1064" end-line="1068">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="1064" end-line="1068">
               <l>Nay, she is mad ; to her distempered thoughts</l>
               <l>She listens ; from a newly-captured town</l>
               <l>She cometh here, nor knows the yoke to bear,</l>
               <l>Till quelled in foam the passion of her blood.</l>
               <l>But words I'll waste no more, thus to be scorned.</l>
             </lg>
-            <stage>Exit.</stage>
+                <stage>Exit.</stage>
           </sp>
-          <sp>
+          <sp start-line="1069" end-line="1071">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1069" end-line="1071">
               <l>But I, by pity moved, will not be wroth ;</l>
               <l>Come, wretched sufferer, this car forsake ;</l>
               <l>To Fortune yielding, hansel this new yoke.</l>
             </lg>
           </sp>
-                        </div>
-            <div type="textpart" subtype="choral">
+                        
+            <div type="textpart" subtype="kommos">
+              <head>Kommos</head>
                <div type="textpart" subtype="strophe" n="1">
-                  <milestone ed="p" n="1072" unit="card"/>
-
-          <ab>
-            <title type="sub">CASSANDRA. STROPHE I.</title>
-          </ab>
-          <sp>
+                          <head>CASSANDRA. STROPHE I.</head>
+          <sp start-line="1072" end-line="1073">
             <speaker>CASSANDRA</speaker>
-            <lg>
-              <l>Ah mo ! alas ! Gods, Earth!</l>
+            <lg start-line="1072" end-line="1073">
+              <l>Ah me ! alas ! Gods, Earth!</l>
               <l>Apollo, O Apollo!</l>
             </lg>
           </sp>
-          <pb n="45"/>
-          <sp>
+        </div>
+        <div type="textpart" subtype="trimeter">
+          <head>Trimeter</head>
+            <pb n="45"/>
+          <sp start-line="1074" end-line="1075">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1074" end-line="1075">
               <l>Why raise for Loxias these cries of bale ?</l>
               <l>Not he the god to need the mourner's wail.</l>
             </lg>
           </sp>
                </div>
                <div type="textpart" subtype="antistrophe" n="1">
-                  <milestone ed="p" n="1076" unit="card"/>
-          
-          <ab>
-            <title type="sub">CASSANDRA. ANTISTROPHE I.</title>
-          </ab>
-          <sp>
+                          <head>CASSANDRA. ANTISTROPHE I.</head>
+          <sp start-line="1076" end-line="1077">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1076" end-line="1077">
               <l>Ah me ! alas ! Gods, Earth!</l>
               <l>Apollo, O Apollo!</l>
             </lg>
           </sp>
-          <sp>
+                 </div>
+        <div type="textpart" subtype="trimeter">
+  <head>Trimeter</head>
+          <sp start-line="1078" end-line="1079">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1078" end-line="1079">
               <l>Once more she calleth with ill-omened cry,</l>
               <l>The god who hath no part in misery.</l>
             </lg>
           </sp>
                </div>
                <div type="textpart" subtype="strophe" n="2">
-                  <milestone ed="p" n="1080" unit="card"/>
-
-          <ab>
-            <title type="sub">CASSANDRA. STROPHE II.</title>
-          </ab>
-          <sp>
+                     <head>CASSANDRA. STROPHE II.</head>
+          <sp start-line="1080" end-line="1082">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1080" end-line="1082">
               <l>Apollo, O Apollo!</l>
               <l>Thou way-god! my destroyer!</l>
               <l>Once more thou hast destroyed me utterly.</l>
             </lg>
           </sp>
-          <sp>
+                 </div>
+        <div type="textpart" subtype="trimeter">
+  <head>Trimeter</head>
+          <sp start-line="1083" end-line="1084">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1083" end-line="1084">
               <l>She seems about to augur her own ills ;</l>
               <l>Heaven's breathing e'en in bonds her spirit fills.</l>
             </lg>
           </sp>
               </div>
-                  <milestone ed="p" n="1085" unit="card"/>
                <div type="textpart" subtype="antistrophe" n="2">
-
-          <ab>
-            <title type="sub">CASSANDRA. ANTISTROPHE II.</title>
-          </ab>
-          <sp>
+                          <head>CASSANDRA. ANTISTROPHE II.</head>
+          <sp start-line="1085" end-line="1087">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1085" end-line="1087">
               <l>Apollo, O Apollo!</l>
               <l>Thou way-god! my destroyer !</l>
               <l>Ah, whither hast thou led me ? to what roof?</l>
             </lg>
           </sp>
-          <sp>
+                 </div>
+        <div type="textpart" subtype="trimeter">
+  <head>Trimeter</head>
+          <sp start-line="1088" end-line="1089">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1088" end-line="1089">
               <l>To the Atreidan; an thou dost not know</l>
               <l>I tell thee; thou'lt not say it is not so.</l>
             </lg>
           </sp>
                  </div>
-               
-            
-               <milestone ed="p" n="1090" unit="card"/>
+                       <pb n="46"/>
                <div type="textpart" subtype="strophe" n="3">
-          <pb n="46"/>
-          <ab>
-            <title type="sub">CASSANDRA. STROPHE III.</title>
-          </ab>
-          <sp>
+                     <head>CASSANDRA. STROPHE III.</head>
+          <sp start-line="1090" end-line="1092">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1090" end-line="1092">
               <l>Ah! Ah!</l>
               <l>A heaven-detested house, whose walls of yore</l>
               <l>Halters have seen, and streams of kindred gore;</l>
               <l>A human shambles with blood-reeking floor.</l>
             </lg>
           </sp>
-          <sp>
+                 </div>
+        <div type="textpart" subtype="trimeter">
+  <head>Trimeter</head>
+          <sp start-line="1093" end-line="1094">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1093" end-line="1094">
               <l>Keen scented seems the stranger, like a hound ;</l>
               <l>Ay, and the blood she's tracking will be found.</l>
             </lg>
           </sp>
                </div>
-               
-                  <milestone ed="p" n="1095" unit="card"/>
                <div type="textpart" subtype="antistrophe" n="3">
-              
-
-          <ab>
-            <title type="sub">CASSANDRA. ANTISTROPHE III.</title>
-          </ab>
-          <sp>
+                          <head>CASSANDRA. ANTISTROPHE III.</head>
+          <sp start-line="1095" end-line="1097">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1095" end-line="1097">
               <l>Ah! Ah!</l>
               <l>Lo ! witnesses trust-worthy ! Vouchers dire!</l>
               <l>These babes, who weep their death-wound, faith inspire,</l>
               <l>Their roasted members eaten by their sire!</l>
             </lg>
           </sp>
-          <sp>
+                 </div>
+        <div type="textpart" subtype="trimeter">
+  <head>Trimeter</head>
+          <sp start-line="1098" end-line="1099">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1098" end-line="1099">
               <l>Thy fame oracular hath reached our ear;</l>
               <l>But certes seek we now no prophet here.</l>
             </lg>
           </sp>
                </div>
-                     <milestone ed="p" n="1100" unit="card"/>
            <div type="textpart" subtype="strophe" n="4">
-          <ab>
-            <title type="sub">CASSANDRA. STROPHE IV.</title>
-          </ab>
-          <sp>
+                    <head>CASSANDRA. STROPHE IV.</head>
+          <sp start-line="1100" end-line="1104">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1100" end-line="1104">
               <l>Alas! ye gods!</l>
               <l>What is she plotting? what new blow ?</l>
               <l>A mighty mischief plots she 'neath this roof;</l>
@@ -2384,47 +2335,46 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Unbearable to friends. Help stands aloof.</l>
             </lg>
           </sp>
-          <sp>
+                 </div>
+        <div type="textpart" subtype="trimeter">
+  <head>Trimeter</head>
+          <sp start-line="1105" end-line="1106">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1105" end-line="1106">
               <l>Dark are these oracles ; the first I know ;</l>
               <l>For, them the city voucheth wholly true.</l>
             </lg>
           </sp>
           </div>
-               <milestone ed="p" n="1107" unit="card"/>
            <div type="textpart" subtype="antistrophe" n="4">
-           <ab>
-            <title type="sub">CASSANDRA. ANTISTROPHE IV.</title>
-          </ab>
-          <sp>
+                       <head>CASSANDRA. ANTISTROPHE IV.</head>
+          <sp start-line="1107" end-line="1111">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1107" end-line="1111">
               <l>Ah wretched one!</l>
               <l>The deed wilt consummate? With guile</l>
-              <pb n="47"/>
+               <pb n="47"/>
               <l>Wilt in the bath thy wedded consort cheer?</l>
               <l>How speak the issue ? Soon it will be here ;—</l>
               <l>Hand after hand is lifted. Woe the while !</l>
             </lg>
           </sp>
-          <sp>
+                 </div>
+        <div type="textpart" subtype="trimeter">
+  <head>Trimeter</head>
+          <sp start-line="1112" end-line="1113">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1112" end-line="1113">
               <l>I comprehend her not; this mystic lore,</l>
               <l>These blear-eyed oracles perplex me sore.</l>
             </lg>
           </sp>
            </div>
-                  <milestone ed="p" n="1114" unit="card"/>
            <div type="textpart" subtype="strophe" n="5">
-
-          <ab>
-            <title type="sub">CASSANDRA. STROPHE V.</title>
-          </ab>
-          <sp>
+                      <head>CASSANDRA. STROPHE V.</head>
+          <sp start-line="1114" end-line="1118">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1114" end-line="1118">
               <l>Woe! woe! Look! look! What see I there?</l>
               <l>Is it, ye gods, a net of hell ?</l>
               <l>The wife herself, joint-slayer, is the snare.</l>
@@ -2433,13 +2383,13 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Unglutted with the race, their chorus swell!</l>
             </lg>
           </sp>
-<milestone ed="p" n="1119" unit="card"/>
-          <ab>
-            <title type="sub">Chorus. STROPHE VI.</title>
-          </ab>
-          <sp>
+          <milestone ed="p" n="1119" unit="card"/>
+            </div>
+           <div type="textpart" subtype="strophe" n="6">
+                 <head>Chorus. STROPHE VI.</head>
+          <sp start-line="1119" end-line="1124">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1119" end-line="1124">
               <l>What Fury 'gainst this house doth summon ? What,</l>
               <l>The shriek to raise ? Such utt’rance cheers me not.</l>
               <l>Pallid through every vein</l>
@@ -2449,17 +2399,13 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>But Atè comes amain.</l>
             </lg>
           </sp>
-  
- 
              </div>
-               <milestone ed="p" n="1125" unit="card"/>
+             
            <div type="textpart" subtype="antistrophe" n="5">
-         <ab>
-            <title type="sub">CASSANDRA. ANTISTROPHE V.</title>
-          </ab>
-          <sp>
+                     <head>CASSANDRA. ANTISTROPHE V.</head>
+          <sp start-line="1125" end-line="1129">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1125" end-line="1129">
               <l>Hold! hold ! Woe! woe! The heifer there</l>
               <l>Keep from the bull. In meshes fell</l>
               <l>†Of black-woofed garb entangled,-guileful snare,-</l>
@@ -2468,17 +2414,27 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>He falls. The laver’s guileful doom I tell.</l>
             </lg>
           </sp>
-                         <milestone ed="p" n="1130" unit="card"/>
+            </div>
+           <div type="textpart" subtype="antistrophe" n="6">
+                
+        <div type="textpart" subtype="trimeter">
+  <head>Trimeter</head>
+           <pb n="48"/>
+            <milestone ed="p" n="1130" unit="card"/>
+                  <head>Chorus. ANTISTROPHE VI.</head>
+          <sp start-line="1130" end-line="1131">
 
-          <pb n="48"/>
-          <ab>
-            <title type="sub">Chorus. ANTISTROPHE VI.</title>
-          </ab>
-          <sp>
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1130" end-line="1131">
               <l>I boast not to be skilled in auguries,</l>
               <l>Yet mischief here I cannot but surmise.</l>
+            </lg></sp>
+              <div type="textpart" subtype="lyric">
+                <head>Lyric</head>
+                  <sp start-line="1132" end-line="1135">
+
+            <speaker>Chorus</speaker>
+            <lg start-line="1132" end-line="1135">
               <l>Through spells, say, if ye know,</l>
               <l>To mortals here below,</l>
               <l>What grateful cheer is sent ?</l>
@@ -2486,30 +2442,28 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Breed dark presentiment.</l>
             </lg>
           </sp>
+          </div>
                      </div>
-                  <milestone ed="p" n="1136" unit="card"/>
-           <div type="textpart" subtype="strophe" n="6">
-
-          <ab>
-            <title type="sub">CASSANDRA. STROPHE VII.</title>
-          </ab>
-          <sp>
+                        </div>
+           <div type="textpart" subtype="strophe" n="7">
+                      <head>CASSANDRA. STROPHE VII.</head>
+          <sp start-line="1136" end-line="1139">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1136" end-line="1139">
               <l>Woe! woe! my wretched ill-starred lot!</l>
               <l>Wailing another's fate mine own I mourn ;</l>
               <l>Why hast thou led me hither, all forlorn,</l>
               <l>Unless with thee to perish ? Wherefore not ?</l>
             </lg>
           </sp>
-                         <milestone ed="p" n="1140" unit="card"/>
-
-          <ab>
-            <title type="sub">Chorus. STROPHE VIII.</title>
-          </ab>
-          <sp>
+            </div>
+           <div type="textpart" subtype="strophe" n="8">
+            <div type="textpart" subtype="trimeter">
+              <head>Trimeter.</head>
+                   <head>Chorus. STROPHE VIII.</head>
+          <sp start-line="1140" end-line="1145">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1140" end-line="1145">
               <l>Thou'rt frenzied, by some god possest,</l>
               <l>And tuneless quirest forth thy doom,</l>
               <l>Like nightingale, with dusky plume</l>
@@ -2518,21 +2472,16 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Her life bewailing, rich alone in woes.</l>
             </lg>
           </sp>
+          </div>
            </div>
-                     <milestone ed="p" n="1146" unit="card"/>
-           <div type="textpart" subtype="antistrophe" n="6">
-
-          <ab>
-            <title type="sub">CASSANDRA. ANTISTROPHE VII.</title>
-          </ab>
-          <sp>
+           <div type="textpart" subtype="antistrophe" n="7">
+     <head>CASSANDRA. ANTISTROPHE VII.</head>
+          <sp start-line="1146" end-line="1149">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1146" end-line="1149">
               <l>Woe ! woe ! Clear-voicèd bird, arrayed</l>
               <l>In plumed shape, by powers divine ;</l>
-
-        
-            <note n="48.1">* In the Odyssey (xix. 518) Penelope compares herself to <lb/>Pandareos’ child, the sylvan nightingale which, in the open­<lb/>ing spring, perched amid the dense foliage of the trees, <lb/>warbles beautifully, with frequent change of key, lamenting <lb/>her boy, her beloved Itylos, son of King Zethus, whom, <lb/>through insensate folly, she had slain. This is the oldest <lb/>form of the legend.</note>
+                          <note n="48.1">* In the Odyssey (xix. 518) Penelope compares herself to Pandareos’ child, the sylvan nightingale which, in the open­ing spring, perched amid the dense foliage of the trees, warbles beautifully, with frequent change of key, lamenting her boy, her beloved Itylos, son of King Zethus, whom, through insensate folly, she had slain. This is the oldest form of the legend.</note>
          
 
             
@@ -2541,14 +2490,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>But me awaits the double-edged blade.</l>
             </lg>
           </sp>
-                               <milestone ed="p" n="1150" unit="card"/>
-
-          <ab>
-            <title type="sub">Chorus. ANTISTROPHE VIII.</title>
-          </ab>
-          <sp>
+            </div>
+           <div type="textpart" subtype="antistrophe" n="8">
+                 <head>Chorus. ANTISTROPHE VIII.</head>
+          <sp start-line="1150" end-line="1155">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1150" end-line="1155">
               <l>Whence hast thou these prophetic throes,</l>
               <l>Rushing athwart thy soul, in vain ?</l>
               <l>Why body forth in dismal strain,</l>
@@ -2558,15 +2505,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
            </div>
-                        <milestone ed="p" n="1156" unit="card"/>
-           <div type="textpart" subtype="strophe" n="7">
-      
- <ab>
-            <title type="sub">CASSANDRA. STROPHE IX.</title>
-          </ab>
-          <sp>
+           <div type="textpart" subtype="strophe" n="9">
+             <head>CASSANDRA. STROPHE IX.</head>
+          
+          <sp start-line="1156" end-line="1161">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1156" end-line="1161">
               <l>Oh, nuptial rite, oh, nuptial rite,</l>
               <l>Of Paris, fraught with doom !</l>
               <l>Scamander ! whence my fathers drank,</l>
@@ -2576,14 +2520,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>To augur on their dismal shores invite.</l>
             </lg>
           </sp>
-                               <milestone ed="p" n="1162" unit="card"/>
-
-          <ab>
-            <title type="sub">Chorus. STROPHE X.</title>
-          </ab>
-          <sp>
+            </div>
+           <div type="textpart" subtype="strophe" n="10">
+                    <head>Chorus. STROPHE X.</head>
+          <sp start-line="1162" end-line="1166">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1162" end-line="1166">
               <l>What thought hast uttered all too clear?</l>
               <l>An infant might interpret here.</l>
               <l>Smitten within am I with gory sting,</l>
@@ -2592,32 +2534,29 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
              </div>
-                           <milestone ed="p" n="1167" unit="card"/>
-           <div type="textpart" subtype="antistrophe" n="7">
-
-          <ab>
-            <title type="sub">CASSANDRA. ANTISTROPHE IX.</title>
-          </ab>
-          <sp>
+           <div type="textpart" subtype="antistrophe" n="9">
+                <head>CASSANDRA. ANTISTROPHE IX.</head>
+          <sp start-line="1167" end-line="1172">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1167" end-line="1172">
               <l>Oh deadly coil, oh, deadly coil</l>
               <l>Of Ilion, doomed to fall !</l>
               <l>Alas, the flower-cropping kine</l>
               <l>Slain by my father at the shrine</l>
-              <pb n="50"/>
+                <pb n="50"/>
               <l>To save her sacred wall!</l>
+            
               <l>But cure was none : she perished ; vain the toil!</l>
               <l>I too, soul-kindled, soon shall press the soil.</l>
             </lg>
           </sp>
-          <milestone ed="p" n="1173" unit="card"/>
-          <ab>
-            <title type="sub">Chorus. ANTISTROPHE X.</title>
-          </ab>
-          <sp>
+            </div>
+           <div type="textpart" subtype="antistrophe" n="10">
+               <head>Chorus. ANTISTROPHE X.</head>
+          <sp start-line="1173" end-line="1177">
+
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1173" end-line="1177">
               <l>This tallies with thy former strain ;</l>
               <l>Sure some ill demon smites thy brain,</l>
               <l>And falling on thee moves thee thus to tell</l>
@@ -2625,15 +2564,14 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>The end I cannot spell.</l>
             </lg>
           </sp>
-            </div></div>
-            
-         
-         <milestone ed="p" n="1178" unit="card"/>
-        <div type="textpart" subtype="episode">
- 
-          <sp>
+            </div>
+          </div>
+
+          
+            <div type="textpart" subtype="trimeter" n="3">
+          <sp start-line="1178" end-line="1197">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1178" end-line="1197">
               <l>In sooth the oracle no more shall peer</l>
               <l>Forth from a veil, like newly wedded bride ;</l>
               <l>But flashing on the soul, like wind that blows</l>
@@ -2653,96 +2591,96 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>In turn they tell their loathing. Have I missed,</l>
               <l>Or, like true archer, have I hit the mark?</l>
               <l>Or strolling cheat, or lying prophet am I ?</l>
-              <pb n="51"/>
+                   <pb n="51"/>
               <l>Before I die, attest ye now on oath</l>
               <l>That of these halls the hoary crimes I know.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1198" end-line="1201">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1198" end-line="1201">
               <l>And how can oath be healer of a woe</l>
               <l>Inherent in the race? Yet marvel I</l>
               <l>That, nurtured o'er the sea, thou know'st to speak</l>
               <l>Of foreign city as though native there.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1202" end-line="1202">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1202" end-line="1202">
               <l>Loxias, the seer, me with this grace endowed.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1204" end-line="1204">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1204" end-line="1204">
               <l>How! passion-smitten was he, though a god?</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1203" end-line="1203">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1203" end-line="1203">
               <l>Till now it shamed me to speak of this.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1205" end-line="1205">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1205" end-line="1205">
               <l>True ; for who fareth well grows over-nice.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1206" end-line="1206">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1206" end-line="1206">
               <l>Love-wrestler was he, warm his favour breathed.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1207" end-line="1207">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1207" end-line="1207">
               <l>Came ye in course to rite conjugial ?</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1208" end-line="1208">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1208" end-line="1208">
               <l>Consent I gave, but cheated Loxias.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1209" end-line="1209">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1209" end-line="1209">
               <l>Mistress already of presaging art?</l>
             </lg>
           </sp>
-          <pb n="52"/>
-          <sp>
+            <pb n="52"/>
+          <sp start-line="1210" end-line="1210">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1210" end-line="1210">
               <l>Ay, to the townsmen all their woes I spelled.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1211" end-line="1211">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1211" end-line="1211">
               <l>How then by wrath of Loxias unharmed ?</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1212" end-line="1212">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1212" end-line="1212">
               <l>No credence won I after this offence.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1213" end-line="1213">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1213" end-line="1213">
               <l>To us thy oracles seem all too true.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1214" end-line="1241">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1214" end-line="1241">
               <l>Woe! woe! alas! alas! ye miseries !</l>
               <l>Of faithful augury the direful toil</l>
               <l>Racks me once more, with bodeful preludings</l>
@@ -2761,7 +2699,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Spoke words of guileful welcome, long drawn out,</l>
               <l>Like lurking Atè, will achieve his doom.</l>
               <l>Such things she dares ; the female slays the male!</l>
-              <pb n="53"/>
+               <pb n="53"/>
               <l>Her,—what detested monster may I name</l>
               <l>Aud hit the mark ?-Some basilisk, or Scylla</l>
               <l>Housing in rocks, deadly to mariners,</l>
@@ -2775,79 +2713,79 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Me thou wilt own a prophet all too true.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1242" end-line="1245">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1242" end-line="1245">
               <l>Thyestes' banquet of his children's flesh</l>
               <l>I knew and shudder at; fear takes my soul,</l>
               <l>Hearing the truth, no imaged counterfeit.</l>
               <l>The rest I heard, but follow not the track.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1246" end-line="1246">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1246" end-line="1246">
               <l>On Agamemnon dead, I say, thou'lt look.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1247" end-line="1247">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1247" end-line="1247">
               <l>Lull, poor forlorn one, thy ill-omened tongue.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1248" end-line="1248">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1248" end-line="1248">
               <l>Yet o'er this speech no healing god presides.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1249" end-line="1249">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1249" end-line="1249">
               <l>If be it must; but may it never be;</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1250" end-line="1250">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1250" end-line="1250">
               <l>The while thou prayest, theirs it is to slay.</l>
             </lg>
           </sp>
           <pb n="54"/>
-          <sp>
+          <sp start-line="1251" end-line="1251">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1251" end-line="1251">
               <l>What man deviseth this accursèd deed ?</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1252" end-line="1252">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1252" end-line="1252">
               <l>Widely thy glance hath missed mine oracles.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1253" end-line="1253">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1253" end-line="1253">
               <l>Ay, for the plotter's scheme to me is dark.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1254" end-line="1254">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1254" end-line="1254">
               <l>Yet in Hellenic speech my words are couched.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1255" end-line="1255">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1255" end-line="1255">
               <l>So too are Pythian chants, yet hard to spell.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1256" end-line="1294">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1256" end-line="1294">
               <l>Alas ! what fire is this! It seizes me.</l>
               <l>Woe! woe! Lykeian god! Apollo! Woe!</l>
               <l>The biped lioness, that with the wolf</l>
@@ -2864,7 +2802,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Another, in my place, enrich with woes.</l>
               <l>Behold, Apollo’s self doth strip me bare</l>
               <l>Of the prophetic robe ; coldly he gazed,</l>
-              <pb n="55"/>
+               <pb n="55"/>
               <l>What time, in these adornments vainly tricked,</l>
               <l>To friends and enemies, with one consent,</l>
               <l>All undeserved, a laughter I became :</l>
@@ -2893,9 +2831,9 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>While ebbs my life-blood, may I close mine eyes.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1295" end-line="1298">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1295" end-line="1298">
               <l>Oh woman, thou most wretched and most wise;</l>
               <l>Lengthy thy speech hath been ; but if thou knowest</l>
               <l>Truly thine own sad doom, how walkest thou</l>
@@ -2903,95 +2841,95 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
           <pb n="56"/>
-          <sp>
+          <sp start-line="1299" end-line="1299">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1299" end-line="1299">
               <l>There’s no escape; brief respite, nothing more.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1300" end-line="1300">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1300" end-line="1300">
               <l>Yet to be last is gain at least of time.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1301" end-line="1301">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1301" end-line="1301">
               <l>The day is come, small were my gain by flight.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1302" end-line="1302">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1302" end-line="1302">
               <l>Enduring art thou, and of dauntless mind.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1303" end-line="1303">
             <speaker>CASSANDRA</speaker>
-            <lg>
-              <l>Yet dear to mortals is a glorious death.</l>
-            </lg>
-          </sp>
-          <sp>
-            <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1303" end-line="1303">
               <l>Such words none heareth from the fortunate.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1304" end-line="1304">
+            <speaker>Chorus</speaker>
+            <lg start-line="1304" end-line="1304">
+              <l>Yet dear to mortals is a glorious death.</l>
+            </lg>
+          </sp>
+          <sp start-line="1305" end-line="1305">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1305" end-line="1305">
               <l>Alas, my sire, for thee and thy brave sons!</l>
             </lg>
             <stage>She suddenly starts back.</stage>
           </sp>
-          <sp>
+          <sp start-line="1306" end-line="1306">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1306" end-line="1306">
               <l>What may this mean ? What terror drives thee back ?</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1307" end-line="1307">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1307" end-line="1307">
               <l>Alas! alas!</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1308" end-line="1308">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1308" end-line="1308">
               <l>Why this alas, unless some horror scare thee?</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1309" end-line="1309">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1309" end-line="1309">
               <l>Blood-reeking murder breatheth from these halls.</l>
             </lg>
           </sp>
-          <pb n="57"/>
-          <sp>
+              <pb n="57"/>
+          <sp start-line="1310" end-line="1310">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1310" end-line="1310">
               <l>'Tis but the scent of victims at the hearth.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1311" end-line="1311">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1311" end-line="1311">
               <l>Nay, but such breath as issues from a tomb.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1312" end-line="1312">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1312" end-line="1312">
               <l>No Syrian odour tell'st thou for the house.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1313" end-line="1320">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1313" end-line="1320">
               <l>Well! I will go, within these palace halls</l>
               <l>To wail mine own and Agamemnon's doom.</l>
               <l>Enough of life ! Strangers! Alas! Alas!</l>
@@ -3002,15 +2940,16 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Dying, this hospitable grace I crave.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1321" end-line="1321">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1321" end-line="1321">
               <l>Poor wretch ; Thy fateful doom my pity moves.</l>
             </lg>
           </sp>
-          <sp>
+      
+          <sp start-line="1322" end-line="1330">
             <speaker>CASSANDRA</speaker>
-            <lg>
+            <lg start-line="1322" end-line="1330">
               <l>Once more I fain would speak, but not to pour</l>
               <l>Mine own funereal wail; but to the Sun,</l>
               <l>Looking my last upon his beams, I pray</l>
@@ -3018,16 +2957,18 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Requiting me, poor slave, their easy prey.</l>
               <l>Alas, for man's estate! If Fortune smile,</l>
               <l>A shadow may o'erturn it; should she frown,</l>
-              <pb n="58"/>
+                <pb n="58"/>
               <l>A moistened sponge the picture doth destroy.</l>
               <l>More than the first this doom my pity moves.</l>
             </lg>
           </sp>
-          <stage>Exit into the palace.</stage>
-                     <div type="textpart" subtype="anapests">
-          <sp>
+             <stage>Exit into the palace.</stage>
+             </div>
+            </div>
+                     <div type="textpart" subtype="stasimon" n="4">
+          <sp start-line="1331" end-line="1342">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1331" end-line="1342">
               <l>All are of boundless weal insatiate ;—</l>
               <l>None warneth from his halls</l>
               <l>Him at whom Envy points, as rich or great,</l>
@@ -3043,92 +2984,98 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>That he were born to scathless destiny ?</l>
             </lg>
           </sp>
-          <sp>
+          </div>
+        <div type="textpart" subtype="episode" n="5">
+          <head>Episode 5</head>
+        
+        <div type="textpart" subtype="trimeter" n="4"> 
+          <sp start-line="1343" end-line="1343">
             <speaker>AGAMEMNON</speaker>
             <stage>In the palace.</stage>
-            <lg>
+            <lg start-line="1343" end-line="1343">
               <l>Woe's me ! I'm smitten with a deadly blow !</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1344" end-line="1344">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1344" end-line="1344">
               <l>Hush! Wounded unto death who lifts this cry.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1345" end-line="1345">
             <speaker>AGAMEMNON</speaker>
-            <lg>
+            <lg start-line="1345" end-line="1345">
               <l>Woe’s me ! Again ! a second time I'm struck.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1346" end-line="1347">
             <speaker>Choraphæus</speaker>
-            <lg>
+            <lg start-line="1346" end-line="1347">
               <l>By the groaning of the monarch, wrought methinks is now the deed ;</l>
               <l>But together taking counsel, weave we now some prudent scheme.</l>
             </lg>
           </sp>
-          <pb n="59"/>
-          <sp>
+           <pb n="59"/>
+          <sp start-line="1348" end-line="1371">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1348" end-line="1349">
               <l>I. To you my counsel is to raise the cry,</l>
               <l>And to the palace call the citizens.</l>
             </lg>
-            <lg>
+            <lg start-line="1350" end-line="1351">
               <l>II. To me seems best, at quickest, breaking in,</l>
               <l>To prove the deed by newly-dripping blade.</l>
             </lg>
-            <lg>
+            <lg start-line="1352" end-line="1353">
               <l>III. I, this opinion sharing, give my vote</l>
               <l>For action ;-not to dally is the point.</l>
             </lg>
-            <lg>
+            <lg start-line="1354" end-line="1355">
               <l>IV. 'Tis manifest; for they, thus preluding,</l>
               <l>Give to the city signs of tyranny.</l>
             </lg>
-            <lg>
+            <lg start-line="1356" end-line="1357">
               <l>V. Ay, we delay ;-they, treading under foot</l>
               <l>All thoughts of dalliance, sleep not with the hand.</l>
             </lg>
-            <lg>
+            <lg start-line="1358" end-line="1359">
               <l>VI. No plan I know to fashion or propose ;</l>
               <l>Against the guilty doer we must plot.</l>
             </lg>
-            <lg>
+            <lg start-line="1360" end-line="1361">
               <l>VII. That view I share, for no device I know,</l>
               <l>By words, the dead man to restore to life.</l>
             </lg>
-            <lg>
+            <lg start-line="1362" end-line="1363">
               <l>VIII. What! dragging on our lives, shall we obey</l>
               <l>These home-polluters? Them our leaders make?</l>
             </lg>
-            <lg>
+            <lg start-line="1364" end-line="1365">
               <l>IX. That were past hearing, better far to die;</l>
               <l>For milder doom were death than tyranny.</l>
             </lg>
-            <lg>
+            <lg start-line="1366" end-line="1367">
               <l>X. How ! may we not on evidence of groans</l>
               <l>Augur full surely that the man is dead ?</l>
             </lg>
-            <lg>
+            <lg start-line="1368" end-line="1369">
               <l>XI. Ere we can argue, we must know the facts;</l>
               <l>Assurance differs widely from surmise.</l>
             </lg>
-            <lg>
+            <lg start-line="1370" end-line="1371">
               <l>XII. This I commend, taking the general vote,</l>
               <l>Plainly to know how fareth Atreus' son.</l>
             </lg>
           </sp>
-          <pb n="60"/>
-          <p>[The doors of the royal palace are thrown open ; CLYTEMNESTRA <lb/>
-            is discovered standing with the axe over her shoulder. Be­ <lb/>
-            hind her, under a cover, are the bodies of AGAMEMNON and <lb/>
-            CASSANDRA.]</p>
-          <sp>
+                    <pb n="60"/>
+          <stage>The doors of the royal palace are thrown open ; CLYTEMNESTRA 
+            is discovered standing with the axe over her shoulder. Be­ 
+            hind her, under a cover, are the bodies of AGAMEMNON and 
+            CASSANDRA.</stage>
+          
+          <sp start-line="1372" end-line="1398">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="1372" end-line="1398">
               <l>Though much to suit the times before was said,</l>
               <l>It shames me not the opposite to speak :</l>
               <l>For, plotting against foes,—our seeming friends,-</l>
@@ -3154,22 +3101,21 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Joy ye, if joy ye can, but I exult.</l>
               <l>Nay, o'er the slain were off'rings meet, with right</l>
               <l>Here were they poured,—with emphasis of right.</l>
-              <pb n="61"/>
+                <pb n="61"/>
               <l>Such goblet having filled with cursèd ills</l>
               <l>At home,-himself on his return drains off.</l>
             </lg>
           </sp>
-
-  <sp>
+          <sp start-line="1399" end-line="1400">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1399" end-line="1400">
               <l>We marvel at thy tongue, how bold thy speech,</l>
               <l>Who o'er thy husband makest so thy vaunt.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1401" end-line="1406">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="1401" end-line="1406">
               <l>As witless woman are ye proving me ;</l>
               <l>But I with steadfast heart, to you who know,</l>
               <l>Proclaim,—and whether ye will praise or blame,</l>
@@ -3178,19 +3124,13 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Doer of righteous deed ;-so stands the case.</l>
             </lg>
           </sp>
-           </div></div>
-            
-                  <milestone ed="p" n="1407" unit="card"/>
-         
-        <div type="textpart" subtype="choral">
+           </div>
+           
            <div type="textpart" subtype="strophe" n="1">
-
-          <ab>
-            <title type="sub">Chorus. STROPHE.</title>
-          </ab>
-          <sp>
+                      <head>Chorus. STROPHE I.</head>
+          <sp start-line="1407" end-line="1411">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1407" end-line="1411">
               <l>O woman, what earth-nurtured bane,</l>
               <l>What potion, upsent from the wind-ruffled sea,</l>
               <l>Hast tasted, that on thine own head dost heap</l>
@@ -3200,15 +3140,15 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Huge hate of the townsmen blasting thee.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1412" end-line="1425">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="1412" end-line="1425">
               <l>Me thou dost doom to exile,-to endure</l>
               <l>The people's hate, their curse deep-muttered,-thou,</l>
               <l>Who 'gainst this man of yore hadst naught to urge.</l>
               <l>He, all unmoved, as though brute life he quenched,</l>
               <l>The while his fleecy pastures teem'd with flocks,</l>
-              <pb n="62"/>
+               <pb n="62"/>
               <l>His own child slaughtered,-of my travail throes</l>
               <l>To me the dearest, ---charm for Thracian blasts.</l>
               <l>Him shouldst thou not have chased from land and home</l>
@@ -3220,18 +3160,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Though late, to sober sense shalt thou be schooled.</l>
             </lg>
           </sp>
-                       
            </div>
-               
-               <milestone ed="p" n="1426" unit="card"/>
                  <div type="textpart" subtype="antistrophe" n="1">
-
-          <ab>
-            <title type="sub">Chorus. ANTISTROPHE.</title>
-          </ab>
-          <sp>
+                              <head>Chorus. ANTISTROPHE I.</head>
+          <sp start-line="1426" end-line="1430">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1426" end-line="1430">
               <l>O haughty of council art thou ; —</l>
               <l>And haughtily-minded thou vauntest amain,</l>
               <l>As raveth thy mind 'neath blood-reeking fate.</l>
@@ -3241,15 +3175,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Death-blow with death-blow shalt expiate.</l>
             </lg>
           </sp>
-                   </div>
+                  
         </div>
-            
-                  <milestone ed="p" n="1431" unit="card"/>
-        <div type="textpart" subtype="episode">
-
-          <sp>
+        <div type="textpart" subtype="trimeter" n="5">
+          <sp start-line="1431" end-line="1447">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="1431" end-line="1447">
               <l>This solemn sanction of mine oaths thou hearest ;—</l>
               <l>By the accomplished vengeance of my child,</l>
               <l>By Atè, by Erinyes, unto whom</l>
@@ -3259,7 +3190,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>For he of boldness is no puny shield.</l>
               <l>There prostrate lies this woman's outrager,</l>
               <l>Minion to each Chryseis under Troy.</l>
-              <pb n="63"/>
+                   <pb n="63"/>
               <l>There too, this captive slave, this auguress,</l>
               <l>And this man's concubine,-this prophetess,</l>
               <l>His faithful bedfellow, who shared with him</l>
@@ -3271,16 +3202,13 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
               </div>
-                     <milestone ed="p" n="1448" unit="card"/>
-        <div type="textpart" subtype="choral">
+   
            <div type="textpart" subtype="strophe" n="1">
+                      <head>Chorus. STROPHE I.</head>
 
-          <ab>
-            <title type="sub">Chorus. STROPHE I.</title>
-          </ab>
-          <sp>
+          <sp start-line="1448" end-line="1454">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1448" end-line="1454">
               <l>Oh might some sudden Fate</l>
               <l>Not tethered to a weight</l>
               <l>Of couch-enchaining anguish, hither waft</l>
@@ -3291,50 +3219,42 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>And now lies smitten by a woman's craft.</l>
             </lg>
           </sp>
-
            </div>
-               
-            
-               <milestone ed="p" n="1455" unit="card"/>
-           <div type="textpart" subtype="ephymn." n="1">
+           <div type="textpart" subtype="strophe" n="2">
+          
+                      <head>STROPHE II.</head>
 
-          <ab>
-            <title type="sub">STROPHE II.</title>
-          </ab>
-          <sp>
+          <sp start-line="1455" end-line="1461">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1455" end-line="1457">
               <l>Woe! frenzied Helen, woe !</l>
               <l>Through thee alone, through one,</l>
               <l>How many souls, how many, were undone ;</l>
               <l>What havoc dire 'neath Troia thou hast wrought.</l>
               <l>* * * * *</l>
             </lg>
-          </sp>
-          <ab>
-            <title type="sub">STROPHE III.</title>
-          </ab>
-          <sp>
+        </sp>
+                   </div>
+           <div type="textpart" subtype="strophe" n="3">
+                  <head>STROPHE III.</head>
+                    <sp>
             <speaker>Chorus</speaker>
-            <lg>
+            
+            <lg start-line="1458" end-line="1461">
               <l>And now the cureless woe,</l>
               <l>Heirloom of blood, shed long ago,</l>
               <l>Through thee hath blossomed, causing strife</l>
               <l>Unquenchable, with husband-murder rife.</l>
             </lg>
           </sp>
-   
                  </div>
-                        <pb n="64"/>
-                  <milestone ed="p" n="1462" unit="card"/>
-           <div type="textpart" subtype="strophe" n="1">
-           <ab>
-              <title type="sub">STROPHE IV.</title>
-            </ab>
-
-          <sp>
+           <div type="textpart" subtype="strophe" n="4">
+                   <pb n="64"/>
+                        <head>STROPHE IV.</head>
+ 
+          <sp start-line="1462" end-line="1467">
             <speaker>CLYTEMNESTRA</speaker>
-             <lg>
+            <lg start-line="1462" end-line="1467">
               <l>Bowed beneath sorrow's weight,</l>
               <l>Invoke not deadly Fate,</l>
               <l>Nor in thine anger Helen thus arraign,</l>
@@ -3344,15 +3264,13 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
               </div>
-                     <milestone ed="p" n="1468" unit="card"/>
            <div type="textpart" subtype="antistrophe" n="1">
-             <ab>
-              <title type="sub">ANTISTROPHE I.</title>
-            </ab>
+                         <head>ANTISTROPHE I.</head>
 
-          <sp>
+
+          <sp start-line="1468" end-line="1474">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1468" end-line="1474">
               <l>Demon, who now dost fall</l>
               <l>Ruthless on Atreus' hall</l>
               <l>Making the twin Tantalidæ thy prey,</l>
@@ -3364,15 +3282,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
                     </div>
-                        <milestone ed="p" n="1475" unit="card"/>
-           <div type="textpart" subtype="anapests">
-           <ab>
-              <title type="sub">ANTISTROPHE IV.</title>
-            </ab>
+           <div type="textpart" subtype="antistrophe" n="4">
+          <sp start-line="1475" end-line="1480">
+                       <head>ANTISTROPHE IV.</head>
 
-          <sp>
             <speaker>CLYTEMNESTRA</speaker>
-             <lg>
+            <lg start-line="1475" end-line="1480">
               <l>Ay now thy speech in sooth</l>
               <l>Runs even with the truth,</l>
               <l>Calling the thrice-dread demon of this race ;</l>
@@ -3383,18 +3298,15 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
                     </div>
-                           <milestone ed="p" n="1481" unit="card"/>
-           <div type="textpart" subtype="strophe" n="2">
-             <ab>
-              <title type="sub">STROPHE V.</title>
-            </ab>
+           <div type="textpart" subtype="strophe" n="5">
+             <head>STROPHE V.</head>
 
-          <sp>
+          <sp start-line="1481" end-line="1488">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1481" end-line="1488">
               <l>Mighty the demon, dire his hate,</l>
               <l>Whom here thou boastest to preside ;</l>
-              <pb n="65"/>
+                <pb n="65"/>
               <l>Woe ! woe ! ill-omened praise of Fate,</l>
               <l>Baneful and still unsatisfied !</l>
               <l>Alas! 'Tis Zeus, in will, in deed,</l>
@@ -3403,46 +3315,38 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>By Zeus, what here, that owneth not his sway ?</l>
             </lg></sp>
                        </div>
-                              <milestone ed="p" n="1489" unit="card"/>
-           <div type="textpart" subtype="ephymn." n="2">
-             <ab>
-              <title type="sub">STROPHE VI.</title>
-            </ab>
-<sp>
+           <div type="textpart" subtype="strophe" n="6">
+                        <head>STROPHE VI.</head>
+
+ <sp start-line="1489" end-line="1493">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1489" end-line="1493">
               <l>Woe ! woe!</l>
               <l>King ! King! how thee shall I bewail ?</l>
               <l>How voice my heartfelt grief? Thou liest there</l>
               <l>Entangled in the spider's guileful snare;</l>
               <l>In impious death thy life thou dost exhale.</l>
             </lg>
-          </sp>
-            <milestone ed="p" n="1494" unit="card"/>
-            <ab>
-              <title type="sub">STROPHE VII.</title>
-            </ab>
-            <sp>
+        </sp>
+                       </div>
+           <div type="textpart" subtype="strophe" n="7">
+               <head>STROPHE VII.</head>
+  <sp start-line="1494" end-line="1496">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1494" end-line="1496">
               <l>Ah me! ah me! to death betrayed,</l>
               <l>Sped by the two-edged blade,</l>
               <l>On servile couch now ignominious laid.</l>
             </lg>
           </sp>
                    </div>
-         
-            
-                              
-               <milestone ed="p" n="1497" unit="card"/>
-                 <div type="textpart" subtype="anapests">
+                     
+           <div type="textpart" subtype="strophe" n="8">
 
-            <ab>
-              <title type="sub">STROPHE VIII.</title>
-            </ab>
-          <sp>
+            <head>STROPHE VIII.</head>
+          <sp start-line="1497" end-line="1504">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="1497" end-line="1504">
               <l>Dost boast as mine this deed ?</l>
               <l>Then wrongly thou dost read,</l>
               <l>†To count me Agamemnon's wife ;-not so;</l>
@@ -3455,16 +3359,16 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
                  </div>
+                
                   <milestone ed="p" n="1505" unit="card"/>
-           <div type="textpart" subtype="antistrophe" n="2">
+
+           <div type="textpart" subtype="antistrophe" n="5">
 
           <pb n="66"/>
-            <ab>
-              <title type="sub">ANTISTROPHE V.</title>
-            </ab>
-          <sp>
+            <head>ANTISTROPHE V.</head>
+          <sp start-line="1505" end-line="1512">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1505" end-line="1512">
               <l>That thou art guiltless of this blood</l>
               <l>Who will attest? Yet by thy side,</l>
               <l>Haply, as thy accomplice, stood</l>
@@ -3475,14 +3379,13 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>The clotted blood of babes devoured of yore.</l>
             </lg></sp>
                       </div>
-                     <milestone ed="p" n="1513" unit="card"/>
-           <div type="textpart" subtype="ephymn" n="2">
- 
-            <ab>
-              <title type="sub">ANTISTROPHE VI.</title>
-            </ab>
-            <sp><speaker>Chorus.</speaker>
-            <lg>
+           <div type="textpart" subtype="antistophe" n="6">
+                      <milestone ed="p" n="1513" unit="card"/>
+
+            <head>ANTISTROPHE VI.</head>
+            <sp start-line="1513" end-line="1520">
+<speaker>Chorus.</speaker>
+            <lg start-line="1513" end-line="1517">
               <l>Woe ! woe!</l>
               <l>King ! King ! thee how shall I bewail ?</l>
               <l>How voice my heartfelt grief ? Thou liest there</l>
@@ -3490,10 +3393,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>In impious death thy life thou dost exhale.</l>
             </lg>
             <milestone ed="p" n="1518" unit="card"/>
-            <ab>
-              <title type="sub">ANTISTROPHE VII.</title>
-            </ab>
-            <lg>
+            <head>ANTISTROPHE VII.</head>
+            <lg start-line="1518" end-line="1520">
               <l>Ah me ! ah me! to death betrayed,</l>
               <l>Sped by the two-edged blade,</l>
               <l>On servile couch now ignominious laid.</l>
@@ -3501,14 +3402,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </sp>
                      </div>
                         <milestone ed="p" n="1521" unit="card"/>
-           <div type="textpart" subtype="anapests">
+           <div type="textpart" subtype="antistrophe" n="8">
 
-          <sp>
+          <sp start-line="1521" end-line="1529">
             <speaker>CLYTEMNESTRA</speaker>
-            <ab>
-              <title type="sub">ANTISTROPHE VIII.</title>
-            </ab>
-            <lg>
+            <head>ANTISTROPHE VIII.</head>
+            <lg start-line="1521" end-line="1529">
               <l>By no unjust decree</l>
               <l>Perished this man, for he</l>
               <l>Through guile hath household death enacted here :—</l>
@@ -3524,14 +3423,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
 
                      </div>
                            <milestone ed="p" n="1530" unit="card"/>
-           <div type="textpart" subtype="strophe" n="3">
+           <div type="textpart" subtype="strophe" n="9">
 
-          <sp>
+          <sp start-line="1530" end-line="1536">
             <speaker>Chorus</speaker>
-            <ab>
-              <title type="sub">STROPHE IX.</title>
-            </ab>
-            <lg>
+            <head>STROPHE IX.</head>
+            <lg start-line="1530" end-line="1536">
               <l>Perplexed I am, bewildered sore</l>
               <l>Which way to turn; escape is vain ;</l>
               <l>Totters the house; I dread the crimson rain</l>
@@ -3541,14 +3438,13 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>On other whetstones, whetteth vengeance due.</l>
             </lg></sp>
                       </div>
-                              <milestone ed="p" n="1537" unit="card"/>
-           <div type="textpart" subtype="ephymn" n="3">
-
-            <sp><speaker>Chorus.</speaker>
-            <ab>
-              <title type="sub">ANTISTROPHE II.</title>
-            </ab>
-            <lg>
+                          
+           <div type="textpart" subtype="antistrophe" n="2">
+    <milestone ed="p" n="1537" unit="card"/>
+            <sp start-line="1537" end-line="1550">
+<speaker>Chorus.</speaker>
+            <head>ANTISTROPHE II.</head>
+            <lg start-line="1537" end-line="1546">
               <l>Earth! Earth! oh hadst thou been</l>
               <l>My shroud ere I my king</l>
               <l>Prone in the silver-sided bath had seen !</l>
@@ -3559,10 +3455,13 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Render a graceless grace, with malice fraught ?</l>
             </lg>
             <milestone ed="p" n="1551" unit="card"/>
-            <ab>
-              <title type="sub">ANTISTROPHE III.</title>
-            </ab>
-            <lg>
+          </sp>
+                                </div>
+                          
+           <div type="textpart" subtype="antistrophe" n="3">
+            <head>ANTISTROPHE III.</head>
+            <sp><speaker>Chorus.</speaker>
+            <lg start-line="1547" end-line="1550">
               <l>With tears of honest grief</l>
               <l>Weeping the godlike chief,</l>
               <l>Above the tomb who now shall raise</l>
@@ -3571,14 +3470,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </sp>
                      </div>
                <milestone ed="p" n="1547" unit="card"/>
-           <div type="textpart" subtype="anapests">
+           <div type="textpart" subtype="strophe" n="10">
 
-          <sp>
+          <sp start-line="1551" end-line="1559">
             <speaker>CLYTEMNESTRA</speaker>
-            <ab>
-              <title type="sub">STROPHE X.</title>
-            </ab>
-            <lg>
+            <head>STROPHE X.</head>
+            <lg start-line="1551" end-line="1559">
               <l>Not thine the task to counsel here.</l>
               <l>By us he fell: this man we slew;</l>
               <l>Ours be it to inurn him too;</l>
@@ -3594,14 +3491,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </sp>
                      </div>
                   <milestone ed="p" n="1560" unit="card"/>
-           <div type="textpart" subtype="antistrophe" n="3">
-            <ab>
-              <title type="sub">ANTISTROPHE IX.</title>
-            </ab>
-
-          <sp>
+           <div type="textpart" subtype="antistrophe" n="9">
+            <head>ANTISTROPHE IX.</head>
+ 
+          <sp start-line="1560" end-line="1566">
             <speaker>Chorus</speaker>
-             <lg>
+            <lg start-line="1560" end-line="1566">
               <l>That taunt still answers taunt we see.</l>
               <l>Here to adjudge is hard indeed.</l>
               <l>Spoiled be the spoiler ; who sheds blood must bleed.</l>
@@ -3614,14 +3509,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
 
                      </div>
                      <milestone ed="p" n="1567" unit="card"/>
-           <div type="textpart" subtype="anapests">
+           <div type="textpart" subtype="antistrophe" n="10">
 
-          <sp>
+          <sp start-line="1567" end-line="1576">
             <speaker>CLYTEMNESTRA</speaker>
-            <ab>
-              <title type="sub">ANTISTROPHE X.</title>
-            </ab>
-            <lg>
+            <head>ANTISTROPHE X.</head>
+            <lg start-line="1567" end-line="1576">
               <l>Ay! now on Truth thou dost alight!</l>
               <l>I with the demon of this race-</l>
               <l>The Pleisthenid—an oath will plight.</l>
@@ -3636,14 +3529,15 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </div>
             
          
-         <milestone ed="p" n="1577" unit="card"/>
-        <div type="textpart" subtype="episode">
-
+        
+      
+ <milestone ed="p" n="1577" unit="card"/>
           <stage>Enter ÆGISTHOS, arrayed in royal robes, and with armed attendants.</stage>
-          <div type="textpart" subtype="iambic">
-          <sp>
+          <div type="textpart" subtype="trimeter" n="6">
+            <head>Trimeter</head>
+          <sp start-line="1577" end-line="1611">
             <speaker>ÆGISTHOS</speaker>
-            <lg>
+            <lg start-line="1577" end-line="1611">
               <l>Hail, joyous light of justice-bearing day!</l>
               <l>At length I can aver that Gods supernal,</l>
               <pb n="69"/>
@@ -3684,9 +3578,9 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Seeing this man entrapped in Justice' toils.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1612" end-line="1616">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1612" end-line="1616">
               <l>To honour insolence in guilt, Aegisthos,</l>
               <l>I know not ;—that with purpose thou didst kill</l>
               <l>This man, thou boastest; of his piteous doom</l>
@@ -3695,9 +3589,9 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>The curse of stoning by the people's hand.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1617" end-line="1624">
             <speaker>ÆGISTHOS</speaker>
-            <lg>
+            <lg start-line="1617" end-line="1624">
               <l>Plying the lowest oar, dost menace us</l>
               <l>Who from the upper benches sway the helm ?</l>
               <l>Being old thou know’st how bitter at thy years</l>
@@ -3708,17 +3602,17 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Kick not, lest stumbling, thou shouldst come to grief.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1625" end-line="1627">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1625" end-line="1627">
               <l>Woman, house-mate to him from recent war</l>
               <l>Return’d,— defiler of thy husband's bed,</l>
               <l>Death thou didst plot against this warrior chief.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1628" end-line="1632">
             <speaker>ÆGISTHOS</speaker>
-            <lg>
+            <lg start-line="1628" end-line="1632">
               <l>These words will fountains be of bitter tears.</l>
               <l>Thy tongue the opposite to Orpheus is;</l>
               <l>For he drew all by rapture of his voice,</l>
@@ -3728,17 +3622,17 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>show.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1633" end-line="1635">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1633" end-line="1635">
               <l>Shalt thou be ruler of the Argives, thou,</l>
               <l>Who, when that thou hadst plotted this man's death,</l>
               <l>Didst courage lack to strike the blow thyself?</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1636" end-line="1642">
             <speaker>ÆGISTHOS</speaker>
-            <lg>
+            <lg start-line="1636" end-line="1642">
               <l>To spread the snare was plainly woman's part,</l>
               <l>For I, his ancient foeman, was suspect;</l>
               <l>But armed with this man's treasure, be it mine</l>
@@ -3749,9 +3643,9 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Darkness' grim comrade, Famine, shall see tamed.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1643" end-line="1648">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1643" end-line="1648">
               <l>This man why didst thou not, O base of soul,</l>
               <l>Slaughter thyself? But him his wife, with thee,</l>
               <l>The land polluting, and her country's gods,</l>
@@ -3760,13 +3654,14 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>He may, with mighty stroke, deal death to both ?</l>
             </lg>
           </sp>
-                   
+                   </div>
                <milestone ed="p" n="1649" unit="card"/>
-           <div type="textpart" subtype="close" met="trochaic">
+           <div type="textpart" subtype="close" met="trochaic" n="1">
+            <head>Trochaic</head>
 
-          <sp>
+          <sp start-line="1649" end-line="1650">
             <speaker>ÆGISTHOS</speaker>
-            <lg>
+            <lg start-line="1649" end-line="1649">
               <l>Since thou art minded thus to act, not talk alone,</l>
               <l>know quickly.</l>
               <l>* * * * *</l>
@@ -3775,31 +3670,31 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           <pb n="72"/>
           <stage>To his attendants.</stage>
        
-            <lg>
+            <lg start-line="1650" end-line="1650">
               <l>Come on, my faithful body-guard, the fray is not far distant.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1651" end-line="1651">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1651" end-line="1651">
               <l>Come on then, and with hand on hilt, his sword let each make ready.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1652" end-line="1652">
             <speaker>ÆGISTHOS</speaker>
-            <lg>
+            <lg start-line="1652" end-line="1652">
               <l>Be well assured, with hand on hilt, to die I too refuse not.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1653" end-line="1653">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1653" end-line="1653">
               <l>To die,—thine utterance we accept, and take as thy death-omen.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1654" end-line="1661">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="1654" end-line="1661">
               <l>Dearest of husbands let us not, I pray, work further mischief.</l>
               <l>Already in our many woes reaped have we wretched harvests.</l>
               <l>Of sorrow there hath been enough ; let us forbear more bloodshed.</l>
@@ -3811,69 +3706,69 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
           <pb n="73"/>
-          <sp>
+          <sp start-line="1662" end-line="1664">
             <speaker>ÆGISTHOS</speaker>
-            <lg>
+            <lg start-line="1662" end-line="1664">
               <l>To think that their vain tongue 'gainst me into such speech should blossom;-</l>
               <l>That they should hurl forth words like these, their proper doom, thus tempting :</l>
               <l>They against sober reason err, thus to insult their ruler.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1665" end-line="1665">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1665" end-line="1665">
               <l>Upon the evil man to fawn is not the wont of Argives.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1666" end-line="1666">
             <speaker>ÆGISTHOS</speaker>
-            <lg>
+            <lg start-line="1666" end-line="1666">
               <l>But, be assured, some future day, I yet shall overtake you.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1667" end-line="1667">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1667" end-line="1667">
               <l>Not so if hither to return some god should guide Orestes.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1668" end-line="1668">
             <speaker>ÆGISTHOS</speaker>
-            <lg>
+            <lg start-line="1668" end-line="1668">
               <l>Full well I know that exiles still on hopes are wont to batten.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1669" end-line="1669">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1669" end-line="1669">
               <l>Work as thou listest. Gorge thy fill. Stain justice. Thou canst do it.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1670" end-line="1670">
             <speaker>ÆGISTHOS</speaker>
-            <lg>
+            <lg start-line="1670" end-line="1670">
               <l>Be sure that thou to me shalt pay the forfeit of thy folly.</l>
             </lg>
           </sp>
-          <sp>
+          <sp start-line="1671" end-line="1671">
             <speaker>Chorus</speaker>
-            <lg>
+            <lg start-line="1671" end-line="1671">
               <l>Be boastful and be bold, like cock beside his partner strutting.</l>
             </lg>
           </sp>
           <pb n="74"/>
-          <sp>
+          <sp start-line="1672" end-line="1673">
             <speaker>CLYTEMNESTRA</speaker>
-            <lg>
+            <lg start-line="1672" end-line="1673">
               <l>These senseless barkings heed not thou ; thyself and I together,</l>
               <l>Ruling within these royal halls, will all things wisely order.</l>
             </lg>
           </sp>
           <stage>Exeunt.</stage>
+           </div>
 </div>
 </div>
-</div>
-</div>
+
 
           <div type="textpart" subtype="notes">
           <pb n="75"/>
@@ -3883,9 +3778,9 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
      
           <p><label>VERSE 7.</label> Omit <quote xml:lang="grc">ἀστέρας</quote> as an interpretation of <quote xml:lang="grc">δυνάστας</quote>, and read <quote xml:lang="grc">ὅταν φθίνωσιν, ἀντολάς τε τῶνδ᾽, ὁρῶ</quote>.</p>
           <p><label>10, 11.</label> Read <quote xml:lang="grc">ἐλπίζει</quote> for <quote xml:lang="grc">ἐλπίζω</quote>, and retain the infinitive <quote xml:lang="grc">κρατεῖν</quote>. Then <quote xml:lang="grc">κέαρ</quote> is nominative, and <quote xml:lang="grc">ὧδε κρατεῖν</quote> refers to the capture of Troy, <gloss>get such mastery.</gloss></p>
-          <p><label>138.</label> For <quote xml:lang="grc">τόσσον περ εὔφρων καλὰ</quote> . . . read—<lb/>
-            <quote xml:lang="grc">† πᾶσιν † γὰρ εὔφρων [Αρτεμίς ἐστι] καλὰ<lb/>
-            δρόσοισι λεπτοῖσιν † μαλακῶν τε * λαγῶν . . .</quote></p>
+          <p><label>138.</label> For <quote xml:lang="grc">τόσσον περ εὔφρων καλὰ</quote> . . . read—
+            <quote xml:lang="grc"><l>† πᾶσιν † γὰρ εὔφρων [Αρτεμίς ἐστι] καλὰ</l>
+            <l>δρόσοισι λεπτοῖσιν † μαλακῶν τε * λαγῶν . . .</l></quote></p>
           <p><label>142.</label> <quote xml:lang="grc">
 <l>τερπνὰ [δὲ δαίμονα θέσπιν ὁ μάντις]</l>
 <l>τούτων αἰτεῖ σύμβολα κρᾶναι,</l>
@@ -3907,37 +3802,37 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           <p><label>278.</label> For <quote xml:lang="grc">ἰσχὺς</quote> read <quote xml:lang="grc">ὄσχας</quote> or <quote xml:lang="grc">ὄσχους</quote>, “ twigs” of flame ; suggested by <quote xml:lang="grc">πεύκη</quote>, the pine. In the corrupt <quote xml:lang="grc">πρὸς ἡδονὴν</quote> a verb is concealed, such as <quote xml:lang="grc">προήχμασεν</quote>, <quote xml:lang="grc">προήκρισεν</quote>, vibrated, perked forward. <quote xml:lang="grc">Προσήλασεν</quote> is possible, but was less likely to be corrupted than some rarer verb.</p>
           <p><label>299.</label> Before <quote xml:lang="grc">φλέγουσαν</quote> a whole line seems to be lost, such as [<quote xml:lang="grc">αὐγὴν κελεύουσ', ἀστραπαῖς εὐαγγέλοις</quote>] <quote xml:lang="grc">φλέγουσαν</quote>.</p>
           <p><label>327.</label> For <quote xml:lang="grc">ὡς δυσδαίμονες</quote> Blomfield well gave <quote xml:lang="grc">ὡς δ᾽ εὐδαίμονες</quote>.</p>
-          <p><label>365.</label> Treading in Blomfield's steps, I attempt the corrupt passage thus—<lb/>
-            <quote xml:lang="grc">πέφανται δ' † ἐγγενὴς<lb/>
-            ἀτολμήτως "Αρη<lb/>
-            πνεόντων, μεῖζον ἢ δικαίως.<lb/>
-            φλεόντων δωμάτων ὑπερφεῦ,<lb/>
-            † τόδ' οὔτε βέλτιστόν † ἐστ'<lb/>
-            οὔτ᾽ ἀπήμαντον . . .</quote><lb/>
+          <p><label>365.</label> Treading in Blomfield's steps, I attempt the corrupt passage thus—
+            <quote xml:lang="grc"><l>πέφανται δ' † ἐγγενὴς</l>
+<l>ἀτολμήτως "Αρη</l>
+<l>πνεόντων, μεῖζον ἢ δικαίως.</l>
+<l>φλεόντων δωμάτων ὑπερφεῦ,</l>
+<l>† τόδ' οὔτε βέλτιστόν † ἐστ'</l>
+<l>οὔτ᾽ ἀπήμαντον . . .</l></quote>
             (<quote xml:lang="grc">Τόδε</quote>, the fact of excessive abundance.)</p>
-          <p><label>412.</label> For <quote xml:lang="grc">πάρεστι σιγὰς ἄτιμος ἀλοίδορος<lb/>
-            ἅδιστος ἀφεμένων ἰδεῖν</quote>:<lb/>
-            read (until we get something better)—<lb/>
-            <quote xml:lang="grc">πάρεστι σιγὰ κατ᾽ οἴμους, ἀλοίδορος,<lb/>
-            ταϊστ᾽ ἀφωμένων ἰδεῖν</quote>.</p>
+          <p><label>412.</label> For <quote xml:lang="grc"><l>πάρεστι σιγὰς ἄτιμος ἀλοίδορος</l>
+<l>ἅδιστος ἀφεμένων ἰδεῖν</l></quote>:
+read (until we get something better)—
+            <quote xml:lang="grc"><l>πάρεστι σιγὰ κατ᾽ οἴμους, ἀλοίδορος,</l>
+<l>ταϊστ᾽ ἀφωμένων ἰδεῖν</l></quote>.</p>
           <pb n="77"/>
           <p>Join <quote xml:lang="grc">σιγὰ ἀφωμένων</quote>. “There is silence along (her) paths, while they grope to see things that cannot be seen.” I understand <quote xml:lang="grc">αφωμένων</quote> of Helen's <quote xml:lang="grc">ὁμηλικίη</quote>, her maids of honour. In antistrophe for <quote xml:lang="grc">Ελλάδος</quote> read <quote xml:lang="grc">Ελλᾶνος</quote>.</p>
           <p><label>541.</label> For <quote xml:lang="grc">οὐ λαχόντες</quote>, which is nonsense, read <quote xml:lang="grc">ὀλολύζοντες</quote>, οι <quote xml:lang="grc">οἰμώζοντες</quote>.</p>
-          <p><label>741.</label> This very corrupt passage admits of an approximate sòlution, thus—<lb/>
-            <quote xml:lang="grc">ὕβριν, τότ᾽ ἢ τόθ᾽, ὅτε τὸ κύριον μόλῃ,<lb/>
-            † νεαροῖς † φανοῦσαν † τόκοισι<lb/>
-            δαίμονα - παντομάχαν<lb/>
-            ἀνίερον θράσος μελαι<lb/>
-            νας μελάθροισιν "Ατας,<lb/>
-            εἰδομέναν τοκεῦσιν.</quote><lb/>
-            Vulgo, <quote xml:lang="grc">ἢ νὰ † φαόυς κότον | δαίμονά † τε † τὸν ἄμαχον ἀπόλεμον | ἀνίερον Θράσος "Ατης</quote>. <quote xml:lang="grc">θράσος "Ατης</quote> is put for <quote xml:lang="grc">θράσεια "Ατη</quote>, and <quote xml:lang="grc">εἰδομένη</quote>, fem., agrees with it. If <quote xml:lang="grc">μελαίνας</quote> is correct, it seems to mean “gloomy (funereal),” and is joined with the dative <quote xml:lang="grc">μελάθροις</quote>. Then the antistrophe is omitting <quote xml:lang="grc">βίον</quote> in 749, and reading <quote xml:lang="grc">ἔδεθλα</quote> with Dindorf, &amp;c.<lb/>
-            <quote xml:lang="grc">τὰ χρυσόπαστα δ᾽ ἔδεθλα σὺν πίνῳ χερῶν<lb/>
-            ....<lb/>
-            παλιντρόποις ὄμμασιν λιποῦσ᾽, Ὁσίαν προσέβα, . . . .</quote><lb/>
+          <p><label>741.</label> This very corrupt passage admits of an approximate sòlution, thus—
+            <quote xml:lang="grc"><l>ὕβριν, τότ᾽ ἢ τόθ᾽, ὅτε τὸ κύριον μόλῃ,</l>
+<l>† νεαροῖς † φανοῦσαν † τόκοισι</l>
+<l>δαίμονα - παντομάχαν</l>
+<l>ἀνίερον θράσος μελαι</l>
+<l>νας μελάθροισιν "Ατας,</l>
+<l>εἰδομέναν τοκεῦσιν.</l></quote>
+            Vulgo, <quote xml:lang="grc">ἢ νὰ † φαόυς κότον | δαίμονά † τε † τὸν ἄμαχον ἀπόλεμον | ἀνίερον Θράσος "Ατης</quote>. <quote xml:lang="grc">θράσος "Ατης</quote> is put for <quote xml:lang="grc">θράσεια "Ατη</quote>, and <quote xml:lang="grc">εἰδομένη</quote>, fem., agrees with it. If <quote xml:lang="grc">μελαίνας</quote> is correct, it seems to mean “gloomy (funereal),” and is joined with the dative <quote xml:lang="grc">μελάθροις</quote>. Then the antistrophe is omitting <quote xml:lang="grc">βίον</quote> in 749, and reading <quote xml:lang="grc">ἔδεθλα</quote> with Dindorf, &amp;c.
+            <quote xml:lang="grc"><l>τὰ χρυσόπαστα δ᾽ ἔδεθλα σὺν πίνῳ χερῶν</l>
+<l>....</l>
+<l>παλιντρόποις ὄμμασιν λιποῦσ᾽, Ὁσίαν προσέβα, . . . .</l></quote>
             (for vulg., <quote xml:lang="grc">ὅσια</quote>).</p>
-          <p><label>776.</label> Adopting from Franke <quote xml:lang="grc">ἐκ θυσιῶν</quote> for <quote xml:lang="grc">ἑκούσιον</quote>, read also <quote xml:lang="grc">θρήσκοισι</quote> for <quote xml:lang="grc">θνήσκουσι</quote>, which cannot be right. Then, we get<lb/>
-            “ <quote xml:lang="grc">θράσος ἐκ θυσιῶν<lb/>
-            ἄνδρασι θρήσκοισι κομίζων.</quote> ”<lb/>
+          <p><label>776.</label> Adopting from Franke <quote xml:lang="grc">ἐκ θυσιῶν</quote> for <quote xml:lang="grc">ἑκούσιον</quote>, read also <quote xml:lang="grc">θρήσκοισι</quote> for <quote xml:lang="grc">θνήσκουσι</quote>, which cannot be right. Then, we get
+            “ <quote xml:lang="grc"><l>θράσος ἐκ θυσιῶν</l>
+<l>ἄνδρασι θρήσκοισι κομίζων.</l></quote> 
             “infusing into religious men confidence from the sacrifices.”</p>
           <p><label>844.</label> <quote xml:lang="grc">Πολλὴν . . . λέγω.</quote> Schutz, if I remember, regards the line as spurious, and with good reason. <quote xml:lang="grc">Πολλὴν ἄνωθεν</quote> has come from <quote xml:lang="grc">πολλὰς ἄνωθεν</quote> just above; and he imagines a commentator to have expounded the second Geryon to be Agamemnon : <quote xml:lang="grc">τὸν κάτω γὰρ οὐ λέγει ;</quote> “ for he does not mean the Geryon below.”</p>
           <pb n="78"/>
@@ -3945,14 +3840,14 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           <p><label>1095.</label> For <quote xml:lang="grc">μελαγκέρων</quote>, by all means read <quote xml:lang="grc">μελαγκρόκῳ</quote>, and for <quote xml:lang="grc">ἐν πέπλοισι</quote> perhaps <quote xml:lang="grc">ἐμπλακέντα</quote>.</p>
           <p><label>1443.</label> For <quote xml:lang="grc">πολύμναστον</quote> read (metri causa) <quote xml:lang="grc">πολυυμνατον</quote>, and after the word mark a hiatus of five lines. The antistrophic to <quote xml:lang="grc">πολυύμνατον</quote> is <quote xml:lang="grc">τίς ὁ θρηνήσων</quote>.</p>
           <p><label>1446.</label> For <quote xml:lang="grc">κράτος ἰσόψυχον</quote> (which is defective in metre as well as sense) read <quote xml:lang="grc">κράτος σινόψυχον</quote>, “thou establishest a soul-blighting sway by means of women.” Hermann by inserting <quote xml:lang="grc">τ'</quote> after <quote xml:lang="grc">κράτος</quote> did not improve the sense.</p>
-          <p><label>1476.</label> Read, for the sense, <quote xml:lang="grc">εἶναί μ᾽ ἄλοχον [τοῦδ᾽ ὀλέτειραν]</quote>, also 1480, . . . <quote xml:lang="grc">τόνδ' ἀπέτισεν [φονίαισι δίκαις]</quote>. In antistrophe omit '<quote xml:lang="grc">Ipɩyévecav</quote> as a gloss, and read<lb/>
-            <quote xml:lang="grc">τὴν πολύκλαυτον ἀνάξια δράσας,</quote><lb/>
+          <p><label>1476.</label> Read, for the sense, <quote xml:lang="grc">εἶναί μ᾽ ἄλοχον [τοῦδ᾽ ὀλέτειραν]</quote>, also 1480, . . . <quote xml:lang="grc">τόνδ' ἀπέτισεν [φονίαισι δίκαις]</quote>. In antistrophe omit '<quote xml:lang="grc">Ipɩyévecav</quote> as a gloss, and read
+
+            <quote xml:lang="grc"><l>τὴν πολύκλαυτον ἀνάξια δράσας,</l></quote>
             then strophe and antistrophe become commensurate. Perhaps in 1497 <quote xml:lang="grc">doλig</quote> should be <quote xml:lang="grc">dovλí</quote>, and in 1501 <quote xml:lang="grc">δολίαν</quote> should be <quote xml:lang="grc">δούλιον</quote>, which the argument from <quote xml:lang="grc">ἀνελεύθερον</quote> seems to demand. (Indeed the metre of <quote xml:lang="grc">doλío</quote> in 1497 is not satisfactory.) Yet the argument of <quote xml:lang="grc">ovde yàp</quote> in 1501 remains obscure or strained.</p>
           <p><label>1610.</label> For <quote xml:lang="grc">ἄξει</quote> read <quote xml:lang="grc">ἔχθει</quote>, in contrast to <quote xml:lang="grc">χαρᾷ</quote>.</p>
           <p><label>1618.</label> For <quote xml:lang="grc">σειραφόρον</quote> read <quote xml:lang="grc">σειραφόρων</quote>: “ bands heavier than common harness.”</p>
-        </div>
-
-        </div>
-        </body>
-      </text>
-    </TEI>
+      
+</div>
+</body>
+</text>
+</TEI>
