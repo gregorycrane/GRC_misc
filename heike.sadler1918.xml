@@ -524,6 +524,60 @@ kind assistance in archeological and Buddhist matters.
 </p>
 </div>
 </div>  
+<div type="textpart" subtype="preface">
+<head>PREFACE [to the second volume]</head>
+<p><pb xml:id="p13"/>The present volume completes the translation of the
+<title>Heike Monogatari</title> from the events that followed the death of
+<persName>Taira Kiyomori</persName> down to the complete destruction of his house
+at the battle of <placeName>Dan-no-ura</placeName>, and the fate of those who survived
+that defeat. With this the main work ends, and the <title>Kanchō
+Maki</title> which follows is an appendix describing the after
+adventures and death of the <persName>Former Empress Kenrei-mon-in</persName>. Its
+style seems to be of a later age than the principal work, and
+approaches somewhat to that of the Nō plays of more than a
+century later.
+</p>
+<p>
+The <title>Book of Swords</title> is another appendix found only in
+some MSS of the book, and is, no doubt, also of comparatively
+late date. Its inspiration is of Shinto, and not of Buddhism,
+as is perhaps natural, and its purpose seems to be to point out
+how the history of the country was shaped by the deities
+through the supernatural power that resided in these swords.
+</p>
+<p>
+The stories of the origin of the name Nippon, and
+of the Sacred Seal, are interesting examples of that
+combination called Ryōbu Shinto. Another object was to show
+that the sword that was lost in the sea at the drowning of the
+<persName>Emperor Antoku</persName> was not the real Sacred Sword, but a copy,
+which deceived the <persName>Dragon King</persName> of the waters as well as the
+<persName>Heike</persName>. The Sea Deity, who has usually distinct Buddhist
+characteristics, is here identified with the <persName>Orochi</persName> in whose tail
+the Sacred Sword was found. The derivation of place-names
+from various mythological incidents found in this book is
+curiously reminiscent of Old Testament methods. The author
+seems to regard the Sacred Treasures as the Urim and
+Thummim or Tablets of Destiny of his country.
+</p>
+<p>
+The list of Sanskrit and Chinese words is added as a further
+<pb xml:id="p14"/>
+explanation of the Japanese equivalents used in the text, and
+to show the direction in which the literature of the Kamakura
+age borrowed from these sources. <title>Eitel's Chin. Sansk.
+Dictionary</title> and <title>Rosenberg's Jap. Chin. Sansk. Dictionary</title> have
+been used in its preparation as well as <title>Mayer's Chinese Reader's
+Manual</title>.
+</p>
+<p>
+In conclusion I wish to express my thanks to <persName>Mr. Fukui</persName>,
+Professor of Japanese Literature, and to <persName>Dr. Okada</persName>, Professor
+of Chinese Literature, in the Peers' College for their kind
+explanation of some obscure passages.
+</p>
+<p><persName>A. L. S.</persName></p>
+</div>
 <div type="textpart" subtype="volume" n="1">
 <div type="textpart" subtype="chapter" n="1" xml:id="ch1">
 <head>CHAPTER I.</head>
@@ -3917,9 +3971,10 @@ far is only because you will not tell me where my father the
 him, he asked about him no more.
 </p>
 </div>
-<div type="textpart" subtype="chapter" n="11" xml:id="v2_ch11">
-<head>CHAPTER XI.</head>
+<div type="textpart" subtype="chapter" n="10" xml:id="v2_ch10">
+<head>CHAPTER X.</head>
 <head>THE DEATH OF THE SHIN DAINAGON.</head>
+<note n="GRC">Something is off. There is no chapter 9 and we have two instances of Chapter 11. I have changed this chapter 11 to chapter 10.</note>
 <p>Meanwhile <persName>Hoshoji-no-Shugyo Shunkwan Sozu</persName>, <persName>Tamba-no-Shosho Naritsune</persName>, and <persName>Hei Hangwan Yasuyori</persName> were all exiled
 to the island of <placeName>Kikai-ga-shima</placeName> in the bay of <placeName>Satsuma</placeName>. This is a
 place that can only be reached from the capital after many
@@ -5615,7 +5670,9 @@ holding on to my dew-like existence by the moss of the sea, I
 have managed to keep alive in wretchedness until now; and I
 wonder what reason there is for me to continue longer in this
 fleeting world? But let us go to my house, for there are many
-things I wish to say." Then <persName>Ario</persName>, thinking it strange that one
+things I wish to say."</p>
+
+<p>Then <persName>Ario</persName>, thinking it strange that one
 in such a state should possess a house, took him on his back
 and went towards a place that the <persName>Sozu</persName> pointed out. It was in
 the midst of a pine wood, a hut made with bamboos for pillars
@@ -5635,6 +5692,7 @@ professing the Way of <persName>Buddha</persName>, having committed a shameless
 crime, the result of this <foreign xml:lang="sa-Latn">Karma</foreign> fell upon him thus quickly in
 this world.
 </p>
+<milestone unit="mccullough" n="9"/>
 <p>The <persName>Sozu</persName> had now perceived that <persName>Ario</persName> was no apparition
 and enquired; “Last year when they came for the <persName>Shosho</persName> and
 the <persName>Hangwan</persName> there were no tidings for me; have you also
@@ -6050,14 +6108,15 @@ Majesty was struck with admiration, and ordered five hundred
 <foreign xml:lang="jpn-Latn">cho</foreign> of land to be presented to <placeName>Ikuozan</placeName>, and it is said that an
 inscription praying for a happy rebirth in the future existence for
 'the Minister of <placeName>Japan</placeName>, <persName>Taira-no-Ason Shigemori Ko</persName>,' is still in
-existence at that place at the present day. After the death of
-<persName>Komatsu Dono</persName>, the <persName>Nyudo</persName> fell into a state of melancholy, and
-hastening to <placeName>Fukuhara</placeName>, went into retirement there.
+existence at that place at the present day. 
 </p>
 </div>
 <div type="textpart" subtype="chapter" n="14" xml:id="v3_ch14">
 <head>CHAPTER XIV.</head>
 <head>THE ARGUMENT OF HOIN.</head>
+<p>After the death of
+<persName>Komatsu Dono</persName>, the <persName>Nyudo</persName> fell into a state of melancholy, and
+hastening to <placeName>Fukuhara</placeName>, went into retirement there.</p>
 <p>At the hour of the Dog (8 p.m.) on the seventh day of the
 eleventh month of the same year, the earth quaked very greatly
 for a long time, and the chief diviner <persName>Abe-no-Yasuchika</persName> hurried
@@ -6508,9 +6567,9 @@ spread on the boards to obtain the effect of an earth floor.</note>
 <div type="textpart" subtype="chapter" n="18" xml:id="v3_ch18">
 <head>CHAPTER XVIII.</head>
 <head>THE SEINAN DETACHED PALACE.</head>
-<p>"Filial piety is
-In a hundred volumes we find the saying.
-the most important thing. A wise monaich governs the Empire
+<p>In a hundred volumes we find the saying. "Filial piety is
+
+the most important thing. A wise monarch governs the Empire
 by filial piety." Therefore we see that <persName>Tokyo</persName> revered his old
 and feeble mother and <persName>Gushun</persName> respected his obstinate father. It
 is very blessed when the Imperial Will follows the example of
@@ -8279,8 +8338,7 @@ meant <persName>Prince Takakura</persName>.
 <head>CHAPTER XV.</head>
 <head>NUE.</head>
 <p>Now this <persName>Gensammi Nyudo Yorimasa</persName> was the fifth
-generation from <persName>Settsu-no-kami Raiko</persName>, the grandson of <persName>Mikawa-no-
-kami Yoritsuna</persName> and son of <persName>Hyogo-no-kami Nakamasa</persName>. At the
+generation from <persName>Settsu-no-kami Raiko</persName>, the grandson of <persName>Mikawa-no-kami Yoritsuna</persName> and son of <persName>Hyogo-no-kami Nakamasa</persName>. At the
 time of the fight of Hogen he was on the side of the Imperial
 Army, but received no reward: also in the rebellion of Heiji he
 forsook all his kinsmen and fought on the same side, but his
@@ -8425,7 +8483,7 @@ started this vain revolt and perished with the Prince and his
 sons and grandsons.
 </p>
 </div>
-<div type="textpart" subtype="chapter" n="16" xml:id="ch16">
+<div type="textpart" subtype="chapter" n="16" xml:id="v4_ch16">
 <head>CHAPTER XVI.</head>
 <head>THE BURNING OF MIIDERA.</head>
 <p>The priests of <placeName>Hieizan</placeName> who had formerly behaved in a
@@ -11251,65 +11309,11 @@ his body rose up in smoke to the sky of <placeName>Kyoto</placeName>, and his bo
 mingled with the sand of the shore.
 </p>
 </div>
-</div>
-<milestone unit="volume-part" n="49.1"/>
-<div type="textpart" subtype="preface">
-<head>PREFACE</head>
-<p><pb xml:id="p13"/>The present volume completes the translation of the
-<title>Heike Monogatari</title> from the events that followed the death of
-<persName>Taira Kiyomori</persName> down to the complete destruction of his house
-at the battle of <placeName>Dan-no-ura</placeName>, and the fate of those who survived
-that defeat. With this the main work ends, and the <title>Kanchō
-Maki</title> which follows is an appendix describing the after
-adventures and death of the <persName>Former Empress Kenrei-mon-in</persName>. Its
-style seems to be of a later age than the principal work, and
-approaches somewhat to that of the Nō plays of more than a
-century later.
-</p>
-<p>
-The <title>Book of Swords</title> is another appendix found only in
-some MSS of the book, and is, no doubt, also of comparatively
-late date. Its inspiration is of Shinto, and not of Buddhism,
-as is perhaps natural, and its purpose seems to be to point out
-how the history of the country was shaped by the deities
-through the supernatural power that resided in these swords.
-</p>
-<p>
-The stories of the origin of the name Nippon, and
-of the Sacred Seal, are interesting examples of that
-combination called Ryōbu Shinto. Another object was to show
-that the sword that was lost in the sea at the drowning of the
-<persName>Emperor Antoku</persName> was not the real Sacred Sword, but a copy,
-which deceived the <persName>Dragon King</persName> of the waters as well as the
-<persName>Heike</persName>. The Sea Deity, who has usually distinct Buddhist
-characteristics, is here identified with the <persName>Orochi</persName> in whose tail
-the Sacred Sword was found. The derivation of place-names
-from various mythological incidents found in this book is
-curiously reminiscent of Old Testament methods. The author
-seems to regard the Sacred Treasures as the Urim and
-Thummim or Tablets of Destiny of his country.
-</p>
-<p>
-The list of Sanskrit and Chinese words is added as a further
-<pb xml:id="p14"/>
-explanation of the Japanese equivalents used in the text, and
-to show the direction in which the literature of the Kamakura
-age borrowed from these sources. <title>Eitel's Chin. Sansk.
-Dictionary</title> and <title>Rosenberg's Jap. Chin. Sansk. Dictionary</title> have
-been used in its preparation as well as <title>Mayer's Chinese Reader's
-Manual</title>.
-</p>
-<p>
-In conclusion I wish to express my thanks to <persName>Mr. Fukui</persName>,
-Professor of Japanese Literature, and to <persName>Dr. Okada</persName>, Professor
-of Chinese Literature, in the Peers' College for their kind
-explanation of some obscure passages.
-</p>
-<p><persName>A. L. S.</persName></p>
-</div>
-<div type="textpart" subtype="volume" n="6">
+
+
 <pb n="1" xml:id="p15-1"/>
-<head>VOLUME VI.</head>
+
+<milestone unit="volume-part" n="49.1"/>
 <div type="textpart" subtype="chapter" n="8" xml:id="v6_ch8">
 <head>CHAPTER VIII.</head>
 <head>KYONOSHIMA.</head>
@@ -12025,7 +12029,7 @@ paid any attention.
 
 <div type="textpart" subtype="volume" n="7">
 <head>VOLUME VII.</head>
-<div type="textpart" subtype="chapter" n="11" xml:id="v7_ch1">
+<div type="textpart" subtype="chapter" n="1" xml:id="v7_ch1">
 <head>CHAPTER I.</head>
 <head>THE EXPEDITION TO THE NORTHERN PROVINCES.</head>
 <p>At the beginning of the third month of the second year
@@ -12180,7 +12184,7 @@ embarked in the boat and returned to the mainland in great joy.
 
 <div type="textpart" subtype="chapter" n="3" xml:id="v7_ch3">
 <head>CHAPTER III.</head>
-<head>THE BATTIE AT HIUCHI.</head>
+<head>THE BATTLE AT HIUCHI.</head>
 <p>Now, though <persName>Kiso Yoshinaka</persName> himself remained in <placeName>Shinano</placeName>,
 he built a stronghold at <placeName>Hiuchi</placeName> in <placeName>Echizen</placeName> and stationed there
 <persName>Heizenji-no-Chori Saimei-i-gishi</persName>, <persName>Togashi-no-Nyudo Bussei</persName>,
@@ -13588,7 +13592,7 @@ The stanza runs thus:
 </div>
 <div type="textpart" subtype="chapter" n="16" xml:id="v7_ch16">
 <head>CHAPTER XVI.</head>
-<head>DEPARTURE OF TSUNEMASA FROM KYƆTO.</head>
+<head>DEPARTURE OF TSUNEMASA FROM KYOTO.</head>
 <p><persName>Kōgō-gu-no-suke Tsunemasa</persName>, the eldest son of <persName>Shuri-no-
 taiyū Tsunemori</persName>, had, as a child, served as page to the <persName>Imperial
 Abbot</persName> of the temple of <placeName>Omuro Ninnaji</placeName>, and still felt so deeply
@@ -13929,8 +13933,7 @@ thought best.
 <div type="textpart" subtype="chapter" n="19" xml:id="v7_ch19">
 <head>CHAPTER XIX.</head>
 <head>THE HEIKE AT FUKUHARA.</head>
-<p>When the <orgName>Heike</orgName> arrived at their former capital of <placeName>Fuku-
-hara</placeName>, <persName>Munemori</persName> called together the most trusty retainers, old
+<p>When the <orgName>Heike</orgName> arrived at their former capital of <placeName>Fukuhara</placeName>, <persName>Munemori</persName> called together the most trusty retainers, old
 and young, to the number of several hundred, and addressed
 them thus: "Since the results of the good deeds of our house
 are now exhausted and those of its evil actions predominate, we
@@ -17127,7 +17130,7 @@ escape. Thus was the second assault made by <persName>Kajiwara</persName>.
 </div>
 <div type="textpart" subtype="chapter" n="12" xml:id="v9_ch12">
 <head>CHAPTER XII.</head>
-<head>THE DESCENT OF THE HIIL.</head>
+<head>THE DESCENT OF THE HILL.</head>
 <p>Thereafter the battle became general and the various clans
 of the <orgName>Gen</orgName> and <orgName>Hei</orgName> surged over each other in mixed and
 furious combat. The men of the <persName>Miura</persName>, <persName>Kamakura</persName>, <persName>Chichibu</persName>,
@@ -19168,7 +19171,7 @@ hundred and seventy million years to wait for the rebirth of
 <persName>Miroku</persName> and the salvation of the world.
 </p>
 </div>
-<div type="textpart" subtype="chapter" n="15" xml:id="v10_ch12">
+<div type="textpart" subtype="chapter" n="12" xml:id="v10_ch12">
 <head>CHAPTER XII.</head>
 <head>KOREMORI RENOUNCES THE WORLD.</head>
 <p>"I am forever undecided, like the birds on the snowy
@@ -19971,6 +19974,7 @@ the year ended.
 <div type="textpart" subtype="chapter" n="1" xml:id="v11_ch1">
 <head>CHAPTER I.</head>
 <head>SAKARO.</head>
+<milestone unit="japanesechapter" n="11"/>
 <p>On the tenth day of the first month of the second
 year of
 Gen-ryaku <persName>Kuro Taiyu-no-Hōgwan Yoshitsune</persName> proceeded to the
@@ -20035,8 +20039,7 @@ On the sixteenth day, just as the ships that had been
 prepared at <placeName>Watanabe</placeName> and <placeName>Fukushima</placeName> were about to loose their
 hawsers and set sail, a most violent tempest arose, and the ships
 were damaged so that they could not put out, so that day was
-spent in repairing them. Then the leaders of the <placeName>Eastern Pro-
-vinces</placeName>, great and small, came together at <placeName>Watanabe</placeName> and said:
+spent in repairing them. Then the leaders of the <placeName>Eastern Provinces</placeName>, great and small, came together at <placeName>Watanabe</placeName> and said:
 “We have so far had no experience of war at sea, so what shall
 we do?"
 "I think we ought to have a '<term>Sakaro</term>' fitted on
@@ -22067,7 +22070,7 @@ everywhere they were degraded.
 <head>VOLUME XII.</head>
 <div type="textpart" subtype="chapter" n="1" xml:id="v12_ch1">
 <head>CHAPTER I.</head>
-<head>THE EXECUTION OF SHIGEHIRA.</head>
+<head>THE EXECUTION OF SHIGEHIRA.<note n="GRC">McCullough makes this the final sectio of chapter 11, rather than the first of chapter 12.</note></head>
 <p>Now <persName>Hon-Sammi Chujo Shigehira</persName> had been living since
 the last year in the province of <placeName>Izu</placeName> in the charge of <persName>Kano-no-suke Muneshige</persName>, but as the monks of <placeName>Nara</placeName> were always
 demanding him, orders were at last sent to <persName>Izu-no-Kurando

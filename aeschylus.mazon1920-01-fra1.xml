@@ -1,0 +1,1613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Βίος Αισχύλου</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Digital edition based on OCR and PDF correction.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Aeschyli Tragoediae</title>
+               <editor>U. de Wilamowitz-Moellendorff</editor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>ΒΙΟΣ ΑΙΣΧΥΛΟΥ</head>
+         
+         <div type="textpart" subtype="section" n="1">
+            <p>
+               <lb/>[1] Αἰσχύλος ὁ τραγικὸς γένει μέν ἐστιν Ἀθηναῖος, Ἐλευ-
+               <lb/>σίνιος τῶν δήμων, υἱὸς Εὐφορίωνος, 
+               <app>
+                  <lem>Κυνεγείρου</lem>
+                  <rdg>Κυναιγείρου</rdg>
+               </app> ἀδελφός,
+               <lb/>ἐξ εὐπατριδῶν τὴν φύσιν.
+            </p>
+         </div>
+
+         <div type="textpart" subtype="section" n="2">
+            <p>
+               <lb/>[2] Νέος δὲ ἤρξατο τῶν τραγῳ-
+               <lb/>διῶν, καὶ πολὺ τοὺς πρὸ ἑαυτοῦ ὑπερῆρε κατά τε τὴν ποίησιν
+               <lb/>καὶ τὴν διάθεσιν τῆς σκηνῆς, τήν τε λαμπρότητα τῆς χο-
+               <lb/>ρηγίας καὶ τὴν σκευὴν τῶν ὑποκριτῶν, τήν τε τοῦ χοροῦ
+               <lb/>σεμνότητα, ὡς καὶ Ἀριστοφάνης
+               <quote>
+                  <lb/>Ἀλλ᾽ ὦ πρῶτος τῶν Ἑλλήνων πυργώσας ῥήματα σεμνά
+                  <lb/>καὶ κοσμήσας τραγικὸν λῆρον.
+               </quote>
+            </p>
+         </div>
+
+         <div type="textpart" subtype="section" n="3">
+            <p>
+               <lb/>[3] Συνεχρόνησεν δὲ Πινδάρῳ, γεγονὼς κατὰ τὴν 
+               <app>
+                  <lem>μʹ</lem>
+                  <note>corruptum</note>
+               </app> Ὀλυμ-
+               <lb/>πιάδα.
+            </p>
+         </div>
+
+         <div type="textpart" subtype="section" n="4">
+            <p>
+               <lb/>[4] Γενναῖον δὲ αὐτόν φασι καὶ 
+               <app>
+                  <lem>μετασχεῖν</lem>
+                  <rdg>μετασχεῖν ὁμολογοῦσιν</rdg>
+               </app> τῆς ἐν
+               <lb/>Μαραθῶνι μάχης σὺν τῷ ἀδελφῷ 
+               <app>
+                  <lem>Κυνεγείρῳ</lem>
+                  <rdg>Κυναιγείρῳ</rdg>
+               </app>, τῆς τε ἐν
+               <lb/>Σαλαμῖνι ναυμαχίας σὺν τῷ νεωτάτῳ τῶν ἀδελφῶν Ἀμεινίᾳ,
+               <lb/>καὶ τῆς ἐν Πλαταιαῖς πεζομαχίας.
+            </p>
+         </div>
+
+         <div type="textpart" subtype="section" n="5">
+            <p>
+               <lb/>[5] Κατὰ δὲ τὴν σύνθεσιν τῆς ποιήσεως ζηλοῖ τὸ ἁδρὸν
+               <lb/>ἀεὶ πλάσμα, ὀνοματοποιΐαις τε καὶ ἐπιθέτοις, ἔτι δὲ μετα-
+               <lb/>φοραῖς καὶ πᾶσι τοῖς δυναμένοις ὄγκον τῇ φράσει περιθεῖναι
+               <lb/>χρώμενος. Αἵ τε διαθέσεις τῶν δραμάτων οὐ πολλὰς αὐτῷ
+               <lb/>περιπετείας καὶ πλοκὰς ἔχουσιν, ὡς παρὰ τοῖς νεωτέροις·
+               <lb/>μόνον γὰρ ζηλοῖ τὸ βάρος περιτιθέναι τοῖς προσώποις, ἀρ-
+               <lb/>χαῖον εἶναι κρίνων τοῦτο τὸ μέρος μεγαλοπρεπές τε καὶ ἡρωϊ-
+               <lb/>κόν, τὸ δὲ πανούργον κομψοπρεπές τε καὶ γνωμολογικὸν
+               <lb/>ἀλλότριον τῆς τραγῳδίας ἡγούμενος· ὥστε διὰ τὸ πλεονάζειν
+               <lb/>τῷ βάρει τῶν προσώπων κωμῳδεῖται παρὰ Ἀριστοφάνει.
+               <lb/>Ἐν μὲν γὰρ τῇ Νιόβῃ ἕως τρίτου μέρους ἐπικαθημένη
+               <lb/>τῷ τάφῳ τῶν παίδων οὐδὲν φθέγγεται ἐγκεκαλυμμένη·
+               <lb/>ἔν τε τοῖς Ἕκτορος Λύτροις Ἀχιλλεὺς ὁμοίως ἐγκεκα-
+               <lb/>λυμμένος οὐ φθέγγεται, πλὴν ἐν ἀρχαῖς ὀλίγα πρὸς Ἑρμῆν
+               <lb/>ἀμοιβαῖα. Διὸ ἐκλογαὶ μὲν παρ᾽ αὐτῷ τῇ κατασκευῇ διαφέ-
+               <lb/>ρουσαι πάμπολλαι ἂν εὑρεθεῖεν, γνῶμαι δὲ ἢ συμπάθειαι ἢ
+               <lb/>ἄλλο τι τῶν δυναμένων εἰς δάκρυα ἀγαγεῖν οὐ πάνυ· ταῖς τε
+               <lb/>γὰρ ὄψεσι καὶ τοῖς μύθοις πρὸς ἔκπληξιν τερατώδη μᾶλλον
+               <lb/>ἢ πρὸς ἀπάτην κέχρηται.
+            </p>
+         </div>
+
+         <div type="textpart" subtype="section" n="6">
+            <p>
+               <lb/>[6] Ἀπῆρεν δὲ ὡς Ἱέρωνα, κατὰ τινὰς μὲν ὑπὸ Ἀθηναίων
+               <lb/>κατασπουδασθεὶς καὶ ἡσσηθεὶς νέῳ ὄντι Σοφοκλεῖ, κατὰ δὲ
+               <lb/>ἐνίους ἐν τῷ εἰς τοὺς ἐν Μαραθῶνι τεθνηκότας ἐλεγείῳ
+               <lb/>ἡσσηθεὶς Σιμωνίδῃ· τὸ γὰρ ἐλεγεῖον πολὺ τῆς περὶ τὸ συμ-
+               <lb/>παθὲς λεπτότητος μετέχειν θέλει, ὃ τοῦ Αἰσχύλου, ὡς ἔφαμεν,
+               <lb/>ἐστὶν ἀλλότριον.
+            </p>
+         </div>
+
+         <div type="textpart" subtype="section" n="7">
+            <p>
+               <app>
+                  <lem>
+                     <lb/>[7] Τινὲς δέ φασιν ἐν τῇ ἐπιδείξει τῶν Εὐμε-
+                     <lb/>νίδων σποράδην εἰσαγαγόντα τὸν χορὸν τοσοῦτον ἐκπλῆξαι
+                     <lb/>τὸν δῆμον, ὡς τὰ μὲν νήπια ἐκψύξαι, τὰ δὲ ἔμβρυα ἐξ-
+                     <lb/>αμβλωθῆναι.
+                  </lem>
+                  <rdg cause="omission" wit="Tricl."/>
+               </app>
+            </p>
+         </div>
+
+         <div type="textpart" subtype="section" n="8">
+            <p>
+               <lb/>[8] Ἐλθὼν τοίνυν εἰς Σικελίαν Ἱέρωνος τότε τὴν
+               <lb/>Αἴτναν κτίζοντος ἐπεδείξατο τὰς 
+               <app>
+                  <lem>Αἴτνας</lem>
+                  <rdg>Αἰτναίας</rdg>
+               </app> οἰωνιζόμενος βίον
+               <lb/>ἀγαθὸν τοῖς συνοικίζουσι τὴν πόλιν.
+            </p>
+         </div>
+
+         <div type="textpart" subtype="section" n="9">
+            <p>
+               <lb/>[9] Καὶ σφόδρα τῷ
+               <lb/>τυράννῳ Ἱέρωνι καὶ τοῖς Γελῴοις τιμηθείς, ἐπιζήσας τρίτον
+               <lb/>ἔτος ὢν γηραιὸς ἐτελεύτα τοῦτον τὸν τρόπον· ἀετὸς γὰρ
+               <lb/>χελώνην ἁρπάσας, ὡς ἐγκρατὴς γενέσθαι τῆς ἄγρας οὐκ
+               <lb/>ἴσχυσεν, ἀφίησι κατὰ πετρῶν αὐτὴν 
+               <app>
+                   <lem>συνθλάσσων</lem>
+                   <rdg>συνθλάσων</rdg>
+               </app> 
+               <app>
+                   <lem>τοῦ δέρμα-
+                   <lb/>τος, ἐνεχθεῖσα</lem>
+                   <rdg>τὸ δέρμα, ἣ δὲ ἐνεχθεῖσα</rdg>
+               </app> δὲ κατὰ τοῦ ποιητοῦ φονεύει αὐτόν. Χρηστη-
+               <lb/>ριασθεὶς δὲ ἦν· « Οὐράνιόν σε βέλος κατακτενεῖ ».
+            </p>
+         </div>
+
+         <div type="textpart" subtype="section" n="10">
+            <p>
+               <lb/>[10] Ἀποθανόντα δὲ Γελῷοι πολυτελῶς ἐν τοῖς δημοσίοις μνήμασι
+               <lb/>θάψαντες ἐτίμησαν μεγαλοπρεπῶς, ἐπιγράψαντες οὕτως·
+               <quote>
+                  <lb/>Αἰσχύλον Εὐφορίωνος Ἀθηναῖον τόδε κεύθει
+                  <lb/>μνῆμα καταφθίμενον πυροφόροιο Γέλας·
+                  <lb/>ἀλκὴν δ᾽ εὐδόκιμον Μαραθώνιον ἄλσος ἂν εἴποι
+                  <lb/>καὶ βαθυχαιτήεις Μήδος ἐπιστάμενος.
+               </quote>
+               <lb/>Εἰς τὸ μνῆμα δὲ φοιτῶντες ὅσοις ἐν τραγῳδίαις ἦν ὁ βίος
+               <lb/>ἐνήγιζόν τε καὶ τὰ δράματα ὑπεκρίνοντο.
+            </p>
+         </div>
+
+         <div type="textpart" subtype="section" n="11">
+            <p>
+               <lb/>[11] Ἀθηναῖοι δὲ
+               <lb/>τοσοῦτον ἠγάπησαν Αἰσχύλον, ὡς ψηφίσασθαι μετὰ θάνατον
+               <lb/>αὐτοῦ τὸν βουλόμενον διδάσκειν τὰ Αἰσχύλου χορὸν λαμ-
+               <lb/>βάνειν.
+            </p>
+         </div>
+
+         <div type="textpart" subtype="section" n="12">
+            <p>
+               <lb/>[12] Ἐβίω δὲ ἔτη 
+               <app>
+                  <lem>ξγʹ</lem>
+                  <note>uix sanum</note>
+               </app>, ἐν οἷς ἐποίησε δράματα οʹ καὶ
+               <lb/>ἐπὶ τούτοις 
+               <app>
+                  <lem>σατυρικὰ ἀμφὶ τὰ εʹ</lem>
+                  <rdg source="Dieterich">σατυρικὰ κʹ, ἀμφίβολα εʹ</rdg>
+               </app>· νίκας δὲ τὰς πάσας εἴληφε
+               <lb/>τρεισκαίδεκα· οὐκ ὀλίγας δὲ μετὰ τελευτὴν νίκας ἀπηνέγκατο.
+            </p>
+         </div>
+
+         <div type="textpart" subtype="section" n="13">
+            <p>
+               <lb/>[13] Πρῶτος Αἰσχύλος πάθεσι γεννικωτέροις τὴν τραγῳδίαν
+               <lb/>ηὔξησεν, τήν τε σκηνὴν ἐκόσμησεν καὶ τὴν ὄψιν τῶν θεω-
+               <lb/>μένων κατέπληξε τῇ λαμπρότητι, γραφαῖς καὶ μηχαναῖς,
+               <lb/>βωμοῖς τε καὶ τάφοις, σάλπιγξιν, εἰδώλοις, Ἐρινύσι, τούς τε
+               <lb/>ὑποκριτὰς χειρῖσι σκεπάσας καὶ τῷ σύρματι ἐξογκώσας
+               <lb/>μείζοσί τε τοῖς κοθόρνοις μετεωρίσας. Ἐχρήσατο δ᾽ ὑποκριτῇ
+               <lb/>πρώτῳ μὲν Κλεάνδρῳ, ἔπειτα καὶ τὸν δεύτερον αὐτῷ προσ-
+               <lb/>ῆψε Μυννίσκον τὸν Χαλκιδέα· τὸν δὲ τρίτον ὑποκριτὴν
+               <lb/>αὐτὸς ἐξηῦρεν, ὡς δὲ Δικαίαρχος ὁ Μεσσήνιος, Σοφοκλῆς.
+            </p>
+         </div>
+
+         <div type="textpart" subtype="section" n="14">
+            <p>
+               <lb/>[14] Τὸ δ᾽ ἁπλοῦν τῆς δραματοποιΐας εἰ μέν τις πρὸς τοὺς
+               <lb/>μετ᾽ αὐτὸν λογίζοιτο, φαῦλον ἂν ἐκλαμβάνοι καὶ ἀπραγμά-
+               <lb/>τευτον, εἰ δὲ πρὸς τοὺς ἀνωτέρω, θαυμάσειε τῆς ἐπινοίας
+               <lb/>τὸν ποιητὴν καὶ τῆς εὑρέσεως· ὅτῳ δὲ δοκεῖ τελεώτερος
+               <lb/>τραγῳδίας ποιητὴς Σοφοκλῆς γεγονέναι, ὀρθῶς μὲν δοκεῖ,
+               <lb/>λογιζέσθω δ᾽ ὅτι πολλῷ χαλεπώτερον ἦν ἐπὶ Θέσπιδι Φρυνίχῳ
+               <lb/>τε καὶ Χοιρίλῳ εἰς τοσόνδε μεγέθους τὴν τραγῳδίαν προ-
+               <lb/>αγαγεῖν ἢ ἐπὶ Αἰσχύλῳ εἰπόντα εἰς τὴν Σοφοκλέους ἐλθεῖν
+               <lb/>τελειότητα.
+            </p>
+         </div>
+
+         <div type="textpart" subtype="section" n="15">
+            <p>
+               <lb/>[15] Ἐπιγέγραπται τῷ τάφῳ αὐτοῦ·
+               <quote>
+                  <lb/>Αἰετοῦ ἐξ ὀνύχων βρέγμα τυπεὶς ἔθανον.
+               </quote>
+            </p>
+         </div>
+
+         <div type="textpart" subtype="section" n="16">
+            <p>
+               <lb/>[16] Φασὶν ὑπὸ Ἱέρωνος ἀξιωθέντα ἀναδιδάξαι τοὺς Πέρ-
+               <lb/>σας ἐν Σικελίᾳ καὶ λίαν εὐδοκιμεῖν.
+            </p>
+         </div>
+
+         <div type="textpart" subtype="section" n="17">
+            <p>
+               <lb/>[17] Ἐκ τῆς μουσικῆς ἱστορίας. Ταύτῃ καὶ ἄριστος εἰς
+               <lb/>τραγῳδίαν Αἰσχύλος κρίνεται, ὅτι εἰσάγει πρόσωπα μεγάλα
+               <lb/>καὶ ἀξιόχρεα· καί τινες ἤδη τῶν τραγῳδιῶν αὐτῷ διὰ μόνων
+               <lb/>οἰκονομοῦνται θεῶν, καθάπερ οἱ Προμηθεῖς· τὰ γὰρ δρά-
+               <lb/>ματα συμπληροῦσιν οἱ πρεσβύτατοι τῶν θεῶν, καὶ ἔστι τὰ
+               <lb/>ἀπὸ τῆς σκηνῆς καὶ τῆς ὀρχήστρας θεῖα πάντα πρόσωπα.
+            </p>
+         </div>
+
+         <div type="textpart" subtype="section" n="18">
+            <p>
+               <lb/>[18] Τῶν ποιημάτων ἃ μέν ἐστι διεξοδικὰ καὶ διηγηματικὰ
+               <lb/>καὶ ἀπαγγελτικὰ οὐδὲ δραματικὰ καὶ μιμητικά, ἃ δὲ ἐξ ἀμ-
+               <lb/>φοῖν, ἃ δὲ μόνον δραματικά· αὐτὰ γὰρ ἐνεργεῖ καὶ λέγει
+               <lb/>ἅμα τὰ πρόσωπα καὶ αὐτὰ τὸ κῦρος ἔχει. Διὰ τοῦτο αἱ τῶν
+               <lb/>δραμάτων ἐπιγραφαὶ προγράφονται τοῦ ποιητοῦ· Νιόβη Αἰ-
+               <lb/>σχύλου. Ὁμήρου δὲ Ἰλιάς· μικταὶ γάρ εἰσιν αἱ ποιήσεις αὐτῷ.
+            </p>
+         </div>
+
+
+<div type="page" n="13">
+            <div type="translation" xml:lang="fr">
+               <head>LES SUPPLIANTES</head> <stage type="melodrame">Mélodrame.</stage> <stage type="setting">Au fond de l'orchestre, un tertre portant un autel et des statues de dieux.</stage> <stage type="entrance">Entre le Chœur : cinquante princesses au masque hâlé, parées de bandeaux et de voiles à la mode barbare.</stage> <stage type="entrance">Cinquante suivantes les accompagnent.</stage> <sp>
+                  <speaker>LE CORYPHÉE.</speaker> <p>
+                     <lb n="1"/>Daigne Zeus Suppliant jeter un regard
+                     <lb n="2"/>favorable sur cette troupe vagabonde, dont la nef est partie
+                     <lb n="3"/>des bouches au sable fin du Nil. Loin du sol de Zeus <note>L'Égypte, appelée plus loin (558) « la terre sacrée de Zeus où naissent tous les fruits ».</note>, <lb n="4"/>Qui confine au pays syrien, nous errons en bannies ; <lb n="5"/>non qu'aucune cité ait porté contre nous la sentence d'exil
+                     <lb n="6"/>qui paie le sang versé ; <lb n="7"/>Mais, pleines d'une horreur innée de l'homme <note>Cf. Notice, p. 7-8.</note>, nous <lb n="8"/>détestons l'hymen des enfants d'Égyptos et leur sacrilège
+                     <lb n="9"/>démence. <lb n="10"/>Et Danaos, le père qui inspire tous nos desseins, qui
+                     <lb n="11"/>inspira notre révolte, a pesé tous les coups et, parmi les
+                     <lb n="12"/>douleurs, choisi celle du moins qui sauvait notre gloire : <lb n="13"/>La fuite éperdue à travers la houle des mers et la
+                     <lb n="14"/>descente aux rives d'Argolide, berceau de notre race, qui
+                     <lb n="15"/>s'honore d'être venue au monde de la génisse tournoyante
+                     <lb n="16"/>au vol du taon sous le toucher et le souffle de Zeus <note>Cf. Notice, p. 5.</note>. <lb n="17"/>En quel pays mieux disposé pour nous pourrions-nous </p>
+               </sp>
+            </div>
+
+            <div type="original" xml:lang="grc">
+               <head>ΙΚΕΤΙΔΕΣ</head> <sp>
+                  <speaker>ΧΟΡΟΣ</speaker> <lg type="anapests">
+                     <l n="1">Ζεὺς μὲν Ἀφίκτωρ ἐπίδοι προφρόνως</l> <l n="2">στόλον ἡμέτερον νάϊον ἀρθέντ'</l> <l n="3">ἀπὸ προστομίων 
+                        <app>
+                           <lem source="Pauw">λεπτοψαμάθων</lem>
+                           <rdg wit="#M">λεπτομαθῶν</rdg>
+                        </app>
+                     </l> <l n="4">Νείλου· Δίαν δὲ λιποῦσαι</l> <l n="5">χθόνα σύγχορτον Συρίᾳ φεύγομεν,</l> <l n="6">οὔτιν' ἐφ' αἵματι 
+                        <app>
+                           <lem source="Dorat">δημηλασίαν</lem>
+                           <rdg wit="#M">δημηλασίαι</rdg>
+                        </app>
+                     </l> <l n="7">ψήφῳ πόλεως γνωσθεῖσαι,</l> <l n="8">ἀλλ' 
+                        <app>
+                           <lem source="Bamberger">αὐτογενεῖ</lem>
+                           <rdg wit="#M">αὐτογένητον</rdg>
+                        </app> 
+                        <app>
+                           <lem source="Hermann">φυξανορίᾳ</lem>
+                           <rdg wit="#M">φυλαξάνοραν</rdg>
+                        </app>,
+                     </l> <l n="9">γάμον Αἰγύπτου παίδων ἀσεβῆ τ'</l> <l n="10">ὀνοταζόμεναι 
+                        <app>
+                           <lem>&lt;παράνοιαν&gt;</lem>
+                           <rdg source="suppleui">suppleui</rdg>
+                           <rdg source="Weil">διάνοιαν</rdg>
+                        </app>.
+                     </l> <l n="11">Δαναὸς δὲ πατὴρ καὶ βούλαρχος</l> <l n="12">καὶ στασίαρχος τάδε πεσσονομῶν</l> <l n="13">κύδιστ' ἀχέων ἐπέκρανεν,</l> <l n="14">φεύγειν ἀνέδην 
+                        <app>
+                           <lem source="Canter">διὰ κύμ' ἅλιον</lem>
+                           <rdg wit="#M">διακυμ. αλέον</rdg>
+                        </app>,
+                     </l> <l n="15">κέλσαι δ' Ἄργους γαῖαν, ὅθεν δὴ</l> <l n="16">γένος ἡμέτερον τῆς οἰστροδόνου</l> <l n="17">βοὸς ἐξ ἐπαφῆς κἀξ ἐπιπνοίας</l> <l n="18">Διὸς εὐχόμενον τετέλεσται.</l> <l n="19">Τίν' ἂν οὖν χώραν εὔφρονα μᾶλλον</l> <l n="20">τῆσδ' ἀφικοίμεθα σὺν τοῖσδ᾽ ἱκετῶν</l> <l n="21">ἐγχειριδίοις,</l> </lg>
+               </sp>
+            </div>
+         </div>
+
+         <div type="page" n="14">
+            <div type="translation" xml:lang="fr">
+               <div type="text">
+                  <p>
+                     <lb/>aborder avec cet attribut des bras suppliants, ces rameaux
+                     <lb/>ceints de laine ? <note>Le rameau des suppliants est une branche d'olivier, longue et droite, qu'on entoure de bandelettes de laine blanche.</note> <lb/>Ah! puisse ce pays, son sol, ses eaux limpides, puissent
+                     <lb n="18"/>les dieux du ciel et les dieux souterrains aux lourdes ven-
+                     <lb/>geances, habitants des tombeaux <note>Les héros, défenseurs du pays où ils ont leur tombeau. Cf. Notice, p. 4, n. 9.</note>, <lb/>Puisse Zeus Sauveur enfin, qui garde les foyers des
+                     <lb/>justes, agréer cette troupe de femmes comme leurs
+                     <lb n="21"/>suppliantes, en ce pays ému d'un souffle de pitié; et, <lb/>avant qu'en essaim pressé les mâles insolents issus
+                     <lb/>d'Égyptos aient foulé du pied ce sol limoneux, dieux! avec <lb/>leur vaisseau rapide, <lb/>Rejetez-les vers le large; et qu'alors, dans la tourmente
+                     <lb n="24"/>aux cinglantes rafales, dans le tonnerre et les éclairs, dans
+                     <lb/>les vents chargés d'averses, ils se heurtent à une mer
+                     <lb/>farouche et périssent, <lb/>Avant d'avoir, malgré le Ciel qui le défend, asservi les
+                     <lb n="27"/>nièces d'un père, en montant dans des lits qui ne les veu-
+                     <lb/>lent pas ! </p>
+               </div>
+               <stage type="delivery">Soutenu.</stage> <sp>
+                  <speaker>LE CHŒUR.</speaker> <p>
+                     <lb/>Mais, d'abord, ma voix au delà des mers
+                     <lb/>ira appeler mon soutien, le jeune taureau né de Zeus et de
+                     <lb n="30"/>la génisse qu'on vit paître ici des fleurs; sous le souffle de <lb/>Zeus, sous le toucher qui, naturellement, lui donna son
+                     <lb/>nom, s'achevait le temps réservé aux Parques <note>Le temps de la gestation. Il a été pour Io d'une longueur...</note>: Io mit au
+                     <lb/>monde Épaphos. <lb/>C'est en invoquant ce nom, en rappelant aujourd'hui, aux
+                     <lb n="33"/>lieux mêmes où jadis paissait mon antique aïeule, ses mal-
+                     <lb/>heurs d'autrefois, que je fournirai à ce pays des indices de
+                     <lb/>ma naissance qui, pour inattendus, n'en paraîtront pas </p>
+               </sp>
+            </div>
+            <div type="original" xml:lang="grc">
+               <sp>
+                  <lg type="anapests">
+                     <l n="22">
+                        <app>
+                           <lem source="Dorat">ἐριοστέπτοισι</lem>
+                           <rdg wit="#M">ἱερο-</rdg>
+                        </app> κλάδοισιν ;
+                     </l> <l n="23">ὧν πόλις, ὧν γῆ καὶ λευκὸν ὕδωρ,</l> <l n="24">ὕπατοί τε θεοὶ καὶ βαρύτιμοι</l> <l n="25">χθόνιοι θήκας κατέχοντες,</l> <l n="26">καὶ Ζεὺς Σωτὴρ τρίτος, οἰκοφύλαξ</l> <l n="27">ὁσίων ἀνδρῶν, δέξαιθ' ἱκέτην</l> <l n="28">τὸν θηλυγενῆ στόλον αἰδοίῳ</l> <l n="29">πνεύματι χώρας· ἀρσενοπληθῆ δ'</l> <l n="30">ἑσμὸν ὑβριστὴν Αἰγυπτογενῆ</l> <l n="31">πρὶν πόδα χέρσῳ τῇδ' ἐν ἀσώδει</l> <l n="32">θεῖναι, ξὺν ὄχῳ ταχυήρει</l> <l n="33">πέμψατε πόντονδ'· ἔνθα δὲ λαίλαπι</l> <l n="34">χειμωνοτύπῳ, βροντῇ στεροπῇ τ'</l> <l n="35">ὀμβροφόροισίν τ' ἀνέμοις, ἀγρίας</l> <l n="36">ἁλὸς ἀντήσαντες ὄλοιντο,</l> <l n="37">πρίν ποτε λέκτρων ὧν θέμις εἴργει,</l> <l n="38">
+                        <app>
+                           <lem source="anonymus">σφετεριξάμενοι</lem>
+                           <rdg wit="#M">σφετεριξάμενον</rdg>
+                        </app> 
+                        <app>
+                           <lem source="Pauw">πατραδέλφειαν</lem>
+                           <rdg wit="#M">πατραδελφίαν</rdg>
+                        </app>
+                     </l> <l n="39">τήνδ', ἀεκόντων ἐπιβῆναι.</l> </lg>
+                  <lg type="strophe" n="1">
+                     <head>Str. 1.</head> <l n="40">Νῦν δ' 
+                        <app>
+                           <lem source="Turnebus">ἐπικεκλομένα</lem>
+                           <rdg wit="#M">ἐπικεκλομέναι</rdg>
+                        </app>
+                     </l> <l n="41">Δῖον πόρτιν ὑπερ-</l> <l n="42">πόντιον τιμάορ' ἶνιν τ' 
+                        <app>
+                           <lem source="Porson">ἀνθονομού-</lem>
+                           <rdg wit="#M">ἀνθονομουστας</rdg>
+                        </app>
+                     </l> <l n="43">
+                        <app>
+                           <lem>σας</lem>
+                           <note>σ in M deletum</note>
+                        </app> προγόνου βοὸς ἐξ 
+                        <app>
+                           <lem source="Robortello">ἐπιπνοίας</lem>
+                           <rdg wit="#M">ἐπιπνοίαις</rdg>
+                        </app>
+                     </l> <l n="44">Ζηνός· 
+                        <app>
+                           <lem source="anonymus">ἐφάψει</lem>
+                           <rdg wit="#M">ἔφαψιν</rdg>
+                        </app> ἐπωνυμίᾳ δ' ἐπε-
+                     </l> <l n="45">κραίνετο μόρσιμος αἰὼν</l> <l n="46">εὐλόγως, Ἔπαφον δ' ἐγέννασεν·</l> </lg>
+                  <lg type="antistrophe" n="1">
+                     <head>Ant. 1.</head> <l n="47">ὅντ' ἐπιλεξαμένα</l> <l n="48">νῦν ἐν ποιονόμοις</l> <l n="49">ματρὸς ἀρχαίας τόποις τῶν πρόσθε πόνων</l> </lg>
+               </sp>
+            </div>
+         </div>
+
+         <div type="page" n="15">
+            <div type="translation" xml:lang="fr">
+               <p>
+                  <lb n="36"/>moins dignes de créance: on le verra bien, si l'on veut
+                  <lb/>m'entendre. <note>anormale. Le toucher de Zeus... [suite note page 14]</note> </p>
+               <stage type="delivery">Un peu plus animé.</stage> <p>
+                  <lb/>Et s'il est près de moi un homme d'ici qui sache inter-
+                  <lb/>préter le chant des oiseaux, à entendre ma plainte, il croira
+                  <lb n="39"/>ouïr la voix de l'épouse de Térée, pitoyable en ses remords,
+                  <lb/>la voix du rossignol que poursuit l'épervier <note>Térée, roi de Thrace... [détails du mythe]</note>. <lb/>Chassée de son séjour d'antan, elle pleure douloureuse-
+                  <lb/>ment sa demeure familière, tout en disant la mort de son
+                  <lb n="42"/>enfant, comment il succomba sous sa main maternelle,
+                  <lb/>sous ses propres coups, victime d'un courroux de mère
+                  <lb/>dénaturée. </p>
+               <stage type="delivery">Un peu élargi.</stage> <p>
+                  <lb/>C'est ainsi qu'à mon tour je me plais à gémir sur les tons
+                  <lb n="45"/>d'Ionie, à déchirer ensemble ma tendre joue mûrie au soleil
+                  <lb/>du Nil et mon cœur novice aux larmes. Des gerbes de <lb/>sanglots disent ma terreur: trouverai-je ici des frères prêts
+                  <lb n="48"/>à veiller sur mon exil loin de la Terre Brumeuse <note>Il s'agit de l'Égypte...</note>? <lb/>Allons, divins auteurs de ma naissance, vous voyez où est
+                  <lb/>le Droit: exaucez-nous ! Ou, si le Destin ne veut pas que le </p>
+            </div>
+            <div type="original" xml:lang="grc">
+               <sp>
+                  <lg type="antistrophe" n="1">
+                     <l n="50">
+                        <app>
+                           <lem source="Hermann">μνασαμένα γονέων</lem>
+                           <rdg wit="#M">τά τε νῦν</rdg>
+                        </app> ἐπιδείξω
+                     </l> <l n="51">πιστὰ τεκμήρι' ἃ 
+                        <app>
+                           <lem source="Dindorf">γαιονόμοισιν</lem>
+                           <rdg wit="#M">τά τ' ἀνόμοια οἶδ'</rdg>
+                        </app> ἄ-
+                     </l> <l n="52">ελπτά περ ὄντα φανεῖται·</l> <l n="53">γνώσεται δὲ 
+                        <app>
+                           <lem source="Martin">λόγου</lem>
+                           <rdg wit="#M">λόγους</rdg>
+                        </app> τις ἐν μάκει.
+                     </l> </lg>
+                  <lg type="strophe" n="2">
+                     <head>Str. 2.</head> <l n="54">Εἰ δὲ κυρεῖ τις πέλας οἰωνοπόλων</l> <l n="55">ἔγγαιος 
+                        <app>
+                           <lem source="Schwenck">οἶκτον</lem>
+                           <rdg wit="#M">οἶκτον οἰκτρὸν</rdg>
+                        </app> ἀΐων,
+                     </l> <l n="56">δοξάσει τις 
+                        <app>
+                           <lem source="Heath">ἀκούειν</lem>
+                           <rdg wit="#M">ἀκούων</rdg>
+                        </app> ὅπα τᾶς
+                     </l> <l n="57">Τηρείας μήτιδος οἰκτρᾶς ἀλόχου</l> <l n="58">κιρκηλάτου τ' 
+                        <app>
+                           <lem source="Turnebus">ἀηδόνος</lem>
+                           <rdg wit="#M">ἀηδονῆς</rdg>
+                        </app>,
+                     </l> </lg>
+                  <lg type="antistrophe" n="2">
+                     <head>Ant. 2.</head> <l n="59">ἅτ' ἀπὸ 
+                        <app>
+                           <lem source="Martin">χώρων προτέρων</lem>
+                           <rdg wit="#M">ποταμῶν τ'</rdg>
+                        </app> 
+                        <app>
+                           <lem source="edd">εἰργομένα</lem>
+                           <rdg wit="#M">ἔργ-</rdg>
+                        </app>
+                     </l> <l n="60">πενθεῖ 
+                        <app>
+                           <lem source="Haecker">μὲν</lem>
+                           <rdg wit="#M">νέον</rdg>
+                        </app> οἶκτον ἠθέων,
+                     </l> <l n="61">ξυντίθησι δὲ παιδὸς μόρον, ὡς</l> <l n="62">αὐτοφόνως ὤλετο πρὸς χειρὸς ἔθεν</l> <l n="63">δυσμάτορος κότου τυχών.</l> </lg>
+                  <lg type="strophe" n="3">
+                     <head>Str. 3.</head> <l n="64">Τὼς καὶ ἐγὼ 
+                        <app>
+                           <lem source="Heath">φιλόδυρτος</lem>
+                           <rdg wit="#M">φιλοδύρτοις</rdg>
+                        </app> Ἰ-
+                     </l> <l n="65">αονίοισι νόμοισιν</l> <l n="66">δάπτω τὰν ἁπαλὰν</l> <l n="67">Νειλοθερῆ παρειὰν</l> <l n="68">ἀπειρόδακρύν τε καρδίαν·</l> <l n="69">γοεδνὰ δ' ἀνθεμίζομαι,</l> <l n="70">δειμαίνουσα φίλους,</l> <l n="71">τάσδε φυγᾶς</l> <l n="72">Ἀερίας ἀπὸ γᾶς</l> <l n="73">εἴ τίς ἐστι κηδεμών.</l> </lg>
+                  <lg type="antistrophe" n="3">
+                     <head>Ant. 3.</head> <l n="74">Ἀλλά, 
+                        <app>
+                           <lem source="Pauw">θεοὶ</lem>
+                           <rdg wit="#M">θεοὶ οἱ</rdg>
+                        </app> γενέται, κλύετ'
+                     </l> <l n="75">εὖ τὸ δίκαιον ἰδόντες·</l> <l n="76">ἢ καὶ μὴ τέλεον</l> </lg>
+               </sp>
+            </div>
+         </div>
+
+         <div type="page" n="16">
+            <div type="translation" xml:lang="fr">
+               <p>
+                  <lb/>Droit ait satisfaction pleine, du moins, dans votre haine
+                  <lb n="51"/>toujours prête à frapper la démesure, montrez votre justice en
+                  <lb/>face de cet hymen. Même aux fugitifs meurtris par la <lb/>guerre <note>Danaos et ses filles n'ont fui vers l'Argolide qu'après une guerre malheureuse...</note> une sauvegarde contre le malheur s'offre dans l'autel
+                  <lb/>où réside la majesté des dieux. </p>
+               <stage type="delivery">Ferme et bien marqué.</stage> <p>
+                  <lb n="54"/>Ah! si le dénouement pouvait être celui de nos vœux ! Le
+                  <lb/>désir de Zeus n'est point aisé à saisir. Mais, quoi qu'il
+                  <lb/>arrive, il flamboie soudain, parfois en pleines ténèbres <note>Le coupable se croit protégé par la nuit de l'oubli...</note>,
+                  <lb/>escorté d'un noir châtiment, aux yeux des hommes éphé-
+                  <lb n="57"/>mères. <lb/>Il retombe toujours d'aplomb, jamais ne va à terre <note>Images empruntées à la langue de la palestre...</note>, le sort
+                  <lb/>dont Zeus a décidé d'un signe de son front qu'il devait
+                  <lb/>s'achever. Les voies de la pensée divine vont à leur but par
+                  <lb n="60"/>des fourrés et des ombres épaisses que nul regard ne sau-
+                  <lb/>rait pénétrer. </p>
+               <stage type="delivery">En animant.</stage> <p>
+                  <lb/>Zeus précipite les mortels du haut de leurs espoirs
+                  <lb/>superbes dans le néant; mais sans s'armer de violence: rien <lb n="63"/>ne coûte d'effort à un dieu. Sa pensée trône sur les cimes et
+                  <lb/>de là même achève ses desseins, sans quitter son siège
+                  <lb/>sacré <note>Comparez 598-599...</note>. <lb/>Qu'il jette donc les yeux sur la démesure humaine, incar-
+                  <lb/>née à nouveau dans la race qui, pour obtenir mon hymen, </p>
+            </div>
+            <div type="original" xml:lang="grc">
+               <sp>
+                  <lg type="antistrophe" n="3">
+                     <l n="77">δόντες ἔχειν παρ' αἶσαν,</l> <l n="78">ὕβριν δ' ἑτοίμως 
+                        <app>
+                           <lem source="Turnebus">στυγοῦντες</lem>
+                           <rdg wit="#M">στυγόντες</rdg>
+                        </app>,
+                     </l> <l n="79">πέλοιτ' ἂν ἔνδικοι γάμοις·</l> <l n="80">ἔστι δὲ κἀκ πολέμου</l> <l n="81">τειρομένοις</l> <l n="82">βωμὸς ἀρῆς φυγάσιν</l> <l n="83">ῥύμα, δαιμόνων σέβας.</l> </lg>
+                  <lg type="strophe" n="4">
+                     <head>Str. 4.</head> <l n="84">Εἴθ' εἴη 
+                        <app>
+                           <lem source="Schwerdt">τέλος</lem>
+                           <rdg wit="#M">Διὸς</rdg>
+                        </app> εὖ παναλη-
+                     </l> <l n="85">θῶς. Διὸς ἵμερος οὐκ</l> <l n="86">εὐθήρατος ἐτύχθη·</l> <l n="87">παντᾷ τοι φλεγέθει</l> <l n="88">κἂν σκότῳ μελαίνᾳ</l> <l n="89">ξὺν τύχᾳ μερόπεσσι λαοῖς.</l> </lg>
+                  <lg type="antistrophe" n="4">
+                     <head>Ant. 4.</head> <l n="90">Πίπτει δ' ἀσφαλὲς οὐδ᾽ ἐπὶ νώ-</l> <l n="91">τῳ, 
+                        <app>
+                           <lem source="M. Schmidt">Διὸς εἰ κορυφᾷ</lem>
+                           <rdg wit="#M">κορυφᾷ Διὸς εἰ</rdg>
+                        </app>
+                     </l> <l n="92">κρανθῇ πρᾶγμα τέλειον·</l> <l n="93">δαυλοὶ γὰρ πραπίδων</l> <l n="94">δάσκιοί τε τείνου-</l> <l n="95">σιν πόροι κατιδεῖν ἄφραστοι.</l> </lg>
+                  <lg type="strophe" n="5">
+                     <head>Str. 5.</head> <l n="96">Ἰάπτει δ' ἐλπίδων</l> <l n="97">ἀφ' ὑψιπύργων πανώλεις βροτούς,</l> <l n="98">βίαν δ' οὔτιν' ἐξοπλίζει·</l> <l n="99">
+                        <app>
+                           <lem source="Wellauer">πᾶν ἄπονον</lem>
+                           <rdg wit="#M">τὰν ἄποινον</rdg>
+                        </app> 
+                        <app>
+                           <lem source="Paley">δαιμόνιον</lem>
+                           <rdg wit="#M">δαιμονίων</rdg>
+                        </app>·
+                     </l> <l n="100">
+                        <app>
+                           <lem source="Weil">θᾶσσον</lem>
+                           <rdg wit="#M">ἥμενον</rdg>
+                        </app> ἄνω φρόνημά πως
+                     </l> <l n="101">αὐτόθεν ἐξέπραξεν ἔμ-</l> <l n="102">πας ἑδράνων ἐφ᾽ ἁγνῶν.</l> </lg>
+                  <lg type="antistrophe" n="5">
+                     <head>Ant. 5.</head> <l n="103">Ἰδέσθω δ' εἰς ὕβριν</l> <l n="104">βρότειον, 
+                        <app>
+                           <lem source="Bamberger">οἵαν</lem>
+                           <rdg wit="#M">οἷα</rdg>
+                        </app> νεάζει πυθμὴν
+                     </l> </lg>
+               </sp>
+            </div>
+         </div>
+
+         <div type="page" n="17">
+            <div type="translation" xml:lang="fr">
+               <p>
+                  <lb n="66"/>s'épanouit en funestes et folles pensées! Un sentiment né du
+                  <lb/>délire la point d'un irrésistible aiguillon, et, reniant son
+                  <lb/>passé, la voici prise au piège d'Até. </p>
+               <stage type="delivery">Très animé.</stage> <stage type="action">
+                  Le Chœur commence à se livrer à une mimique véhémente qui doit faire violence aux dieux qu'il implore. Il déchire ses vêtements et accompagne chacun de ses refrains d'une danse sauvage. </stage>
+               <p>
+                  <lb n="69"/>Telles sont les tristes douleurs que disent mes cris aigus,
+                  <lb/>mes sanglots sourds, mes torrents de larmes, et même,
+                  <lb/>hélas ! ces clameurs qui distinguent les chants funèbres:
+                  <lb/>vivante, je conduis mon propre deuil. </p>
+               <stage type="delivery">(Retenu.)</stage>
+               <p>
+                  <lb/>Sois-nous propice, terre montueuse d'Apis <note>Sur ce nom, voyez p. 22.</note>! —
+                  <lb/>M'entends-tu bien, ô terre, malgré mon accent barbare <note>Il s'agit ici d'une véritable incantation...</note>? <lb/>Et, sans répit, ma main s'abat, pour en mettre le lin
+                  <lb/>en pièces, sur mon voile de Sidon. <lb n="72"/>Vers le ciel, c'est une ruée de serments, de vœux d'actions
+                  <lb/>de grâces, quand la mort est là, qui menace <note>Les Danaïdes, en ce moment, ne craignent pas la mort...</note>. Hélas ! hélas !
+                  <lb/>vents incertains! où nous emportera ce flot? </p>
+               <stage type="delivery">(Retenu.)</stage>
+               <p>
+                  <lb/>Sois-nous propice, terre montueuse d'Apis!
+                  <lb/>M'entends-tu bien, ô terre, malgré mon accent barbare?
+                  <lb/>Et, sans répit, ma main s'abat, pour en mettre le lin
+                  <lb n="75"/>en pièces, sur mon voile de Sidon. </p>
+               <stage type="delivery">Toujours vif.</stage> <p>
+                  <lb/>Sans doute, la rame, la nef aux ais ceints de cordages qui
+                  <lb/>arrête l'assaut des flots m'ont conduite ici sans tempête, avec </p>
+            </div>
+            <div type="original" xml:lang="grc">
+               <sp>
+                  <lg type="antistrophe" n="5">
+                     <l n="105">δι' ἁμὸν γάμον 
+                        <app>
+                           <lem source="Bothe">τεθαλὼς</lem>
+                           <rdg wit="#M">τὸ θάλος</rdg>
+                        </app>
+                     </l> <l n="106">δυσπαραβούλοισι φρεσὶν</l> <l n="107">καὶ διάνοιαν μαινόλιν</l> <l n="108">κέντρον ἔχων ἄφυκτον, 
+                        <app>
+                           <lem source="Westphal">Ἄτας δ' ἀπάταν</lem>
+                           <rdg wit="#M">ἅται δ' ἀπάται</rdg>
+                        </app> μεταγνούς.
+                     </l> </lg>
+                  <lg type="strophe" n="1">
+                     <head>Str. 1.</head> <l n="109">Τοιαῦτα πάθεα μέλεα θρεομένα 
+                        <app>
+                           <lem source="Stanley">λέγω</lem>
+                           <rdg wit="#M">λέγων</rdg>
+                        </app>
+                     </l> <l n="110">λιγέα βαρέα δακρυοπετῆ,</l> <l n="111">ἰὴ ἰή, ἰηλέμοισιν 
+                        <app>
+                           <lem source="Porson">ἐμπρεπῆ</lem>
+                           <rdg wit="#M">ἐμπρέπη | θρεομένη μέλη</rdg>
+                        </app>·
+                     </l> <l n="112">ζῶσα γόοις με τιμῶ.</l> <l n="113">
+                        <app>
+                           <lem source="Turnebus">Ἱλέομαι</lem>
+                           <rdg wit="#M">ἱλέωμαι</rdg>
+                        </app> μὲν Ἀπίαν
+                     </l> <l n="114">βοῦνιν· καρβᾶνα δ' αὐδὰν</l> <l n="115">
+                        <app>
+                           <lem source="Boissonade">εὖ, γᾶ, κοννεῖς</lem>
+                           <rdg wit="#M">εὐακοννεῖς</rdg>
+                        </app>;
+                     </l> <l n="116">πολλάκι δ' ἐμπίτνω ξὺν</l> <l n="117">λακίδι 
+                        <app>
+                           <lem source="Bücheler">λινοσινεῖ</lem>
+                           <rdg wit="#M">λίνοισινῆι</rdg>
+                        </app>
+                     </l> <l n="118">Σιδονίᾳ καλύπτρᾳ.</l> </lg>
+                  <lg type="antistrophe" n="1">
+                     <head>Ant. 1.</head> <l n="119">Θεοῖς δ' ἐναγέα τέλεα πελομένων καλῶς</l> <l n="120">ἐπίδρομ', ὁπόθι θάνατος 
+                        <app>
+                           <lem source="Weil">ἐπῇ</lem>
+                           <rdg wit="#M">ὅπηι</rdg>
+                        </app>
+                     </l> <l n="121">ἰὼ ἰώ, ἰὼ δυσάγκριτοι 
+                        <app>
+                           <lem source="Weil">πνόοι</lem>
+                           <rdg wit="#M">πόνοι</rdg>
+                        </app>·
+                     </l> <l n="122">ποῖ τόδε κῦμ' ἀπάξει;</l> <l n="123">
+                        <app>
+                           <lem source="Turnebus">Ἱλέομαι</lem>
+                           <rdg wit="#M">ἱλέωμαι</rdg>
+                        </app> μὲν Ἀπίαν
+                     </l> <l n="124">βοῦνιν· καρβᾶνα δ' αὐδὰν</l> <l n="125">
+                        <app>
+                           <lem source="Boissonade">εὖ, γᾶ, κοννεῖς</lem>
+                           <rdg wit="#M">εὐακοννεῖς</rdg>
+                        </app>;
+                     </l> <l n="126">πολλάκι δ' ἐμπίτνω ξὺν</l> <l n="127">λακίδι 
+                        <app>
+                           <lem source="Bücheler">λινοσινεῖ</lem>
+                           <rdg wit="#M">λίνοισινῆι</rdg>
+                        </app>
+                     </l> <l n="128">Σιδονίᾳ καλύπτρᾳ.</l> </lg>
+                  <lg type="strophe" n="2">
+                     <head>Str. 2.</head> <l n="129">Πλάτα μὲν οὖν λινορραφής</l> <l n="130">τε δόμος ἅλα στέγων δορὸς</l> </lg>
+               </sp>
+            </div>
+         </div>
+
+         <div type="page" n="18">
+            <div type="translation" xml:lang="fr">
+               <p>
+                  <lb/>l'aide des brises: je n'en fais point de plainte. Mais le
+                  <lb/>dénouement que j'espère, daigne le Père qui voit tout me
+                  <lb n="78"/>l'accorder en sa bonté ! </p>
+               <stage type="delivery">(Un peu retenu.)</stage> <p>
+                  <lb/>Que les enfants d'une auguste mère
+                  <lb/>échappent aux embrassements des mâles, libres d'hymen,
+                  <lb/>libres de joug ! </p>
+               <p>
+                  <lb n="81"/>Et que la chaste fille de Zeus, clémente à qui implore sa <note>L'épithète indique clairement qu'il s'agit d'Artémis...</note>
+                  <lb/>clémence, laisse tomber sur moi de son visage austère un
+                  <lb/>regard assurant mon salut! Que, de tout son pouvoir, <lb n="84"/>indignée de telle poursuite, vierge, elle sauve une vierge! </p>
+               <stage type="delivery">(Un peu retenu.)</stage> <p>
+                  <lb/>Que les enfants d'une auguste mère
+                  <lb/>échappent aux embrassements des mâles, libres d'hymen,
+                  <lb/>libres de joug ! </p>
+               <stage type="delivery">Vif et mordant.</stage> <p>
+                  <lb n="87"/>Sinon, avec nos teints brunis des traits du soleil, nous
+                  <lb/>irons, nos rameaux suppliants en mains, vers le Zeus des
+                  <lb/>enfers, le Zeus hospitalier des morts: nous nous pendrons <note>Texte conjectural. Les Danaïdes feront plus loin la même menace à Pélasgos...</note>, <lb n="90"/>puisque nos voix n'ont pu atteindre les dieux olympiens. </p>
+               <stage type="delivery">(Retenu.)</stage> <p>
+                  <lb/>Zeus! c'est Io, hélas ! que poursuit en nous
+                  <lb/>un courroux divin: je reconnais une jalousie d'épouse <note>Elles cherchent à piquer Zeus par de véritables sarcasmes...</note>, qui <lb/>tempête, sous la menace de la mort, lancent des vœux vers le Ciel.
+                  <lb/>Où va les conduire la vague qui entraîne la barque de leur
+                  <lb/>destinée? </p>
+            </div>
+            <div type="original" xml:lang="grc">
+               <sp>
+                  <lg type="strophe" n="2">
+                     <l n="131">ἀχείματόν μ' ἔπεμπε σὺν πνοαῖς,</l> <l n="132">οὐδὲ μέμφομαι·</l> <l n="133">τελευτὰς δ' ἐν χρόνῳ</l> <l n="134">πατὴρ ὁ παντόπτας</l> <l n="135">πρευμενεῖς κτίσειεν.</l> <l n="136">Σπέρμα σεμνᾶς μέγα μα-</l> <l n="137">τρὸς εὐνὰς ἀνδρῶν, 
+                        <app>
+                           <lem source="edd">ἐή</lem>
+                           <rdg wit="#M">ἰὼ ἰὼ</rdg>
+                        </app>,
+                     </l> <l n="138">ἄγαμον 
+                        <app>
+                           <lem source="Bothe">ἀδάματον</lem>
+                           <rdg wit="#M">ἀδάμαντον</rdg>
+                        </app> ἐκφυγεῖν.
+                     </l> </lg>
+                  <lg type="antistrophe" n="2">
+                     <head>Ant. 2.</head> <l n="139">Θέλουσα δ' αὖ θέλουσαν ἁ-</l> <l n="140">γνά μ' ἐπιδέτω Διὸς κόρα</l> <l n="141">ἔχουσα σέμν' ἐνώπι' ἀσφαλές,</l> <l n="142">παντὶ δὲ 
+                        <app>
+                           <lem source="Heath">σθένει</lem>
+                           <rdg wit="#M">σθένουσι</rdg>
+                        </app>
+                     </l> <l n="143">
+                        <app>
+                           <lem source="Hermann">διωγμοῖς ἀσχαλῶσ'</lem>
+                           <rdg wit="#M">διωγμοῖσι δ' ἀσφαλέας</rdg>
+                        </app>
+                     </l> <l n="144">
+                        <app>
+                           <lem source="Butler">ἀδμῆτος</lem>
+                           <rdg wit="#M">ἀδμήτας</rdg>
+                        </app> ἀδμήτα
+                     </l> <l n="145">ῥύσιος γενέσθω.</l> <l n="146">Σπέρμα σεμνᾶς μέγα μα-</l> <l n="147">τρὸς εὐνὰς ἀνδρῶν, 
+                        <app>
+                           <lem source="edd">ἐή</lem>
+                           <rdg wit="#M">ἰὼ ἰὼ</rdg>
+                        </app>,
+                     </l> <l n="148">ἄγαμον 
+                        <app>
+                           <lem source="Bothe">ἀδάματον</lem>
+                           <rdg wit="#M">ἀδάμαντον</rdg>
+                        </app> ἐκφυγεῖν.
+                     </l> </lg>
+                  <lg type="strophe" n="3">
+                     <head>Str. 3.</head> <l n="149">Εἰ δὲ μή, μελανθὲς</l> <l n="150">ἡλιόκτυπον γένος</l> <l n="151">τὸν γάϊον,</l> <l n="152">τὸν πολυξενώτατον</l> <l n="153">Ζῆνα τῶν κεκμηκότων</l> <l n="154">ἱξόμεσθα σὺν κλάδοις,</l> <l n="155">ἀρτάναις θανοῦσαι,</l> <l n="156">μὴ τυχοῦσαι θεῶν Ὀλυμπίων.</l> <l n="157">Α Ζήν, Ἰοῦς, ἰώ,</l> <l n="158">μῆνις μάστειρ' ἐκ θεῶν·</l> <l n="159">κοννῶ δ' 
+                        <app>
+                           <lem source="Bamberger">ἄγαν</lem>
+                           <rdg wit="#M">ἅταν</rdg>
+                        </app> 
+                        <app>
+                           <lem source="Vett">γαμετᾶς οὐρανό-
+                              <lb/>νικον
+                           </lem>
+                           <rdg wit="#M">γαμετουρανόνεικον</rdg>
+                        </app>
+                     </l> </lg>
+               </sp>
+            </div>
+         </div>
+
+         <div type="page" n="19">
+            <div type="translation" xml:lang="fr">
+               <p>
+                  <lb n="93"/>triomphe du Ciel tout entier. Elle est âpre, la bourrasque d'où
+                  <lb/>va sortir l'ouragan <note>La violence de la bourrasque qui annonce l'ouragan...</note>! <lb/>Alors Zeus sera livré à des récits qui diront son injustice,
+                  <lb n="96"/>puisqu'il a méprisé l'enfant de la génisse par lui-même
+                  <lb/>engendré et dont il se détourne à l'heure des prières. Ah! <lb/>que plutôt, du haut des cieux, il exauce ceux qui l'appel-
+                  <lb/>lent! </p>
+               <p>
+                  &lt;(Retenu.) Zeus! c'est Io, hélas ! que poursuit en nous un
+                  <lb/>courroux divin: je reconnais une jalousie d'épouse, qui
+                  <lb/>triomphe du Ciel tout entier. Elle est âpre, la bourrasque
+                  <lb/>d'où va sortir l'ouragan. &gt; <note>Ce refrain a été omis après l'antistrophe par le scribe du Mediceus...</note> </p>
+               <stage type="action">
+                  Danaos, entré dans l'orchestre derrière ses filles, est monté sur le tertre, d'où il a longuement observé l'horizon. Il s'adresse soudain au Chœur. </stage>
+               <sp>
+                  <speaker>DANAOS.</speaker>
+                  <p>
+                     <lb/>Mes enfants, la prudence doit être notre loi :
+                     <lb/>c'est en prudent pilote qu'ici vous a conduites le vieux père
+                     <lb/>en qui vous avez foi, et maintenant, à terre, ma prévoyance
+                     <lb/>encore vous engage à garder mes avis bien gravés en vous. <lb n="99"/>Je vois une poussière, messagère muette d'une armée. Des
+                     <lb/>moyeux crient, qu'entraînent leurs essieux. J'aperçois une <lb/>troupe portant le bouclier, armée du javelot, avec des
+                     <lb/>chevaux et des chars recourbés. Sans doute des chefs de ce <lb n="102"/>pays viennent-ils nous examiner, avertis par quelque
+                     <lb/>message. Mais, que celui qui conduit l'élan de cette troupe
+                     <lb/>arrive ici sans intention méchante ou qu'il ait, au contraire,
+                     <lb/>aiguisé des instincts cruels, mieux vaut, pour tout prévoir,
+                     <lb/>mes filles, vous asseoir sur ce tertre consacré aux dieux </p>
+               </sp>
+            </div>
+            <div type="original" xml:lang="grc">
+               <sp>
+                  <lg type="strophe" n="3">
+                     <l n="160">χαλεποῦ</l> <l n="161">γὰρ ἐκ πνεύματος εἶσι χειμών.</l> </lg>
+                  <lg type="antistrophe" n="3">
+                     <head>Ant. 3.</head> <l n="162">Καὶ τότ' οὐ δικαίοις</l> <l n="163">Ζεὺς 
+                        <app>
+                           <lem source="Porson">ἐνέξεται</lem>
+                           <rdg wit="#M">ἐνεύξεται</rdg>
+                        </app> λόγοις,
+                     </l> <l n="164">τὸν τᾶς βοὸς</l> <l n="165">παῖδ' ἀτιμάσας, τὸν αὐ-</l> <l n="166">τός ποτ' ἔκτισεν γόνῳ,</l> <l n="167">νῦν ἔχων παλίντροπον</l> <l n="168">ὄψιν ἐν λιταῖσιν·</l> <l n="169">ὑψόθεν δ' εὖ κλύοι καλούμενος.</l> </lg>
+                  <lg type="ephymnion">
+                     <app>
+                        <lem source="Canter">
+                           <l n="170">&lt;Α Ζήν, Ἰοῦς, ἰώ,</l>
+                           <l n="171">μῆνις μάστειρ' ἐκ θεῶν·</l>
+                           <l n="172">κοννῶ δ' ἄγαν γαμετᾶς</l>
+                           <l n="173">οὐρανόνικον· χαλεποῦ</l>
+                           <l n="174">γὰρ ἐκ πνεύματος εἶσι χειμών.&gt;</l>
+                        </lem>
+                        <note>ephymnium iterauit Canter</note>
+                     </app> </lg>
+               </sp>
+               <sp>
+                  <speaker>ΔΑΝΑΟΣ</speaker> <l n="175">Παῖδες, φρονεῖν χρή· ξὺν φρονοῦντι δ' ἥκετε</l> <l n="176">πιστῷ γέροντι τῷδε ναυκλήρῳ πατρί·</l> <l n="177">καὶ τἀπὶ χέρσου νῦν προμηθίαν 
+                     <app>
+                        <lem source="Wordsworth">λαβὼν</lem>
+                        <rdg wit="#M">λαβεῖν</rdg>
+                     </app>
+                  </l> <l n="178">αἰνῶ φυλάξαι τἄμ' ἔπη δελτουμένας.</l> <l n="179">Ὁρῶ κόνιν, ἄναυδον ἄγγελον στρατοῦ·</l> <l n="180">σύριγγες οὐ σιγῶσιν ἀξονήλατοι·</l> <l n="181">ὄχλον δ' ὑπασπιστῆρα καὶ δορυσσόον</l> <l n="182">λεύσσω ξὺν ἵπποις καμπύλοις τ' ὀχήμασιν.</l> <l n="183">Τάχ' ἂν πρὸς ἡμᾶς τῆσδε γῆς ἀρχηγέται</l> <l n="184">ὀπτῆρες εἶεν ἀγγέλων πεπυσμένοι.</l> <l n="185">Ἀλλ' εἴτ' ἀπήμων εἴτε καὶ 
+                     <app>
+                        <lem source="Pearson">τεθηγμένος</lem>
+                        <rdg wit="#M">τεθειμένος</rdg>
+                     </app>
+                  </l> <l n="186">ὠμῇ ξὺν ὀργῇ τόνδ' ἐπόρνυται στόλον,</l> <l n="187">ἄμεινόν ἐστι παντὸς εἵνεκ', ὦ κόραι,</l> <l n="188">πάγον προσίζειν τῶνδ' ἀγωνίων θεῶν·</l> </sp>
+            </div>
+         </div>
+
+         <div type="page" n="20">
+            <div type="translation" xml:lang="fr">
+               <div type="text">
+                  <p>
+                     <lb/>d'une cité: encore mieux qu'un rempart, un autel est un
+                     <lb/>infrangible bouclier. Allons, hâtez-vous, et, vos rameaux <lb/>aux blanches guirlandes, attributs de Zeus Suppliant, pieu-
+                     <lb/>sement tenus sur le bras gauche <note>Le rameau des suppliants se porte en général dans la saignée du bras gauche.</note>, répondez aux étrangers <lb n="108"/>en termes suppliants, gémissants et éplorés, ainsi qu'il
+                     <lb/>convient à des arrivants, en disant nettement que votre
+                     <lb/>exil n'est pas taché de sang. Qu'aucune assurance ne sou- <lb/>tienne votre voix ; qu'aucune effronterie, sur vos visages au
+                     <lb n="111"/>front modeste, ne se lise en votre regard posé. Enfin, ni ne <lb/>prenez trop vite la parole ni ne la gardez trop longtemps :
+                     <lb/>les gens d'ici sont irritables. Sache céder; tu es une étran- <lb/>gère, une exilée dans la détresse : un langage trop assuré
+                     <lb/>ne convient pas aux faibles. </p>
+               </div>
+               <sp>
+                  <speaker>LE CORYPHÉE.</speaker>
+                  <p>
+                     <lb/>Père, tu parles de prudence à des
+                     <lb/>enfants prudents: j'aurai soin de me rappeler tes sages
+                     <lb n="116"/>avis. Mais que Zeus notre aïeul jette un regard sur
+                     <lb/>nous ! </p>
+               </sp>
+               <sp>
+                  <speaker>DANAOS.</speaker>
+                  <p>
+                     <lb/>— Oui, qu'il nous regarde ici d'un œil clément ! </p>
+               </sp>
+               <sp>
+                  <speaker>LE CORYPHÉE.</speaker>
+                  <p>
+                     <lb/>Qu'il le veuille seulement, et tout
+                     <lb n="119"/>s'achève à notre gré. </p>
+               </sp>
+               <sp>
+                  <speaker>DANAOS.</speaker>
+                  <p>
+                     <lb/>Alors, ne tarde plus, use de mon conseil. </p>
+               </sp>
+               <sp>
+                  <speaker>LE CORYPHÉE.</speaker>
+                  <p>
+                     <lb/>Je voudrais déjà être assise à ton
+                     <lb/>côté. </p>
+               </sp>
+               <stage type="action">
+                  (Le Chœur monte sur le tertre et salue d'abord une statue de Zeus.) </stage>
+               <sp>
+                  <speaker>LE CORYPHÉE.</speaker>
+                  <p>
+                     <lb/>O Zeus, prends pitié de nos peines, avant
+                     <lb/>que nous n'y succombions! </p>
+               </sp>
+               <sp>
+                  <speaker>DANAOS.</speaker>
+                  <p>
+                     <lb n="122"/>Invoquez encore le fils de Zeus que voilà. </p>
+               </sp>
+               <sp>
+                  <speaker>LE CORYPHÉE.</speaker>
+                  <p>
+                     <lb/>— Je salue les rayons sauveurs du Soleil. </p>
+               </sp>
+               <sp>
+                  <speaker>DANAOS.</speaker>
+                  <p>
+                     <lb/>Qui est aussi le pur Apollon, dieu jadis
+                     <lb/>exilé du ciel. </p>
+               </sp>
+               <sp>
+                  <speaker>LE CORYPHÉE.</speaker>
+                  <p>
+                     <lb n="125"/>— A un sort qu'il connaît, il doit compatir. </p>
+               </sp>
+               <sp>
+                  <speaker>DANAOS.</speaker>
+                  <p>
+                     <lb/>Qu'il compatisse donc et nous assiste en
+                     <lb/>sa bonté ! </p>
+               </sp>
+               <sp>
+                  <speaker>LE CORYPHÉE.</speaker>
+                  <p>
+                     <lb/>— Quelle de ces divinités dois-je invoquer
+                     <lb/>encore ? </p>
+               </sp>
+            </div>
+            <div type="original" xml:lang="grc">
+               <sp>
+                  <speaker>ΔΑΝΑΟΣ</speaker>
+                  <l n="189">κρεῖσσον δὲ πύργου βωμός, ἄρρηκτον σάκος.</l> <l n="190">Ἀλλ' ὡς τάχιστα βᾶτε καὶ λευκοστεφεῖς</l> <l n="191">
+                     <app>
+                        <lem source="Vett">ἱκτηρίας</lem>
+                        <rdg wit="#M">ἱκετηρίας</rdg>
+                     </app>, ἀγάλματ' Αἰδοίου Διός,
+                  </l> <l n="192">σεμνῶς ἔχουσαι διὰ χερῶν 
+                     <app>
+                        <lem source="Dorat">εὐωνύμων</lem>
+                        <rdg wit="#M">συνωνύμων</rdg>
+                     </app>
+                  </l> <l n="193">αἰδοῖα καὶ 
+                     <app>
+                        <lem source="Robortello">γοεδνὰ</lem>
+                        <rdg wit="#M">γοειδῆσ</rdg>
+                     </app> καὶ 
+                     <app>
+                        <lem source="Geel">ζαχρεῖ'</lem>
+                        <rdg wit="#M">τὰ χρέα</rdg>
+                     </app> ἔπη
+                  </l> <l n="194">ξένους ἀμείβεσθ', ὡς ἐπήλυδας πρέπει,</l> <l n="195">τορῶς λέγουσαι τάσδ' ἀναιμάκτους φυγάς.</l> <l n="196">Φθογγῇ δ' ἐπέσθω πρῶτα μὲν τὸ μὴ θρασύ,</l> <l n="197">τὸ μὴ μάταιον δ' ἐκ 
+                     <app>
+                        <lem source="Porson">μετωποσω-
+                           <lb/>φρόνων
+                        </lem>
+                        <rdg wit="#M">μετώπω σωφρονῶν</rdg>
+                     </app>
+                  </l> <l n="198">ἴτω προσώπων ὄμματος παρ' ἡσύχου.</l> <l n="199">Καὶ μὴ πρόλεσχος μηδ' ἐφολκὸς ἐν λόγῳ</l> <l n="200">γένῃ· τὸ τῇδε κάρτ' ἐπίφθονον γένος.</l> <l n="201">Μέμνησο δ' εἴκειν· χρεῖος εἶ ξένη φυγάς·</l> <l n="202">θρασυστομεῖν γὰρ οὐ πρέπει τοὺς ἥσσονας.</l> </sp>
+               <sp>
+                  <speaker>ΧΟΡΟΣ</speaker> <l n="203">Πάτερ, φρονούντως πρὸς φρονοῦντας ἐννέπεις·</l> <l n="204">φυλάξομαι δὲ τάσδε μεμνῆσθαι σέθεν</l> <l n="205">κεδνὰς ἐφετμάς· Ζεὺς δὲ γεννήτωρ ἴδοι.</l> </sp>
+               <sp>
+                  <speaker>ΔΑΝΑΟΣ</speaker> <l n="206">Ἰδοιτο δῆτα πρευμενοῦς ἀπ' ὅμματος.</l> </sp>
+               <sp>
+                  <speaker>ΧΟΡΟΣ</speaker> <l n="207">Κείνου θέλοντος εὖ τελευτήσει τάδε.</l> </sp>
+               <sp>
+                  <speaker>ΔΑΝΑΟΣ</speaker> <l n="208">Μή νυν σχόλαζε, μηχανῆς δ' ἔστω κράτος.</l> </sp>
+               <sp>
+                  <speaker>ΧΟΡΟΣ</speaker> <l n="209">Θέλοιμ' ἂν ἤδη σοὶ πέλας θρόνους ἔχειν.</l> <l n="210">Ὦ Ζεῦ, κόπων οἴκτιρε μὴ ἀπολωλότας.</l> </sp>
+               <sp>
+                  <speaker>ΔΑΝΑΟΣ</speaker> <l n="211">Καὶ Ζηνὸς 
+                     <app>
+                        <lem source="Kiehl">ἶνιν</lem>
+                        <rdg wit="#M">ὄρνιν</rdg>
+                     </app> τόνδε νῦν κικλήσκετε.
+                  </l> </sp>
+               <sp>
+                  <speaker>ΧΟΡΟΣ</speaker> <l n="212">Καλοῦμεν αὐγὰς Ἡλίου σωτηρίους.</l> </sp>
+               <sp>
+                  <speaker>ΔΑΝΑΟΣ</speaker> <l n="213">Ἁγνόν τ' Ἀπόλλω, φυγάδ' ἀπ' οὐρανοῦ θεόν.</l> </sp>
+               <sp>
+                  <speaker>ΧΟΡΟΣ</speaker> <l n="214">Εἰδὼς ἂν αἶσαν τήνδε 
+                     <app>
+                        <lem source="Lobeck">συγγνοίη</lem>
+                        <rdg wit="#M">εὐγνώη</rdg>
+                     </app> βροτοῖς.
+                  </l> </sp>
+               <sp>
+                  <speaker>ΔΑΝΑΟΣ</speaker> <l n="215">Συγγνοῖτο δῆτα καὶ παρασταίη πρόφρων.</l> </sp>
+               <sp>
+                  <speaker>ΧΟΡΟΣ</speaker> <l n="216">Τίν' οὖν κικλήσκω τῶνδε δαιμόνων ἔτι;</l> </sp>
+            </div>
+         </div>
+
+         <div type="page" n="21">
+            <div type="translation" xml:lang="fr">
+               <sp>
+                  <speaker>DANAOS.</speaker>
+                  <p>
+                     <lb/>— Je vois là un trident, attribut d'un dieu. </p>
+               </sp>
+               <sp>
+                  <speaker>LE CORYPHÉE.</speaker>
+                  <p>
+                     <lb/>— Ainsi qu'il nous y a conduites, qu'il
+                     <lb/>daigne ici nous accueillir ! </p>
+               </sp>
+               <sp>
+                  <speaker>DANAOS.</speaker>
+                  <p>
+                     <lb/>Et voici encore un Hermès à la mode
+                     <lb/>grecque. </p>
+               </sp>
+               <sp>
+                  <speaker>LE CORYPHÉE.</speaker>
+                  <p>
+                     <lb/>— Ah! qu'il nous signifie donc un doux
+                     <lb/>message de liberté ! </p>
+               </sp>
+               <sp>
+                  <speaker>DANAOS.</speaker>
+                  <p>
+                     <lb/>Et de même à tous les seigneurs de cet
+                     <lb/>autel commun adressez ensemble votre hommage. Puis <lb n="132"/>asseyez-vous dans le sanctuaire, tel un vol de colombes
+                     <lb/>fuyant des éperviers — leurs frères pourtant! frères <lb/>changés en ennemis, qui veulent se souiller d'un crime à
+                     <lb/>l'égard de leur propre race. L'oiseau reste-t-il pur, qui <lb/>mange chair d'oiseau ? Comment donc serait pur celui
+                     <lb/>qui veut prendre une femme malgré elle, malgré son
+                     <lb/>père ? Non, même dans l'Hadès, il n'échappera point au <lb n="135"/>chef de luxure <note>L'horreur physique que les Danaïdes éprouvent à l'égard des Égyptiades...</note>, si telle fut sa conduite. Et là encore, il est, <lb/>dit-on, un autre Zeus <note>Allusion aux doctrines orphiques...</note>, qui, sur toutes fautes, prononce chez
+                     <lb/>les morts des sentences suprêmes. Veillez à répondre <lb/>en ce sens, si vous voulez voir triompher votre cause. </p>
+               </sp>
+               <stage type="entrance">
+                  Le Roi entre, sur son char, suivi d'une escorte armée. </stage>
+               <sp>
+                  <speaker>LE ROI.</speaker>
+                  <p>
+                     <lb n="138"/>— D'où vient donc cette troupe à l'accoutrement
+                     <lb/>si peu grec, fastueusement parée de robes et de bandeaux
+                     <lb/>barbares, à qui je parle ici? Ce n'est point là le vêtement <lb/>des femmes ni à Argos ni dans aucun pays de Grèce. Et <lb/>pourtant, que vous ayez osé, intrépides, venir jusqu'ici
+                     <lb n="141"/>sans hérauts ni proxènes — sans guides! — voilà qui me <lb/>surprend. Je vois chez vous, il est vrai, des rameaux
+                     <lb/>suppliants déposés suivant le rite aux pieds des dieux de
+                     <lb/>la cité: en cela seulement, la conjecture peut retrouver la </p>
+               </sp>
+            </div>
+            <div type="original" xml:lang="grc">
+               <sp>
+                  <speaker>ΔΑΝΑΟΣ</speaker>
+                  <l n="217">Ὁρῶ τρίαιναν τήνδε σημεῖον θεοῦ.</l> </sp>
+               <sp>
+                  <speaker>ΧΟΡΟΣ</speaker>
+                  <l n="218">Ἀλλ' εὖ τ' ἔπεμψεν εὖ τε δεξάσθω χθονί.</l> </sp>
+               <sp>
+                  <speaker>ΔΑΝΑΟΣ</speaker>
+                  <l n="219">Ἑρμῆς ὅδ' ἄλλος τοῖσιν Ἑλλήνων νόμοις.</l> </sp>
+               <sp>
+                  <speaker>ΧΟΡΟΣ</speaker>
+                  <l n="220">Ἐλευθέροις νυν ἐσθλὰ κηρυκευέτω.</l> </sp>
+               <sp>
+                  <speaker>ΔΑΝΑΟΣ</speaker>
+                  <l n="221">Πάντων δ' ἀνάκτων τῶνδε κοινοβωμίαν</l> <l n="222">σέβεσθ'· ἐν ἁγνῷ δ' ἑσμὸς ὡς πελειάδων</l> <l n="223">
+                     <app>
+                        <lem source="Robortello">ἵζεσθε κίρκων</lem>
+                        <rdg wit="#M">ἵζεσθαι κρέκω</rdg>
+                     </app> τῶν ὁμοπτέρων φόβῳ,
+                  </l> <l n="224">ἐχθρῶν ὁμαίμων καὶ μιαινόντων γένος</l> <l n="225">ὄρνιθος ὄρνις πῶς ἂν ἁγνεύοι φαγών;</l> <l n="226">πῶς δ' ἂν γαμῶν ἄκουσαν ἄκοντος πάρα</l> <l n="227">ἁγνὸς γένοιτ' ἄν; οὐδὲ μὴ ἐν ῞Αιδου θανών</l> <l n="228">φύγῃ ματαίων αἰτίας πράξας τάδε</l> <l n="229">κἀκεῖ δικάζει 
+                     <app>
+                        <lem source="Canter">τἀμπλακήμαθ', ὡς</lem>
+                        <rdg wit="#M">ταπλα ἐν μαβως</rdg>
+                     </app> λόγος,
+                  </l> <l n="230">Ζεὺς ἄλλος ἐν καμοῦσιν ὑστάτας δίκας.</l> <l n="231">Σκοπεῖτε κἀμείβεσθε τόνδε τὸν 
+                     <app>
+                        <lem source="Stanley">τρόπον</lem>
+                        <rdg wit="#M">τόπον</rdg>
+                     </app>,
+                  </l> <l n="232">ὅπως ἂν ὑμῖν πρᾶγος εὖ νικᾷ τόδε.</l> </sp>
+               <sp>
+                  <speaker>ΒΑΣΙΛΕΥΣ</speaker>
+                  <l n="233">Ποδαπὸν ὅμιλον τόνδ' 
+                     <app>
+                        <lem source="Bothe">ἀνελληνόστολον</lem>
+                        <rdg wit="#M">ἀνέλληνα στόλον</rdg>
+                     </app>
+                  </l> <l n="234">πέπλοισι βαρβάροισι 
+                     <app>
+                        <lem source="Bergk">κἀμπυκώμασιν</lem>
+                        <rdg wit="#M">καὶ πυκνώμασι</rdg>
+                     </app>
+                  </l> <l n="235">χλίοντα προσφωνοῦμεν; οὐ γὰρ Ἀργολὶς</l> <l n="236">ἐσθὴς γυναικῶν οὐδ' ἀφ' Ἑλλάδος τόπων.</l> <l n="237">Ὅπως δὲ χώραν 
+                     <app>
+                        <lem source="Hermann">οὔτε</lem>
+                        <rdg wit="#M">οὐδὲ</rdg>
+                     </app> κηρύκων ὕπο
+                  </l> <l n="238">ἀπρόξενοί τε, νόσφιν ἡγητῶν, μολεῖν</l> <l n="239">ἔτλητ' 
+                     <app>
+                        <lem source="Sophianus">ἀτρέστως</lem>
+                        <rdg wit="#M">ἀκρέστως</rdg>
+                     </app>, τοῦτο θαυμαστὸν πέλει.
+                  </l> <l n="240">Κλάδοι γε μὲν δὴ κατὰ νόμους ἀφικτόρων</l> <l n="241">κεῖνται παρ' ὑμῖν πρὸς θεοῖς ἀγωνίοις</l> <l n="242">μόνον τόδ' Ἑλλὰς χθὼν συνοίσεται στόχῳ.</l> </sp>
+            </div>
+         </div>
+
+         <div type="page" n="22">
+            <div type="translation" xml:lang="fr">
+               <p>
+                  <lb/>Grèce. Mainte autre supposition serait justifiée encore;
+                  <lb n="144"/>mais tu es là, et, pour t'expliquer, tu as la parole. </p>
+               <sp>
+                  <speaker>LE CORYPHÉE.</speaker>
+                  <p>
+                     <lb/>— Tu n'as point fait erreur sur notre
+                     <lb/>parure. Mais moi, en te parlant, à qui parlé-je ici ? <lb/>Est-ce
+                     <lb/>à un citoyen? à un héraut, porteur de la baguette sainte <note>Littéralement un gardien à la baguette sainte...</note> ? <lb/>au chef de la cité ? </p>
+               </sp>
+               <sp>
+                  <speaker>LE ROI.</speaker>
+                  <p>
+                     <lb/>— Pour cela, tu peux me répondre et parler en
+                     <lb n="147"/>toute assurance. Je suis le fils de Palaichtôn, qui naquit de la <lb/>Terre, Pélasgos, chef suprême de ce pays; et le peuple des <lb/>Pélasges qui cultive ce sol a naturellement pris le nom de
+                     <lb/>son roi <note>Il est assez étrange que ce roi...</note>. Je suis maître de tout le pays que traverse le Strymon <lb n="150"/>sacré, à partir de sa rive occidentale. Je borde les terres <lb/>des Perrhèbes, et celles qui, au delà du Pinde, touchent à
+                     <lb/>la Péonie, et les montagnes de Dodone, jusqu'au point où
+                     <lb/>les eaux des mers viennent couper ma frontière: en deçà,
+                     <lb n="153"/>tout m'appartient. Quant à ce pays d'Apis, son sol a reçu <lb/>ce nom en mémoire d'un guérisseur des temps antiques,
+                     <lb/>un fils d'Apollon, prophète médecin venu du rivage voisin
+                     <lb/>de Naupacte, pour nettoyer cette contrée de monstres ho-
+                     <lb/>micides, fléaux qu'un jour la Terre déchaîna, irritée des
+                     <lb/>souillures dont l'avaient salie des meurtres anciens — ser-
+                     <lb/>pents pullulants, cruels compagnons. Apis, par des remèdes <lb/>décisifs, libéra tout le pays d'indiscutable façon et, pour son
+                     <lb n="156"/>salaire, vit son nom à jamais mêlé aux prières d'Argos. Tu <lb/>as maintenant de quoi me connaître. Déclare-moi ta race, </p>
+               </sp>
+            </div>
+            <div type="original" xml:lang="grc">
+               <sp>
+                  <speaker>ΒΑΣΙΛΕΥΣ</speaker>
+                  <l n="243">Καὶ τἄλλα πόλλ' ἐπεικάσαι δίκαιον ἦν,</l> <l n="244">εἰ μὴ παρόντι φθόγγος ἦν ὁ σημανῶν.</l> </sp>
+               <sp>
+                  <speaker>ΧΟΡΟΣ</speaker>
+                  <l n="245">Εἴρηκας ἀμφὶ κόσμον ἀψευδῆ λόγον·</l> <l n="246">ἐγὼ δὲ πρός σε πότερον ὡς ἔτην λέγω,</l> <l n="247">ἢ τηρὸν 
+                     <app>
+                        <lem source="Schütz">ἱερόραβδον</lem>
+                        <rdg wit="#M">Ἱερου ῥάβδον</rdg>
+                        <rdg wit="#Ms">ἑρμοῦ ῥάβδον</rdg>
+                     </app>, ἢ πόλεως ἀγόν ;
+                  </l> </sp>
+               <sp>
+                  <speaker>ΒΑΣΙΛΕΥΣ</speaker>
+                  <l n="248">Πρὸς ταῦτ' ἀμείβου καὶ 
+                     <app>
+                        <lem source="Turnebus">λέγ' εὐθαρσὴς</lem>
+                        <rdg wit="#M">λέγετ' εὐθαρσεῖς</rdg>
+                     </app> ἐμοί·
+                  </l> <l n="249">τοῦ γηγενοῦς γάρ εἰμ' ἐγὼ Παλαίχθονος</l> <l n="250">ἶνις 
+                     <app>
+                        <lem source="Canter">Πελασγός</lem>
+                        <rdg wit="#M">πελασγοῦ</rdg>
+                     </app>, τῆσδε γῆς ἀρχηγέτης·
+                  </l> <l n="251">ἐμοῦ δ' ἄνακτος εὐλόγως ἐπώνυμον</l> <l n="252">γένος Πελασγῶν τήνδε καρποῦται χθόνα·</l> <l n="253">καὶ πᾶσαν αἷαν ἧς 
+                     <app>
+                        <lem source="Wordsworth">δι' ἁγνὸς</lem>
+                        <rdg wit="#M">διάλγος</rdg>
+                     </app> ἔρχεται
+                  </l> <l n="254">Στρυμών, τὸ πρὸς δύνοντος ἡλίου, κρατῶ·</l> <l n="255">ὁρίζομαι δὲ 
+                     <app>
+                        <lem source="Stanley">τήν τε</lem>
+                        <rdg wit="#M">τῆνδε</rdg>
+                     </app> Περραιβῶν χθόνα,
+                  </l> <l n="256">Πίνδου τε τἀπέκεινα, Παιόνων πέλας,</l> <l n="257">ὄρη τε Δωδωναῖα· συντέμνει δ' ὅρος</l> <l n="258">ὑγρᾶς θαλάσσης· τῶνδε τἀπὶ τάδε κρατῶ.</l> <l n="259">Αὐτῆς δὲ χώρας Ἀπίας πέδον τόδε</l> <l n="260">πάλαι κέκληται φωτὸς ἰατροῦ χάριν.</l> <l n="261">Ἆπις γὰρ ἐλθὼν ἐκ πέρας Ναυπακτίας</l> <l n="262">ἰατρόμαντις παῖς Ἀπόλλωνος χθόνα</l> <l n="263">τήνδ' ἐκκαθαίρει κνωδάλων βροτοφθόρων,</l> <l n="264">τὰ 
+                     <app>
+                        <lem source="Turnebus">δὴ</lem>
+                        <rdg wit="#M">δὲ</rdg>
+                     </app> παλαιῶν αἱμάτων μιάσμασιν
+                  </l> <l n="265">χρανθεῖσ' ἀνῆκε γαῖα 
+                     <app>
+                        <lem source="Martin">μηνίσασ' ἄχη</lem>
+                        <rdg wit="#M">μηνεῖται ἄκη</rdg>
+                     </app>,
+                  </l> <l n="266">δρακονθόμιλον δυσμενῆ ξυνοικίαν.</l> <l n="267">Τούτων ἄκη τομαῖα καὶ λυτήρια</l> <l n="268">πράξας ἀμέμπτως Ἆπις Ἀργείᾳ χθονὶ</l> <l n="269">μνήμην 
+                     <app>
+                        <lem source="Turnebus">ποτ' ἀντίμισθον</lem>
+                        <rdg wit="#M">πονταντινεισθον</rdg>
+                     </app> ηὕρετ' ἐν λιταῖς.
+                  </l> <l n="270">
+                     <app>
+                        <lem source="Heimsoeth">Ἔχουσα δ'</lem>
+                        <rdg wit="#M">ἔχον δ' ἂν</rdg>
+                        <rdg wit="#M1">ἔχουσαν</rdg>
+                     </app> ἤδη τἀπ' ἐμοῦ τεκμήρια
+                  </l> </sp>
+            </div>
+         </div>
+
+
+<sp><l n="447">ἢ κάρτα νείκους τοῦδ' ἐγὼ παροίχομαι· </l>
+                  <l n="448">θέλω δ' ἄϊδρις μᾶλλον ἢ σοφὸς κακῶν </l>
+                  <l n="449">εἶναι· γένοιτο δ' εὖ παρὰ γνώμην ἐμήν. </l>
+               </sp>
+               <sp>
+                  <speaker>ΧΟΡΟΣ</speaker>
+                  <l n="450">Πολλῶν ἄκουσον τέρματ' αἰδοίων λόγων. </l>
+               </sp>
+               <sp>
+                  <speaker>ΒΑΣΙΛΕΥΣ</speaker>
+                  <l n="451">Ἤκουσα, καὶ λέγοις ἄν· οὔ με φεύξεται. </l>
+               </sp>
+               <sp>
+                  <speaker>ΧΟΡΟΣ</speaker>
+                  <l n="452">Ἔχω 
+                     <app>
+                        <lem source="Scaliger">στρόφους</lem>
+                        <rdg wit="#M">στρόβους</rdg>
+                     </app> ζώνας τε, συλλαβὰς πέπλων. 
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>ΒΑΣΙΛΕΥΣ</speaker>
+                  <l n="453">
+                     <app>
+                        <lem source="Markscheffel">Τάχ' ἂν</lem>
+                        <rdg wit="#M">τύχαν</rdg>
+                     </app> γυναικῶν ταῦτα συμπρεπῆ πέλοι. 
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>ΧΟΡΟΣ</speaker>
+                  <l n="454">Ἐκ τῶνδε τοίνυν, ἴσθι, μηχανὴ 
+                     <app>
+                        <lem source="Turnebus">καλή</lem>
+                        <rdg wit="#M">καλεῖ</rdg>
+                     </app>. 
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>ΒΑΣΙΛΕΥΣ</speaker>
+                  <l n="455">Λέξον τίν᾽ αὐδὴν τήνδε γηρυθεῖσ' ἔσῃ. </l>
+               </sp>
+               <sp>
+                  <speaker>ΧΟΡΟΣ</speaker>
+                  <l n="456">Εἰ μή τι πιστὸν τῷδ' 
+                     <app>
+                        <lem source="Wellauer">ὑποστήσεις</lem>
+                        <rdg wit="#M">ὑποστήσει</rdg>
+                     </app> στόλῳ — 
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>ΒΑΣΙΛΕΥΣ</speaker>
+                  <l n="457">Τί σοι περαίνει μηχανὴ συζωμάτων; </l>
+               </sp>
+               <sp>
+                  <speaker>ΧΟΡΟΣ</speaker>
+                  <l n="458">Νέοις πίναξι βρέτεα κοσμῆσαι τάδε. </l>
+               </sp>
+               <sp>
+                  <speaker>ΒΑΣΙΛΕΥΣ</speaker>
+                  <l n="459">Αἰνιγματῶδες τοὔπος· 
+                     <app>
+                        <lem source="Abresch">ἀλλ᾽ ἁπλῶς</lem>
+                        <rdg wit="#M">ἀλλὰ πῶς</rdg>
+                     </app> φράσον. 
+                  </l>
+               </sp>
+            </div>
+         </div>
+
+         <div type="page" n="30">
+            <div type="translation" xml:lang="fr">
+               <sp>
+                  <speaker>LE CORYPHÉE.</speaker>
+                  <p>
+                     <lb/>Celui de décorer les statues que tu
+                     <lb/>vois d'offrandes insolites. 
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>LE ROI.</speaker>
+                  <p>
+                     <lb/>Formule énigmatique. Parle donc sans
+                     <lb n="465"/>détours. 
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>LE CORYPHÉE.</speaker>
+                  <p>
+                     <lb/>De nous pendre à l'instant aux dieux
+                     <lb/>que voici. 
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>LE ROI.</speaker>
+                  <p>
+                     <lb/>— J'entends là des mots cinglants pour mon
+                     <lb/>cœur. 
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>LE CORYPHÉE.</speaker>
+                  <p>
+                     <lb/>— Tu as compris; je t'ai fait voir plus
+                     <lb/>clairement les choses. 
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>LE ROI.</speaker>
+                  <p>
+                     <lb/>— Oui, et de tous côtés d'invincibles soucis!
+                     <lb/>Une masse de maux vient sur moi comme un fleuve, et me
+                     <lb/>voici au large d'une mer de douleurs, mer sans fond,
+                     <lb/>dure à franchir et point de havre ouvert à ma
+                     <lb n="475"/>détresse !  Si je ne satisfais à votre demande, la souillure
+                     <lb/>que vous évoquez dépasse la portée de l'esprit.  Si, au
+                     <lb/>contraire, contre tes cousins, les fils d'Égyptos, debout
+                     <lb/>devant nos murs, je m'en remets à la décision d'un combat,
+                     <lb n="480"/>ne sera-ce point une perte amère que celle d'un sang mâle
+                     <lb/>répandu pour des femmes ?  Et pourtant je suis contraint
+                     <lb/>de respecter le courroux de Zeus Suppliant: il n'est pas
+                     <lb/>pour les mortels de plus haut objet d'effroi.  Ainsi donc,
+                     <lb/>vieillard, père de ces vierges, vite, en tes bras prends ces
+                     <lb/>rameaux et va les déposer sur d'autres autels de nos dieux
+                     <lb n="485"/>nationaux, afin que tous les citoyens voient cet insigne
+                     <lb/>suppliant et ne rejettent pas les propositions qui leur
+                     <lb/>viendront de moi: la foule aime à chercher des raisons à
+                     <lb/>ses maîtres !  La compassion sans doute naîtra à cette vue :
+                     <lb/>la démesure de la troupe mâle fera horreur à notre peuple,
+                     <lb n="490"/>et il se sentira mieux disposé pour vous. C'est aux faibles
+                     <lb/>toujours que vont les bons vouloirs. 
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>DANAOS.</speaker>
+                  <p>
+                     <lb/>— C'est déjà pour nous chose d'un prix immense
+                     <lb/>que d'avoir en toi rencontré un proxène, qui se révèle
+                     <lb/>respectueux du suppliant.  Mais fais-moi aussi escorter de
+                     <lb/>gardes, de guides indigènes, pour m'aider à trouver les
+                     <lb/>autels placés devant les temples des dieux de la cité et 
+                  </p>
+               </sp>
+            </div>
+            <div type="original" xml:lang="grc">
+               <sp>
+                  <speaker>ΧΟΡΟΣ</speaker>
+                  <l n="460">Ἐκ τῶνδ' ὅπως τάχιστ' ἀπάγξασθαι θεῶν. </l>
+               </sp>
+               <sp>
+                  <speaker>ΒΑΣΙΛΕΥΣ</speaker>
+                  <l n="461">Ἤκουσα 
+                     <app>
+                        <lem source="Dorat">μαστικτῆρα</lem>
+                        <rdg wit="#M">μακιστῆρα</rdg>
+                     </app> καρδίας λόγον. 
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>ΧΟΡΟΣ</speaker>
+                  <l n="462">Ξυνῆκας· ὠμμάτωσα γὰρ σαφέστερον. </l>
+               </sp>
+               <sp>
+                  <speaker>ΒΑΣΙΛΕΥΣ</speaker>
+                  <l n="463">Καὶ πολλαχῇ γε δυσπάλαιστα πράγματα· </l>
+                  <l n="464">κακῶν δὲ πλῆθος ποταμὸς ὡς ἐπέρχεται· </l>
+                  <l n="465">ἄτης δ' ἄβυσσον πέλαγος οὐ μάλ' εὔπορον </l>
+                  <l n="466">τόδ' ἐσβέβηκα, κοὐδαμοῦ λιμὴν κακῶν. </l>
+                  <l n="467">Εἰ μὲν γὰρ ὑμῖν μὴ τόδ' ἐκπράξω χρέος, </l>
+                  <l n="468">μίασμ᾽ ἔλεξας οὐχ ὑπερτοξεύσιμον· </l>
+                  <l n="469">εἰ δ᾽ αὖθ' 
+                     <app>
+                        <lem source="Turnebus">ὁμαίμοις</lem>
+                        <rdg wit="#M">ὁμαίμους</rdg>
+                     </app> παισὶν Αἰγύπτου σέθεν 
+                  </l>
+                  <l n="470">σταθεὶς πρὸ τειχέων διὰ μάχης ἥξω τέλους, </l>
+                  <l n="471">πῶς οὐχὶ τἀνάλωμα γίγνεται πικρόν, </l>
+                  <l n="472">ἄνδρας γυναικῶν οὕνεχ' αἱμάξαι πέδον; </l>
+                  <l n="473">Ὅμως δ' ἀνάγκη Ζηνὸς αἰδεῖσθαι κότον </l>
+                  <l n="474">Ἱκτῆρος· ὕψιστος γὰρ ἐν βροτοῖς φόβος. </l>
+                  <l n="475">Σὺ μέν, πάτερ γεραιὲ τῶνδε παρθένων, </l>
+                  <l n="476">κλάδους 
+                     <app>
+                        <lem source="Dorat">γε</lem>
+                        <rdg wit="#M">τε</rdg>
+                     </app> τούτους αἶψ' ἐν ἀγκάλαις λαβὼν 
+                  </l>
+                  <l n="477">βωμοὺς ἐπ' ἄλλους δαιμόνων ἐγχωρίων </l>
+                  <l n="478">θές, ὡς ἴδωσι τῆσδ' ἀφίξεως τέκμαρ </l>
+                  <l n="479">πάντες πολῖται, μηδ' ἀπορριφθῇ λόγος </l>
+                  <l n="480">ἐμοῦ· κατ' ἀρχῆς γὰρ φιλαίτιος λεώς· </l>
+                  <l n="481">καὶ γὰρ τάχ' ἄν τις οἶκτος 
+                     <app>
+                        <lem source="Zakas">εἰσιδεῖν</lem>
+                        <rdg wit="#M">εἰσιδὼν</rdg>
+                     </app> τάδε 
+                  </l>
+                  <l n="482">ὕβριν μὲν ἐχθήρειεν ἄρσενος στόλου, </l>
+                  <l n="483">ὑμῖν δ' ἂν εἴη δῆμος εὐμενέστερος· </l>
+                  <l n="484">τοῖς ἥσσοσιν γὰρ πᾶς τις εὐνοίας φέρει. </l>
+               </sp>
+               <sp>
+                  <speaker>ΔΑΝΑΟΣ</speaker>
+                  <l n="485">Πολλῶν τάδ' ἡμῖν ἐστιν ἠξιωμένα, </l>
+                  <l n="486">αἰδοῖον 
+                     <app>
+                        <lem source="Canter">εὑρεθέντα πρόξενον</lem>
+                        <rdg wit="#M">εὖ ῥέοντα ... προς ξένον</rdg>
+                     </app> λαβεῖν. 
+                  </l>
+                  <l n="487">Ὀπάονας δὲ φράστοράς τ' ἐγχωρίων </l>
+                  <l n="488">ξύμπεμψον, ὡς ἂν τῶν πολισσούχων θεῶν </l>
+               </sp>
+            </div>
+         </div>
+
+         <div type="page" n="31">
+            <div type="translation" xml:lang="fr">
+               <div type="text">
+                  <p>
+                     <lb n="495"/>leurs demeures hospitalières; pour assurer de plus notre
+                     <lb/>sécurité, quand nous traverserons la ville.  La nature a vêtu
+                     <lb/>différemment nos traits; le Nil et l'Inachos ne nourrissent
+                     <lb/>pas des races pareilles.  Gardons qu'excès de confiance
+                     <lb/>n'engendre grand effroi: plus d'un déjà a tué un ami, pour
+                     <lb/>l'avoir méconnu. 
+                  </p>
+               </div>
+               <sp>
+                  <speaker>LE ROI.</speaker>
+                  <p>
+                     <lb n="500"/>Allez, gardes, l'étranger a raison; conduisez-
+                     <lb/>le aux autels de la ville, demeures de nos dieux;  et à
+                     <lb/>ceux que vous rencontrerez dites, sans bavardage, que vous
+                     <lb/>servez de guides à un marin, suppliant de nos dieux. 
+                  </p>
+               </sp>
+               <stage type="action">Danaos sort accompagné de quelques gardes. </stage>
+               <sp>
+                  <speaker>LE CORYPHÉE.</speaker>
+                  <p>
+                     <lb/>Tu lui as donné tes instructions: qu'il
+                     <lb n="505"/>parte avec elles! Mais moi, que dois-je faire ?  où, selon toi,
+                     <lb/>serai-je en sûreté ? 
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>LE ROI.</speaker>
+                  <p>
+                     <lb/>Laisse là tes rameaux, symbole de ta peine. 
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>LE CORYPHÉE.</speaker>
+                  <p>
+                     <lb/>Voilà: je les laisse à la garde de ton
+                     <lb/>bras et de ta parole. 
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>LE ROI.</speaker>
+                  <p>
+                     <lb/>Passe ici maintenant, dans la partie plane du
+                     <lb/>sanctuaire. 
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>LE CORYPHÉE.</speaker>
+                  <p>
+                     <lb/>Quelle protection m'offre le sanctuaire
+                     <lb/>là où il s'ouvre à tous ? 
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>LE ROI.</speaker>
+                  <p>
+                     <lb/>N'aie crainte: je n'entends point te livrer
+                     <lb/>aux oiseaux de proie. 
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>LE CORYPHÉE.</speaker>
+                  <p>
+                     <lb/>Oui, mais à des monstres plus cruels
+                     <lb/>que le plus cruel serpent? 
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>LE ROI.</speaker>
+                  <p>
+                     <lb/>A qui te dit : « Confiance! » réponds par des
+                     <lb/>mots confiants. 
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>LE CORYPHÉE.</speaker>
+                  <p>
+                     <lb/>Ne t'étonne pas si mon cœur effrayé
+                     <lb/>se montre impatient. 
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>LE ROI.</speaker>
+                  <p>
+                     <lb/>Jamais roi n'a connu la peur. 
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>LE CORYPHÉE.</speaker>
+                  <p>
+                     <lb n="515"/>A toi donc de me réconforter par des
+                     <lb/>actes autant que par des mots. 
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>LE ROI.</speaker>
+                  <p>
+                     <lb/>Va, ton père ne te laissera pas longtemps
+                     <lb/>seule. Moi, je vais convoquer les gens de ce pays, pour
+                     <lb/>disposer en ta faveur l'opinion populaire;  puis à ton père 
+                  </p>
+               </sp>
+            </div>
+            <div type="original" xml:lang="grc">
+               <l n="489">βωμοὺς 
+                  <app>
+                     <lem source="suppl">προνάους</lem>
+                     <rdg wit="#M">πολισσούχων</rdg>
+                  </app> καὶ 
+                  <app>
+                     <lem source="suppl">φιλοξένους</lem>
+                     <rdg wit="#M">πολισσούχους</rdg>
+                  </app> ἕδρας 
+               </l>
+               <l n="490">εὕρωμεν, ἀσφάλεια δ' 
+                  <app>
+                     <lem source="Turnebus">ᾖ</lem>
+                     <rdg wit="#M">δὲ</rdg>
+                  </app> δι' ἄστεως 
+               </l>
+               <l n="491">στείχουσι· μορφῆς δ' οὐχ ὁμόστολος φύσις· </l>
+               <l n="492">Νεῖλος γὰρ οὐχ ὅμοιον Ἰνάχῳ γένος </l>
+               <l n="493">τρέφει· φύλαξαι μὴ θράσος τέκῃ φόβον· </l>
+               <l n="494">καὶ δὴ φίλον τις ἔκταν᾿ ἀγνοίας ὕπο. </l>
+               <sp>
+                  <speaker>ΒΑΣΙΛΕΥΣ</speaker>
+                  <l n="495">Στείχοιτ' ἄν, ἄνδρες· εὖ γὰρ ὁ ξένος λέγει· </l>
+                  <l n="496">ἡγεῖσθε βωμοὺς 
+                     <app>
+                        <lem source="Turnebus">ἀστικούς</lem>
+                        <rdg wit="#M">ἀστίκτους</rdg>
+                     </app>, θεῶν ἕδρας· 
+                  </l>
+                  <l n="497">καὶ 
+                     <app>
+                        <lem source="Valckenaer">ξυμβολοῦσιν</lem>
+                        <rdg wit="#M">ξυμβόλοισιν</rdg>
+                     </app> οὐ πολυστομεῖν χρεὼν 
+                  </l>
+                  <l n="498">ναύτην ἄγοντας τόνδ' ἐφέστιον θεῶν. </l>
+               </sp>
+               <sp>
+                  <speaker>ΧΟΡΟΣ</speaker>
+                  <l n="499">Τούτῳ μὲν εἶπας καὶ τεταγμένος κίοι· </l>
+                  <l n="500">ἐγὼ δὲ πῶς δρῶ; ποῦ θράσος νέμεις ἐμοί; </l>
+               </sp>
+               <sp>
+                  <speaker>ΒΑΣΙΛΕΥΣ</speaker>
+                  <l n="501">Κλάδους μὲν αὐτοῦ λείπε, σημεῖον πόνου. </l>
+               </sp>
+               <sp>
+                  <speaker>ΧΟΡΟΣ</speaker>
+                  <l n="502">Καὶ δή σφε λείπω χειρὶ καὶ λόγοις σέθεν. </l>
+               </sp>
+               <sp>
+                  <speaker>ΒΑΣΙΛΕΥΣ</speaker>
+                  <l n="503">Λευρὸν κατ' ἄλσος νῦν 
+                     <app>
+                        <lem source="Robortello">ἐπιστρέφου</lem>
+                        <rdg wit="#M">ἐπιστρέφω</rdg>
+                     </app> τόδε. 
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>ΧΟΡΟΣ</speaker>
+                  <l n="504">Καὶ πῶς βέβηλον ἄλσος ἂν ῥύοιτό με; </l>
+               </sp>
+               <sp>
+                  <speaker>ΒΑΣΙΛΕΥΣ</speaker>
+                  <l n="505">Οὔτοι πτερωτῶν ἁρπαγαῖς σ' ἐκδώσομεν. </l>
+               </sp>
+               <sp>
+                  <speaker>ΧΟΡΟΣ</speaker>
+                  <l n="506">Ἀλλ' εἰ δρακόντων δυσφρόνων ἐχθίοσιν; </l>
+               </sp>
+               <sp>
+                  <speaker>ΒΑΣΙΛΕΥΣ</speaker>
+                  <l n="507">Εὔφημον εἴη τοὔπος εὐφημουμένῃ. </l>
+               </sp>
+               <sp>
+                  <speaker>ΧΟΡΟΣ</speaker>
+                  <l n="508">Οὔτοι τι θαῦμα δυσφορεῖν φόβῳ 
+                     <app>
+                        <lem source="Heath">φρενός</lem>
+                        <rdg wit="#M">φρενί</rdg>
+                     </app>. 
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>ΒΑΣΙΛΕΥΣ</speaker>
+                  <l n="509">Ἀεὶ δ' ἀνάκτων ἐστὶ δεῖμ' ἐξαίσιον. </l>
+               </sp>
+               <sp>
+                  <speaker>ΧΟΡΟΣ</speaker>
+                  <l n="510">Σὺ καὶ λέγων εὔφραινε καὶ πράσσων φρένα. </l>
+               </sp>
+               <sp>
+                  <speaker>ΒΑΣΙΛΕΥΣ</speaker>
+                  <l n="511">Ἀλλ' οὔτι δαρὸν χρόνον ἐρημώσει πατήρ· </l>
+                  <l n="512">ἐγὼ δὲ λαοὺς συγκαλῶν ἐγχωρίους </l>
+                  <l n="513">
+                     <app>
+                        <lem source="Wecklein">πατῶ</lem>
+                        <rdg wit="#M">πιετω</rdg>
+                     </app>, τὸ κοινὸν ὡς ἂν εὐμενὲς τιθῶ, 
+                  </l>
+                  <l n="514">καὶ σὸν διδάξω πατέρα 
+                     <app>
+                        <lem source="det">ποῖα</lem>
+                        <rdg wit="#M">τοῖα</rdg>
+                     </app> χρὴ λέγειν. 
+                  </l>
+               </sp>
+            </div>
+         </div>
+
+
+
+
+
+      </body>
+   </text>
+</TEI>
