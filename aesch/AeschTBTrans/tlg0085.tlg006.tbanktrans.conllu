@@ -7788,3 +7788,1095 @@
 14  δυσοίμου    δύσοιμος    ADJ a-s---fg-   Case=Gen|Gender=Fem|Number=Sing 15  amod    _   Ref=945 grievous
 15  τύχας   τύχη    NOUN    n-s---fg-   Case=Gen|Gender=Fem|Number=Sing 6   appos   _   Ref=945 fortune
 16  .   .   PUNCT   u--------   _   1   punct   _   Ref=945 .
+
+## Gemini 3 is responsible for what follows
+
+# sent_id = 505
+# text = ἔμολε δʼ ᾧ μέλει κρυπταδίου μάχας δολιόφρων ποινά·
+# Translation = The subtle-minded penalty came to the one to whom the secret battle belongs.
+1	ἔμολε	βλώσκω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	Ref=946	came
+2	δʼ	δέ	CCONJ	g--------	PartType=Ptcl	1	cc	_	Ref=946	and
+3	ᾧ	ὅς	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	4	nmod	_	Ref=946	to_whom
+4	μέλει	μέλω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	advcl	_	Ref=946	it_belongs
+5	κρυπταδίου	κρυπτάδιος	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	6	amod	_	Ref=946	secret
+6	μάχας	μάχη	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	4	nsubj	_	Ref=946	battle
+7	δολιόφρων	δολιόφρων	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	8	amod	_	Ref=947	subtle-minded
+8	ποινά	ποινή	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	Ref=947|SpaceAfter=No	penalty
+9	·	·	PUNCT	u--------	_	1	punct	_	Ref=947	.
+
+# sent_id = 506
+# text = ἔθιγε δʼ ἐν  μάχᾳ χερὸς ἐτήτυμος Διὸς κόρα—Δίκαν δέ νιν
+# Translation = And the true daughter of Zeus touched his hand in the battle—and we mortals call her Justice
+1	ἔθιγε	θιγγάνω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	Ref=948	touched
+2	δʼ	δέ	CCONJ	g--------	PartType=Ptcl	1	cc	_	Ref=948	and
+3	ἐν	ἐν	ADP	r--------	_	5	case	_	Ref=948	in
+4	μάχᾳ	μάχη	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	1	obl	_	Ref=948	battle
+5	χερὸς	χείρ	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	1	obj	_	Ref=948	hand
+6	ἐτήτυμος	ἐτήτυμος	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	8	amod	_	Ref=948	true
+7	Διὸς	Ζεύς	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	Ref=949	of_Zeus
+8	κόρα	κόρη	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	Ref=949|SpaceAfter=No	daughter
+9	—	—	PUNCT	u--------	_	11	punct	_	Ref=949	—
+10	Δίκαν	δίκη	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	12	xcomp	_	Ref=949	Justice
+11	δέ	δέ	CCONJ	g--------	PartType=Ptcl	12	cc	_	Ref=949	and
+12	νιν	νιν	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	1	parataxis	_	Ref=949	her
+
+# sent_id = 507
+# text = προσαγορεύομεν βροτοὶ τυχόντες καλῶς—
+# Translation = because we mortals have rightly attained her—
+1	προσαγορεύομεν	προσαγορεύω	VERB	v1ppia---	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=950	we_call
+2	βροτοὶ	βροτός	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	Ref=950	mortals
+3	τυχόντες	τυγχάνω	VERB	v-papamn-	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	1	advcl	_	Ref=950	having_attained
+4	καλῶς	καλός	ADV	d--------	_	3	advmod	_	Ref=950|SpaceAfter=No	rightly
+5	—	—	PUNCT	u--------	_	1	punct	_	Ref=950	—
+
+# sent_id = 508
+# text = ὀλέθριον πνέουσʼ ἐν ἐχθροῖς κότον.
+# Translation = breathing deadly wrath among his enemies.
+1	ὀλέθριον	ὀλέθριος	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	3	amod	_	Ref=951	deadly
+2	πνέουσʼ	πνέω	VERB	v-sppafn-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	Ref=951	breathing
+3	ἐν	ἐν	ADP	r--------	_	4	case	_	Ref=951	among
+4	ἐχθροῖς	ἐχθρός	ADJ	a-p---md-	Case=Dat|Gender=Masc|Number=Plur	2	obl	_	Ref=951	enemies
+5	κότον	κότος	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	Ref=951|SpaceAfter=No	wrath
+6	.	.	PUNCT	u--------	_	2	punct	_	Ref=951	.
+
+# sent_id = 509
+# text = ἐπολολύξατʼ ὦ δεσποσύνων δόμων ἀναφυγᾶς κακῶν καὶ κτεάνων τριβᾶς ὑπαὶ δυοῖν μιαστόροιν, δυσοίμου τύχας.
+# Translation = Cry out in joy, O [women], for the escape of the master's house from evils and the wasting of possessions by two polluters, a grievous fortune.
+1	ἐπολολύξατʼ	ἐπολολύζω	VERB	v2pama---	Mood=Imp|Number=Plur|Person=2|Voice=Act	0	root	_	Ref=942a	cry-out-in-joy
+2	ὦ	ὦ	INTJ	i--------	_	1	discourse	_	Ref=942a	O
+3	δεσποσύνων	δεσπόσυνος	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	4	amod	_	Ref=942a	master's
+4	δόμων	δόμος	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	Ref=942a	house's
+5	ἀναφυγᾶς	ἀναφυγή	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	1	obj	_	Ref=943a	escape
+6	κακῶν	κακός	ADJ	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur	5	amod	_	Ref=943a	from-evils
+7	καὶ	καί	CCONJ	c--------	_	9	cc	_	Ref=943a	and
+8	κτεάνων	κτέανον	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	Ref=943a	of-possessions
+9	τριβᾶς	τριβή	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	6	conj	_	Ref=943a	wasting
+10	ὑπαὶ	ὑπό	ADP	r--------	_	12	case	_	Ref=944a	under
+11	δυοῖν	δύο	X	m--------	_	12	nummod	_	Ref=944a	two
+12	μιαστόροιν	μιάστωρ	NOUN	n-d---mg-	Case=Gen|Gender=Masc|Number=Dual	6	nmod	_	Ref=944a	polluters
+13	,	,	PUNCT	u--------	_	15	punct	_	Ref=944a	,
+14	δυσοίμου	δύσοιμος	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	15	amod	_	Ref=945a	grievous
+15	τύχας	τύχη	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	6	appos	_	Ref=945a|SpaceAfter=No	fortune
+16	.	.	PUNCT	u--------	_	1	punct	_	Ref=945a	.
+
+# sent_id = 510
+# text = τά περ ὁ Λοξίας ὁ Παρνασσίας μέγαν ἔχων μυχὸν χθονὸς ἐπωρθίαξεν ἀδόλως δόλοις βλάβαν ἐγχρονισθεῖσαν ἐποίχεται.
+# Translation = The penalty, subtle in mind, pursues the long-delayed harm, those very things that Loxias the Parnassian, holding the great recess of the earth, shouted out unmistakably with guile.
+1	τά	ὅς	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	11	obj	_	Ref=953	those_very_things
+2	περ	πέρ	ADV	g--------	_	1	advmod	_	Ref=953	indeed
+3	ὁ	ὁ	DET	l-s---mn-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Ref=953	the
+4	Λοξίας	Λοξίας	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Ref=953	Loxias
+5	ὁ	ὁ	DET	l-s---mn-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Ref=953	the
+6	Παρνασσίας	Παρνάσιος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	Ref=953	Parnassian
+7	μέγαν	μέγας	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	9	amod	_	Ref=954	great
+8	ἔχων	ἔχω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	4	acl	_	Ref=954	holding
+9	μυχὸν	μυχός	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	Ref=954	recess
+10	χθονὸς	χθών	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	Ref=954	of_earth
+11	ἐπωρθίαξεν	ἐπορθιάζω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	15	advcl	_	Ref=954|SpaceAfter=No	shouted_out
+12	ἀδόλως	ἀδόλως	ADV	d--------	_	11	advmod	_	Ref=955	unmistakably
+13	δόλοις	δόλος	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	11	obl	_	Ref=955	by_guile
+14	βλάβαν	βλάβη	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	16	obj	_	Ref=956	harm
+15	ἐγχρονισθεῖσαν	ἐγχρονίζω	VERB	v-sppafa-	Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	acl	_	Ref=956	long-delayed
+16	ἐποίχεται	ἐποικοτέω	VERB	v3spie---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=MidPass	0	root	_	Ref=956|SpaceAfter=No	pursues
+17	.	.	PUNCT	u--------	_	16	punct	_	Ref=956	.
+
+# sent_id = 511
+# text = κρατεῖταί πως τὸ θεῖον παρὰ τὸ μὴ ὑπουργεῖν κακοῖς.
+# Translation = The divine power somehow prevails because it does not submit to evils.
+1	κρατεῖταί	κρατέω	VERB	v3spie---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=MidPass	0	root	_	Ref=957	prevails
+2	πως	πως	ADV	g--------	_	1	advmod	_	Ref=957	somehow
+3	τὸ	ὁ	DET	l-s---nn-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	Ref=957	the
+4	θεῖον	θεῖον	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	Ref=957	divine_power
+5	παρὰ	παρά	ADP	r--------	_	7	case	_	Ref=957	because_of
+6	τὸ	ὁ	DET	l-s---na-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	Ref=957	the
+7	μὴ	μή	ADV	c--------	_	1	obl	_	Ref=957	not
+8	ὑπουργεῖν	ὑπουργέω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	7	acl:arg	_	Ref=958	to_submit
+9	κακοῖς	κακός	ADJ	a-p---nd-	Case=Dat|Gender=Neut|Number=Plur	8	obj	_	Ref=958|SpaceAfter=No	to_evils
+10	.	.	PUNCT	u--------	_	1	punct	_	Ref=958	.
+
+# sent_id = 512
+# text = ἄξια δʼ οὐρανοῦχον ἀρχὰν σέβειν.
+# Translation = And (it is) worthy to revere the heaven-holding power.
+1	ἄξια	ἄξιος	ADJ	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	0	root	_	Ref=960	worthy
+2	δʼ	δέ	CCONJ	g--------	PartType=Ptcl	1	cc	_	Ref=960	and
+3	οὐρανοῦχον	οὐρανοῦχος	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	Ref=960	heaven-holding
+4	ἀρχὰν	ἀρχή	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	Ref=960	power
+5	σέβειν	σέβω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	1	acl:arg	_	Ref=960|SpaceAfter=No	to_reverence
+6	.	.	PUNCT	u--------	_	1	punct	_	Ref=960	.
+
+# sent_id = 513
+# text = πάρα τε φῶς ἰδεῖν
+# Translation = And it is possible to see light.
+1	πάρα	πάρειμι	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Ref=961	is_possible
+2	τε	τε	CCONJ	c--------	_	4	cc	_	Ref=961	and
+3	φῶς	φάος	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	Ref=961	light
+4	ἰδεῖν	εἶδον	VERB	v--ana---	VerbForm=Inf|Voice=Act	1	csubj	_	Ref=961	to_see
+
+# sent_id = 514
+# text = μέγα τʼ ἀφῃρέθην ψάλιον οἰκέων.
+# Translation = And I was stripped of the great shackle of the house.
+1	μέγα	μέγας	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	Ref=962	great
+2	τʼ	τε	CCONJ	c--------	_	3	cc	_	Ref=962	and
+3	ἀφῃρέθην	ἀφαιρέω	VERB	v1saim---	Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Mid	0	root	_	Ref=962	I_was_stripped_of
+4	ψάλιον	ψάλιον	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	Ref=962	shackle
+5	οἰκέων	οἰκέτης	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	Ref=962|SpaceAfter=No	of_the_house
+6	.	.	PUNCT	u--------	_	3	punct	_	Ref=962	.
+
+# sent_id = 515
+# text = ἄναγε μὰν δόμοι· πολὺν ἄγαν χρόνον χαμαιπετεῖς ἔκεισθʼ ἀεί.
+# Translation = Be raised up indeed, O houses! For too long a time you were always lying fallen to the ground.
+1	ἄναγε	ἀνάγω	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=963	be_raised_up
+2	μὰν	μάν	ADV	g--------	PartType=Ptcl	1	advmod	_	Ref=963	indeed
+3	δόμοι	δόμος	NOUN	n-p---mv-	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	Ref=963|SpaceAfter=No	O_houses
+4	·	·	PUNCT	u--------	_	1	punct	_	Ref=963	.
+5	πολὺν	πολύς	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	7	amod	_	Ref=963	long
+6	ἄγαν	ἄγαν	ADV	d--------	_	7	advmod	_	Ref=963	too_much
+7	χρόνον	χρόνος	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	Ref=963	time
+8	χαμαιπετεῖς	χαμαιπετής	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	9	advcl:comp	_	Ref=964	fallen_to_the_ground
+9	ἔκεισθʼ	κεῖμαι	VERB	v2paim---	Mood=Ind|Number=Plur|Person=2|Tense=Imp|Voice=MidPass	1	parataxis	_	Ref=964	you_were_lying
+10	ἀεί	ἀεί	ADV	d--------	_	9	advmod	_	Ref=964|SpaceAfter=No	always
+11	.	.	PUNCT	u--------	_	9	punct	_	Ref=964	.
+
+# sent_id = 516
+# text = τάχα δὲ παντελὴς χρόνος ἀμείψεται πρόθυρα δωμάτων, ὅταν ἀφʼ ἑστίας πᾶν ἐλαθῇ μύσος καθαρμοῖσιν ἀτᾶν ἐλατηρίοις.
+# Translation = And soon complete time will go around the doors of the houses, when all pollution may be driven out from the hearth with purifications that drive out destruction.
+1	τάχα	τάχα	ADV	d--------	_	6	advmod	_	Ref=965	soon
+2	δὲ	δέ	CCONJ	g--------	PartType=Ptcl	6	cc	_	Ref=965	and
+3	παντελὴς	παντελής	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	Ref=965	complete
+4	χρόνος	χρόνος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Ref=965	time
+5	ἀμείψεται	ἀμείβω	VERB	v3sfim---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Mid	6	parataxis	_	Ref=965	will_go_around
+6	πρόθυρα	πρόθυρον	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	0	root	_	Ref=966	doors
+7	δωμάτων	δῶμα	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	Ref=966	of_houses
+8	,	,	PUNCT	u--------	_	12	punct	_	Ref=966	,
+9	ὅταν	ὅταν	SCONJ	c--------	_	12	mark	_	Ref=966	when
+10	ἀφʼ	ἀπό	ADP	r--------	_	11	case	_	Ref=966	from
+11	ἑστίας	ἑστία	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	12	obl:arg	_	Ref=966	hearth
+12	πᾶν	πᾶς	PRON	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	6	advcl	_	Ref=967	all
+13	ἐλαθῇ	ἐλαύνω	VERB	v3saps---	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Pass	12	conj	_	Ref=967	may_be_driven_out
+14	μύσος	μύσος	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	Ref=967	pollution
+15	καθαρμοῖσιν	καθαρμός	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	13	obl	_	Ref=968	with_purifications
+16	ἀτᾶν	ἄτη	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	17	nmod	_	Ref=968	of_destruction
+17	ἐλατηρίοις	ἐλατήριος	ADJ	a-p---md-	Case=Dat|Gender=Masc|Number=Plur	15	amod	_	Ref=968|SpaceAfter=No	driving_out
+18	.	.	PUNCT	u--------	_	6	punct	_	Ref=968	.
+
+# sent_id = 517
+# text = τύχαι δʼ εὐπροσωποκοῖται τὸ πᾶν ἰδεῖν πρευμενεῖς μετοίκοις δόμων πεσοῦνται πάλιν.
+# Translation = And fair-faced fortunes, gracious to behold in every respect, will fall again to the inhabitants of the house.
+1	τύχαι	τύχη	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	10	nsubj	_	Ref=969	fortunes
+2	δʼ	δέ	CCONJ	g--------	PartType=Ptcl	10	cc	_	Ref=969	and
+3	εὐπροσωποκοῖται	εὐπρόσωπος	ADJ	a-p---fn-	Case=Nom|Gender=Fem|Number=Plur	10	advcl:comp	_	Ref=969	fair-faced
+4	τὸ	ὁ	DET	l-s---na-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	Ref=969	the
+5	πᾶν	πᾶς	PRON	a-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	6	obj	_	Ref=969	every_respect
+6	ἰδεῖν	εἶδον	VERB	v--ana---	VerbForm=Inf|Voice=Act	3	advcl	_	Ref=970	to_behold
+7	πρευμενεῖς	πρευμενής	ADJ	a-p---fn-	Case=Nom|Gender=Fem|Number=Plur	3	conj	_	Ref=970	gracious
+8	μετοίκοις	μέτοικος	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	10	obl	_	Ref=971	for_inhabitants
+9	δόμων	δόμος	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	Ref=971	of_the_house
+10	πεσοῦνται	πίπτω	VERB	v3sfim---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Mid	0	root	_	Ref=971	will_fall
+11	πάλιν	πάλιν	ADV	d--------	_	10	advmod	_	Ref=971|SpaceAfter=No	again
+12	.	.	PUNCT	u--------	_	10	punct	_	Ref=971	.
+
+# sent_id = 518
+# text = πάρα τε φῶς ἰδεῖν
+# Translation = And it is possible to see light.
+1	πάρα	πάρειμι	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Ref=972	is_possible
+2	τε	τε	CCONJ	c--------	_	4	cc	_	Ref=972	and
+3	φῶς	φάος	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	Ref=972	light
+4	ἰδεῖν	εἶδον	VERB	v--ana---	VerbForm=Inf|Voice=Act	1	csubj	_	Ref=972|SpaceAfter=No	to_see
+
+# sent_id = 519
+# text = μέγα τʼ ἀφῃρέθην ψάλιον οἰκέων.
+# Translation = And I was stripped of the great shackle of the house.
+1	μέγα	μέγας	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	Ref=962a	great
+2	τʼ	τε	CCONJ	c--------	_	3	cc	_	Ref=962a	and
+3	ἀφῃρέθην	ἀφαιρέω	VERB	v1saim---	Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Mid	0	root	_	Ref=962a	I_was_stripped_of
+4	ψάλιον	ψάλιον	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	Ref=962a	shackle
+5	οἰκέων	οἰκέτης	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	Ref=962a|SpaceAfter=No	of_the_house
+6	.	.	PUNCT	u--------	_	3	punct	_	Ref=962a	.
+
+# sent_id = 520
+# text = ἄναγε μὰν δόμοι· πολὺν ἄγαν χρόνον χαμαιπετεῖς ἔκεισθʼ ἀεί.
+# Translation = Be raised up indeed, O houses! For too long a time you were always lying fallen to the ground.
+1	ἄναγε	ἀνάγω	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=963a	be_raised_up
+2	μὰν	μάν	ADV	g--------	PartType=Ptcl	1	advmod	_	Ref=963a	indeed
+3	δόμοι	δόμος	NOUN	n-p---mv-	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	Ref=963a|SpaceAfter=No	O_houses
+4	·	·	PUNCT	u--------	_	1	punct	_	Ref=963a	.
+5	πολὺν	πολύς	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	7	amod	_	Ref=963a	long
+6	ἄγαν	ἄγαν	ADV	d--------	_	7	advmod	_	Ref=963a	too_much
+7	χρόνον	χρόνος	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	Ref=963a	time
+8	χαμαιπετεῖς	χαμαιπετής	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	9	advcl:comp	_	Ref=964a	fallen_to_the_ground
+9	ἔκεισθʼ	κεῖμαι	VERB	v2paim---	Mood=Ind|Number=Plur|Person=2|Tense=Imp|Voice=MidPass	1	parataxis	_	Ref=964a	you_were_lying
+10	ἀεί	ἀεί	ADV	d--------	_	9	advmod	_	Ref=964a|SpaceAfter=No	always
+11	.	.	PUNCT	u--------	_	9	punct	_	Ref=964a	.
+
+# sent_id = 521
+# text = ἴδεσθε χώρας τὴν διπλῆν τυραννίδα πατροκτόνους τε δωμάτων πορθήτορας.
+# Translation = Behold the double tyranny of the land and the father-killing destroyers of the house.
+1	ἴδεσθε	εἶδον	VERB	v2pamm---	Mood=Imp|Number=Plur|Person=2|Tense=Past|Voice=Mid	0	root	_	Ref=973	behold
+2	χώρας	χώρα	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	Ref=973	of_land
+3	τὴν	ὁ	DET	l-s---fa-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	Ref=973	the
+4	διπλῆν	διπλόος	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	Ref=973	double
+5	τυραννίδα	τυραννίς	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	appos	_	Ref=973	tyranny
+6	πατροκτόνους	πατροκτόνος	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	9	amod	_	Ref=974	father-killing
+7	τε	τε	CCONJ	c--------	_	9	cc	_	Ref=974	and
+8	δωμάτων	δῶμα	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	Ref=974	of_house
+9	πορθήτορας	πορθήτωρ	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	5	conj	_	Ref=974|SpaceAfter=No	destroyers
+10	.	.	PUNCT	u--------	_	1	punct	_	Ref=974	.
+
+# sent_id = 522
+# text = σεμνοὶ μὲν ἦσαν ἐν θρόνοις τόθʼ ἥμενοι, φίλοι δὲ καὶ νῦν, ὡς ἐπεικάσαι πάθη πάρεστιν, ὅρκος τʼ ἐμμένει πιστώμασι.
+# Translation = They were indeed sitting revered on thrones then, but friends even now, as it is possible to infer their deeds, and their oath remains true to their pledges.
+1	σεμνοὶ	σεμνός	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	3	amod	_	Ref=975	revered
+2	μὲν	μέν	ADV	g--------	PartType=Ptcl	3	advmod	_	Ref=975	on_the_one_hand
+3	ἦσαν	εἰμί	AUX	v3piia---	Mood=Ind|Number=Plur|Person=3|Tense=Imp|Voice=Act	11	parataxis	_	Ref=975	they_were
+4	ἐν	ἐν	ADP	r--------	_	5	case	_	Ref=975	in
+5	θρόνοις	θρόνος	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	3	obl	_	Ref=975	thrones
+6	τόθʼ	τότε	ADV	d--------	_	3	advmod	_	Ref=975	then
+7	ἥμενοι	ἧμαι	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Perf|VerbForm=Part|Voice=MidPass	3	advcl:comp	_	Ref=975|SpaceAfter=No	sitting
+8	,	,	PUNCT	u--------	_	11	punct	_	Ref=975	,
+9	φίλοι	φίλος	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	11	xcomp	_	Ref=976	friends
+10	δὲ	δέ	CCONJ	g--------	PartType=Ptcl	11	cc	_	Ref=976	but
+11	καὶ	καί	ADV	c--------	_	0	root	_	Ref=976	even
+12	νῦν	νῦν	ADV	d--------	_	11	advmod	_	Ref=976	now
+13	,	,	PUNCT	u--------	_	16	punct	_	Ref=976	,
+14	ὡς	ὡς	SCONJ	c--------	_	16	mark	_	Ref=976	as
+15	ἐπεικάσαι	ἐπεικάζω	VERB	v--ana---	VerbForm=Inf|Voice=Act	16	xcomp	_	Ref=976	to_infer
+16	πάθη	πάθος	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	17	nsubj	_	Ref=976	deeds
+17	πάρεστιν	πάρειμι	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	11	advcl	_	Ref=977|SpaceAfter=No	is_possible
+18	,	,	PUNCT	u--------	_	22	punct	_	Ref=977	,
+19	ὅρκος	ὅρκος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	Ref=977	oath
+20	τʼ	τε	CCONJ	c--------	_	22	cc	_	Ref=977	and
+21	ἐμμένει	ἐμμένω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	22	advcl:comp	_	Ref=977	remains_true
+22	πιστώμασι	πίστωμα	NOUN	n-p---nd-	Case=Dat|Gender=Neut|Number=Plur	17	conj	_	Ref=977|SpaceAfter=No	to_pledges
+23	.	.	PUNCT	u--------	_	11	punct	_	Ref=977	.
+
+# sent_id = 523
+# text = ξυνώμοσαν μὲν θάνατον ἀθλίῳ πατρὶ καὶ ξυνθανεῖσθαι· καὶ τάδʼ εὐόρκως ἔχει.
+# Translation = They indeed swore death for my wretched father, and to die together; and these things hold true to their oath.
+1	ξυνώμοσαν	συνομνύω	VERB	v3paia---	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	Ref=978	they_swore_together
+2	μὲν	μέν	ADV	g--------	PartType=Ptcl	1	advmod	_	Ref=978	indeed
+3	θάνατον	θάνατος	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	Ref=978	death
+4	ἀθλίῳ	ἄθλιος	ADJ	a-s---md-	Case=Dat|Gender=Masc|Number=Sing	5	amod	_	Ref=978	wretched
+5	πατρὶ	πατήρ	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	1	obl	_	Ref=978	father
+6	καὶ	καί	CCONJ	c--------	_	7	cc	_	Ref=979	and
+7	ξυνθανεῖσθαι	συνθνῄσκω	VERB	v--fnm---	Tense=Fut|VerbForm=Inf|Voice=MidPass	3	conj	_	Ref=979|SpaceAfter=No	to_die_together
+8	·	·	PUNCT	u--------	_	1	punct	_	Ref=979	.
+9	καὶ	καί	CCONJ	c--------	_	12	cc	_	Ref=979	and
+10	τάδʼ	ὅδε	PRON	p-p---na-	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	12	nsubj	_	Ref=979	these_things
+11	εὐόρκως	εὔορκος	ADV	d--------	_	12	advmod	_	Ref=979	with_sure_oath
+12	ἔχει	ἔχω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	conj	_	Ref=979|SpaceAfter=No	hold_true
+13	.	.	PUNCT	u--------	_	12	punct	_	Ref=979	.
+
+# sent_id = 524
+# text = ἴδεσθε δʼ αὖτε, τῶνδʼ ἐπήκοοι κακῶν, τὸ μηχάνημα, δεσμὸν ἀθλίῳ πατρί, πέδας τε χειροῖν καὶ ποδοῖν ξυνωρίδα.
+# Translation = But behold again, you witnesses of these evils, the contrivance, the bond for my wretched father, the fetters for his hands and feet, the yoke.
+1	ἴδεσθε	εἶδον	VERB	v2pamm---	Mood=Imp|Number=Plur|Person=2|Tense=Past|Voice=Mid	0	root	_	Ref=980	behold
+2	δʼ	δέ	CCONJ	g--------	PartType=Ptcl	1	cc	_	Ref=980	but
+3	αὖτε	αὖτε	ADV	d--------	_	1	advmod	_	Ref=980	again
+4	,	,	PUNCT	u--------	_	6	punct	_	Ref=980	,
+5	τῶνδʼ	ὅδε	PRON	p-p---mg-	Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	6	nmod	_	Ref=980	of_these
+6	ἐπήκοοι	ἐπήκοος	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	1	vocative	_	Ref=980	witnesses
+7	κακῶν	κακός	ADJ	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	Ref=980|SpaceAfter=No	evils
+8	,	,	PUNCT	u--------	_	6	punct	_	Ref=980	,
+9	τὸ	ὁ	DET	l-s---na-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	Ref=981	the
+10	μηχάνημα	μηχάνημα	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	Ref=981	contrivance
+11	,	,	PUNCT	u--------	_	12	punct	_	Ref=981	,
+12	δεσμὸν	δεσμός	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	10	appos	_	Ref=981	bond
+13	ἀθλίῳ	ἄθλιος	ADJ	a-s---md-	Case=Dat|Gender=Masc|Number=Sing	14	amod	_	Ref=981	wretched
+14	πατρὶ	πατήρ	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	12	nmod	_	Ref=981|SpaceAfter=No	father
+15	,	,	PUNCT	u--------	_	16	punct	_	Ref=981	,
+16	πέδας	πέδη	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	10	conj	_	Ref=982	fetters
+17	τε	τε	CCONJ	c--------	_	21	cc	_	Ref=982	and
+18	χειροῖν	χείρ	NOUN	n-d---fd-	Case=Gen|Gender=Fem|Number=Dual	21	nmod	_	Ref=982	of_hands
+19	καὶ	καί	CCONJ	c--------	_	20	cc	_	Ref=982	and
+20	ποδοῖν	πούς	NOUN	n-d---mg-	Case=Gen|Gender=Masc|Number=Dual	18	conj	_	Ref=982	of_feet
+21	ξυνωρίδα	ξυνωρίς	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	16	conj	_	Ref=982|SpaceAfter=No	yoke
+22	.	.	PUNCT	u--------	_	1	punct	_	Ref=982	.
+
+# sent_id = 525
+# text = ἐκτείνατʼ αὐτὸ καὶ κύκλῳ παρασταδὸν στέγαστρον ἀνδρὸς δείξαθʼ, ὡς ἴδῃ πατήρ, οὐχ οὑμός, ἀλλʼ ὁ πάντʼ ἐποπτεύων τάδε Ἥλιος, ἄναγνα μητρὸς ἔργα τῆς ἐμῆς, ὡς ἂν παρῇ μοι μάρτυς ἐν δίκῃ ποτέ, ὡς τόνδʼ ἐγὼ μετῆλθον ἐνδίκως μόρον τὸν μητρός·
+# Translation = Stretch it out, and standing round it in a circle show the covering of the man, so that Father may see—not my father, but the Sun, the one watching over all these things—the unholy deeds of my mother, so that he may someday be a witness for me in court, (testifying) that I justly avenged this death, the death of my mother;
+1	ἐκτείνατʼ	ἐκτείνω	VERB	v2pama---	Mood=Imp|Number=Plur|Person=2|Tense=Past|Voice=Act	0	root	_	Ref=983	stretch_out
+2	αὐτὸ	αὐτός	PRON	a-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	1	obj	_	Ref=983	it
+3	καὶ	καί	CCONJ	c--------	_	1	cc	_	Ref=983	and
+4	κύκλῳ	κύκλος	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	1	obl	_	Ref=983	in_a_circle
+5	παρασταδὸν	παρασταδόν	ADV	d--------	_	1	advmod	_	Ref=983	standing_near
+6	στέγαστρον	στέγαστρον	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	Ref=984	covering
+7	ἀνδρὸς	ἀνήρ	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	Ref=984	of_the_man
+8	δείξαθʼ	δείκνυμι	VERB	v2pama---	Mood=Imp|Number=Plur|Person=2|Tense=Past|Voice=Act	1	conj	_	Ref=984|SpaceAfter=No	show
+9	,	,	PUNCT	u--------	_	11	punct	_	Ref=984	,
+10	ὡς	ὡς	SCONJ	c--------	_	11	mark	_	Ref=984	so_that
+11	ἴδῃ	εἶδον	VERB	v3sasa---	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	8	advcl	_	Ref=984	may_see
+12	πατήρ	πατήρ	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	Ref=984|SpaceAfter=No	Father
+13	,	,	PUNCT	u--------	_	12	punct	_	Ref=984	,
+14	οὐχ	οὐ	ADV	d--------	_	15	advmod:neg	_	Ref=985	not
+15	οὑμός	ἐμός	DET	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	12	nsubj	_	Ref=985|SpaceAfter=No	my_father
+16	,	,	PUNCT	u--------	_	15	punct	_	Ref=985	,
+17	ἀλλʼ	ἀλλά	CCONJ	g--------	_	15	cc	_	Ref=985	but
+18	ὁ	ὁ	DET	l-s---mn-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	Ref=985	the_one
+19	πάντʼ	πᾶς	PRON	a-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Ind	20	obj	_	Ref=985	all_things
+20	ἐποπτεύων	ἐποπτεύω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	conj	_	Ref=985	watching_over
+21	τάδε	ὅδε	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	20	obj	_	Ref=985	these
+22	Ἥλιος	Ἥλιος	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	20	appos	_	Ref=986	the_Sun
+23	,	,	PUNCT	u--------	_	25	punct	_	Ref=986	,
+24	ἄναγνα	ἄναγνος	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	25	amod	_	Ref=986	unholy
+25	μητρὸς	μήτηρ	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	Ref=986	of_mother
+26	ἔργα	ἔργον	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	8	obj	_	Ref=986	deeds
+27	τῆς	ὁ	DET	l-s---fg-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	Ref=986	the
+28	ἐμῆς	ἐμός	DET	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	29	det	_	Ref=986	my
+29	ὡς	ὡς	SCONJ	c--------	_	11	advcl	_	Ref=987	so_that
+30	ἂν	ἄν	ADV	g--------	PartType=Ptcl	31	advmod	_	Ref=987	[modal]
+31	παρῇ	πάρειμι	VERB	v3sasa---	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	29	conj	_	Ref=987	he_may_be_present
+32	μοι	ἐγώ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	31	obl	_	Ref=987	to_me
+33	μάρτυς	μάρτυς	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	31	nsubj	_	Ref=987	witness
+34	ἐν	ἐν	ADP	r--------	_	35	case	_	Ref=987	in
+35	δίκῃ	δίκη	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	31	obl	_	Ref=987	court
+36	ποτέ	ποτέ	ADV	g--------	PartType=Ptcl	31	advmod	_	Ref=987|SpaceAfter=No	someday
+37	,	,	PUNCT	u--------	_	31	punct	_	Ref=987	,
+38	ὡς	ὡς	SCONJ	c--------	_	41	mark	_	Ref=988	that
+39	τόνδʼ	ὅδε	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	41	obj	_	Ref=988	this
+40	ἐγὼ	ἐγώ	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	41	nsubj	_	Ref=988	I
+41	μετῆλθον	μετέρχομαι	VERB	v1saia---	Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	29	conj	_	Ref=988	avenged
+42	ἐνδίκως	ἔνδικος	ADV	d--------	_	41	advmod	_	Ref=988	justly
+43	μόρον	μόρος	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	41	obj	_	Ref=988	death
+44	τὸν	ὁ	DET	l-s---ma-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	45	det	_	Ref=989	the
+45	μητρός	μήτηρ	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	43	nmod	_	Ref=989|SpaceAfter=No	of_mother
+46	·	·	PUNCT	u--------	_	41	punct	_	Ref=989	.
+
+# sent_id = 526
+# text = Αἰγίσθου γὰρ οὐ λέγω μόρον· ἔχει γὰρ αἰσχυντῆρος, ὡς νόμος, δίκην·
+# Translation = For I do not speak of Aegisthus' death; for he receives the penalty of a defiler, as is the law.
+1	Αἰγίσθου	Αἴγισθος	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	Ref=989	of_Aegisthus
+2	γὰρ	γάρ	ADV	g--------	PartType=Ptcl	4	advmod	_	Ref=989	for
+3	οὐ	οὐ	ADV	d--------	_	4	advmod:neg	_	Ref=989	not
+4	λέγω	λέγω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=989	I_speak_of
+5	μόρον	μόρος	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	Ref=989|SpaceAfter=No	death
+6	·	·	PUNCT	u--------	_	4	punct	_	Ref=989	.
+7	ἔχει	ἔχω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	parataxis	_	Ref=990	he_receives
+8	γὰρ	γάρ	ADV	g--------	PartType=Ptcl	7	advmod	_	Ref=990	for
+9	αἰσχυντῆρος	αἰσχυντήρ	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	Ref=990	of_a_defiler
+10	,	,	PUNCT	u--------	_	11	punct	_	Ref=990	,
+11	ὡς	ὡς	SCONJ	c--------	_	7	advcl	_	Ref=990	as
+12	νόμος	νόμος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	Ref=990|SpaceAfter=No	law
+13	,	,	PUNCT	u--------	_	11	punct	_	Ref=990	,
+14	δίκην	δίκη	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	Ref=990|SpaceAfter=No	penalty
+15	·	·	PUNCT	u--------	_	7	punct	_	Ref=990	.
+
+# sent_id = 527
+# text = ἥτις δʼ ἐπʼ ἀνδρὶ τοῦτʼ ἐμήσατο στύγος, ἐξ οὗ τέκνων ἤνεγχʼ ὑπὸ ζώνην βάρος, φίλον τέως, νῦν δʼ ἐχθρόν, ὡς φαίνει, κακόν, τί σοι δοκεῖ; μύραινά γʼ εἴτʼ ἔχιδνʼ ἔφυ σήπειν θιγοῦσʼ ἂν ἄλλον οὐ δεδηγμένον τόλμης ἕκατι κἀκδίκου φρονήματος.
+# Translation = But the woman who devised this abomination against her husband, from whom she carried the burden of children beneath her womb, dear for a time, but now hostile, as it shows, a hateful thing—what does she seem to you? Was she by nature a sea-serpent or a viper, able to corrupt by touching another who was not bitten, by means of audacity and lawless spirit?
+1	ἥτις	ὅστις	PRON	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	11	nsubj	_	Ref=991	the_woman_who
+2	δʼ	δέ	CCONJ	g--------	PartType=Ptcl	11	cc	_	Ref=991	but
+3	ἐπʼ	ἐπί	ADP	r--------	_	4	case	_	Ref=991	against
+4	ἀνδρὶ	ἀνήρ	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	Ref=991	her_husband
+5	τοῦτʼ	οὗτος	PRON	a-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	obj	_	Ref=991	this
+6	ἐμήσατο	μηχάομαι	VERB	v3saim---	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Mid	11	advcl	_	Ref=991	devised
+7	στύγος	στύγος	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=991|SpaceAfter=No	abomination
+8	,	,	PUNCT	u--------	_	6	punct	_	Ref=991	,
+9	ἐξ	ἐκ	ADP	r--------	_	10	case	_	Ref=992	from
+10	οὗ	ὅς	PRON	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	14	obl	_	Ref=992	whom
+11	τέκνων	τέκνον	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	Ref=992	of_children
+12	ἤνεγχʼ	φέρω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	6	conj	_	Ref=992	she_carried
+13	ὑπὸ	ὑπό	ADP	r--------	_	14	case	_	Ref=992	under
+14	ζώνην	ζώνη	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	12	obl	_	Ref=992	womb
+15	βάρος	βάρος	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	Ref=992|SpaceAfter=No	burden
+16	,	,	PUNCT	u--------	_	12	punct	_	Ref=992	,
+17	φίλον	φίλος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	25	xcomp	_	Ref=993	dear
+18	τέως	τέως	ADV	d--------	_	17	advmod	_	Ref=993	for_a_time
+19	,	,	PUNCT	u--------	_	17	punct	_	Ref=993	,
+20	νῦν	νῦν	ADV	d--------	_	25	advmod	_	Ref=993	now
+21	δʼ	δέ	CCONJ	g--------	PartType=Ptcl	25	cc	_	Ref=993	but
+22	ἐχθρόν	ἐχθρός	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	17	conj	_	Ref=993	hostile
+23	,	,	PUNCT	u--------	_	25	punct	_	Ref=993	,
+24	ὡς	ὡς	SCONJ	c--------	_	25	mark	_	Ref=993	as
+25	φαίνει	φαίνω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	31	advcl	_	Ref=993	it_shows
+26	,	,	PUNCT	u--------	_	25	punct	_	Ref=993	,
+27	κακόν	κακός	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	22	conj	_	Ref=993|SpaceAfter=No	hateful_thing
+28	,	,	PUNCT	u--------	_	25	punct	_	Ref=993	,
+29	τί	τίς	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	31	obj	_	Ref=994	what
+30	σοι	σύ	PRON	p-s---fd-	Case=Dat|Gender=Fem|Number=Sing|Person=2|PronType=Prs	31	obl	_	Ref=994	to_you
+31	δοκεῖ	δοκέω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Ref=994|SpaceAfter=No	does_she_seem
+32	;	;	PUNCT	u--------	_	31	punct	_	Ref=994	?
+33	μύραινά	μύραινα	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	36	nsubj	_	Ref=994	sea-serpent
+34	γʼ	γε	ADV	g--------	PartType=Ptcl	33	advmod	_	Ref=994	at_least
+35	εἴτʼ	εἴτε	SCONJ	c--------	_	36	cc	_	Ref=994	or
+36	ἔχιδνʼ	ἔχιδνα	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	31	parataxis	_	Ref=994	viper
+37	ἔφυ	φύω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	36	advcl:comp	_	Ref=994	she_was_by_nature
+38	σήπειν	σήπω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	37	advcl	_	Ref=995	to_corrupt
+39	θιγοῦσʼ	θιγγάνω	VERB	v-sapafn-	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	38	advcl	_	Ref=995	by_touching
+40	ἂν	ἄν	ADV	g--------	PartType=Ptcl	38	advmod	_	Ref=995	[modal]
+41	ἄλλον	ἄλλος	PRON	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	38	obj	_	Ref=995	another
+42	οὐ	οὐ	ADV	d--------	_	43	advmod:neg	_	Ref=995	not
+43	δεδηγμένον	δάκνω	VERB	v-prpema-	Case=Acc|Gender=Masc|Number=Sing|Tense=Perf|VerbForm=Part|Voice=MidPass	41	acl	_	Ref=995	bitten
+44	τόλμης	τόλμα	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	46	obl	_	Ref=996	by_means_of_audacity
+45	ἕκατι	ἕκητι	ADV	d--------	_	44	case	_	Ref=996	by_means_of
+46	κἀκδίκου	ἔκδικος	ADJ	a-s---ng-	Case=Gen|Gender=Neut|Number=Sing	47	amod	_	Ref=996	lawless
+47	φρονήματος	φρόνημα	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	44	conj	_	Ref=996|SpaceAfter=No	spirit
+48	.	.	PUNCT	u--------	_	31	punct	_	Ref=996	.
+
+# sent_id = 528
+# text = τί νιν προσείπω, κἂν τύχω μάλʼ εὐστομῶν;
+# Translation = What shall I call it, even if I should succeed in speaking very eloquently?
+1	τί	τίς	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	obj	_	Ref=997	what
+2	νιν	νιν	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	3	obj	_	Ref=997	it/her
+3	προσείπω	προσείπον	VERB	v1sasa---	Mood=Sub|Number=Sing|Person=1|Tense=Past|Voice=Act	0	root	_	Ref=997|SpaceAfter=No	shall_I_call
+4	,	,	PUNCT	u--------	_	7	punct	_	Ref=997	,
+5	κἂν	κἄν	SCONJ	c--------	_	7	mark	_	Ref=997	even_if
+6	τύχω	τυγχάνω	VERB	v1sasa---	Mood=Sub|Number=Sing|Person=1|Tense=Past|Voice=Act	7	advcl	_	Ref=997	I_should_succeed
+7	μάλʼ	μάλα	ADV	d--------	_	3	advcl	_	Ref=997	very
+8	εὐστομῶν	εὐστομέω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl:comp	_	Ref=997|SpaceAfter=No	speaking_eloquently
+9	;	;	PUNCT	u--------	_	3	punct	_	Ref=997	?
+
+# sent_id = 529
+# text = ἄγρευμα θηρός, ἢ νεκροῦ ποδένδυτον δροίτης κατασκήνωμα; δίκτυον μὲν οὖν, ἄρκυν τʼ ἂν εἴποις καὶ ποδιστῆρας πέπλους.
+# Translation = A snare of a wild beast, or the dead man's foot-enveloping covering of the bathtub? A net, indeed, and you might call it a snare and foot-binding robes.
+1	ἄγρευμα	ἄγρευμα	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	0	root	_	Ref=998	snare
+2	θηρός	θήρ	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	Ref=998	of_a_wild_beast
+3	,	,	PUNCT	u--------	_	4	punct	_	Ref=998	,
+4	ἢ	ἤ	CCONJ	c--------	_	1	cc	_	Ref=998	or
+5	νεκροῦ	νεκρός	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	Ref=998	of_the_dead_man
+6	ποδένδυτον	ποδένδυτος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	8	amod	_	Ref=998	foot-enveloping
+7	δροίτης	δροίτη	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	Ref=999	of_the_bathtub
+8	κατασκήνωμα	κατασκήνωμα	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	conj	_	Ref=999|SpaceAfter=No	covering
+9	?	?	PUNCT	u--------	_	1	punct	_	Ref=999	?
+10	δίκτυον	δίκτυον	NOUN	n-s---na-	Case=Nom|Gender=Neut|Number=Sing	13	xcomp	_	Ref=999	net
+11	μὲν	μέν	ADV	g--------	PartType=Ptcl	13	advmod	_	Ref=999	indeed
+12	οὖν	οὖν	ADV	g--------	PartType=Ptcl	11	advmod	_	Ref=999|SpaceAfter=No	therefore
+13	,	,	PUNCT	u--------	_	10	punct	_	Ref=999	,
+14	ἄρκυν	ἄρκυς	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	17	obj	_	Ref=1000	snare
+15	τʼ	τε	CCONJ	c--------	_	17	cc	_	Ref=1000	and
+16	ἂν	ἄν	ADV	g--------	PartType=Ptcl	17	advmod	_	Ref=1000	[modal]
+17	εἴποις	εἶπον	VERB	v2saoa---	Mood=Opt|Number=Sing|Person=2|Tense=Past|Voice=Act	1	parataxis	_	Ref=1000	you_might_call
+18	καὶ	καί	CCONJ	c--------	_	19	cc	_	Ref=1000	and
+19	ποδιστῆρας	ποδιστῆρ	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	14	conj	_	Ref=1000	foot-binders
+20	πέπλους	πέπλος	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	19	nmod	_	Ref=1000|SpaceAfter=No	robes
+21	.	.	PUNCT	u--------	_	17	punct	_	Ref=1000	.
+
+# sent_id = 530
+# text = τοιοῦτον ἂν κτήσαιτο φηλήτης ἀνήρ, ξένων ἀπαιόλημα κἀργυροστερῆ βίον νομίζων, τῷδέ τʼ ἂν δολώματι πολλοὺς ἀναιρῶν πολλὰ θερμαίνοι φρένα.
+# Translation = Such a thing might a swindling man acquire, a cheat for strangers, and one practicing a money-depriving life, and with this snare, killing many men, he might greatly warm his heart.
+1	τοιοῦτον	τοιοῦτος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	Ref=1001	such_a_thing
+2	ἂν	ἄν	ADV	g--------	PartType=Ptcl	3	advmod	_	Ref=1001	[modal]
+3	κτήσαιτο	κτάομαι	VERB	v3saoo---	Mood=Opt|Number=Sing|Person=3|Tense=Past|Voice=Mid	0	root	_	Ref=1001	might_acquire
+4	φηλήτης	φηλήτης	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	amod	_	Ref=1001	swindling
+5	ἀνήρ	ἀνήρ	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Ref=1001|SpaceAfter=No	man
+6	,	,	PUNCT	u--------	_	5	punct	_	Ref=1001	,
+7	ξένων	ξένος	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	Ref=1002	of_strangers
+8	ἀπαιόλημα	ἀπαίλημα	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	5	appos	_	Ref=1002	a_cheat
+9	κἀργυροστερῆ	ἀργυροστερής	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	10	amod	_	Ref=1002	money-depriving
+10	βίον	βίος	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	Ref=1003	livelihood
+11	νομίζων	νομίζω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	Ref=1003	practicing
+12	,	,	PUNCT	u--------	_	11	punct	_	Ref=1003	,
+13	τῷδέ	ὅδε	PRON	p-s---nd-	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	16	obl	_	Ref=1003	this
+14	τʼ	τε	CCONJ	c--------	_	16	cc	_	Ref=1003	and
+15	ἂν	ἄν	ADV	g--------	PartType=Ptcl	16	advmod	_	Ref=1003	[modal]
+16	δολώματι	δολώμα	NOUN	n-s---nd-	Case=Dat|Gender=Neut|Number=Sing	20	obl	_	Ref=1003	snare
+17	πολλοὺς	πολύς	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	18	obj	_	Ref=1004	many
+18	ἀναιρῶν	ἀναιρέω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	20	advcl	_	Ref=1004	killing
+19	πολλὰ	πολύς	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	20	advmod	_	Ref=1004	greatly
+20	θερμαίνοι	θερμαίνω	VERB	v3spoa---	Mood=Opt|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	conj	_	Ref=1004	warm
+21	φρένα	φρήν	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	20	obj	_	Ref=1004|SpaceAfter=No	heart
+22	.	.	PUNCT	u--------	_	3	punct	_	Ref=1004	.
+
+# sent_id = 531
+# text = τοιάδʼ ἐμοὶ ξύνοικος ἐν δόμοισι μὴ γένοιτʼ· ὀλοίμην πρόσθεν ἐκ θεῶν ἄπαις.
+# Translation = May such a woman not be dwelling with me in the house; may I rather perish childless by the gods.
+1	τοιάδʼ	τοιόσδε	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	xcomp	_	Ref=1005	such_a_woman
+2	ἐμοὶ	ἐγώ	PRON	p-s---fd-	Case=Dat|Gender=Fem|Number=Sing|Person=1|PronType=Prs	3	obl	_	Ref=1005	to_me
+3	ξύνοικος	ξύνοικος	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	Ref=1005	dwelling_with
+4	ἐν	ἐν	ADP	r--------	_	5	case	_	Ref=1005	in
+5	δόμοισι	δόμος	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	3	nmod	_	Ref=1005	house
+6	μὴ	μή	ADV	c--------	_	7	advmod:neg	_	Ref=1005	not
+7	γένοιτʼ	γίγνομαι	VERB	v3sao----	Mood=Opt|Number=Sing|Person=3|Tense=Past|Voice=Mid	0	root	_	Ref=1006|SpaceAfter=No	may_she_be
+8	·	·	PUNCT	u--------	_	7	punct	_	Ref=1006	.
+9	ὀλοίμην	ὄλλυμι	VERB	v1saom---	Mood=Opt|Number=Sing|Person=1|Tense=Past|Voice=Mid	7	parataxis	_	Ref=1006	may_I_perish
+10	πρόσθεν	πρόσθεν	ADV	d--------	_	9	advmod	_	Ref=1006	sooner
+11	ἐκ	ἐκ	ADP	r--------	_	12	case	_	Ref=1006	by
+12	θεῶν	θεός	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	9	obl	_	Ref=1006	the_gods
+13	ἄπαις	ἄπαις	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	9	advcl:comp	_	Ref=1006|SpaceAfter=No	childless
+14	.	.	PUNCT	u--------	_	9	punct	_	Ref=1006	.
+
+# sent_id = 532
+# text = αἰαῖ <add>αἰαῖ</add> μελέων ἔργων· στυγερῷ θανάτῳ διεπράχθης.
+# Translation = Alas, alas for the wretched deeds; you were finished by a hateful death.
+1	αἰαῖ	αἰαῖ	INTJ	i--------	_	5	discourse	_	Ref=1007	alas
+2	<add>αἰαῖ</add>	αἰαῖ	INTJ	i--------	_	1	conj	_	Ref=1007	alas
+3	μελέων	μελεός	ADJ	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur	4	amod	_	Ref=1007	wretched
+4	ἔργων	ἔργον	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	Ref=1007|SpaceAfter=No	deeds
+5	·	·	PUNCT	u--------	_	1	punct	_	Ref=1007	.
+6	στυγερῷ	στυγερός	ADJ	a-s---md-	Case=Dat|Gender=Masc|Number=Sing	7	amod	_	Ref=1008	hateful
+7	θανάτῳ	θάνατος	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	Ref=1008	death
+8	διεπράχθης	διαπράσσω	VERB	v2saim---	Mood=Ind|Number=Sing|Person=2|Tense=Past|Voice=Mid	1	parataxis	_	Ref=1008|SpaceAfter=No	you_were_finished
+9	.	.	PUNCT	u--------	_	8	punct	_	Ref=1008	.
+
+# sent_id = 533
+# text = ἒ ἔ, μίμνοντι δὲ καὶ πάθος ἀνθεῖ.
+# Translation = Ah, ah, but for the one waiting, even suffering blooms.
+1	ἒ	ἒ	INTJ	i--------	_	4	discourse	_	Ref=1008b	ah
+2	ἔ	ἔ	INTJ	i--------	_	1	conj	_	Ref=1008b|SpaceAfter=No	ah
+3	,	,	PUNCT	u--------	_	1	punct	_	Ref=1008b	,
+4	μίμνοντι	μίμνω	VERB	v-sppemd-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=MidPass	8	advcl	_	Ref=1009	for_the_one_waiting
+5	δὲ	δέ	CCONJ	g--------	PartType=Ptcl	8	cc	_	Ref=1009	but
+6	καὶ	καί	ADV	c--------	_	8	advmod	_	Ref=1009	even
+7	πάθος	πάθος	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	Ref=1009	suffering
+8	ἀνθεῖ	ἀνθέω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Ref=1009|SpaceAfter=No	blooms
+9	.	.	PUNCT	u--------	_	8	punct	_	Ref=1009	.
+
+# sent_id = 534
+# text = ἔδρασεν ἢ οὐκ ἔδρασε; μαρτυρεῖ δέ μοι φᾶρος τόδʼ, ὡς ἔβαψεν Αἰγίσθου ξίφος.
+# Translation = Did she do it or did she not? And this cloth bears witness to me, how Aegisthus' sword stained it.
+1	ἔδρασεν	δράω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	Ref=1010	Did_she_do_it
+2	ἢ	ἤ	CCONJ	c--------	_	4	cc	_	Ref=1010	or
+3	οὐκ	οὐ	ADV	d--------	_	4	advmod:neg	_	Ref=1010	not
+4	ἔδρασε	δράω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	1	conj	_	Ref=1010|SpaceAfter=No	did_she_do_it
+5	?	?	PUNCT	u--------	_	1	punct	_	Ref=1010	?
+6	μαρτυρεῖ	μαρτυρέω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	parataxis	_	Ref=1010	bears_witness
+7	δέ	δέ	CCONJ	g--------	PartType=Ptcl	6	cc	_	Ref=1010	and
+8	μοι	ἐγώ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	obl	_	Ref=1010	to_me
+9	φᾶρος	φάρος	NOUN	n-s---na-	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	Ref=1011	cloth
+10	τόδʼ	ὅδε	DET	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	det	_	Ref=1011|SpaceAfter=No	this
+11	,	,	PUNCT	u--------	_	13	punct	_	Ref=1011	,
+12	ὡς	ὡς	SCONJ	c--------	_	13	mark	_	Ref=1011	how
+13	ἔβαψεν	βάπτω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	6	advcl	_	Ref=1011	it_stained
+14	Αἰγίσθου	Αἴγισθος	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	Ref=1011	Aegisthus'
+15	ξίφος	ξίφος	NOUN	n-s---na-	Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	Ref=1011|SpaceAfter=No	sword
+16	.	.	PUNCT	u--------	_	6	punct	_	Ref=1011	.
+
+# sent_id = 535
+# text = φόνου δὲ κηκὶς ξὺν χρόνῳ ξυμβάλλεται, πολλὰς βαφὰς φθείρουσα τοῦ ποικίλματος.
+# Translation = And the gore of the blood is blended with time, destroying many dyes of the embroidered work.
+1	φόνου	φόνος	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	Ref=1012	of_blood
+2	δὲ	δέ	CCONJ	g--------	PartType=Ptcl	5	cc	_	Ref=1012	and
+3	κηκὶς	κηκίς	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	Ref=1012	gore
+4	ξὺν	σύν	ADP	r--------	_	5	case	_	Ref=1012	with
+5	χρόνῳ	χρόνος	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	0	root	_	Ref=1012	time
+6	ξυμβάλλεται	συμβάλλω	VERB	v3spie---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=MidPass	5	parataxis	_	Ref=1012|SpaceAfter=No	is_blended
+7	,	,	PUNCT	u--------	_	5	punct	_	Ref=1012	,
+8	πολλὰς	πολύς	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	9	amod	_	Ref=1013	many
+9	βαφὰς	βαφή	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	10	obj	_	Ref=1013	dyes
+10	φθείρουσα	φθείρω	VERB	v-sppafn-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	Ref=1013	destroying
+11	τοῦ	ὁ	DET	l-s---ng-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	det	_	Ref=1013	the
+12	ποικίλματος	ποίκιλμα	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	Ref=1013|SpaceAfter=No	of_the_embroidered_work
+13	.	.	PUNCT	u--------	_	6	punct	_	Ref=1013	.
+
+# sent_id = 536
+# text = νῦν αὐτὸν αἰνῶ, νῦν ἀποιμώζω παρών, πατροκτόνον θʼ ὕφασμα προσφωνῶν τόδε.
+# Translation = Now I honor him, now I lament (for him) being present, and addressing this cloth as father-killing.
+1	νῦν	νῦν	ADV	d--------	_	3	advmod	_	Ref=1014	Now
+2	αὐτὸν	αὐτός	PRON	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	3	obj	_	Ref=1014	him
+3	αἰνῶ	αἰνέω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=1014	I_honor
+4	,	,	PUNCT	u--------	_	6	punct	_	Ref=1014	,
+5	νῦν	νῦν	ADV	d--------	_	6	advmod	_	Ref=1014	now
+6	ἀποιμώζω	ἀποιμώζω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	3	conj	_	Ref=1014	I_lament
+7	παρών	πάρειμι	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	Ref=1014|SpaceAfter=No	being_present
+8	,	,	PUNCT	u--------	_	6	punct	_	Ref=1014	,
+9	πατροκτόνον	πατροκτόνος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	11	amod	_	Ref=1015	father-killing
+10	θʼ	τε	CCONJ	c--------	_	9	cc	_	Ref=1015	and
+11	ὕφασμα	ὕφασμα	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=1015	cloth
+12	προσφωνῶν	προσφωνέω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	Ref=1015	addressing
+13	τόδε	ὅδε	DET	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	11	det	_	Ref=1015|SpaceAfter=No	this
+14	.	.	PUNCT	u--------	_	3	punct	_	Ref=1015	.
+
+# sent_id = 537
+# text = ἀλγῶ μὲν ἔργα καὶ πάθος γένος τε πᾶν, ἄζηλα νίκης τῆσδʼ ἔχων μιάσματα.
+# Translation = On the one hand, I grieve for the deeds, and the suffering, and the entire family, having the unenviable pollutions of this victory.
+1	ἀλγῶ	ἀλγέω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=1016	I_grieve
+2	μὲν	μέν	ADV	g--------	PartType=Ptcl	1	advmod	_	Ref=1016	on_the_one_hand
+3	ἔργα	ἔργον	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	1	obj	_	Ref=1016	deeds
+4	καὶ	καί	CCONJ	c--------	_	5	cc	_	Ref=1016	and
+5	πάθος	πάθος	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	3	conj	_	Ref=1016	suffering
+6	γένος	γένος	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	3	conj	_	Ref=1016	family
+7	τε	τε	CCONJ	c--------	_	6	cc	_	Ref=1016	and
+8	πᾶν	πᾶς	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	6	amod	_	Ref=1016|SpaceAfter=No	entire
+9	,	,	PUNCT	u--------	_	1	punct	_	Ref=1016	,
+10	ἄζηλα	ἄζηλος	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	13	amod	_	Ref=1017	unenviable
+11	νίκης	νίκη	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	Ref=1017	of_victory
+12	τῆσδʼ	ὅδε	DET	p-s---fg-	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	11	det	_	Ref=1017	this
+13	ἔχων	ἔχω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	Ref=1017	having
+14	μιάσματα	μίασμα	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	13	obj	_	Ref=1017|SpaceAfter=No	pollutions
+15	.	.	PUNCT	u--------	_	1	punct	_	Ref=1017	.
+
+# sent_id = 538
+# text = οὔτις μερόπων ἀσινὴς βίοτον διὰ παντὸς ἀπήμονʼ ἀμείψει.
+# Translation = No mortal will pass through life entirely unharmed.
+1	οὔτις	οὔτις	PRON	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	10	nsubj	_	Ref=1018	No_one
+2	μερόπων	μέροψ	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	Ref=1018	of_mortals
+3	ἀσινὴς	ἀσινής	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	amod	_	Ref=1018	unharmed
+4	βίοτον	βίοτος	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	Ref=1018	life
+5	διὰ	διά	ADP	r--------	_	6	case	_	Ref=1019	through
+6	παντὸς	πᾶς	PRON	a-s---mg-	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	10	obl	_	Ref=1019	all_time
+7	ἀπήμονʼ	ἀπήμων	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	4	amod	_	Ref=1019	unharmed
+8	ἀμείψει	ἀμείβω	VERB	v3sfia---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	10	parataxis	_	Ref=1019|SpaceAfter=No	will_pass
+9	.	.	PUNCT	u--------	_	10	punct	_	Ref=1019	.
+10	<add>ἀμείψει</add>	ἀμείβω	VERB	v3sfia---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	0	root	_	Ref=1019	will_pass
+
+# sent_id = 539
+# text = ἒ ἔ, μόχθος δʼ ὁ μὲν αὐτίχʼ, ὁ δʼ ἥξει.
+# Translation = Ah, ah! One toil is immediately present, and another will come.
+1	ἒ	ἒ	INTJ	i--------	_	3	discourse	_	Ref=1020	ah
+2	ἔ	ἔ	INTJ	i--------	_	1	conj	_	Ref=1020|SpaceAfter=No	ah
+3	,	,	PUNCT	u--------	_	11	punct	_	Ref=1020	,
+4	μόχθος	μόχθος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	Ref=1020b	toil
+5	δʼ	δέ	CCONJ	g--------	PartType=Ptcl	11	cc	_	Ref=1020b	but
+6	ὁ	ὁ	DET	l-s---mn-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Ref=1020b	one
+7	μὲν	μέν	ADV	g--------	PartType=Ptcl	4	advmod	_	Ref=1020b	on_the_one_hand
+8	αὐτίχʼ	αὐτίκα	ADV	d--------	_	11	advmod	_	Ref=1020b	immediately
+9	,	,	PUNCT	u--------	_	11	punct	_	Ref=1020b	,
+10	ὁ	ὁ	DET	l-s---mn-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Ref=1020b	the_other
+11	δʼ	δέ	CCONJ	g--------	PartType=Ptcl	0	root	_	Ref=1020b	and
+12	ἥξει	ἥκω	VERB	v3sfia---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	11	parataxis	_	Ref=1020b|SpaceAfter=No	will_come
+13	.	.	PUNCT	u--------	_	11	punct	_	Ref=1020b	.
+
+# sent_id = 540
+# text = ἀλλʼ, ὡς ἂν εἰδῆτʼ, οὐ γὰρ οἶδʼ ὅπη τελεῖ, ὥσπερ ξὺν ἵπποις ἡνιοστροφῶ δρόμου ἐξωτέρω·
+# Translation = But, so that you may know—for I do not know where it will end—I steer like a charioteer with horses outside the course;
+1	ἀλλʼ	ἀλλά	ADV	d--------	_	10	advmod	_	Ref=1021	But
+2	,	,	PUNCT	u--------	_	5	punct	_	Ref=1021	,
+3	ὡς	ὡς	SCONJ	c--------	_	5	mark	_	Ref=1021	so_that
+4	ἂν	ἄν	ADV	g--------	PartType=Ptcl	5	advmod	_	Ref=1021	[modal]
+5	εἰδῆτʼ	οἶδα	VERB	v2prsa---	Mood=Sub|Number=Plur|Person=2|Tense=Perf|Voice=Act	10	advcl	_	Ref=1021|SpaceAfter=No	you_may_know
+6	,	,	PUNCT	u--------	_	5	punct	_	Ref=1021	,
+7	οὐ	οὐ	ADV	d--------	_	8	advmod:neg	_	Ref=1021	not
+8	γὰρ	γάρ	ADV	g--------	PartType=Ptcl	10	advmod	_	Ref=1021	for
+9	οἶδʼ	οἶδα	VERB	v1sria---	Mood=Ind|Number=Sing|Person=1|Tense=Perf|Voice=Act	10	parataxis	_	Ref=1021	I_know
+10	ὅπη	ὅπη	ADV	d--------	_	14	advcl	_	Ref=1021	where
+11	τελεῖ	τελέω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	9	ccomp	_	Ref=1021|SpaceAfter=No	it_will_end
+12	,	,	PUNCT	u--------	_	10	punct	_	Ref=1021	,
+13	ὥσπερ	ὥσπερ	ADV	d--------	_	14	mark	_	Ref=1022	as_if
+14	ξὺν	σύν	ADP	r--------	_	15	case	_	Ref=1022	with
+15	ἵπποις	ἵππος	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	17	obl	_	Ref=1022	horses
+16	ἡνιοστροφῶ	ἡνιοστροφέω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=1022	I_steer
+17	δρόμου	δρόμος	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	Ref=1023	course
+18	ἐξωτέρω	ἐξωτέρω	ADV	d--------	_	16	advmod	_	Ref=1023|SpaceAfter=No	outside
+19	·	·	PUNCT	u--------	_	16	punct	_	Ref=1023	.
+
+# sent_id = 541
+# text = φέρουσι γὰρ νικώμενον φρένες δύσαρκτοι·
+# Translation = for my ungovernable thoughts carry me away, conquered;
+1	φέρουσι	φέρω	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Ref=1023	carry_away
+2	γὰρ	γάρ	ADV	g--------	PartType=Ptcl	1	advmod	_	Ref=1023	for
+3	νικώμενον	νικάω	VERB	v-sppama-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=MidPass	1	obj	_	Ref=1023	conquered
+4	φρένες	φρήν	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	Ref=1024	thoughts
+5	δύσαρκτοι	δύσαρκτος	ADJ	a-p---fn-	Case=Nom|Gender=Fem|Number=Plur	4	amod	_	Ref=1024|SpaceAfter=No	ungovernable
+6	·	·	PUNCT	u--------	_	1	punct	_	Ref=1024	.
+
+# sent_id = 542
+# text = πρὸς δὲ καρδίᾳ φόβος ᾄδειν ἕτοιμος ἠδʼ ὑπορχεῖσθαι κότῳ.
+# Translation = and fear at my heart is ready to sing and dance beneath wrath.
+1	πρὸς	πρός	ADP	r--------	_	3	case	_	Ref=1024	at
+2	δὲ	δέ	CCONJ	g--------	PartType=Ptcl	6	cc	_	Ref=1024	and
+3	καρδίᾳ	καρδία	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	6	obl	_	Ref=1024	heart
+4	φόβος	φόβος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Ref=1024	fear
+5	ᾄδειν	ᾄδω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	6	csubj	_	Ref=1025	to_sing
+6	ἕτοιμος	ἕτοιμος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=1025	is_ready
+7	ἠδʼ	ἠδέ	CCONJ	c--------	_	8	cc	_	Ref=1025	and
+8	ὑπορχεῖσθαι	ὑπορχέομαι	VERB	v--pne---	Tense=Pres|VerbForm=Inf|Voice=MidPass	5	conj	_	Ref=1025	to_dance_beneath
+9	κότῳ	κότος	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	Ref=1025|SpaceAfter=No	wrath
+10	.	.	PUNCT	u--------	_	6	punct	_	Ref=1025	.
+
+# sent_id = 543
+# text = ἕως δʼ ἔτʼ ἔμφρων εἰμί, κηρύσσω φίλοις κτανεῖν τέ φημι μητέρʼ οὐκ ἄνευ δίκης, πατροκτόνον μίασμα καὶ θεῶν στύγος.
+# Translation = But while I am still sane, I proclaim to my friends that I killed my mother not without justice, (for she was) a father-killing pollution and a source of divine hatred.
+1	ἕως	ἕως	SCONJ	c--------	_	5	mark	_	Ref=1026	while
+2	δʼ	δέ	CCONJ	g--------	PartType=Ptcl	1	cc	_	Ref=1026	but
+3	ἔτʼ	ἔτι	ADV	d--------	_	5	advmod	_	Ref=1026	still
+4	ἔμφρων	ἔμφρων	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	xcomp	_	Ref=1026	sane
+5	εἰμί	εἰμί	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	7	advcl	_	Ref=1026|SpaceAfter=No	I_am
+6	,	,	PUNCT	u--------	_	5	punct	_	Ref=1026	,
+7	κηρύσσω	κηρύσσω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=1026	I_proclaim
+8	φίλοις	φίλος	ADJ	a-p---md-	Case=Dat|Gender=Masc|Number=Plur	7	obl	_	Ref=1026	to_my_friends
+9	κτανεῖν	κτείνω	VERB	v--ana---	VerbForm=Inf|Voice=Act	7	ccomp	_	Ref=1027	that_I_killed
+10	τέ	τε	CCONJ	c--------	_	9	cc	_	Ref=1027	and
+11	φημι	φημί	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	7	conj	_	Ref=1027	I_say
+12	μητέρʼ	μήτηρ	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	Ref=1027|SpaceAfter=No	mother
+13	οὐκ	οὐ	ADV	d--------	_	15	advmod:neg	_	Ref=1027	not
+14	ἄνευ	ἄνευ	ADP	r--------	_	15	case	_	Ref=1027	without
+15	δίκης	δίκη	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	9	obl	_	Ref=1027|SpaceAfter=No	justice
+16	,	,	PUNCT	u--------	_	9	punct	_	Ref=1027	,
+17	πατροκτόνον	πατροκτόνος	ADJ	a-s---na-	Case=Nom|Gender=Neut|Number=Sing	18	amod	_	Ref=1028	father-killing
+18	μίασμα	μίασμα	NOUN	n-s---na-	Case=Nom|Gender=Neut|Number=Sing	9	xcomp	_	Ref=1028	pollution
+19	καὶ	καί	CCONJ	c--------	_	21	cc	_	Ref=1028	and
+20	θεῶν	θεός	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	Ref=1028	of_gods
+21	στύγος	στύγος	NOUN	n-s---na-	Case=Nom|Gender=Neut|Number=Sing	18	conj	_	Ref=1028|SpaceAfter=No	hatred
+22	.	.	PUNCT	u--------	_	7	punct	_	Ref=1028	.
+
+# sent_id = 544
+# text = καὶ φίλτρα τόλμης τῆσδε πλειστηρίζομαι τὸν πυθόμαντιν Λοξίαν, χρήσαντʼ ἐμοὶ πράξαντι μὲν ταῦτʼ ἐκτὸς αἰτίας κακῆς εἶναι, παρέντα δʼ—οὐκ ἐρῶ τὴν ζημίαν· τόξῳ γὰρ οὔτις πημάτων ἐφίξεται.
+# Translation = And I call upon Loxias the Pythian prophet as my pledge for this daring deed, since he prophesied to me that by doing these things I would be outside of evil accusation, but if I neglected (it)—I will not speak the penalty; for no one will escape the bow of sorrows.
+1	καὶ	καί	CCONJ	c--------	_	6	cc	_	Ref=1029	And
+2	φίλτρα	φίλτρον	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	6	obj	_	Ref=1029	pledge
+3	τόλμης	τόλμα	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	Ref=1029	of_daring
+4	τῆσδε	ὅδε	DET	p-s---fg-	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	Ref=1029	this
+5	πλειστηρίζομαι	πλειστηρίζομαι	VERB	v1spie---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=MidPass	0	root	_	Ref=1029	I_call_upon
+6	τὸν	ὁ	DET	l-s---ma-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Ref=1030	the
+7	πυθόμαντιν	πυθόμαντις	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	8	amod	_	Ref=1030	Pythian_prophet
+8	Λοξίαν	Λοξίας	PROPN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	Ref=1030|SpaceAfter=No	Loxias
+9	,	,	PUNCT	u--------	_	10	punct	_	Ref=1030	,
+10	χρήσαντʼ	χράω	VERB	v-sapamn-	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	8	acl	_	Ref=1030|SpaceAfter=No	prophesied
+11	ἐμοὶ	ἐγώ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	10	iobj	_	Ref=1030	to_me
+12	πράξαντι	πράσσω	VERB	v-sapamd-	Case=Dat|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	20	advcl	_	Ref=1031	by_doing
+13	μὲν	μέν	ADV	g--------	PartType=Ptcl	12	advmod	_	Ref=1031	on_the_one_hand
+14	ταῦτʼ	οὗτος	PRON	a-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	12	obj	_	Ref=1031	these_things
+15	ἐκτὸς	ἐκτός	ADP	r--------	_	16	case	_	Ref=1031	outside_of
+16	αἰτίας	αἰτία	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	20	obl	_	Ref=1031	accusation
+17	κακῆς	κακός	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	16	amod	_	Ref=1031	evil
+18	εἶναι	εἰμί	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	20	xcomp	_	Ref=1032|SpaceAfter=No	to_be
+19	,	,	PUNCT	u--------	_	20	punct	_	Ref=1032	,
+20	παρέντα	παρίημι	VERB	v-sapama-	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	5	advcl	_	Ref=1032	but_if_I_neglected
+21	δʼ	δέ	CCONJ	g--------	PartType=Ptcl	20	cc	_	Ref=1032|SpaceAfter=No	but
+22	—	—	PUNCT	u--------	_	24	punct	_	Ref=1032	—
+23	οὐκ	οὐ	ADV	d--------	_	24	advmod:neg	_	Ref=1032	not
+24	ἐρῶ	ἐρῶ	VERB	v1sfia---	Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act	20	parataxis	_	Ref=1032	I_will_speak
+25	τὴν	ὁ	DET	l-s---fa-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	Ref=1032	the
+26	ζημίαν	ζημία	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	24	obj	_	Ref=1032|SpaceAfter=No	penalty
+27	·	·	PUNCT	u--------	_	20	punct	_	Ref=1032	.
+28	τόξῳ	τόξον	NOUN	n-s---nd-	Case=Dat|Gender=Neut|Number=Sing	31	obl	_	Ref=1033	bow
+29	γὰρ	γάρ	ADV	g--------	PartType=Ptcl	31	advmod	_	Ref=1033	for
+30	οὔτις	οὔτις	PRON	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	31	nsubj	_	Ref=1033	no_one
+31	πημάτων	πῆμα	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	20	conj	_	Ref=1033	of_sorrows
+32	ἐφίξεται	ἐφικνέομαι	VERB	v3sfie---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=MidPass	31	parataxis	_	Ref=1033|SpaceAfter=No	will_escape
+33	.	.	PUNCT	u--------	_	31	punct	_	Ref=1033	.
+
+# sent_id = 545
+# text = καὶ νῦν ὁρᾶτέ μʼ, ὡς παρεσκευασμένος ξὺν τῷδε θαλλῷ καὶ στέφει προσίξομαι μεσόμφαλόν θʼ ἵδρυμα, Λοξίου πέδον, πυρός τε φέγγος ἄφθιτον κεκλημένον, φεύγων τόδʼ αἷμα κοινόν·
+# Translation = And now see me, how I will come, prepared with this branch and wreath, to the central shrine, the ground of Loxias, which is called the immortal light of fire, fleeing this shared blood;
+1	καὶ	καί	CCONJ	c--------	_	3	cc	_	Ref=1034	And
+2	νῦν	νῦν	ADV	d--------	_	3	advmod	_	Ref=1034	now
+3	ὁρᾶτέ	ὁράω	VERB	v2ppma---	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=1034	see
+4	μʼ	ἐγώ	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing|Person=1|PronType=Prs	3	obj	_	Ref=1034|SpaceAfter=No	me
+5	,	,	PUNCT	u--------	_	3	punct	_	Ref=1034	,
+6	ὡς	ὡς	SCONJ	c--------	_	17	mark	_	Ref=1034	how
+7	παρεσκευασμένος	παρασκευάζω	VERB	v-srpemn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Perf|VerbForm=Part|Voice=MidPass	17	advcl:comp	_	Ref=1034	prepared
+8	ξὺν	σύν	ADP	r--------	_	10	case	_	Ref=1035	with
+9	τῷδε	ὅδε	DET	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	Ref=1035	this
+10	θαλλῷ	θαλλός	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	Ref=1035	branch
+11	καὶ	καί	CCONJ	c--------	_	12	cc	_	Ref=1035	and
+12	στέφει	στέφος	NOUN	n-s---nd-	Case=Dat|Gender=Neut|Number=Sing	10	conj	_	Ref=1035	wreath
+13	προσιξομαι	προσεικνέομαι	VERB	v1sfie---	Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=MidPass	17	parataxis	_	Ref=1035	I_will_come
+14	μεσόμφαλόν	μεσόμφαλος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	17	amod	_	Ref=1036	central
+15	θʼ	τε	CCONJ	c--------	_	17	cc	_	Ref=1036	and
+16	ἵδρυμα	ἵδρυμα	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	17	obj	_	Ref=1036	shrine
+17	Λοξίου	Λοξίας	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	3	ccomp	_	Ref=1036	of_Loxias
+18	πέδον	πέδον	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	16	appos	_	Ref=1036|SpaceAfter=No	ground
+19	,	,	PUNCT	u--------	_	17	punct	_	Ref=1036	,
+20	πυρός	πῦρ	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	Ref=1037	of_fire
+21	τε	τε	CCONJ	c--------	_	22	cc	_	Ref=1037	and
+22	φέγγος	φέγγος	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	25	obj	_	Ref=1037	light
+23	ἄφθιτον	ἄφθιτος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	22	amod	_	Ref=1037	immortal
+24	κεκλημένον	καλέω	VERB	v-srpema-	Case=Acc|Gender=Masc|Number=Sing|Tense=Perf|VerbForm=Part|Voice=MidPass	22	acl	_	Ref=1037	called
+25	φεύγων	φεύγω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	17	advcl	_	Ref=1038	fleeing
+26	τόδʼ	ὅδε	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	27	det	_	Ref=1038	this
+27	αἷμα	αἷμα	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	25	obj	_	Ref=1038	blood
+28	κοινόν	κοινός	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	27	amod	_	Ref=1038|SpaceAfter=No	shared
+29	·	·	PUNCT	u--------	_	17	punct	_	Ref=1038	.
+
+# sent_id = 546
+# text = οὐδʼ ἐφʼ ἑστίαν ἄλλην τραπέσθαι Λοξίας ἐφίετο.
+# Translation = Nor did Loxias command me to turn to another hearth.
+1	οὐδʼ	οὐδέ	CCONJ	c--------	_	4	advmod	_	Ref=1038	Nor
+2	ἐφʼ	ἐπί	ADP	r--------	_	3	case	_	Ref=1038	to
+3	ἑστίαν	ἑστία	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	Ref=1038	hearth
+4	ἄλλην	ἄλλος	PRON	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	5	amod	_	Ref=1039	another
+5	τραπέσθαι	τρέπω	VERB	v--anp---	VerbForm=Inf|Voice=Pass	0	root	_	Ref=1039	to_turn
+6	Λοξίας	Λοξίας	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Ref=1039	Loxias
+7	ἐφίετο	ἐφίημι	VERB	v3siim---	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Voice=Mid	5	parataxis	_	Ref=1039|SpaceAfter=No	commanded
+8	.	.	PUNCT	u--------	_	7	punct	_	Ref=1039	.
+
+# sent_id = 547
+# text = καὶ μαρτυρεῖν μὲν ὡς ἐπορσύνθη κακὰ τάδʼ ἐν χρόνῳ μοι πάντας Ἀργείους λέγω·
+# Translation = And I call upon all Argives to bear witness that these evils were brought about for me in time;
+1	καὶ	καί	CCONJ	c--------	_	10	cc	_	Ref=1041	And
+2	μαρτυρεῖν	μαρτυρέω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	10	ccomp	_	Ref=1041	to_bear_witness
+3	μὲν	μέν	ADV	g--------	PartType=Ptcl	2	advmod	_	Ref=1041	indeed
+4	ὡς	ὡς	SCONJ	c--------	_	5	mark	_	Ref=1041	that
+5	ἐπορσύνθη	πορσύνω	VERB	v3saim---	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Mid	2	advcl	_	Ref=1041	were_brought_about
+6	κακὰ	κακός	ADJ	a-p---na-	Case=Nom|Gender=Neut|Number=Plur	8	amod	_	Ref=1041	evils
+7	τάδʼ	ὅδε	PRON	p-p---na-	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	8	det	_	Ref=1041	these
+8	ἐν	ἐν	ADP	r--------	_	9	case	_	Ref=1041	in
+9	χρόνῳ	χρόνος	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	5	obl	_	Ref=1041	time
+10	μοι	ἐγώ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	11	obl	_	Ref=1041	for_me
+11	πάντας	πᾶς	PRON	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur|PronType=Ind	12	obj	_	Ref=1040	all
+12	Ἀργείους	Ἀργεῖος	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	11	amod	_	Ref=1040	Argives
+13	λέγω	λέγω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=1040|SpaceAfter=No	I_call_upon
+14	·	·	PUNCT	u--------	_	13	punct	_	Ref=1040	.
+
+# sent_id = 548
+# text = ἐγὼ δʼ ἀλήτης τῆσδε γῆς ἀπόξενος, ζῶν καὶ τεθνηκὼς τάσδε κληδόνας λιπών.
+# Translation = and I (am) a wanderer, an exile from this land, leaving these tidings, living and having died.
+1	ἐγὼ	ἐγώ	PRON	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing|Person=1|PronType=Prs	0	root	_	Ref=1042	I
+2	δʼ	δέ	CCONJ	g--------	PartType=Ptcl	1	cc	_	Ref=1042	and
+3	ἀλήτης	ἀλήτης	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	xcomp	_	Ref=1042	wanderer
+4	τῆσδε	ὅδε	DET	p-s---fg-	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	Ref=1042	this
+5	γῆς	γῆ	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	Ref=1042	land
+6	ἀπόξενος	ἀπόξενος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	Ref=1042|SpaceAfter=No	exile
+7	,	,	PUNCT	u--------	_	6	punct	_	Ref=1042	,
+8	ζῶν	ζάω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	11	advcl	_	Ref=1043	living
+9	καὶ	καί	CCONJ	c--------	_	10	cc	_	Ref=1043	and
+10	τεθνηκὼς	θνήσκω	VERB	v-srpamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Perf|VerbForm=Part|Voice=Act	8	conj	_	Ref=1043	having_died
+11	τάσδε	ὅδε	DET	p-p---fa-	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	12	det	_	Ref=1043	these
+12	κληδόνας	κληδών	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	11	obj	_	Ref=1043	tidings
+13	λιπών	λείπω	VERB	v-sapamn-	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	11	acl	_	Ref=1043|SpaceAfter=No	leaving
+14	.	.	PUNCT	u--------	_	1	punct	_	Ref=1043	.
+
+# sent_id = 549
+# text = ἀλλʼ εὖ γʼ ἔπραξας, μηδʼ ἐπιζευχθῇς στόμα φήμῃ πονηρᾷ μηδʼ ἐπιγλωσσῶ κακά, ἐλευθερώσας πᾶσαν Ἀργείων πόλιν, δυοῖν δρακόντοιν εὐπετῶς τεμὼν κάρα.
+# Translation = But you have done well indeed; do not bridle your mouth with an evil word, nor speak evil words, having freed the whole city of the Argives, easily cutting off the heads of two serpents.
+1	ἀλλʼ	ἀλλά	ADV	d--------	_	4	advmod	_	Ref=1044	But
+2	εὖ	εὖ	ADV	d--------	_	4	advmod	_	Ref=1044	well
+3	γʼ	γε	ADV	g--------	PartType=Ptcl	2	advmod	_	Ref=1044	indeed
+4	ἔπραξας	πράσσω	VERB	v2saia---	Mood=Ind|Number=Sing|Person=2|Tense=Past|Voice=Act	0	root	_	Ref=1044	you_have_done
+5	,	,	PUNCT	u--------	_	7	punct	_	Ref=1044	,
+6	μηδʼ	μηδέ	CCONJ	c--------	_	7	advmod	_	Ref=1044	do_not
+7	ἐπιζευχθῇς	ἐπιζεύγνυμι	VERB	v2saps---	Mood=Sub|Number=Sing|Person=2|Tense=Past|Voice=Pass	4	conj	_	Ref=1044	bridle
+8	στόμα	στόμα	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Ref=1044	mouth
+9	φήμῃ	φήμη	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	7	obl	_	Ref=1045	with_a_word
+10	πονηρᾷ	πονηρός	ADJ	a-s---fd-	Case=Dat|Gender=Fem|Number=Sing	9	amod	_	Ref=1045	evil
+11	μηδʼ	μηδέ	CCONJ	c--------	_	12	advmod	_	Ref=1045	nor
+12	ἐπιγλωσσῶ	ἐπιγλωσσάομαι	VERB	v2spme---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=MidPass	7	conj	_	Ref=1045	speak
+13	κακά	κακός	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	12	obj	_	Ref=1045|SpaceAfter=No	evil_words
+14	,	,	PUNCT	u--------	_	12	punct	_	Ref=1045	,
+15	ἐλευθερώσας	ἐλευθερόω	VERB	v-sapamn-	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	4	advcl	_	Ref=1046	having_freed
+16	πᾶσαν	πᾶς	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	19	amod	_	Ref=1046	whole
+17	Ἀργείων	Ἀργεῖος	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	18	amod	_	Ref=1046	of_the_Argives
+18	πόλιν	πόλις	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	15	obj	_	Ref=1046|SpaceAfter=No	city
+19	,	,	PUNCT	u--------	_	15	punct	_	Ref=1046	,
+20	δυοῖν	δύο	X	m--------	_	21	nummod	_	Ref=1047	of_two
+21	δρακόντοιν	δράκων	NOUN	n-d---mg-	Case=Gen|Gender=Masc|Number=Dual	23	nmod	_	Ref=1047	serpents
+22	εὐπετῶς	εὐπετῶς	ADV	d--------	_	23	advmod	_	Ref=1047	easily
+23	τεμὼν	τέμνω	VERB	v-sapamn-	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	15	advcl	_	Ref=1047	cutting_off
+24	κάρα	κάρα	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	23	obj	_	Ref=1047|SpaceAfter=No	heads
+25	.	.	PUNCT	u--------	_	4	punct	_	Ref=1047	.
+
+# sent_id = 550
+# text = ἆ, ἆ.
+# Translation = Ah, ah!
+1	ἆ	ἆ	INTJ	i--------	_	0	root	_	Ref=1048	Ah
+2	,	,	PUNCT	u--------	_	1	punct	_	Ref=1048	,
+3	ἆ	ἆ	INTJ	i--------	_	1	conj	_	Ref=1048|SpaceAfter=No	ah
+4	.	.	PUNCT	u--------	_	1	punct	_	Ref=1048	.
+
+# sent_id = 551
+# text = δμωαὶ γυναῖκες, αἵδε Γοργόνων δίκην φαιοχίτωνες καὶ πεπλεκτανημέναι πυκνοῖς δράκουσιν· οὐκέτʼ ἂν μείναιμʼ ἐγώ.
+# Translation = Servant women! These, like Gorgons, clad in dusky robes and wreathed with thick serpents—I could not stay any longer.
+1	δμωαὶ	δμωή	NOUN	n-p---fv-	Case=Voc|Gender=Fem|Number=Plur	11	vocative	_	Ref=1048b	Servant_women
+2	γυναῖκες	γυνή	NOUN	n-p---fv-	Case=Voc|Gender=Fem|Number=Plur	1	conj	_	Ref=1048b|SpaceAfter=No	women
+3	,	,	PUNCT	u--------	_	1	punct	_	Ref=1048b	,
+4	αἵδε	ὅδε	PRON	p-p---fn-	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	1	parataxis	_	Ref=1048b	these
+5	Γοργόνων	Γοργών	PROPN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	Ref=1048b	of_Gorgons
+6	δίκην	δίκη	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	Ref=1048b	like
+7	φαιοχίτωνες	φαιοχίτων	ADJ	a-p---fn-	Case=Nom|Gender=Fem|Number=Plur	4	xcomp	_	Ref=1049	clad_in_dusky_robes
+8	καὶ	καί	CCONJ	c--------	_	9	cc	_	Ref=1049	and
+9	πεπλεκτανημέναι	πλεκτανόομαι	VERB	v-prpefn-	Case=Nom|Gender=Fem|Number=Plur|Tense=Perf|VerbForm=Part|Voice=MidPass	7	conj	_	Ref=1049	wreathed
+10	πυκνοῖς	πυκνός	ADJ	a-p---md-	Case=Dat|Gender=Masc|Number=Plur	11	amod	_	Ref=1050	thick
+11	δράκουσιν	δράκων	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	9	obl	_	Ref=1050|SpaceAfter=No	serpents
+12	·	·	PUNCT	u--------	_	14	punct	_	Ref=1050	.
+13	οὐκέτʼ	οὐκέτι	ADV	d--------	_	14	advmod	_	Ref=1050	not_longer
+14	ἂν	ἄν	ADV	g--------	PartType=Ptcl	0	root	_	Ref=1050	[modal]
+15	μείναιμʼ	μένω	VERB	v1saoa---	Mood=Opt|Number=Sing|Person=1|Tense=Past|Voice=Act	14	parataxis	_	Ref=1050|SpaceAfter=No	I_could_stay
+16	ἐγώ	ἐγώ	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	Ref=1050|SpaceAfter=No	I
+17	.	.	PUNCT	u--------	_	14	punct	_	Ref=1050	.
+
+# sent_id = 552
+# text = τίνες σε δόξαι, φίλτατʼ ἀνθρώπων πατρί, στροβοῦσιν? ἴσχε, μὴ φόβου νικῶ πολύ.
+# Translation = What fancies, dearest to your father of men, distract you? Stop, don't let fear quite overcome you.
+1	τίνες	τίς	PRON	a-p---fn-	Case=Nom|Gender=Fem|Number=Plur|PronType=Int	3	det	_	Ref=1051	What
+2	σε	σύ	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obj	_	Ref=1051	you
+3	δόξαι	δόξα	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	Ref=1051	fancies
+4	,	,	PUNCT	u--------	_	3	punct	_	Ref=1051	,
+5	φίλτατʼ	φίλτατος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing|Degree=Sup	1	amod	_	Ref=1051|SpaceAfter=No	dearest
+6	ἀνθρώπων	ἄνθρωπος	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	Ref=1051	of_men
+7	πατρί	πατήρ	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	5	nmod	_	Ref=1051|SpaceAfter=No	to_your_father
+8	,	,	PUNCT	u--------	_	5	punct	_	Ref=1051	,
+9	στροβοῦσιν	στροβέω	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Ref=1052|SpaceAfter=No	distract
+10	?	?	PUNCT	u--------	_	9	punct	_	Ref=1052	?
+11	ἴσχε	ἴσχω	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	9	parataxis	_	Ref=1052	Stop
+12	,	,	PUNCT	u--------	_	11	punct	_	Ref=1052	,
+13	μὴ	μή	ADV	c--------	_	15	advmod:neg	_	Ref=1052	don't
+14	φόβου	φόβος	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	15	obl	_	Ref=1052	fear
+15	νικῶ	νικάω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	11	conj	_	Ref=1052	overcome
+16	πολύ	πολύς	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	15	advmod	_	Ref=1052|SpaceAfter=No	quite
+17	.	.	PUNCT	u--------	_	9	punct	_	Ref=1052	.
+
+# sent_id = 553
+# text = οὐκ εἰσὶ δόξαι τῶνδε πημάτων ἐμοί· σαφῶς γὰρ αἵδε μητρὸς ἔγκοτοι κύνες.
+# Translation = These are not fancies from my afflictions; for these are clearly the vengeful hounds of my mother.
+1	οὐκ	οὐ	ADV	d--------	_	2	advmod:neg	_	Ref=1053	not
+2	εἰσὶ	εἰμί	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Ref=1053	These_are
+3	δόξαι	δόξα	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	Ref=1053	fancies
+4	τῶνδε	ὅδε	DET	p-p---ng-	Case=Gen|Gender=Neut|Number=Plur|PronType=Dem	5	det	_	Ref=1053	these
+5	πημάτων	πῆμα	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	Ref=1053	afflictions
+6	ἐμοί	ἐγώ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	2	obl	_	Ref=1053|SpaceAfter=No	to_me
+7	·	·	PUNCT	u--------	_	2	punct	_	Ref=1053	.
+8	σαφῶς	σαφής	ADV	d--------	_	12	advmod	_	Ref=1054	clearly
+9	γὰρ	γάρ	ADV	g--------	PartType=Ptcl	12	advmod	_	Ref=1054	for
+10	αἵδε	ὅδε	PRON	p-p---fn-	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	12	nsubj	_	Ref=1054	these
+11	μητρὸς	μήτηρ	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	Ref=1054	mother's
+12	ἔγκοτοι	ἔγκοτος	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	2	parataxis	_	Ref=1054	vengeful
+13	κύνες	κύων	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	12	nsubj	_	Ref=1054|SpaceAfter=No	hounds
+14	.	.	PUNCT	u--------	_	2	punct	_	Ref=1054	.
+
+# sent_id = 554
+# text = ποταίνιον γὰρ αἷμά σοι χεροῖν ἔτι· ἐκ τῶνδέ τοι ταραγμὸς ἐς φρένας πίτνει.
+# Translation = For the blood on your hands is still fresh; truly from this disturbance falls into your mind.
+1	ποταίνιον	ποταίνιος	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	Ref=1055	fresh
+2	γὰρ	γάρ	ADV	g--------	PartType=Ptcl	5	advmod	_	Ref=1055	for
+3	αἷμά	αἷμα	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	1	appos	_	Ref=1055	blood
+4	σοι	σύ	PRON	p-s----d-	Case=Dat|Number=Sing|Person=2|PronType=Prs	5	obl	_	Ref=1055	on_you
+5	χεροῖν	χείρ	NOUN	n-d---fd-	Case=Gen|Gender=Fem|Number=Dual	0	root	_	Ref=1055	hands
+6	ἔτι	ἔτι	ADV	d--------	_	5	advmod	_	Ref=1055|SpaceAfter=No	still
+7	·	·	PUNCT	u--------	_	5	punct	_	Ref=1055	.
+8	ἐκ	ἐκ	ADP	r--------	_	9	case	_	Ref=1056	From
+9	τῶνδέ	ὅδε	PRON	p-p---ng-	Case=Gen|Gender=Neut|Number=Plur|PronType=Dem	14	obl	_	Ref=1056	these_things
+10	τοι	τοι	ADV	g--------	PartType=Ptcl	14	advmod	_	Ref=1056	truly
+11	ταραγμὸς	ταραγμός	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	Ref=1056	disturbance
+12	ἐς	εἰς	ADP	r--------	_	13	case	_	Ref=1056	into
+13	φρένας	φρήν	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	14	obl	_	Ref=1056	mind
+14	πίτνει	πίτνω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	5	parataxis	_	Ref=1056|SpaceAfter=No	falls
+15	.	.	PUNCT	u--------	_	5	punct	_	Ref=1056	.
+
+# sent_id = 555
+# text = ἄναξ Ἄπολλον, αἵδε πληθύουσι δή, κἀξ ὀμμάτων στάζουσιν αἷμα δυσφιλές.
+# Translation = Lord Apollo, these are numerous indeed, and from their eyes they drip hateful blood.
+1	ἄναξ	ἄναξ	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	Ref=1057	Lord
+2	Ἄπολλον	Ἀπόλλων	PROPN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	1	conj	_	Ref=1057|SpaceAfter=No	Apollo
+3	,	,	PUNCT	u--------	_	2	punct	_	Ref=1057	,
+4	αἵδε	ὅδε	PRON	p-p---fn-	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	5	nsubj	_	Ref=1057	these
+5	πληθύουσι	πληθύω	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Ref=1057	are_numerous
+6	δή	δή	ADV	g--------	PartType=Ptcl	5	advmod	_	Ref=1057|SpaceAfter=No	indeed
+7	,	,	PUNCT	u--------	_	5	punct	_	Ref=1057	,
+8	κἀξ	καί	CCONJ	c--------	_	10	cc	_	Ref=1058	and
+9	ὀμμάτων	ὄμμα	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	10	obl	_	Ref=1058	from_eyes
+10	στάζουσιν	στάζω	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	5	conj	_	Ref=1058	they_drip
+11	αἷμα	αἷμα	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	Ref=1058	blood
+12	δυσφιλές	δυσφιλής	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	11	amod	_	Ref=1058|SpaceAfter=No	hateful
+13	.	.	PUNCT	u--------	_	5	punct	_	Ref=1058	.
+
+# sent_id = 556
+# text = εἷς σοὶ καθαρμός· Λοξίας δὲ προσθιγὼν ἐλεύθερόν σε τῶνδε πημάτων κτίσει.
+# Translation = There is one purification for you; and Loxias, by touching you, will make you free from these sufferings.
+1	εἷς	εἷς	NUM	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nummod	_	Ref=1059	one
+2	σοὶ	σύ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	Ref=1059	for_you
+3	καθαρμός	καθαρμός	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=1059|SpaceAfter=No	purification
+4	·	·	PUNCT	u--------	_	3	punct	_	Ref=1059	.
+5	Λοξίας	Λοξίας	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	Ref=1059	Loxias
+6	δὲ	δέ	CCONJ	g--------	PartType=Ptcl	12	cc	_	Ref=1059	and
+7	προσθιγὼν	προσθιγγάνω	VERB	v-sapamn-	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	12	advcl	_	Ref=1059	by_touching
+8	ἐλεύθερόν	ἐλεύθερος	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	12	xcomp	_	Ref=1060	free
+9	σε	σύ	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	obj	_	Ref=1060	you
+10	τῶνδε	ὅδε	DET	p-p---ng-	Case=Gen|Gender=Neut|Number=Plur|PronType=Dem	11	det	_	Ref=1060	these
+11	πημάτων	πῆμα	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	Ref=1060	sufferings
+12	κτίσει	κτίζω	VERB	v3sfia---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	3	conj	_	Ref=1060|SpaceAfter=No	will_make
+13	.	.	PUNCT	u--------	_	3	punct	_	Ref=1060	.
+
+# sent_id = 557
+# text = ὑμεῖς μὲν οὐχ ὁρᾶτε τάσδʼ, ἐγὼ δʼ ὁρῶ· ἐλαύνομαι δὲ κοὐκέτʼ ἂν μείναιμʼ ἐγὼ.
+# Translation = You all do not see these women, but I see; and I am driven away, and I could not stay any longer.
+1	ὑμεῖς	σύ	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Ref=1061	You_all
+2	μὲν	μέν	ADV	g--------	PartType=Ptcl	4	advmod	_	Ref=1061	on_the_one_hand
+3	οὐχ	οὐ	ADV	d--------	_	4	advmod:neg	_	Ref=1061	not
+4	ὁρᾶτε	ὁράω	VERB	v2ppia---	Mood=Ind|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=1061	see
+5	τάσδʼ	ὅδε	PRON	p-p---fa-	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	4	obj	_	Ref=1061|SpaceAfter=No	these_women
+6	,	,	PUNCT	u--------	_	4	punct	_	Ref=1061	,
+7	ἐγὼ	ἐγώ	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Ref=1061	I
+8	δʼ	δέ	CCONJ	g--------	PartType=Ptcl	9	cc	_	Ref=1061	but
+9	ὁρῶ	ὁράω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	4	conj	_	Ref=1061|SpaceAfter=No	see
+10	·	·	PUNCT	u--------	_	4	punct	_	Ref=1061	.
+11	ἐλαύνομαι	ἐλαύνω	VERB	v1spie---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=MidPass	4	parataxis	_	Ref=1062	I_am_driven_away
+12	δὲ	δέ	CCONJ	g--------	PartType=Ptcl	11	cc	_	Ref=1062	and
+13	κοὐκέτʼ	οὐκέτι	ADV	d--------	_	15	advmod	_	Ref=1062	not_longer
+14	ἂν	ἄν	ADV	g--------	PartType=Ptcl	15	advmod	_	Ref=1062	[modal]
+15	μείναιμʼ	μένω	VERB	v1saoa---	Mood=Opt|Number=Sing|Person=1|Tense=Past|Voice=Act	11	conj	_	Ref=1062|SpaceAfter=No	I_could_stay
+16	ἐγὼ	ἐγώ	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	Ref=1062|SpaceAfter=No	I
+17	.	.	PUNCT	u--------	_	11	punct	_	Ref=1062	.
+
+# sent_id = 558
+# text = ἀλλʼ εὐτυχοίης, καί σʼ ἐποπτεύων πρόφρων θεὸς φυλάσσοι καιρίοισι συμφοραῖς.
+# Translation = But may you be fortunate, and may the benevolent god, watching over you, guard you against timely misfortunes.
+1	ἀλλʼ	ἀλλά	ADV	d--------	_	2	advmod	_	Ref=1063	But
+2	εὐτυχοίης	εὐτυχέω	VERB	v2spoa---	Mood=Opt|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=1063|SpaceAfter=No	may_you_be_fortunate
+3	,	,	PUNCT	u--------	_	2	punct	_	Ref=1063	,
+4	καί	καί	CCONJ	c--------	_	10	cc	_	Ref=1063	and
+5	σʼ	σύ	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	obj	_	Ref=1063|SpaceAfter=No	you
+6	ἐποπτεύων	ἐποπτεύω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	_	Ref=1063	watching_over
+7	πρόφρων	πρόφρων	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	amod	_	Ref=1063	benevolent
+8	θεὸς	θεός	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Ref=1064	god
+9	φυλάσσοι	φυλάσσω	VERB	v3spoa---	Mood=Opt|Number=Sing|Person=3|Tense=Pres|Voice=Act	10	parataxis	_	Ref=1064	may_he_guard
+10	καιρίοισι	καίριος	ADJ	a-p---fd-	Case=Dat|Gender=Fem|Number=Plur	2	conj	_	Ref=1064	timely
+11	συμφοραῖς	συμφορά	NOUN	n-p---fd-	Case=Dat|Gender=Fem|Number=Plur	10	nmod	_	Ref=1064|SpaceAfter=No	misfortunes
+12	.	.	PUNCT	u--------	_	2	punct	_	Ref=1064	.
+
+# sent_id = 559
+# text = ὅδε τοι μελάθροις τοῖς βασιλείοις τρίτος αὖ χειμὼν πνεύσας γονίας ἐτελέσθη.
+# Translation = Lo, this is the third storm to blow upon the royal halls, which has been completed by kindred (murder).
+1	ὅδε	ὅδε	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	10	nsubj	_	Ref=1065	Lo,_this
+2	τοι	τοι	ADV	g--------	PartType=Ptcl	10	advmod	_	Ref=1065	indeed
+3	μελάθροις	μέλαθρον	NOUN	n-p---nd-	Case=Dat|Gender=Neut|Number=Plur	10	obl	_	Ref=1065	on_the_halls
+4	τοῖς	ὁ	DET	l-p---nd-	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	6	det	_	Ref=1065	the
+5	βασιλείοις	βασίλειος	ADJ	a-p---nd-	Case=Dat|Gender=Neut|Number=Plur	3	amod	_	Ref=1065	royal
+6	τρίτος	τρίτος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	10	amod	_	Ref=1066	third
+7	αὖ	αὖ	ADV	d--------	_	10	advmod	_	Ref=1066	again
+8	χειμὼν	χειμών	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Ref=1066	storm
+9	πνεύσας	πνέω	VERB	v-sapamn-	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	10	advcl	_	Ref=1067	blowing
+10	γονίας	γονία	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	Ref=1067	kindred
+11	ἐτελέσθη	τελέω	VERB	v3saip---	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	Ref=1067|SpaceAfter=No	has_been_completed
+12	.	.	PUNCT	u--------	_	11	punct	_	Ref=1067	.
+
+# sent_id = 560
+# text = παιδοβόροι μὲν πρῶτον ὑπῆρξαν μόχθοι τάλανές·
+# Translation = First, indeed, child-slaying troubles were the origin;
+1	παιδοβόροι	παιδοβόρος	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	5	amod	_	Ref=1068	child-slaying
+2	μὲν	μέν	ADV	g--------	PartType=Ptcl	5	advmod	_	Ref=1068	indeed
+3	πρῶτον	πρῶτος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	5	advmod	_	Ref=1068	first
+4	ὑπῆρξαν	ὑπάρχω	VERB	v3paia---	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	Ref=1068	were_the_origin
+5	μόχθοι	μόχθος	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	Ref=1069	troubles
+6	τάλανές	τάλας	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	5	amod	_	Ref=1069|SpaceAfter=No	wretched
+7	·	·	PUNCT	u--------	_	4	punct	_	Ref=1069	.
+
+# sent_id = 561
+# text = δεύτερον ἀνδρὸς βασίλεια πάθη·
+# Translation = second, the royal sufferings of the man (Agamemnon);
+1	δεύτερον	δεύτερος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	0	root	_	Ref=1070	second
+2	ἀνδρὸς	ἀνήρ	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	Ref=1070	of_the_man
+3	βασίλεια	βασίλειος	ADJ	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	4	amod	_	Ref=1070	royal
+4	πάθη	πάθος	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	Ref=1070|SpaceAfter=No	sufferings
+5	·	·	PUNCT	u--------	_	1	punct	_	Ref=1070	.
+
+# sent_id = 562
+# text = λουτροδάικτος δʼ ὤλετʼ Ἀχαιῶν πολέμαρχος ἀνήρ·
+# Translation = and the war-chief of the Achaeans perished, slain at the bath;
+1	λουτροδάικτος	λουτροδάικτος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	Ref=1071	slain_at_the_bath
+2	δʼ	δέ	CCONJ	g--------	PartType=Ptcl	3	cc	_	Ref=1071	and
+3	ὤλετʼ	ὄλλυμι	VERB	v3saim---	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Mid	0	root	_	Ref=1071|SpaceAfter=No	perished
+4	Ἀχαιῶν	Ἀχαιός	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	5	amod	_	Ref=1071	of_the_Achaeans
+5	πολέμαρχος	πολέμαρχος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Ref=1072	war-chief
+6	ἀνήρ	ἀνήρ	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	Ref=1072|SpaceAfter=No	man
+7	·	·	PUNCT	u--------	_	3	punct	_	Ref=1072	.
+
+# sent_id = 563
+# text = νῦν δʼ αὖ τρίτος ἦλθέ ποθεν σωτήρ, ἢ μόρον εἴπω;
+# Translation = But now again a third savior has come from somewhere, or shall I call it death?
+1	νῦν	νῦν	ADV	d--------	_	4	advmod	_	Ref=1073	Now
+2	δʼ	δέ	CCONJ	g--------	PartType=Ptcl	4	cc	_	Ref=1073	but
+3	αὖ	αὖ	ADV	d--------	_	4	advmod	_	Ref=1073	again
+4	τρίτος	τρίτος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	amod	_	Ref=1073	a_third
+5	ἦλθέ	ἔρχομαι	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	Ref=1073	has_come
+6	ποθεν	ποθέν	ADV	d--------	_	5	advmod	_	Ref=1073	from_somewhere
+7	σωτήρ	σωτήρ	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Ref=1073|SpaceAfter=No	savior
+8	,	,	PUNCT	u--------	_	10	punct	_	Ref=1074	,
+9	ἢ	ἤ	CCONJ	c--------	_	10	cc	_	Ref=1074	or
+10	μόρον	μόρος	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	5	conj	_	Ref=1074	death
+11	εἴπω	εἶπον	VERB	v1sasa---	Mood=Sub|Number=Sing|Person=1|Tense=Past|Voice=Act	10	parataxis	_	Ref=1074|SpaceAfter=No	shall_I_call_it
+12	?	?	PUNCT	u--------	_	5	punct	_	Ref=1074	?
+
+# sent_id = 564
+# text = ποῖ δῆτα κρανεῖ, ποῖ καταλήξει μετακοιμισθὲν μένος ἄτης?
+# Translation = Where then will it end, where will the rage of Ruin cease, having been calmed?
+1	ποῖ	ποῖ	ADV	d--------	_	3	advmod	_	Ref=1075	Where
+2	δῆτα	δῆτα	ADV	d--------	PartType=Ptcl	3	advmod	_	Ref=1075	then
+3	κρανεῖ	κραίνω	VERB	v3sfia---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	0	root	_	Ref=1075|SpaceAfter=No	will_it_end
+4	,	,	PUNCT	u--------	_	3	punct	_	Ref=1075	,
+5	ποῖ	ποῖ	ADV	d--------	_	6	advmod	_	Ref=1075	where
+6	καταλήξει	καταλήγω	VERB	v3sfia---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	3	conj	_	Ref=1075	will_it_cease
+7	μετακοιμισθὲν	μετακοιμίζω	VERB	v-sappnn-	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	9	acl	_	Ref=1076	having_been_calmed
+8	μένος	μένος	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	Ref=1076	rage
+9	ἄτης	ἄτη	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	Ref=1076|SpaceAfter=No	of_Ruin
+10	?	?	PUNCT	u--------	_	3	punct	_	Ref=1076	?
