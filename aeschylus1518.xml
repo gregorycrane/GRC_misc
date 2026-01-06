@@ -54,7 +54,7 @@
       <l n="1">
          <choice>
             <sic>Θονός ιπο εἰς τηλορὸν ἥκοπου πέδον.</sic>
-            <corr>Χθονὸς μὲν εἰς τηλουρὸν ἥκομεν πέδον.</corr>
+            <corr>χθονὸς μὲν εἰς τηλουρὸν ἥκομεν πέδον.</corr>
          </choice>
          <ref target="source:5"></ref>
       </l>
@@ -45196,18 +45196,13 @@ ZZZ
       </l>
       <l n="19">
          <choice>
-            <sic>βοὸς ἐπαφῆς κἐξ ἐπινοίας</sic>
-            <corr>βοὸς ἐξ ἐπαφῆς κἀξ ἐπιπνοίας</corr>
+            <sic>βοὸς ἐπαφῆς κἐξ ἐπινοίας· διὸς εὐχόμενον τετέλεσται</sic>
+            <corr>βοὸς ἐξ ἐπαφῆς κἀξ ἐπιπνοίασ· διὸς εὐχόμενον τετέλεσται</corr>
          </choice>
          <ref target="source:13"></ref>
       </l>
-      <l n="20">
-         <choice>
-            <sic>μπουν τετέλεσται</sic>
-            <corr>διὸς εὐχόμενον τετέλεσται</corr>
-         </choice>
-         <ref target="source:14"></ref>
-      </l>
+      
+      
      
       
       <l n="22">
@@ -45254,24 +45249,12 @@ ZZZ
       <l n="23">
          <choice>
             <sic>ὧν πόλις ὧν γῆς λυκόν ύδωρ</sic>
-            <corr>ὧν πόλις ὧν γῆς λευκὸν ὕδωρ</corr>
+            <corr>ὧν πόλις ὧν γῆς λευκὸν ὕδωρ ὕπατοί τε θεοὶ καὶ βαρύτιμοι.</corr>
          </choice>
          <ref target="source:3"></ref>
       </l>
-       <l n="25">
-         <choice>
-            <sic>ὕπατοί τε θεοὶ</sic>
-            <corr>ὕπατοί τε θεοὶ</corr>
-         </choice>
-         <ref target="source:4"></ref>
-      </l>
-      <l n="24">
-         <choice>
-            <sic> και βαρύτιμοι.</sic>
-            <corr> καὶ βαρύτιμοι.</corr>
-         </choice>
-         <ref target="source:3"></ref>
-      </l>
+      
+      
      
       <l n="26">
          <choice>
@@ -45363,20 +45346,14 @@ ZZZ
       </l>
       <l n="40">
          <choice>
-            <sic>δ' ἀικόν των ἐπιβῆναι.</sic>
-            <corr>τὴν δ' ἀεκόντων ἐπιβῆναι.</corr>
+            <sic>δ' ἀικόν των ἐπιβῆναι. νῦν δ' ἐπικεκλόμεναι.</sic>
+            <corr>τὴν δ' ἀεκόντων ἐπιβῆναι. νῦν δ' ἐπικεκλόμεναι.</corr>
          </choice>
          <ref target="source:10"></ref>
       </l>
     
       
-      <l n="42">
-         <choice>
-            <sic>δίπικε-</sic>
-            <corr>νῦν δ' ἐπικεκλόμεναι.</corr>
-         </choice>
-         <ref target="source:12"></ref>
-      </l>
+     
       <l n="43">
          <choice>
             <sic>δίον πόρτιν ὑπβ πόντιον τιμ αόρινιν</sic>
@@ -45638,7 +45615,7 @@ ZZZ
       <l n="88">
          <choice>
             <sic>μέλαιναι ξων τύχαι μβόπεαι λαδῖς,</sic>
-            <corr>μέλαιναι ξὺν τύχᾳ μερόπεσσι λαοῖς,</corr>
+            <corr>μέλαιναι ξὺν τύχαι μερόπεσσι λαοῖς,</corr>
          </choice>
          <ref target="source:10"></ref>
       </l>
@@ -45810,14 +45787,14 @@ ZZZ
       <l n="117">
          <choice>
             <sic>δήλέμοισιν ἐμπρέπη. θρονομένη μέλη.</sic>
-            <corr>ἰήλέμοισιν ἐμπρεπῆ. θρεομένη μέλη.</corr>
+            <corr>ἰήλέμοισιν ἐμπρεπῆ. θρευομένη μέλη.</corr>
          </choice>
          <ref target="source:11"></ref>
       </l>
       <l n="118">
          <choice>
             <sic>ζῶσα γόοις μετιμώ ἱλέω μαι πὺ ἀπίαν βουνον</sic>
-            <corr>ζῶσα γόοις μετιμῶ. ἱλεῶμαι μὲν ἀπίαν βουνῖν</corr>
+            <corr>ζῶσα γόοις μετιμῶ. ἱλέωμαι μὲν ἀπίαν βουνῖν</corr>
          </choice>
          <ref target="source:12"></ref>
       </l>
@@ -45986,7 +45963,7 @@ ZZZ
       <l n="145">
          <choice>
             <sic> ἀδμήτας ἄδμητα ρύσιος γενέθω.</sic>
-            <corr> ἀδμήτασ ἀδμήτα ῥύσιος γενέσθω.</corr>
+            <corr> ἀδμήτασ ἄδμητα ῥύσιος γενέσθω.</corr>
          </choice>
          <ref target="source:32"></ref>
       </l>
@@ -46097,7 +46074,7 @@ ZZZ
       <l n="167">
          <choice>
             <sic>γα μετ έρανόνεικον.</sic>
-            <corr>μετ' οὐρανόνεικον.</corr>
+            <corr>γαμετ' οὐρανόνεικον.</corr>
          </choice>
          <ref target="source:7"></ref>
       </l>
@@ -46177,7 +46154,7 @@ ZZZ
       <l n="178">
          <choice>
             <sic>καὶ τ ἀπιλέρσα ναῦ προμήθιαν λαβεῖν,</sic>
-            <corr>καὶ τἀπιχέρσου νῦν προμήθιαν λαβεῖν,</corr>
+            <corr>καὶ τ᾽ ἀπιχέρσου νῦν προμήθιαν λαβεῖν,</corr>
          </choice>
          <ref target="source:13"></ref>
       </l>
@@ -46400,15 +46377,8 @@ ZZZ
          </choice>
          <ref target="source:8"></ref>
       </l>
-   </sp>
-
-   <sp who="#Pelasgus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>βασιλεύς</corr>
-         </choice>
-      </speaker>
+   
+      
       <l n="504">
          <choice>
             <sic>μὴ ναῦ χόλαζε μηλανῆς δ' ἔσω κράτος.</sic>
@@ -46450,15 +46420,8 @@ ZZZ
          </choice>
          <ref target="source:10"></ref>
       </l>
-   </sp>
-
-   <sp who="#Danaus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>δάναος</corr>
-         </choice>
-      </speaker>
+  
+      
       <l n="510">
          <choice>
             <sic>καὶ ζηνὸς ὄρνιν τόνδι ναῶ κικλήσκεται.</sic>
@@ -46550,13 +46513,8 @@ ZZZ
       <ref target="source:1"></ref>
    </head>
 
-   <sp who="#Danaus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>δάναος</corr>
-         </choice>
-      </speaker>
+   <sp who="#Chorus">
+     
       <l n="223">
          <choice>
             <sic>σἱβεθ᾽ ἐν ἁγνῶ, δισμός ὡς πελειάδων.</sic>
@@ -46620,10 +46578,12 @@ ZZZ
          </choice>
          <ref target="source:5"></ref>
       </l>
+    </sp>
+    <sp who="#Pelasgus">
       <l n="232">
          <choice>
             <sic>πρ σκοπείτε και μείβεπε τόνδε τον τόπον.</sic>
-            <corr>φρονεῖτε καὶ μείβεσθε τόν δε τὸν τρόπον.</corr>
+            <corr>σκοπείτε κἀμείβεσθε τόν δε τὸν τρόπον.</corr>
          </choice>
          <ref target="source:5"></ref>
       </l>
@@ -46634,15 +46594,8 @@ ZZZ
          </choice>
          <ref target="source:5"></ref>
       </l>
-   </sp>
-
-   <sp who="#Pelasgus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>βασιλεύς</corr>
-         </choice>
-      </speaker>
+ 
+      
       <l n="234">
          <choice>
             <sic>ποδατον όμιλον τόν δ' ἀνέλληνα σόλου.</sic>
@@ -46732,13 +46685,13 @@ ZZZ
    <sp who="#Chorus">
       <speaker>
          <choice>
-            <sic></sic>
+            <sic>κό</sic>
             <corr>χορός</corr>
          </choice>
       </speaker>
       <l n="246">
          <choice>
-            <sic>κό είρηκας ἀμφὶ κόσμον ἀμουδῆ λόγον.</sic>
+            <sic> είρηκας ἀμφὶ κόσμον ἀμουδῆ λόγον.</sic>
             <corr> εἴρηκας ἀμφὶ κόσμον ἀψευδῆ λόγον.</corr>
          </choice>
          <ref target="source:9"></ref>
@@ -46971,15 +46924,8 @@ ZZZ
          </choice>
          <ref target="source:8"></ref>
       </l>
-   </sp>
-
-   <sp who="#Chorus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>χορός</corr>
-         </choice>
-      </speaker>
+   
+      
       <l n="276">
          <choice>
             <sic> ἐξβχόμεθα απέρματ᾿ ἀτέκνο βοός,</sic>
@@ -46999,7 +46945,7 @@ ZZZ
    <sp who="#Pelasgus">
       <speaker>
          <choice>
-            <sic></sic>
+            <sic>πρ</sic>
             <corr>βασιλεύς</corr>
          </choice>
       </speaker>
@@ -47153,7 +47099,7 @@ ZZZ
       <l n="571">
          <choice>
             <sic>και κρυπί ἄγκρασ ταῦτα παλλαγμάτων.</sic>
-            <corr>καὶ κρυπτ᾽ ἄγηρασ ταῦτα παλλαγμάτων.</corr>
+            <corr>καὶ κρυπτ᾽ ἄγκρασ ταῦτα παλλαγμάτων.</corr>
          </choice>
          <ref target="source:7"></ref>
       </l>
@@ -47289,13 +47235,9 @@ ZZZ
       </choice>
    </head>
 
-   <sp who="#Chorus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>χορός</corr>
-         </choice>
-      </speaker>
+   <sp who="#Pelasgus">
+     
+    
       <l n="310">
          <choice>
             <sic>λιβύη μέγισον γῆς καρπομένη.</sic>
@@ -47303,15 +47245,8 @@ ZZZ
          </choice>
          <ref target="source:4"></ref>
       </l>
-   </sp>
 
-   <sp who="#Pelasgus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>βασιλεύς</corr>
-         </choice>
-      </speaker>
+      
       <l n="311">
          <choice>
             <sic>τιν δω ἔτ' άλλον τῆς δε βλάσημον λέγεις.</sic>
@@ -47319,15 +47254,8 @@ ZZZ
          </choice>
          <ref target="source:4"></ref>
       </l>
-   </sp>
-
-   <sp who="#Chorus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>χορός</corr>
-         </choice>
-      </speaker>
+  
+      
       <l n="312">
          <choice>
             <sic>βῆλον διπαῖδα πατρὸς το δ' ἐμᾶ πατρός.</sic>
@@ -47335,15 +47263,8 @@ ZZZ
          </choice>
          <ref target="source:4"></ref>
       </l>
-   </sp>
-
-   <sp who="#Pelasgus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>βασιλεύς</corr>
-         </choice>
-      </speaker>
+  
+      
       <l n="313">
          <choice>
             <sic>πάνσοφον ναῦ ὄνομα τε τόμοι φράσον.</sic>
@@ -47351,15 +47272,8 @@ ZZZ
          </choice>
          <ref target="source:5"></ref>
       </l>
-   </sp>
-
-   <sp who="#Chorus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>χορός</corr>
-         </choice>
-      </speaker>
+  
+      
       <l n="314">
          <choice>
             <sic>δαναός δ' αδελφός δεν πεντηκοςόπαις.</sic>
@@ -47367,15 +47281,8 @@ ZZZ
          </choice>
          <ref target="source:5"></ref>
       </l>
-   </sp>
-
-   <sp who="#Pelasgus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>βασιλεύς</corr>
-         </choice>
-      </speaker>
+   
+      
       <l n="315">
          <choice>
             <sic>και το δαναοίγε τοιπο μ' ἀφώνω λόγω.</sic>
@@ -47383,15 +47290,8 @@ ZZZ
          </choice>
          <ref target="source:5"></ref>
       </l>
-   </sp>
-
-   <sp who="#Chorus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>χορός</corr>
-         </choice>
-      </speaker>
+  
+      
       <l n="316">
          <choice>
             <sic>αἴγυπτος δ εἰδὼς δ' αμὸν δρχαῖον γένος.</sic>
@@ -47415,15 +47315,8 @@ ZZZ
          </choice>
          <ref target="source:6"></ref>
       </l>
-   </sp>
-
-   <sp who="#Chorus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>χορός</corr>
-         </choice>
-      </speaker>
+   
+      
       <l n="319">
          <choice>
             <sic>τ δρχαῖον, ἀγὰ πῶς παφώτα δώματα</sic>
@@ -47473,15 +47366,8 @@ ZZZ
          </choice>
          <ref target="source:9"></ref>
       </l>
-   </sp>
-
-   <sp who="#Pelasgus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>βασιλεύς</corr>
-         </choice>
-      </speaker>
+   
+      
       <l n="326">
          <choice>
             <sic>τί φῆς ἱκνειοθαι τῶν δ' ἀγωνίων θεῶν.</sic>
@@ -47505,15 +47391,8 @@ ZZZ
          </choice>
          <ref target="source:10"></ref>
       </l>
-   </sp>
-
-   <sp who="#Pelasgus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>βασιλεύς</corr>
-         </choice>
-      </speaker>
+   
+      
       <l n="331">
          <choice>
             <sic>πότρα κατέλυσαν, ἢ μὴ θέμις λέγες.</sic>
@@ -47576,7 +47455,7 @@ ZZZ
       <l n="341">
          <choice>
             <sic> αὐτέσι μὴ ηδὼς παισὶν αἰγύπλο πάλιν.</sic>
-            <corr> αἰτοῦσι μὴ ηδὼς παισὶν αἰγύπτου πάλιν.</corr>
+            <corr> αἰτοῦσι μὴ κδὼς παισὶν αἰγύπτου πάλιν.</corr>
          </choice>
          <ref target="source:12"></ref>
       </l>
@@ -47612,6 +47491,12 @@ ZZZ
          </choice>
          <ref target="source:17"></ref>
       </l>
+       </sp>
+
+   <sp who="#Pelasgus">
+      <speaker>
+         
+      </speaker>
       <l n="344">
          <choice>
             <sic>ἔπβ ἀπαρχῆς πραγμάτων κοινὸς ἦν</sic>
@@ -47619,6 +47504,15 @@ ZZZ
          </choice>
          <ref target="source:18"></ref>
       </l>
+       </sp>
+
+   <sp who="#Chorus">
+      <speaker>
+         <choice>
+            <sic></sic>
+            <corr>χορός</corr>
+         </choice>
+      </speaker>
       <l n="345">
          <choice>
             <sic>αἰδα σὺ πρύμναν πόλεως ὡδέσεμμένη.</sic>
@@ -47626,15 +47520,8 @@ ZZZ
          </choice>
          <ref target="source:18"></ref>
       </l>
-   </sp>
-
-   <sp who="#Pelasgus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>βασιλεύς</corr>
-         </choice>
-      </speaker>
+  
+      
       <l n="346">
          <choice>
             <sic>πέφυκα λεύωων τὸς δέδρα κατασκίος.</sic>
@@ -47665,7 +47552,7 @@ ZZZ
       <l n="347">
          <choice>
             <sic>βαρύς γε μέντοι ζηνὸς ἱκετία κόπς.</sic>
-            <corr>βαρύς γε μέντοι ζηνὸς ἱκεσίου κότος.</corr>
+            <corr>βαρύς γε μέντοι ζηνὸς ἱκετίου κότος.</corr>
          </choice>
          <ref target="source:2"></ref>
       </l>
@@ -47826,7 +47713,7 @@ ZZZ
       <l n="366">
          <choice>
             <sic>ἐμῶν, τόκοινον δ' εἰμιαίνεται πόλις.</sic>
-            <corr>ἐμῶν, τὸ κοινὸν δ᾽ εἰ μιαίνεται πόλις.</corr>
+            <corr>ἐμῶν, τόκοινον δ᾽ εἰ μιαίνεται πόλις.</corr>
          </choice>
          <ref target="source:8"></ref>
       </l>
@@ -47839,15 +47726,7 @@ ZZZ
          </choice>
          <ref target="source:9"></ref>
       </l>
-   </sp>
-
-   <sp who="#Pelasgus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>βασιλεύς</corr>
-         </choice>
-      </speaker>
+  
       <l n="368">
          <choice>
             <sic>ἐγὼ δ'   κραίνοι μ᾽ ὑπόχεσιν παρἄκρος.</sic>
@@ -48025,15 +47904,8 @@ ZZZ
          </choice>
          <ref target="source:7"></ref>
       </l>
-   </sp>
-
-   <sp who="#Pelasgus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>βασιλεύς</corr>
-         </choice>
-      </speaker>
+   
+      
       <l n="387">
          <choice>
             <sic>ἔποι κρατέσι παῖδες αἰγύπλο σέθεν </sic>
@@ -48143,15 +48015,8 @@ ZZZ
          </choice>
          <ref target="source:12"></ref>
       </l>
-   </sp>
-
-   <sp who="#Chorus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>χορός</corr>
-         </choice>
-      </speaker>
+  
+      
       <l n="402">
          <choice>
             <sic>ἀμφοτέρος ομαίμων τά δ' ἐπισκοτᾷ</sic>
@@ -48216,13 +48081,9 @@ ZZZ
       <ref target="source:1"></ref>
    </head>
 
-   <sp who="#Pelasgus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>βασιλεύς</corr>
-         </choice>
-      </speaker>
+   <sp who="#Chorus">
+
+    
       <l n="407">
          <choice>
             <sic>δίκην κολυμβητήρος και βυθόν μελῶν.</sic>
@@ -48409,15 +48270,8 @@ ZZZ
          </choice>
          <ref target="source:11"></ref>
       </l>
-   </sp>
-
-   <sp who="#Pelasgus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>βασιλεύς</corr>
-         </choice>
-      </speaker>
+  
+      
       <l n="438">
          <choice>
             <sic>καὶ δὴ πέφρασμαι. δοῦρο δ'έξω κέλεται.</sic>
@@ -48480,13 +48334,8 @@ ZZZ
       <ref target="source:4"></ref>
    </head>
 
-   <sp who="#Pelasgus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>βασιλεύς</corr>
-         </choice>
-      </speaker>
+   <sp who="#Chorus">
+     
       <l n="445">
          <choice>
             <sic>γένοιτ'αν ἄλλα κτισίο διός χάριν.</sic>
@@ -48557,15 +48406,7 @@ ZZZ
          </choice>
          <ref target="source:9"></ref>
       </l>
-   </sp>
-
-   <sp who="#Chorus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>χορός</corr>
-         </choice>
-      </speaker>
+   
       <l n="455">
          <choice>
             <sic>πολλῶν τ᾽ ἄκασον τέρμα τ' αιδοίων λόγων</sic>
@@ -48679,15 +48520,8 @@ ZZZ
          </choice>
          <ref target="source:13"></ref>
       </l>
-   </sp>
-
-   <sp who="#Pelasgus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>βασιλεύς</corr>
-         </choice>
-      </speaker>
+   
+      
       <l n="468">
          <choice>
             <sic>καὶ μὴν πολλαλῆγε δυς πάλαις τὰ πράγματα.</sic>
@@ -48750,13 +48584,9 @@ ZZZ
       <ref target="source:1"></ref>
    </head>
 
-   <sp who="#Pelasgus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>βασιλεύς</corr>
-         </choice>
-      </speaker>
+   <sp who="#Chorus">
+     
+    
       <l n="475">
          <choice>
             <sic>σαθείς πρότει λέων διὰ μάχης ἥξω τέλος</sic>
@@ -48980,13 +48810,9 @@ ZZZ
       <ref target="source:1"></ref>
    </head>
 
-   <sp who="#Pelasgus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>βασιλεύς</corr>
-         </choice>
-      </speaker>
+   <sp who="#Chorus">
+     
+    
       <l n="506">
          <choice>
             <sic>ἐγὼ δὲ πῶς δρῶ  θράσος νέμοις ἐσμοί.θεν</sic>
@@ -49003,15 +48829,7 @@ ZZZ
          </choice>
          <ref target="source:4"></ref>
       </l>
-   </sp>
-
-   <sp who="#Pelasgus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>βασιλεύς</corr>
-         </choice>
-      </speaker>
+  
       <l n="508">
          <choice>
             <sic>καὶ δὴ σφελέπω χορὶ και λόγοις σέθεν.</sic>
@@ -49087,15 +48905,8 @@ ZZZ
          </choice>
          <ref target="source:8"></ref>
       </l>
-   </sp>
-
-   <sp who="#Pelasgus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>βασιλεύς</corr>
-         </choice>
-      </speaker>
+   
+      
       <l n="517">
          <choice>
             <sic>ὅτι δαρόν χρόνον ἐρημώσει πατήρ.</sic>
@@ -49387,7 +49198,7 @@ ZZZ
       <l n="571">
          <choice>
             <sic>καὶ τόδε δὴ τὸς ἦν ὁθέλ ξασ πολύπλαγκον ἀθλίαν.</sic>
-            <corr>καὶ τόδε δὴ τὸς ἦν ὁθέλξασ πολύπλαγκτον ἀθλίαν.</corr>
+            <corr>καὶ τόδε δὴ τὶς ἦν ὁθέλξασ πολύπλαγκτον ἀθλίαν.</corr>
          </choice>
          <ref target="source:18"></ref>
       </l>
@@ -49401,7 +49212,7 @@ ZZZ
       <l n="576">
          <choice>
             <sic>βία δ' ἀπη μάντῳ πένα. και θείαις ἐπιπνοίαις.</sic>
-            <corr>βίᾳ δ᾽ ἀπη μάντῳ σθένει. καὶ θείαις ἐπιπνοίαις.</corr>
+            <corr>βίᾳ δ᾽ ἀπημάντῳ σθένει. καὶ θείαις ἐπιπνοίαις.</corr>
          </choice>
          <ref target="source:19"></ref>
       </l>
@@ -49533,7 +49344,7 @@ ZZZ
       <l n="594">
          <choice>
             <sic>τέκτων, το πᾶν μῆχαρ δριος ζεύς·</sic>
-            <corr>τέκτων, τὸ πᾶν μῆχαρ οὔριος ζεύς·</corr>
+            <corr>τέκτων, τόπαν, μήχα οὔριος ζεύς·</corr>
          </choice>
          <ref target="source:35"></ref>
       </l>
@@ -49595,19 +49406,12 @@ ZZZ
          </choice>
          <ref target="source:42"></ref>
       </l>
-   </sp>
-
-   <sp who="#Chorus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>χορός</corr>
-         </choice>
-      </speaker>
+  
+      
       <l n="602">
          <choice>
             <sic>ὦ χαῖρε πρέσβο, φίλτατ' ἀγγέλλων ἐμοί·</sic>
-            <corr>ὦ χαῖρε πρέσβυ, φίλτατ᾽ ἀγγέλλων ἐμοί·</corr>
+            <corr>ὦ χαῖρε πρέσβυ, φίλτατ᾽ ἀγγέλων ἐμοί·</corr>
          </choice>
          <ref target="source:43"></ref>
       </l>
@@ -50053,7 +49857,7 @@ ZZZ
       <l n="659">
          <choice>
             <sic>τὰς ἥβασ δ' ἄνθος ἄδοεπλον. ἔσω· μὴ ἀφροδίτας</sic>
-            <corr>τὰν ἥβασ δ᾽ ἄνθος ἄδρεπτον. ἔστω· μὴ ἀφροδίτας</corr>
+            <corr>τὰς ἥβασ δ᾽ ἄνθος ἄδρεπτον. ἔστω· μὴ ἀφροδίτας</corr>
          </choice>
          <ref target="source:4 source:5"></ref>
       </l>
@@ -50089,7 +49893,7 @@ ZZZ
       <l n="673">
          <choice>
             <sic>ὣς πολιῶ νόμω αὖσαν ὀρθοι, τίκτεαθαι δ' ἐφ ὁργῶς.</sic>
-            <corr>ὢς πολιῶ νόμω αἶσαν ὀρθοῖ, τίκτεσθαι δ᾽ ἐφ ὁργῶς.</corr>
+            <corr>ὢς πολιῶ νόμω αἶσαν ὀρθοῖ, τίκτεσθαι δ᾽ ἐφ᾽ ὁργῶς.</corr>
          </choice>
          <ref target="source:6 source:7"></ref>
       </l>
@@ -50169,7 +49973,7 @@ ZZZ
       <l n="706">
          <choice>
             <sic>το δήμιον το, πόλιν κρατεύει. προμαθολά σύκοι νομήτις δρχᾶ.</sic>
-            <corr>τὸ δήμιον τὸ, πόλιν κρατύνει. προμαθὶς εὐκοινόμητις ἀρχά.</corr>
+            <corr>τὸ δήμιον τὸ, πόλιν κρατύνει. προμαθεὺς εὐκοινόμητις ἀρχᾶ.</corr>
          </choice>
          <ref target="source:22"></ref>
       </l>
@@ -50452,18 +50256,13 @@ ZZZ
       <ref target="source:2 source:3"></ref>
    </head>
 
-   <sp who="#Danaus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>δαναός</corr>
-         </choice>
-      </speaker>
+   <sp who="#Chorus">
+     
       
       <l n="705">
          <choice>
             <sic>τίσιεν ἐν χωρίας παλωΐαις.</sic>
-            <corr>τίουσι δ᾽ ἐγχωρίους παλωΐαις.</corr>
+            <corr>τίοιεν δ᾽ ἐγχωρίους παλωΐαις.</corr>
          </choice>
          <ref target="source:4"></ref>
       </l>
@@ -50519,7 +50318,7 @@ ZZZ
       <l n="714">
          <choice>
             <sic>τὸ πλεῖον εὔσημον οὐ μελαν θάνει.</sic>
-            <corr>σὸ πλεῖον εὔσημον οὔμελαν θάνει.</corr>
+            <corr>σὸ πλεῖον εὔσημον οὔ μελαν θάνει.</corr>
          </choice>
          <ref target="source:6"></ref>
       </l>
@@ -50714,15 +50513,8 @@ ZZZ
          </choice>
          <ref target="source:4"></ref>
       </l>
-   </sp>
-
-   <sp who="#Danaus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>δαναός</corr>
-         </choice>
-      </speaker>
+ 
+      
       <l n="739">
          <choice>
             <sic>ἐπεὶ τέλεια ψήφος δργείων τέκνα.</sic>
@@ -50753,15 +50545,8 @@ ZZZ
          </choice>
          <ref target="source:5"></ref>
       </l>
-   </sp>
-
-   <sp who="#Danaus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>δαναός</corr>
-         </choice>
-      </speaker>
+   
+      
       <l n="743">
          <choice>
             <sic>δορυπαγείς δε λοντσο κυανόπιδας.</sic>
@@ -50779,7 +50564,7 @@ ZZZ
       <l n="745">
          <choice>
             <sic>πόλει μελαχίμω στν πρατῷ.</sic>
-            <corr>πόλει μελαγχίμω σὺν στρατῷ.</corr>
+            <corr>πόλει μελαχίμω σὺν στρατῷ.</corr>
          </choice>
          <ref target="source:6"></ref>
       </l>
@@ -50948,13 +50733,9 @@ ZZZ
       <ref target="source:3"></ref>
    </head>
 
-   <sp who="#Danaus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>δαναός</corr>
-         </choice>
-      </speaker>
+   <sp who="#Chorus">
+     
+    
       <l n="767">
          <choice>
             <sic>Θαρσῶσι ναῶν ποιμέν δο παραυτίκα,</sic>
@@ -51471,7 +51252,7 @@ ZZZ
       <l n="852">
          <choice>
             <sic>λῆφι δρανακίδα δόρυ</sic>
-            <corr>λεῖφι δρανακίδα δόρυ</corr>
+            <corr>λεῖφι δρανακίδες δόρυ</corr>
          </choice>
          <ref target="source:8"></ref>
       </l>
@@ -51709,7 +51490,7 @@ ZZZ
       <l n="893">
          <choice>
             <sic>γάρ μ' ἐθρέψαν, εδεγήρασαν βοφή.</sic>
-            <corr>οὐ γάρ μ᾽ ἔθρεψαν, οὐδ᾽ ἐγήρασαν τροφῇ.</corr>
+            <corr>οὐ γάρ μ᾽ ἐθρέψαν, οὐδ᾽ ἐγήρασαν τροφῇ.</corr>
          </choice>
          <ref target="source:4"></ref>
       </l>
@@ -51797,8 +51578,8 @@ ZZZ
       
       <l n="913">
          <choice>
-            <sic>ἐπεὶ ἐκ ἀκᾶ ἐξυτῶν ἐμῶν λόγων.</sic>
-            <corr>ἐπεὶ οὐκ ἀκούετ᾽ ὀξὺ τῶν ἐμῶν λόγων.</corr>
+            <sic>ἐπεὶ οὐκ ἀκοῦ ἐξυτῶν ἐμῶν λόγων.</sic>
+            <corr>ἐπεὶ οὐκ ἀκοῦ ἐξυτῶν ἐμῶν λόγων.</corr>
          </choice>
          <ref target="source:9"></ref>
       </l>
@@ -51916,13 +51697,9 @@ ZZZ
       <ref target="source:2 source:3"></ref>
    </head>
 
-   <sp who="#Pelasgus">
-      <speaker>
-         <choice>
-            <sic></sic>
-            <corr>βασιλεύς</corr>
-         </choice>
-      </speaker>
+   <sp who="#Chorus">
+
+    
       <l n="926">
          <choice>
             <sic>διδ ένθα δ' ἐδών, ὡς ἐγὼ σέθεν χάτος.</sic>
@@ -51996,7 +51773,7 @@ ZZZ
       <l n="936">
          <choice>
             <sic>ἥκειν γυναικῶν ἀντανέψιον σόλον.</sic>
-            <corr>ἥκειν γυναικῶν αὐτανέψιον στόλον.</corr>
+            <corr>ἥκειν γυναικῶν ἀντανέψιον στόλον.</corr>
          </choice>
          <ref target="source:8"></ref>
       </l>
@@ -52607,7 +52384,7 @@ ZZZ
       <ref target="source:3"></ref>
    </head>
 
-   <sp who="#Danaus">
+   <sp who="#Chorus">
       <l n="1015">
          <choice>
             <sic>σωφρονῶν τιμῶσα τὸ βίο πλέον,</sic>
@@ -52669,7 +52446,7 @@ ZZZ
       <l n="1023">
          <choice>
             <sic>πριναίεται παλαιὸν,</sic>
-            <corr>τὲ καὶ οἱχώμ᾽ἐρασίμου περιναίεται παλαιὸν,</corr>
+            <corr>τὲ καὶ οἱ χώμ᾽ ἐρασίμου περιναίεται παλαιὸν,</corr>
          </choice>
          <ref target="source:11"></ref>
       </l>
@@ -52709,7 +52486,7 @@ ZZZ
       <l n="1030">
          <choice>
             <sic>λέσσιν πολύτεκνοι λιπαρῶν λάμασιν γαίας</sic>
-            <corr>χέουσιν πολύτεκνοι λιπαρῶν γαίασ</corr>
+            <corr>χέουσιν πολύτεκνοι λιπαρῶν χάμασιν γαίασ</corr>
          </choice>
          <ref target="source:17"></ref>
       </l>
