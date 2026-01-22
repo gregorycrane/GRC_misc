@@ -1,0 +1,907 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De linguae Latinae elegantia</title>
+        <author>Laurentius Valla</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The Getty Research Institute (Digitized by HathiTrust)</publisher>
+        <date when="2026-01-17">January 17, 2026</date>
+        <pubPlace>https://hdl.handle.net/2027/gri.ark:/13960/t6545jw5z</pubPlace>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Laurentius Valla</author>
+          <title>De linguae Latinae elegantia</title>
+          <note>Original from the Getty Research Institute</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="3" facs="gri-ark--13960-t6545jw5z-11-1768610204.pdf"/>
+      
+      <div type="dedication">
+        <head>
+          <lb n="3"/>LAVRENTIVS VALLA IOHANNI TORTELLIO ARE-
+          <lb n="4"/>tino, cubiculario Apoftolico, theologorum facundif-
+          <lb n="5"/>fimo,
+          <lb n="6"/>S.
+        </head>
+        
+        <p>
+          <lb n="7"/><hi rend="initial">L</hi>ibros de linguæ Latinæ elegantia (mi Iohanes 
+          <lb n="8"/>vnicum amicitiæ ſpecimen, &amp; omnis fcientiæ 
+          <lb n="9"/>decus) olim iam tibi debitos, totieſque abs te ef-
+          <lb n="10"/>flagitatos, &amp; tanquá creditore repetitos, tádem 
+          <lb n="11"/>exhibeo, nominiq; tuo dedico, ac velut æs alie-
+          <lb n="12"/>num perſoluo: &amp; (vt longioris moræ dem pœnas) etiam cũ fœ-
+          <lb n="13"/>nore, eóque tanto, vt forti par fit. 
+        </p>
+        
+        <p>
+          <lb n="14"/>Nam quü ſex eſſent libri, quos 
+          <lb n="15"/>tibi (cui omnia debeo) repromiferă, nunc totide ad illos acce-
+          <lb n="16"/>dūt, eiufdé germanæque materiæ, &amp; quafi ſemiſſi ſemis additus, 
+          <lb n="17"/>explet affem lucri.
+        </p>
+        
+        <p>
+          <lb n="18"/>Feciſti itaque tu longá quidé expectationem. 
+          <lb n="19"/>Verű ipfius expectationis non negligétia mea, fed confiliú exti-
+          <lb n="20"/>tit cauſa. 
+        </p>
+        
+        <p>
+          <lb n="21"/>Nolo enim fraudare beneficiű meű gratia fua. Siquide 
+          <lb n="22"/>nullam alia inire rationem poteram, qua libros iniuſſu meo (vt 
+          <lb n="23"/>ſcis) editos, &amp; in plurima exéplaria tranſcriptos tibi dicaré, nifi 
+          <lb n="24"/>&amp; repurgare diligentius, &amp; (quod maius eſt) aliorű veluti reliqui 
+          <lb n="25"/>corporis acceffione perfectos me emittere teſtarer: vt nemo nifi 
+          <lb n="26"/>ab hoc fonte &amp; eius riuis noſtrarú elegátiarű aquas fibi haurie-
+          <lb n="27"/>das exiftimaret, no ſolú huberiore gurgite, fed etiam nitidiore.
+        </p>
+        
+        <p>
+          <lb n="28"/>Quo magis &amp; fpero &amp; opto libros hos abs te in ſummi põtificis 
+          <lb n="29"/>bibliotheca repofitű iri, téq; curaturű vt ille, cuius contuberna-
+          <lb n="30"/>lis es &amp; ftudiorú intimus comes, nõnunqua eos euoluat: &amp; qué-
+          <lb n="31"/>admodúde parte iam fecit, totű opus laudet: eximiű profecto, 
+          <lb n="32"/>ac maximű laboris mei fructú ac præmiū. 
+        </p>
+        
+        <p>
+          <lb n="33"/>Nam quis huberior 
+          <lb n="34"/>fructus, aut quod magis opimű præmiú generoſo animo cótin-
+          <lb n="35"/>gere poteft,  laudari a laudato viro? 
+          <lb n="36"/>vt ille apud Acciú inquit, 
+          <lb n="37"/>Gaudeo abs te laudari pater, laudato viro. 
+        </p>
+        
+        <p>
+          <lb n="38"/>Etenim quiſnă multis 
+          <lb n="39"/>iam fæculis laudatior extitit, quíve ſit magis iure laudādus, no-
+          <lb n="40"/>ſtrú omniŭ pater ſummus pontifex Nicolaus Quintus? 
+          <lb n="41"/>qui no 
+          <lb n="42"/>magis prudentiffimorű hominú iudicio electus effe, natus ad 
+          <lb n="43"/>illá dignitate videtur: que Deus nobis præbes fingulari quadam 
+          <lb n="44"/>hoc fæculú eſt beneficentia profecutus, &amp; quo ſoſpite (vt eſt ho-
+          <lb n="45"/>minū opinio) res humanæ futuræ fœlices funt. 
+        </p>
+        
+        <p>
+          <lb n="46"/>Adeò nefcias, an 
+          <lb n="47"/>virtus eius, an dignatio inter homines magis emineat, &amp; inter 
+          <lb n="48"/>ipfius virtutes, quæ cui præſtet, ſiqua modo præſtat: &amp; non vna-
+          <lb n="49"/>quæq; omnes in ſe numeros habet, niſi q vt quiſq; maxime vir-
+          <lb n="50"/>tuté aliqua colit, ita maxime adeſſe huic illa exiſtimat. 
+        </p>
+        
+        <p>
+          <lb n="51"/>Veluti tu 
+          <lb n="52"/>nonunquã atque ego prudentia, cú cæterarű rerú, tum verò li-
+          <lb n="53"/>terarum. Quid enim tam arduű, tam difficile, tā profundü, quod...
+        </p>
+      </div>
+      
+      <fw type="footer">
+        <lb n="22"/>a.ii.
+      </fw>
+
+      <pb n="4" facs="gri-ark--13960-t6545jw5z-12-1768614943.pdf"/>
+      
+      <div type="dedication">
+        <p>
+          <lb n="27"/>uum, itaque 
+          <lb n="28"/>non confilii altitudine expediat, coficiat, tranſigat? Tot ſummi
+          <lb n="29"/>pontificatus, quem propè lacerú ac naufragū acceperat, negotia,
+          <lb n="30"/>quibus diftringitur, quoru pars quælibet aliú deprimeret, vnus
+          <lb n="31"/>omnia curat, omnia fuis humeris ſuſtinet, vnus omnia obit: &amp;
+          <lb n="32"/>(quod magis noſtra admiratione auget) non fortiter modo ſed
+          <lb n="33"/>etia libenter.
+        </p>
+        
+        <p>
+          <lb n="34"/>Diuina nimirű eſt in eo ingenii celeritas ac vis. lá
+          <lb n="35"/>verò de literis quotics nobiſcú aliove quo erudito, poſt fluctus
+          <lb n="36"/>occupationú loquitur? 
+          <lb n="37"/>Taceo qua pronútiandi maieftate &amp; gra-
+          <lb n="38"/>tia, quanta memoria, quâta rerú copia, quata doctrinarú omniú
+          <lb n="39"/>peritia eluceat: vel humanaru, vt hiſtoricæ, vt oratoriæ, vt gram-
+          <lb n="40"/>maticæ, vt philoſophicæ, vt poeticæ, etiá metricæ: vel diuinarú,
+          <lb n="41"/>vt theologiæ, vt omnis iuris, vt eius quam Græci μεταφυσικιώ να-
+          <lb n="42"/>cant. Nihil ita arduum, itaque abditum, quod eű fallat. nihil ita
+          <lb n="43"/>tenue in literis, exiguumque (vnde haud fecus miror) quod eŭ
+          <lb n="44"/>fugiat, eóque nunquă minus loqui, magis attendere mihi libet,
+          <lb n="45"/>quàm cũ ipſum audio pace tamé eius dictű fit, no minus ornat
+          <lb n="46"/>illam dignitaté, quàm ab illa ornetur.
+        </p>
+        
+        <p>
+          <lb n="47"/>Nec ego minus veneror 
+          <lb n="48"/>eius virtutes apud me, q̄ datas à Deo Apoftolicas claues, quum 
+          <lb n="49"/>præfertim ſcientia facrarum literarű vocetur ab eodé Deo tri-
+          <lb n="50"/>buta: quæ aperit &amp; nemo claudit, claudit &amp; nemo aperit. Itaque
+          <lb n="51"/>vtraque manu claues geſtat, ſapientiæ altera, altera poteftatis.
+        </p>
+        
+        <p>
+          <lb n="52"/>Quare (vt libere quod ſentio dica) vel magis mihi lætandū atq; 
+          <lb n="53"/>gloriandű erit, fi à tam integro, tä ſancto, tá ſapienti viro, fi a 
+          <lb n="54"/>ſummo pontifice laudabor. 
+        </p>
+        
+        <p>
+          <lb n="55"/>Sūmi enim põtifices multi fuerüt, 
+          <lb n="56"/>fed qualis hic, vix vnus aut alter: que abſit vt emerendi fauoris 
+          <lb n="57"/>gratia impēſius laudauerim, quippe qui ſcia &amp; me improbatu-
+          <lb n="58"/>ros homines fi mentiar: &amp; illú tale eſſe, qui nec ſeipſum ignoret, 
+          <lb n="59"/>&amp; teftimonia fuarū laudű malit in pectoribus efle, quàm in lin-
+          <lb n="60"/>guis.
+        </p>
+        
+        <p>
+          <lb n="61"/>Neque velim te hanc ei epiftolam oftédere. In qua etſi lau-
+          <lb n="62"/>datur, id tamen no ideo fit, vt has laudes ipfe, fed vt cæteri legát. 
+          <lb n="63"/>&amp;(quod ad nos attinet) magna ſanè honori tuo ac meo fiet ac-
+          <lb n="64"/>ceffio ex hac Nicolai pontificis cómemoratione. 
+        </p>
+        
+        <p>
+          <lb n="65"/>Etenim fi in 
+          <lb n="66"/>arcubus triúphalibus, &amp; columnis, cæterifq; id genus operibus 
+          <lb n="67"/>in honoré aliquorum extructis, quò fint auguſtiora, cernimus 
+          <lb n="68"/>interdú alicuius dei aut deo fimilis imaginem ſuperpoſită: cur 
+          <lb n="69"/>ipſe no puté mihi faciundú, vt huic meæ columnæ (non aufim 
+          <lb n="70"/>dicere arcui) duodecim paſſus altæ, quá ego opifex tibi ob fin-
+          <lb n="71"/>gularé eruditione, ſumma beneuolentia, maxima in me merita 
+          <lb n="72"/>dicaui, imaginé Nicolai ſummi pontificis mea manu ſcalptam 
+          <lb n="73"/>in culmine colloce, vt operis decori quæda etiá ex ipſo præfide 
+          <lb n="74"/>maieftas accedat? 
+        </p>
+        
+        <p>
+          <lb n="75"/>Ita &amp; noſtra in illú reuerétia ac religio, &amp; il-
+          <lb n="76"/>lius in nos fauor ſplendorque conftabit.
+        </p>
+        
+        <closer>
+          <lb n="39"/>VALE.
+        </closer>
+      </div>
+      
+      <fw type="header">
+        <lb n="26"/>4
+        </fw>
+
+        <pb n="13" facs="gri-ark--13960-t6545jw5z-13-1768615074.pdf"/>
+      
+      <div type="preface">
+        <head>
+          <lb n="44"/>LAVRENTII VALLAE PATRITII ROMANI, ET DE
+          <lb n="45"/>lingua Latina bene meriti, in ſex Elegantiarum libros,
+          <lb n="46"/>elegans &amp; docta admodum Præfatio.
+        </head>
+        
+        <p>
+          <lb n="47"/><hi rend="initial">V</hi>um fæpe mecum noftroru maiorum res ge-
+          <lb n="48"/>ſtas, aliorúmque vel regum, vel populorú con-
+          <lb n="49"/>fydero: videntur mihi non modo ditionis no-
+          <lb n="50"/>ſtri homines, verumetia linguæ propagatione
+          <lb n="51"/>cæteris omnibus antecelluifle. 
+        </p>
+        
+        <p>
+          <lb n="52"/>Na Perías qui-
+          <lb n="53"/>dem, Medos, Affyrios, Græcos, alióſque permultos lõge, latéque
+          <lb n="54"/>rerum potitos elfe, quofdam etiam, vt aliquanto inferius quam
+          <lb n="55"/>Romanorum fuit, ita multo diuturnius imperium tenuifle co-
+          <lb n="56"/>ſtat. 
+        </p>
+        
+        <p>
+          <lb n="57"/>nullos tamen ita linguam ſua ampliaſſe, vt noftri fecerút:
+          <lb n="58"/>qui (vt oram illam Italiæ, quæ magna olim Græcia dicebatur,
+          <lb n="59"/>vt Siciliam, quæ Græca etiam fuit, vt omnem Italiam taceam)
+          <lb n="60"/>per totum penè occidentem, per Septentrionis, per Africa non
+          <lb n="61"/>exiguam partem, breui ſpatio linguam Romanam (quæ eadem
+          <lb n="62"/>Latina à Latio, vbi Roma eſt, dicitur) celebrem &amp; quafi regina
+          <lb n="63"/>effecerunt, &amp; (quod ad ipſas prouincias attinet) velut optimam
+          <lb n="64"/>quandam frugem mortalibus ad faciendam ſementem præbu-
+          <lb n="65"/>erunt. 
+        </p>
+        
+        <p>
+          <lb n="66"/>opus nimirum multo præclarius, multóque ſpeciofius,
+          <lb n="67"/>quàm ipfum imperium propagaffe. 
+        </p>
+        
+        <p>
+          <lb n="68"/>Qui enim imperiu augent,
+          <lb n="69"/>magno illi quidem honore affici folent, atque imperatores no-
+          <lb n="70"/>minantur: qui autem beneficia aliqua in homines contulerunt,
+          <lb n="71"/>ii non humana, fed diuina potius laude celebratur. 
+        </p>
+        
+        <p>
+          <lb n="72"/>Quippe qui
+          <lb n="73"/>non fuæ tantum vrbis amplitudini ac gloriæ conſulant, fed pu-
+          <lb n="74"/>blicæ quoque hominum vtilitati ac ſaluti. 
+        </p>
+        
+        <p>
+          <lb n="75"/>Itaque noftri maio-
+          <lb n="76"/>res rebus bellicis, pluribuſque laudibus cæteros homines ſupe-
+          <lb n="77"/>rarunt, linguæ verò fuæ ampliatione feipfis fuperiores fuerunt,
+          <lb n="78"/>tanquam relicto in terris imperio, conſortium deorum in cæ-
+          <lb n="79"/>lo confecuti. 
+        </p>
+        
+        <p>
+          <lb n="80"/>An verò Ceres quòd frumēti, Liber quòd vini, Mi-
+          <lb n="81"/>nerua quòd olei inuentrix putatur, multíque alii ob aliquam
+          <lb n="82"/>huiufmodi beneficentiam in deos repofiti funt: linguam Lati-
+          <lb n="83"/>nam nationibus diftribuifle minus erit, optimam frugem, &amp; ve-
+          <lb n="84"/>rè diuina, nec corporis, fed animi cibum Hæc enim gentes illas
+          <lb n="85"/>populoſque omnes, omnibus artibus, quæ liberales vocantur,
+          <lb n="86"/>inftituit. 
+        </p>
+        
+        <p>
+          <lb n="87"/>hæc optimas leges edocuit. hæc viam ad omnem fa-
+          <lb n="88"/>pientia muniuit. hæc denique præftitit, ne barbari amplius dici
+          <lb n="89"/>poffent. 
+        </p>
+        
+        <p>
+          <lb n="90"/>Quare quis æquus rerum æſtimator non cos præferat,
+          <lb n="91"/>qui facra literarum colentes, iis, qui bella horrida gerentes, cla-
+          <lb n="92"/>ri fuerunt? 
+        </p>
+        
+        <p>
+          <lb n="93"/>Illos enim regios homines, hos verò diuinos iuftif-
+          <lb n="94"/>fime dixeris: quibus non (quemadmodum ab hominibus fit)
+        </p>
+      </div>
+      
+      <fw type="footer">
+        <lb n="55"/>a.iii.
+      </fw>
+
+      <pb n="6" facs="gri-ark--13960-t6545jw5z-14-1768615321.pdf"/>
+      
+      <div type="preface">
+        <p>
+          <lb n="64"/>aucta reſpublica eſt, maieſtaſque populi Rom. folum, ſed (que-
+          <lb n="65"/>admodum à diis) falus quoque orbis terrarum: eò quidem ma-
+          <lb n="66"/>gis, quòd qui imperium noftrum accipiebant, fuum amittere,
+          <lb n="67"/>&amp; (quod acerbius eft) libertate ſpoliari ſe exiftimabant, nec for-
+          <lb n="68"/>taffe iniuria. 
+        </p>
+        
+        <p>
+          <lb n="69"/>Ex fermone autem Latino non fuum imminui,
+          <lb n="70"/>sed condiri quodammodo intelligebant, vt vinum pofterius
+          <lb n="71"/>inuentum, aquæ vfum non excuflit: nec ſericum, lanam, linum-
+          <lb n="72"/>que: nec aurum cætera metalla de poſleſſione eiecit, ſed reliquis
+          <lb n="73"/>bonis acceffionem adiunxit. 
+        </p>
+        
+        <p>
+          <lb n="74"/>Et ficut gemma aureo incluſa an-
+          <lb n="75"/>nulo, non deornamento eſt, ſed ornamento: ita noſter ſermo
+          <lb n="76"/>accedens, aliorum fermoni vernaculo contulit ſplendorem, nó
+          <lb n="77"/>ſuſtulit. 
+        </p>
+        
+        <p>
+          <lb n="78"/>Neque enim armis, aut cruore, aut bellis dominatum
+          <lb n="79"/>adeptus eft: ſed beneficiis, amore, concordia. 
+        </p>
+        
+        <p>
+          <lb n="80"/>Cuius rei (quátum
+          <lb n="81"/>coniectura fufpicari licet) hoc (vt ita loquar) ſeminarium fuit. 
+          <lb n="82"/>primü, quòd ipfi maiores incredibiliter ſe in omni ſtudiorum
+          <lb n="83"/>genere excolebant, ita, vt ne in re quidem militari aliquis, nifi
+          <lb n="84"/>idem in literis, præſtans effe videretur, quod erat cæteris ad æ-
+          <lb n="85"/>mulationem non exiguum incitamentum deinde, quòd ipſis
+          <lb n="86"/>literarum profeſſoribus præmia egregia fanè proponebant. po-
+          <lb n="87"/>ſtremo, quòd hortabantur prouinciales omnes, vt quum Ro-
+          <lb n="88"/>mæ, tum in prouincia Romanè loqui conſueſceret. 
+        </p>
+        
+        <p>
+          <lb n="89"/>At (ne plu-
+          <lb n="90"/>ribus agam) de comparatione imperii, fermoniſque Romani,
+          <lb n="91"/>hoc fatis eft dixiffe. 
+        </p>
+        
+        <p>
+          <lb n="92"/>Illud pridem, tăquam ingratum onus, gen-
+          <lb n="93"/>tes, nationeſque abiecerunt: hunc omni nectare fuauioré, omni
+          <lb n="94"/>ferico ſplendidiorem, omni auro gemmáque pretiofiorem pu-
+          <lb n="95"/>tauerunt, &amp; quafi deum quendam è cælo demiſſum, apud ſe re-
+          <lb n="96"/>tinuerunt. 
+        </p>
+        
+        <p>
+          <lb n="97"/>Magnum ergo Latini fermonis facramétum eft, ma-
+          <lb n="98"/>gnum profecto numen, quod apud peregrinos, apud barbaros,
+          <lb n="99"/>apud hoftes, ſancte ac religioſe per tot fæcula cuftoditur, vt non
+          <lb n="100"/>tam dolendum nobis Romanis, quam gaudendű fit, atque ipſo
+          <lb n="101"/>etiam orbe terrarum exaudiente gloriandum. 
+        </p>
+        
+        <p>
+          <lb n="102"/>Amifimus Ro-
+          <lb n="103"/>mam, amifimus regnum, amifimus dominatum, tametfi non
+          <lb n="104"/>noſtra ſed temporum culpa: veruntamen per hunc ſplendidio-
+          <lb n="105"/>rem dominatum in magna adhuc orbis parte regnamus. 
+        </p>
+        
+        <p>
+          <lb n="106"/>No-
+          <lb n="107"/>ſtra eſt Italia, noftra Gallia, noſtra Hifpania, Germania, Panno-
+          <lb n="108"/>nia, Dalmatia, Illyricum, multæque aliæ nationes. 
+        </p>
+        
+        <p>
+          <lb n="109"/>Ibi nanque
+          <lb n="110"/>Romanum imperium eft, vbicüque Romana lingua domina-
+          <lb n="111"/>tur. 
+        </p>
+        
+        <p>
+          <lb n="112"/>Eant igitur nunc Græci, &amp; linguarum copia ſe iactent. Plus
+          <lb n="113"/>noſtra vna efficit, &amp; quidem inops (vt ipfi volunt) quàm illo-
+          <lb n="114"/>rum quinque (ſi eis credimus) locupletiſſimæ. Et multarű gen-
+          <lb n="115"/>tiű velut vna lex, vna eſt lingua Romana: vnius Græciæ (quod
+          <lb n="116"/>pudendum eft) non vna, fed multæ ſunt tanquam in republica 
+        </p>
+      </div>
+      
+      <fw type="header">
+        <lb n="63"/>6
+      </fw>
+
+
+
+      <pb n="8" facs="gri-ark--13960-t6545jw5z-16-1768615449.pdf"/>
+      
+      <div type="preface">
+        <p>
+          <lb n="83"/>Quoufque profanata omnia duris, &amp; penè impiis oculis afpi-
+          <lb n="84"/>cietis An dum fundamentorum reliquiæ vix appareant?
+        </p>
+        
+        <p>
+          <lb n="85"/>Alius 
+          <lb n="86"/>veſtrum fcribit hiſtorias: iſtud eſt Veios habitare. Alius Græca 
+          <lb n="87"/>tranſfert: iftud eft Ardeæ confidere.
+        </p>
+        
+        <p>
+          <lb n="88"/>Alius orationes, alius poe-
+          <lb n="89"/>mata coponit: iſtud eſt Capitolium arcémque defendere.
+        </p>
+        
+        <p>
+          <lb n="90"/>Præ-
+          <lb n="91"/>clara quidem res, &amp; non mediocri laude digna, ſed non hoc ho
+          <lb n="92"/>ſtes expellit, non patriam liberat.
+        </p>
+        
+        <p>
+          <lb n="93"/>Camillus nobis, Camillus 
+          <lb n="94"/>imitandus eft, qui ſigna (vt inquit Virgilius) in patriam refe-
+          <lb n="95"/>rat, eámque reftituat.
+        </p>
+        
+        <p>
+          <lb n="96"/>cuius virtus adeò cæteris præftantior fuit, 
+          <lb n="97"/>vt illi qui vel in Capitolio, vel Ardeæ, vel Veiis erant, fine hoc 
+          <lb n="118"/>falui effe non poffent.
+        </p>
+        
+        <p>
+          <lb n="119"/>Quod hoc quoque tempore continget, &amp; 
+          <lb n="120"/>cæteri ſcriptores ab eo, qui de lingua Latina aliquid compoſue-
+          <lb n="121"/>rit, non parum adiuuabuntur.
+        </p>
+        
+        <p>
+          <lb n="122"/>Equidem (quod ad me attinet) 
+          <lb n="123"/>hunc imitabor, hoc mihi proponam exemplum, comparabo 
+          <lb n="124"/>(quantulumcunque vires meæ ferent) exercitum, quem in ho-
+          <lb n="125"/>ſtes quamprimum educam: ibo in aciem, ibo primus, vt vo-
+          <lb n="126"/>bis animum faciam.
+        </p>
+        
+        <p>
+          <lb n="127"/>Certemus, quæſo, honeſtiflimum hoc, pul
+          <lb n="128"/>cherrimúmque certamen: non modo vt patriam ab hoftibus 
+          <lb n="129"/>recipiamus, verumetia vt in ea recipienda qui maxime Ca-
+          <lb n="130"/>millum imitabitur, quis appareat.
+        </p>
+        
+        <p>
+          <lb n="131"/>Difficillimum quidem præ-
+          <lb n="132"/>ſtare, quod ille præftitit, omnium imperatorum mea fententia 
+          <lb n="133"/>maximus, ritéque fecundus à Romulo conditor vrbis appella-
+          <lb n="134"/>tus.
+        </p>
+        
+        <p>
+          <lb n="135"/>Ideóque plures, pro ſe quiſque in hanc rem elaboremus, 
+          <lb n="136"/>vt faltem multi faciamus, quod vnus effecit.
+        </p>
+        
+        <p>
+          <lb n="137"/>Is tamen iure, ve-
+          <lb n="138"/>réque Camillus dici exiftimaríque debebit, qui optimā in hac 
+          <lb n="139"/>re operam nauauerit.
+        </p>
+        
+        <p>
+          <lb n="140"/>De me tantum affirmare poffum, non 
+          <lb n="141"/>quòd fperarem tantæ me rei ſatiſfacturum, difficillimam fum-
+          <lb n="142"/>pſiſſe laboris partem, duriſſimámque prouinciam, ſed vt red-
+          <lb n="143"/>derem alios ad cætera profequenda alacriores.
+        </p>
+        
+        <p>
+          <lb n="144"/>Hi enim libri ni-
+          <lb n="145"/>hil ferè quod ab aliis authoribus (iis duntaxat qui extant) tra-
+          <lb n="146"/>ditum eft, continebunt.
+        </p>
+        
+        <p>
+          <lb n="147"/>Atque hinc principium noftrum auſpi-
+          <lb n="148"/>cemur.
+        </p>
+      </div>
+      
+      <fw type="header">
+        <lb n="82"/>8
+      </fw>
+
+
+      <pb n="9" facs="page1"/>
+      [cite_start]<fw type="pageNum">9 [cite: 1]</fw>
+      [cite_start]<fw type="header">ΕΡΙΤΟΜΕ ASCENSIE [cite: 2]</fw>
+      
+      <div type="epitome">
+        <p>
+          Sex nomina declinationis primæ in frequentiffimo clafficorum vfu, datinum &amp; ablatiuum plurales in abus mittunt, quæ continentur hoc verfu: 
+          [cite_start]<quote>Filia, gnata, deæ, liberta, equa, mula, duæ, ambæ[cite: 3].</quote>
+          [cite_start]Reliqua núc melius in 1 s declinentur, quia ita Latina Linguat antefignanis fcriptoribus placitum eft[cite: 4].
+          Quidam etiam claffici, afinabus &amp; feruabus vfi funt: nam Digelt. de fun. inftru. l. prædia. [cite_start]§. affini fuo, Relictis conferuabus dicitur[cite: 5].
+          Hieronymus tamé, 1. Reg. cap. [cite_start]10, Inuétæ funt, inquit, afinæ[cite: 6].
+          [cite_start]Et ediuerfo Plautus in Sticho de filiabus loquens, Gratulabor aduentum tuum filiis[cite: 7].
+        </p>
+      </div>
+
+      <div n="1" type="chapter">
+        <head>DE NOMINIBVS QVORVM ABLATIVI PLVRALES exeunt in abus. CAP. [cite_start]1[cite: 12, 13, 14].</head>
+        <p>
+          [cite_start]Evs dea deabus dicimus, diuus diua diuabus non dicimus[cite: 15]. 
+          [cite_start]Item in quibufdam aliis, vt filius filia filiabus, nó priuignus priuigna priuignabus[cite: 15].
+          Tametfi quidam his pofterioribus vtuntur. [cite_start]Cicero tamen ad vxorem &amp; filiam fcribens, duabus animis fuis dixit, non animabus[cite: 16].
+          [cite_start]Sed ego de vſu loquendi difputo, non de abuſu[cite: 17].
+        </p>
+      </div>
+
+      <pb n="10" facs="page2"/>
+      [cite_start]<fw type="pageNum">10 [cite: 28]</fw>
+      <fw type="header">LAVRENT. [cite_start]VALLAE [cite: 29]</fw>
+
+      <div type="epitome">
+        [cite_start]<head>ΕΡΙΤΟΜΕ[cite: 18].</head>
+        <p>
+          [cite_start]Verbalia in io deducta à fupinis primæ, quæ nunc exeunt in itum aut um, formantur ferè in atio, quafi à fupinis in atum[cite: 19].
+          [cite_start]vt à fono, fonatio: quafi à fonatu[cite: 19].
+        </p>
+      </div>
+
+      <div n="2" type="chapter">
+        <head>De verbalibus exeuntibus in atio. CAP. [cite_start]II[cite: 33, 35].</head>
+        <p>
+          [cite_start]NOmina quæ veniunt à verbis primæ coniugationis, pofitionem fupini habétibus in itum, vel in ctum, præter cæterorum verborum legem exeunt in atio, &amp; non in itio, vel in ctio[cite: 36].
+          [cite_start]vt Veto vetui vetitum, inde vetatio, non vetitio[cite: 36].
+          [cite_start]Sectio tamen crebrius reperitur quàm fecatio[cite: 37].
+          [cite_start]Lauo &amp; poto non habent ſupina, neque in atum, neq; in itum, neq; in ctum, ſed in otű: ideóque formant nomina ſua lotio &amp; potio[cite: 40, 41].
+        </p>
+      </div>
+
+      <pb n="11" facs="page3"/>
+      [cite_start]<fw type="pageNum">11 [cite: 59]</fw>
+      <div n="4" type="chapter">
+        <head>De hoc nomine Ficus. CAP. [cite_start]IIII[cite: 71, 72].</head>
+        <p>
+          [cite_start]Ficus tria fignificat, arborem, fructum eius, &amp; morbum fructui fimilem[cite: 60].
+          [cite_start]Pro arbore ſemper ett fæminini generis: pro morbo mafculini, falte frequentius[cite: 61].
+          Martialis quinto epigrammaton: 
+          <quote>
+            <l>Quum dixi ficus, rides quafi barbara verba,</l>
+            [cite_start]<l>Et dici ficos Cæciliane iubes[cite: 73, 74].</l>
+          </quote>
+        </p>
+      </div>
+
+      <pb n="13" facs="page5"/>
+      [cite_start]<fw type="pageNum">13 [cite: 117]</fw>
+      <div type="epitome">
+        [cite_start]<head>ΕΡΙΤΟΜΕ[cite: 107].</head>
+        <p>
+          [cite_start]Diminutiua ve vera fint, neceffe eft fignificationem feruent, &amp; ferè genus ac formationem[cite: 108].
+          [cite_start]Vfurpamus ca modeftiæ gratia, vt ingeniolum meum. aut blandiendi, vt corculum, fuauiolum[cite: 119].
+          [cite_start]Annulus, dum non cît paruus annus, fed circulus in digito... diminutiuum nó eft[cite: 123].
+        </p>
+      </div>
+
+      <pb n="14" facs="page6"/>
+      [cite_start]<fw type="pageNum">14 [cite: 151]</fw>
+      <div n="5" type="chapter">
+        <head>De nominibus diminutiuis. CAP. [cite_start]V[cite: 172, 174].</head>
+        <p>
+          [cite_start]NOmina diminutiua exeuntia in talem vocem, qualis eft pifciculus, ſi rite formentur, vera funt diminutiua[cite: 175].
+          [cite_start]vt Pifciculus, Vermiculus, Paſſerculus, Fraterculus[cite: 175].
+          Sin minus rite formentur, diminutiua no ſunt. [cite_start]Auūculus, Cuniculus, Muſculus[cite: 176].
+        </p>
+      </div>
+
+
+      <pb n="15" facs="page1"/>
+      <fw type="header">ELEGANT. LIB. I.</fw>
+      <fw type="pageNum">15</fw>
+      
+      <div type="chapter_content">
+        <p>
+          Adiectiua tria, <term>Anniculus</term>, <term>Ridiculus</term>, <term>Vernaculus</term>: anniculus puer, annicula puella, anniculú iumentů, hoc eſtvnius anni: ficut <term>Bimus</term>, a, um, id eſt duorum annorum.
+          <term>Trimus</term> trima trimum, id est trium annorum. <term>Quadrimus</term> quadrima quadrimum, id est quatuor annorum, &amp; non amplius.
+          De pueris tamen magis loquimur per diminutionem, <term>bimulus</term>, <term>trimulus</term>, <term>quadrimulus</term>, quia intra hos annos adhuc parui funt.
+        </p>
+        <p>
+          <term>Vernaculus</term>, vernacula, vernaculum, quod eſt domi noftræ, vel in noftra patria natum: vt Lingua vernacula, quod vulgò dicunt, lingua materna. 
+          Dictum eft à <term>Verna</term>, qui eft feruus domi noftræ natus.
+        </p>
+        <p>
+          Puluis &amp; fignificatione &amp; formatione legitima diminutiuű facit, ſed genus mutat apud Hieronymű, vt vile <term>puluiſculű</term>, maſculine tamé po fuit Apuleius:
+          <quote>
+            <l>Mifi (vt petiſti) műditias dentium, Nitellas oris,</l>
+            <l>ex arabicis frugibus Tenuem, candificum, nobilem puluiſculú,</l>
+            <l>Complanatorem tumidulæ gingiuulæ...</l>
+          </quote>
+        </p>
+      </div>
+
+      <pb n="16" facs="page2"/>
+      <fw type="header">LAVRENT. VALLAB</fw>
+      <fw type="pageNum">16</fw>
+      
+      <div type="chapter_content">
+        <p>
+          <term>Auricula</term> verò rite formatur, ſed ſignificatione diſſentit: naque cartilago illa eft circum aurium concauitatem, non auté parua auris.
+          <term>Mentula</term> quoque, quæ no paruam mentem fignificat, ſed virilia. 
+          <term>Fidicula</term> pro inſtrumento torquédi... analogiæ ratio fidicula exigit à fides, ficut ædicula ab ædes, ſedicula à ſedes.
+        </p>
+        <p>
+          Nomina tertiæ declinationis exeuntia in er... huiufmodi vocem diminutiorum fortiri: vt pater <term>paterculus</term>, frater <term>fraterculus</term>, mater <term>matercula</term>. 
+          Quæ funt fecundae declinationis... faciunt diminutiua in ellus: <term>Culter cultellus</term>, <term>Liber libellus</term>, <term>Puer puellus</term>.
+        </p>
+      </div>
+
+      <pb n="17" facs="page3"/>
+      <fw type="header">ELEGANT. LIB. I.</fw>
+      <fw type="pageNum">17</fw>
+      
+      <div type="chapter_content">
+        <p>
+          <term>Palus</term>, <term>paxillus</term>: <term>Talus</term>, <term>taxillus</term>: <term>Mala</term>, <term>maxilla</term>: <term>Ala</term>, <term>axilla</term>.
+          Illa quoque diminutiua, quæ finiunt in <term>after</term>, imitationem potius quàm diminutionem fignificant. 
+          Neque enim ea ratione dicitur <term>Oleaster</term>, <term>Pinaſter</term>... quòd fit parua olea... ſed quòd fylueftria... imitantia.
+          Et hinc Auguftinus appellat <term>philoſophaſtrú</term>, nő (vt puto) paruŭ philofophu, ſed imitatorem philofophorű.
+        </p>
+        <p>
+          Duo tamen nomina funt, quæ diminutio nis regulă feruant, <term>Surdaſter</term> &amp; <term>Recaluaſter</term>. 
+          Non eft plane ſurdus ſurdaſter, fed ſurdulus.
+        </p>
+      </div>
+
+      <pb n="18" facs="page4"/>
+      <fw type="header">LAVRENT. VAL LAE</fw>
+      <fw type="pageNum">18</fw>
+      
+      <div type="epitome">
+        <head>ΕΡΙΤΟΜΕ.</head>
+        <p>
+          In arium exeuntia fubftantiua, ferè rerum figniificatarum per nomina vnde formantur repofitoria... fignificcant.
+          In arius autem &amp; aria, officia hominum qualitatemq; fignificant.
+          In orius, verè opifiicem: &amp; in orium, officinam ſeu locum in quo quid fir.
+        </p>
+      </div>
+
+      <div n="6" type="chapter">
+        <head>De nominibus exeuntibus in arius, vel arium. CA P. VI.</head>
+        <p>
+          <term>Tabularium</term>, locus vbi tabulæ, id eſt inſtrumēta, &amp; literæ reponuntur.
+          <term>Sacrarium</term>, repoſitorium facrorum. 
+          <term>AErarium</term>, repoſitorium æris, id eft nummorum.
+          <term>Armarium</term>, vbi reponútur libri.
+        </p>
+      </div>
+
+      <pb n="19" facs="page5"/>
+      <fw type="header">ELEGANT. LIB. I.</fw>
+      <fw type="pageNum">18</fw>
+      
+      <div type="chapter_content">
+        <p>
+          <term>Calamariū</term> quidam vfurpant pro theca calamaria... poteſt etiá dici <term>pennariű</term>.
+          <term>Viuarium</term>, vbi continentur vel aues, vel piſcess, vel feræ.
+          <term>Pomariú</term>, locus pomorú reponendorú, vel locus confitus pomis.
+          Titus autem Li uius <term>pomeriű</term> ait effe lociu ad muros... quaſi poſt mæmia.
+        </p>
+        <p>
+          <term>Roſarium</term> magis copiam fruticum vno loco roſas gignentium... fignificat.
+          <term>Seminarium</term>, non locus, ſed ſemen ipſum, id eſt plantulæ.
+          <term>Donaria</term>, non locus repoſitorius donorum, fed ipſa dona.
+        </p>
+      </div>
+
+      <pb n="20" facs="page6"/>
+      <fw type="header">LAVRENT. VALLAE</fw>
+      <fw type="pageNum">20</fw>
+      
+      <div type="chapter_content">
+        <p>
+          Maſculina, fœminina, &amp; communia, officia hominum, qualitatémque ligni ficant.
+          <term>Caprarius</term>, <term>faltuarius</term>, <term>camparius</term>... cuftos caprarum, ſaltus, campi.
+          <term>Sagarius</term>, <term>lintearius</term>, <term>veſtiarius</term>: venditor ſagorum, linteorú, veftium.
+        </p>
+        <p>
+          Adiectiua in orius... actionem fignifi cantia, <term>Accufatorius</term>, <term>petitorius</term>, <term>deféſorius</term>.
+          Neutra auté in orium, locü plerunq; fignificant: vt <term>Deabulatoriű</term>, <term>Dormitoriú</term>, <term>Auditoriű</term>.
+        </p>
+      </div>
+
+      <pb n="21" facs="page1"/>
+      <fw type="header">ELEGANT. LIB. L.</fw>
+      <fw type="pageNum">21</fw>
+      
+      <div type="chapter_content">
+        <p>
+          <term>Tectorium</term>, illinimentű eſt &amp; quaſi pauimentů parietis[cite: 340]. <term>Amatoriú</term>, genus veneni amorë vel infania ingerétis[cite: 341]. <term>Portoriű</term>, vectigal portus[cite: 341]. <term>Portitor</term> ille dicitur qui traducit homines, ac vehit nauigio[cite: 342].
+        </p>
+      </div>
+
+      <div type="epitome">
+        <head>ΕΡΙΤΟME.</head>
+        <p>
+          <term>Euentus</term>, <term>iuffus</term>, &amp; <term>permiffus</term>, ſubſtantiua in fingulari numero quartæ declinationis, &amp; mafculina in plurali fecundæ, &amp; neutra reperiuntur vfitatius[cite: 347]. 
+          Vbi varia eft declinatio, vrédú effe cofuctiore apud doctos[cite: 359].
+        </p>
+      </div>
+
+      <div n="7" type="chapter">
+        <head>De Euentu, luſſu, Permiſſu, Iugero. CAP. VII.</head>
+        <p>
+          <term>Euentus</term> in fingulari generis maſculini, &amp; declinationis quartæ eft, cuius plurali M. Tullius fæpiſſlime in neutro genere, &amp; declinatione ſecunda vtitur[cite: 364].
+          Similia funt huic, <term>iuffu</term> &amp; <term>permiffu</term> tuo, quorum pluralia funt potius fecundæ declinationis[cite: 378].
+        </p>
+      </div>
+
+      <pb n="22" facs="page2"/>
+      <fw type="pageNum">22</fw>
+      <fw type="header">LAVRENT. VALLAE</fw>
+
+      <div type="chapter_content">
+        <p>
+          Ediuerſo, <term>iugerum</term> in fingulari ſecundæ, &amp; in pluralı tertiæ declinationis[cite: 383]. 
+          Significat autem menfuram ducentorű quadraginta pedum in longitudinem[cite: 385].
+        </p>
+      </div>
+
+      <div type="epitome">
+        <head>ΕΡΙΤΟΜΕ.</head>
+        <p>
+          Adiectiua in <term>tilis</term>, <term>filis</term>, aut <term>xilis</term>, ſi à paffiuis veniunt, præteriti paffiui ſignificatione habent: fin ab abſolutis, præſentis[cite: 388].
+        </p>
+      </div>
+
+      <div n="8" type="chapter">
+        <head>De nominibus adiectiuis in tilis, filis, &amp; xilis. CAP. VIII.</head>
+        <p>
+          Vas <term>fictile</term>, quod fictum eft figulo, non quod fingi poteft. <term>Coctiles</term> lateres, qui cocti funt, &amp; non crudi[cite: 397].
+        </p>
+
+        <pb n="23" facs="page3"/>
+        <fw type="header">EBEGANT. LIB.</fw>
+        <fw type="pageNum">23</fw>
+        <p>
+          <term>Penfilis</term> vua, <term>penfiliis</term> lectus... quòd ſuſpenſi ſunt[cite: 405]. <term>Altilis</term> auis... qui ſagina altus fiue alitus eſt[cite: 408].
+          <term>Verſatilis</term> quoque ſcena videtur ſignificare, quòd verſatur huc &amp; illuc, non quòd verſata eſt.
+        </p>
+      </div>
+
+      <pb n="24" facs="page4"/>
+      <fw type="pageNum">24</fw>
+      <fw type="header">LAVRENT. VALLAΕ</fw>
+
+      <div type="epitome">
+        <head>ΕΡΙΤOME.</head>
+        <p>
+          In <term>bundus</term> verbalia, participii præfentis verborum frequentatiuorum fignificationem habent[cite: 439].
+        </p>
+      </div>
+
+      <div n="9" type="chapter">
+        <head>De adiectiuis in bundus. CAP. IX.</head>
+        <p>
+          Prifcianus... inquit, In <term>bundus</term> deſinentia ſimilitudinem habere fignificant, vt <term>Vitabundus</term>, fimilis vitanti.
+          Hoc Aulus Gellius confutat... non fimulationem... fed vehementiam intelligi velit[cite: 448].
+        </p>
+
+        <pb n="25" facs="page5"/>
+        <fw type="header">ELEGANT. LIB. 1.</fw>
+        <fw type="pageNum">25</fw>
+        <p>
+          Apollinaris... ait... vim &amp; copiam, &amp; quafi abundantiam rei... vt <term>lætabundus</term> is dicatur, qui abunde lætus fit [cite: 460-461].
+        </p>
+      </div>
+
+      <pb n="26" facs="page6"/>
+      <fw type="pageNum">26</fw>
+      <fw type="header">LAVRENT. VALLAE</fw>
+
+      <div type="epitome">
+        <head>ΕΡΙΤΟME.</head>
+        <p>
+          Verbalia in <term>icus</term> à facio, vt <term>magnificus</term>... à dico, vt <term>maledicus</term>... in <term>quus</term>, à loquor, vt <term>magniloquus</term>[cite: 485]. 
+          Ciceronem non recipere à nomine pius, fuperlatiuum <term>piiffimus</term>... pientiffimü dicunt[cite: 486].
+        </p>
+      </div>
+
+      <div n="10" type="chapter">
+        <head>De nominibus in icus. CAP. X.</head>
+        <p>
+          <term>Magnificus</term>, <term>honorificus</term>, <term>munificus</term> non ex ſe gignunt comparatiuos... fed ex aliis quæ in vſu non funt... <term>magnificentior</term> [cite: 492-493].
+        </p>
+
+        <pb n="27" facs="page7"/>
+        <fw type="header">ELEGANT. LIB. 1.</fw>
+        <fw type="pageNum">27</fw>
+        <p>
+          <term>Maledicus</term>, <term>maledicentior</term>, <term>maledicentiſſimus</term>[cite: 504].
+          <term>Magniloquus</term>, <term>altiloquus</term>... faciunt comparatiuum <term>magniloquentior</term>[cite: 510].
+        </p>
+      </div>
+
+      <div type="epitome">
+        <head>ΕΡΙΤΟME.</head>
+        <p>
+          In <term>eus</term> formata à materiarum nominibus... fignificat quid factú ex mera &amp; folida materia[cite: 514]. 
+          In <term>accus</term>... fignificant factum ex materia mixta[cite: 514].
+          In <term>atus</term>... fignificant incruſtatum aut tectum ea materia[cite: 515].
+        </p>
+      </div>
+
+      <div n="11" type="chapter">
+        <head>De nominibus in ceus, in eus, &amp; in itius. CAP. XI.</head>
+        <p>
+          Finita in <term>ceus</term> pauca funt, materiamque ſignificant, vt <term>Herbaceus</term>, <term>Betaceus</term>, <term>Maluaceus</term>[cite: 522].
+        </p>
+      </div>
+
+<pb n="28" facs="page1"/>
+      <fw type="header">LAVRENT. VALLAB</fw>
+      <fw type="pageNum">28</fw>
+      
+      <div type="chapter_content">
+        <p>
+          <term>Panis triticeus</term>, hordeaceúſve, non ex folo tritico hordeóve cópofitus eſt, ſed ex aqua quoque[cite: 534]. 
+          Huius generis eſt <term>Vinaceus</term>, quum eft adiectiuű... &amp; vinacea ſubſtantiuum plurale[cite: 537].
+        </p>
+        <p>
+          Sunt item nomina finita in <term>itius</term>... fi à nominibus quidem, ſignificant materiam: fi à ſupinis verò, paffionem quandam[cite: 538]. 
+          vt <term>Cratitius</term>, <term>Lateritius</term>, <term>Fictitius</term>, <term>Conductitius</term>[cite: 539].
+        </p>
+      </div>
+
+      <div type="epitome">
+        <head>ΕΡΙΤΟME.</head>
+        <p>
+          Comparatiuum nomen femper auget ſignificationem abſoluti, licet rem fubiecam imminuat[cite: 544]. 
+          Sæpe tamen pro abfoluto repertum eft[cite: 545]. 
+          Sæpe mitius &amp; vrbanius loquimur per comparatiua quàm per fuperlatiua: vt <term>liberior</term>, <term>iracundior</term>[cite: 548].
+        </p>
+      </div>
+
+      <div n="12" type="chapter">
+        <head>De natura comparatiui. CAP. XII.</head>
+        <p>
+          Comparatiuú pro minore vi accipi, quàm ipſum poſitiuú habeat, ait Prifcianus: vt <quote>Triftior &amp; lachrymis oculos fuffuſa nitentes</quote> [cite: 571-572]. 
+          Sæpe per ſe poſitum pro ipſo poſitiuo, vt <term>Comites ſenioris Aceſtæ</term>, pro ſenis[cite: 573].
+        </p>
+
+        <pb n="29" facs="page2"/>
+        <fw type="header">ELEGANT. LIB. I.</fw>
+        <fw type="pageNum">29</fw>
+        <p>
+          Ideo, cum Seruio non ſentio dicente: <term>Senior</term> &amp; <term>Iunior</term> comparatiua ſunt per imminutionem[cite: 578]. 
+          Eſt enim natura comparatiui, fuperare in ea qualitate, quam obtinet pofitiuus[cite: 580]. 
+          <term>Antiquior</term> te ego ſum, id eſt maior te natus ſum[cite: 582].
+        </p>
+
+        <pb n="30" facs="page3"/>
+        <fw type="header">LAVRENT. VALLAE</fw>
+        <fw type="pageNum">30</fw>
+        <p>
+          <term>Minus</term> pro non, femper ferè accipitur: frequentiffime tamen iŭAum cũ ſin[cite: 595]. 
+          <term>Sin minus</term>, id eſt ſi non. <term>Quo minus</term>, id eſt vt non[cite: 596].
+        </p>
+        <p>
+          De <term>Magis</term>: Apparet eiufdem poſitiui, quod eft magnum, comparatiuum efle magis, cuius fuperlatiuum eft maxime. 
+          Cur per magis &amp; pofitiuum refolui comparatiuum Priſcianus voluit, tacens de cæteris?.
+        </p>
+      </div>
+
+      <pb n="31" facs="page4"/>
+      <fw type="header">ELEGANT. EIB. I.</fw>
+      <fw type="pageNum">31</fw>
+      
+      <div type="epitome">
+        <head>ΕΡΙΤΟME.</head>
+        <p>
+          Comparatiuum... locú habet dūtaxat inter dao... Superlatiuú auté dútaxat inter plura duobus [cite: 618-619]. 
+          Vtrúque regere potelt genitiuum, &amp; vtrunque vult poni duntaxat inter ea quæ funt eiufdem naturæ[cite: 624]. 
+          Exemplum: <term>Manuű fortior eſt dextera</term>[cite: 626]. 
+          De fuperlatiuo: <term>Digitorű medius eſt longiffimus</term>[cite: 627].
+        </p>
+      </div>
+
+      <pb n="32" facs="page5"/>
+      <fw type="header">LAVRENT. VALL ΑΕ</fw>
+      <fw type="pageNum">32</fw>
+      
+      <div n="13" type="chapter">
+        <head>De differentia comparatiui à ſuperlatiuo. CAP. XIII.</head>
+        <p>
+          Inter comparatiuum &amp; fuperlatiuu... differétia eft: quòd comparatiuum refertur ad vnú, ſuperlatiuum ad plura[cite: 665]. 
+          Quod reprehendit Priſcianus, inquiés, fit antem comparatio vel ad vnum, vel ad plures[cite: 665].
+        </p>
+        <p>
+          Comparatiuus verò etiam poteſt paruo ſuperantem demonftrare: vnde etiam diminutionem iure accepit apud nos <term>maiufculus</term>, <term>minuſculus</term>[cite: 667].
+        </p>
+      </div>
+
+    
+
+
+    </body>
+  </text>
+</TEI>
