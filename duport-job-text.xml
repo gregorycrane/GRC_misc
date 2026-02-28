@@ -1,0 +1,5795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcription of Lectori Address</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Digitized and transcribed for scholarly use.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>LECTORI</title>
+          <note>Address to the reader from a Latin theological or poetical work regarding the Book of Job.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+      <div type="approbation" subtype="imprimatur">
+   <pb n="unnumbered"/>
+   
+   <note type="handwritten" place="top">
+      <choice>
+         <sic>Biblia</sic>
+         <corr>Biblia</corr>
+      </choice>
+   </note>
+
+   <l n="1">
+      <choice>
+         <sic>PAtientiam JOBI audi-</sic>
+         <corr>PAtientiam JOBI audi-</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>vimus, &amp; finem Do-</sic>
+         <corr>vimus, et finem Do-</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>mini vidimus : TRIUM-</sic>
+         <corr>mini vidimus : TRIUM-</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>PHUM scilicet in ævum du-</sic>
+         <corr>PHUM scilicet in ævum du-</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>raturum. Hoc igitur doctissi-</sic>
+         <corr>raturum. Hoc igitur doctissi-</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>mi autoris carmen quo utrunq;</sic>
+         <corr>mi autoris carmen quo utrunque</corr>
+      </choice>
+   </l>
+   <l n="7">
+      <choice>
+         <sic>prosequitur, dignissimum cen-</sic>
+         <corr>prosequitur, dignissimum cen-</corr>
+      </choice>
+   </l>
+   <l n="8">
+      <choice>
+         <sic>semus quod in lucem erudito-</sic>
+         <corr>semus quod in lucem erudito-</corr>
+      </choice>
+   </l>
+   <l n="9">
+      <choice>
+         <sic>rum hominum, &amp; typis ex-</sic>
+         <corr>rum hominum, et typis ex-</corr>
+      </choice>
+   </l>
+   <l n="10">
+      <choice>
+         <sic>pressum, &amp; amicorum elogiis</sic>
+         <corr>pressum, et amicorum elogiis</corr>
+      </choice>
+   </l>
+   <l n="11">
+      <choice>
+         <sic>laudatum prodeat.</sic>
+         <corr>laudatum prodeat.</corr>
+      </choice>
+   </l>
+
+   <signed>
+      <l n="12">
+         <choice>
+            <sic>Tho. Comber, Procan.</sic>
+            <corr>Thomas Comber, Procancellarius.</corr>
+         </choice>
+      </l>
+      <l n="13">
+         <choice>
+            <sic>Samuel Ward.</sic>
+            <corr>Samuel Ward.</corr>
+         </choice>
+      </l>
+      <l n="14">
+         <choice>
+            <sic>Tho. Bainbrigg.</sic>
+            <corr>Thomas Bainbrigg.</corr>
+         </choice>
+      </l>
+      <l n="15">
+         <choice>
+            <sic>Rich. Sterne.</sic>
+            <corr>Richardus Sterne.</corr>
+         </choice>
+      </l>
+   </signed>
+</div>
+
+<div type="dedication">
+   <pb n="unnumbered"/>
+   <head>
+      <choice>
+         <sic>¶ ILLUSTRISSIMO</sic>
+         <corr>¶ ILLUSTRISSIMO</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>ET</sic>
+         <corr>ET</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>HONORATISSIMO DOM.</sic>
+         <corr>HONORATISSIMO DOM.</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>D. HENRICO,</sic>
+         <corr>D. HENRICO,</corr>
+      </choice>
+   </head>
+
+   <p>
+      <lb/>
+      <choice>
+         <sic>Comiti Hollandiæ , Baroni Kenſingtoniæ :</sic>
+         <corr>Comiti Hollandiæ , Baroni Kensingtoniæ :</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>Academiæ Cantabrigienſis Cancellario ,</sic>
+         <corr>Academiæ Cantabrigiensis Cancellario ,</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>aureæ Periſcelidis Equiti, &amp;</sic>
+         <corr>aureæ Periscelidis Equiti, &amp;</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>Regiæ Majeſtati a conſiliis</sic>
+         <corr>Regiæ Majestati a consiliis</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>ſecretioribus.</sic>
+         <corr>secretioribus.</corr>
+      </choice>
+   </p>
+
+   <p>
+      <l n="1">
+         <choice>
+            <sic>PAtere, Illuſtriſſime Comes, ut ſub pa-</sic>
+            <corr>PAtere, Illustrissime Comes, ut sub pa-</corr>
+         </choice>
+      </l>
+      <l n="2">
+         <choice>
+            <sic>trocinio Tuo in lucem prodeat Jobus</sic>
+            <corr>trocinio Tuo in lucem prodeat Jobus</corr>
+         </choice>
+      </l>
+      <l n="3">
+         <choice>
+            <sic>pallio &amp; metro donatus. Qui olim</sic>
+            <corr>pallio &amp; metro donatus. Qui olim</corr>
+         </choice>
+      </l>
+      <l n="4">
+         <choice>
+            <sic>diei ſuo maledixit, obſtetricante jam</sic>
+            <corr>diei suo maledixit, obstetricante jam</corr>
+         </choice>
+      </l>
+      <l n="5">
+         <choice>
+            <sic>favore Tuo amat naſci : nec eum flere pœnitet,</sic>
+            <corr>favore Tuo amat nasci : nec eum flere pœnitet,</corr>
+         </choice>
+      </l>
+      <l n="6">
+         <choice>
+            <sic>dum in Honoris Tui ſinum ſuas lacrymas fundat.</sic>
+            <corr>dum in Honoris Tui sinum suas lacrymas fundat.</corr>
+         </choice>
+      </l>
+      <l n="7">
+         <choice>
+            <sic>Quanquam quid lacrymas , quid elegos loquor ?</sic>
+            <corr>Quanquam quid lacrymas , quid elegos loquor ?</corr>
+         </choice>
+      </l>
+      <l n="8">
+         <choice>
+            <sic>Siquidem ſub nobiliſſimi Herois ductu militans</sic>
+            <corr>Siquidem sub nobilissimi Herois ductu militans</corr>
+         </choice>
+      </l>
+      <l n="9">
+         <choice>
+            <sic>heroico pede incedit, nec jam threnos agit, ſed tri-</sic>
+            <corr>heroico pede incedit, nec jam threnos agit, sed tri-</corr>
+         </choice>
+      </l>
+      <l n="10">
+         <choice>
+            <sic>umphos. Tantum eſt, Honoratiſſime Domine.</sic>
+            <corr>umphos. Tantum est, Honoratissime Domine.</corr>
+         </choice>
+      </l>
+      <l n="11">
+         <choice>
+            <sic>Quem Academia noſtra vigilantiſſimum Cancel-</sic>
+            <corr>Quem Academia nostra vigilantissimum Cancel-</corr>
+         </choice>
+      </l>
+      <l n="12">
+         <choice>
+            <sic>larium, quem Muſæ omnes Mæcenatem optimum</sic>
+            <corr>larium, quem Musæ omnes Mæcenatem optimum</corr>
+         </choice>
+      </l>
+      <l n="13">
+         <choice>
+            <sic>quem vniverſa denique literatorum gens fauto-</sic>
+            <corr>quem vniversa denique literatorum gens fauto-</corr>
+         </choice>
+      </l>
+      <l n="14">
+         <choice>
+            <sic>rem integerrimum jactat &amp; admiratur, eundem</sic>
+            <corr>rem integerrimum jactat &amp; admiratur, eundem</corr>
+         </choice>
+      </l>
+      <l n="15">
+         <choice>
+            <sic>&amp; hujus quantulicunque operis patronum ſub-</sic>
+            <corr>&amp; hujus quantulicunque operis patronum sub-</corr>
+         </choice>
+      </l>
+      <l n="16">
+         <choice>
+            <sic>miſsè implorat</sic>
+            <corr>missè implorat</corr>
+         </choice>
+      </l>
+   </p>
+
+   <signed>
+      <choice>
+         <sic>Honori tuo humillimè devotus,</sic>
+         <corr>Honori tuo humillimè devotus,</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>JACOBUS DUPORT.</sic>
+         <corr>JACOBUS DUPORT.</corr>
+      </choice>
+   </signed>
+
+   <fw type="sig">
+      <choice>
+         <sic>¶ 3</sic>
+         <corr>¶ 3</corr>
+      </choice>
+   </fw>
+</div>
+
+<div type="preface" subtype="reader_address">
+   <pb n="unnumbered"/>
+   
+   <head>
+      <choice>
+         <sic>LECTORI.</sic>
+         <corr>LECTORI.</corr>
+      </choice>
+   </head>
+
+   <p>
+      <l n="1">
+         <choice>
+            <sic>Aliquot jam anni effluxerunt, humaniſſime</sic>
+            <corr>Aliquot jam anni effluxerunt, humanissime</corr>
+         </choice>
+      </l>
+      <l n="2">
+         <choice>
+            <sic>Lector, ex quo tria quatuórve poſtrema Jobi</sic>
+            <corr>Lector, ex quo tria quatuórve postrema Jobi</corr>
+         </choice>
+      </l>
+      <l n="3">
+         <choice>
+            <sic>capita Græco carmine vertenda ſuſcepi; idq;</sic>
+            <corr>capita Græco carmine vertenda suscepi; idque</corr>
+         </choice>
+      </l>
+      <l n="4">
+         <choice>
+            <sic>tantùm ſpeciminis gratiâ, nihil minùs in animo ha-</sic>
+            <corr>tantùm speciminis gratiâ, nihil minùs in animo ha-</corr>
+         </choice>
+      </l>
+      <l n="5">
+         <choice>
+            <sic>bens quàm integram libri metaphraſin poetico filo</sic>
+            <corr>bens quàm integram libri metaphrasin poetico filo</corr>
+         </choice>
+      </l>
+      <l n="6">
+         <choice>
+            <sic>pertexere. Memini autem me tunc temporis, partim</sic>
+            <corr>pertexere. Memini autem me tunc temporis, partim</corr>
+         </choice>
+      </l>
+      <l n="7">
+         <choice>
+            <sic>ſtyli majeſtate ſublimitatéq; captum , (quis autem</sic>
+            <corr>styli majestate sublimitateque captum , (quis autem</corr>
+         </choice>
+      </l>
+      <l n="8">
+         <choice>
+            <sic>cothurnus cum divina hac grandiloquentia comparari</sic>
+            <corr>cothurnus cum divina hac grandiloquentia comparari</corr>
+         </choice>
+      </l>
+      <l n="9">
+         <choice>
+            <sic>poſſit?) partim naturalis philoſophiæ dulcedine de-</sic>
+            <corr>possit?) partim naturalis philosophiæ dulcedine de-</corr>
+         </choice>
+      </l>
+      <l n="10">
+         <choice>
+            <sic>linitum, (&amp; quis Ariſtoteles cum hac hiſtoria ani-</sic>
+            <corr>linitum, (et quis Aristoteles cum hac historia ani-</corr>
+         </choice>
+      </l>
+      <l n="11">
+         <choice>
+            <sic>malium conferri auſit?) exinde primùm occaſionem</sic>
+            <corr>malium conferri ausit?) exinde primùm occasionem</corr>
+         </choice>
+      </l>
+      <l n="12">
+         <choice>
+            <sic>ſumpſiſſe tranſferendi extremam hujus libri partem,</sic>
+            <corr>sumpsisse transferendi extremam hujus libri partem,</corr>
+         </choice>
+      </l>
+      <l n="13">
+         <choice>
+            <sic>quæ in meteoris animalibúſque depingendis ferè to-</sic>
+            <corr>quæ in meteoris animalibusque depingendis ferè to-</corr>
+         </choice>
+      </l>
+      <l n="14">
+         <choice>
+            <sic>ta conſumitur. Poſtquam verò ad res ſacras ani-</sic>
+            <corr>ta consumitur. Postquam verò ad res sacras ani-</corr>
+         </choice>
+      </l>
+      <l n="15">
+         <choice>
+            <sic>mum appuli, tum demum non in cortice verborum</sic>
+            <corr>mum appuli, tum demum non in cortice verborum</corr>
+         </choice>
+      </l>
+      <l n="16">
+         <choice>
+            <sic>hæſi, ſed ad ſensûs medullam penetravi, &amp; ab</sic>
+            <corr>hæsi, sed ad sensûs medullam penetravi, et ab</corr>
+         </choice>
+      </l>
+      <l n="17">
+         <choice>
+            <sic>* Hagar ad Saram, ab ancillis ad Penelopen, à Rhe-</sic>
+            <corr>* Hagar ad Saram, ab ancillis ad Penelopen, à Rhe-</corr>
+         </choice>
+         <note place="margin-right">* Clem. Alex. strom. 1</note>
+      </l>
+      <l n="18">
+         <choice>
+            <sic>torica &amp; Philoſophia ad Theologiam oculos converti.</sic>
+            <corr>torica et Philosophia ad Theologiam oculos converti.</corr>
+         </choice>
+      </l>
+      <l n="19">
+         <choice>
+            <sic>Etenim præter phraſeωs elegantiam etiam materiæ</sic>
+            <corr>Etenim præter phraseos elegantiam etiam materiæ</corr>
+         </choice>
+      </l>
+      <l n="20">
+         <choice>
+            <sic>ſublimitatem, præter eloquentiæ flumina (dicam?</sic>
+            <corr>sublimitatem, præter eloquentiæ flumina (dicam?</corr>
+         </choice>
+      </l>
+      <l n="21">
+         <choice>
+            <sic>an grandiloquentiæ fulmina? ) etiam abyſſos Spi-</sic>
+            <corr>an grandiloquentiæ fulmina? ) etiam abyssos Spi-</corr>
+         </choice>
+      </l>
+      <l n="22">
+         <choice>
+            <sic>ritûs, &amp; divinitatis fulgur, denique præter arcana</sic>
+            <corr>ritûs, et divinitatis fulgur, denique præter arcana</corr>
+         </choice>
+      </l>
+      <l n="23">
+         <choice>
+            <sic>naturæ etiam ſacroſancta religionis myſteria, qui-</sic>
+            <corr>naturæ etiam sacrosancta religionis mysteria, qui-</corr>
+         </choice>
+      </l>
+      <l n="24">
+         <choice>
+            <sic>bus iſte liber utraq; (quod aiunt) paginâ mirificè</sic>
+            <corr>bus iste liber utraque (quod aiunt) paginâ mirificè</corr>
+         </choice>
+      </l>
+      <l n="25">
+         <choice>
+            <sic>refertus eſt, demirari cœpi. Exinde magis magíſque</sic>
+            <corr>refertus est, demirari cœpi. Exinde magis magisque</corr>
+         </choice>
+      </l>
+      <l n="26">
+         <choice>
+            <sic>me libido inceſſit, ut quod antea ſtudium in aliqua</sic>
+            <corr>me libido incessit, ut quod antea studium in aliqua</corr>
+         </choice>
+      </l>
+      <l n="27">
+         <choice>
+            <sic>hujus libri particula impenderam, idem in toto collo-</sic>
+            <corr>hujus libri particula impenderam, idem in toto collo-</corr>
+         </choice>
+      </l>
+      <l n="28">
+         <choice>
+            <sic>carem. Cùm enim aptiſſimus mihi viſus eſt, utpote</sic>
+            <corr>carem. Cùm enim aptissimus mihi visus est, utpote</corr>
+         </choice>
+      </l>
+      <l n="29">
+         <choice>
+            <sic>dramaticus cùm ſit &amp; inter metricos ſcripturæ li-</sic>
+            <corr>dramaticus cùm sit et inter metricos scripturæ li-</corr>
+         </choice>
+      </l>
+      <l n="30">
+         <choice>
+            <sic>bros ſemper habitus; tum etiam ob inſignem uſum</sic>
+            <corr>bros semper habitus; tum etiam ob insignem usum</corr>
+         </choice>
+      </l>
+      <l n="31">
+         <choice>
+            <sic>&amp; præſtantiam digniſſimum, in quo exprimendo poe-</sic>
+            <corr>et præstantiam dignissimum, in quo exprimendo poe-</corr>
+         </choice>
+      </l>
+      <l n="32">
+         <choice>
+            <sic>ticæ meæ facultatis (quæ, ſiqua ſit, ſentio quàm</sic>
+            <corr>ticæ meæ facultatis (quæ, siqua sit, sentio quàm</corr>
+         </choice>
+      </l>
+      <l n="33">
+         <choice>
+            <sic>ſit exigua ) nervos intenderem. Fuerunt ante me,</sic>
+            <corr>sit exigua ) nervos intenderem. Fuerunt ante me,</corr>
+         </choice>
+      </l>
+      <l n="34">
+         <choice>
+            <sic>qui in hoc pulvere deſudârunt, &amp; vel Evangelium</sic>
+            <corr>qui in hoc pulvere desudârunt, et vel Evangelium</corr>
+         </choice>
+      </l>
+      <l n="35">
+         <choice>
+            <sic>vel Pſalmos Græcis conſtrinxerunt pedibus; Apol-</sic>
+            <corr>vel Psalmos Græcis constrinxerunt pedibus; Apol-</corr>
+         </choice>
+      </l>
+   </p>
+
+   <fw type="sig">
+      <choice>
+         <sic>¶ 3</sic>
+         <corr>¶ 3</corr>
+      </choice>
+   </fw>
+
+   <fw type="catchword">
+      <choice>
+         <sic>linarius,</sic>
+         <corr>linarius,</corr>
+      </choice>
+   </fw>
+</div>
+
+<div type="preface" subtype="reader_address">
+   <pb n="unnumbered"/>
+   <head>
+      <choice>
+         <sic>Lectori.</sic>
+         <corr>Lectori.</corr>
+      </choice>
+   </head>
+
+   <l n="1">
+      <choice>
+         <sic>linarius, &amp; Nonnus; Deus bone, quanti viri ! quorum ego</sic>
+         <corr>linarius, et Nonnus; Deus bone, quanti viri ! quorum ego</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>nè corrigiam calcei. Egóne nihili homuncio ut cum illis he-</sic>
+         <corr>nè corrigiam calcei. Egóne nihili homuncio ut cum illis he-</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>roibus me conferendum putem? Tantum absum ab ea arro-</sic>
+         <corr>roibus me conferendum putem? Tantum absum ab ea arro-</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>gantia, quantum illi à candore qui ità de me suspicantur. Sa-</sic>
+         <corr>gantia, quantum illi à candore qui ità de me suspicantur. Sa-</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>tìs mihi supérq; fuerit eorum premere vestigia, licèt non</sic>
+         <corr>tìs mihi supérque fuerit eorum premere vestigia, licèt non</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>passibus æquis. Equidem non inficior me ab ineunte jam æ-</sic>
+         <corr>passibus æquis. Equidem non inficior me ab ineunte jam æ-</corr>
+      </choice>
+   </l>
+   <l n="7">
+      <choice>
+         <sic>tate poeseωs, præsertim Homericæ, fuisse studiosum. Quare</sic>
+         <corr>tate poeseos, præsertim Homericæ, fuisse studiosum. Quare</corr>
+      </choice>
+   </l>
+   <l n="8">
+      <choice>
+         <sic>si quid in ea profecerim; volui id totum, quantulumcunq; sit,</sic>
+         <corr>si quid in ea profecerim; volui id totum, quantulumcunque sit,</corr>
+      </choice>
+   </l>
+   <l n="9">
+      <choice>
+         <sic>humillimè ad aram Dei deponere, &amp; si vel duo minuta lucra-</sic>
+         <corr>humillimè ad aram Dei deponere, et si vel duo minuta lucra-</corr>
+      </choice>
+   </l>
+   <l n="10">
+      <choice>
+         <sic>tus fuerim, in ærarium ejus conjicere: volui etiam leviora</sic>
+         <corr>tus fuerim, in ærarium ejus conjicere: volui etiam leviora</corr>
+      </choice>
+   </l>
+   <l n="11">
+      <choice>
+         <sic>studia, lanam meam caprinam tabernaculo offerre: volui sacri-</sic>
+         <corr>studia, lanam meam caprinam tabernaculo offerre: volui sacri-</corr>
+      </choice>
+   </l>
+   <l n="12">
+      <choice>
+         <sic>ficare Isaacum meum, etiam juvenilia &amp; ludicra (sic enim</sic>
+         <corr>ficare Isaacum meum, etiam juvenilia et ludicra (sic enim</corr>
+      </choice>
+   </l>
+   <l n="13">
+      <choice>
+         <sic>* Philo [*Lib. de Abrahamo] ἀλληγορεῖ) Deo consecrare.</sic>
+         <corr>* Philo [*Lib. de Abrahamo] ἀλληγορεῖ) Deo consecrare.</corr>
+      </choice>
+   </l>
+   <l n="14">
+      <choice>
+         <sic>Hoc animo fretus metaphrasin hanc primùm aggressus sum,</sic>
+         <corr>Hoc animo fretus metaphrasin hanc primùm aggressus sum,</corr>
+      </choice>
+   </l>
+   <l n="15">
+      <choice>
+         <sic>&amp; demum ad umbilicum perduxi; sperans fore, ut levidensis</sic>
+         <corr>et demum ad umbilicum perduxi; sperans fore, ut levidensis</corr>
+      </choice>
+   </l>
+   <l n="16">
+      <choice>
+         <sic>hæc opella nostra aliquod saltem apud eruditos punctum fe-</sic>
+         <corr>hæc opella nostra aliquod saltem apud eruditos punctum fe-</corr>
+      </choice>
+   </l>
+   <l n="17">
+      <choice>
+         <sic>rat; utpote φιλολόγοις non insuavis, θεολόγοις non inutilis,</sic>
+         <corr>rat; utpote φιλολόγοις non insuavis, θεολόγοις non inutilis,</corr>
+      </choice>
+   </l>
+   <l n="18">
+      <choice>
+         <sic>φιλομήροις non injucunda, φιλοθέοις non infructuosa, In-</sic>
+         <corr>φιλομήροις non injucunda, φιλοθέοις non infructuosa, In-</corr>
+      </choice>
+   </l>
+   <l n="19">
+      <choice>
+         <sic>tegros sæpe versus (ut jam de operis ratione aliquid dicam)</sic>
+         <corr>tegros sæpe versus (ut jam de operis ratione aliquid dicam)</corr>
+      </choice>
+   </l>
+   <l n="20">
+      <choice>
+         <sic>ex poetarum rege transtuli; imò nec ullam ferè vocem liben-</sic>
+         <corr>ex poetarum rege transtuli; imò nec ullam ferè vocem liben-</corr>
+      </choice>
+   </l>
+   <l n="21">
+      <choice>
+         <sic>ter adhibui, quam in Homero non inveni: Adeóq; me non</sic>
+         <corr>ter adhibui, quam in Homero non inveni: Adeóque me non</corr>
+      </choice>
+   </l>
+   <l n="22">
+      <choice>
+         <sic>pudet istius sive imitationis, sive allusionis, ut nihil magìs</sic>
+         <corr>pudet istius sive imitationis, sive allusionis, ut nihil magìs</corr>
+      </choice>
+   </l>
+   <l n="23">
+      <choice>
+         <sic>quàm centonem in hoc argumento scripsisse cuperem. Pro ma-</sic>
+         <corr>quàm centonem in hoc argumento scripsisse cuperem. Pro ma-</corr>
+      </choice>
+   </l>
+   <l n="24">
+      <choice>
+         <sic>teriæ ratione vel laxavi stylum vel contraxi: &amp; cùm alibi</sic>
+         <corr>teriæ ratione vel laxavi stylum vel contraxi: et cùm alibi</corr>
+      </choice>
+   </l>
+   <l n="25">
+      <choice>
+         <sic>adeò, ubi res sinit, fusior sum, ut παραφράζειν videar potiùs</sic>
+         <corr>adeò, ubi res sinit, fusior sum, ut παραφράζειν videar potiùs</corr>
+      </choice>
+   </l>
+   <l n="26">
+      <choice>
+         <sic>quàm μεταφράζειν, tum verò maximè in ζωγραφίᾳ illa ad</sic>
+         <corr>quàm μεταφράζειν, tum verò maximè in ζωγραφίᾳ illa ad</corr>
+      </choice>
+   </l>
+   <l n="27">
+      <choice>
+         <sic>finem libri, quæ primam huic metaphrasi ansam dedit; præ-</sic>
+         <corr>finem libri, quæ primam huic metaphrasi ansam dedit; præ-</corr>
+      </choice>
+   </l>
+   <l n="28">
+      <choice>
+         <sic>sertim ubi de Equo, Elephante, &amp; Balæna agitur, paulo li-</sic>
+         <corr>sertim ubi de Equo, Elephante, et Balæna agitur, paulo li-</corr>
+      </choice>
+   </l>
+   <l n="29">
+      <choice>
+         <sic>beriori pede excurri, nec tamen (utì spero) ὑπὲρ τὰ ἐσκαμ-</sic>
+         <corr>beriori pede excurri, nec tamen (utì spero) ὑπὲρ τὰ ἐσκαμ-</corr>
+      </choice>
+   </l>
+   <l n="30">
+      <choice>
+         <sic>μένα. Anglicanam nostram versionem ad amussim secutus</sic>
+         <corr>μένα. Anglicanam nostram versionem ad amussim secutus</corr>
+      </choice>
+   </l>
+   <l n="31">
+      <choice>
+         <sic>sum: in qua tamen si difficultas aliqua vel obscuritas occur-</sic>
+         <corr>sum: in qua tamen si difficultas aliqua vel obscuritas occur-</corr>
+      </choice>
+   </l>
+   <l n="32">
+      <choice>
+         <sic>rebat, (&amp; occurrebat sæpenumerò) consului tum Græcam in-</sic>
+         <corr>rebat, (et occurrebat sæpenumerò) consului tum Græcam in-</corr>
+      </choice>
+   </l>
+   <l n="33">
+      <choice>
+         <sic>terpretationem Septuaginta seniorum, tum maximè Hebrai-</sic>
+         <corr>terpretationem Septuaginta seniorum, tum maximè Hebrai-</corr>
+      </choice>
+   </l>
+   <l n="34">
+      <choice>
+         <sic>cam veritatem; à qua nè aberrarem, (&amp; equidem spero me à</sic>
+         <corr>cam veritatem; à qua nè aberrarem, (et equidem spero me à</corr>
+      </choice>
+   </l>
+   <l n="35">
+      <choice>
+         <sic>genuino textûs scopo haud sæpe deflexisse) geminum sensum</sic>
+         <corr>genuino textûs scopo haud sæpe deflexisse) geminum sensum</corr>
+      </choice>
+   </l>
+   <l n="36">
+      <choice>
+         <sic>ἕν διὰ δυοῖν conjunxi, textualem, &amp; marginalem. Hebraismos</sic>
+         <corr>ἕν διὰ δυοῖν conjunxi, textualem, et marginalem. Hebraismos</corr>
+      </choice>
+   </l>
+   <l n="37">
+      <choice>
+         <sic>rarò retinui; plerunq; Hellenismis commutavi. Postquam</sic>
+         <corr>rarò retinui; plerunque Hellenismis commutavi. Postquam</corr>
+      </choice>
+   </l>
+   <l n="38">
+      <choice>
+         <sic>magnam libri partem absolvissem, venit mihi in manus meta-</sic>
+         <corr>magnam libri partem absolvissem, venit mihi in manus meta-</corr>
+      </choice>
+   </l>
+   <l n="39">
+      <choice>
+         <sic>phrasis doctissimi viri A. Aurelii, stylo eleganti &amp; planè</sic>
+         <corr>phrasis doctissimi viri A. Aurelii, stylo eleganti et planè</corr>
+      </choice>
+   </l>
+   <l n="40">
+      <choice>
+         <sic>Virgiliano contexta, quâ quidem non inficior me mediocriter</sic>
+         <corr>Virgiliano contexta, quâ quidem non inficior me mediocriter</corr>
+      </choice>
+   </l>
+   <l n="41">
+      <choice>
+         <sic>esse adjutum. Tantum verò abfuit, ut propterea pensi filum</sic>
+         <corr>esse adjutum. Tantum verò abfuit, ut propterea pensi filum</corr>
+      </choice>
+   </l>
+
+   <fw type="catchword">
+      <choice>
+         <sic>in</sic>
+         <corr>in</corr>
+      </choice>
+   </fw>
+</div>
+
+<div type="preface" subtype="reader_address">
+   <pb n="unnumbered"/>
+   
+   <head>
+      <choice>
+         <sic>Lectori.</sic>
+         <corr>Lectori.</corr>
+      </choice>
+   </head>
+
+   <l n="42">
+      <choice>
+         <sic>in medio abrumperem, quasi anticipationis quâdam larvâ</sic>
+         <corr>in medio abrumperem, quasi anticipationis quâdam larvâ</corr>
+      </choice>
+   </l>
+   <l n="43">
+      <choice>
+         <sic>deterritus, ut majori potiùs alacritate in incepto pergerem.</sic>
+         <corr>deterritus, ut majori potiùs alacritate in incepto pergerem.</corr>
+      </choice>
+   </l>
+   <l n="44">
+      <choice>
+         <sic>Grata enim mihi videbatur æmulatio, quâ Homerus &amp; Vir-</sic>
+         <corr>Grata enim mihi videbatur æmulatio, quâ Homerus et Vir-</corr>
+      </choice>
+   </l>
+   <l n="45">
+      <choice>
+         <sic>gilius, hic Latinorum, Græcorum ille, poetarum principes</sic>
+         <corr>gilius, hic Latinorum, Græcorum ille, poetarum principes</corr>
+      </choice>
+   </l>
+   <l n="46">
+      <choice>
+         <sic>inter se certarent, uter ad res divinas aptiùs accommodari</sic>
+         <corr>inter se certarent, uter ad res divinas aptiùs accommodari</corr>
+      </choice>
+   </l>
+   <l n="47">
+      <choice>
+         <sic>posset, uter meliùs disceret χριστιανίζειν, uter * εἰς ἡμετέραν</sic>
+         <corr>posset, uter meliùs disceret χριστιανίζειν, uter * εἰς ἡμετέραν</corr>
+      </choice>
+   </l>
+   <l n="48">
+      <choice>
+         <sic>θείαν αὐλὴν [* Eustath. ἰλιάδ. ά.] libentiùs migraret. Ce-</sic>
+         <corr>θείαν αὐλὴν [* Eustathius. Ἰλιάδ. ά.] libentiùs migraret. Ce-</corr>
+      </choice>
+   </l>
+   <l n="49">
+      <choice>
+         <sic>dunt fateor, imò longè cedunt Ὁμηρόκεντρα hæc Virgilianis</sic>
+         <corr>dunt fateor, imò longè cedunt Ὁμηρόκεντρα hæc Virgilianis</corr>
+      </choice>
+   </l>
+   <l n="50">
+      <choice>
+         <sic>illis centonibus; at hoc παρῳδ8, non ποιητ8 vitium esse con-</sic>
+         <corr>illis centonibus; at hoc παρῳδοῦ, non ποιητοῦ vitium esse con-</corr>
+      </choice>
+   </l>
+   <l n="51">
+      <choice>
+         <sic>tendo: nec enim ipse Scaliger à me extorquebit, ut Maroni</sic>
+         <corr>tendo: nec enim ipse Scaliger à me extorquebit, ut Maroni</corr>
+      </choice>
+   </l>
+   <l n="52">
+      <choice>
+         <sic>Mæonides herbam porrigat. Quanquam verò iis præsertim</sic>
+         <corr>Mæonides herbam porrigat. Quanquam verò iis præsertim</corr>
+      </choice>
+   </l>
+   <l n="53">
+      <choice>
+         <sic>qui ἑλληνοχριστιανίζειν didicere, usui futurum sit hoc quic-</sic>
+         <corr>qui ἑλληνοχριστιανίζειν didicere, usui futurum sit hoc quic-</corr>
+      </choice>
+   </l>
+   <l n="54">
+      <choice>
+         <sic>quid est opusculi, adjeci nihilominus Latinam interpretatio-</sic>
+         <corr>quid est opusculi, adjeci nihilominus Latinam interpretatio-</corr>
+      </choice>
+   </l>
+   <l n="55">
+      <choice>
+         <sic>nem ad verbum, stylo sanè rudi &amp; impolito: quæ tamen si</sic>
+         <corr>nem ad verbum, stylo sanè rudi et impolito: quæ tamen si</corr>
+      </choice>
+   </l>
+   <l n="56">
+      <choice>
+         <sic>minùs Latinæ paraphraseos loco esse possit, at aliquam sal-</sic>
+         <corr>minùs Latinæ paraphraseos loco esse possit, at aliquam sal-</corr>
+      </choice>
+   </l>
+   <l n="57">
+      <choice>
+         <sic>tem lucem ad illustrationem libri satìs in se obscuri etiam</sic>
+         <corr>tem lucem ad illustrationem libri satìs in se obscuri etiam</corr>
+      </choice>
+   </l>
+   <l n="58">
+      <choice>
+         <sic>Græcè nescientibus allatura sit. Habes, candide Lector, &amp;</sic>
+         <corr>Græcè nescientibus allatura sit. Habes, candide Lector, et</corr>
+      </choice>
+   </l>
+   <l n="59">
+      <choice>
+         <sic>consilii mei pariter &amp; operis rationem. Tu verò conatibus</sic>
+         <corr>consilii mei pariter et operis rationem. Tu verò conatibus</corr>
+      </choice>
+   </l>
+   <l n="60">
+      <choice>
+         <sic>nostris fave, &amp; hanc opellam æqui bonique consule.</sic>
+         <corr>nostris fave, et hanc opellam æqui bonique consule.</corr>
+      </choice>
+   </l>
+</div>
+
+<div type="errata">
+   <head>
+      <choice>
+         <sic>Emendanda &amp; mutanda.</sic>
+         <corr>Emendanda et mutanda.</corr>
+      </choice>
+   </head>
+
+   <p>
+      <choice>
+         <sic>Cap.7.v.5. deleat in marg. [6.] in direct. pro Κερκίδος</sic>
+         <corr>Cap.7.v.5. deleat in marg. [6.] in direct. pro Κερκίδος</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>leg. ΤύχεΙ'. C.8.v.17. pro ἄργυρ- l. ἀργυρ-. C.15.v.23. pro</sic>
+         <corr>leg. Τήκετ᾽. C.8.v.17. pro ἄργυρ- l. ἀργυρ-. C.15.v.23. pro</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>παρεσάμεναι l. -μεθ. C.16.v.2. pro Η l. Ἦ. C.18.v.20.</sic>
+         <corr>παρεσάμεναι l. -μεθ. C.16.v.2. pro Η l. Ἦ. C.18.v.20.</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>post ὀδόντο, deleatur, &amp; v.19. incipiat ab Ὀυδέ τι- in di-</sic>
+         <corr>post ὀδόντο, deleatur, et v.19. incipiat ab Ὀυδέ τι- in di-</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>rect. C.19.v.10. pro Λίην l. χαλκῷ. Et v.22. pro ὀχ' l. ὀχ</sic>
+         <corr>rect. C.19.v.10. pro Λίην l. χαλκῷ. Et v.22. pro ὀχ' l. ὀχ</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>sine apostropho, &amp; sic si fortè alibi. C.21.v.19. pro οἱ l. οἳ.</sic>
+         <corr>sine apostropho, et sic si fortè alibi. C.21.v.19. pro οἱ l. οἳ.</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>C.22.v.17. post ἀναχώρει del. , . C.34.v.9. pro αἲ l. Καὶ</sic>
+         <corr>C.22.v.17. post ἀναχώρει del. , . C.34.v.9. pro αἲ l. Καὶ</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>C.39.v.24. pro λῦσαι l. λύσαι. C.40.v.2. post Θεῷ del. , .</sic>
+         <corr>C.39.v.24. pro λῦσαι l. λύσαι. C.40.v.2. post Θεῷ del. , .</corr>
+      </choice>
+   </p>
+
+   <p>
+      <choice>
+         <sic>Porrò autem quia in illis verbis c.1.v.21. [Dominus de-</sic>
+         <corr>Porrò autem quia in illis verbis c.1.v.21. [Dominus de-</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>dit, &amp; Dominus abstulit; benedictum sit nomen Domini]</sic>
+         <corr>dit, et Dominus abstulit; benedictum sit nomen Domini]</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>Sacros^tam Trinitatem occultè licèt &amp; obscurè subindicari o-</sic>
+         <corr>Sacrosanctam Trinitatem occultè licèt et obscurè subindicari o-</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>pinantur Interpretes, noluit Autor vel minimum illius myste-</sic>
+         <corr>pinantur Interpretes, noluit Autor vel minimum illius myste-</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>rii vestigium in versione suâ obliterari. Ideóq; post δευτέρας</sic>
+         <corr>rii vestigium in versione suâ obliterari. Ideóque post δευτέρας</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>imò τρίτας φροντίδας pro duobus illis versibus [ Δῶκε Θεὸς</sic>
+         <corr>imò τρίτας φροντίδας pro duobus illis versibus [ Δῶκε Θεὸς</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>ϗ ἀφείλ' &amp;c. ] hos substitutos cuperet.</sic>
+         <corr>καὶ ἀφείλ' etc. ] hos substitutos cuperet.</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>Ἦ ῥα Θεὸς μὲν δῶκε, Θεὸς δ' κὴ αὐτὸς ἀφεῖλεν·</sic>
+         <corr>Ἦ ῥα Θεὸς μὲν δῶκε, Θεὸς δ' καὶ αὐτὸς ἀφεῖλεν·</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>Ὄυνομα δ' αὖτε Θεοῖο διαμπερὲς αἰνετὸν ἔστω.</sic>
+         <corr>Ὄυνομα δ' αὖτε Θεοῖο διαμπερὲς αἰνετὸν ἔστω.</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>Certè Deus quidem dedit, Deus autem &amp; ipse abstulit;</sic>
+         <corr>Certè Deus quidem dedit, Deus autem et ipse abstulit;</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>Nomen utiq; Dei perpetuò laudatum sit.</sic>
+         <corr>Nomen utique Dei perpetuò laudatum sit.</corr>
+      </choice>
+   </p>
+</div>
+
+<div type="commendatory_poem">
+   <pb n="unnumbered"/>
+   <head>
+      <choice>
+         <sic>In librum JOB verſibus Homero-</sic>
+         <corr>In librum JOB versibus Homero-</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>centricis pulcherrimè concinnatum ab</sic>
+         <corr>centricis pulcherrimè concinnatum ab</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>amiciſſimo &amp; Græcæ linguæ peritiſſi-</sic>
+         <corr>amicissimo et Græcæ linguæ peritissi-</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>mo viro, J. DUPORT.</sic>
+         <corr>mo viro, J. DUPORT.</corr>
+      </choice>
+   </head>
+
+   <l n="1">
+      <choice>
+         <sic>SEnex Homere, perges nè veſtigiis</sic>
+         <corr>SEnex Homere, perge; nè vestigiis</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Diffide cæcis: Euge, nactus es ducem,</sic>
+         <corr>Diffide cæcis: Euge, nactus es ducem,</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Quem non Apollo nec corona virginum</sic>
+         <corr>Quem non Apollo nec corona virginum</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Sequi recuſet: tutiore jam gradu,</sic>
+         <corr>Sequi recuset: tutiore jam gradu,</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Pióque ſocco, nuſpiam offendes pedem.</sic>
+         <corr>Pióque socco, nuspiam offendes pedem.</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>At tu, poeta, quas mereris, accipe</sic>
+         <corr>At tu, poeta, quas mereris, accipe</corr>
+      </choice>
+   </l>
+   <l n="7">
+      <choice>
+         <sic>Laudésque, laureásque, qui certamine</sic>
+         <corr>Laudésque, laureásque, qui certamine</corr>
+      </choice>
+   </l>
+   <l n="8">
+      <choice>
+         <sic>Felice carmen temperas Homericum</sic>
+         <corr>Felice carmen temperas Homericum</corr>
+      </choice>
+   </l>
+   <l n="9">
+      <choice>
+         <sic>Vel entheæ Davidis æmulum lyræ.</sic>
+         <corr>Vel entheæ Davidis æmulum lyræ.</corr>
+      </choice>
+   </l>
+   <l n="10">
+      <choice>
+         <sic>Ut æſtuoſi amarus humor æquoris</sic>
+         <corr>Ut æstuosi amarus humor æquoris</corr>
+      </choice>
+   </l>
+   <l n="11">
+      <choice>
+         <sic>Lapſu ſilenti per meatus invios</sic>
+         <corr>Lapsu silenti per meatus invios</corr>
+      </choice>
+   </l>
+   <l n="12">
+      <choice>
+         <sic>Telluris imæ ſerpit, &amp; ſalſuginem</sic>
+         <corr>Telluris imæ serpit, et salsuginem</corr>
+      </choice>
+   </l>
+   <l n="13">
+      <choice>
+         <sic>Deponit arctis hæſitantem anguſtiis;</sic>
+         <corr>Deponit arctis hæsitantem angustiis;</corr>
+      </choice>
+   </l>
+   <l n="14">
+      <choice>
+         <sic>Emenſus indè reciprocantes tramites</sic>
+         <corr>Emensus indè reciprocantes tramites</corr>
+      </choice>
+   </l>
+   <l n="15">
+      <choice>
+         <sic>Ebullit alti montis arduo jugo,</sic>
+         <corr>Ebullit alti montis arduo jugo,</corr>
+      </choice>
+   </l>
+   <l n="16">
+      <choice>
+         <sic>Lymphis amœnis læta findens paſcua:</sic>
+         <corr>Lymphis amœnis læta findens pascua:</corr>
+      </choice>
+   </l>
+   <l n="17">
+      <choice>
+         <sic>Sic pervetuſtæ gurgitem poeticæ</sic>
+         <corr>Sic pervetustæ gurgitem poeticæ</corr>
+      </choice>
+   </l>
+   <l n="18">
+      <choice>
+         <sic>Tu ſtringis in repando, amabili ſinu,</sic>
+         <corr>Tu stringis in repando, amabili sinu,</corr>
+      </choice>
+   </l>
+   <l n="19">
+      <choice>
+         <sic>Tuíque puris ingenî canalibus</sic>
+         <corr>Tuíque puris ingenii canalibus</corr>
+      </choice>
+   </l>
+   <l n="20">
+      <choice>
+         <sic>Omnem coercens ethnici guſtum ſalis</sic>
+         <corr>Omnem coercens ethnici gustum salis</corr>
+      </choice>
+   </l>
+   <l n="21">
+      <choice>
+         <sic>Ripâ ſeveriore cogis alveum,</sic>
+         <corr>Ripâ severiore cogis alveum,</corr>
+      </choice>
+   </l>
+   <l n="22">
+      <choice>
+         <sic>Et dulcè percolata fundis flumina.</sic>
+         <corr>Et dulcè percolata fundis flumina.</corr>
+      </choice>
+   </l>
+   <l n="23">
+      <choice>
+         <sic>Jacobe, macte: gratias tibi refert</sic>
+         <corr>Jacobe, macte: gratias tibi refert</corr>
+      </choice>
+   </l>
+   <l n="24">
+      <choice>
+         <sic>Uterque, Jobus, &amp; Poeta; carmine</sic>
+         <corr>Uterque, Jobus, et Poeta; carmine</corr>
+      </choice>
+   </l>
+   <l n="25">
+      <choice>
+         <sic>Donatus ille, &amp; iſte ſanctimoniâ.</sic>
+         <corr>Donatus ille, et iste sanctimoniâ.</corr>
+      </choice>
+   </l>
+
+   <signed>
+      <choice>
+         <sic>Ηὐτοσχδίαζε Robertus Crichton,</sic>
+         <corr>Ηὐτοσχεδίαζε Robertus Crichton,</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>Orator Academiæ,</sic>
+         <corr>Orator Academiæ,</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>&amp; Græcus Profeſſor.</sic>
+         <corr>&amp; Græcus Professor.</corr>
+      </choice>
+   </signed>
+
+   <fw type="catchword">
+      <choice>
+         <sic>TE</sic>
+         <corr>TE</corr>
+      </choice>
+   </fw>
+</div>
+<pb n="scan17"/>
+<div type="commendatory_poem">
+   <pb n="unnumbered"/>
+   
+   <head>
+      <choice>
+         <sic>T E * genus &amp; proavi, Charitésque, novémq; sorores</sic>
+         <corr>TE * genus et proavi, Charitésque, novémquem sorores</corr>
+      </choice>
+      
+   </head>
+
+   <note place="margin-right">
+      <choice>
+         <sic>* Nam avus illi, egregium Ecclesiæ lumen, R. Coxus, Episc. Eliens. &amp; pater, Jo. Duport, eximius vir, Græcarum inprimis &amp; Hebr. literarum callentissimus, necnon Coll. Jesu Præf. integerrimus.</sic>
+         <corr>* Nam avus illi, egregium Ecclesiæ lumen, R. Coxus, Episc. Eliens. et pater, Jo. Duport, eximius vir, Græcarum inprimis et Hebr. literarum callentissimus, necnon Coll. Jesu Præf. integerrimus.</corr>
+      </choice>
+   </note>
+
+   <l n="1">
+      <choice>
+         <sic>Te, Duporte, canunt; téque immortalis Jobus,</sic>
+         <corr>Te, Duporte, canunt; téque immortalis Jobus,</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Quem facit Argolicum Uzæa de gente poetam</sic>
+         <corr>Quem facit Argolicum Uzæa de gente poetam</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Vis sermone potens tua, flexanimíque diserto</sic>
+         <corr>Vis sermone potens tua, flexanimíque diserto</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Ore soni, &amp; sanctæ facundia plurima linguæ.</sic>
+         <corr>Ore soni, et sanctæ facundia plurima linguæ.</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Ille bonus vates dormitans semper Homerus,</sic>
+         <corr>Ille bonus vates dormitans semper Homerus,</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>Hinc semper, per te didicit mysteria vulgo</sic>
+         <corr>Hinc semper, per te didicit mysteria vulgo</corr>
+      </choice>
+   </l>
+   <l n="7">
+      <choice>
+         <sic>Vera loqui, metuens recitare piacula plebi</sic>
+         <corr>Vera loqui, metuens recitare piacula plebi</corr>
+      </choice>
+   </l>
+   <l n="8">
+      <choice>
+         <sic>Vaniloqua, aut sacris dans exponenda Camœnis.</sic>
+         <corr>Vaniloqua, aut sacris dans exponenda Camœnis.</corr>
+      </choice>
+   </l>
+   <l n="9">
+      <choice>
+         <sic>Nempe videns cæcum perducit Iobus Homerum</sic>
+         <corr>Nempe videns cæcum perducit Iobus Homerum</corr>
+      </choice>
+   </l>
+   <l n="10">
+      <choice>
+         <sic>Ad castos Christi latices fontémque Zionis,</sic>
+         <corr>Ad castos Christi latices fontémque Zionis,</corr>
+      </choice>
+   </l>
+   <l n="11">
+      <choice>
+         <sic>Eluat ut tabum infelix, &amp; lumina tingat.</sic>
+         <corr>Eluat ut tabum infelix, et lumina tingat.</corr>
+      </choice>
+   </l>
+
+   <signed>
+      <choice>
+         <sic>Abr. Wheelocus, Arab. Prof. &amp; Bibliothecar. Ac.</sic>
+         <corr>Abr. Wheelocus, Arab. Prof. &amp; Bibliothecar. Ac.</corr>
+      </choice>
+   </signed>
+</div>
+
+<div type="commendatory_poem" lang="grc">
+   <l n="1">
+      <choice>
+         <sic>ΠΗλείδην τὸ πάλαι, κὴ Ἕκτορος ἀνδροφόνοιο</sic>
+         <corr>Πηλείδην τὸ πάλαι, καὶ Ἕκτορος ἀνδροφόνοιο</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Ἀλκὴν ἠδὲ μόρον, Πριάμοιό τ' ὀϊζυροῖο</sic>
+         <corr>Ἀλκὴν ἠδὲ μόρον, Πριάμοιό τ' ὀϊζυροῖο</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Κῆρας ἄειδε κακὰς καλῶς ἀείπνυος Ὅμηρος.</sic>
+         <corr>Κῆρας ἄειδε κακὰς καλῶς περίπυστος Ὅμηρος.</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Νωῒ δ' ἥρωα γλυκερῆς μεγάθυμον ἀοιδῆς</sic>
+         <corr>Νυνὶ δ' ἥρωα γλυκερῆς μεγάθυμον ἀοιδῆς</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Μῦσά γε Μαιονίδ8 κλείει βαρύποτμον Ἰώβον</sic>
+         <corr>Μοῦσά γε Μαιονίδου κλείει βαρύποτμον Ἰώβον</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>Θεσπεσίην θείην ὅσπερ φρεσὶν εἰλυμένος ἀλκὴν</sic>
+         <corr>Θεσπεσίη· θείην ὅσπερ φρεσὶν εἰλυμένος ἀλκὴν</corr>
+      </choice>
+   </l>
+   <l n="7">
+      <choice>
+         <sic>Ἠέρος ἄρχοντα ζυγὸν βροτολοιγὸν ἐνίκη,</sic>
+         <corr>Ἠέρος ἄρχοντα στυγερὸν βροτολοιγὸν ἐνίκη,</corr>
+      </choice>
+   </l>
+   <l n="8">
+      <choice>
+         <sic>Καίπερ πολλὰ παθὼν, ταλασίφρων ὥσπερ Ὀδυσσεὺς</sic>
+         <corr>Καίπερ πολλὰ παθὼν, ταλασίφρων ὥσπερ Ὀδυσσεὺς</corr>
+      </choice>
+   </l>
+   <l n="9">
+      <choice>
+         <sic>Ἰφθίμως ἀνέτλη τά τε κήδεα, ἠδέ τ' ὀϊζύν.</sic>
+         <corr>Ἰφθίμως ἀνέτλη τά τε κήδεα, ἠδέ τ' ὀϊζύν.</corr>
+      </choice>
+   </l>
+
+   <signed>
+      <choice>
+         <sic>G. Blancks, Coll. Caii &amp; Conv. Soc.</sic>
+         <corr>G. Blancks, Coll. Caii &amp; Conv. Soc.</corr>
+      </choice>
+   </signed>
+</div>
+
+<div type="commendatory_poem">
+   <head>
+      <choice>
+         <sic>In Jobum, carmine Homerico à J.D. expressum.</sic>
+         <corr>In Jobum, carmine Homerico à J.D. expressum.</corr>
+      </choice>
+   </head>
+
+   <l n="1">
+      <choice>
+         <sic>QVis te, Calliope, &amp; tuas sorores</sic>
+         <corr>QVis te, Calliope, et tuas sorores</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Pellexit Helicone de nivoso,</sic>
+         <corr>Pellexit Helicone de nivoso,</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Atque Ausitidis hospites arenæ,</sic>
+         <corr>Atque Ausitidis hospites arenæ,</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Per tentoria fusca Madianis,</sic>
+         <corr>Per tentoria fusca Madianis,</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Greges per sitientis Ismaelis,</sic>
+         <corr>Greges per sitientis Ismaelis,</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>Veri oracla Dei docet sonare?</sic>
+         <corr>Veri oracla Dei docet sonare?</corr>
+      </choice>
+   </l>
+
+   <fw type="catchword">
+      <choice>
+         <sic>Sacris</sic>
+         <corr>Sacris</corr>
+      </choice>
+   </fw>
+</div>
+
+<div type="commendatory_poem">
+   <pb n="unnumbered"/>
+   
+   <l n="1">
+      <choice>
+         <sic>Sacris ſcilicet entheus loquelis,</sic>
+         <corr>Sacris scilicet entheus loquelis,</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Idem Cecropio madens liquore,</sic>
+         <corr>Idem Cecropio madens liquore,</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Duportus, veteres novem ſorores</sic>
+         <corr>Duportus, veteres novem sorores</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Secum ſqualida teſqua in Iſmaelis</sic>
+         <corr>Secum squalida tesqua in Ismaelis</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Pergens ducere, Græciæ loquacis</sic>
+         <corr>Pergens ducere, Græciæ loquacis</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>Mendaces jubet ejerare nugas,</sic>
+         <corr>Mendaces jubet ejerare nugas,</corr>
+      </choice>
+   </l>
+   <l n="7">
+      <choice>
+         <sic>Et ſolatia de dolore triſti</sic>
+         <corr>Et solatia de dolore tristi</corr>
+      </choice>
+   </l>
+   <l n="8">
+      <choice>
+         <sic>Jobo fundere, dum pius ſevero</sic>
+         <corr>Jobo fundere, dum pius severo</corr>
+      </choice>
+   </l>
+   <l n="9">
+      <choice>
+         <sic>Indulget patientiam flagello.</sic>
+         <corr>Indulget patientiam flagello.</corr>
+      </choice>
+   </l>
+   <l n="10">
+      <choice>
+         <sic>Gaude, Mæonide : tibi negata</sic>
+         <corr>Gaude, Mæonide : tibi negata</corr>
+      </choice>
+   </l>
+   <l n="11">
+      <choice>
+         <sic>Donat lumina Jobus, &amp; deaſtras</sic>
+         <corr>Donat lumina Jobus, et deastras</corr>
+      </choice>
+   </l>
+   <l n="12">
+      <choice>
+         <sic>Oblitum veteres, jubet tueri</sic>
+         <corr>Oblitum veteres, jubet tueri</corr>
+      </choice>
+   </l>
+   <l n="13">
+      <choice>
+         <sic>Unius jubar uſquè veritatis;</sic>
+         <corr>Unius jubar usquè veritatis;</corr>
+      </choice>
+   </l>
+   <l n="14">
+      <choice>
+         <sic>Et plenum Domini ſeverioris,</sic>
+         <corr>Et plenum Domini severioris,</corr>
+      </choice>
+   </l>
+   <l n="15">
+      <choice>
+         <sic>Sacro fundere nectar è Sione :</sic>
+         <corr>Sacro fundere nectar è Sione :</corr>
+      </choice>
+   </l>
+   <l n="16">
+      <choice>
+         <sic>Ut primævi Orientis exul, indè</sic>
+         <corr>Ut primævi Orientis exul, indè</corr>
+      </choice>
+   </l>
+   <l n="17">
+      <choice>
+         <sic>Pervadat pietas in Occidentem;</sic>
+         <corr>Pervadat pietas in Occidentem;</corr>
+      </choice>
+   </l>
+   <l n="18">
+      <choice>
+         <sic>Et raram numeris tuis propinet</sic>
+         <corr>Et raram numeris tuis propinet</corr>
+      </choice>
+   </l>
+   <l n="19">
+      <choice>
+         <sic>Extremis patientiam Britannis.</sic>
+         <corr>Extremis patientiam Britannis.</corr>
+      </choice>
+   </l>
+
+   <signed>
+      <choice>
+         <sic>Herbertus Thorndike, Coll. Sacr. &amp; Indiv.</sic>
+         <corr>Herbertus Thorndike, Coll. Sacr. et Indiv.</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>Trin. Socius.</sic>
+         <corr>Trin. Socius.</corr>
+      </choice>
+   </signed>
+</div>
+
+<div type="commendatory_poem">
+   <head>
+      <choice>
+         <sic>Ad Jobum.</sic>
+         <corr>Ad Jobum.</corr>
+      </choice>
+   </head>
+   <l n="1">
+      <choice>
+         <sic>SCilicet Iliadem toleraſti, Jobe, malorum:</sic>
+         <corr>SCilicet Iliadem tolerasti, Jobe, malorum:</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Qui tua fata canit, quis niſi Homerus erit?</sic>
+         <corr>Qui tua fata canit, quis nisi Homerus erit?</corr>
+      </choice>
+   </l>
+</div>
+
+<div type="commendatory_poem">
+   <head>
+      <choice>
+         <sic>Ad Poetam.</sic>
+         <corr>Ad Poetam.</corr>
+      </choice>
+   </head>
+   
+   <note place="margin-left">
+      <choice>
+         <sic>Cap. 29. 15.</sic>
+         <corr>Cap. 29. 15.</corr>
+      </choice>
+   </note>
+
+   <l n="1">
+      <choice>
+         <sic>CÆco lumen eram, claudo pes, dixit Jobus:</sic>
+         <corr>CÆco lumen eram, claudo pes, dixit Jobus:</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Tu lucem Jobo das ſimul, atque pedes.</sic>
+         <corr>Tu lucem Jobo das simul, atque pedes.</corr>
+      </choice>
+   </l>
+
+   <signed>
+      <choice>
+         <sic>Henr. Hutton, Coll. Jeſu Socius.</sic>
+         <corr>Henr. Hutton, Coll. Jesu Socius.</corr>
+      </choice>
+   </signed>
+</div>
+
+<div type="commendatory_poem">
+   <l n="1">
+      <choice>
+         <sic>NIl metuas æquis ab amicis, ſecula Jobi</sic>
+         <corr>NIl metuas æquis ab amicis, secula Jobi</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Et planctus Græcis fundere docte modis:</sic>
+         <corr>Et planctus Græcis fundere docte modis:</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Non ut vexeris cenſurâ, aſtamus amici,</sic>
+         <corr>Non ut vexeris censurâ, astamus amici,</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Sed capias laudis præmia juſta tuæ.</sic>
+         <corr>Sed capias laudis præmia justa tuæ.</corr>
+      </choice>
+   </l>
+   
+   <fw type="catchword">
+      <choice>
+         <sic>At</sic>
+         <corr>At</corr>
+      </choice>
+   </fw>
+</div>
+<pb/>
+<div type="commendatory_poem">
+   <pb n="unnumbered"/>
+   
+   <l n="1">
+      <choice>
+         <sic>At, ô poeta, quas tibi jam laureas,</sic>
+         <corr>At, ô poeta, quas tibi jam laureas,</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Aut quas coronas nectimus? quæ præmia</sic>
+         <corr>Aut quas coronas nectimus? quæ præmia</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Tanti laboris? quæve vota, quas preces</sic>
+         <corr>Tanti laboris? quæve vota, quas preces</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Pro vate fundimus pio? Nempe, ut tibi</sic>
+         <corr>Pro vate fundimus pio? Nempe, ut tibi</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Secunda Jobi sors sit, aut secundior;</sic>
+         <corr>Secunda Jobi sors sit, aut secundior;</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>Utrique par catastrophe: tandem, bona</sic>
+         <corr>Utrique par catastrophe: tandem, bona</corr>
+      </choice>
+   </l>
+   <l n="7">
+      <choice>
+         <sic>( Nè plura dicam ) duplicentur omnia.</sic>
+         <corr>( Nè plura dicam ) duplicentur omnia.</corr>
+      </choice>
+   </l>
+
+   <signed>
+      <choice>
+         <sic>H. Fern, S. T. B. Coll. Trin. Socius.</sic>
+         <corr>H. Fern, S. T. B. Coll. Trin. Socius.</corr>
+      </choice>
+   </signed>
+</div>
+
+<div type="commendatory_poem" lang="grc">
+   <l n="1">
+      <choice>
+         <sic>Οὐχ ἥμαρτεν Ἰωβος ἑαῖς ἐνὶ θλίψεσι φράζων,</sic>
+         <corr>Οὐχ ἥμαρτεν Ἰωβος ἑαῖς ἐνὶ θλίψεσι φράζων,</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Οὐδὲ σὺ ἥμαρτες τὸν μεταφραζόμνΘ·</sic>
+         <corr>Οὐδὲ σὺ ἥμαρτες τὸν μεταφραζόμενος·</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Οὐδέτερός γ' ἀφαμαρτοεπής· σὺ δ' πιστὸς Ἰώβῳ,</sic>
+         <corr>Οὐδέτερός γ' ἀφαμαρτοεπής· σὺ δ' πιστὸς Ἰώβῳ,</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Ὡς ἐνὶ πᾶσι Θεῷ πιστὸς ἸωβΘ ἔφυ.</sic>
+         <corr>Ὡς ἐνὶ πᾶσι Θεῷ πιστὸς Ἰωβος ἔφυ.</corr>
+      </choice>
+   </l>
+
+   <signed>
+      <choice>
+         <sic>R. Bulkeley, Coll. D. Johan. Socius.</sic>
+         <corr>R. Bulkeley, Coll. D. Johan. Socius.</corr>
+      </choice>
+   </signed>
+</div>
+
+<div type="commendatory_poem" lang="grc">
+   <head>
+      <choice>
+         <sic>Εἰς μεταφραστήν.</sic>
+         <corr>Εἰς μεταφραστήν.</corr>
+      </choice>
+   </head>
+
+   <l n="1">
+      <choice>
+         <sic>Αἴαντος τόδ' ἄγαλμα πέλει, ἠΰς τε, μέγας τε,</sic>
+         <corr>Αἴαντος τόδ' ἄγαλμα πέλει, ἠΰς τε, μέγας τε,</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Ἠΰς ΔύπορτΘ, κὴ μάλα, μικρὸς ἐών.</sic>
+         <corr>Ἠῢς Δούπορτος, καὶ μάλα, μικρὸς ἐών.</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Φιλόσοφος, ῥήτωρ, ποιητὴς, θεολόγος, Ἕλλην,</sic>
+         <corr>Φιλόσοφος, ῥήτωρ, ποιητὴς, θεο?λόγος, Ἕλλην,</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Φιλολόγος, κήρυξ, ἐν κριτικοῖσι κριτής·</sic>
+         <corr>Φιλολόγος, κήρυξ, ἐν κριτικοῖσι κριτής·</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Παντοίης ἀρετῆσι κεκασμένος· οἶδεν ἕκαστον,</sic>
+         <corr>Παντοίης ἀρετῇσι κεκασμένος· οἶδεν ἕκαστον,</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>Ὡς φαίης ἑτέρων ὄχ' τι πλεῖον ἰδεῖν.</sic>
+         <corr>Ὡς φαίης ἑτέρων οὐχἰ τι πλεῖον ἰδεῖν.</corr>
+      </choice>
+   </l>
+   <l n="7">
+      <choice>
+         <sic>Εὐτράπελος παρὰ ταῦτα κὴ αἴσιμ· νῦν ἄρ' Ἰωβον</sic>
+         <corr>Εὐτράπελος παρὰ ταῦτα κατ᾽ αἶσαν· νῦν ἄρ' Ἰωβον</corr>
+      </choice>
+   </l>
+   <l n="8">
+      <choice>
+         <sic>Ὡς εὖ κ' εὐτροχάλως ἔτραπεν. Εὖ δ' τρέποι.</sic>
+         <corr>Ὡς εὖ κ' εὐτροχάλως ἔτραπεν. Εὖ δὲ τρέποι.</corr>
+      </choice>
+   </l>
+</div>
+
+<div type="commendatory_poem">
+   <head>
+      <choice>
+         <sic>In metaphrasin.</sic>
+         <corr>In metaphrasin.</corr>
+      </choice>
+   </head>
+
+   <l n="1">
+      <choice>
+         <sic>LIbrum vel ipso tam poeticum natu</sic>
+         <corr>Librum vel ipso tam poeticum natu</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Helicone rursus tingis, ut Jobi strages</sic>
+         <corr>Helicone rursus tingis, ut Jobi strages</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Numerosa versu duplicetur sic Græco.</sic>
+         <corr>Numerosa versu duplicetur sic Græco.</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Nec indecori ac plumbei pedes scenâ</sic>
+         <corr>Nec indecori ac plumbei pedes scenâ</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Divinitatis ambulant cothurnatâ;</sic>
+         <corr>Divinitatis ambulant cothurnatâ;</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>Superbientes ambiunt sacrum munus,</sic>
+         <corr>Superbientes ambiunt sacrum munus,</corr>
+      </choice>
+   </l>
+   <l n="7">
+      <choice>
+         <sic>Et in hac Homerus pagina cœlum spirat,</sic>
+         <corr>Et in hac Homerus pagina cœlum spirat,</corr>
+      </choice>
+   </l>
+   <pb/>
+   <fw type="catchword">
+      <choice>
+         <sic>Et</sic>
+         <corr>Et</corr>
+      </choice>
+   </fw>
+</div>
+
+<div type="commendatory_poem">
+   <pb n="unnumbered"/>
+
+   <l n="8">
+      <choice>
+         <sic>Et Achille spreto, cum viro duplici, laudat</sic>
+         <corr>Et Achille spreto, cum viro duplici, laudat</corr>
+      </choice>
+   </l>
+   <l n="9">
+      <choice>
+         <sic>Quem tantus ordo cladium sensit justum.</sic>
+         <corr>Quem tantus ordo cladium sensit justum.</corr>
+      </choice>
+   </l>
+   <l n="10">
+      <choice>
+         <sic>Duporte, fide; Zoilum time nullum,</sic>
+         <corr>Duporte, fide; Zoilum time nullum,</corr>
+      </choice>
+   </l>
+   <l n="11">
+      <choice>
+         <sic>Criticósve, tù superstes: ast olim mundo</sic>
+         <corr>Criticósve, tù superstes: ast olim mundo</corr>
+      </choice>
+   </l>
+   <l n="12">
+      <choice>
+         <sic>Nomen relinques, quod tuebitur librum.</sic>
+         <corr>Nomen relinques, quod tuebitur librum.</corr>
+      </choice>
+   </l>
+
+   <signed>
+      <choice>
+         <sic>Jo. Sherman, A. M. Coll. Trin. Socius</sic>
+         <corr>Jo. Sherman, A. M. Coll. Trin. Socius</corr>
+      </choice>
+   </signed>
+</div>
+
+<div type="commendatory_poem" lang="grc">
+   <head>
+      <choice>
+         <sic>Εἰς Ἰώβ8 μεταφρασὴν, τὸν φίλον μ8</sic>
+         <corr>Εἰς Ἰώβου μεταφραστὴν, τὸν φίλον μου</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>κὴ Μ8σῶν ἄριστον.</sic>
+         <corr>καὶ Μουσῶν ἄριστον.</corr>
+      </choice>
+   </head>
+
+   <l n="1">
+      <choice>
+         <sic>Εὖ μάλ' ἔειπε φίλ8ς δειλὲς παρακλήτορας εἶ)</sic>
+         <corr>Εὖ μάλ' ἔειπε φίλους δειλοὺς παρακλήτορας εἶναι</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Οἰκτρὸς Ἰωβος ἑός· σὺς, φίλε, πῶς δ' καλεῖς;</sic>
+         <corr>Οἰκτρὸς Ἰωβος ἑοὺς· σοὺς, φίλε, πῶς δ' καλεῖς;</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Εὖ μάλα κὴ ἡμᾶς δειλὲς καλέσαιο ποιητὰς,</sic>
+         <corr>Εὖ μάλα καὶ ἡμᾶς δειλοὺς καλέσαιο ποιητὰς,</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Εἴτῳ συγκρίνῃς σὸν μέλος ἡμετέροις.</sic>
+         <corr>Εἴπερ συγκρίνῃς σὸν μέλος ἡμετέροις.</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Ἀλλ' ὕτω φάμνΘ μεγάλως ἥμαρτεν Ἰωβος,</sic>
+         <corr>Ἀλλ' οὕτω φάμενος μεγάλως ἥμαρτεν Ἰωβος,</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>Ἦμαρ ἐν ᾧ γενόμν μήποτε φέγγος ἔχοι.</sic>
+         <corr>Ἦμαρ ἐν ᾧ γενόμην μήποτε φέγγος ἔχοι.</corr>
+      </choice>
+   </l>
+   <l n="7">
+      <choice>
+         <sic>Ἴσον ἁμαρτήσεις, εἰ ὁρᾷν φάος ἠελίοιο</sic>
+         <corr>Ἴσον ἁμαρτήσεις, εἰ ὁρᾷν φάος ἠελίοιο</corr>
+      </choice>
+   </l>
+   <l n="8">
+      <choice>
+         <sic>Κωλύσῃς ταύτην, ὦ Ἰάκωβε, βίβλον.</sic>
+         <corr>Κωλύσῃς ταύτην, ὦ Ἰάκωβε, βίβλον.</corr>
+      </choice>
+   </l>
+
+   <signed>
+      <choice>
+         <sic>Jo. Booth, S. T. B. C. C. C. Socius.</sic>
+         <corr>Jo. Booth, S. T. B. C. C. C. Socius.</corr>
+      </choice>
+   </signed>
+</div>
+
+<div type="commendatory_poem">
+   <head>
+      <choice>
+         <sic>In Metaphrasin Jobi versibus plurimùm ὁμηροκέν-</sic>
+         <corr>In Metaphrasin Jobi versibus plurimùm ὁμηροκέν-</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>τρωσι, S. K. carmen posthumum.</sic>
+         <corr>τρωσι, S. K. carmen posthumum.</corr>
+      </choice>
+   </head>
+
+   <l n="1">
+      <choice>
+         <sic>QVis novus hic, cujus pietas, patientia Jobum</sic>
+         <corr>QVis novus hic, cujus pietas, patientia Jobum</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Agnoscunt, vox, &amp; vultus, Homere, tuus?</sic>
+         <corr>Agnoscunt, vox, et vultus, Homere, tuus?</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Quis nuper Seraphim tetigit summi ora poetæ,</sic>
+         <corr>Quis nuper Seraphim tetigit summi ora poetæ,</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Aut docuit veri dicere verba Dei?</sic>
+         <corr>Aut docuit veri dicere verba Dei?</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Ars tua, chare Jacobe, tua est industria, gentis</sic>
+         <corr>Ars tua, chare Jacobe, tua est industria, gentis</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>Thuribula impuræ quæ facit esse sacra.</sic>
+         <corr>Thuribula impuræ quæ facit esse sacra.</corr>
+      </choice>
+   </l>
+
+   <signed>
+      <choice>
+         <sic>Seth. Ketlewell, Coll. Trin. nuper Socius.</sic>
+         <corr>Seth. Ketlewell, Coll. Trin. nuper Socius.</corr>
+      </choice>
+   </signed>
+</div>
+
+<div type="commendatory_poem">
+   <head>
+      <choice>
+         <sic>Amico suo charissimo J. D. hanc ejus Græcam,</sic>
+         <corr>Amico suo charissimo J. D. hanc ejus Græcam,</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>eámq; Homericam Jobi versionem gratulatur.</sic>
+         <corr>eámque Homericam Jobi versionem gratulatur.</corr>
+      </choice>
+   </head>
+
+   <l n="1">
+      <choice>
+         <sic>QUem priùs horruimus mersum caligine librum,</sic>
+         <corr>QUem priùs horruimus mersum caligine librum,</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Nunc juvat assiduâ sollicitare manu.</sic>
+         <corr>Nunc juvat assiduâ sollicitare manu.</corr>
+      </choice>
+   </l>
+
+   <fw type="catchword">
+      <choice>
+         <sic>Nectar</sic>
+         <corr>Nectar</corr>
+      </choice>
+   </fw>
+</div>
+
+<pb/>
+
+<div type="commendatory_poem">
+   <pb n="unnumbered"/>
+   
+   <l n="1">
+      <choice>
+         <sic>Nectar &amp; ambroſiam ſpirat, tenebríſque fugatis</sic>
+         <corr>Nectar &amp; ambrosiam spirat, tenebrísque fugatis</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Candidus electro lucidiore nitet.</sic>
+         <corr>Candidus electro lucidiore nitet.</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Non nunc Hebrææ prærupta ſilentia linguæ,</sic>
+         <corr>Non nunc Hebrææ prærupta silentia linguæ,</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Non interponit ſphinx inopina moras.</sic>
+         <corr>Non interponit sphinx inopina moras.</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Seu ſtant Hebræi, puro cum gurgite, fontes;</sic>
+         <corr>Seu stant Hebræi, puro cum gurgite, fontes;</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>Sive fluunt, venâ liberiore fluunt.</sic>
+         <corr>Sive fluunt, venâ liberiore fluunt.</corr>
+      </choice>
+   </l>
+   <l n="7">
+      <choice>
+         <sic>Miratur ſeſe linguarum Græcia matri</sic>
+         <corr>Miratur sese linguarum Græcia matri</corr>
+      </choice>
+   </l>
+   <l n="8">
+      <choice>
+         <sic>Auxiliatrices ſuppoſuiſſe manus:</sic>
+         <corr>Auxiliatrices supposuisse manus:</corr>
+      </choice>
+   </l>
+   <l n="9">
+      <choice>
+         <sic>Miratur Jobus reſerata ænigmata; mendax</sic>
+         <corr>Miratur Jobus reserata ænigmata; mendax</corr>
+      </choice>
+   </l>
+   <l n="10">
+      <choice>
+         <sic>Mæonides, veram ſe didiciſſe fidem:</sic>
+         <corr>Mæonides, veram se didicisse fidem:</corr>
+      </choice>
+   </l>
+   <l n="11">
+      <choice>
+         <sic>Hic ſanctæ gaudet myſteria fundere linguæ;</sic>
+         <corr>Hic sanctæ gaudet mysteria fundere linguæ;</corr>
+      </choice>
+   </l>
+   <l n="12">
+      <choice>
+         <sic>Alter Cecropio carmina tincta favo.</sic>
+         <corr>Alter Cecropio carmina tincta favo.</corr>
+      </choice>
+   </l>
+   <l n="13">
+      <choice>
+         <sic>Felix interpres ! Judæus &amp; Ethnicus ore</sic>
+         <corr>Felix interpres ! Judæus &amp; Ethnicus ore</corr>
+      </choice>
+   </l>
+   <l n="14">
+      <choice>
+         <sic>Et didicere tuo, &amp; dedidicere loqui.</sic>
+         <corr>Et didicere tuo, &amp; dedidicere loqui.</corr>
+      </choice>
+   </l>
+
+   <signed>
+      <choice>
+         <sic>Ed. Hyde, A. M. Coll. Trin. Socius.</sic>
+         <corr>Ed. Hyde, A. M. Coll. Trin. Socius.</corr>
+      </choice>
+   </signed>
+</div>
+
+<div type="commendatory_poem">
+   <l n="1">
+      <choice>
+         <sic>POſtera ſors Jobi longè auctior; undique amicî</sic>
+         <corr>POstera sors Jobi longè auctior; undique amicî</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Dona ferunt, offers munus &amp; ipſe tuum:</sic>
+         <corr>Dona ferunt, offers munus &amp; ipse tuum:</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Quæ dederant illi, periere; numiſmata, gemmæ;</sic>
+         <corr>Quæ dederant illi, periere; numismata, gemmæ;</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>At tuus æternùm Θρηνοθρίαμβος erit.</sic>
+         <corr>At tuus æternùm Θρηνοθρίαμβος erit.</corr>
+      </choice>
+   </l>
+
+   <signed>
+      <choice>
+         <sic>Thom. Lant, S. T. B. Coll. Jeſu Socius.</sic>
+         <corr>Thom. Lant, S. T. B. Coll. Jesu Socius.</corr>
+      </choice>
+   </signed>
+</div>
+
+<div type="commendatory_poem">
+   <l n="1">
+      <choice>
+         <sic>PIeris &amp; Pietas libro ſociantur in uno: (um!</sic>
+         <corr>PIeris &amp; Pietas libro sociantur in uno: (um!</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Quàm grande eſt, vatem! quàm magis, eſſe pi-</sic>
+         <corr>Quàm grande est, vatem! quàm magis, esse pi-</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Qui modò pronus humi jacuit, jam currit Iobus;</sic>
+         <corr>Qui modò pronus humi jacuit, jam currit Iobus;</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Dæmona queîs fugiat, nunc habet ( ecce! ) pedes.</sic>
+         <corr>Dæmona queîs fugiat, nunc habet ( ecce! ) pedes.</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Qui flevit prorſo, vorſo canit ore; fluítque</sic>
+         <corr>Qui flevit prorso, vorso canit ore; fluítque</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>Divite jam venâ, qui modò pauper erat.</sic>
+         <corr>Divite jam venâ, qui modò pauper erat.</corr>
+      </choice>
+   </l>
+   <l n="7">
+      <choice>
+         <sic>Quàm ſimiles ſibi ſunt Muſæ, &amp; Patientia; Homeri,</sic>
+         <corr>Quàm similes sibi sunt Musæ, &amp; Patientia; Homeri,</corr>
+      </choice>
+   </l>
+   <l n="8">
+      <choice>
+         <sic>Et Jobi! quid non illa, vel illa poteſt?</sic>
+         <corr>Et Jobi! quid non illa, vel illa potest?</corr>
+      </choice>
+   </l>
+</div>
+
+<div type="commendatory_poem">
+   <l n="1">
+      <choice>
+         <sic>COeleſtes radios ut cernere poſſet Homerus,</sic>
+         <corr>COelestes radios ut cernere posset Homerus,</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Deerant Iobi lumina;</sic>
+         <corr>Deerant Iobi lumina;</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>At pedibus Græcis ut currere poſſet Iobus,</sic>
+         <corr>At pedibus Græcis ut currere posset Iobus,</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Deerant Homeri carmina.</sic>
+         <corr>Deerant Homeri carmina.</corr>
+      </choice>
+   </l>
+
+   <fw type="catchword">
+      <choice>
+         <sic>Ecce</sic>
+         <corr>Ecce</corr>
+      </choice>
+   </fw>
+</div>
+
+<div type="commendatory_poem">
+   <pb n="unnumbered"/>
+   
+   <l n="1">
+      <choice>
+         <sic>Ecce pedes alter jam commodat, alter ocellos;</sic>
+         <corr>Ecce pedes alter jam commodat, alter ocellos;</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Opémque præbent mutuam.</sic>
+         <corr>Opémque præbent mutuam.</corr>
+      </choice>
+   </l>
+
+   <signed>
+      <choice>
+         <sic>Guil. Clotterbook, A. M. Coll. Trin.</sic>
+         <corr>Guil. Clotterbook, A. M. Coll. Trin.</corr>
+      </choice>
+   </signed>
+</div>
+
+<div type="commendatory_poem">
+   <head>
+      <choice>
+         <sic>Proſopopœia Jobi.</sic>
+         <corr>Prosopopœia Jobi.</corr>
+      </choice>
+   </head>
+
+   <l n="1">
+      <choice>
+         <sic>SVperba Mauſolea me non opprimunt,</sic>
+         <corr>SVperba Mausolea me non opprimunt,</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Nec marmorum effigiata moles poſteris</sic>
+         <corr>Nec marmorum effigiata moles posteris</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Imaginis noſtræ refert artificium.</sic>
+         <corr>Imaginis nostræ refert artificium.</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Sed me virûm per ora præpeti vehit</sic>
+         <corr>Sed me virûm per ora præpeti vehit</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Pennâ, Deo dictante qui ſcripſit, ſcatens</sic>
+         <corr>Pennâ, Deo dictante qui scripsit, scatens</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>Ægyptiorum gentiúmque dotibus</sic>
+         <corr>Ægyptiorum gentiúmque dotibus</corr>
+      </choice>
+   </l>
+   <l n="7">
+      <choice>
+         <sic>Linguiſque, pulſu conſtitutus numinis,</sic>
+         <corr>Linguísque, pulsu constitutus numinis,</corr>
+      </choice>
+   </l>
+   <l n="8">
+      <choice>
+         <sic>Orbis, meíque fidus actuarius.</sic>
+         <corr>Orbis, meíque fidus actuarius.</corr>
+      </choice>
+   </l>
+   <l n="9">
+      <choice>
+         <sic>Arcana cujus puncta, non capacia</sic>
+         <corr>Arcana cujus puncta, non capacia</corr>
+      </choice>
+   </l>
+   <l n="10">
+      <choice>
+         <sic>Pedum per aures molliter cadentium,</sic>
+         <corr>Pedum per aures molliter cadentium,</corr>
+      </choice>
+   </l>
+   <l n="11">
+      <choice>
+         <sic>Si delicati tranſeant, ut abdita, &amp;</sic>
+         <corr>Si delicati transeant, ut abdita, et</corr>
+      </choice>
+   </l>
+   <l n="12">
+      <choice>
+         <sic>Legenda ſolùm litteratis tincis;</sic>
+         <corr>Legenda solùm litteratis tinctis;</corr>
+      </choice>
+   </l>
+   <l n="13">
+      <choice>
+         <sic>En prodeo, Graiæque ſuppellectilis</sic>
+         <corr>En prodeo, Graiæque suppellectilis</corr>
+      </choice>
+   </l>
+   <l n="14">
+      <choice>
+         <sic>Dives, poténsque nobilis facundiæ;</sic>
+         <corr>Dives, poténsque nobilis facundiæ;</corr>
+      </choice>
+   </l>
+   <l n="15">
+      <choice>
+         <sic>Rhodii ſenis ſocco levi elegantior,</sic>
+         <corr>Rhodii senis socco levi elegantior,</corr>
+      </choice>
+   </l>
+   <l n="16">
+      <choice>
+         <sic>Et cui cothurnati locum dant Attici,</sic>
+         <corr>Et cui cothurnati locum dant Attici,</corr>
+      </choice>
+   </l>
+   <l n="17">
+      <choice>
+         <sic>Faſcésque ( vix jam carior ſuâ nuce )</sic>
+         <corr>Fascésque ( vix jam carior suâ nuce )</corr>
+      </choice>
+   </l>
+   <l n="18">
+      <choice>
+         <sic>Submittit Ilias. Bonis hoc defuit</sic>
+         <corr>Submittit Ilias. Bonis hoc defuit</corr>
+      </choice>
+   </l>
+   <l n="19">
+      <choice>
+         <sic>Reduplicatis, terſus eloquentiâ</sic>
+         <corr>Reduplicatis, tersus eloquentiâ</corr>
+      </choice>
+   </l>
+   <l n="20">
+      <choice>
+         <sic>Dolor ut levaret ſe ſuâ. Tragœdia</sic>
+         <corr>Dolor ut levaret se suâ. Tragœdia</corr>
+      </choice>
+   </l>
+   <l n="21">
+      <choice>
+         <sic>Meæ ſuperſtes jam triumpho ſeriò,</sic>
+         <corr>Meæ superstes jam triumpho seriò,</corr>
+      </choice>
+   </l>
+   <l n="22">
+      <choice>
+         <sic>Et uſquè ſic dolere lubens gaudeo.</sic>
+         <corr>Et usquè sic dolere lubens gaudeo.</corr>
+      </choice>
+   </l>
+   <l n="23">
+      <choice>
+         <sic>—— Quin tu, piæ</sic>
+         <corr>—— Quin tu, piæ</corr>
+      </choice>
+   </l>
+   <l n="24">
+      <choice>
+         <sic>Poeta venæ, macte, felix ingenî :</sic>
+         <corr>Poeta venæ, macte, felix ingenî :</corr>
+      </choice>
+   </l>
+   <l n="25">
+      <choice>
+         <sic>Duint tibi Dii pro tuis laboribus</sic>
+         <corr>Duint tibi Dii pro tuis laboribus</corr>
+      </choice>
+   </l>
+   <l n="26">
+      <choice>
+         <sic>Jobi triumphantis, precor, dupla omnia.</sic>
+         <corr>Jobi triumphantis, precor, dupla omnia.</corr>
+      </choice>
+   </l>
+
+   <signed>
+      <choice>
+         <sic>Ed. Rainbow, S. T. B. Coll. Magd. Socius.</sic>
+         <corr>Ed. Rainbow, S. T. B. Coll. Magd. Socius.</corr>
+      </choice>
+   </signed>
+
+   <fw type="catchword">
+      <choice>
+         <sic>Οὐ-</sic>
+         <corr>Οὐ-</corr>
+      </choice>
+   </fw>
+</div>
+
+<div type="commendatory_poem">
+   <pb n="unnumbered"/>
+   
+   <l n="1">
+      <choice>
+         <sic>Ecce pedes alter jam commodat, alter ocellos;</sic>
+         <corr>Ecce pedes alter jam commodat, alter ocellos;</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Opémque præbent mutuam.</sic>
+         <corr>Opémque præbent mutuam.</corr>
+      </choice>
+   </l>
+
+   <signed>
+      <choice>
+         <sic>Guil. Clotterbook, A. M. Coll. Trin.</sic>
+         <corr>Guil. Clotterbook, A. M. Coll. Trin.</corr>
+      </choice>
+   </signed>
+</div>
+
+<div type="commendatory_poem">
+   <head>
+      <choice>
+         <sic>Proſopopœia Jobi.</sic>
+         <corr>Prosopopœia Jobi.</corr>
+      </choice>
+   </head>
+
+   <l n="1">
+      <choice>
+         <sic>SVperba Mauſolea me non opprimunt,</sic>
+         <corr>SVperba Mausolea me non opprimunt,</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Nec marmorum effigiata moles poſteris</sic>
+         <corr>Nec marmorum effigiata moles posteris</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Imaginis noſtræ refert artificium.</sic>
+         <corr>Imaginis nostræ refert artificium.</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Sed me virûm per ora præpeti vehit</sic>
+         <corr>Sed me virûm per ora præpeti vehit</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Pennâ, Deo dictante qui ſcripſit, ſcatens</sic>
+         <corr>Pennâ, Deo dictante qui scripsit, scatens</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>Ægyptiorum gentiúmque dotibus</sic>
+         <corr>Ægyptiorum gentiúmque dotibus</corr>
+      </choice>
+   </l>
+   <l n="7">
+      <choice>
+         <sic>Linguiſque, pulſu conſtitutus numinis,</sic>
+         <corr>Linguísque, pulsu constitutus numinis,</corr>
+      </choice>
+   </l>
+   <l n="8">
+      <choice>
+         <sic>Orbis, meíque fidus actuarius.</sic>
+         <corr>Orbis, meíque fidus actuarius.</corr>
+      </choice>
+   </l>
+   <l n="9">
+      <choice>
+         <sic>Arcana cujus puncta, non capacia</sic>
+         <corr>Arcana cujus puncta, non capacia</corr>
+      </choice>
+   </l>
+   <l n="10">
+      <choice>
+         <sic>Pedum per aures molliter cadentium,</sic>
+         <corr>Pedum per aures molliter cadentium,</corr>
+      </choice>
+   </l>
+   <l n="11">
+      <choice>
+         <sic>Si delicati tranſeant, ut abdita, &amp;</sic>
+         <corr>Si delicati transeant, ut abdita, et</corr>
+      </choice>
+   </l>
+   <l n="12">
+      <choice>
+         <sic>Legenda ſolùm litteratis tincis;</sic>
+         <corr>Legenda solùm litteratis tinctis;</corr>
+      </choice>
+   </l>
+   <l n="13">
+      <choice>
+         <sic>En prodeo, Graiæque ſuppellectilis</sic>
+         <corr>En prodeo, Graiæque suppellectilis</corr>
+      </choice>
+   </l>
+   <l n="14">
+      <choice>
+         <sic>Dives, poténsque nobilis facundiæ;</sic>
+         <corr>Dives, poténsque nobilis facundiæ;</corr>
+      </choice>
+   </l>
+   <l n="15">
+      <choice>
+         <sic>Rhodii ſenis ſocco levi elegantior,</sic>
+         <corr>Rhodii senis socco levi elegantior,</corr>
+      </choice>
+   </l>
+   <l n="16">
+      <choice>
+         <sic>Et cui cothurnati locum dant Attici,</sic>
+         <corr>Et cui cothurnati locum dant Attici,</corr>
+      </choice>
+   </l>
+   <l n="17">
+      <choice>
+         <sic>Faſcésque ( vix jam carior ſuâ nuce )</sic>
+         <corr>Fascésque ( vix jam carior suâ nuce )</corr>
+      </choice>
+   </l>
+   <l n="18">
+      <choice>
+         <sic>Submittit Ilias. Bonis hoc defuit</sic>
+         <corr>Submittit Ilias. Bonis hoc defuit</corr>
+      </choice>
+   </l>
+   <l n="19">
+      <choice>
+         <sic>Reduplicatis, terſus eloquentiâ</sic>
+         <corr>Reduplicatis, tersus eloquentiâ</corr>
+      </choice>
+   </l>
+   <l n="20">
+      <choice>
+         <sic>Dolor ut levaret ſe ſuâ. Tragœdia</sic>
+         <corr>Dolor ut levaret se suâ. Tragœdia</corr>
+      </choice>
+   </l>
+   <l n="21">
+      <choice>
+         <sic>Meæ ſuperſtes jam triumpho ſeriò,</sic>
+         <corr>Meæ superstes jam triumpho seriò,</corr>
+      </choice>
+   </l>
+   <l n="22">
+      <choice>
+         <sic>Et uſquè ſic dolere lubens gaudeo.</sic>
+         <corr>Et usquè sic dolere lubens gaudeo.</corr>
+      </choice>
+   </l>
+   <l n="23">
+      <choice>
+         <sic>—— Quin tu, piæ</sic>
+         <corr>—— Quin tu, piæ</corr>
+      </choice>
+   </l>
+   <l n="24">
+      <choice>
+         <sic>Poeta venæ, macte, felix ingenî :</sic>
+         <corr>Poeta venæ, macte, felix ingenî :</corr>
+      </choice>
+   </l>
+   <l n="25">
+      <choice>
+         <sic>Duint tibi Dii pro tuis laboribus</sic>
+         <corr>Duint tibi Dii pro tuis laboribus</corr>
+      </choice>
+   </l>
+   <l n="26">
+      <choice>
+         <sic>Jobi triumphantis, precor, dupla omnia.</sic>
+         <corr>Jobi triumphantis, precor, dupla omnia.</corr>
+      </choice>
+   </l>
+
+   <signed>
+      <choice>
+         <sic>Ed. Rainbow, S. T. B. Coll. Magd. Socius.</sic>
+         <corr>Ed. Rainbow, S. T. B. Coll. Magd. Socius.</corr>
+      </choice>
+   </signed>
+
+   <fw type="catchword">
+      <choice>
+         <sic>Οὐ-</sic>
+         <corr>Οὐ-</corr>
+      </choice>
+   </fw>
+</div>
+
+<div type="commendatory_poem" lang="grc">
+   <l n="1">
+      <choice>
+         <sic>Οὐκέτ' Ἰωβος ἔχει κόπρῳ πεπαλαγμλύον ἕδος·</sic>
+         <corr>Οὐκέτ' Ἰωβος ἔχει κόπρῳ πεπαλαγμένον ἕδος·</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Οὐ δνοφὸν ἄν τις ἴδοι, ὐ πίνον, ὐδὲ πύον·</sic>
+         <corr>Οὐ σποδὸν ἄν τις ἴδοι, οὐ πίνον, οὐδὲ πύον·</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Ἀμφὶ δ' νιῶ πλειωθεὶς παμποίκιλον ἕσατο χιτῶνα,</sic>
+         <corr>Ἀμφὶ δὲ νῶ πλυνθεὶς παμποίκιλον ἕσσε χιτῶνα,</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Τὸν δ' εὖ δαίδαλλον Μαιονίδαο ῥαφίς.</sic>
+         <corr>Τὸν δ' εὖ δαίδαλλον Μαιονίδαο ῥαφίς.</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Ὧδέ γάρ οἱ (μέγα θαῦμ') ἐκ ἐν φρεσὶ μέμβλετ' Ὀδυσσεὺς,</sic>
+         <corr>Ὧδέ γάρ οἱ (μέγα θαῦμ') οὐκ ἐν φρεσὶ μέμβλετ' Ὀδυσσεὺς,</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>Ἕκτορος ὐ μνήμη, ὔτ' Ἀχιλῆος ἔχει· </sic>
+         <corr>Ἕκτορος οὐ μνήμην, οὔτ' Ἀχιλῆος ἔχει· </corr>
+      </choice>
+   </l>
+   <l n="7">
+      <choice>
+         <sic>Ἰρεὰ δ' μυηθεὶς ταλαπενθέα μέλπεν Ἰωβον,</sic>
+         <corr>Ἰρεὰ δὲ μυηθεὶς ταλαπενθέα μέλπεν Ἰωβον,</corr>
+      </choice>
+   </l>
+   <l n="8">
+      <choice>
+         <sic>Λησάμενός τε θεῶν, νῦν ἕνα ᾖσε Θεόν.</sic>
+         <corr>Λησάμενός τε θεῶν, νῦν ἕνα ᾖσε Θεόν.</corr>
+      </choice>
+   </l>
+   <l n="9">
+      <choice>
+         <sic>Βάσκ' ἴθι ἐν προθύροισ', ὐ δείδιθι, θέσπις ἀοιδή·</sic>
+         <corr>Βάσκ' ἴθι ἐν προθύροισ', οὐ δείδιθι, θέσπις ἀοιδή·</corr>
+      </choice>
+   </l>
+   <l n="10">
+      <choice>
+         <sic>Ὅς κέ σε μωμῆται, Ζωΐλον ὔνομ' ἔχοι.</sic>
+         <corr>Ὅς κέ σε μωμῆται, Ζωΐλου ὄνομ' ἔχοι.</corr>
+      </choice>
+   </l>
+
+   <signed>
+      <choice>
+         <sic>Anton. Scatergood, A. M. T. C.</sic>
+         <corr>Anton. Scatergood, A. M. T. C.</corr>
+      </choice>
+   </signed>
+</div>
+
+<div type="commendatory_poem">
+   <l n="1">
+      <choice>
+         <sic>JObus in adverso dum squalet pulvere, amicî</sic>
+         <corr>JObus in adverso dum squalet pulvere, amicî</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Invisunt, nimio &amp; stupent dolore;</sic>
+         <corr>Invisunt, nimio et stupent dolore;</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Hunc tu Mæonio dum pingis carmine, amici</sic>
+         <corr>Hunc tu Mæonio dum pingis carmine, amici</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Mirantur, nimio &amp; stupent amore :</sic>
+         <corr>Mirantur, nimio et stupent amore :</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Attamen haud nimio; quin tota Academia nescit</sic>
+         <corr>Attamen haud nimio; quin tota Academia nescit</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>Te laudare satìs, satísve amare.</sic>
+         <corr>Te laudare satìs, satísve amare.</corr>
+      </choice>
+   </l>
+
+   <signed>
+      <choice>
+         <sic>Ja. Leek, S. T. B. Coll. S. Petri Socius.</sic>
+         <corr>Ja. Leek, S. T. B. Coll. S. Petri Socius.</corr>
+      </choice>
+   </signed>
+</div>
+
+<div type="commendatory_poem">
+   <l n="1">
+      <choice>
+         <sic>GRæca fides Romana jubet me carmina: quenquam</sic>
+         <corr>GRæca fides Romana jubet me carmina: quenquam</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Post te scripturum Græca, Duporte, putas?</sic>
+         <corr>Post te scripturum Græca, Duporte, putas?</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Post quem Mæonides sileat redivivus, &amp; ipse</sic>
+         <corr>Post quem Mæonides sileat redivivus, et ipse</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Plato, nec auderet Jupiter ipse loqui.</sic>
+         <corr>Plato, nec auderet Jupiter ipse loqui.</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Quantus Jobini * scriptor fuit ille caballi !</sic>
+         <corr>Quantus Jobini * scriptor fuit ille caballi !</corr>
+      </choice>
+   </l>
+   <note place="margin-right">
+      <choice>
+         <sic>* Th. Vincentius. T. C. depinxit Equum Jobi carmine epico.</sic>
+         <corr>* Th. Vincentius. T. C. depinxit Equum Jobi carmine epico.</corr>
+      </choice>
+   </note>
+   <l n="6">
+      <choice>
+         <sic>Quàm major tanti tu metaphrasta libri !</sic>
+         <corr>Quàm major tanti tu metaphrasta libri !</corr>
+      </choice>
+   </l>
+   <l n="7">
+      <choice>
+         <sic>Sic olim è cuneis Philadelphica turba * novenis</sic>
+         <corr>Sic olim è cuneis Philadelphica turba * novenis</corr>
+      </choice>
+   </l>
+   <note place="margin-right">
+      <choice>
+         <sic>* LXXII. Interpretes.</sic>
+         <corr>* LXXII. Interpretes.</corr>
+      </choice>
+   </note>
+   <l n="8">
+      <choice>
+         <sic>Bis quater Uzæum condecorâre ducem.</sic>
+         <corr>Bis quater Uzæum condecorâre ducem.</corr>
+      </choice>
+   </l>
+   <l n="9">
+      <choice>
+         <sic>Moyse fit Hebræus, te Græcus: fœdus utrunque;</sic>
+         <corr>Moyse fit Hebræus, te Græcus: fœdus utrunque;</corr>
+      </choice>
+   </l>
+   <l n="10">
+      <choice>
+         <sic>Illius, antiquam; sed tua lingua, novum.</sic>
+         <corr>Illius, antiquam; sed tua lingua, novum.</corr>
+      </choice>
+   </l>
+   <l n="11">
+      <choice>
+         <sic>Jam si, * Panarî Pater inclyte, nomina Jobi</sic>
+         <corr>Jam si, * Panarî Pater inclyte, nomina Jobi</corr>
+      </choice>
+   </l>
+   <note place="margin-right">
+      <choice>
+         <sic>* Epiphan. Panar.</sic>
+         <corr>* Epiphan. Panar. </corr>
+      </choice>
+   </note>
+   <l n="12">
+      <choice>
+         <sic>Perdiderint titulos, quo reparentur, habent.</sic>
+         <corr>Perdiderint titulos, quo reparentur, habent.</corr>
+      </choice>
+   </l>
+   <l n="13">
+      <choice>
+         <sic>Tollantur lites de tempore: constat Homerum</sic>
+         <corr>Tollantur lites de tempore: constat Homerum</corr>
+      </choice>
+   </l>
+   <l n="14">
+      <choice>
+         <sic>A Jobo per te sic didicisse loqui.</sic>
+         <corr>A Jobo per te sic didicisse loqui.</corr>
+      </choice>
+   </l>
+
+   <note place="margin-right" lang="he">
+      <choice>
+         <sic>יָאַב</sic>
+         <corr>יָאַב</corr>
+      </choice>
+      <lb/>
+      <choice>
+         <sic>יוֹבָב</sic>
+         <corr>יוֹבָב</corr>
+      </choice>
+   </note>
+
+   <fw type="catchword">
+      <choice>
+         <sic>Quale</sic>
+         <corr>Quale</corr>
+      </choice>
+   </fw>
+</div>
+<pb/>
+
+<div type="commendatory_poem">
+   <pb n="unnumbered"/>
+
+   <l n="1">
+      <choice>
+         <sic>Quale opus, &amp; quanti ſudoris! quanta poetæ</sic>
+         <corr>Quale opus, &amp; quanti sudoris! quanta poetæ</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Gratia, cum ſancto ſic potuiſſe loqui!</sic>
+         <corr>Gratia, cum sancto sic potuisse loqui!</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Sic Deus &amp; Vates; numeros ſuperaddit uterque,</sic>
+         <corr>Sic Deus &amp; Vates; numeros superaddit uterque,</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Ut ſic bis Jobi poſtera fata beet.</sic>
+         <corr>Ut sic bis Jobi postera fata beet.</corr>
+      </choice>
+   </l>
+
+   <signed>
+      <choice>
+         <sic>Th. Riley, Coll. Trin. Socius.</sic>
+         <corr>Th. Riley, Coll. Trin. Socius.</corr>
+      </choice>
+   </signed>
+</div>
+
+<div type="commendatory_poem">
+   <l n="1">
+      <choice>
+         <sic>TV Mala ſic Jobi, bona tu ſic reddis Homeri,</sic>
+         <corr>TV Mala sic Jobi, bona tu sic reddis Homeri,</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Ilias hinc illinc ut videatur opus.</sic>
+         <corr>Ilias hinc illinc ut videatur opus.</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Tu Jobo ſuperaddis opes, tu carmen Homero;</sic>
+         <corr>Tu Jobo superaddis opes, tu carmen Homero;</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Ditior ut calamo fiat uterq; tuo.</sic>
+         <corr>Ditior ut calamo fiat uterque tuo.</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Livor, at hunc, moneo, nolito laceſſere Jobum:</sic>
+         <corr>Livor, at hunc, moneo, nolito lacessere Jobum:</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>Hic quoque, quo vincat dæmona, carmen habet.</sic>
+         <corr>Hic quoque, quo vincat dæmona, carmen habet.</corr>
+      </choice>
+   </l>
+
+   <signed>
+      <choice>
+         <sic>Henr. Vintener. Coll. Regal. Socius.</sic>
+         <corr>Henr. Vintener. Coll. Regal. Socius.</corr>
+      </choice>
+   </signed>
+</div>
+
+<div type="commendatory_poem" lang="grc">
+   <l n="1">
+      <choice>
+         <sic>ΤΡεῖς κῦραι τῷ Ἰώβῳ ἔσαν Χαρίτεσσιν ἕἴσαι,</sic>
+         <corr>ΤΡεῖς κοῦραι τῷ Ἰώβῳ ἔσαν Χαρίτεσσιν ἶσαι,</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Κεσίη, Ἰεμιμή τε, κὴ ὀπλοτάτη Κερεναππόκ·</sic>
+         <corr>Κεσίη, Ἰεμιμή τε, καὶ ὀπλοτάτη Κερεναππόκ·</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Ἐι δέ τις ἐς τὴν βίβλον ἑὰς βλήῃσιν ὀπωπὰς,</sic>
+         <corr>Ἐι δέ τις ἐς τὴν βίβλον ἑὰς βάλῃσιν ὀπωπὰς,</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Ἀμβροσίην δίζεαθς ἀοιδὴν εἶναι ἐφδ' ερι,</sic>
+         <corr>Ἀμβροσίην δίζεσθαι ἀοιδὴν εἶναι ἐφίμερον,</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Οὐ τρεῖς εἰν ἐπέεσσιν, ἢ ἐννέα, ἀλλὰ νυ Μύσας</sic>
+         <corr>Οὐ τρεῖς εἰν ἐπέεσσιν, ἢ ἐννέα, ἀλλὰ νυ Μούσας</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>Νηρίθμ8ς ἄν ἴδοι, Χαρίτων τ' ἀπερείσια φῦλα.</sic>
+         <corr>Νηρίθμους ἄν ἴδοι, Χαρίτων τ' ἀπερείσια φῦλα.</corr>
+      </choice>
+   </l>
+
+   <signed>
+      <choice>
+         <sic>J. Coke, Coll. Trin. Socius.</sic>
+         <corr>J. Coke, Coll. Trin. Socius.</corr>
+      </choice>
+   </signed>
+</div>
+
+<div type="commendatory_poem">
+   <l n="1">
+      <choice>
+         <sic>E Rat pergravis illa prolis olim</sic>
+         <corr>ERat pergravis illa prolis olim</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Gentilis Keturæ querela Jobi</sic>
+         <corr>Gentilis Keturæ querela Jobi</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Cladium medio gementis æſtu,</sic>
+         <corr>Cladium medio gementis æstu,</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Serefrigerio, ſodaliúmque</sic>
+         <corr>Se refrigerio, sodaliúmque</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Cœtu deſtitui. Querela noſtra</sic>
+         <corr>Cœtu destitui. Querela nostra</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>Hæc eſt atque eadem: relictus adſum</sic>
+         <corr>Hæc est atque eadem: relictus adsum</corr>
+      </choice>
+   </l>
+   <l n="7">
+      <choice>
+         <sic>Et ſolus, querulus canorus adſum,</sic>
+         <corr>Et solus, querulus canorus adsum,</corr>
+      </choice>
+   </l>
+   <l n="8">
+      <choice>
+         <sic>Reponi numero petens tuorum,</sic>
+         <corr>Reponi numero petens tuorum,</corr>
+      </choice>
+   </l>
+   <l n="9">
+      <choice>
+         <sic>Cuſtos fœderis integer vetuſti.</sic>
+         <corr>Custos fœderis integer vetusti.</corr>
+      </choice>
+   </l>
+   <l n="10">
+      <choice>
+         <sic>Doctorum fore teſtium ſupremum</sic>
+         <corr>Doctorum fore testium supremum</corr>
+      </choice>
+   </l>
+   <l n="11">
+      <choice>
+         <sic>Longæ poſcimus annulum catenæ.</sic>
+         <corr>Longæ poscimus annulum catenæ.</corr>
+      </choice>
+   </l>
+
+   <signed>
+      <choice>
+         <sic>Joh. Pullen, S. T. B. Coll. Magd. Socius.</sic>
+         <corr>Joh. Pullen, S. T. B. Coll. Magd. Socius.</corr>
+      </choice>
+   </signed>
+</div>
+
+<div type="poetry" subtype="page_transcription">
+   <pb n="2"/>
+   <head>
+      <choice>
+         <sic>ΘΡΗΝΟΘΡΙΑΜΒΟΣ,</sic>
+         <corr>ΘΡΗΝΟΘΡΙΑΜΒΟΣ,</corr>
+      </choice>
+   </head>
+   <head>
+      <choice>
+         <sic>ΚΕΦ. α'.</sic>
+         <corr>ΚΕΦ. α'.</corr>
+      </choice>
+   </head>
+
+   <lg n="1">
+      <l n="1">
+         <choice>
+            <sic>χώρη τις πολύολβο ἔην Ἀράβων ἐνὶ γαίη,</sic>
+            <corr>χώρη τις πολύολβος ἔην Ἀράβων ἐνὶ γαίῃ,</corr>
+         </choice>
+      </l>
+      <l n="2">
+         <choice>
+            <sic>Αὐσῖτις τὸ πάλαι κεκλημένη, εὖδαρ ἀρούρης.</sic>
+            <corr>Αὐσῖτις τὸ πάλαι κεκλημένη, οὖθαρ ἀρούρης.</corr>
+         </choice>
+      </l>
+      <l n="3">
+         <choice>
+            <sic>Ἔνθα τις οἰκί’ ἔναιεν ἀνὴρ, ἠΰς τε μέγας τε,</sic>
+            <corr>Ἔνθα τις οἰκί’ ἔναιεν ἀνὴρ, ἠΰς τε μέγας τε,</corr>
+         </choice>
+      </l>
+      <l n="4">
+         <choice>
+            <sic>Τῷ δ’ ἄρ’ Ἰὼβος ἔην κλυτὸν ὄνομα καὶ ἀείπυστον·</sic>
+            <corr>Τῷ δ’ ἄρ’ Ἴωβος ἔην κλυτὸν οὔνομα καὶ <unclear>περίπυστον</unclear>·</corr>
+         </choice>
+      </l>
+   
+      <l n="6">
+         <choice>
+            <sic>Ὅς πέλεται δικίω, ἐπεὶ οἱ νόος ἦε θεοδὴς,</sic>
+            <corr>Ὅς <unclear>πέλεται</unclear> δίκην, ἐπεὶ οἱ νόος ἦε θεουδὴς,</corr>
+         </choice>
+      </l>
+      <l n="7">
+         <choice>
+            <sic>Ἐκ δὲ κακὸ ἔκλινε, καὶ αἴσιμα πάντα φύλαξε.</sic>
+            <corr>Ἐκ δὲ κακοῦ ἔκλινε, καὶ αἴσιμα πάντα φύλαξε.</corr>
+         </choice>
+      </l>
+   </lg>
+
+   <lg n="2">
+      <l n="8">
+         <choice>
+            <sic>2 Τούτῳ δὴ δέκα παῖδες ἐνὶ μεγάροι γεγάασιν,</sic>
+            <corr>2 Τούτου καὶ δέκα παῖδες ἐνὶ μεγάροις γεγάασιν,</corr>
+         </choice>
+      </l>
+      <l n="9">
+         <choice>
+            <sic>Ἑπτὰ μὲν υἷες ἔσαν, τρεῖς ηὔκομοι δὲ θύγατρες.</sic>
+            <corr>Ἑπτὰ μὲν υἷες ἔσαν, τρεῖς ἠΰκομοι δὲ θύγατρες.</corr>
+         </choice>
+      </l>
+   </lg>
+
+   <lg n="3">
+      <l n="10">
+         <choice>
+            <sic>3 Μυρία δὲ κτήνεα ἔχεν, ὑψιλόφους τε καμήλο,</sic>
+            <corr>3 Μυρία δὲ κτήνεα ἔχεν, ὑψιλόφους τε καμήλους,</corr>
+         </choice>
+      </l>
+      <l n="11">
+         <choice>
+            <sic>Αἵ τρισχίλιαι αὐτῷ ἐν ὄρεσι βοκολέοντο</sic>
+            <corr>Αἳ τρισχίλιαι αὐτῷ ἐν οὔρεσι βουκολέοντο</corr>
+         </choice>
+      </l>
+      <l n="12">
+         <choice>
+            <sic>Θήλειαι τοκάδες, καὶ ἑπταχίλια μῆλα,</sic>
+            <corr>Θήλειαι τοκάδες, καὶ ἑπταχίλια μῆλα,</corr>
+         </choice>
+      </l>
+      <l n="13">
+         <choice>
+            <sic>Ζεύγεά τ’ αὖτε βοῶν πεντηκόσι’ εὐρυμετώπων,</sic>
+            <corr>Ζεύγεά τ’ αὖτε βοῶν πεντηκόσι’ εὐρυμετώπων,</corr>
+         </choice>
+      </l>
+      <l n="14">
+         <choice>
+            <sic>Ἠδέ τ’ ὄνο πεντηκοσίας, καὶ πάμματα πολλά.</sic>
+            <corr>Ἠδέ τ’ ὄνους πεντηκοσίας, καὶ πάμματα πολλά.</corr>
+         </choice>
+      </l>
+      <l n="15">
+         <choice>
+            <sic>Ἦ πόρ οἱ ζωή γ’ ἦν ἄσπετο· ὄ τινι τίσση</sic>
+            <corr>Ἦ γάρ οἱ ζωή γ’ ἦν ἄσπετος· οὐ τινι <unclear>τίσση</unclear></corr>
+         </choice>
+      </l>
+      <l n="16">
+         <choice>
+            <sic>Ἀνδρῶν ἡρώων, οἵ τ’ ὄλβιστοι ἄρ’ ἔοντες</sic>
+            <corr>Ἀνδρῶν ἡρώων, οἵ τ’ ὄλβιστοι ἄρ’ ἐόντες</corr>
+         </choice>
+      </l>
+      <l n="17">
+         <choice>
+            <sic>Ἠελίο φαέθοντο ἐπ’ ἀντολίησιν ἔναιον.</sic>
+            <corr>Ἠελίου φαέθοντος ἐπ’ ἀντολίησιν ἔναιον.</corr>
+         </choice>
+      </l>
+   </lg>
+
+   <lg n="4">
+      <l n="18">
+         <choice>
+            <sic>4 Τῷ δ’ υἷες δαίνυντο κρέ’ ἄσπετα, καὶ μέθυ ἡδύ·</sic>
+            <corr>4 Τοῦ δ’ υἷες δαίνυντο κρέ’ ἄσπετα, καὶ μέθυ ἡδύ·</corr>
+         </choice>
+      </l>
+      <l n="19">
+         <choice>
+            <sic>ᬈματι κατὰ τάξιν ἑῷ ἐνὶ οἴκῳ ἕκασο</sic>
+            <corr>Ἠμάτιος κατὰ τάξιν ἑῷ ἐνὶ οἴκῳ ἕκαστος</corr>
+         </choice>
+      </l>
+      <l n="20">
+         <choice>
+            <sic>Δαίνυτο, καὶ τριςὰς ἐπὶ δαῖτα κάλεσκον ἀδελφεάς.</sic>
+            <corr>Δαίνυτο, καὶ τρισσὰς ἐπὶ δαῖτα κάλεσκεν ἀδελφεάς.</corr>
+         </choice>
+      </l>
+      <l n="21">
+         <choice>
+            <sic>Ὡς οἱ μὲν πρόπαν ἦμαρ (ἐπηετανὸν πόρ ἔχεσκον)</sic>
+            <corr>Ὣς οἱ μὲν πρόπαν ἦμαρ (ἐπηετανὸν γὰρ ἔχεσκον)</corr>
+         </choice>
+      </l>
+      <l n="22">
+         <choice>
+            <sic>Διέχεν ἀλλήλο, καὶ ξείνισαν ἐν μεγάροι</sic>
+            <corr>Δειδέχατ᾽ ἀλλήλους, καὶ ξείνισαν ἐν μεγάροισι</corr>
+         </choice>
+      </l>
+      <l n="23">
+         <choice>
+            <sic>Πίνοντες, καὶ ἔδοντες, ἀμοιβαδὸν κατὰ οἴκος.</sic>
+            <corr>Πίνοντες, καὶ ἔδοντες, ἀμειβόμενοι κατὰ οἴκους.</corr>
+         </choice>
+      </l>
+   </lg>
+
+   <lg n="5">
+      <l n="24">
+         <choice>
+            <sic>5 Αὐτὰρ ὅτ’ ηλαπίνης μελιηδέο ἤματα πάντα</sic>
+            <corr>5 Αὐτὰρ ὅτ’ εἰλαπίνης μελιηδέος ἤματα πάντα</corr>
+         </choice>
+      </l>
+      <l n="25">
+         <choice>
+            <sic>Ἠὼς εὐπλόκαμο τέλεσεν, περὶ δ’ ἔτραπον ὧραι,</sic>
+            <corr>Ἠὼς εὐπλόκαμος τέλεσεν, περὶ δ’ ἔτραπον ὧραι,</corr>
+         </choice>
+      </l>
+     
+      
+      <l n="27">
+         <choice>
+            <sic>Αὐτίκ’ ὁ τοὺς ἐκάθηρε πατὴρ θοινήτορας υἷας,</sic>
+            <corr>Αὐτίκ’ ὁ τοὺς ἐκάθηρε πατὴρ θοινήτορας υἷας,</corr>
+         </choice>
+      </l>
+      <l n="28">
+         <choice>
+            <sic>Πάντα κατὰ μοῖραν, καὶ ἅμ’ ἠοῖ φαινομένηφιν</sic>
+            <corr>Πάντα κατὰ μοῖραν, καὶ ἅμ’ ἠοῖ φαινομένηφιν</corr>
+         </choice>
+      </l>
+      <l n="29">
+         <choice>
+            <sic>Ἱερά τε ῥέζεσκε, καὶ ἐξαίτο ἑκατόμβας</sic>
+            <corr>Ἱερά τε ῥέζεσκε, καὶ ἐξαίτους ἑκατόμβας</corr>
+         </choice>
+      </l>
+      <l n="30">
+         <choice>
+            <sic>Ἀθανάτῳ, ἤν πώ τις ὑπερβῇ καὶ ἁμάρτῃ,</sic>
+            <corr>Ἀθανάτῳ, ἤν που τις ὑπερβῄη καὶ ἁμάρτῃ,</corr>
+         </choice>
+      </l>
+      <l n="31">
+         <choice>
+            <sic>Ἠὲ Θεὸν κακὰ εἴπῃ ἀγνωμοῄνησι νόοιο.</sic>
+            <corr>Ἠὲ Θεὸν κακὰ εἴπῃ ἀγηνορίῃσι νόοιο.</corr>
+         </choice>
+      </l>
+      <l n="32">
+         <choice>
+            <sic>Ὅςα μέν οἱ πέλε τέκνα, τόσ’ ἔρδεχ’ ἱερὰ καλά.</sic>
+            <corr>Ὅσσα μέν οἱ πέλε τέκνα, τόσ’ ἔρδεχ’ ἱερὰ καλά.</corr>
+         </choice>
+      </l>
+      <l n="33">
+         <choice>
+            <sic>Ὡς ὅ γ’ ἔθων ἔρδεκε διαμπερέ· οἶδε πόρ αὐτὸ</sic>
+            <corr>Ὡς ὅ γ’ ἔθων ἔρδεσκε διαμπερές· οἶδε γὰρ αὐτὸς</corr>
+         </choice>
+      </l>
+  
+      
+   </lg>
+</div>
+
+<div type="poetry" subtype="page_transcription">
+   <pb n="4"/>
+   <head>
+      <choice>
+         <sic>ΘΡΗΝΟΘΡΙ'ΑΜΒΟΣ,</sic>
+         <corr>ΘΡΗΝΟΘΡΙ'ΑΜΒΟΣ,</corr>
+      </choice>
+      <choice>
+         <sic>Κεφ. α'.</sic>
+         <corr>Κεφ. α'.</corr>
+      </choice>
+   </head>
+
+   <lg n="cont">
+      <l n="1">
+         <choice>
+            <sic>'Οπποῖαι νέα ἀνδρὸς ὑπβασίαι τελέθοσι.</sic>
+            <corr>'Οπποῖαι νέου ἀνδρὸς ὑπερβασίαι τελέθουσι.</corr>
+         </choice>
+      </l>
+      <l n="2">
+         <choice>
+            <sic>Κερπνοτερο μὲ πόρ τε νό, λεπτή δέ τε μῆτις</sic>
+            <corr>Κραιπνότερος μὲν γάρ τε νόος, λεπτή δέ τε μῆτις</corr>
+         </choice>
+      </l>
+      <l n="3">
+         <choice>
+            <sic>Ἐν πάντεσσ' ἔργοισι, μάλισα δ δαιτὸς ἐν ὥρη·</sic>
+            <corr>Ἐν πάντεσσ' ἔργοισι, μάλιστα δὲ δαιτὸς ἐν ὥρῃ·</corr>
+         </choice>
+      </l>
+      <l n="4">
+         <choice>
+            <sic>Οἶνο πόρ τ' ἐφέηκε πολύφρονα περ μάλ' ἀεῖσαι,</sic>
+            <corr>Οἶνος γάρ τ' ἐφέηκε πολύφρονα περ μάλ' ἀεῖσαι,</corr>
+         </choice>
+      </l>
+      <l n="5">
+         <choice>
+            <sic>Καί τι ἔπ' προέηκεν, ὅπερ τ' ἄρρητον ἄμεινον.</sic>
+            <corr>Καί τι ἔπος προέηκεν, ὅπερ τ' ἄρρητον ἄμεινον.</corr>
+         </choice>
+      </l>
+   </lg>
+
+   <lg n="6">
+      <l n="6">
+         <choice>
+            <sic>6 Ἦν δέ ποτ' ἦμαρ ὅτ' ἦλθον οἱ "Ἄγγελοι ἄντα Θεοῖο.</sic>
+            <corr>6 Ἦν δέ ποτ' ἦμαρ ὅτ' ἦλθον οἱ "Ἄγγελοι ἄντα Θεοῖο.</corr>
+         </choice>
+      </l>
+      <l n="7">
+         <choice>
+            <sic>Παρ' δ' ἔσαν πατέρι σφῶ ἀολλέες, ἐν δ' ἄρ' τοῖσιν</sic>
+            <corr>Παρ' δ' ἔσαν πατέρι σφῷ ἀολλέες, ἐν δ' ἄρα τοῖσιν</corr>
+         </choice>
+      </l>
+      <l n="8">
+         <choice>
+            <sic>Ἤλυθε κ Σατανᾶς, ὀλοὰ φρεσὶ μήδε' ὑφαίνων,</sic>
+            <corr>Ἤλυθε καὶ Σατανᾶς, ὀλοὰ φρεσὶ μήδε' ὑφαίνων,</corr>
+         </choice>
+      </l>
+      <l n="9">
+         <choice>
+            <sic>Σχέτλι, ὀβειμοεργὸς, ὃς σκ ὄθετ' αἴσυλα ῥέζων,</sic>
+            <corr>Σχέτλιος, ὀβριμοεργὸς, ὃς οὐκ ὄθετ' αἴσυλα ῥέζων,</corr>
+         </choice>
+      </l>
+      <l n="10">
+         <choice>
+            <sic>Θυμολέων, βλοσυρὸς, τυκτὸν κακὸν ἀνθρώποισι.</sic>
+            <corr>Θυμολέων, βλοσυρὸς, τυκτὸν κακὸν ἀνθρώποισι.</corr>
+         </choice>
+      </l>
+     
+      
+   </lg>
+
+   <lg n="7">
+      <l n="12">
+         <choice>
+            <sic>7 Τὸν δ' ὡς οὖν ἐνόησε Πατὴρ ἀνδρῶν τε θεῶν τε,</sic>
+            <corr>7 Τὸν δ' ὡς οὖν ἐνόησε Πατὴρ ἀνδρῶν τε θεῶν τε,</corr>
+         </choice>
+      </l>
+      <l n="13">
+         <choice>
+            <sic>Ὡς ἄρ' μιν φώνησεν, ἔπ' τ' ἔφατ', ἔκ τ' ὀνόμαζεν,</sic>
+            <corr>Ὡς ἄρα μιν φώνησεν, ἔπος τ' ἔφατ', ἔκ τ' ὀνόμαζεν,</corr>
+         </choice>
+      </l>
+     
+      
+      <l n="15">
+         <choice>
+            <sic>Ὦ Σατανᾶ, πόθεν εἶς; Ὁ δ' ἀμείβετο μισάνθρωπ,</sic>
+            <corr>Ὦ Σατανᾶ, πόθεν εἶς; Ὁ δ' ἀμείβετο μισάνθρωπος,</corr>
+         </choice>
+      </l>
+      <l n="16">
+         <choice>
+            <sic>Πολλὰ μάλα πλαγχθεὶς, περί τε χθόνα πᾶσαν ὁδί-</sic>
+            <corr>Πολλὰ μάλα πλαγχθεὶς, περί τε χθόνα πᾶσαν ὁδί??σας,</corr>
+         </choice>
+      </l>
+
+      
+      <l n="18">
+         <choice>
+            <sic>Πολλὰ πλανῶν, κ πολλὰ πλανώμνο εἰλήλουθα.</sic>
+            <corr>Πολλὰ πλανῶν, καὶ πολλὰ πλανώμενος εἰλήλουθα.</corr>
+         </choice>
+      </l>
+      
+      
+   </lg>
+
+   <lg n="8">
+      <l n="20">
+         <choice>
+            <sic>8 Τὸν δ' αὖτε προσέειπε Πατὴρ, ἐρέεινε δ μῦθον,</sic>
+            <corr>8 Τὸν δ' αὖτε προσέειπε Πατὴρ, ἐρέεινε δὲ μῦθον,</corr>
+         </choice>
+      </l>
+      <l n="21">
+         <choice>
+            <sic>Δαιμόνι', ἦ ποτ' "Ἰωβον, ἐμὸν θεράποντα, νόησας;</sic>
+            <corr>Δαιμόνι', ἦ ποτ' "Ἰωβον, ἐμὸν θεράποντα, νόησας;</corr>
+         </choice>
+      </l>
+      <l n="22">
+         <choice>
+            <sic>Ὅς μοι φίλτατός ἐσι πίω δ μιν ἔξοχον ἄλλων,</sic>
+            <corr>Ὅς μοι φίλτατός ἐστι τίω δὲ μιν ἔξοχον ἄλλων,</corr>
+         </choice>
+      </l>
+      <l n="23">
+         <choice>
+            <sic>Οὕνεχ' ὅι ἔπ' τις ὅμοι ἐπιχθονίων ἀνθρώπων·</sic>
+            <corr>Οὕνεχ' ὅι εἴ τις ὅμοιος ἐπιχθονίων ἀνθρώπων·</corr>
+         </choice>
+      </l>
+      <l n="24">
+         <choice>
+            <sic>Ὅς πείεασε δίκιω, ἐπεί οἱ νό ἐῄ θεοδὴς,</sic>
+            <corr>Ὅς περίεσκε?? δίκην, ἐπεί οἱ νόος ἐστὶ θεουδὴς,</corr>
+         </choice>
+      </l>
+      <l n="25">
+         <choice>
+            <sic>Ἐκ δ κακὸ ἔκλινε, κ αἴσιμα πάντα φύλαξε.</sic>
+            <corr>Ἐκ δὲ κακοῦ ἔκλινε, καὶ αἴσιμα πάντα φύλαξε.</corr>
+         </choice>
+      </l>
+   </lg>
+
+   <lg n="9">
+      <l n="26">
+         <choice>
+            <sic>9 Τὸν δ' ἀπαμειβόμνο προσέφη Δαίμων δολόμητις,</sic>
+            <corr>9 Τὸν δ' ἀπαμειβόμενος προσέφη Δαίμων δολόμητις,</corr>
+         </choice>
+      </l>
+      <l n="27">
+         <choice>
+            <sic>φθισιώωρ Σατανᾶς, ὀλοφώϊα δήνεα εἰδὼς,</sic>
+            <corr>φθισήνωρ Σατανᾶς, ὀλοφώϊα δήνεα εἰδὼς,</corr>
+         </choice>
+      </l>
+      <l n="28">
+         <choice>
+            <sic>Ἦ ῥά νυ μὰψ κ προῖκα σέβει Θεὸν ἐτ "Ἰωβος;</sic>
+            <corr>Ἦ ῥά νυ μὰψ καὶ προῖκα σέβει Θεὸν οὗτος Ἴωβος;</corr>
+         </choice>
+      </l>
+   </lg>
+
+   <lg n="10">
+      <l n="29">
+         <choice>
+            <sic>10 Οὐ πόρ ἑὸν περὶ τ' οἶκον εὔσκιον ἕρκος ἔθηκας</sic>
+            <corr>10 Οὐ γὰρ ἑὸν περὶ τ' οἶκον ἐΰσκιον ἕρκος ἔθηκας</corr>
+         </choice>
+      </l>
+      <l n="30">
+         <choice>
+            <sic>Πανταχόθεν, περὶ τε κτῆσιν, περὶ τ' ἀμφί τε κεῖνον;</sic>
+            <corr>Πανταχόθεν, περὶ τε κτῆσιν, περὶ τ' ἀμφί τε κεῖνον;</corr>
+         </choice>
+      </l>
+      <l n="31">
+         <choice>
+            <sic>Σῇσι φιλοφροσύνῃσιν εὐρρόει τὰ δ ἄρ ἔργα,</sic>
+            <corr>Σῇσι φιλοφροσύνῃσιν ἐϋῤῥοέει τὰ ἃ ἔργα,</corr>
+         </choice>
+      </l>
+      <l n="32">
+         <choice>
+            <sic>Ὄλβ δ οἱ πλοῦτός τε ἀέξεται ἦ ἐνὶ γαίη.</sic>
+            <corr>Ὄλβος δ' οἱ πλοῦτός τε ἀέξεται ᾖ ἐνὶ γαίῃ.</corr>
+         </choice>
+      </l>
+   </lg>
+
+   <lg n="11">
+      <l n="33">
+         <choice>
+            <sic>11 Ἀλλ' ἄγε νῦ, ὀλίγον περ ἐπίψαυε κτεάτεσσι,</sic>
+            <corr>11 Ἀλλ' ἄγε νῦν, ὀλίγον περ ἐπίψαυε κτεάτεσσι,</corr>
+         </choice>
+      </l>
+      <l n="34">
+         <choice>
+            <sic>Καὶ τόθ' ἀμρτοεπὴς μάλα σε λωβήσεται ἄντω</sic>
+            <corr>Καὶ τόθ' ἀμαρτοεπὴς μάλα σε λωβήσεται ἄντιον</corr>
+         </choice>
+      </l>
+      <l n="35">
+         <choice>
+            <sic>Κερτομέων, κ ἐς ὦπα ἰδὼν αἰσχροῖσιν ἐνίψει.</sic>
+            <corr>Κερτομέων, καὶ ἐς ὦπα ἰδὼν αἰσχροῖσιν ἐνίψει.</corr>
+         </choice>
+      </l>
+      <l n="36">
+         <choice>
+            <sic>Ὡς ἔφαθ' ὁ ψεύσης φρεσὶν ἐλομνησι πιθήσας.</sic>
+            <corr>Ὣς ἔφαθ' ὁ ψεύστης φρεσὶν οὐλομένῃσι πιθήσας.</corr>
+         </choice>
+      </l>
+   </lg>
+
+   <lg n="12">
+      <l n="37">
+         <choice>
+            <sic>12 Τὸν δ' ἀπαμειβόμνο προσέφη Θεὸς ἀγκυλομήτης,</sic>
+            <corr>12 Τὸν δ' ἀπαμειβόμενος προσέφη Θεὸς ἀγκυλομήτης,</corr>
+         </choice>
+      </l>
+      <l n="38">
+         <choice>
+            <sic>Νῦ, ἴδε, σῇς ἐπὶ χρσὶν ἐτέτραπιν ὅσσ' περ εἶχεν·</sic>
+            <corr>Νῦν, ἴδε, σῇς ἐπὶ χερσὶν ἐτέτραπται ὅσσα περ εἶχεν·</corr>
+         </choice>
+      </l>
+      <l n="39">
+         <choice>
+            <sic>Ἀλὰ μόνον γ' αὐτῖο βαρείας χεῖρας ἀφέξεις.</sic>
+            <corr>Ἀλλὰ μόνον γ' αὐτοῖο βαρείας χεῖρας ἀφέξεις.</corr>
+         </choice>
+      </l>
+      <l n="40">
+         <choice>
+            <sic>Ὡς ἄρ ἔειπε Πατὴρ, κρετερόν δ ἐπὶ μῦθον ἔτελλε.</sic>
+            <corr>Ὣς ἄρ' ἔειπε Πατὴρ, κρατερόν δ' ἐπὶ μῦθον ἔτελλε.</corr>
+         </choice>
+      </l>
+   </lg>
+</div>
+
+<div type="poetry" subtype="page_transcription">
+   <pb n="6"/>
+   <head>
+      <choice>
+         <sic>6 Θ Ρ Η Ν Ο Θ Ρ Ι' Α Μ Β Ο Σ,</sic>
+         <corr>6 Θ Ρ Η Ν Ο Θ Ρ Ι' Α Μ Β Ο Σ,</corr>
+      </choice>
+      <choice>
+         <sic>Κεφ. α'.</sic>
+         <corr>Κεφ. α'.</corr>
+      </choice>
+   </head>
+
+   <lg n="cont">
+      <l n="1">
+         <choice>
+            <sic>Βῆ ρ' ἴμραι Σατανᾶς, κακὰ δ' φρεσὶ μήδετο ἔργα.</sic>
+            <corr>Βῆ ῥ' ἴμεναι Σατανᾶς, κακὰ δ' φρεσὶ μήδετο ἔργα.</corr>
+         </choice>
+      </l>
+   </lg>
+
+   <lg n="13">
+      <l n="2">
+         <choice>
+            <sic>13 Ἕως πὸρ Ἰώβο παῖδες, ἅμ' υἷες θυγατέρες τε,</sic>
+            <corr>13 Ἕως γὰρ Ἰώβου παῖδες, ἅμ' υἷες θυγατέρες τε,</corr>
+         </choice>
+      </l>
+      <l n="3">
+         <choice>
+            <sic>Πρεσβυτάτο σύμπαντε ἐνὶ μεγάροιαιν ἀδελφεο</sic>
+            <corr>Πρεσβυτάτου σύμπαντες ἐνὶ μεγάροισιν ἀδελφεοῦ</corr>
+         </choice>
+      </l>
+      <l n="4">
+         <choice>
+            <sic>Δαίνωτ', ἐδέ τι θυμὸς ἐδέατο δαιτὸς ἐΐσης·</sic>
+            <corr>Δαίνυντ', οὐδέ τι θυμὸς ἐδεύετο δαιτὸς ἐΐσης·</corr>
+         </choice>
+      </l>
+   </lg>
+
+   <lg n="14">
+      <l n="5">
+         <choice>
+            <sic>14 Ἤματι τῷ λυγρός τις ὁ ἄγγελΘ ἦλθεν Ἰώβῳ,</sic>
+            <corr>14 Ἤματι τῷ λυγρός τις ὁ ἄγγελος ἦλθεν Ἰώβῳ,</corr>
+         </choice>
+      </l>
+      <l n="6">
+         <choice>
+            <sic>Δάκρυα θερμὰ χέων, φάτο δ' ἀγγελίω ἀλεγηνήν·</sic>
+            <corr>Δάκρυα θερμὰ χέων, φάτο δ' ἀγγελίην ἀλεγεινήν·</corr>
+         </choice>
+      </l>
+      <l n="7">
+         <choice>
+            <sic>Ζάγνυμνων τε βοῶν, κ ὄνων παρὰ βοσκομνάων,</sic>
+            <corr>Ζευγνυμένων τε βοῶν, καὶ ὄνων παρὰ βοσκομενάων,</corr>
+         </choice>
+      </l>
+   </lg>
+
+   <lg n="15">
+      <l n="8">
+         <choice>
+            <sic>15 Τὰς μ' ἐφορμηθέντες ἀνηρήψαντο Σαβαῖοι,</sic>
+            <corr>15 Τὰς μὲν ἐφορμηθέντες ἀνηρείψαντο Σαβαῖοι,</corr>
+         </choice>
+      </l>
+      <l n="9">
+         <choice>
+            <sic>Δμῶας δ' αὖ ἀροτῆρας ἀπέκτανον ὀξέϊ χαλκῷ·</sic>
+            <corr>Δούλους δ' αὖ ἀροτῆρας ἀπέκτανον ὀξέϊ χαλκῷ·</corr>
+         </choice>
+      </l>
+      <l n="10">
+         <choice>
+            <sic>ΟἶΘ ἐγὼ λιπόμην, λυγρὸς δέ τοι ἄγγελΘ ἦλθον.</sic>
+            <corr>Οἶος ἐγὼ λιπόμην, λυγρὸς δέ τοι ἄγγελος ἦλθον.</corr>
+         </choice>
+      </l>
+   </lg>
+
+   <lg n="16">
+      <l n="11">
+         <choice>
+            <sic>16 Οὔπω πᾶν ηρητο ἔπος, ὅτε τ' ἄγγελΘ ἄλλΘ</sic>
+            <corr>16 Οὔπω πᾶν εἴρητο ἔπος, ὅτε τ' ἄγγελος ἄλλος</corr>
+         </choice>
+      </l>
+      <l n="12">
+         <choice>
+            <sic>Ἔση ἐνὶ προθύροιαιν, λέγων, ὅτι θηοδιδαὴς φλὸξ</sic>
+            <corr>Ἔστη ἐνὶ προθύροισι, λέγων, ὅτι θεσπιδαὴς φλὸξ</corr>
+         </choice>
+      </l>
+      <l n="13">
+         <choice>
+            <sic>Οὐρανόθεν καταβᾶσ' ὀϊάς τ' αὐτάς τε νομας</sic>
+            <corr>Οὐρανόθεν καταβᾶσ' ὄϊάς τ' αὐτάς τε νομῆας</corr>
+         </choice>
+      </l>
+      <l n="14">
+         <choice>
+            <sic>Πάγχυ μάλ' ἔκμαρψησεν, δήϊον μένΘ ἀσεροπητέω·</sic>
+            <corr>Πάγχυ μάλ' ἐκμάρψησεν, δήϊον μένος ἀστεροπητέω·</corr>
+         </choice>
+      </l>
+      <l n="15">
+         <choice>
+            <sic>ΟἶΘ ἐγὼ λιπόμην, λυγρὸς δέ τοι ἄγγελΘ ἦλθον.</sic>
+            <corr>Οἶος ἐγὼ λιπόμην, λυγρὸς δέ τοι ἄγγελος ἦλθον.</corr>
+         </choice>
+      </l>
+   </lg>
+
+   <lg n="17">
+      <l n="16">
+         <choice>
+            <sic>17 Οὔπω πᾶν ηρητο ἔπο, ὅτε τ' ἄλλΘ ἐπῆλθε,</sic>
+            <corr>17 Οὔπω πᾶν εἴρητο ἔπος, ὅτε τ' ἄλλος ἐπῆλθε,</corr>
+         </choice>
+      </l>
+      <l n="17">
+         <choice>
+            <sic>Δάκρυ' ἀναπρήσας, ὀλοφυρόμνός τ' ἔπος ηὔδα,</sic>
+            <corr>Δάκρυ' ἀναπρήσας, ὀλοφυρόμενός τ' ἔπος ηὔδα,</corr>
+         </choice>
+      </l>
+      <l n="18">
+         <choice>
+            <sic>Χαλδαῖοι τριασὰς μ' ἐκαρτύναντο φάλαγγας</sic>
+            <corr>Χαλδαῖοι τρισσὰς μὲν ἐκαρτύναντο φάλαγγας</corr>
+         </choice>
+      </l>
+      <l n="19">
+         <choice>
+            <sic>Ῥίμφα δ' ἐπαΐξαντε ἀφαιρήσαντο καμήλο,</sic>
+            <corr>Ῥίμφα δ' ἐπαΐξαντες ἀφαιρήσαντο καμήλους,</corr>
+         </choice>
+      </l>
+      <l n="20">
+         <choice>
+            <sic>Δμῶας δ' αὖτε βοτῆρας ἀπέκτανον ὀξέϊ χαλκῷ·</sic>
+            <corr>Δμῶας δ' αὖτε βοτῆρας ἀπέκτανον ὀξέϊ χαλκῷ·</corr>
+         </choice>
+      </l>
+      <l n="21">
+         <choice>
+            <sic>ΟἶΘ ἐγὼ λιπόμην, λυγρὸς δέ τοι ἄγγελΘ ἦλθον.</sic>
+            <corr>Οἶος ἐγὼ λιπόμην, λυγρὸς δέ τοι ἄγγελος ἦλθον.</corr>
+         </choice>
+      </l>
+   </lg>
+
+   <lg n="18">
+      <l n="22">
+         <choice>
+            <sic>18 Οὔπω πᾶν ηρητο ἔπος, ὅτε δ' ἄγχι παρέση</sic>
+            <corr>18 Οὔπω πᾶν εἴρητο ἔπος, ὅτε δ' ἄγχι παρέστη</corr>
+         </choice>
+      </l>
+      <l n="23">
+         <choice>
+            <sic>Τέτρατις (αἰεὶ πὸρ τε κακὸν κακῷ ἐξήϊκται·</sic>
+            <corr>Τέτρατος (αἰεὶ γάρ τε κακὸν κακῷ ἐξήϊκται·</corr>
+         </choice>
+      </l>
+      <l n="24">
+         <choice>
+            <sic>Ὡς ὅτ' ἐπασύτεραί σφιν ἐπ' ἀλλήλοιαιν κέχυνται</sic>
+            <corr>Ὡς ὅτ' ἐπασσύτεραί σφιν ἐπ' ἀλλήλοισι κέχυνται</corr>
+         </choice>
+      </l>
+      <l n="25">
+         <choice>
+            <sic>Πόντο κύματα μακρὰ, πρὸ μ' τ' ἄλλ', αὐτὰρ ἐπ' ἄλλο)</sic>
+            <corr>Πόντου κύματα μακρὰ, πρὸ μέν τ' ἄλλ', αὐτὰρ ἐπ' ἄλλο)</corr>
+         </choice>
+      </l>
+      <l n="26">
+         <choice>
+            <sic>Δάκρυα δ' ἔκβαλε θερμὰ, ἔπος τ' ὀλοφυδνὸν ἔηπεν,</sic>
+            <corr>Δάκρυα δ' ἔκβαλε θερμὰ, ἔπος τ' ὀλοφυδνὸν ἔειπεν,</corr>
+         </choice>
+      </l>
+      <l n="27">
+         <choice>
+            <sic>Ὤ μοι ἄμυμον Ἰῶβε διοτρεφὲς, ἦ μάλα λυγρῆς</sic>
+            <corr>Ὤ μοι ἀμύμων Ἰῶβε διοτρεφὲς, ἦ μάλα λυγρῆς</corr>
+         </choice>
+      </l>
+      <l n="28">
+         <choice>
+            <sic>Πάσεαι ἀγγελίης, ἣ μὴ ὤφελλε γυέσθαι.</sic>
+            <corr>Πεύσεαι ἀγγελίης, ἣ μὴ ὤφελλε γενέσθαι.</corr>
+         </choice>
+      </l>
+      <l n="29">
+         <choice>
+            <sic>Ἕως πὸρ τεοὶ υἷες ἐΰζωνοί τε θύγατρες</sic>
+            <corr>Εἵως γὰρ τεοὶ υἷες ἐΰζωνοί τε θύγατρες</corr>
+         </choice>
+      </l>
+      <l n="30">
+         <choice>
+            <sic>Εἵατο πρεσβυτάτοιο ἐνὶ μεγάροιαιν ἀδελφεο,</sic>
+            <corr>Εἵατο πρεσβυτάτοιο ἐνὶ μεγάροισιν ἀδελφεοῦ,</corr>
+         </choice>
+      </l>
+      <l n="31">
+         <choice>
+            <sic>Σίτο κ οἴνοιο τεταρπόμνοι φίλον ἦτορ·</sic>
+            <corr>Σίτου καὶ οἴνοιο τεταρπόμενοι φίλον ἦτορ·</corr>
+         </choice>
+      </l>
+   </lg>
+
+   <lg n="19">
+      <l n="32">
+         <choice>
+            <sic>19 Δὴ τίτ' ἐπασέρχοσα κακὴ ἀνέμοιο θύελλα</sic>
+            <corr>19 Δὴ τότ' ἐπασσέρχουσα κακὴ ἀνέμοιο θύελλα</corr>
+         </choice>
+      </l>
+      <l n="33">
+         <choice>
+            <sic>Ὑψιερεφὲς μέγα δῶ τύψ' ἐρημόθεν αἴξασα·</sic>
+            <corr>Ὑψιερεφὲς μέγα δῶ τύψ' ἐρημόθεν ἀΐξασα·</corr>
+         </choice>
+      </l>
+      <l n="34">
+         <choice>
+            <sic>Τοῦ δ' ἄρμὸς κ πλευρὰ διέλασεν ἲς ἀνέμοιο</sic>
+            <corr>Τοῦ δ' ἄρμους καὶ πλευρὰ διέλασεν ἲς ἀνέμοιο</corr>
+         </choice>
+      </l>
+      <l n="35">
+         <choice>
+            <sic>Πυθμενόθεν· τὸ δ' ἐπ' ἠϊθας πέσε, τοὶ δ' ὀλέκοντο·</sic>
+            <corr>Πυθμενόθεν· τὸ δ' ἐπ' ἠϊθέους πέσε, τοὶ δ' ὀλέκοντο·</corr>
+         </choice>
+      </l>
+      <l n="36">
+         <choice>
+            <sic>ΟἶΘ ἐγὼ λιπόμην, λυγρὸς δέ τοι ἄγγελΘ ἦλθον.</sic>
+            <corr>Οἶος ἐγὼ λιπόμην, λυγρὸς δέ τοι ἄγγελος ἦλθον.</corr>
+         </choice>
+      </l>
+   </lg>
+
+   <lg n="20">
+      <l n="37">
+         <choice>
+            <sic>20 Ὡς φάτο. Τὸν δ' ἄχεος νεφέλη ἐκάλυψε μέλαινα·</sic>
+            <corr>20 Ὡς φάτο. Τὸν δ' ἄχεος νεφέλη ἐκάλυψε μέλαινα·</corr>
+         </choice>
+      </l>
+      <l n="38">
+         <choice>
+            <sic>Ἵστατο δ' οἰμώξας, κ πορφύρεον μέγα φᾶρος</sic>
+            <corr>Ἵστατο δ' οἰμώξας, καὶ πορφύρεον μέγα φᾶρος</corr>
+         </choice>
+      </l>
+      <l n="39">
+         <choice>
+            <sic>Ῥῆξε περὶ σήθεαι, φίλω δ' ἀπεκείρατο χαίτω,</sic>
+            <corr>Ῥῆξε περὶ στήθεσσι, φίλην δ' ἀπεκείρατο χαίτην,</corr>
+         </choice>
+      </l>
+      <l n="40">
+         <choice>
+            <sic>Κάππεσε δ' ἐν κονίῃσιν ἀποψύχοντι ἐοικώς·</sic>
+            <corr>Κάππεσε δ' ἐν κονίῃσιν ἀποψύχοντι ἐοικώς·</corr>
+         </choice>
+      </l>
+   </lg>
+</div>
+<div type="poetry" subtype="page_transcription">
+   <pb n="8"/>
+   <head>
+      <choice>
+         <sic>ΘΡΗΝΟΘΡΙΑΜΒΟΣ,</sic>
+         <corr>ΘΡΗΝΟΘΡΙΑΜΒΟΣ,</corr>
+      </choice>
+      <choice>
+         <sic>Κεφ. 6'.</sic>
+         <corr>Κεφ. α'.</corr>
+      </choice>
+   </head>
+
+   <l n="19">
+      <choice>
+         <sic>Διὼ δέ μιν ἀμφασίη ἐπέων λάβε, τὼ δέ οἱ ὄσσε</sic>
+         <corr>Δὴν δέ μιν ἀμφασίη ἐπέων λάβε, τὼ δέ οἱ ὄσσε</corr>
+      </choice>
+   </l>
+   <l n="20">
+      <choice>
+         <sic>Δακρυόφιν πλῆθεν, θαλερὴ δέ οἱ ἔχετο φωνή.</sic>
+         <corr>Δακρυόφιν πλῆθεν, θαλερὴ δέ οἱ ἔσχετο φωνή.</corr>
+      </choice>
+   </l>
+   <l n="21">
+      <choice>
+         <sic>Ὀψὲ δ᾽ ἀναπνεύσας ἁδινῷ ἐξῆρχε χόοιο,</sic>
+         <corr>Ὀψὲ δ᾽ ἀναπνεύσας ἁδινοῦ ἐξῆρχε γόοιο,</corr>
+      </choice>
+   </l>
+   <l n="22">
+      <choice>
+         <sic>Καὶ ἅμ᾽ ὀδυρομένῳ, θεοσέπτορα μῦθον ἔειπεν.</sic>
+         <corr>Καὶ ἅμ᾽ ὀδυρομένος, θεοσέπτορα μῦθον ἔειπεν.</corr>
+      </choice>
+   </l>
+   <milestone unit="verse" n="21"/>
+   <l n="21">
+      <choice>
+         <sic>Ὤ, μοι ἐγὼ δειλός· γυμνόν μέ τ᾽ ἐγείνατο μήτηρ.</sic>
+         <corr>Ὤ, μοι ἐγὼ δειλός· γυμνόν μέ τ᾽ ἐγείνατο μήτηρ.</corr>
+      </choice>
+   </l>
+   <l n="22">
+      <choice>
+         <sic>Ἔκ τ᾽ ἄγαγε ωροφρόωςδε, κὴ ἠελίυ ἴδον αὐγάς·</sic>
+         <corr>Ἔκ τ᾽ ἄγαγε προφρόωςδε, καὶ ἠελίου ἴδον αὐγάς·</corr>
+      </choice>
+   </l>
+   <l n="23">
+      <choice>
+         <sic>Γυμνός τ᾽ ἐξαῦτις γαίης ὑπὸ γαστέρα δύσω.</sic>
+         <corr>Γυμνός τ᾽ ἐξαῦτις γαίης ὑπὸ γαστέρα δύσω.</corr>
+      </choice>
+   </l>
+   <l n="24">
+      <choice>
+         <sic>Δῶκε Θεὸς, κὴ ἀφεῖλ᾽, ἐπεί οἱ κράτος ἐστὶ μέγιστον·</sic>
+         <corr>Δῶκε Θεὸς, καὶ ἀφεῖλ᾽, ἐπεί οἱ κράτος ἐστὶ μέγιστον·</corr>
+      </choice>
+   </l>
+   <l n="25">
+      <choice>
+         <sic>Τῷ χ᾽ ἑὸν εἰς αἰῶν᾽ ὄνομα κλυτὸν εὐλογεέσθω.</sic>
+         <corr>Τῷ χ᾽ ἑὸν εἰς αἰῶν᾽ ὄνομα κλυτὸν εὐλογεέσθω.</corr>
+      </choice>
+   </l>
+    <milestone unit="verse" n="22"/>
+   <l n="22">
+      <choice>
+         <sic>Ὡς ἔφατ᾽ εὐσεβίῃσι, κὴ ὐχ ἡμάρτανε μύθων,</sic>
+         <corr>Ὡς ἔφατ᾽ εὐσεβίῃσι, καὶ οὐχ ἡμάρτανε μύθων,</corr>
+      </choice>
+   </l>
+   <l n="26">
+      <choice>
+         <sic>Οὐδὲ Θεὸν λώβασσε χαλιφροσύνῃσι νόοιο.</sic>
+         <corr>Οὐδὲ Θεὸν λώβησε χαλιφροσύνῃσι νόοιο.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="chapter" n="2"/>
+   <head>
+      <choice>
+         <sic>Κ Ε Φ. β'.</sic>
+         <corr>Κ Ε Φ. β'.</corr>
+      </choice>
+   </head>
+ <milestone unit="verse" n="1"/>
+   <l n="1">
+      <choice>
+         <sic>Κ Αὶ πάλιν ἦμαρ ἔην ὅτ᾽ ἐναντίον Ἀθανάτοιο</sic>
+         <corr>Καὶ πάλιν ἦμαρ ἔην ὅτ᾽ ἐναντίον Ἀθανάτοιο</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Πάντες ἅμ᾽ Ἄγγελοι ἦλθον, ὁμηγερέες τ᾽ ἐγένοντο,</sic>
+         <corr>Πάντες ἅμ᾽ Ἄγγελοι ἦλθον, ὁμηγερέες τ᾽ ἐγένοντο,</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Καὶ Σατανᾶς ἅμα τοῖσι, κακὰ φρεσὶ βυσσοδομεύων.</sic>
+         <corr>Καὶ Σατανᾶς ἅμα τοῖσι, κακὰ φρεσὶ βυσσοδομεύων.</corr>
+      </choice>
+   </l>
+    <milestone unit="verse" n="2"/>
+   <l n="2">
+      <choice>
+         <sic>Τὸν δ᾽ ἐρέεινε Πατὴρ, ἐλέλιξε 5 μακρὸν ὄλυμπον·</sic>
+         <corr>Τὸν δ᾽ ἐρέεινε Πατὴρ, ἐλέλιξε δὲ μακρὸν ὄλυμπον·</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Ὦ Σατανᾶ, πόθεν ἦλθες ἀμήχανε; τίπτε δέ σε χρεώ;</sic>
+         <corr>Ὦ Σατανᾶ, πόθεν ἦλθες ἀμήχανε; τίπτε δέ σε χρεώ;</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Τὸν δ᾽ δολοφρονέων ἠμείβετο μισάνθρωπΘ,</sic>
+         <corr>Τὸν δὲ δολοφρονέων ἠμείβετο μισάνθρωπος,</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>Πολλὰ μάλα πλάγχθην, περί τε χθόνα πᾶσαν ὁδεύσα,</sic>
+         <corr>Πολλὰ μάλα πλάγχθην, περί τε χθόνα πᾶσαν ὁδεύσας,</corr>
+      </choice>
+   </l>
+   <l n="7">
+      <choice>
+         <sic>Πολλῶν δ᾽ ἀνθρώπων ἴδον ἄστεα, κὴ νόον ἔγνων·</sic>
+         <corr>Πολλῶν δ᾽ ἀνθρώπων ἴδον ἄστεα, καὶ νόον ἔγνων·</corr>
+      </choice>
+   </l>
+   <l n="8">
+      <choice>
+         <sic>Νῦν δ᾽ κὴ ἀθανάτων ἱερὸν πτολίεθρον ἱκάνω.</sic>
+         <corr>Νῦν δὲ καὶ ἀθανάτων ἱερὸν πτολίεθρον ἱκάνω.</corr>
+      </choice>
+   </l>
+    <milestone unit="verse" n="3"/>
+   <l n="3">
+      <choice>
+         <sic>Τὸν δ᾽ αὖτε προσέειπεν ὈλύμπιΘ ἠδάδι φωνῇ,</sic>
+         <corr>Τὸν δ᾽ αὖτε προσέειπεν Ὀλύμπιος ἡδέϊ φωνῇ,</corr>
+      </choice>
+   </l>
+   <l n="9">
+      <choice>
+         <sic>Οἶδ᾽ ὅτι πολλὰ κατ᾽ ἄσε᾽ ἀλώμενΘ ἐνθάδ᾽ ἱκάνεις·</sic>
+         <corr>Οἶδ᾽ ὅτι πολλὰ κατ᾽ ἄστε᾽ ἀλώμενος ἐνθάδ᾽ ἱκάνεις·</corr>
+      </choice>
+   </l>
+   <l n="10">
+      <choice>
+         <sic>Ἀλλ᾽ ἄγε μοι τόδε εἰπὲ, κὴ ἀτρεκέως κατάλεξον,</sic>
+         <corr>Ἀλλ᾽ ἄγε μοι τόδε εἰπὲ, καὶ ἀτρεκέως κατάλεξον,</corr>
+      </choice>
+   </l>
+   <l n="11">
+      <choice>
+         <sic>Δῆλον ἐμὸν τὸν Ἰωβον ἀμύμονα φῶτα νόησας 3</sic>
+         <corr>Δοῦλον ἐμὸν τὸν Ἰωβον ἀμύμονα φῶτα νόησας;</corr>
+      </choice>
+   </l>
+   <l n="12">
+      <choice>
+         <sic>Ὅς μέ μάλιστα τίει χαμαὶ ἐρχομένων ἀνθρώπων,</sic>
+         <corr>Ὅς με μάλιστα τίει χαμαὶ ἐρχομένων ἀνθρώπων,</corr>
+      </choice>
+   </l>
+   <l n="13">
+      <choice>
+         <sic>Ἀμπλακίω δ᾽ ἀλεείνει, ἰδ᾽ ἐν φρεσὶν αἴσιμα ᾔδη,</sic>
+         <corr>Ἀμπλακίην δ᾽ ἀλεείνει, ἰδ᾽ ἐν φρεσὶν αἴσιμα ᾔδη,</corr>
+      </choice>
+   </l>
+   <l n="14">
+      <choice>
+         <sic>Ἧς δ᾽ δικαιοσύνης ἀπρὶξ ἔχετ᾽, ἀχνύμενΘ περ,</sic>
+         <corr>Ἧς δὲ δικαιοσύνης ἀπρὶξ ἔχετ᾽, ἀχνύμενος περ,</corr>
+      </choice>
+   </l>
+   <l n="15">
+      <choice>
+         <sic>Πάσχων τ᾽ ἄλγεα λυγρὰ κακοῤῥαφίῃσι τεῇσι.</sic>
+         <corr>Πάσχων τ᾽ ἄλγεα λυγρὰ κακοῤῥαφίῃσι τεῇσι.</corr>
+      </choice>
+   </l>
+    <milestone unit="verse" n="4"/>
+   <l n="4">
+      <choice>
+         <sic>Τὸν δ᾽ ἄρ᾽ ὑποβλήδην προσέφη Δαίμων δολόμητις,</sic>
+         <corr>Τὸν δ᾽ ἄρ᾽ ὑποβλήδην προσέφη Δαίμων δολόμητις,</corr>
+      </choice>
+   </l>
+   <l n="16">
+      <choice>
+         <sic>Φθισήνωρ Σατανᾶς, ὀλοφώϊα δήνεα εἰδώς·</sic>
+         <corr>Φθισήνωρ Σατανᾶς, ὀλοφώϊα δήνεα εἰδώς·</corr>
+      </choice>
+   </l>
+   <l n="17">
+      <choice>
+         <sic>Ῥινὸν ὑπὲρ ῥινδ, κὴ πάντα μάλ᾽ ὅσσα οἱ ἔστι,</sic>
+         <corr>Ῥινὸν ὑπὲρ ῥινοῦ, καὶ πάντα μάλ᾽ ὅσσα οἱ ἔστι,</corr>
+      </choice>
+   </l>
+   <l n="18">
+      <choice>
+         <sic>Εἰσὸρ μυεῖ᾽ ἔχησι, ἀνὴρ ζωάγρια δώσει</sic>
+         <corr>Εἴπερ μυρί᾽ ἔχῃσιν, ἀνὴρ ζωάγρια δώσει</corr>
+      </choice>
+   </l>
+   <l n="19">
+      <choice>
+         <sic>ἈσμέλΘ· ἐ γὰρ π ψυχῆς ἀντάξιον ἄλλο.</sic>
+         <corr>Ἄσμενος· οὐ γὰρ τι ψυχῆς ἀντάξιον ἄλλο.</corr>
+      </choice>
+   </l>
+    <milestone unit="verse" n="5"/>
+   <l n="5">
+      <choice>
+         <sic>Εἰ δ᾽ ἄθεν ἕλκε᾽ ἐόντΘ ἐπιγράβδην χεῖρ᾽ ἐπαείρῃς,</sic>
+         <corr>Εἰ δ᾽ ἕθεν οὔλου ἐόντος ἐπιγράβδην περ ἐπαύρῃς,</corr>
+      </choice>
+   </l>
+   <l n="20">
+      <choice>
+         <sic>Καὶ μάλα πὸς λίγδην σάρκας τε κὴ ὀστέα βάλλῃς;</sic>
+         <corr>Καὶ μάλα περ λίγδην σάρκας τε καὶ ὀστέα βάλλῃς;</corr>
+      </choice>
+   </l>
+   <l n="21">
+      <choice>
+         <sic>Δαφεορὸρης τότε γ᾽ αἶψα φανήσεται ἄπλοεπής τε,</sic>
+         <corr>Λαβρογόρης τότε γ᾽ αἶψα φανήσεται ἁπτοεπής τε,</corr>
+      </choice>
+   </l>
+   <l n="22">
+      <choice>
+         <sic>Νεικείων</sic>
+         <corr>Νεικείων</corr>
+      </choice>
+   </l>
+</div>
+
+<div type="epic_paraphrase" subtype="page_transcription">
+   <pb n="10"/>
+   <head>
+      <choice>
+         <sic>ΘΡΗΝΟΘΡΙΑΜΒΟΣ</sic>
+         <corr>ΘΡΗΝΟΘΡΙΑΜΒΟΣ</corr>
+      </choice>
+      <ref target="source:header_title"></ref>
+      <choice>
+         <sic>Κεφ. β'.</sic>
+         <corr>Κεφ. β'.</corr>
+      </choice>
+   </head>
+
+   <l n="1">
+      <choice>
+         <sic>Νεικείων σ' ἀναφανδὰ χολωτοῖσιν ἐπέεσσι.</sic>
+         <corr>Νεικείων σ' ἀναφανδὰ χολωτοῖσιν ἐπέεσσι.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="6"/>
+   <l n="2">
+      <choice>
+         <sic>Τὸν δ' ἀπαμειβόμνΘ προσέφη Θεὸς ἀγκυλομήτης,</sic>
+         <corr>Τὸν δ' ἀπαμειβόμενος προσέφη Θεὸς ἀγκυλομήτης,</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Νῦν ἴδε, σῆς ἐπὶ χερσὶν ἐτέτραπον ἠδέ μιν αὐτόν.</sic>
+         <corr>Νῦν ἴδε, σῆς ἐπὶ χερσὶν ἐπέτραπον ἠδέ μιν αὐτόν.</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Ἄλλο δέ τοι ἐρέω, σὺ δ' ἐνὶ φρεσὶ βάλλεο σῇσι·</sic>
+         <corr>Ἄλλο δέ τοι ἐρέω, σὺ δ' ἐνὶ φρεσὶ βάλλεο σῇσι·</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Μὴ θάνατον δ' ἀγόρευ', ἐπεὶ ὄυ τι σε πεισέμν οἴω·</sic>
+         <corr>Μὴ θάνατον δ' ἀγόρευ', ἐπεὶ οὔ τι σε πεισέμεν οἴω·</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>Οὐ γάρ πω οἱ μοῖρα θανεῖν κὴ πότμον ἐπισπεῖν.</sic>
+         <corr>Οὐ γάρ πω οἱ μοῖρα θανεῖν καὶ πότμον ἐπισπεῖν.</corr>
+      </choice>
+   </l>
+   <l n="7">
+      <choice>
+         <sic>Ὣς ἄρ ἔειπε Πατὴρ, κρατερὸν δ' ἐπὶ μῦθον ἔτελλε.</sic>
+         <corr>Ὣς ἄρ ἔειπε Πατὴρ, κρατερὸν δ' ἐπὶ μῦθον ἔτελλε.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="7"/>
+   <l n="8">
+      <choice>
+         <sic>Βῆ ῥ' ἴμεναι Σατανᾶς, κακὰ δ' φρεσὶ μήσατ' Ἰώβῳ.</sic>
+         <corr>Βῆ ῥ' ἴμεναι Σατανᾶς, κακὰ δὲ φρεσὶ μήσατ' Ἰώβῳ.</corr>
+      </choice>
+   </l>
+   
+
+   
+
+   <l n="9">
+      <choice>
+         <sic>Ψωραλέῃς πληγῇσι, κὴ ἕλκεσιν ἅ τά μιν αἰνοῖς</sic>
+         <corr>Ψωραλέῃς πληγῇσι, καὶ ἕλκεσιν οὖτά μιν αἰνοῖς</corr>
+      </choice>
+   </l>
+   <l n="10">
+      <choice>
+         <sic>Ἐς πόδας ἐκ κεφαλῆς· φθίνυθεν δ' ὅι ἐπ' ὀστέφι χρώς·</sic>
+         <corr>Ἐς πόδας ἐκ κεφαλῆς· φθίνυθεν δ' οἱ ἐπ' ὀστέοφι χρώς·</corr>
+      </choice>
+   </l>
+   <l n="11">
+      <choice>
+         <sic>Πυκναὶ δ' σμώδιγγες ἀνὰ πλευράς τε κὴ ὤμες</sic>
+         <corr>Πυκναὶ δὲ σμώδιγγες ἀνὰ πλευράς τε καὶ ὤμους</corr>
+      </choice>
+   </l>
+   <l n="12">
+      <choice>
+         <sic>Αἵματι φοινικόεσσαι ἀνέδραμον ἔνθα κὴ ἔνθα.</sic>
+         <corr>Αἵματι φοινικόεσσαι ἀνέδραμον ἔνθα καὶ ἔνθα.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="8"/>
+   <l n="13">
+      <choice>
+         <sic>Αὐτὸς δ' χρόα μυδαλέον κεράμῳ κνίζεσκεν,</sic>
+         <corr>Αὐτὸς δὲ χρόα μυδαλέον κεράμῳ κνίζεσκεν,</corr>
+      </choice>
+   </l>
+   <l n="14">
+      <choice>
+         <sic>Οὐτὰρ ὁδὰξ δέδρακτο, κὴ ἐν κονίῃσι καθῆστο</sic>
+         <corr>Οὗπερ ὀδὰξ δέδρακτο, καὶ ἐν κονίῃσι καθῆστο</corr>
+      </choice>
+   </l>
+   <l n="15">
+      <choice>
+         <sic>Σμήχων ἕλκεα λυγρὰ, πύον τ' ἀπὸ πολλὸν ὀμοργνύς.</sic>
+         <corr>Σμήχων ἕλκεα λυγρὰ, πύον τ' ἀπὸ πολλὸν ὀμοργνύς.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="9"/>
+   <l n="16">
+      <choice>
+         <sic>Καί τ' ἄλοχος στυφέλιξεν ὀνειδίοις ἐπέεσσιν·</sic>
+         <corr>Καί τ' ἄλοχος στυφέλιξεν ὀνειδίοις ἐπέεσσιν·</corr>
+      </choice>
+   </l>
+   <l n="17">
+      <choice>
+         <sic>Ἆ δεῖλ' ἀνθρώπων, πάντων πέλει κάμμορε φωτῶν,</sic>
+         <corr>Ἆ δεῖλ' ἀνθρώπων, πάντων πέρι κάμμορε φωτῶν,</corr>
+      </choice>
+   </l>
+   <l n="18">
+      <choice>
+         <sic>Νηπύτι', εὐσεβίῃ τε δικαιοσύνῃ τε ματαίῃ</sic>
+         <corr>Νηπύτι', εὐσεβίῃ τε δικαιοσύνῃ τε ματαίῃ</corr>
+      </choice>
+   </l>
+   <l n="19">
+      <choice>
+         <sic>Ἕως πότε μὰψ ὕτω κατέχεις; ἐπεὶ ὄδέ τι σε χρή.</sic>
+         <corr>Ἕως πότε μὰψ οὕτω κατέχεις; ἐπεὶ οὐδέ τι σε χρή.</corr>
+      </choice>
+   </l>
+   <l n="20">
+      <choice>
+         <sic>Ἦ νύ κέ τοι χραίσμῃ ἀρετὴ κὴ δεῖμα Θεοῖο;</sic>
+         <corr>Ἦ νύ κέ τοι χραίσμῃ ἀρετὴ καὶ δεῖμα Θεοῖο;</corr>
+      </choice>
+   </l>
+   <l n="21">
+      <choice>
+         <sic>Ἠὲ κὴ εὐσεβίη τοι ἐπήρκεσε λυγρὸν ὄλεθρον ;</sic>
+         <corr>Ἠὲ καὶ εὐσεβίη τοι ἐπήρκεσε λυγρὸν ὄλεθρον ;</corr>
+      </choice>
+   </l>
+   <l n="22">
+      <choice>
+         <sic>Ἀλλ' ἄγε, βλασφήμει, κὴ τέθναθι· τίπτ' ἔτι μίμνεις;</sic>
+         <corr>Ἀλλ' ἄγε, βλασφήμει, καὶ τέθναθι· τίπτ' ἔτι μίμνεις;</corr>
+      </choice>
+   </l>
+   <l n="23">
+      <choice>
+         <sic>Βέλτερον ἢ ὀπολέσθαι ἕνα χρόνον, ἠὲ βιῶναι,</sic>
+         <corr>Βέλτερον ἢ ἀπολέσθαι ἕνα χρόνον, ἠὲ βιῶναι,</corr>
+      </choice>
+   </l>
+   <l n="24">
+      <choice>
+         <sic>Ἦ δηθὰ κρατέοντι ἐν ἀλγεινῇ κακότητι.</sic>
+         <corr>Ἢ δηθὰ ??? ἐν ἀλγεινῇ κακότητι.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="10"/>
+   <l n="25">
+      <choice>
+         <sic>Τὴν δ' μέγ' ὀχθήσας ἀπαμείβετο δῖΘ ἀκοίτης,</sic>
+         <corr>Τὴν δὲ μέγ' ὀχθήσας ἀπαμείβετο δῖος ἀκοίτης,</corr>
+      </choice>
+   </l>
+   <l n="26">
+      <choice>
+         <sic>Αἰὲν ἐνὶ στήθεσσιν ἔχων ταλαπενθέα θυμὸν,</sic>
+         <corr>Αἰὲν ἐνὶ στήθεσσιν ἔχων ταλαπενθέα θυμὸν,</corr>
+      </choice>
+   </l>
+   <l n="27">
+      <choice>
+         <sic>Δαιμονίη, ποῖόν σε ἔπΘ φύγεν ἕρκος ὀδόντων ;</sic>
+         <corr>Δαιμονίη, ποῖόν σε ἔπος φύγεν ἕρκος ὀδόντων ;</corr>
+      </choice>
+   </l>
+   <l n="28">
+      <choice>
+         <sic>Ὢ γύναι, ὡς ἄνοον κραδίην ἔχες, ἣ τάδε βάζεις ;</sic>
+         <corr>Ὦ γύναι, ὡς ἄνοον κραδίην ἔχες, ἣ τάδε βάζεις ;</corr>
+      </choice>
+   </l>
+   <l n="29">
+      <choice>
+         <sic>Βλάξ τε κὴ ἠλιθίη, ἐπεὶ ὄυ χτ' μοῖραν ἔειπες.</sic>
+         <corr>Βλάξ τε καὶ ἠλιθίη, ἐπεὶ οὐ κατὰ μοῖραν ἔειπες.</corr>
+      </choice>
+   </l>
+   <l n="30">
+      <choice>
+         <sic>Ἐσθλὰ μόνον θεόθεν παραδεξόμεθ', ὄυποτε λυγρά;</sic>
+         <corr>Ἐσθλὰ μόνον θεόθεν παραδεξόμεθ', οὔποτε λυγρά;</corr>
+      </choice>
+   </l>
+   <l n="31">
+      <choice>
+         <sic>Ὃς δ' ἀγαθόν τε κακόν τε διδοῖ· δύναται γ' ἅπαντα.</sic>
+         <corr>Ὃς δ' ἀγαθόν τε κακόν τε διδοῖ· δύναται γὰρ ἅπαντα.</corr>
+      </choice>
+   </l>
+   <l n="32">
+      <choice>
+         <sic>Δοιοὶ γάρ τε πίθοι κατακείαται ἐν Θεοῦ ἕδει,</sic>
+         <corr>Δοιοὶ γάρ τε πίθοι κατακείαται ἐν Θεοῦ ἕδει,</corr>
+      </choice>
+   </l>
+   <l n="33">
+      <choice>
+         <sic>Δώρων οἷα δίδωσι· κακῶν, ἕτερος δ' ἑάων.</sic>
+         <corr>Δώρων οἷα δίδωσι· κακῶν, ἕτερος δὲ ἑάων.</corr>
+      </choice>
+   </l>
+   <l n="34">
+      <choice>
+         <sic>Ὧ, μὲν καμμίξας δώῃ Θεὸς αἰολόμητις,</sic>
+         <corr>Ὧ, μὲν καμμίξας δώῃ Θεὸς αἰολόμητις,</corr>
+      </choice>
+   </l>
+   <l n="35">
+      <choice>
+         <sic>Ἄλλοτε μέν τε κακῷ ὅγε κύρεται, ἄλλοτε δ' ἐσθλῷ.</sic>
+         <corr>Ἄλλοτε μέν τε κακῷ ὅγε κύρεται, ἄλλοτε δ' ἐσθλῷ.</corr>
+      </choice>
+   </l>
+
+   
+   <l n="37">
+      <choice>
+         <sic>Ὧ, δέ κε τ' λυγρῶν δώῃ, λωβητὸν ἔθηκε,</sic>
+         <corr>Ὧ, δέ κε τῶν λυγρῶν δώῃ, λωβητὸν ἔθηκε,</corr>
+      </choice>
+   </l>
+   <l n="38">
+      <choice>
+         <sic>Καί ἑ κακὴ βέβρωσις ἐπὶ χθόνα δῖαν ἐλαύνει.</sic>
+         <corr>Καί ἑ κακὴ βέβρωσις ἐπὶ χθόνα δῖαν ἐλαύνει.</corr>
+      </choice>
+   </l>
+   <l n="39">
+      <choice>
+         <sic>Ὣς φάτο νεικείων, ὄδ' ἤλιτεν οἷς ἔειπεν,</sic>
+         <corr>Ὣς φάτο νεικείων, οὐδ' ἤλιτεν οἷς ἔειπεν,</corr>
+      </choice>
+   </l>
+
+   <fw type="catchword">
+      <choice>
+         <sic>Οὐδέ</sic>
+         <corr>Οὐδέ</corr>
+      </choice>
+   </fw>
+</div>
+
+
+
+<div type="epic_paraphrase" subtype="page_transcription">
+   <pb n="12"/>
+   <head>
+      <choice>
+         <sic>ΘΡΗΝΟΘΡΙΑΜΒΟΣ,</sic>
+         <corr>ΘΡΗΝΟΘΡΙΑΜΒΟΣ,</corr>
+      </choice>
+      <choice>
+         <sic>Κεφ. γ'.</sic>
+         <corr>Κεφ. γ'.</corr>
+      </choice>
+   </head>
+
+   <l n="1">
+      <choice>
+         <sic>Οὐδέ τι ἀφραδίης εἶκον ἀνεμώλια βάζειν.</sic>
+         <corr>Οὐδέ τι ἀφραδίης εἶκον ἀνεμώλια βάζεν.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="11"/>
+   <l n="2">
+      <choice>
+         <sic>Ἀλλ' ὅτε τρισὶ φίλοις ταλασίφρονΘ Ἰώβοιο,</sic>
+         <corr>Ἀλλ' ὅτε τρισσὶ φίλοις ταλασίφρονος Ἰώβοιο,</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Πάντα μάλ' ἀγγέλλοντο, τάπερ πάθε δῖΘ ἑταῖρος,</sic>
+         <corr>Πάντα μάλ' ἀγγέλλοντο, τάπερ πάθε δῖος ἑταῖρος,</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>( Ὅσσα γδ ὦκα σφι, πτερόεν κακὸν, ἄγγελΘ ἦλθεν )</sic>
+         <corr>( Ὄσσα γὰρ ὦκα σφι, πτερόεν κακὸν, ἄγγελος ἦλθεν )</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Ἀνσάντες κατέβησαν ἑοῦ ἀπὸ οἴκ8 ἕκαστος·</sic>
+         <corr>Ἀνστάντες κατέβησαν ἑοῦ ἀπὸ οἴκου ἕκαστος·</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>Πρῶτος ἔην Ἐλιφᾶς Θαμανίτης ὄρχαμος ἀνδρῶν,</sic>
+         <corr>Πρῶτος ἔην Ἐλιφᾶς Θαμανίτης ὄρχαμος ἀνδρῶν,</corr>
+      </choice>
+   </l>
+   <l n="7">
+      <choice>
+         <sic>Δεύτερος αὖ Βαλδὰδ Σαυχχαίων ἔξοχος ἄλλων,</sic>
+         <corr>Δεύτερος αὖ Βαλδὰδ Σαυχαίων ἔξοχος ἄλλων,</corr>
+      </choice>
+   </l>
+   <l n="8">
+      <choice>
+         <sic>Καὶ τρίτατος Σωφὰρ μέγας ἥρως ἐν Ναματίτης.</sic>
+         <corr>Καὶ τρίτατος Σωφὰρ μέγας ἥρως ἐν Ναματίτῃς.</corr>
+      </choice>
+   </l>
+   <l n="9">
+      <choice>
+         <sic>Οἱ μὲν γδ ξυνέθεντο φίλον δ' ἴμεν ἀχαλόωντα,</sic>
+         <corr>Οἱ μὲν γὰρ ξυνέθεντο φίλον δ' ἴμεν ἀσχαλόωντα,</corr>
+      </choice>
+   </l>
+   <l n="10">
+      <choice>
+         <sic>Τόν τ' ὀλοφύρεσθαι φρεσῖς ἅμα, κὴ μαλακοῖσι</sic>
+         <corr>Τόν τ' ὀλοφύρεσθαι φρεσὶν ἅμα, καὶ μαλακοῖσι</corr>
+      </choice>
+   </l>
+   <l n="11">
+      <choice>
+         <sic>Παρφάσθ'· Ἀγαθὴ δὲ παραίφασίς ἐστιν ἑταίρ8</sic>
+         <corr>Παρφάσθαι· Ἀγαθὴ δὲ παραίφασίς ἐστιν ἑταίρου</corr>
+      </choice>
+   </l>
+   <l n="12">
+      <choice>
+         <sic>Πᾶσι μὲν ἀνθρώποισι, μάλιστα δέ τ' ἀχνυμένοισι.</sic>
+         <corr>Πᾶσι μὲν ἀνθρώποισι, μάλιστα δέ τ' ἀχνυμένοισι.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="12"/>
+   <l n="13">
+      <choice>
+         <sic>Τὸν δ' ἔκαθεν θηεῦντο, κὴ ἠγνοίησαν ἰδόντες·</sic>
+         <corr>Τὸν δ' ἔκαθεν θηεῦντο, καὶ ἠγνοίησαν ἰδόντες·</corr>
+      </choice>
+   </l>
+   <l n="14">
+      <choice>
+         <sic>Κλαῖον δὲ λιγέως, χλαῖναν δ' ἔρρηξεν ἕκαστος,</sic>
+         <corr>Κλαῖον δὲ λιγέως, χλαῖναν δ' ἔρρηξεν ἕκαστος,</corr>
+      </choice>
+   </l>
+   <l n="15">
+      <choice>
+         <sic>Ἀμφοτέρῃσί τε χερσὶν ἑλὼν κόνιν αἰθαλόεσσαν,</sic>
+         <corr>Ἀμφοτέρῃσί τε χερσὶν ἑλὼν κόνιν αἰθαλόεσσαν,</corr>
+      </choice>
+   </l>
+   <l n="16">
+      <choice>
+         <sic>Χεύατο κὰκ κεφαλῆς, χαρίεν δ' ἤϊσχυνε πρόσωπον.</sic>
+         <corr>Χεύατο κὰκ κεφαλῆς, χαρίεν δ' ᾔσχυνε πρόσωπον.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="13"/>
+   <l n="17">
+      <choice>
+         <sic>Ἑπτὰ μὲν ὡς νύκτας τε κὴ ἤματα συνεχὲς αἰεὶ</sic>
+         <corr>Ἑπτὰ μὲν ὡς νύκτας τε καὶ ἤματα συνεχὲς αἰεὶ</corr>
+      </choice>
+   </l>
+   <l n="18">
+      <choice>
+         <sic>Ἥμενοι ἐν δαπέδῳ, λίγ' ἐκώκυον ἀμφ' ἑτάροιο,</sic>
+         <corr>Ἥμενοι ἐν δαπέδῳ, λίγ' ἐκώκυον ἀμφ' ἑτάροιο,</corr>
+      </choice>
+   </l>
+   <l n="19">
+      <choice>
+         <sic>Οὐδέ τι προσφάσθαι ἔθελον ἔπΘ, ὀδ' ἐρέεσθαι·</sic>
+         <corr>Οὐδέ τι προσφάσθαι ἔθελον ἔπος, οὐδ' ἐρέεσθαι·</corr>
+      </choice>
+   </l>
+   <l n="20">
+      <choice>
+         <sic>Λίην γὰρ θυμός σφιν ἐνὶ στήθεσσι τέθηπεν,</sic>
+         <corr>Λίην γὰρ θυμός σφιν ἐνὶ στήθεσσι τέθηπεν,</corr>
+      </choice>
+   </l>
+   <l n="21">
+      <choice>
+         <sic>Ὡς ἴδον ἄτλητόν τε πάθος, κὴ πένθος ἄλαστον.</sic>
+         <corr>Ὡς ἴδον ἄτλητόν τε πάθος, καὶ πένθος ἄλαστον.</corr>
+      </choice>
+   </l>
+
+   <head>
+      <choice>
+         <sic>ΚΕΦ. γ'.</sic>
+         <corr>ΚΕΦ. γ'.</corr>
+      </choice>
+   </head>
+
+   <milestone unit="verse" n="1"/>
+   <l n="22">
+      <choice>
+         <sic>ΔΗΝ δ' ἄνεω σύμπαντες ἔσαν τετιηότι θυμῷ·</sic>
+         <corr>Δὴν δ' ἄνεω σύμπαντες ἔσαν τετιηότι θυμῷ·</corr>
+      </choice>
+   </l>
+   <l n="23">
+      <choice>
+         <sic>Ὀψὲ δὲ δὴ μετέειπε πολύτλας δῖΘ Ἰώβος,</sic>
+         <corr>Ὀψὲ δὲ δὴ μετέειπε πολύτλας δῖος Ἰώβος,</corr>
+      </choice>
+   </l>
+   <l n="24">
+      <choice>
+         <sic>Πυκνὰ μάλα σενάχων, συγέων δ' γενέθλιον ἦμαρ</sic>
+         <corr>Πυκνὰ μάλα στενάχων, στυγέων δὲ γενέθλιον ἦμαρ</corr>
+      </choice>
+   </l>
+   <l n="25">
+      <choice>
+         <sic>Πολλὰ κατηφιόων· κρατερὸν γάρ ἑ πένθος ἄνωγεν·</sic>
+         <corr>Πολλὰ κατηφιόων· κρατερὸν γάρ ἑ πένθος ἄνωγεν·</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="2"/>
+   <l n="26">
+      <choice>
+         <sic>Οἴκτρ' ὀλοφυρόμενος, γοερὸς δ' ἐφθέγξατο μύθους·</sic>
+         <corr>Οἴκτρ' ὀλοφυρόμενος, γοερὸς δ' ἐφθέγξατο μύθους·</corr>
+      </choice>
+   </l>
+
+   
+
+   <milestone unit="verse" n="3"/>
+   <l n="28">
+      <choice>
+         <sic>Ἐρρέτω ἄθλιον ἦμαρ ἐν ᾧ με λοχεύσατο μήτηρ·</sic>
+         <corr>Ἐρρέτω ἄθλιον ἦμαρ ἐν ᾧ με λοχεύσατο μήτηρ·</corr>
+      </choice>
+   </l>
+   <l n="29">
+      <choice>
+         <sic>Νύξ θ', ὅτ' ἐμῷ γενετῆρι δυσάγγελος ἄγγελος εἶπε,</sic>
+         <corr>Νύξ θ', ὅτ' ἐμῷ γενετῆρι δυσάγγελος ἄγγελος εἶπε,</corr>
+      </choice>
+   </l>
+   <l n="30">
+      <choice>
+         <sic>Χαῖρέ μοι ἄττα πέπον, ὠδῖνας ἄλυξεν ἄκοιτις,</sic>
+         <corr>Χαῖρέ μοι ἄττα πέπον, ὠδῖνας ἄλυξεν ἄκοιτις,</corr>
+      </choice>
+   </l>
+   <l n="31">
+      <choice>
+         <sic>Σοί τ' ἄρσεν τέκος ὧδε πέσεν μεταποσὶ γυναικός·</sic>
+         <corr>Σοί τ' ἄρσεν τέκος ὧδε πέσεν μετὰ ποσὶ γυναικός·</corr>
+      </choice>
+   </l>
+   <l n="32">
+      <choice>
+         <sic>Ὣς ἔφατ' ἀγγέλλων· ἔνθ' οἱ χάνεν εὐρεῖα χθών.</sic>
+         <corr>Ὣς ἔφατ' ἀγγέλλων· ἔνθ' οἱ χάνεν εὐρεῖα χθών.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="4"/>
+   <l n="33">
+      <choice>
+         <sic>Ὄρφνη κὴ σκότος ἔστω ἀλάμπετον ἦμαρ ἐκεῖνο·</sic>
+         <corr>Ὄρφνη καὶ σκότος ἔστω ἀλάμπετον ἦμαρ ἐκεῖνο·</corr>
+      </choice>
+   </l>
+   <l n="34">
+      <choice>
+         <sic>Μὴ μελέτω καθύπερθε Θεῷ, ἄλογον δὲ πελέσθω,</sic>
+         <corr>Μὴ μελέτω καθύπερθε Θεῷ, ἄλογον δὲ πελέσθω,</corr>
+      </choice>
+   </l>
+   <l n="35">
+      <choice>
+         <sic>Τῷ κὴ μήποτ' ἔχοι γλυκερὸν φάος ἠελίοιο,</sic>
+         <corr>Τῷ καὶ μήποτ' ἔχοι γλυκερὸν φάος ἠελίοιο,</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="5"/>
+   <l n="36">
+      <choice>
+         <sic>Ἀλλὰ σκιὴ θανάτοιο, κὴ ἀχλυόεσσαν ὀμίχλην·</sic>
+         <corr>Ἀλλὰ σκιὴ θανάτοιο, καὶ ἀχλυόεσσαν ὀμίχλην·</corr>
+      </choice>
+   </l>
+   
+   <fw type="catchword">
+      <choice>
+         <sic>Ἠέε</sic>
+         <corr>Ἠέε</corr>
+      </choice>
+   </fw>
+</div>
+
+
+<div type="epic_paraphrase" subtype="page_transcription">
+   <pb n="14"/>
+   <head>
+      <choice>
+         <sic>ΘΡΗΝΟΘΡΙΑΜΒΟΣ,</sic>
+         <corr>ΘΡΗΝΟΘΡΙΑΜΒΟΣ,</corr>
+      </choice>
+      <choice>
+         <sic>Κεφ. γ'.</sic>
+         <corr>Κεφ. γ'.</corr>
+      </choice>
+   </head>
+
+   <l n="1">
+      <choice>
+         <sic>Ἠέει κὴ νεφέλῃ αἰεὶ κεκαλυμμλύον ἔστω,</sic>
+         <corr>Ἠέει καὶ νεφέλῃ αἰεὶ κεκαλυμμένον ἔστω,</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Ὡς στυγερὸν, κακὸν ἦμαρ, ἀπαίσιον, οὐκ ὀνομαστὸν,</sic>
+         <corr>Ὡς στυγερὸν, κακὸν ἦμαρ, ἀπαίσιον, οὐκ ὀνομαστὸν,</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Δεινόν τε, δνοφερὸν τε, μελάντερον ἠΰτε πίσσα.</sic>
+         <corr>Δεινόν τε, δνοφερὸν τε, μελάντερον ἠΰτε πίσσα.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="6"/>
+   <l n="4">
+      <choice>
+         <sic>Νύκτα δ' Κιμμέριος ζόφος ἀμφέποι, ἐκ δ' ἐνιαυτ8</sic>
+         <corr>Νύκτα δὲ Κιμμέριος ζόφος ἀμφέποι, ἐκ δ' ἐνιαυτοῦ</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Μηνῶν ἑξαπόλοισ', ἰδὲ μὴ ἐναρίθμιος εἴη·</sic>
+         <corr>Μηνῶν ἑξαπόλοισ', ἰδὲ μὴ ἐναρίθμιος εἴη·</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="7"/>
+   <l n="6">
+      <choice>
+         <sic>Νὺξ ἥ κακὴ, φρικτὴ, σκοτομήνιος, ἠδὲ καταράς·</sic>
+         <corr>Νὺξ δὲ κακὴ, φρικτὴ, σκοτομήνιος, ἠδὲ καταράς·</corr>
+      </choice>
+   </l>
+   <l n="7">
+      <choice>
+         <sic>Μηδέ τις εἰν αὐτῇ φωνὴν χαρίεσσαν ἀκούοι.</sic>
+         <corr>Μηδέ τις εἰν αὐτῇ φωνὴν χαρίεσσαν ἀκούοι.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="8"/>
+   <l n="8">
+      <choice>
+         <sic>Οἱ τόδε δυσφημέῦσι κακὸν, κὴ σχέτλιον ἦμαρ,</sic>
+         <corr>Οἳ τόδε δυσφημέουσι κακὸν, καὶ σχέτλιον ἦμαρ,</corr>
+      </choice>
+   </l>
+   <l n="9">
+      <choice>
+         <sic>Τήν τ' ὀλοὴν ἄρα νύκτα καταράσοιντο μέλαιναν,</sic>
+         <corr>Τήν τ' ὀλοὴν ἄρα νύκτα καταράσοιντο μέλαιναν,</corr>
+      </choice>
+   </l>
+   <l n="10">
+      <choice>
+         <sic>Οἳ στοναχὴν μέλλουσι, γόον τ' ἀλίαστον ὀρίνειν.</sic>
+         <corr>Οἳ στοναχὴν μέλλουσι, γόον τ' ἀλίαστον ὀρίνειν.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="9"/>
+   <l n="11">
+      <choice>
+         <sic>Ἀστέρες ἑσπέριοι λιποφεγγέες εἶεν ἐκείνῃ,</sic>
+         <corr>Ἀστέρες ἑσπέριοι λιποφεγγέες εἶεν ἐκείνῃ,</corr>
+      </choice>
+   </l>
+   <l n="12">
+      <choice>
+         <sic>Μήτε φάος λαμπρὸν, μήτ' αἰγλήεσσα σελήνη·</sic>
+         <corr>Μήτε φάος λαμπρὸν, μήτ' αἰγλήεσσα σελήνη·</corr>
+      </choice>
+   </l>
+   <l n="13">
+      <choice>
+         <sic>Μήτε ποτ' ὄρθρον ἴδοι, μήτ' ἄρ τερψίμβροτον ἠῶ·</sic>
+         <corr>Μήτε ποτ' ὄρθρον ἴδοι, μήτ' ἄρ τερψίμβροτον ἠῶ·</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="10"/>
+   <l n="14">
+      <choice>
+         <sic>Οὕνεκα νηλείης γαστρός μοι ἀνῷγε πυλῶνας,</sic>
+         <corr>Οὕνεκα νηλείης γαστρός μοι ἀνῷγε πυλῶνας,</corr>
+      </choice>
+   </l>
+   <l n="15">
+      <choice>
+         <sic>Οὐδ' ἄσβεστον ἐμοῖς ἄχος ὀφθαλμοῖσιν ἀπήυρα.</sic>
+         <corr>Οὐδ' ἄσβεστον ἐμοῖς ἄχος ὀφθαλμοῖσιν ἀπήυρα.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="11"/>
+   <l n="16">
+      <choice>
+         <sic>Τίπτέ μοι 8 τάφος ἔσκε δυσαμμόρῳ ἔνδοθι γαστρός;</sic>
+         <corr>Τίπτέ μοι οὐ τάφος ἔσκε δυσαμμόρῳ ἔνδοθι γαστρός;</corr>
+      </choice>
+   </l>
+   <l n="17">
+      <choice>
+         <sic>Ἤλυθον ἐκ νηδύος· ὡς ὤφελον αὐτόθ' ὀλέσθαι.</sic>
+         <corr>Ἤλυθον ἐκ νηδύος· ὡς ὤφελον αὐτόθ' ὀλέσθαι.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="12"/>
+   <l n="18">
+      <choice>
+         <sic>Ὤμοι μῆτερ ἐμὴ, τί νύ με ἔτρεφες αἰνὰ τεκοῦσα;</sic>
+         <corr>Ὤμοι μῆτερ ἐμὴ, τί νύ με ἔτρεφες αἰνὰ τεκοῦσα;</corr>
+      </choice>
+   </l>
+   
+   
+   <l n="19">
+      <choice>
+         <sic>Τίπτ' οὐκ ἐκβέβληκας, ἐπεὶ τέκες υἱὸν ἄποτμον;</sic>
+         <corr>Τίπτ' οὐκ ἐκβέβληκας, ἐπεὶ τέκες υἱὸν ἄποτμον;</corr>
+      </choice>
+   </l>
+  
+   
+   <l n="20">
+      <choice>
+         <sic>Τίπτε δέ μ' ἀρπιχνῆ, κὴ ἔτι πνείοντα τόκοιο,</sic>
+         <corr>Τίπτε δέ μ' ἀρπ???ῆ, καὶ ἔτι πνείοντα τόκοιο,</corr>
+      </choice>
+   </l>
+   <l n="21">
+      <choice>
+         <sic>Γούνασιν διπ λαβοῦσα δυσώνυμος ἔφθατο μαῖα;</sic>
+         <corr>Γούνασιν οἷσι λαβοῦσα δυσώνυμος ἔφθατο μαῖα;</corr>
+      </choice>
+   </l>
+   <l n="22">
+      <choice>
+         <sic>Ἔρρε τρισάθλιε μαῖα μογοστόκε· τίπτέ με μαζὸς</sic>
+         <corr>Ἔρρε τρισάθλιε μαῖα μογοστόκε· τίπτέ με μαζὸς</corr>
+      </choice>
+   </l>
+   <l n="23">
+      <choice>
+         <sic>Νηπίαχον θήλασε κὴ ἔτρεφε τυτθὸν ἐόντα;</sic>
+         <corr>Νηπίαχον θήλασε καὶ ἔτρεφε τυτθὸν ἐόντα;</corr>
+      </choice>
+   </l>
+   <l n="24">
+      <choice>
+         <sic>Ὡς μ' ὄφελ' ἤματι τῷ, ὅτε με πρῶτον τέκε μήτηρ,</sic>
+         <corr>Ὡς μ' ὄφελ' ἤματι τῷ, ὅτε με πρῶτον τέκε μήτηρ,</corr>
+      </choice>
+   </l>
+   <l n="25">
+      <choice>
+         <sic>Οἴχεσθαι προφέρουσα κακὴ ἀνέμοιο θύελλα</sic>
+         <corr>Οἴχεσθαι προφέρουσα κακὴ ἀνέμοιο θύελλα</corr>
+      </choice>
+   </l>
+   <l n="26">
+      <choice>
+         <sic>Εἰς ὄρος, ἢ εἰς κῦμα πολυφλοίσβοιο θαλάσσης,</sic>
+         <corr>Εἰς ὄρος, ἢ εἰς κῦμα πολυφλοίσβοιο θαλάσσης,</corr>
+      </choice>
+   </l>
+   <l n="27">
+      <choice>
+         <sic>Ἔνθά με κῦμ' ἀπόερσε πάρος τάδε ἔργα γενέσθαι.</sic>
+         <corr>Ἔνθά με κῦμ' ἀπόερσε πάρος τάδε ἔργα γενέσθαι.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="13"/>
+   <l n="28">
+      <choice>
+         <sic>Νῦν ἂν ἀτάρβητος γαίης μαλακῷ ἐπὶ κόλπῳ</sic>
+         <corr>Νῦν ἂν ἀτάρβητος γαίης μαλακῷ ἐπὶ κόλπῳ</corr>
+      </choice>
+   </l>
+   <l n="29">
+      <choice>
+         <sic>Κείμην ἀσφαλέως τε, κὴ ἀτρέμα κοιμησαίμην.</sic>
+         <corr>Κείμην ἀσφαλέως τε, καὶ ἀτρέμα κοιμησαίμην.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="14"/>
+   <l n="30">
+      <choice>
+         <sic>Ὁππόθι μυρία φῦλα διοτρεφέων βασιλήων,</sic>
+         <corr>Ὁππόθι μυρία φῦλα διοτρεφέων βασιλήων,</corr>
+      </choice>
+   </l>
+   <l n="31">
+      <choice>
+         <sic>Κείαθ' ὁμοῦ, λαῶν δ' ἡγήτορες ἠδὲ μέδοντες,</sic>
+         <corr>Κείαθ' ὁμοῦ, λαῶν δ' ἡγήτορες ἠδὲ μέδοντες,</corr>
+      </choice>
+   </l>
+   <l n="32">
+      <choice>
+         <sic>Καὶ βουληφόροι ἄνδρες ἀωτεῦσι γλυκὺν ὕπνον·</sic>
+         <corr>Καὶ βουληφόροι ἄνδρες ἀωτεῦσι γλυκὺν ὕπνον·</corr>
+      </choice>
+   </l>
+   <l n="33">
+      <choice>
+         <sic>Οἷς ποτε δώματα καλὰ, κακῶ ἀπάτερθεν ὁμίλε,</sic>
+         <corr>Οἷς ποτε δώματα καλὰ, κακοῦ ἀπάτερθεν ὁμίλου,</corr>
+      </choice>
+   </l>
+   <l n="34">
+      <choice>
+         <sic>Χρύσεα, μαρμαίροντα τετεύχαται, ἄφθιτα αἰεί.</sic>
+         <corr>Χρύσεα, μαρμαίροντα τετεύχαται, ἄφθιτα αἰεί.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="15"/>
+   <l n="35">
+      <choice>
+         <sic>Ὁππόθι κακκείσι μεγακλήεντες ἄνακτες,</sic>
+         <corr>Ὁππόθι κακκείουσι μεγακλήεντες ἄνακτες,</corr>
+      </choice>
+   </l>
+   <l n="36">
+      <choice>
+         <sic>Οἳ χρυσὸν τιμῶτα, κὴ ἄργυρον ἐκτεάτισαν,</sic>
+         <corr>Οἳ χρυσὸν τιμ??ῆντα, καὶ ἄργυρον ἐκτεάτισσαν,</corr>
+      </choice>
+   </l>
+   <l n="37">
+      <choice>
+         <sic>Ὄλβόν τε πλοῦτόν τ' ἀπερείσιον οἷς ἐνὶ οἴκοις.</sic>
+         <corr>Ὄλβόν τε πλοῦτόν τ' ἀπερείσιον οἷς ἐνὶ οἴκοις.</corr>
+      </choice>
+   </l>
+
+   <fw type="catchword">
+      <choice>
+         <sic>Ὣς</sic>
+         <corr>Ὣς</corr>
+      </choice>
+   </fw>
+</div>
+
+
+<div type="epic_paraphrase" subtype="page_transcription">
+   <pb n="16"/>
+   <head>
+      <choice>
+         <sic>ΘΡΗΝΟΘΡΙΑΜΒΟΣ,</sic>
+         <corr>ΘΡΗΝΟΘΡΙΑΜΒΟΣ,</corr>
+      </choice>
+      <choice>
+         <sic>Κεφ. Ϛ'.</sic>
+         <corr>Κεφ. γ'.</corr>
+      </choice>
+   </head>
+
+   <milestone unit="verse" n="16"/>
+   <l n="1">
+      <choice>
+         <sic>Ὡς ὄφελόν γ' ἔκτρωμα μάλ' ὠκύμορον γεγενῆσθαι,</sic>
+         <corr>Ὡς ὄφελόν γ' ἔκτρωμα μάλ' ὠκύμορον γεγενῆσθαι,</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Ὡς βρέφος ἠλιτόμηνον, ὃ ὄυποτε φέγγος ὄπωπεν.</sic>
+         <corr>Ὡς βρέφος ἠλιτόμηνον, ὃ οὔποτε φέγγος ὄπωπεν.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="17"/>
+   <l n="3">
+      <choice>
+         <sic>Ἔνθά γε θυμοβόρ8 ἔριδος λήγεσιν ἀλεῖται·</sic>
+         <corr>Ἔνθά γε θυμοβόρου ἔριδος λήγουσιν ἀλεῖτας.</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Τῶν δέ θ' ὑπ' ἀργαλέῳ καμάτῳ φίλα γυῖα λέλυντο,</sic>
+         <corr>Τῶν δέ θ' ὑπ' ἀργαλέῳ καμάτῳ φίλα γυῖα λέλυντο,</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Παυσωλὴν εὑρόντες ἀναπνείεσι πόνοιο.</sic>
+         <corr>Παυσωλὴν εὑρόντες ἀναπνείουσι πόνοιο.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="18"/>
+   <l n="6">
+      <choice>
+         <sic>Τόσδε κὴ ἐν φυλακῇ χαλεπὸς πεὶν δεσμὸς ἐδάμνα,</sic>
+         <corr>Τούσδε καὶ ἐν φυλακῇ χαλεπὸς πρὶν δεσμὸς ἐδάμνα,</corr>
+      </choice>
+   </l>
+   <l n="7">
+      <choice>
+         <sic>Ἀτρέμας ἔνθ' ἅμα κείατ' ἀλυκτοπέδας προφυγόντες,</sic>
+         <corr>Ἀτρέμας ἔνθ' ἅμα κείατ' ἀλυκτοπέδας προφυγόντες,</corr>
+      </choice>
+   </l>
+   <l n="8">
+      <choice>
+         <sic>Οὐδέ ποθ' ὑβριστέω κρατερῆς ἀΐεσιν ἐνιπῆς.</sic>
+         <corr>Οὐδέ ποθ' ὑβριστέω κρατερῆς ἀΐουσσιν ἐνιπῆς.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="19"/>
+   <l n="9">
+      <choice>
+         <sic>Ἔνθά γε πάντες ἔασ' ἅμα μικροί τε μεγάλοι τε</sic>
+         <corr>Ἔνθά γε πάντες ἔασ' ἅμα μικροί τε μεγάλοι τε</corr>
+      </choice>
+   </l>
+   <l n="10">
+      <choice>
+         <sic>Μίγδ' ἀλλήλοισιν, κὴ ὁμοίης ἔμμορε αἴσης.</sic>
+         <corr>Μίγδ' ἀλλήλοισιν, καὶ ὁμοίης ἔμμορεν αἴσης.</corr>
+      </choice>
+   </l>
+   <l n="11">
+      <choice>
+         <sic>Οὐκέτι τις θεράπων μεμνημένος δῖο ἄνακτος,</sic>
+         <corr>Οὐκέτι τις θεράπων μεμνημένος οἷο ἄνακτος,</corr>
+      </choice>
+   </l>
+   <l n="12">
+      <choice>
+         <sic>Εἴρερον ἀλλὰ κακὸν, κὴ δούλιον ἦμαρ ἄλυξεν,</sic>
+         <corr>Εἴρερον ἀλλὰ κακὸν, καὶ δούλιον ἦμαρ ἄλυξεν,</corr>
+      </choice>
+   </l>
+   <l n="13">
+      <choice>
+         <sic>Ἶσαι γὰρ σκιαί εἰσιν, ἄναξ ἠέτ' ἐν νεκρὸς αἴσῃ.</sic>
+         <corr>Ἶσαι γὰρ σκιαί εἰσιν, ἄναξ τίετ' ἐν καρὸς αἴσῃ.</corr>
+      </choice>
+   </l>
+   <l n="14">
+      <choice>
+         <sic>Ἴση μοῖρα μέδοντι, κὴ εἰ μάλα τις πέλετο δμώς.</sic>
+         <corr>Ἴση μοῖρα μέδοντι, καὶ εἰ μάλα τις πέλετο δμώς.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="20"/>
+   <l n="15">
+      <choice>
+         <sic>Τίφθ' ὁρόωσι φάος κὴ ἔτι ζωοῖσι μέτεισιν</sic>
+         <corr>Τίφθ' ὁρόωσι φάος καὶ ἔτι ζωοῖσι μέτεισιν</corr>
+      </choice>
+   </l>
+   <l n="16">
+      <choice>
+         <sic>Ἄνδρες ὀϊζυροὶ κὴ ἀδευκέα θυμὸν ἔχοντες;</sic>
+         <corr>Ἄνδρες ὀϊζυροὶ καὶ ἀδε?υκέα θυμὸν ἔχοντες;</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="21"/>
+   <l n="17">
+      <choice>
+         <sic>Ὡς ὅτε τις σπουδῇ κρύφιον θησαυρὸν ἐρευνᾷ,</sic>
+         <corr>Ὡς ὅτε τις σπουδῇ κρύφιον θησαυρὸν ἐρευνᾷ,</corr>
+      </choice>
+   </l>
+   <l n="18">
+      <choice>
+         <sic>Σκαπτέμεναι μεμαὼς, διζήμενος εἴ π8 ἐφεύροι·</sic>
+         <corr>Σκαπτέμεναι μεμαὼς, διζήμενος εἴ που ἐφεύροι·</corr>
+      </choice>
+   </l>
+   <l n="19">
+      <choice>
+         <sic>Ὣς οἱ μὲν θανέειν ἔθελον, κὴ πότμον ἐπισπεῖν,</sic>
+         <corr>Ὣς οἱ μὲν θανέειν ἔθελον, καὶ πότμον ἐπισπεῖν,</corr>
+      </choice>
+   </l>
+   <l n="20">
+      <choice>
+         <sic>Διζόμενοι εἴ πε θάνατόν γε δυναίατο τέτμειν·</sic>
+         <corr>Διζόμενοι εἴ που θάνατόν γε δυναίατο τέτμειν·</corr>
+      </choice>
+   </l>
+   <l n="21">
+      <choice>
+         <sic>Αὐτὰρ ἔτι ζώεσι, λιλαιόμενοι περ ὀλέθρ8.</sic>
+         <corr>Αὐτὰρ ἔτι ζώουσι, λιλαιόμενοι περ ὀλέθρου.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="22"/>
+   <l n="22">
+      <choice>
+         <sic>Ἀσπάσιον τοιόσδε τέλος θανάτοιο κάλυψε,</sic>
+         <corr>Ἀσπάσιον τοιούσδε τέλος θανάτοιο κάλυψε,</corr>
+      </choice>
+   </l>
+   <l n="23">
+      <choice>
+         <sic>Τείλλισόν τε πέλει· μέγα κεν κεχαροίατο θυμῷ,</sic>
+         <corr>Τριλλιστόν τε πέλει· μέγα κεν κεχαροίατο θυμῷ,</corr>
+      </choice>
+   </l>
+   <l n="24">
+      <choice>
+         <sic>Ἡσυχίης ἡμετέρης ἐπεὶ λελάχωσι τάφοιο.</sic>
+         <corr>Ἡσυχίης ἡμετέρης ἐπεὶ λελάχωσι τάφοιο.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="23"/>
+   <l n="25">
+      <choice>
+         <sic>Τίπτε φάος, ζωή τε δυσαμμόρῳ, ὅς θ' ὑπ' ἀνίης</sic>
+         <corr>Τίπτε φάος, ζωή τε δυσαμμόρῳ, ὅς θ' ὑπ' ἀνίης</corr>
+      </choice>
+   </l>
+   <l n="26">
+      <choice>
+         <sic>Πλάζεται ἔνθα κὴ ἔνθα, κὴ ὐκ ἴδεν, ὅππόθι βαίνοι,</sic>
+         <corr>Πλάζεται ἔνθα καὶ ἔνθα, καὶ οὐκ ἴδεν, ὁππόθι βαίνοι,</corr>
+      </choice>
+   </l>
+   <l n="27">
+      <choice>
+         <sic>Οὕνεκά μιν τ' ἄτης νεφέλῃ θεὸς εἶρξε μελαίνῃ.</sic>
+         <corr>Οὕνεκά μιν τ' ἄτης νεφέλῃ θεὸς εἶρξε μελαίνῃ.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="24"/>
+   <l n="28">
+      <choice>
+         <sic>Ὤ μοι ἐγὼ δειλὸς, τί νύ μοι μήκιστα γένηται;</sic>
+         <corr>Ὤ μοι ἐγὼ δειλὸς, τί νύ μοι μήκιστα γένηται;</corr>
+      </choice>
+   </l>
+   <l n="29">
+      <choice>
+         <sic>Ὤ μοι ἐγὼ, ὅτι πρὶν φαγέμεν, στοναχῇ τε γόῳ τε</sic>
+         <corr>Ὤ μοι ἐγὼ, ὅτι πρὶν φαγέμεν, στοναχῇ τε γόῳ τε</corr>
+      </choice>
+   </l>
+   <l n="30">
+      <choice>
+         <sic>Θυμὸν ἀκηχέμενος κατέδω φίλον· ἐξ ἐμέθεν δὲ</sic>
+         <corr>Θυμὸν ἀκηχέμενος κατέδω φίλον· ἐξ ἐμέθεν δὲ</corr>
+      </choice>
+   </l>
+   <l n="31">
+      <choice>
+         <sic>Κωκυτός τε κὴ οἰμωγὴ κέχυτ', ἠΰτε κρήνης,</sic>
+         <corr>Κωκυτός τε καὶ οἰμωγὴ κέχυτ', ἠΰτε κρήνης,</corr>
+      </choice>
+   </l>
+   <l n="32">
+      <choice>
+         <sic>Ἥτε κατ' αἰγίλιπος πέτρης δνοφερὸν χέει ὕδωρ.</sic>
+         <corr>Ἥτε κατ' αἰγίλιπος πέτρης δνοφερὸν χέει ὕδωρ.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="25"/>
+   <l n="33">
+      <choice>
+         <sic>Πάσχω ἐγὼ πανάποτμος, ὃ ἐν φρεσὶ δείδια λίην·</sic>
+         <corr>Πάσχω ἐγὼ πανάποτμος, ὃ ἐν φρεσὶ δείδια λίην·</corr>
+      </choice>
+   </l>
+   <l n="34">
+      <choice>
+         <sic>Τῦτο δὲ νῦν μ' ἐκίχανεν, ὃ πρὶν μάλα πολλὰ δέδοικα·</sic>
+         <corr>Τοῦτο δὲ νῦν μ' ἐκίχανεν, ὃ πρὶν μάλα πολλὰ δέδοικα·</corr>
+      </choice>
+   </l>
+   <l n="35">
+      <choice>
+         <sic>Καὶ γὰρ ἐγὼν ἐφάμην, πρὶν μόρσιμον ἦμαρ ὀπάζειν,</sic>
+         <corr>Καὶ γὰρ ἐγὼν ἐφάμην, πρὶν μόρσιμον ἦμαρ ἐπισπεῖν,</corr>
+      </choice>
+   </l>
+   <l n="36">
+      <choice>
+         <sic>Ἄλγε' ἀναπλήσειν· τάδε δὴ νῦν πάντα τελεῖται.</sic>
+         <corr>Ἄλγε' ἀναπλήσειν· τάδε δὴ νῦν πάντα τελεῖται.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="26"/>
+   <l n="37">
+      <choice>
+         <sic>Οὐ γάρ πω ἀμέριμνος ἔλω πάλαι εὐγενέων περ,</sic>
+         <corr>Οὐ γάρ πω ἀμέριμνος ἔην πάλαι ἐυθενέων περ,</corr>
+      </choice>
+   </l>
+   <l n="38">
+      <choice>
+         <sic>Οὐδέ μοι ἐν θαλίῃσιν ἀτάρβητος νόος ἔσκεν,</sic>
+         <corr>Οὐδέ μοι ἐν θαλίῃσιν ἀτάρβητος νόος ἔσκεν,</corr>
+      </choice>
+   </l>
+   <l n="39">
+      <choice>
+         <sic>Οὔτ' ἀδεὴς, αἰεὶ δὲ κακὸν προτιόσσετο θυμός.</sic>
+         <corr>Οὔτ' ἀδεὴς, αἰεὶ δὲ κακὸν προτιόσσετο θυμός.</corr>
+      </choice>
+   </l>
+   <l n="40">
+      <choice>
+         <sic>Νῦν δέ τ' ἐελπομένῳ χαλεπή μοι ἐπῆλθεν ὀϊζύς.</sic>
+         <corr>Νῦν δέ τ' ἐελπομένῳ χαλεπή μοι ἐπῆλθεν ὀϊζύς.</corr>
+      </choice>
+   </l>
+
+   <fw type="catchword">
+      <choice>
+         <sic>ΚΕΦ.</sic>
+         <corr>ΚΕΦ.</corr>
+      </choice>
+   </fw>
+</div>
+
+<div type="epic_paraphrase" subtype="page_transcription">
+   <pb n="18"/>
+   <head>
+      <choice>
+         <sic>ΘΡΗΝΟΘΡΙΑΜΒΟΣ,</sic>
+         <corr>ΘΡΗΝΟΘΡΙΑΜΒΟΣ,</corr>
+      </choice>
+      <choice>
+         <sic>Κεφ. δ'.</sic>
+         <corr>Κεφ. δ'.</corr>
+      </choice>
+   </head>
+   
+   <head>
+      <choice>
+         <sic>ΚΕΦ. Δ'.</sic>
+         <corr>ΚΕΦ. Δ'.</corr>
+      </choice>
+   </head>
+
+   <milestone unit="verse" n="1"/>
+   <l n="1">
+      <choice>
+         <sic>Τὸν δ' ἀπαμειβόμνΘ προσέφη Ἐλιφᾶς Θαιμανίτης·</sic>
+         <corr>Τὸν δ' ἀπαμειβόμενος προσέφη Ἐλιφᾶς Θαμανίτης·</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="2"/>
+   <l n="2">
+      <choice>
+         <sic>Ἦν τοι πειρώμεσθα λέγειν, σὺ ἤ μή τι χολωθῇς.</sic>
+         <corr>Ἤν τοι πειρώμεσθα λέγειν, σὺ δὲ μή τι χολωθῇς.</corr>
+      </choice>
+   </l>
+   <l n="3">
+      <choice>
+         <sic>Τίς κε σιωπήσειεν, ἐρητύσειέ τε γλῶσσαν,</sic>
+         <corr>Τίς κε σιωπήσειεν, ἐρητύσειέ τε γλῶσσαν,</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Ὅς ῥ' ἔπε' ἕασιν ὅισιν ἄκοσμά τε πολλά τ' ἀκούσῃς</sic>
+         <corr>Ὅς ῥ' ἔπε' οὔασιν οἷσιν ἄκοσμά τε πολλά τ' ἀκούσῃς</corr>
+      </choice>
+   </l>
+   <l n="5">
+      <choice>
+         <sic>Θυμοδακὴς γὰρ μῦθος, ἐπώτρυνε δέ με εἰπών.</sic>
+         <corr>Θυμοδακὴς γὰρ μῦθος, ἐπώτρυνας δέ με εἰπών.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="3"/>
+   <l n="6">
+      <choice>
+         <sic>Καὶ σὺ μὲν δὴ πού ποθ' ἔφησθα διδάσκαλος ἔμμεναι ἄλλων,</sic>
+         <corr>Καὶ σὺ μὲν οὖν  ποθ' ἔφησθα διδάσκαλος ἔμμεναι ἄλλων,</corr>
+      </choice>
+   </l>
+   <l n="7">
+      <choice>
+         <sic>Πολλοῖσίν τ' ἄνδρεσσιν ἐπέταξας μένΘ ἠΰ·</sic>
+         <corr>Πολλοῖσίν τ' ἄνδρεσσιν ἐνέσταξας μένος ἠΰ·</corr>
+      </choice>
+   </l>
+   <l n="8">
+      <choice>
+         <sic>Μήτι σῇ πινυτῇ τε, κὴ ἐς φρένα θυμὸν ἄγειρας·</sic>
+         <corr>Μήτι σῇ? πινυτῇ τε, καὶ ἐς φρένα θυμὸν ἄγειρας·</corr>
+      </choice>
+   </l>
+   <l n="9">
+      <choice>
+         <sic>Χερσίν τ' ἀβληχρῇσι βίην κὴ κάρτος ἐνῆκας·</sic>
+         <corr>Χερσίν τ' ἀβληχρῇσι βίην καὶ κάρτος ἐνῆκας·</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="4"/>
+   <l n="10">
+      <choice>
+         <sic>Ὅς δ' ὀλιγηπελέων ἤδη πεσέεθς ἔμελλε,</sic>
+         <corr>Ὅς δ' ὀλιγηπελέων ἤδη πεσέεσθαι ἔμελλε,</corr>
+      </choice>
+   </l>
+   <l n="11">
+      <choice>
+         <sic>Τὸν δ' ἐπέεσσι τεοῖσι τάχ' ἔμπεδον αὖθις ἔδωκας</sic>
+         <corr>Τὸν δ' ἐπέεσσι τεοῖσι τάχ' ἔμπεδον αὖθις ἔδωκας</corr>
+      </choice>
+   </l>
+   <l n="12">
+      <choice>
+         <sic>Ἑστάμεναι κρατερῶς, κὴ ἐπίρροθος ἦσθα ποδοῖϊν·</sic>
+         <corr>Ἑστάμεναι κρατερῶς, καὶ ἐπίρροθος ἦσθα ποδοῖϊν·</corr>
+      </choice>
+   </l>
+   <l n="13">
+      <choice>
+         <sic>Γούνασί τ' ἠπεδανοῖσιν ὑφ' ἕρμα κὴ ἄλκαρ ἔθηκας.</sic>
+         <corr>Γούνασί τ' ἠπεδανοῖσιν ὑφ' ἕρμα καὶ ἄλκαρ ἔθηκας.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="5"/>
+   <l n="14">
+      <choice>
+         <sic>Νῦν δ' ἐπεὶ ὄυτω κακὸν ἦλθε, κὴ ἥψατό σευ ὀλίγον περ,</sic>
+         <corr>Νῦν δ' ἐπεὶ οὖν κακὸν ἦλθε, καὶ ἥψατό σευ ὀλίγον περ,</corr>
+      </choice>
+   </l>
+   <l n="15">
+      <choice>
+         <sic>Οὐδέ σὺ τετλάμεν οἶσθα, λιγὺς περ ἐὼν ἀγορητής·</sic>
+         <corr>Οὐδέ σὺ τετλάμεν οἶσθα, λιγὺς περ ἐὼν ἀγορητής·</corr>
+      </choice>
+   </l>
+   <l n="16">
+      <choice>
+         <sic>Ἀλλά σοι αὐτῷ θυμὸς ἐνὶ στήθεσσιν ὀρίνθη,</sic>
+         <corr>Ἀλλά σοι αὐτῷ θυμὸς ἐνὶ στήθεσσιν ὀρίνθη,</corr>
+      </choice>
+   </l>
+   <l n="17">
+      <choice>
+         <sic>Σή τε βίη λέλυται, κραδίη δέ τοι ἔνδον ὑλακτεῖ.</sic>
+         <corr>Σή τε βίη λέλυται, κραδίη δέ τοι ἔνδον ὑλακτεῖ.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="6"/>
+   <l n="18">
+      <choice>
+         <sic>Σχέτλιε, πῆ δή τοι μένΘ οἴχεται, ὃ πρὶν ἔχεσκες;</sic>
+         <corr>Σχέτλιε, πῆ δή τοι μένος οἴχεται, ὃ πρὶν ἔχεσκες;</corr>
+      </choice>
+   </l>
+   <l n="19">
+      <choice>
+         <sic>Οὔτίς τοι νόΘ ἐστὶ θεουδὴς, ᾧ σὺ πέποιθας,</sic>
+         <corr>Οὔτίς τοι νόος ἐστὶ θεουδὴς, ᾧ σὺ πέποιθας,</corr>
+      </choice>
+   </l>
+   <l n="20">
+      <choice>
+         <sic>Εὐσεβίη, θάρσος τε, δικαιοσύνη τε, κὴ ἐλπίς;</sic>
+         <corr>Εὐσεβίη, θάρσος τε, δικαιοσύνη τε, καὶ ἐλπίς;</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="7"/>
+   <l n="21">
+      <choice>
+         <sic>Ἀλλ' ἄγε νῦν, εἴπέρ τι παλαιγενέων κλέα φωτῶν</sic>
+         <corr>Ἀλλ' ἄγε νῦν, εἴπέρ τι παλαιγενέων κλέα φωτῶν</corr>
+      </choice>
+   </l>
+   <l n="22">
+      <choice>
+         <sic>Γινώσκεις, προτέρων δεδαημένΘ ἔργ' αἰώνων·</sic>
+         <corr>Γινώσκεις, προτέρων δεδαημένος ἔργ' αἰώνων·</corr>
+      </choice>
+   </l>
+   <l n="23">
+      <choice>
+         <sic>Τῶν νῦν μοι μνῆσαι, καί μοι νημερτὲς ἔνισπε·</sic>
+         <corr>Τῶν νῦν μοι μνῆσαι, καί μοι νημερτὲς ἔνισπε·</corr>
+      </choice>
+   </l>
+   <l n="24">
+      <choice>
+         <sic>Τίς πώποτ' ἐσθλὸς ἐὼν; ἢ πῆ ἀπόλωλε ΔίκαιΘ;</sic>
+         <corr>Τίς πέσεν ἐσθλὸς ἐὼν; ἢ ποῦ ἀπόλωλε δίκαιος;</corr>
+      </choice>
+   </l>
+   <l n="25">
+      <choice>
+         <sic>Τίς μόρος ἰθυνόῳ πέλεν ἀνέρι; αἴκε δύναιο</sic>
+         <corr>Τίς μόρος ἰθυνόου πέλεν ἀνέρος? αἴκε δύναιο</corr>
+      </choice>
+   </l>
+   <l n="26">
+      <choice>
+         <sic>Κείν8 λυγρὸν ὄλεθρον ἐνισπεῖν, εἴπερ ὄπωπας</sic>
+         <corr>Κείνου λυγρὸν ὄλεθρον ἐνισπεῖν, εἴπερ ὄπωπας</corr>
+      </choice>
+   </l>
+   <l n="27">
+      <choice>
+         <sic>Ὀφθαλμοῖσι τεοῖσιν, ἢ ἄλλ8 μῦθον ἄκουσας.</sic>
+         <corr>Ὀφθαλμοῖσι τεοῖσιν, ἢ ἄλλου μῦθον ἄκουσας.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="8"/>
+   <l n="28">
+      <choice>
+         <sic>Ὣς κὴ ἐγὼν ἐνόησα, κὴ ὀφθαλμοῖσιν ὄπωπα,</sic>
+         <corr>Ὣς καὶ ἐγὼν ἐνόησα, καὶ ὀφθαλμοῖσιν ὄπωπα,</corr>
+      </choice>
+   </l>
+   <l n="29">
+      <choice>
+         <sic>Ὁπποῖός κ' ἄροτος, τοιόσδ' ἄμητος ἔησιν.</sic>
+         <corr>Ὁπποῖός κ' ἄροτος, τοιόσδ' ἄμητος ἔησιν.</corr>
+      </choice>
+   </l>
+   <l n="30">
+      <choice>
+         <sic>Οἱ κακὸν ὄυν ἀρόωσιν, ὁμῶς κακὸν ἀμήσονται,</sic>
+         <corr>Οἱ κακὸν οὖν ἀρόωσιν, ὁμῶς κακὸν ἀμήσονται,</corr>
+      </choice>
+   </l>
+   <l n="31">
+      <choice>
+         <sic>Ἀτίω τε σπείροντες ἐοικότα μισθὸν ἄροντο,</sic>
+         <corr>Ἀτίω τε σπείροντες ἐοικότα μισθὸν ἄροντο,</corr>
+      </choice>
+   </l>
+   <l n="32">
+      <choice>
+         <sic>Καὶ καρπὸν σπόρῳ ἶσον, ἀτάσθαλοι, οἷς ἔρεξαν.</sic>
+         <corr>Καὶ καρπὸν σπόρῳ ἶσον, ἀτάσθαλοι, οἷς ἔρεξαν.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="9"/>
+   <l n="33">
+      <choice>
+         <sic>Ἐφθίαται δ' ἄρα τοίγε θεοῦ μάλα χωομένοιο,</sic>
+         <corr>Ἐφθίαται δ' ἄρα τοίγε θεοῦ μάλα χωομένοιο,</corr>
+      </choice>
+   </l>
+   <l n="34">
+      <choice>
+         <sic>Χωομένοιο Θεοῦ, ἀνέμ8 ὥς πικρὸν ἀέντος,</sic>
+         <corr>Χωομένοιο Θεοῦ, ἀνέμου ὥς πικρὸν ἀέντος,</corr>
+      </choice>
+   </l>
+   <l n="35">
+      <choice>
+         <sic>Τοῦ γὰρ ἀπὸ ῥινῶν ῥεῖ ἀϋτμὴ, τοὶ δ' ὀλέκονται.</sic>
+         <corr>Τοῦ γὰρ ἀπὸ ῥινῶν ῥεῖ ἀϋτμὴ, τοὶ δ' ὀλέκονται.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="10"/>
+   <l n="36">
+      <choice>
+         <sic>Σμερδαλέη βρυχὴ ὠρυομένοιο λέοντΘ</sic>
+         <corr>Σμερδαλέη βρυχὴ ὠρυομένοιο λέοντος</corr>
+      </choice>
+   </l>
+   <l n="37">
+      <choice>
+         <sic>Ἐσβέσθη, κὴ φθόγγος ἐριβρύχοιο λεαίνης·</sic>
+         <corr>Ἐσβέσθη, καὶ φθόγγος ἐριβρύχοιο λεαίνης·</corr>
+      </choice>
+   </l>
+   <l n="38">
+      <choice>
+         <sic>Σκύμνων γαμφηλαὶ, ὀλοοί τ' ἐρρήχθεν ὀδόντες.</sic>
+         <corr>Σκύμνων γαμφηλαὶ, ὀλοοί τ' ἐῤῥήχθεν ὀδόντες.</corr>
+      </choice>
+   </l>
+
+   <fw type="catchword">
+      <choice>
+         <sic>Λιμῷ</sic>
+         <corr>Λιμῷ</corr>
+      </choice>
+   </fw>
+</div>
+
+
+<div type="epic_paraphrase" subtype="page_transcription">
+   <pb n="20"/>
+   <head>
+      <choice>
+         <sic>ΘΡΗΝΟΘΡΙΑΜΒΟΣ.</sic>
+         <corr>ΘΡΗΝΟΘΡΙΑΜΒΟΣ.</corr>
+      </choice>
+      <choice>
+         <sic>Κεφ. δ'.</sic>
+         <corr>Κεφ. δ'.</corr>
+      </choice>
+   </head>
+
+   <milestone unit="verse" n="11"/>
+   <l n="1">
+      <choice>
+         <sic>Λιμῷ ὥσ' ἀργαλέῳ φθινύθει λῖς ἠϋγένειΘ,</sic>
+         <corr>Λιμῷ ὥσ' ἀργαλέῳ φθινύθει λῖς ἠϋγένειος,</corr>
+      </choice>
+   </l>
+   <l n="2">
+      <choice>
+         <sic>Σίντης, κὴ κρατερῶν ἐκεδάσθη τέκνα λεόντων.</sic>
+         <corr>Σίντης, καὶ κρατερῶν ἐκεδάσθη τέκνα λεόντων.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="12"/>
+   <l n="3">
+      <choice>
+         <sic>Λάθρῃ μοι ὡς κλέπτης, κρυφίη φάτις ἄγγελΘ ἦλθεν,</sic>
+         <corr>Λάθρά μοι ὡς κλέπτης, κρυφίη φάτις ἄγγελος ἦλθεν,</corr>
+      </choice>
+   </l>
+   <l n="4">
+      <choice>
+         <sic>Τυτθὸν φθεγξαμένῳ ἐμά τ' ὔατα δέξατο φωνήν.</sic>
+         <corr>Τυτθὸν φθεγξαμένου ἐμά τ' οὔατα δέξατο φωνήν.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="13"/>
+   <l n="5">
+      <choice>
+         <sic>Νύκτα δι' ὀρφναίην, ὅτε θ' εὕδεσι βροτοὶ ἄλλοι,</sic>
+         <corr>Νύκτα δι' ὀρφναίην, ὅτε θ' εὕδουσι βροτοὶ ἄλλοι,</corr>
+      </choice>
+   </l>
+   <l n="6">
+      <choice>
+         <sic>Πεπταμέναι δὲ πύλαι ἀμενηνῶν εἰσιν ὀνείρων,</sic>
+         <corr>Πεπταμέναι δὲ πύλαι ἀμενηνῶν εἰσιν ὀνείρων,</corr>
+      </choice>
+   </l>
+   <l n="7">
+      <choice>
+         <sic>Ἔνθά τε φάσματα πόλλ' εἰς ἀνδρῶν κράατα βαίνει</sic>
+         <corr>Ἔνθά τε φάσματα πόλλ' εἰς ἀνδρῶν κράατα βαίνει</corr>
+      </choice>
+   </l>
+   <l n="8">
+      <choice>
+         <sic>Δὴ τότε γδ θεῖός μοι ἐνύπνιον ἦλθεν ὄνειρΘ.</sic>
+         <corr>Δὴ τότε γὰρ θεῖός μοι ἐνύπνιον ἦλθεν ὄνειρος.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="14"/>
+   <l n="9">
+      <choice>
+         <sic>Ὡς ἴδον, ὡς ῥίγησα φόβῳ ὑπὸ θεσπεσίοιο,</sic>
+         <corr>Ὡς ἴδον, ὡς ῥίγησα φόβῳ ὑπὸ θεσπεσίοιο,</corr>
+      </choice>
+   </l>
+   <l n="10">
+      <choice>
+         <sic>Ἀμφὶ δέ μοι χύτο φρὶξ, ὑπὸ δὲ τρόμΘ ἔλλαβε γυῖα.</sic>
+         <corr>Ἀμφὶ δέ μοι χύτο φρὶξ, ὑπὸ δὲ τρόμος ἔλλαβε γυῖα.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="15"/>
+   <l n="11">
+      <choice>
+         <sic>Πνεῦμα δέ μοι σχεδὸν ἦλθε παριστάμενον κεφαλῆφιν·</sic>
+         <corr>Πνεῦμα δέ μοι σχεδὸν ἦλθε παριστάμενον κεφαλῆφιν·</corr>
+      </choice>
+   </l>
+   <l n="12">
+      <choice>
+         <sic>Ὀρθαὶ δὲ τρίχες ἔσαν ἐπὶ κρυεροῖσι μέλεσσι</sic>
+         <corr>Ὀρθαὶ δὲ τρίχες ἔσαν ἐπὶ κρυεροῖσι μέλεσσι</corr>
+      </choice>
+   </l>
+   <l n="13">
+      <choice>
+         <sic>ΤαρβήσαντΘ ἐμεῦ· μάλα γδ χλωρὸν δέΘ ᾕρει.</sic>
+         <corr>Ταρβήσαντος ἐμεῦ· μάλα γὰρ χλωρὸν δέος ᾕρει.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="16"/>
+   <l n="14">
+      <choice>
+         <sic>Ἔστη, ὐδέ πω εἶδος ἔχω διακρινέμεν ἄντα,</sic>
+         <corr>Ἔστη, οὐδέ πω εἶδος ἔην διακρινέμεν ἄντα,</corr>
+      </choice>
+   </l>
+   <l n="15">
+      <choice>
+         <sic>Ἀλλ' εἴδωλον ἀμαυρὸν ἐν ὀφθαλμοῖσιν ὄπωπα,</sic>
+         <corr>Ἀλλ' εἴδωλον ἀμαυρὸν ἐν ὀφθαλμοῖσιν ὄπωπα,</corr>
+      </choice>
+   </l>
+   <l n="16">
+      <choice>
+         <sic>Φθεγξάμενον δ' ὀλίγῃ ὀπί με πρὸς μῦθον ἔειπεν,</sic>
+         <corr>Φθεγξάμενον δ' ὀλίγῃ ὀπί με πρὸς μῦθον ἔειπεν,</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="17"/>
+   <l n="17">
+      <choice>
+         <sic>Ἦ ῥά κε εὐνομίῃσι Θεοῦ περιγίνεται ἀνήρ;</sic>
+         <corr>Ἦ ῥά που εὐνομίῃσι Θεοῦ περιγίνεται ἀνήρ;</corr>
+      </choice>
+   </l>
+   <l n="18">
+      <choice>
+         <sic>Ἠὲ δικαιότερος βροτὸς ἔσσεται Ἀθανάτοιο,</sic>
+         <corr>Ἠὲ δικαιότερος βροτὸς ἔσσεται Ἀθανάτοιο,</corr>
+      </choice>
+   </l>
+   <l n="19">
+      <choice>
+         <sic>Ὅς τ' αὐτὸν ποίησε, κὴ ἔπλασε μηδὲν ἐόντα;</sic>
+         <corr>Ὅς τ' αὐτὸν ποίησε, καὶ ἔπλασε μηδὲν ἐόντα;</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="18"/>
+   <l n="20">
+      <choice>
+         <sic>Οὐδ' ὅγ' ἐπουρανίοισι μάλα δμώεσσι πέποιθεν</sic>
+         <corr>Οὐδ' ὅγ' ἐπουρανίοισι μάλα δμώεσσι πέποιθεν</corr>
+      </choice>
+   </l>
+   <l n="21">
+      <choice>
+         <sic>Ἐν φρεσὶν, οἵ τε οἱ αἰὲν ὑποδρηστῆρες ἔασιν·</sic>
+         <corr>Ἐν φρεσὶν, οἵ τ᾽ οἱ αἰὲν ὑποδρηστῆρες ἔασιν·</corr>
+      </choice>
+   </l>
+   <l n="22">
+      <choice>
+         <sic>Ἀφροσύνην δ' ἐνόησε κὴ ἐν ἁγνοῖσι νόεσσιν,</sic>
+         <corr>Ἀφροσύνην δὲ ἐνόησε καὶ ἐν ἁγνοῖσι νόεσσιν,</corr>
+      </choice>
+   </l>
+   <l n="23">
+      <choice>
+         <sic>Οἵ δ' ἑοὶ Ἄγγελοί εἰσι, κὴ ὀτρηροὶ θεράποντες.</sic>
+         <corr>Οἵ θ' ἑοὶ Ἄγγελοί εἰσι, καὶ ὀτρηροὶ θεράποντες.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="19"/>
+   <l n="24">
+      <choice>
+         <sic>Πῶς ὐκ εἰνὶ βροτοῖς; ( ἐπεὶ ὄποτε φῦλον ὁμοῖον</sic>
+         <corr>Πῶς οὐκ εἰνὶ βροτοῖς; ( ἐπεὶ οὔποτε φῦλον ὁμοῖον</corr>
+      </choice>
+   </l>
+   <l n="25">
+      <choice>
+         <sic>Οὐρανίων τε νοῶν, χαμαὶ ἐρχομένων τ' ἀνθρώπων )</sic>
+         <corr>Οὐρανίων τε νοῶν, χαμαὶ ἐρχομένων τ' ἀνθρώπων )</corr>
+      </choice>
+   </l>
+   <l n="26">
+      <choice>
+         <sic>Οἳ κὴ πήλινα δώματ' ἔχουσι, ψαμμοθέλυμνα,</sic>
+         <corr>Οἳ καὶ πήλινα δώματ' ἔχουσι, ψαμμοθέλυμνα,</corr>
+      </choice>
+   </l>
+   <l n="27">
+      <choice>
+         <sic>Ἀβληχρ', ὐδενόσωρα, τά τ' αἰόλαι εὐλαὶ ἔδονται,</sic>
+         <corr>Ἀβλῆχρ', οὐδενόσωρα, τά τ' αἰόλαι εὐλαὶ ἔδονται,</corr>
+      </choice>
+   </l>
+   <l n="28">
+      <choice>
+         <sic>Καὶ σῆτες· τοῖς γὰρ μέλλει μέλπηθρα γενέσθαι.</sic>
+         <corr>Καὶ σῆτες· τοῖς γὰρ μέλλει μέλπηθρα γενέσθαι.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="20"/>
+   <l n="29">
+      <choice>
+         <sic>Πρώϊοι ἐξανατέλλουσι, φθίνουσι δὲ πάμπαν</sic>
+         <corr>Πρώϊοι ἐξανατέλλουσι, φθίνουσι δὲ πάμπαν</corr>
+      </choice>
+   </l>
+   <l n="30">
+      <choice>
+         <sic>Ἑσπέριοι, τῶν δ' ὄυτις ἀπολλυμένων ἀλεγίζει.</sic>
+         <corr>Ἑσπέριοι, τῶν δ' οὔτις ἀπολλυμένων ἀλεγίζει.</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="21"/>
+   <l n="31">
+      <choice>
+         <sic>Τοῖσι δὲ κῦδος ἅμα σφιν ἀπώλολεν, οἵδε κὴ αὐτοὶ</sic>
+         <corr>Τοῖσι δὲ κῦδος ἅμα σφιν ἀπώλολεν, οἵδε καὶ αὐτοὶ</corr>
+      </choice>
+   </l>
+   <l n="32">
+      <choice>
+         <sic>Πρόχνυ κακῶς σφετέρῃσιν ἀτασθαλίῃσιν ὄλοντο.</sic>
+         <corr>Πρόχνυ κακῶς σφετέρῃσιν ἀτασθαλίῃσιν ὄλοντο.</corr>
+      </choice>
+   </l>
+
+   <head>
+      <choice>
+         <sic>ΚΕΦ. ε'.</sic>
+         <corr>ΚΕΦ. ε'.</corr>
+      </choice>
+   </head>
+
+   <milestone unit="verse" n="1"/>
+   <l n="33">
+      <choice>
+         <sic>Εἰ δ' ἄγε, νῦν δὲ κάλεσσον, ὅπως τὶς σεῦ ὄπ' ἀκούσῃ·</sic>
+         <corr>Εἰ δ' ἄγε, νῦν δὲ κάλεσσον, ὅπως τὶς σὴν ὄπ' ἀκούσῃ·</corr>
+      </choice>
+   </l>
+   <l n="34">
+      <choice>
+         <sic>Ἀλλὰ τίν' ἐξ ἁγίων ἐπιδερκόμενΘ λιτανεύσεις;</sic>
+         <corr>Ἀλλὰ τίν' ἐξ ἁγίων ἐπιδερκόμενος λιτανεύσεις;</corr>
+      </choice>
+   </l>
+   <l n="35">
+      <choice>
+         <sic>Ὄφρά σοι εἰνὶ θέμισι συνήγορος ἄγχι παρεστῇ;</sic>
+         <corr>Ὄφρά σοι εἰνὶ θέμιστι συνήγορος ἄγχι παρεστῇ;</corr>
+      </choice>
+   </l>
+
+   <milestone unit="verse" n="2"/>
+   <l n="36">
+      <choice>
+         <sic>Νηπυτίῳ χόλΘ αἰνὸς ἀεικέα πότμον ἐφῆκε,</sic>
+         <corr>Νηπυτίῳ χόλος αἰνὸς ἀεικέα πότμον ἐφῆκε,</corr>
+      </choice>
+   </l>
+   <l n="37">
+      <choice>
+         <sic>Καὶ νέμεσις δριμεῖα χαλίφρονα φῶτα κατέκτα.</sic>
+         <corr>Καὶ νέμεσις δριμεῖα χαλίφρονα φῶτα κατέκτα.</corr>
+      </choice>
+   </l>
+
+   <fw type="catchword">
+      <choice>
+         <sic>Ἠλίθιον</sic>
+         <corr>Ἠλίθιον</corr>
+      </choice>
+   </fw>
+</div>
+  </body>
+  </text>
+</TEI>

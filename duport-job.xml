@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcription of Lectori Address</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Digitized and transcribed for scholarly use.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>LECTORI</title>
+          <note>Address to the reader from a Latin theological or poetical work regarding the Book of Job.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="1" facs="v2_bsb10914787_00013_full_full_0_default.jpg"/>
+      
+      <div type="preface">
+        <head rend="center">LECTORI.</head>
+        
+        <p>
+          <lb n="1"/><hi rend="dropcap">A</hi>Liquot jam anni effluxerunt, humaniſſime
+          <lb n="2"/>Lector, ex quo tria quatuórve poſtrema <hi rend="italic">Iobi</hi>
+          <lb n="3"/>capita Græco carmine vertenda ſuſcepi; idq;
+          <lb n="4"/>tantùm ſpeciminis gratiâ, nihil minùs in animo ha-
+          <lb n="5"/>bens quàm integram libri metaphraſin poetico filo
+          <lb n="6"/>pertexere. Memini autem me tunc temporis, partim
+          <lb n="7"/>ſtyli majeſtate ſublimitatéq; captum, (<hi rend="italic">quis autem
+          <lb n="8"/>cothurnus cum divina hac grandiloquentia comparari
+          <lb n="9"/>poſſit?</hi>) partim naturalis philoſophiæ dulcedine de-
+          <lb n="10"/>linitum, (<hi rend="italic">&amp; quis Ariſtoteles cum hac hiſtoria ani-
+          <lb n="11"/>malium conferri auſit?</hi>) exinde primùm occaſionem
+          <lb n="12"/>ſumpſiſſe transferendi extremam hujus libri partem,
+          <lb n="13"/>quæ in meteoris animaliubúſque depingendis ferè to-
+          <lb n="14"/>ta conſumitur. Poſtquam verò ad res ſacras ani-
+          <lb n="15"/>mum appuli, tum demum non in cortice verborum
+          <lb n="16"/>hæſi, ſed ad ſenſûs medullam penetravi, &amp; ab
+          <lb n="17"/><anchor xml:id="n1"/>Hagar ad Saram, ab ancillis ad Penelopen, à Rhe-
+          <lb n="18"/>torica &amp; Philoſophia ad Theologiam oculos converti.
+          <lb n="19"/>Etenim præter phraſeos elegantiam etiam materiæ
+          <lb n="20"/>ſublimitatem, præter eloquentiæ flumina (dicam?
+          <lb n="21"/>an grandiloquentiæ fulmina?) etiam abyſſos Spi-
+          <lb n="22"/>ritûs, &amp; divinitatis fulgur, denique præter arcana
+          <lb n="23"/>naturæ etiam ſacroſanctæ religionis myſteria, qui-
+          <lb n="24"/>bus iſte liber utraq; (quod aiunt) pagina mirificè
+          <lb n="25"/>refertus eſt, demirari cœpi. Exinde magìs magíſque
+          <lb n="26"/>me libido inceſſit, ut quod antea ſtudium in aliqua
+          <lb n="27"/>hujus libri particula impenderam, idem in toto collo-
+          <lb n="28"/>carem. Cùm enim aptiſſimus mihi viſus eſt, utpote
+          <lb n="29"/>dramaticus cùm ſit &amp; inter metricos ſcripturæ li-
+          <lb n="30"/>bros ſemper habitus; tum etiam ob inſignem uſum
+          <lb n="31"/>&amp; præſtantiam digniſſimus, in quo exprimendo poe-
+          <lb n="32"/>ticæ meæ facultatis (quæ, ſiqua ſit, ſentio quàm
+          <lb n="33"/>ſit exigua) nervos intenderem. Fuerunt ante me,
+          <lb n="34"/>qui in hoc pulvere deſudârunt, &amp; vel Evangelium
+          <lb n="35"/>vel Pſalmos Græcis conſtrinxerunt pedibus; Apol-
+          <lb n="36" break="no"/>linarius,
+        </p>
+        
+        <note place="margin" target="#n1">
+          <lb n="1"/>* Clem. A-
+          <lb n="2"/>lex. ſtrom. 1
+        </note>
+        
+        <fw type="sig" place="bottom" rend="center">¶ 3</fw>
+      </div>
+
+      <pb n="14" facs="v2_bsb10914787_00014_full_full_0_default.jpg"/>
+      <div type="preface">
+        <head rend="center">Lectori.</head>
+        
+        <p>
+          <lb n="1"/>linarius, &amp; Nonnus; Deus bone, quanti viri! quorum ego
+          <lb n="2"/>nè corrigiam calcei. Egóne nihili homuncio ut cum illis he-
+          <lb n="3"/>roibus me conferendum putem? Tantum absum ab ea arro-
+          <lb n="4"/>gantia, quantum illi à candore qui ità de me ſuſpicantur. Sa-
+          <lb n="5"/>tis mihi ſupérq; fuerit eorum premere veſtigia, licèt non
+          <lb n="6"/>paſſibus æquis. Equidem non inficior me ab ineunte jam æ-
+          <lb n="7"/>tate poeſeos, præſertim Homericæ, fuiſſe ſtudioſum. Quare
+          <lb n="8"/>ſi quid in ea profecerim; volui id totum, quantulumcunq; ſit,
+          <lb n="9"/>humillimè ad aram Dei deponere, &amp; ſi vel duo minuta lucra-
+          <lb n="10"/>tus fuerim, in ærarium ejus conjicere: volui etiam leviora
+          <lb n="11"/>ſtudia, lanam meam caprinam tabernaculo offerre: volui ſacri-
+          <lb n="12"/>ficare Iſaacum meum, etiam juvenilia &amp; ludicra (ſic enim
+          <note place="margin" resp="#author">
+            <lb n="13"/>* Philo [<title level="m">Lib. de Abrahamo</title>] <foreign xml:lang="grc">ἀλληγορεῖ</foreign> Deo conſecrare.
+          </note>
+          <lb n="14"/>Hoc animo fretus metaphraſin hanc primùm aggreſſus ſum,
+          <lb n="15"/>&amp; demum ad umbilicum perduxi; ſperans fore, ut levidenſis
+          <lb n="16"/>hæc opella noſtra aliquod ſaltem apud eruditos punctum fe-
+          <lb n="17"/>rat; utpote <foreign xml:lang="grc">φιλολόγοις</foreign> non inſuavis, <foreign xml:lang="grc">θεολόγοις</foreign> non inutilis,
+          <lb n="18"/><foreign xml:lang="grc">φιλομήροις</foreign> non injucunda, <foreign xml:lang="grc">φιλοθέοις</foreign> non infructuoſa, In-
+          <lb n="19"/>tegros ſæpe verſus (ut jam de operis ratione aliquid dicam)
+          <lb n="20"/>ex poetarum rege tranſtuli; imò nec ullam ferè vocem liben-
+          <lb n="21"/>ter adhibui, quam in Homero non inveni: Adeóq; me non
+          <lb n="22"/>pudet iſtius ſive imitationis, ſive alluſionis, ut nihil magìs
+          <lb n="23"/>quàm centonem in hoc argumento ſcripſiſſe cuperem. Pro ma-
+          <lb n="24"/>teriæ ratione vel laxavi ſtylum vel contraxi: &amp; cùm alibi
+          <lb n="25"/>adeò, ubi res finit, fuſior ſum, ut <foreign xml:lang="grc">παρεκφέρειν</foreign> videar potiùs
+          <lb n="26"/>quàm <foreign xml:lang="grc">μεταφράζειν</foreign>, tum verò maximè in <foreign xml:lang="grc">ζωγραφίᾳ</foreign> illa ad
+          <lb n="27"/>finem libri, quæ primam huic metaphraſi anſam dedit; præ-
+          <lb n="28"/>ſertim ubi de Equo, Elephante, &amp; Balæna agitur, paulo li-
+          <lb n="29"/>beriori pede excurri, nec tamen (utì ſpero) <foreign xml:lang="grc">ὑπὲρ τὰ ἐσκαμ-</foreign>
+          <lb n="30"/><foreign xml:lang="grc">μένα</foreign>. Anglicanam noſtram verſionem ad amuſſim ſecutus
+          <lb n="31"/>ſum: in qua tamen ſi difficultas aliqua vel obſcuritas occur-
+          <lb n="32"/>rebat, &amp; occurrebat (ſæpenumerò) conſului tum Græcam in-
+          <lb n="33"/>terpretationem Septuaginta ſeniorum, tum maximè Hebrai-
+          <lb n="34"/>cam veritatem; à qua nè abberrarem, (&amp; equidem ſpero me à
+          <lb n="35"/>genuino textûs ſcopo haud ſæpe deflexiſſe) geminum ſenſum
+          <lb n="36"/><foreign xml:lang="grc">ἔσθ' ὅτε</foreign> conjunxi, textualem, &amp; marginalem. Hebraiſmos
+          <lb n="37"/>rarò retinui; plerunq; Helleniſmis commutavi. Poſtquam
+          <lb n="38"/>magnam libri partem abſolviſſem, venit mihi in manus meta-
+          <lb n="39"/>phraſis doctiſſimi viri <persName>A. Aurelii</persName>, ſtylo eleganti &amp; planè
+          <lb n="40"/>Virgiliano contexta, quâ quidem non inficior me mediocriter
+          <lb n="41"/>eſſe adjutum. Tantum verò abfuit, ut propterea penſi filum
+        </p>
+        <fw type="catch">in</fw>
+</div>
+     <pb n="15" facs="v2_bsb10914787_00015_full_full_0_default.jpg"/>
+      <div type="preface">
+        <head rend="center">Lectori.</head>
+        <p>
+          <lb n="1"/>in medio abrumperem, quaſi anticipationis quâdam larvâ
+          <lb n="2"/>deterritus, ut majori potiùs alacritate in incepto pergerem.
+          <lb n="3"/>Grata enim mihi videbatur æmulatio, quâ Homerus &amp; Vir-
+          <lb n="4"/>gilius, hic Latinorum, Græcorum ille, poetarum principes
+          <lb n="5"/>inter ſe certarent, uter ad res divinas aptiùs accommodari
+          <lb n="6"/>poſſet, uter meliùs diſceret <foreign xml:lang="grc">χριστιανίζειν</foreign>, uter * eis <foreign xml:lang="grc">ἡμετέραν</foreign>
+          <lb n="7"/><foreign xml:lang="grc">θείαν αὐλὴν</foreign> [* <persName>Euſtath.</persName> <title>ἰλιάδ. ά.</title>] libentiùs migraret. Ce-
+          <lb n="8"/>dunt fateor, imò longè cedunt <foreign xml:lang="grc">Ὁμηρόκεντρες</foreign> hæc Virgilianis
+          <lb n="9"/>illis centonibus; at hoc <foreign xml:lang="grc">παρωδῷ</foreign>, non <foreign xml:lang="grc">ποιητοῦ</foreign> vitium eſſe con-
+          <lb n="10"/>tendo: nec enim ipſe <persName>Scaliger</persName> à me extorquebit, ut Maroni
+          <lb n="11"/>Mæonides herbam porrigat. Quanquam verò iis præſertim
+          <lb n="12"/>qui <foreign xml:lang="grc">ἑλληνοχριστιανίζειν</foreign> didicere, uſui futurum ſit hoc quic-
+          <lb n="13"/>quid eſt opuſculi, adjeci nihilominus Latinam interpretatio-
+          <lb n="14"/>nem ad verbum, ſtylo ſanè rudi &amp; impolito: quæ tamen ſi
+          <lb n="15"/>minùs Latinæ paraphraſœos loco eſſe poſſit, at aliquam ſal-
+          <lb n="16"/>tem lucem ad illuſtrationem libri ſatis in ſe obſcuri etiam
+          <lb n="17"/>Græcè neſcientibus allatura ſit. Habes, candide Lector, &amp;
+          <lb n="18"/>conſilii mei pariter &amp; operis rationem. Tu verò conatibus
+          <lb n="19"/>noſtris fave, &amp; hanc opellam æqui bonique conſule.
+        </p>
+      </div>
+
+      <div type="errata">
+        <head rend="center">Emendanda &amp; mutanda.</head>
+        <p>
+          <lb n="20"/>Cap. 7. v. 5. deleat in marg. [6.] in direct. pro <foreign xml:lang="grc">Κερχίδος</foreign>
+          <lb n="21"/>leg. <foreign xml:lang="grc">Τύχηλ’</foreign>. C. 8. v. 17. pro <foreign xml:lang="grc">ἄεγρ-</foreign> l. <foreign xml:lang="grc">ἀεγρ-</foreign>. C. 15. v. 23. pro
+          <lb n="22"/><foreign xml:lang="grc">παρεστάμηναι</foreign> l. <foreign xml:lang="grc">-μήν</foreign>. C. 16. v. 2. pro <foreign xml:lang="grc">Η</foreign> l. <foreign xml:lang="grc">Ἦ</foreign>, C. 18. v. 20.
+          <lb n="23"/>poſt <foreign xml:lang="grc">δέδωντο</foreign>, deleatur, &amp; v. 19. incipiat ab <foreign xml:lang="grc">’Οὐδέ π-</foreign> in di-
+          <lb n="24"/>rect. C. 19. v. 10. pro <foreign xml:lang="grc">Λίην</foreign> l. <foreign xml:lang="grc">χαλκῷ</foreign>. Et v. 21. pro <foreign xml:lang="grc">οὐχ’</foreign> l. <foreign xml:lang="grc">οὐχ</foreign>
+          <lb n="25"/>ſine apoſtropho, &amp; ſic ſi fortè alibi. C. 21. v. 19. pro <foreign xml:lang="grc">δ’</foreign> l. <foreign xml:lang="grc">δὲ</foreign>.
+          <lb n="26"/>C. 22. v. 17. poſt <foreign xml:lang="grc">ἀναχώρει</foreign> del. , . C. 34. v. 9. pro αἰὶ. Καὶ
+          <lb n="27"/>C. 39. v. 24. pro <foreign xml:lang="grc">λῦασα</foreign> l. <foreign xml:lang="grc">λύασα</foreign>. C. 40. v. 2. poſt <foreign xml:lang="grc">Θεῷ</foreign> del. , .
+        </p>
+      </div>
+
+      <div type="theological_note">
+        <p>
+          <lb n="28"/>Porrò autem quia in illis verbis c. 1. v. 21. [Dominus de-
+          <lb n="29"/>dit, &amp; Dominus abſtulit; benedictum ſit nomen Domini]
+          <lb n="30"/>Sacroſanctam Trinitatem occultè licèt &amp; obſcurè ſubindicari o-
+          <lb n="31"/>pinantur Interpretes, noluit Autor vel minimum illius myſte-
+          <lb n="32"/>rii veſtigium in verſione ſuâ obliterari. Ideóq; poſt <foreign xml:lang="grc">δευτέρας</foreign>
+          <lb n="33"/>imò <foreign xml:lang="grc">τρίτας φροντίδας</foreign> pro duobus illis verſibus [<foreign xml:lang="grc">Δῶκε Θεὸς</foreign>
+          <lb n="34"/><foreign xml:lang="grc">κἀφεῖλ’</foreign> &amp;c.] hos ſubſtitutos cuperet.
+        </p>
+        <lg xml:lang="grc">
+          <l><lb n="35"/>Ἦ ῥα Θεὸς μὲν δῶκε, Θεὸς δ’ ἣ καὶ αὐτὸς ἀφείλεν·</l>
+          <l><lb n="36"/>Οὔνομα δ’ αὖte Θεοῖο διαμπερὲς αἰνετὸν ἔστω.</l>
+        </lg>
+        <p xml:lang="la">
+          <lb n="37"/>Certè Deus quidem dedit, Deus autem &amp; ipſe abſtulit;
+          <lb n="38"/>Nomen utiq; Dei perpetuò laudatum ſit.
+        </p>
+      </div>
+
+
+      
+    </body>
+  </text>
+</TEI>
