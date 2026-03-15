@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE HISTORIE OF OCTAVIUS CÆSAR AUGUSTUS</title>
+        <author>C. Suetonius Tranquillus</author>
+        <editor>Philemon Holland (Translator)</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Encoded for TEI XML</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Transcribed from PDF source files of Philemon Holland's 1898 edition.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="81" />
+      <head>THE HISTORIE OF OCTAVIUS CÆSAR AUGUSTUS</head>
+<div type="textpart" subtype="chapter" n="1">
+        <div type="textpart" subtype="section" n="1">
+          <p>THAT the principall name and linage of the Octavii, dwelt in times past at Velitræ, there be many evidences to shewe: for, both a street in the most frequented place of the said towne long since carried the name Octavius, and also there was to be seene an Altar there consecrated by one Octavius<note place="bottom" n="1">Or to Octavius: Octavio Consecrata.</note>, who being Generall of the field in a warre against the borderers, when he happened to be sacrificing to Mars, upon newes brought that the enemie gave a suddaine charge, caught the Inwards of the beast sacrificed halfe raw as they were, out of the fire<note place="bottom" n="2">Where they were a boyling or rosting.</note>; cut and offered them accordingly: and so entred into battaile and returned with victorie. There is beside, a publike Act extant upon record, wherein decreed and provided it was, that everie yeare after, the inwards in like manner should bee presented unto Mars, and the rest of the sacrifice remaining, carried backe unto the Octavii.</p>
+        </div>
+      </div>
+
+      <div type="textpart" subtype="chapter" n="2">
+        <div type="textpart" subtype="section" n="1">
+          <p>These Octavii<note place="bottom" n="3">Ea gens inter Romanos allecta.</note>, being by K. Tarquinius Priscus naturalized Romaines soone after translated and admitted by Servius Tullus, into the Senate among the Patritians, and Nobles, in processe of time ranged themselves with the commons, and with much adoe at length, by the meanes of Julius of <pb n="82" /> sacred Memorie returned to the Patritian degree again: the first of these that by the peoples election bare any Magistracie, was C. Rufus:</p>
+        </div>
+        <div type="textpart" subtype="section" n="2">
+          <p>who having beene Questor begat Cn. and C. From them descended two families of the Octavii, and those for their estate of life farre different. For Cn. and all the rest from him one after another, attained to places of highest honour: but Caius and his posteritie everie one even unto the father of Augustus, (such was either their fortune or their will,) staied in the order and degree of gentlemen, and rose no higher. The great Grandfather of Augustus, in the second Punike war<note place="bottom" n="1">Against Anniball and the Carthaginians.</note>, served in qualitie of a Militar Tribune<note place="bottom" n="2">Colonel of 1000 footmen.</note>, in Sicilie, under Æmilius Papus Lord generall. His father contenting himselfe with bearing office like another Burgesse in his owne Bourrough, being left welthie by his father, grew to a good estate, and lived to be an olde man, in much peace and tranquilitie.</p>
+        </div>
+        <div type="textpart" subtype="section" n="3">
+          <p>But of these matters let others make report. Augustus himselfe writeth noe more but thus. That the house from whence he came, was of Romaine Gentlemen, welthie and ancient withall, wherein the first that ever came to be Senatour was his father. M. Antonius hitteth him in the teeth with his great Grandfather: saying he was but a Libertine borne, and by occupation a roper<note place="bottom" n="3">A seller of ropes: restionem, not Restionem with a capital R, as if it were a proper name.</note>, and come out of a Village of the Thurines: also that his Grandfather was no better then a verie banquer. Neither have I founde any more, as touching the Auncestours of Augustus by the Fathers side.</p>
+        </div>
+      </div>
+
+      <div type="textpart" subtype="chapter" n="3">
+        <div type="textpart" subtype="section" n="1">
+          <p>Octavius his father, from the verie beginning of his age, was of great welth and reputation; so that I cannot but mervaile, that hee also hath beene reported by some a banquer or monie changer: yea and one of the dealers of monie<note place="bottom" n="4">Argentarium an exchanger of monie for gaine.</note><note type="annotation" n="a">Inter divisores, operasque campestres. This was thought to bee but a base occupation, namely, to give among the Tribes, such sums of money as the Candidati, or those that stood in election for offices promised and pronounced for the buying of voices. The name also grew to be odious, howsoever Plautus in Aulul. calleth them Magistros Curiæ. Likewise all such servitours as otherwise gave attendance in Campo Martio, and thereby gat a living, whom he termeth here operas campestres, were but of meane reckoning.</note> and servitours employed in Campus Martius, by those that stand for offices: for having beene from his verie cradle brought uppe in wealth highly and plentifully, he both <pb n="83" /> attained unto honorable dignities with facilitie, and administred the same with credite and reputation. Presently uppon his Pretourshippe, the province of Macedonie fell unto his lot. And in his journey thither, the fugitives, to wit the reliques of Spartacus and Catilines forces, who then helde the Thurine teritorie hee defaited; having commission extraordinarily given unto him in the senate so to doe:</p>
+        </div>
+        <div type="textpart" subtype="section" n="2">
+          <p>this province hee governed with noe lesse justice then fortitude. For having discomfited in a great battaile the Bessi and the Thracians, he dealt so well with the Allies and confederats of that Kingdome: that there be certaine letters of M. Tullius Cicero extant, wherein he exhorteth and admonisheth his brother Quintus, (who at the same time, little to his credite and good name, administred the proconsulship of Asia) for to imitate his neigbour Octavius, in doing well by the Allies, and winning their love thereby.</p>
+        </div>
+      </div>
+
+      <div type="textpart" subtype="chapter" n="4">
+        <div type="textpart" subtype="section" n="1">
+          <p>As he departed out of Macedonie before that he could professe himselfe to be a suiter for the Consulship, he died a suddaine death: leaving these children behind him alive, namely two daughters Octavia the elder, which hee had by Ancharia: Octavia the younger, and Augustus likewise, by Atia. This Atia was the daughter of M. Atius Balbus, and Julia the sister of C. Cæsar. Balbus by his fathers side was an Aricine, a man that shewed Senatours Images and armes in his house: by his mother linked to Magnus Pompeius in the neerest degree of consanguinitie. And having borne the office of Pretorship he among the xx. Commissioners devided by vertue of the Law Julia, the lands in the territory of Capua among the Commons.</p>
+        </div>
+        <div type="textpart" subtype="section" n="2">
+          <p>But M. Antonius, despising the parentage and petegree of Augustus by the mother side also, twitteth him and layeth in his dish, that his great Grandsire was an African borne: saying on while, that he kept a shop of sweete oyles, Ointments and perfumes; another while, that he was a baker in Aricia: Cassius verily of Parma, in a certaine Epistle taxeth Augustus as being the Nephew not of a Baker onely, but also of a banker, in <pb n="84" /> these termes. 'Thou hast meale for thy mother. And then comes a banker of Nerulone, who out of a most painefull backehouse in Aricia knedeth and mooldeth it with his hands sullied by telling and exchanging monie<note place="bottom" n="1">Al this is spoken allegorically of his base parentage.</note>.'</p>
+        </div>
+      </div>
+
+      <div type="textpart" subtype="chapter" n="5">
+        <div type="textpart" subtype="section" n="1">
+          <p>Augustus was borne, when M. Tullius Cicero and Antonie were Consuls, the ninth day before the Calends of October<note place="bottom" n="2">23 of September.</note>, a little before the Sun rising, in the palatine quarter of the Citie<note type="annotation" n="a">Regione Palatii. In old time Rome was divided into foure principall regions or quarters: Suburrana, Equilina, Collina, and Palatina.</note>, at a place called Capita Bubula<note place="bottom" n="3">Oxe or Bull-heads.</note>: where now it hath a sacred Chappel, built and erected a little after he departed out of this world: for, as it is found in the records of the Senate, when C. Lectorius a young gentleman of the Patritian order, pleaded to have some easier punishment for the adulterie, and alledged, over and besides his yong yeares and parentage this also in his plea before the Senatours, that he was the possessor and as it were, the warden and Sextaine of that ground or soyle, which Augustus of happy memorie touched first<note type="annotation" n="b">The manner in old time was, that the newe borne babe should be set up on the bare ground to cry and call upon the Goddesse Ops, who so gently had received it. And the Goddesse forsooth, that helped to lift it up againe, was called Levana, i. a Levando. Augustin. Macrob.</note>, and requested that it might be given and granted unto the said Augustus as to his domestical and peculiar god: decreed it was that the same part of the house should be consecrated to that holy use.</p>
+        </div>
+      </div>
+
+      <div type="textpart" subtype="chapter" n="6">
+        <div type="textpart" subtype="section" n="1">
+          <p>There is yet to be seene the place of his nourcery, within a suburbian house belonging to his Auncesters, neere unto Velitræ: a very little Cabin, about the bignes of a Larder or Pantry: the neighbours are possessed with a certaine conceit, as if he had been there also borne. To enter into this rowme unlesse it be of necessitie and with devout chastitie, men make it scrupulous and are affraide: upon an old conceived opinion, as if unto as many as came thether rashly and inconsiderately, a certaine horror and fearefulnes were presented. And verily, this was soone after confirmed by this occasion: for when the new Land lord and possessor of that farme house, either by chance and at unwares, or els to <pb n="85" /> try some experiment, went into it, there to take up his lodging, it happened that in the night within verie fewe houres after, being driven out from thence by some sodaine violence, (he knoweth not how,) he was found in manner halfe dead, together with bed and all, before the dore.</p>
+        </div>
+      </div>
+
+      <div type="textpart" subtype="chapter" n="7">
+        <div type="textpart" subtype="section" n="1">
+          <p>Being yet an infant, surnamed he was Thurinus, in memorial of the beginning of his Auncestours: or else because in the countrie about Thurii, when hee was newly borne, his father Octavius fought a battaile against the Fugitives. That he was surnamed Thurinus, my selfe am able to report by a good and sufficient evidence, as having gotten an olde little counterfeit in brasse representing him being a child: which had in yron letters and those almost worne out, this name engraven. This said counterfeit, being given by me unto the Prince<note place="bottom" n="1">Hadrian the Emperor.</note>, is now devoutely kept and worshipped among other his bed chamber Images. Moreover called he is oftentimes in taunting wise by M. Antonius in his Epistles, Thurinus: and himselfe writeth unto him backe againe as touching that point, nothing but this: That he marvaileth why that former name of his should be objected unto him as a reproach.</p>
+        </div>
+        <div type="textpart" subtype="section" n="2">
+          <p>Afterwardes, he assumed the surname of C. Cæsar: and after it of Augustus: the one by the last will of his great Uncle, by the mother side, the other by the vertue of Munatius Plancus his sentence: for when some gave their opinion, that he ought to be stiled Romulus, as if he also had beene A Founder of the Cittie, Plancus prevailed, that he should be called rather Augustus: not onely for that it was a new Surname, but also greater and more honourable, because Religious and holy places, wherein also any thing is consecrated by bird flight, and feeding of them be called Augusta, ab auctu, i, of growing, or else ab avium gestu gustuve: i. Of birds gesture and feeding. Like as Ennius also teacheth writing in this manner:
+        <quote>Augusto Augurio postquam inclyta condita Roma est.</quote>
+        After that Noble Rome was built by sacred flight of Birds.</p>
+        </div>
+      </div>
+
+      <div type="textpart" subtype="chapter" n="8">
+        <div type="textpart" subtype="section" n="1">
+          <p><pb n="86" /> He was 4 yeares old when his father died: and in the xij. yeare of his age he praised in a publike assemblie, his Grand-mother Julia deceased. Foure yeeres after having put on his virill robe<note type="annotation" n="a">The Virile robe was the ordinary Romane gowne, all white without purple, which they wore when they came to be past 16 yeares of age.</note>, he had militarie gifts<note type="annotation" n="b">To wit, bracelets, chaines and collars, Speare staves without iron heads, trappings, chaplets and guirlands, etc.</note> bestowed upon him at the African tryumph of Cæsar, albeit by reason of his yong yeares he had not once served in the warres. Soone after, when his Unkle (Cæsar) was gone into Spaine against Cn. Pompeius children, he followed with in a while, (being as yet not well recovered out of a greevous sickenesse,) even through waies infested by enemies, with verie few in his traine to accompany him, and having suffred shipwracke besides: whereby he mightily won his Uncles love, who quickely approved his towardly behaviour and disposition, over and above his diligence in travaile.</p>
+        </div>
+        <div type="textpart" subtype="section" n="2">
+          <p>When Cæsar, after he had recovered Spaine and brought it to his subjection, intended a voiage against the Daci<note place="bottom" n="1">Otherwise called Getæ.</note>, and from thence against the Parthians, he being sent afore to Apollonia, became a Student there and followed his booke. And so soone as he had certaine intelligence that Ceasar was slaine, and himselfe made his heire: standing in doubt and suspense a long time, whether he should implore the helpe of the Legions or no: at length he gave over that course verily, as too hastie and untimely, but when he was returned againe to Rome, he entred upon his inheritance, not withstanding his mother made some doubt thereof and his father in law Martius Philippus<note place="bottom" n="2">His mothers husband.</note> a man of Consular degree much disswaded him therefrom.</p>
+        </div>
+        <div type="textpart" subtype="section" n="3">
+          <p>And from that time having levied and assembled his forces, he governed the common welth first jointly with M. Antonius and M. Lepidus<note type="annotation" n="c">This was the Triumvirate, so much spoken of: during which, M. Antonius, M. Lepidus, and Augustus ruled joyntly together. Marcus Brutus.</note> for the space almost of 12 yeres, and at the last for xliiij. yeares by himselfe alone.</p>
+        </div>
+      </div>
+
+      <div type="textpart" subtype="chapter" n="9">
+        <div type="textpart" subtype="section" n="1">
+          <p>Having thus laid open the very sum as it were, of his life, I will goe through the parts thereof in particular: not by the times but by the severall kinds therof, to the end the same may be shewed and knowne more distinctly. Five <pb n="87" /> civill warres he made, to wit, at Mutine, Philippi, Perusium, in Sicilie, and at Actium. Of which the first and last were against M. Antonius: the second against Brutus and Cassius, the third against L. Antonius brother to the Triumvir, the 4 against Sex. Pompeius, Cn. Pompeius his sonne. Of all these warres he tooke the occasion and quarrell from hence, namely, reputing and judging in his mind nothing more meet and convenient than the revenge of his unkles death and the maintenance of his acts and proceedinges.</p>
+        </div>
+      </div>
+
+      <div type="textpart" subtype="chapter" n="10">
+        <div type="textpart" subtype="section" n="1">
+          <p>No sooner was he returned from Apollonia, but he purposed to set upon Brutus and Cassius at unwares: and (because upon foresight of daunger they were fled secretly out of the way) to take the course of law, and in their absence to endite them of murder. As for the Plaies and games for Ceasars victory because they durst not exhibit them, whose lot and office it was so to do, himselfe set them forth.</p>
+        </div>
+        <div type="textpart" subtype="section" n="2">
+          <p>And to the end that he might go through all other matters also more resolutely; he professed himselfe to labour for the Tribuneship<note place="bottom" n="1">Of the commons.</note> in the rowme of one who fortuned to die: albeit he was one of the Nobility, though not of the Senate. But seeing that M. Antonius the Consul withstood his attempts, where as he hoped he would have beene his principall friend in that suit: and vouchsafed not unto him so much as the assistance of his owne publike authority, or helpe procured from others in any thing, without he agreed and covenanted to yeeld unto him some exceeding consideration: he betooke himselfe unto the protection of those Nobles and chiefe Senatours unto whom he perceived that Antonius was odious: in this regard especially, that he<note place="bottom" n="2">i. Antonius.</note> endevored all that he could by force of armes to expell Decimus Brutus besieged at Mutina, out of that province which by Ceasar was granted and by the Senate confirmed unto him.</p>
+        </div>
+        <div type="textpart" subtype="section" n="3">
+          <p>And thereupon by the advice and perswasion of some he set certaine persons privily in hand to murder Antonius; which perilous practise of his being detected and fearing still the like danger to himselfe, he waged the old <pb n="88" /> soldiers with as bountifull a larges as possible he could, for the defence as well of his owne person as of the state. And being appointed to lead this armie thus levied, in qualitie of propretour, and together with Hirtius and Pansa, who had entred upon the Consulship, to aide D. Brutus, he made an end of this warre committed unto him within three moneths, in two fought fieldes.</p>
+        </div>
+        <div type="textpart" subtype="section" n="4">
+          <p>In the former of which, Antonie writeth that he fled, and without coat armour or horse appeared at length after two dayes and shewed himselfe. But in the battaile next following, well knowne it is, that he performed the part not onely of a Captaine but also of a soldier: and in the very heat and midst of the medly, by occasion that the Standerd bearer of his owne Legion was grievously hurt, he supported the Ægle with his owne shoulders<note place="bottom" n="1">As massie and heavie as it was.</note> and so carried it a good while.</p>
+        </div>
+      </div>
+      </body>
+      </text>
+      </TEI>

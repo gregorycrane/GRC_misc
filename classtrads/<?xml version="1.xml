@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Extract from Diary Regarding Visits to John Adams</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Encoded for structural and linguistic analysis.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Digitized scan of a historical diary extract regarding John Adams.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="diary_entry">
+        <pb n="74"/>
+        <p>
+          I now turn back to 1822, and make my concluding
+          extract from the diary of October 30. 
+          <quote>
+            Visited the President in the morning; and, after writing a letter
+            to <persName>Mathew Carey</persName> from his dictation, conversed with
+            him on several literary subjects. Speaking of <persName>Cicero</persName>'s
+            treatise <title>De Senectute</title>, he said that he read it every
+            year. He declared <persName>Cato</persName> was quite a Christian in
+            feeling when he says, 
+            <cit>
+              <quote xml:lang="la">Si quis deus mihi largiatur,
+              ut ex hac ætate repuerascam et in cunis vagiam, valde
+              recusem : nec verò velim, quasi decurso spatio, ad car-
+              ceres a calce revocari.</quote>
+              <ref target="urn:cts:latinLit:phi0474.phi053:83">Cicero, De Senectute 83</ref>
+              <note type="translation" xml:lang="en">If some god should grant me that from this age I might become a child again and cry in the cradle, I would strongly refuse; nor would I truly wish, as if the race were run, to be called back from the finish line to the starting barriers.</note>
+            </cit>
+            The President recommended
+            <persName>Cicero</persName> and <persName>Pliny</persName> as models of literary style, and a
+            letter written to <persName>Lord Mansfield</persName> by — the name I can-
+            not recall. He thought <persName>Lord Bolingbroke</persName>'s <title>Patriot
+            King</title> was serviceable to public speakers. I do not
+            admire <persName>Bolingbroke</persName> as much as he does; probably
+            from want of taste. I read to him the last part
+            <pb n="75"/>
+            <fw type="header">VISITS TO JOHN ADAMS. 75</fw>
+            of the <title>Senectute</title>, where the orator combats the idea
+            that the near approach of death is an evil. When
+            I reached the passage where <persName>Cicero</persName> anticipates his
+            reunion with those he had known and his meeting
+            with those of whom he had read<note type="citation"><ref target="urn:cts:latinLit:phi0474.phi053:84">Cicero, De Senectute 84–85</ref></note>, the old gentleman
+            became much excited and exclaimed: <quote>That is just
+            as I feel. Nothing would tempt me to go back. I
+            agree with my old friend, <persName>Dr. Franklin</persName>, who used to
+            say on this subject, <quote>We are all invited to a great
+            entertainment. Your carriage comes first to the door;
+            but we shall all meet there.</quote></quote> Who would think such
+            an old age a burden, honored in this world and hop-
+            ing soon to depart for a better, where he believes he
+            shall meet not only the friends he has lost, but all
+            the great and good who have gone before him?
+          </quote>
+        </p>
+        <p>
+          This last extract fairly represents the prevailing
+          mood of mind of <persName>John Adams</persName> during his closing
+          years.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
