@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Annotations upon Titus Flavius Vespasianus Augustus</title>
+        <author>Philemon Holland</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcription for Digital Humanities Research</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>The History of Twelve Cæsars</title>
+          <author>Suetonius</author>
+          <editor role="translator">Philemon Holland</editor>
+          <biblScope unit="page">285-286</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="annotations" n="Titus">
+        <head>ANNOTATIONS UPON TITUS FLAVIUS VESPASIANUS AUGUSTUS </head>
+
+        <div n="1" type="chapter">
+          <note place="margin">
+            <p><label>a</label> A PLACE in Rome so called of a building there, which stood upon seven courses of Columnes or Pillars, arising all round and higher every one than other, in manner of so many circles or girdles. </p>
+          </note>
+        </div>
+
+        <div n="2" type="chapter">
+          <note place="margin">
+            <p>
+              <label>b</label> He meaneth not a Physiognomer, who hath taken upon him by inspection of eyes, forehead, face, etc., to tell ones nature and disposition: such an one as Zopyrus was, who noted Socrates for to be by naturall inclination a wanton lover of women:  
+              but a fortune teller, by looking on the forehead onely. 
+              Such as in these daies, by the art of Palmestrie, for-sooth, can assure folke, how long they shall live, and what not. 
+              If they do but see lines in the palmes of their hands, or by feaxe in the forehead, will say, how many wives a man shall have, etc. 
+              As vaine as those, who by counting the letters of the husband and the wives name, will confidently pronounce, whether of them shall burie the other. 
+            </p>
+          </note>
+        </div>
+
+        <div n="3" type="chapter">
+          <note place="margin">
+            <p>
+              <label>a</label> By titles in this place, and many others of Suetonius, are to be understood inscriptions, testifying for what considerations such Statues were erected. 
+              Such also were usually set up at publicke executions, to shew the offences and causes why any suffered. 
+              A thing usuall among the Romanes in their government, in what Province so ever, as may appeare by that which stood upon the Crosse of our Saviour Christ. 
+            </p>
+          </note>
+        </div>
+
+        <div n="4" type="chapter">
+          <note place="margin">
+            <p><label>a</label> That is to say a white band or ribband: such as the Royall Diademe at first was. </p>
+          </note>
+        </div>
+
+        <div n="6" type="chapter">
+          <note place="margin">
+            <p>
+              <label>a</label> Of these Baines, with what speede and celerity they were finished, Martialis writeth thus: 
+              <quote xml:lang="lat">Hic ubi miramur velocia munera, Thermas.</quote> 
+            </p>
+          </note>
+        </div>
+
+        <div n="8" type="chapter">
+          <note place="margin">
+            <p>
+              <label>a</label> Dooing them thus much credit in the eyes of the world, as to give the allowance and approbation, or otherwise, of the weapons wherewith they should fight. 
+              For, in this sense may Ornaments be taken: the rather, because some copies have <term xml:lang="lat">Ferramenta</term>. 
+              Or this place may be understood of other furniture, as well as armes, wherwith they should come appointed into the listes. 
+            </p>
+          </note>
+        </div>
+
+        <div n="9" type="chapter">
+          <note place="margin">
+            <p>
+              <label>a</label> This hath beene observed in all ages, to fore-runne the death of some Prince. 
+              Thus, before the end of Julius Cæsar, as Virgil writeth, 
+              <quote xml:lang="lat">Non alias lato occiderunt plura sereno Fulgura, etc.</quote> 
+              Horace likewise, 
+              <quote xml:lang="lat">Per purum sonantes Egit equos volucremque currum.</quote> 
+              Our owne Chronicles<ptr target="#f1"/> also exemplifie no lesse.  
+              To say nothing of the fresh resemblance of that, which happened with us three yeares since, in July. 
+            </p>
+          </note>
+        </div>
+
+        <div n="10" type="chapter">
+          <p>Some write, and Tzetzes by name, that hee was poysoned with eating of Sea-hares. </p>
+        </div>
+
+        <note xml:id="f1" type="footnote">
+          <p>1 A little before the death of king Henry the second. </p>
+        </note>
+      </div>
+    </body>
+  </text>
+</TEI>
