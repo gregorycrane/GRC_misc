@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Historie of Flavius Domitianus: Annotated Footnotes</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>TEI version of footnotes with verified page numbering from Suetonius' "Twelve Cæsars" (Holland Translation).</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Transcription of domlife.pdf</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="footnotes">
+        <pb n="235" facs="page1"/>
+        <note n="1" target="#source_11">24 Octobris. </note>
+        <note n="2" target="#source_12">Januarie. </note>
+        <note n="3" target="#source_12">A place so called like as before, ad Gallinas. </note>
+        <note n="4" target="#source_12">For his impure life. </note>
+        <note n="5" target="#source_13">Or Bil. </note>
+        <note n="6" target="#source_11">Or abuse rather. </note>
+        <note n="7" target="#source_13">Betweene Vitellius and his father Vespasian: and their factions. </note>
+
+        <pb n="236" facs="page2"/>
+        <note n="1" target="#source_27">The Emperours sonne and heire apparant of the Empire. </note>
+        <note n="2" target="#source_27">a young Prince and a Cæsar. </note>
+        <note n="3" target="#source_27">Operibus, i. </note>
+        <note n="4" target="#source_28">deeds and exploits. </note>
+
+        <pb n="237" facs="page3"/>
+        <note n="1" target="#source_39">Peace concluded between the 2 nations. </note>
+        <note n="2" target="#source_40">Canonization for a God. </note>
+        <note n="3" target="#source_40">Horarium or for a certaine time of the day: some say three houres. </note>
+
+        <pb n="238" facs="page4"/>
+        <pb n="239" facs="page5"/>
+        <note n="1" target="#source_67">Circumstructo. </note>
+        <note n="2" target="#source_67">Missus, every of which ordinarily consists of 7 races. </note>
+        <note n="3" target="#source_67">Or slippers. </note>
+        <note n="4" target="#source_67">Congiarium. </note>
+        <note n="5" target="#source_67">Xiphilin. </note>
+        <note n="6" target="#source_68">So called of the seaven hils, whereupon the Citie stood. </note>
+        <note n="7" target="#source_68">Or Baskets. </note>
+
+        <pb n="240" facs="page6"/>
+        <note n="1" target="#source_84">Or sent. </note>
+        <note n="2" target="#source_84">Gifts or favours. </note>
+        <note n="3" target="#source_84">In Vespasians dayes. </note>
+        <note n="4" target="#source_84">By Norbanus Appius who slew the said Antonius. </note>
+
+        <pb n="241" facs="page7"/>
+        <note n="1" target="#source_102">Whereas contrariwise under Nero, publicæ cænæ ad sportulas reducta. </note>
+        <note n="2" target="#source_102">White, Blew, Red, Greene. </note>
+        <note n="3" target="#source_103">Who guelded, pampered and set them out to sale. </note>
+        <note n="4" target="#source_103">Geminari castra, the greater and the lesse as we read in Livie, etc. </note>
+
+        <pb n="242" facs="page8"/>
+        <note n="1" target="#source_118">Every one about 15s. 7d. ob. sterling. </note>
+        <note n="2" target="#source_118">Of such bond men, as against their Lordes and Masters right claimed freedome, and used therein the plea of Oratours. </note>
+        <note n="3" target="#source_119">Who by taking money exercised his office otherwise then he ought. </note>
+
+        <pb n="243" facs="page9"/>
+        <note n="1" target="#source_132">Against the filthy sin of Pæderastie or Sodomie. </note>
+        <note n="2" target="#source_132">As to loose their heads. </note>
+        <note n="3" target="#source_133">Surnamed so of a familie in Rome. </note>
+        <note n="4" target="#source_133">Or Maxima, sc. Vestalis, i. the chiefe of those Nunns, as Lady Prioresse or Abbatesse. </note>
+        <note n="6" target="#source_135">52 Georgicorum. </note>
+        <note n="7" target="#source_135">This hath relation to the last word (Ante) in the verse præcedent. </note>
+
+        <pb n="244" facs="page10"/>
+        <note n="1" target="#source_152">Cupiditatis quoque atque avaritia.  By covetousnesse hee meaneth the greedy desire of other mens goods: by avarice, in this place the pinching expense of his owne. </note>
+        <note n="3" target="#source_153">Plaintife. </note>
+        <note n="4" target="#source_153">Defendant. </note>
+        <note n="5" target="#source_153">Old souldiers who had served out their full time. </note>
+
+        <pb n="245" facs="page11"/>
+        <note n="1" target="#source_169">As Ironia and Antiphrasis, etc., whereby he seemed to glaunce at him. </note>
+        <note n="2" target="#source_170">Who was armed with a buckeler. </note>
+        <note n="3" target="#source_170">Of swordfight. </note>
+        <note n="4" target="#source_171">The favourer </note>
+        <note n="5" target="#source_172">of the armed fenser Thrax, above saide. </note>
+        <note n="6" target="#source_172">Domitia Longina. </note>
+        <note n="7" target="#source_174">Vocem suam, or Lamia his voice, as some expound it. </note>
+        <note n="8" target="#source_173">As if he had uttered </note>
+        <note n="9" target="#source_175">these words: This is meere injury but I must say nothing. </note>
+        <note n="10" target="#source_176">Understand </note>
+        <note n="11" target="#source_177">here, and in the other following (he slew or put to death). </note>
+        <note n="12" target="#source_178">For his father </note>
+        <note n="13" target="#source_179">L. Salvius Titianus was Othoes brother. </note>
+        <note n="14" target="#source_179">10 See Vespasian, cap. 14. </note>
+
+        <pb n="246" facs="page12"/>
+        <note n="1" target="#source_190">Or earth. </note>
+        <note n="2" target="#source_190">Two most renowmed warriours of the Carthaginians, and mortall enimies of the Romaines. </note>
+        <note n="3" target="#source_191">Of his owne name. </note>
+        <note n="4" target="#source_191">Who beeing persecuted by Nero cut his owne maister veines. </note>
+        <note n="5" target="#source_192">The sonne in lawe of Thrasea, even another Cato or Brutus and a man of most free speech in the behalfe of the Common wealth. </note>
+        <note n="6" target="#source_193">For the father, Vespasian had slaine before. </note>
+        <note n="7" target="#source_193">Tractasset, i. handled, al. taxasset, i. taxed or reproved. </note>
+        <note n="8" target="#source_193">Domitian. </note>
+        <note n="9" target="#source_194">Of the Flavians and Vitellians. </note>
+        <note n="10" target="#source_194">Dudum latentes, per conscios investigatos. </note>
+
+        <pb n="247" facs="page13"/>
+        <note n="1" target="#source_205">Actorem summarum. </note>
+        <note n="2" target="#source_205">A dish of meate, etc. </note>
+        <note n="3" target="#source_205">Simul gestanti. </note>
+        <note n="4" target="#source_205">Senate house. </note>
+        <note n="5" target="#source_206">To have their necks fast locked in pillory, and so to be beaten with rods to death. </note>
+
+        <pb n="248" facs="page14"/>
+        <note n="1" target="#source_225">i. of 3 aurei. </note>
+        <note n="2" target="#source_225">Or Master of the Exchequer. </note>
+        <note n="3" target="#source_225">But proud and scornfull. </note>
+
+        <pb n="249" facs="page15"/>
+        <note n="1" target="#source_238">Who married Titus his daughter Julia. </note>
+        <note n="2" target="#source_238">An Hemistichium out of Homer, Iliad 2, Ulisses words: as if he should say, I like not so many Cæsars. </note>
+        <note n="3" target="#source_239">Pulvinar suum, as if he had beene a God: for, their Gods and Goddesses they bestowed in certaine bed lofts called Pulvinaria. </note>
+        <note n="4" target="#source_240">During the solemne Games exhibited unto them. </note>
+        <note n="5" target="#source_240">To his Senatours place. </note>
+        <note n="6" target="#source_241">Or behalfe. </note>
+        <note n="7" target="#source_241">Common talke. </note>
+
+        <pb n="250" facs="page16"/>
+        <note n="1" target="#source_257">Ponderis certi. </note>
+        <note n="2" target="#source_257">Sabellicus readeth centeni, i. of an hundred pounds, according to Statius Papinius of Domitians statue, Sylv. </note>
+        <note n="3" target="#source_258">5, Da Capitolinis æternum sedibus aurum. </note>
+        <note n="4" target="#source_258">Quo niteant sacri centeno pondere vultus Casaris. </note>
+        <note n="5" target="#source_258">Not above 4 moneths. </note>
+        <note n="6" target="#source_259">Not a fortnight full. </note>
+        <note n="7" target="#source_259">Over the Catti and Daci. </note>
+        <note n="8" target="#source_259">September. </note>
+        <note n="9" target="#source_259">October. </note>
+        <note n="10" target="#source_259">Minions. </note>
+
+        <pb n="251" facs="page17"/>
+        <note n="1" target="#source_272">Alluding to the like verses of the Poet Evenus: which Ovide seemeth to expresse 1 Fastorum in Latine thus, Rode caper vitem, tamen hic cum stabis ad aras, In tua quod spargi cornua possit, erit. </note>
+
+        <pb n="252" facs="page18"/>
+        <note n="1" target="#source_287">Jupiter or God. </note>
+        <note n="2" target="#source_287">Or Pied stoole. </note>
+        <note n="3" target="#source_287">Or Inscription. </note>
+        <note n="4" target="#source_287">Where was an Oracle. </note>
+
+        <pb n="253" facs="page19"/>
+        <note n="1" target="#source_301">Fabulus narrations to make Princes merry. </note>
+        <note n="2" target="#source_301">He dreamt haply that Junius Rusticus whom hee had killed came upon him with a naked sword. </note>
+        <note n="3" target="#source_302">Xiphilin. </note>
+        <note n="4" target="#source_302">Of the clock. </note>
+
+        <pb n="254" facs="page20"/>
+        <note n="1" target="#source_313">Whom Eusebius reporteth to have beene neipce by the sister of Flavius Clemens and a Christian, therefore confined to the Iland Pontia. </note>
+        <note n="2" target="#source_314">Certaine souldiers were so tearmed. </note>
+        <note n="3" target="#source_314">Or rapier. </note>
+        <note n="4" target="#source_314">17th of September. </note>
+
+        <pb n="255" facs="page21"/>
+        <note n="1" target="#source_328">Restrictiores, drawen inward. </note>
+        <note n="2" target="#source_328">Homer Iliad 21. </note>
+        <note n="3" target="#source_328">Lycaon the Sonne of Priamus unto Achilles. </note>
+        <note n="4" target="#source_329">Eadem me manent, some read (te). </note>
+
+        <pb n="256" facs="page22"/>
+        <note n="1" target="#source_348">Upon mens shoulders. </note>
+        <note n="2" target="#source_348">In Ægypt. </note>
+        <note n="3" target="#source_348">Of two colours. </note>
+        <note n="4" target="#source_349">A kind of delicate drinke among the Romains. </note>
+
+        <pb n="257" facs="page23"/>
+        <note n="1" target="#source_363">De die. </note>
+        <note n="2" target="#source_363">It tooke the name of one Matius who loved an hortyard well: like as Appiana and Scaptiana mala of Appius and Scaptius. </note>
+        <note n="3" target="#source_364">Julia. </note>
+        <note n="4" target="#source_364">As his wedded wife. </note>
+        <note n="5" target="#source_364">Conceived, as some say, by her former husband : others, by Domitian in her widowhead: and hereto accordeth Juvenal: Quum tot abortivis, etc. Iulia vulvam solueret, et patruo similes effunderet offas. </note>
+
+        <pb n="258" facs="page24"/>
+        <note n="1" target="#source_379">A Saint or of sacred memorie. </note>
+        <note n="2" target="#source_379">Petronius and Parthenius. </note>
+        <note n="3" target="#source_379">Sext. Aurel. </note>
+        <note n="4" target="#source_379">Coates of armes. </note>
+      </div>
+    </body>
+  </text>
+</TEI>
