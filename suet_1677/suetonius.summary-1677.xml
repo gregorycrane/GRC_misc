@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Survey of the Eight Books of Caius Suetonius Tranquillus, upon the Twelve Cæsars</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Encoded document</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Transcription from provided manuscript pages.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="1" />
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">A SURVEY OF THE EIGHT BOOKS</titlePart>
+          <titlePart type="sub">OF</titlePart>
+        </docTitle>
+        <docAuthor><hi rend="italic">Caius Suetonius Tranquillus</hi>,</docAuthor>
+        <docTitle>
+          <titlePart type="sub">UPON THE TWELVE CÆSARS.</titlePart>
+        </docTitle>
+      </titlePage>
+      
+      <div type="book" n="1">
+        <head>The FIRST BOOK, Being the LIFE of <hi rend="italic">Divus Julius Cæfar</hi>.</head>
+        <head>The ARGUMENT.</head>
+        <p>
+          <hi rend="dropcap">T</hi>HE privacy of his Condition for some time, after he had receiv'd his <hi rend="italic">Toga Virilis</hi>: Certain accidents which befell him when he was a young Man: his first taking up Armes, his progress in the Wars; his accusation of <hi rend="italic">Dolabella</hi>, and his retirement to <hi rend="italic">Rhodes</hi>; his being taken by Pirates at Sea his action against <hi rend="italic">Mithridates</hi>.
+        </p>
+        <fw type="signature">A 3</fw>
+        <fw type="catchword">His</fw>
+        <fw type="catchword">Marks</fw>
+        
+        <pb n="2" />
+        <fw type="pageNum">4</fw>
+        <fw type="header"><hi rend="italic">A Survey of the Twelve Cæfars.</hi></fw>
+        <p>
+          His Honours, and Magiſtracies, with his Deportment, andthe Accidents which befell him therein his being made first a Tribune of the Souldiers; his Quæſtorſhip in the farther part of <hi rend="italic">Spain</hi>; his return to <hi rend="italic">Rome</hi>, and the Suspicion he fell under; his Ædileſhip, and the Several paſſages thereof; his Prætorship, and the administration of his Province in <hi rend="italic">Spain</hi>; his return to <hi rend="italic">Rome</hi>, his Conſulſhip, bis Marriage with <hi rend="italic">Calphurnia</hi>, his Government in <hi rend="italic">France</hi>, his feveral Arts and Stratagems, to confirm and increase his power his Archievements during the nine years he had the Command of that Province; the death of his Mother, bis Daughter, and his Grand-daughter.
+        </p>
+        <p>
+          His contrivance of New troubles; the advantage he made of the Publick confternation; his bounty and munificence to the people of <hi rend="italic">Rome</hi>, with the artifice he used to ingratiate with <hi rend="italic">Pompey</hi>, the Senate, the Citizens of all Orders, the Freed-men and Servants; but especially all Criminals, Prodigals, and persons in Debt, as also all Foreign Princes, and Governours of Provinces the endeavours of <hi rend="italic">M.</hi> and <hi rend="italic">Ca.</hi> <hi rend="italic">Marcellus</hi> to obstruct him, and the ways which <hi rend="italic">Cæfar</hi> took to defeat them.
+        </p>
+        <p>
+          The Civil War which <hi rend="italic">Cæfar</hi> commenced, his retirement into <hi rend="italic">Gallia Cifalpina</hi>, and bis rendezvous at <hi rend="italic">Ravenna</hi>; bis Declaration and Pretence: his begining of the War, and his paſſage over the <hi rend="italic">Rubicon</hi>; the Progress of his Affairs, the Loſſes he sustain'd by bis Lieutenants, his five Triumphs, his liberality to the Souldiers and People, the various Spectacles which he exhibited.
+        </p>
+        <p>
+          The state of the Commonwealth according to <hi rend="italic">Cæfars</hi> establishment; he corrects the Calendar, fills up the Senate, divides the Election of Magistrates with the people, and institutes many things <hi rend="italic">de novo</hi> in the
+        </p>
+        <fw type="catchword">Re</fw>
+        
+        <pb n="3" />
+        <fw type="header"><hi rend="italic">A Survey of the Twelve Cæfars.</hi></fw>
+        <p>
+          Republick; his Transmarine Colonies; his inventions fo Supply the City, which was almost exhausted his diligence, and feverity in the administration of Justice, his Designs for the Repairing and Adornment of the City, and his ways of Defending and Enlarging his Empire.
+        </p>
+        <p>
+          His Complexion, Habit, Mene, and Manners, as also his Inclinations in Civil and Military affairs; bis Stature, his form, his constitution, and curiosity about himself; bis habitation and neatness his manner of entertainments, and the discipline of his Family his modesty in some things, and his immodesty in others; his debauching of several honourable Ladies in the City, and several confiderable perſons in the Provinces, efpecially <hi rend="italic">Cleopatra</hi>; his abstemiousness, as to Wine, and his indifferency in his Diet; his Extortion in his Foreign Commands, and in his Civil Magiſtracies; his excellence in Rhetorick, and Eloquence, his Caution, and his Courage his Contempt of Religion, his custom in giving Battle, his Horse; bis remarkable constancy, and several instances of it: The Souldiers which he most approved, and the Military difcipline he observed, his indulgence and kindness towards them; and their devotion towards him; his comportment upon a Mutiny, his fidelity towards his Clients, bis affability towards his Friends; his lenity in point of revenge, his moderation and clemency, both in his Civil Administrations, and Viltories.
+        </p>
+        <p>
+          Of <hi rend="italic">Cæfars</hi> death; the actions and expreſſions for which he was Jupposed to be justly Slain; The publick Odium that was upon him; The number and Counsels of the Conspirators; The Prodigies which preſaged his death, his murder in the Senate, his Will open'd and read, his Funeral: The fury of the people against his Murderers, and their affection to <hi rend="italic">Cæfar</hi> : Several
+        </p>
+        <fw type="signature">A 4</fw>
+        
+        <pb n="4" />
+        <fw type="header"><hi rend="italic">A Survey of the Twelve Cæfars.</hi></fw>
+        <p>
+          Several Suppoſitions why <hi rend="italic">Cæfar</hi> neglected the Religious admonitions, and the advertisements of his Friends That he died according to his own Election, as to the manner of his death: His Age, bis Confecration, and the just Judgement upon his Murderers.
+        </p>
+      </div>
+
+      <div type="book" n="2">
+        <head>The SECOND BOOK, Being the LIFE of <hi rend="italic">Cafar Augustus</hi>.</head>
+        <head>The ARGUMENT.</head>
+        <p>
+          T HE Birth and Original of <hi rend="italic">Octavius Auguſtus</hi>; the Family of the <hi rend="italic">Octavii</hi>, and his Ancestors by the Fathers fide: a relation of his Father <hi rend="italic">Octavius</hi>, with his ſeveral Exploits: his death, bis Wives, bis Children, and <hi rend="italic">Augultus</hi> his Pedigree by the Mothers fide: the time and place of his Nativity: the place where he was brought up: bis ſeveral Names: a Summary of his life: a particular description and exposition of his affairs, as to his publick capacity: his return from <hi rend="italic">Apollonia</hi>: his contention with <hi rend="italic">M. Anthony</hi>: bis <hi rend="italic">Mutinenfian</hi>, <hi rend="italic">Philippenfian</hi>, and <hi rend="italic">Peruſine</hi> Wars: his Wars in <hi rend="italic">Sicily</hi> against <hi rend="italic">Sextus Pompeius</hi>: his Engagement near <hi rend="italic">Actium</hi>: his Foreign Wars, managed partly by himself, and partly by his Lieutenants: Conspiracies against him discovered and Suppress'd: the Provinces reduc'd by bis Conduct and Success: his inclination to peace: his reputation among the <hi rend="italic">Indians</hi>, <hi rend="italic">Scythians</hi>, and <hi rend="italic">Parthians</hi>: the Temple of }
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
