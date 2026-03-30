@@ -26,61 +26,213 @@
           <titlePart type="sub">UPON THE TWELVE CÆSARS.</titlePart>
         </docTitle>
       </titlePage>
-      
-      <div type="book" n="1">
-        <head>The FIRST BOOK, Being the LIFE of <hi rend="italic">Divus Julius Cæfar</hi>.</head>
-        <head>The ARGUMENT.</head>
-        <p>
-          <hi rend="dropcap">T</hi>HE privacy of his Condition for some time, after he had receiv'd his <hi rend="italic">Toga Virilis</hi>: Certain accidents which befell him when he was a young Man: his first taking up Armes, his progress in the Wars; his accusation of <hi rend="italic">Dolabella</hi>, and his retirement to <hi rend="italic">Rhodes</hi>; his being taken by Pirates at Sea his action against <hi rend="italic">Mithridates</hi>.
-        </p>
-        <fw type="signature">A 3</fw>
-        <fw type="catchword">His</fw>
-        <fw type="catchword">Marks</fw>
-        
-        <pb n="2" />
-        <fw type="pageNum">4</fw>
-        <fw type="header"><hi rend="italic">A Survey of the Twelve Cæfars.</hi></fw>
-        <p>
-          His Honours, and Magiſtracies, with his Deportment, andthe Accidents which befell him therein his being made first a Tribune of the Souldiers; his Quæſtorſhip in the farther part of <hi rend="italic">Spain</hi>; his return to <hi rend="italic">Rome</hi>, and the Suspicion he fell under; his Ædileſhip, and the Several paſſages thereof; his Prætorship, and the administration of his Province in <hi rend="italic">Spain</hi>; his return to <hi rend="italic">Rome</hi>, his Conſulſhip, bis Marriage with <hi rend="italic">Calphurnia</hi>, his Government in <hi rend="italic">France</hi>, his feveral Arts and Stratagems, to confirm and increase his power his Archievements during the nine years he had the Command of that Province; the death of his Mother, bis Daughter, and his Grand-daughter.
-        </p>
-        <p>
-          His contrivance of New troubles; the advantage he made of the Publick confternation; his bounty and munificence to the people of <hi rend="italic">Rome</hi>, with the artifice he used to ingratiate with <hi rend="italic">Pompey</hi>, the Senate, the Citizens of all Orders, the Freed-men and Servants; but especially all Criminals, Prodigals, and persons in Debt, as also all Foreign Princes, and Governours of Provinces the endeavours of <hi rend="italic">M.</hi> and <hi rend="italic">Ca.</hi> <hi rend="italic">Marcellus</hi> to obstruct him, and the ways which <hi rend="italic">Cæfar</hi> took to defeat them.
-        </p>
-        <p>
-          The Civil War which <hi rend="italic">Cæfar</hi> commenced, his retirement into <hi rend="italic">Gallia Cifalpina</hi>, and bis rendezvous at <hi rend="italic">Ravenna</hi>; bis Declaration and Pretence: his begining of the War, and his paſſage over the <hi rend="italic">Rubicon</hi>; the Progress of his Affairs, the Loſſes he sustain'd by bis Lieutenants, his five Triumphs, his liberality to the Souldiers and People, the various Spectacles which he exhibited.
-        </p>
-        <p>
-          The state of the Commonwealth according to <hi rend="italic">Cæfars</hi> establishment; he corrects the Calendar, fills up the Senate, divides the Election of Magistrates with the people, and institutes many things <hi rend="italic">de novo</hi> in the
-        </p>
-        <fw type="catchword">Re</fw>
-        
-        <pb n="3" />
-        <fw type="header"><hi rend="italic">A Survey of the Twelve Cæfars.</hi></fw>
-        <p>
-          Republick; his Transmarine Colonies; his inventions fo Supply the City, which was almost exhausted his diligence, and feverity in the administration of Justice, his Designs for the Repairing and Adornment of the City, and his ways of Defending and Enlarging his Empire.
-        </p>
-        <p>
-          His Complexion, Habit, Mene, and Manners, as also his Inclinations in Civil and Military affairs; bis Stature, his form, his constitution, and curiosity about himself; bis habitation and neatness his manner of entertainments, and the discipline of his Family his modesty in some things, and his immodesty in others; his debauching of several honourable Ladies in the City, and several confiderable perſons in the Provinces, efpecially <hi rend="italic">Cleopatra</hi>; his abstemiousness, as to Wine, and his indifferency in his Diet; his Extortion in his Foreign Commands, and in his Civil Magiſtracies; his excellence in Rhetorick, and Eloquence, his Caution, and his Courage his Contempt of Religion, his custom in giving Battle, his Horse; bis remarkable constancy, and several instances of it: The Souldiers which he most approved, and the Military difcipline he observed, his indulgence and kindness towards them; and their devotion towards him; his comportment upon a Mutiny, his fidelity towards his Clients, bis affability towards his Friends; his lenity in point of revenge, his moderation and clemency, both in his Civil Administrations, and Viltories.
-        </p>
-        <p>
-          Of <hi rend="italic">Cæfars</hi> death; the actions and expreſſions for which he was Jupposed to be justly Slain; The publick Odium that was upon him; The number and Counsels of the Conspirators; The Prodigies which preſaged his death, his murder in the Senate, his Will open'd and read, his Funeral: The fury of the people against his Murderers, and their affection to <hi rend="italic">Cæfar</hi> : Several
-        </p>
-        <fw type="signature">A 4</fw>
-        
-        <pb n="4" />
-        <fw type="header"><hi rend="italic">A Survey of the Twelve Cæfars.</hi></fw>
-        <p>
-          Several Suppoſitions why <hi rend="italic">Cæfar</hi> neglected the Religious admonitions, and the advertisements of his Friends That he died according to his own Election, as to the manner of his death: His Age, bis Confecration, and the just Judgement upon his Murderers.
-        </p>
-      </div>
+      <div type="front">
+  <head>
+    A SURVEY OF THE EIGHT BOOKS OF <persName rend="italic">Caius Suetonius Tranquillus</persName>, UPON THE TWELVE CÆSARS. 
+  </head>
+</div>
 
-      <div type="book" n="2">
-        <head>The SECOND BOOK, Being the LIFE of <hi rend="italic">Cafar Augustus</hi>.</head>
-        <head>The ARGUMENT.</head>
-        <p>
-          T HE Birth and Original of <hi rend="italic">Octavius Auguſtus</hi>; the Family of the <hi rend="italic">Octavii</hi>, and his Ancestors by the Fathers fide: a relation of his Father <hi rend="italic">Octavius</hi>, with his ſeveral Exploits: his death, bis Wives, bis Children, and <hi rend="italic">Augultus</hi> his Pedigree by the Mothers fide: the time and place of his Nativity: the place where he was brought up: bis ſeveral Names: a Summary of his life: a particular description and exposition of his affairs, as to his publick capacity: his return from <hi rend="italic">Apollonia</hi>: his contention with <hi rend="italic">M. Anthony</hi>: bis <hi rend="italic">Mutinenfian</hi>, <hi rend="italic">Philippenfian</hi>, and <hi rend="italic">Peruſine</hi> Wars: his Wars in <hi rend="italic">Sicily</hi> against <hi rend="italic">Sextus Pompeius</hi>: his Engagement near <hi rend="italic">Actium</hi>: his Foreign Wars, managed partly by himself, and partly by his Lieutenants: Conspiracies against him discovered and Suppress'd: the Provinces reduc'd by bis Conduct and Success: his inclination to peace: his reputation among the <hi rend="italic">Indians</hi>, <hi rend="italic">Scythians</hi>, and <hi rend="italic">Parthians</hi>: the Temple of }
-        </p>
-      </div>
+<div type="textpart" subtype="book" n="1">
+  <head>The FIRST BOOK, Being the LIFE of <persName rend="italic">Divus Julius Cæfar</persName>. </head>
+  
+  <div type="textpart" subtype="argument">
+    <head>The ARGUMENT. </head>
+    
+    <p>
+      THE privacy of his Condition for some time, after he had receiv'd his <foreign rend="italic">Toga Virilis</foreign>: Certain accidents which befell him when he was a young Man: his first taking up Armes, his progress in the Wars;  his accusation of <persName rend="italic">Dolabella</persName>, and his retirement to <placeName rend="italic">Rhodes</placeName>; his being taken by Pirates at Sea his action against <persName rend="italic">Mithridates</persName>. 
+    </p>
+
+    <p>
+      His Honours, and Magiſtracies, with his Deportment, and the Accidents which befell him therein his being made first a Tribune of the Souldiers;  his Quæſtorſhip in the farther part of <placeName rend="italic">Spain</placeName>; his return to <placeName rend="italic">Rome</placeName>, and the Suspicion he fell under;  his Ædileſhip, and the Several paſſages thereof; his Prætorship, and the administration of his Province in <placeName rend="italic">Spain</placeName>;  his return to <placeName rend="italic">Rome</placeName>, his Conſulſhip, his Marriage with <persName rend="italic">Calphurnia</persName>, his Government in <placeName rend="italic">France</placeName>, his feveral Arts and Stratagems, to confirm and increase his power his Atchievements during the nine years he had the Command of that Province;  the death of his Mother, his Daughter, and his Grand-daughter. 
+    </p>
+
+    <p>
+      His contrivance of New troubles; the advantage he made of the Publick conſternation;  his bounty and munificence to the people of <placeName rend="italic">Rome</placeName>, with the artifice he used to ingratiate with <persName rend="italic">Pompey</persName>, the Senate, the Citizens of all Orders, the Freed-men and Servants;  but especially all Criminals, Prodigals, and persons in Debt, as also all Foreign Princes, and Governours of Provinces the endeavours of <persName rend="italic">M.</persName> and <persName rend="italic">Ca. Marcellus</persName> to obstruct him, and the ways which <persName rend="italic">Cæfar</persName> took to defeat them. 
+    </p>
+
+    <p>
+      The Civil War which <persName rend="italic">Cæfar</persName> commenced, his retirement into <placeName rend="italic">Gallia Cifalpina</placeName>, and his rendezvous at <placeName rend="italic">Ravenna</placeName>;  his Declaration and Pretence: his begining of the War, and his paſſage over the <placeName rend="italic">Rubicon</placeName>;  the Progress of his Affairs, the Loſſes he sustain'd by his Lieutenants, his five Triumphs, his liberality to the Souldiers and People, the various Spectacles which he exhibited. 
+    </p>
+
+    <p>
+      The state of the Commonwealth according to <persName rend="italic">Cæfars</persName> establishment;  he corrects the Calendar, fills up the Senate, divides the Election of Magistrates with the people, and institutes many things de novo in the Republick  his Transmarine Colonies; his inventions to Supply the City, which was almost exhausted his diligence, and feverity in the administration of Justice, his Designs for the Repairing and Adornment of the City, and his ways of Defending and Enlarging his Empire. 
+    </p>
+
+    <p>
+      His Complexion, Habit, Mene, and Manners, as also his Inclinations in Civil and Military affairs;  his Stature, his form, his constitution, and curiosity about himself;  his habitation and neatness his manner of entertainments, and the discipline of his Family his modesty in some things, and his immodesty in others;  his debauching of several honourable Ladies in the City, and several confiderable perſons in the Provinces, efpecially <persName rend="italic">Cleopatra</persName>;  his abstemiousness, as to Wine, and his indifferency in his Diet;  his Extortion in his Foreign Commands, and in his Civil Magiſtracies;  his excellence in Rhetorick, and Eloquence, his Caution, and his Courage his Contempt of Religion, his custom in giving Battle, his Horse;  his remarkable constancy, and several instances of it: The Souldiers which he most approved, and the Military difcipline he observed, his indulgence and kindness towards them;  and their devotion towards him; his comportment upon a Mutiny, his fidelity towards his Clients, his affability towards his Friends;  his lenity in point of revenge, his moderation and clemency, both in his Civil Administrations, and Viltories. 
+    </p>
+
+    <p>
+      Of <persName rend="italic">Cæfars</persName> death; the actions and expreſſions for which he was Jupposed to be justly Slain;  The publick Odium that was upon him; The number and Counsels of the Conspirators;  The Prodigies which preſaged his death, his murder in the Senate, his Will open'd and read, his Funeral: The fury of the people against his Murderers, and their affection to <persName rend="italic">Cæfar</persName>:  Several Suppoſitions why <persName rend="italic">Cæfar</persName> neglected the Religious admonitions, and the advertisements of his Friends That he died according to his own Election, as to the manner of his death: His Age, his Confecration, and the just Judgement upon his Murderers. 
+    </p>
+  </div>
+</div>
+
+
+
+<div type="textpart" subtype="book" n="3">
+  <head>The THIRD BOOK, Being the LIFE of <persName rend="italic">Tiberius Cefar</persName>. </head>
+  
+  <div type="textpart" subtype="argument">
+    <head>The ARGUMENT. </head>
+    
+    <p>
+      OF the Origin and Ancestors of <persName rend="italic">Tiberius</persName>, of the family <persName rend="italic">Claudii</persName>, the variety of their Actions, some to the honour, others to the prejudice of the Commonwealth, of the Branch from whence <persName rend="italic">Tiberius</persName> was descended, of his Father, of <persName rend="italic">Tiberius</persName> whilft he was but a private perſon, the place and time of his Nativity, bis Infancy, Youth, Adolescence after he had afſum'd the Virile Robe, and his Marriages bis Pleadings upon feveral occaſions, his Sundry Expeditions in the Wars, his Retirement to <placeName rend="italic">Rhodes</placeName>, his defire to Return, bis Involuntary continuance at <placeName rend="italic">Rhodes</placeName>, his changing the Habit of the <persName rend="italic">Romans</persName>, and the Contempt be lived in whilst he was abroad.  His re-admiſſion after eight years absence. 
+    </p>
+
+    <p>
+      The preſages of his future greatness, bis private life upon his first coming hack, and bis Adoption afterwards.  The honours conferr'd upon him, his Tribunitial authority, his Command in the <placeName rend="italic">Illyrick</placeName> Wars, the Honours decreed him upon the Oonclufion of that War.  His Expedition into <placeName rend="italic">Germany</placeName> upon the defeat of <persName rend="italic">Varus</persName>.  His exact Discipline, his Triumph two years after hereturn'd.  The Provinces communi-cated betwixt him and <persName rend="italic">Auguſtus</persName>, his second design into <placeName rend="italic">Illyricum</placeName>, but he was called back as he was in his Journey, by the Indiſpoſition of <persName rend="italic">Auguſtus</persName>;  the Authors reasons why <persName rend="italic">Auguſtus</persName> left the Empire to <persName rend="italic">Tiberius</persName>: <persName rend="italic">Agrippa</persName> murder'd, his care of the Funeral and Confecration of <persName rend="italic">Auguſtus</persName>: <persName rend="italic">Tiberius</persName> poſſeſſes himself immediately of the Imperial Authority, and yet obſtinately refuses the avowing it a long while; 
+    </p>
+
+    <p>
+      the causes of his hesitation: his his extraordinary Civilities at his first entrance upon the Government: he discourages Flattery, he despises Calumny, his Humanity in Saluting all persons by their Names: The Shadow of Liberty which he introduc'd, and his deference to the Senate: his feverity which grew upon him by degrees, and gave evident tokens he was degenerating to Tyranny: Several instances of his Cruelty: his regulation of the Expences belonging to his Plays: his moderation in the Furniture of his House: his inhibition of daily Salutes and New years-gifts: He Suppreſſes all Foreign Ceremonies, expels Aftrologers, provides with great care for the security of the peace against Robberies and Seditions: be fuppreſſes ſome Hostile Commotions by his Lieutenants: be reduces ſuch Kings as were troublesome, or suspicions, and by what Arts: his Refidence in the City, and thereabouts, for some years after he was poffeffed of the Empire: bis departure from the City, and retirement to <placeName rend="italic">Capreæ</placeName>: his arrival At the City out of <placeName rend="italic">Campania</placeName>: his return into the Said Island, and his laying aside all care of the Commonwealth The Vices of <persName rend="italic">Tiberius</persName> diffembled a long time, break out at <placeName rend="italic">Capreæ</placeName>:  his propensity to Wine from bis Childhood; his invention for the accommodation of his private Lufts: his Parfimony, bis Extortion, bis Mother, Brother, Sons, their Wives, Children, Friends, and Familiars: his feverity to the <foreign rend="italic">Grecian</foreign> Philosophers belonging to his Court, Indications of the cruelty of his Nature: his feverity in Cafes of Treason, Libels dispersed of him: How detestable his life was, how subject to Terrors, and Affronts.  The opinion of Some who thought <persName rend="italic">Tiberius</persName> was ſenſible of the Ignominy which should befall him, long before it happen'd. 
+    </p>
+
+    <p>
+      His ftature and constitution. His contempt of Religion, his addictedness to the study of the Liberal Arts.  His Death, his defire to be brought to <placeName rend="italic">Rome</placeName>, his being carried about <placeName rend="italic">Campania</placeName> whilst he was ill.  He dyed in a Village belonging to <persName rend="italic">Lucullus</persName>. The Prodigies which preceded his Death, the joy of the People thereupon, and his last Will and Testament. 
+    </p>
+  </div>
+</div>
+
+<div type="textpart" subtype="book" n="4">
+  <head>The FOURTH BOOK, Being the LIFE of <persName rend="italic">Caius Cæfar Caligula</persName>. </head>
+  
+  <div type="textpart" subtype="argument">
+    <head>The ARGUMENT. </head>
+    
+    <p>
+      OF <persName rend="italic">Germanicus</persName> the Father of <persName rend="italic">Caius Cæfar</persName>, his Relations, Nature, and Adoption. The commands and actions of <persName rend="italic">Germanicus</persName>, his death at <placeName rend="italic">Antioch</placeName> in <placeName rend="italic">Syria</placeName>.  His honourable Character: The Univerſal love that was ſhow'd to him whilst he was living.  Expreſſions of the Same affection towards him, at, and after his death.  The Wife of <persName rend="italic">Germanicus</persName>, and the Children be had by her. Of <persName rend="italic">Caius Cæfar</persName> before he was Emperour.  Of his birth, the variety of Opinions, at what place, and the ſuppoſitions of <persName rend="italic">Gætulicus</persName> and <persName rend="italic">Plinius Secundus</persName> refell'd.  Why he was called <persName rend="italic">Caligula</persName> his Youth and Minority, his Reſidence with <persName rend="italic">Tiberius</persName> in <placeName rend="italic">Capreæ</placeName>.  Tokens of the perverſneſs and cruelty of his Nature. His Wife <persName rend="italic">Junia Claudilla</persName>. He attempts <persName rend="italic">Tiberius</persName> with poyfon.  Of <persName rend="italic">Caius Cæfar Caligula</persName> when he was Emperour, his good actions. 
+    </p>
+
+    <p>
+      The Univerſal joy at his arrival at the Empire, a hundred and fixty thouSand Sacrifices offer'd in the three first Months.  The will of <persName rend="italic">Tiberius</persName> made Void by the Senate and the People, and the whole power devolved upon <persName rend="italic">Caligula</persName>: A fit of sickness which befell him in the beginning of his Reign, and the admirable folicitude of all People for his Recovery.  His popularity, and certain performances of his own, in honour to <persName rend="italic">Tiberius</persName>, his Mother, Father and Brother.  His Confulship, his Munificence to the People, the Senate, and the Equestrian Order. His Plays, and Spectacles.  The publick works which he perfected, began, and deſigned. 
+    </p>
+
+    <p>
+      His Vices.  His Arrogance against the Gods, and Men his insolent expreſſions against his Relations: his incest with his own Sisters.  His marriages, how unworthily contracted, how wickedly continued, and how barbarously broken. His manner of behaviour towards his Friends.  His pride and violence against the Senate, Magistrates, and all Orders of the People. Tokens of his cruelty.  The inhumanity of his actions augmented, by the atrocity of his Expreſſions.  The same cruelty express'd both at his Feasts, and Plays. His Rancor and Malice against persons of all Ages.  His contempt of all Modesty, both in himself and others. His luxury and profufeness, his rapines. 
+    </p>
+
+    <p>
+      His Military Transactions, his ridiculons expedition into <placeName rend="italic">Germany</placeName>; The care and preparation for bis Triumph.  His design of cutting off certain of his own Legions. His cruelty both in word and action at his return.  His entrance into the City upon his Birth-day, by way of Ovation. His Statue, Form, Complexion, and Disease.  His great Confidence and Security, and (on the other ſide) his most Ridiculous Fear. His Cloaths, Shooes, and Habit.  To which of the Liberal Arts he was most vehemently inclined.  His Propensity to Arts of another Nature, his too much Favour for Juch Artists as he approved. 
+    </p>
+
+    <p>
+      Of the Murder of <persName rend="italic">Caius Cæfar Caligula</persName>; ſome former Conspiracies against him Discovered.  The last Conspiracy managed by <persName rend="italic">Caffius Chera</persName>: Presages of bis Death: his Tumultuary Funeral.  His Wife <persName rend="italic">Cæſoniæ</persName> run through, and his Daughters Brains dash'd out against a Wall. The Conditions of thoſe Times;  and Obfervations upon all the <persName rend="italic">Cæfars</persName> which were called <persName rend="italic">Caii</persName>. 
+    </p>
+  </div>
+</div>
+
+<div type="textpart" subtype="book" n="5">
+  <head>The FIFTН ВООК, Being the LIFE of <persName rend="italic">Tiberius Claudius Cæfar</persName>. </head>
+  
+  <div type="textpart" subtype="argument">
+    <head>The ARGUMENT. </head>
+    
+    <p>
+      OF <persName rend="italic">Claudius</persName> when he was a private person.  The Archievements, Death, and Honours decreed him afterwards. The Nativity and names of <persName rend="italic">Claudius</persName>, his Minority, his being despis'd by all People, by reason of his weakness both in body and mind.  The Judgment which was given on him by <persName rend="italic">Auguſtus</persName>. His life under <persName rend="italic">Tiberius</persName> and <persName rend="italic">Caius</persName>, and the contempt they had of him at that time.  Several Dangers to which he was expos'd. Of his Empire, and Actions therein.  The strange accident by which he arrived at the Government, in the fiftieth year of his age.  Having establish'd himself, the next thing he consulted, was the ſecurity of the People;  his Piety to <persName rend="italic">Auguſtus</persName>, <persName rend="italic">Livia</persName>, his Relations, <persName rend="italic">M. Anthony</persName>, his Brother, <persName rend="italic">Tiberius</persName>, and <persName rend="italic">Caius</persName>.  His Modesty in the Aggrandiſement of himself. The Love and Inclination of all People towards him. Conspiracies against him. 
+    </p>
+
+    <p>
+      His five Conſulſhips, his Affiduity, and modeation in adminiſtring Justice. His Inconstancy, and the variety of his Determinations.  His Censorship executed wish great inequality. His expedition into <placeName rend="italic">Britain</placeName>, his care of the City.  His Works, his Liberality in his Doles to the Peeple. The frequency and Magnificence of the Spectacles he exhibited.  Certain new Laws which he made, and establish'd in the Commonwealth, ſome about Ceremonies, ſome about Civil manners, Jome about Military affairs, and ſome about the State of all Orders, both at home and abroad. 
+    </p>
+
+    <p>
+      The more fecret and interieur Conversation of <persName rend="italic">Claudius</persName> in his own Family;  his Spouses and his Wives, his Children by three of them, and his behaviour towards his Servants.  His Form, and Imperfections. The manner of his Entertainments, his Appetite, his Sleep, his Inclination to Women, and Dice.  His cruel and sanguinary Nature, his Fear and Distrust, his Anger, bis Forgetfulness, and Incogitancy, both in his Actions and Discourse.  His study of History, and his Writings in that way.  His Affection to the study of <foreign rend="italic">Greek</foreign>, and some few Testimonies of bis perfection therein. Of the Death of <persName rend="italic">Claudius</persName>.  His remorse towards his latter end, for having Married <persName rend="italic">Agrippina</persName>, and adopted <persName rend="italic">Nero</persName>.  His Testament writ by himself, and figned by all the Magistrates.  He is prevented by <persName rend="italic">Agrippina</persName>, and poisoned, his Death, Funeral, Confecration, and certain Remarkable prefages of bis destructions. 
+    </p>
+  </div>
+</div>
+
+    <div type="textpart" subtype="book" n="6">
+  <head>The SIXTH BOOK, Being the LIFE of <persName rend="italic">Nero Claudius Cæfar</persName>. </head>
+  
+  <div type="textpart" subtype="argument">
+    <head>The ARGUMENT. </head>
+    
+    <p>
+      THE Original and Ancestors of <persName rend="italic">Nero</persName>; the Family of the <persName rend="italic">Domitii</persName>, the Family of the <persName rend="italic">Ænobarbi</persName>; the Great-Grandfather, Grandfather, and Father of <persName rend="italic">Nero</persName>.  His defcription before he was Emperour; his Birth, with the time and place, the prefages of his infelicity, his Childhood, and what remarkable things happen'd to him therein.  His Adoption by <persName rend="italic">Claudius</persName>, his Institution by <persName rend="italic">Seneca</persName>; he discovers the inhumanity of his Nature, the notable things which he performed, upon his admiſſion into the <placeName rend="italic">Forum</placeName>, when he was a young man.  His good actions after his arrival at the Empire he poſſest himself of the Government upon the death of <persName rend="italic">Claudius</persName>, his Piety in the Funeral of <persName rend="italic">Claudius</persName>;  the Honour he exhibited to the memorie of his Father, and his great respect to his Mother.  He reinforces <placeName rend="italic">Antium</placeName>, (where he was born) with fresh Colonies, and a new harbour which he made at a vast expence ſome actions and expreffions of his betokening a good Nature.  His Plays, and Spectacles, exhibited in ſeveral forts. <persName rend="italic">Tiridates</persName> entring into the City, is received with incredible Magnificence.  The Temple of <persName rend="italic">Janus</persName> shut up his four Confulships;  his methods in hearing of Causes, in examining, confulting, giving judgement, amd other parts of publick administration,  his inventions about Building; many thing reprehended, corrected, and innovated;  his two Expeditions into foreign parts, his Vices ant Disparagements. 
+    </p>
+
+    <p>
+      His extravagant inclination to Muſick, bis singing publickly in <placeName rend="italic">Rome</placeName> his affection to Horſes, and the driving of Chariots his journey into <placeName rend="italic">Achaia</placeName>, his ignominions oppoſing himself in allt Contests there.  Being return'd out of <placeName rend="italic">Greece</placeName>, he enters <placeName rend="italic">Naples</placeName>, his Chariot drawn with white horses. He enters <placeName rend="italic">Rome</placeName> with Triumphal Pomp.  Of <persName rend="italic">Nero</persName>'s Petulancy, his Luft, his Lavishness and Profusion his extravagance in Building his Covetousnes, and Extortion;  his ſeveral Parricides, as of <persName rend="italic">Claudius Britannicus</persName>, his own Mother, and his own Wives;  his Murders of Sundry other persons, either allied to bim by Confanguinity, or Marriage, his cruelty to others.  He obſerved no rules, nor moderationin his Executions. He burnt the City, under pretence of his dislike of the Buildings, and narrowness of the Streets.  The misfortunes in his Reign, as a great Plague, and a Defeat in <placeName rend="italic">Brittain</placeName>;  his patience, and unconcernment in bearing of Reproach; his declension; the defection in <placeName rend="italic">France</placeName> under the Conduct of <persName rend="italic">Vindex</persName>. 
+    </p>
+
+    <p>
+      He is supported by vain and idle hopes from his Astrologers and others;  his deportment upon the news of that revolt, when he was at <placeName rend="italic">Naples</placeName> he writes to the Senate, and begins to be alarm'd , he returns to <placeName rend="italic">Rome</placeName> in great Confternation;  he is dejected upon intelligence of the revolt of <persName rend="italic">Galba</persName> in <placeName rend="italic">Spain</placeName>, and yet continues his Luxury, and ſloth.  His designs how vast in some things, how impertinent in others.  The ridiculousness, and ſeverity of his preparation for his journey into <placeName rend="italic">Gaul</placeName>;  the envy he contracted by an unexpected accident. He is terryfied by his Dreams, his Auspices, and ſeveral other Omens.  Understanding the rest of his Armies had deserted him, he meditates his Escape but layirg that by again, be deliberates upon Several other Expedients, At length he leaves the City, and retires privately to a Country house of <persName rend="italic">Phaon</persName> one of his Free-men, where, after long trepidation he kills himself to avoid the inſolences impending.  His Funeral, his Stature, and inclination, his Habit his Studies, his Popularity, and Emulation of all such as were in any favour with the People.  His defire of perpetuating his Name his obstinacy in the contempt of all forts of Religion;  his Death, and how it was generally received. 
+    </p>
+  </div>
+</div>
+
+<div type="textpart" subtype="book" n="7">
+  <head>The SEVENTH BOOK, Being the LIFE of <persName rend="italic">Servius Sulpicius Galba</persName>. </head>
+  
+  <div type="textpart" subtype="argument">
+    <head>The ARGUMENT. </head>
+    
+    <p>
+      THE Progeny of the <persName rend="italic">Cæfars</persName> extinguish'd in <persName rend="italic">Nero</persName> which was intimated before by several Preſages.  <persName rend="italic">Galba</persName>'s extraction who fucceeded <persName rend="italic">Nero</persName>, The Elogium of his Family, <persName rend="italic">Galba</persName>'s Father, Wives and Children.  His birth, his Pranomen, Nomen, and Cognomen: The Omens of his future Authority.  His reviving an old custome about his Servants and Freemen.  His studies, his Wives and his particular obfervance for <persName rend="italic">Livia Auguſta</persName>.  The honourable commands which he exercis'd both at home and abroad. His condition under <persName rend="italic">Claudius</persName>; his adminiſtration in <placeName rend="italic">Africa</placeName>;  be is presented with the triumphal ornaments and three facerdotal dignities: his recess almost to the middle of <persName rend="italic">Nero</persName>'s Empire: He is made Governour of <placeName rend="italic">Hifpania Tarraconenfis</placeName>, where he receives hopes of his future Dominion, he Govern'd that Province eight years, but with much inequality.  Being folicited by <persName rend="italic">Vindex</persName> to revolt, he accepts the Overture.  He is faluted Emperour, ſtiles himself the Lieutenant of the Senate and People, and began to act as Soveraign at first the Gods were propitions, but by degrees all his Counſels are disturbed.  <persName rend="italic">Nero</persName> being kill'd, having deposited the Title of Lieutenant, he affumes the appellation of <persName rend="italic">Cæfar</persName>, and begins his journey for <placeName rend="italic">Rome</placeName>;  His Entrance into the City ungrateful, by reason of reports which were spread abroad of his great Cruelty and Avarice.  His Administration of the Empire;  what things he did well, and what otherwise. All perSons difſſatisfied, especially the Souldiers.  The Army in the upper <placeName rend="italic">Germany</placeName>, the first that revolts: He thinks to appease them, by his adoption of <persName rend="italic">Pifo</persName>;  but gives <persName rend="italic">Otho</persName> opportunity thereby to perfect his designs: feveral things which portended his ruine.  The particulars of his death: his last words: he is deserted by every body: abused by his Enemies when he was dead.  His Funeral; a description of his Age, Stature, and Manners, with a relation of the honours decreed to him after his death. 
+    </p>
+  </div>
+</div>
+
+<div type="textpart" subtype="life" n="Otho">
+  <head>The LIFE of <persName rend="italic">Marcus Salvius Otho</persName>. </head>
+  
+  <div type="textpart" subtype="argument">
+    <head>The ARGUMENT. </head>
+    
+    <p>
+      THE Ancestors of <persName rend="italic">Otho</persName>, his Father, bis Birth, Youth; his favour with <persName rend="italic">Nero</persName>, for whom keeps <persName rend="italic">Poppæa Sabina</persName>, who was taken from her husband, but debauches her, upon which account he was fent away Legat into <placeName rend="italic">Spain</placeName>: Having opportunity of Revenge, he joins himself with <persName rend="italic">Galba</persName>: He conceives hopes of the Empire, and by his ambition, and bounty, prepares his way to it.  <persName rend="italic">Piſo</persName> being adopted by <persName rend="italic">Galba</persName>, he enters upon bis deſignes, by the help of a sum of Money he had received, and the afſſiſtance of five Halbertiers which belong'd to the Emperours Guards.  The Order of the tranfaction to the killing of <persName rend="italic">Galba</persName>, and pofSeſſing himself of the Empire.  His demeanor at the beginning of his Empire: he is affrighted by <persName rend="italic">Galba</persName>'s Ghost.  The Commencement of the Wars of <persName rend="italic">Vitellius</persName>. <persName rend="italic">Otho</persName> defires an accommodation :  The fidelity of his Pratorian Cohorts, his Expedition unadvis'd and unhappy, he prevails in three Battles, is overcome in a following one, and refolves to make himself away, his reasons for that reſolution.  His Death, his Description, and the General Lamentation that was made for him afterwards. 
+    </p>
+  </div>
+</div>
+
+<div type="textpart" subtype="life" n="Vitellius">
+  <head>The LIFE of <persName rend="italic">Aulus Vitellius</persName>. </head>
+  
+  <div type="textpart" subtype="argument">
+    <head>The ARGUMENT. </head>
+    
+    <p>
+      SEveral Opinions about the Original of the <persName rend="italic">Vitellii</persName>, of the Emperours Grandfather <persName rend="italic">P. Vitellius</persName>, end of his Sons <persName rend="italic">Aulus</persName>, <persName rend="italic">Quintus</persName>, <persName rend="italic">Publius</persName>, and <persName rend="italic">Lucius</persName>.  The birth, infancy, and youth of <persName rend="italic">Vitellius</persName> the Emperour: His condition during the ſoveraignty of <persName rend="italic">Caius</persName>, <persName rend="italic">Claudius</persName> and <persName rend="italic">Nero</persName>: The honourable offices which he enjoyed, but exercis'd with different reputation: His Wives and Children, his being fent <persName rend="italic">Galba</persName>'s Lieutenant into the lower <placeName rend="italic">Germany</placeName>.  His poverty and indigence at that time. His welcome to the Army, which was then dispos'd to new troubles: being received into the Camp, he ingratiates with the Souldiers in ſuch manner, he is faluted Emperour.  His actions and expreſſions as he was upon his journey out of <placeName rend="italic">Germany</placeName> to <placeName rend="italic">Rome</placeName>.  His entrance into the City The dishonourable commencement of his reign.  He is govern'd himself, and orders all things by the directions of inconfiderable perſons especially one of his <placeName rend="italic">African</placeName> Freemen.  His great stomach and his fordid evacuation: his cruelty inſtanced in ſeveral executions, and tortures.  His Army revolts within eight Months. He attempts to preserve his Empire.  He endeavours to accommodate the differences, but in vain, his reputation in <placeName rend="italic">Rome</placeName>, when the Enemy approach'd: he is taken by their forlorn, and ſlain by them with great infolence, and contempt.  The Presages of his death. 
+    </p>
+  </div>
+</div>
+
+<div type="textpart" subtype="book" n="8">
+  <head>The EIGHTH BOOK, Being the LIFE of <persName rend="italic">Titus Flavius Vefpafianus</persName>. </head>
+  
+  <div type="textpart" subtype="argument">
+    <head>The ARGUMENT. </head>
+    
+    <p>
+      OF the Family of the <persName rend="italic">Flavii</persName>;  of the Grandfather, and Father of <persName rend="italic">Vefpafian</persName>, the honourable ployments which he bore bis Wife, Children, and Concubine, his condition under <persName rend="italic">Claudius</persName>, and his Exploits in bis Wars, his imployments under <persName rend="italic">Nero</persName>;  his Command in the Wars against the Jews: <persName rend="italic">Otho</persName> and <persName rend="italic">Vitellius</persName> being in contest for the Empire, he conceives hopes of carrying it from them both, upon remembrance of certain old Prodigies part of the <placeName rend="italic">Mæſian</placeName> Army proclaims him Emperour at <placeName rend="italic">Aquileia</placeName>;  <persName rend="italic">Tiberius Alexander</persName> having the Command of the Forces in <placeName rend="italic">Alexandria</placeName>, declares for him, and afterwards the Army in <placeName rend="italic">Judea</placeName>: His beginnings encouraged by feveral accidents: He comes to <placeName rend="italic">Alexandria</placeName>, where his hopes are confirmed de novo: Receiving the news of the death of <persName rend="italic">Vitellius</persName>, he takes the Empire upon him, and makes himself the more venerable by certain Miracles which he perform'd: <persName rend="italic">Vefpafian</persName> returns to <placeName rend="italic">Rome</placeName>;  he take upon him the Cenforſhip, and establishes the Commonwealth: Having repair'd ſeveral old publick Works, and erected feveral new, he added great beauty to the City: He purges the Senate, and Equestrian Order, and puts better men in their places: He regulates his Laws, restrains Luxury, and Luft: His Civility and Clemency;  his great greediness after Money, yet whatever he came by illegally, he diſpos'd of to the publick advantage: His bounty to all people the infamy conceiv'd against him, upon his former Covetousness: His Stature, health, way he preferv'dit: His raillery, and jeering: His disease, death, and the fore-knowledge he had of his own fate, and his Families. 
+    </p>
+  </div>
+</div>
+
+<div type="textpart" subtype="life" n="Titus">
+  <head>The LIFE of <persName rend="italic">Titus Flavius Vespasianus Augustus</persName>. </head>
+  
+  <div type="textpart" subtype="argument">
+    <head>The ARGUMENT. </head>
+    
+    <p>
+      HIS Birth, and Education, the Empire promis'd him by Metoposcopy; the endowments both of his body and mind;  bis Military education, his pleading at the Bar in Causes of extraordinary importance;  his Wives and Children: Having the Command of a Legion in the Wars against the Jews, he behaves himself with great Courage and Gallantry.  Being sent by his Father to congratulate <persName rend="italic">Galba</persName>, upon his advancement to the Empire, hearing of the new Commotions, he returns back to him upon his journey, who Conquers <placeName rend="italic">Judea</placeName>, and is faluted Emperour: He is suspected to have run from his Father but he returns to <placeName rend="italic">Rome</placeName>, takes off all fufpicions that were upon him, and behaves himself as a true Protector of the people: He takes upon himself the care of all Offices, particularly the StewardShip of his Fathers Palace, which was never executed before by any above a <placeName rend="italic">Roman</placeName> Knight.  He was afpers'd with being Cruel, Luxuriou, Libidinous, and Rapacious but at his coming to the Crown, he diſpell'd those Suspicions easily.  His wonderful bounty to all forts of people: The misfortunes and disasters which fell out in his time, he remedied by his benignity: He took upon himself the High Priesthood, that he might keep his hands and his faith pure and immaculate: His death, and compunction for one action only: The time, and place where he died, and the general and inexpreſſible Jadness through the whole City. 
+    </p>
+  </div>
+</div>
+
+<div type="textpart" subtype="life" n="Domitian">
+  <head>The LIFE of <persName rend="italic">Titus Flavius Domitianus</persName>. </head>
+  
+  <div type="textpart" subtype="argument">
+    <head>The ARGUMENT. </head>
+    
+    <p>
+      WHen, and where he was born how he demeaned himself in his youth his Conduct in the Wars of <persName rend="italic">Vitellius</persName>;  he is faluted by the name of <persName rend="italic">Cæfar</persName>, andunder pretence of his Pratorship of the City, exercises Soveraign Authority in the absence of his Father: He undertakes an Expedition into <placeName rend="italic">France</placeName> and <placeName rend="italic">Germany</placeName>, in emulation of his Brother;  he pretends to modesty, and the study of Poetry he attends all occafions of making himself absolute;  his deportment towards his Brother, after his Fathers death, his conſtant retirement for an hour every day;  bis Wife <persName rend="italic">Domitia</persName>; how he carried himself in his publick administrations;  the magnificent and ſumptuous Spectacles which he exhibited to the peop'e;  be restores the Plays exhibited formerly by the Quastors, and is present at them constantly himself;  he institutes to <persName rend="italic">Jupiter Capitolinus</persName> certain Contentions in wrestling, Musick, Oratory, Poetry, &amp;c.  His liberality to the people, the Senate, and the Equestrian Order;  the Buildings which he repaired or erelted, his Expeditions partly spontaneous, and partly of neceffity;  his Victory over <persName rend="italic">Antonius Primus</persName>, known at <placeName rend="italic">Rome</placeName> by certain preſages, before any intelligence could be brought.  Many things innovated by him for the common advantage; his method in judicial affairs he restrains the Exorbitances of the City Magistrates, and the Presidents of Provinces: Having affum'd the Censorship, be executes it with great feverity:  At first he was gentle and merciful, but afterwards degenerated, and became cruel, and by degrees avaritious, and full of all manner of Extortion: His Barbarity, Confidence, and Arrogance: His Friends, his Servants, and his Wife confpire against him: His anxiety and disquiet upon his fore-knowledge of the year, day, aud hour he should dye: His caution to evade bis destruction, haſtens it: Several Prodigies which preſaged his death: The terrour which was upon him, about the time of bis fatality: The manner of the Confpiracy, and his Murder: The time in which he was flain: his Funeral, his ſtature, the modesty of his Countenance, his Baldness, his Manners and Studies;  his libidinous exceſſes his death, how reſented by the Souldiers, Senate, and People.  Predictions of future felicity after the death of <persName rend="italic">Domitian</persName>. 
+    </p>
+  </div>
+</div>
     </body>
   </text>
 </TEI>
