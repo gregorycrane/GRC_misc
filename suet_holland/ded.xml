@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The historie of tvvelve Cæsars emperours of Rome: written in Latine by C. Suetonius Tranquillus, and newly translated into English. With a marginall glosse, and other briefe annotations there-upon.</title>
+            <title>De vita Caesarum. English</title>
+            <author>Suetonius, ca. 69-ca. 122.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1606</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 1408 KB of XML-encoded text transcribed from 172 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2005-03">2005-03 (EEBO-TCP Phase 1).</date>
+            <idno type="DLPS">A13126</idno>
+            <idno type="STC">STC 23422</idno>
+            <idno type="STC">ESTC S103242</idno>
+            <idno type="EEBO-CITATION">99838999</idno>
+            <idno type="PROQUEST">99838999</idno>
+            <idno type="VID">3392</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Creative
+	       Commons 0 1.0 Universal</ref>. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 1, no. A13126)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 3392)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1221:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The historie of tvvelve Cæsars emperours of Rome: written in Latine by C. Suetonius Tranquillus, and newly translated into English. With a marginall glosse, and other briefe annotations there-upon.</title>
+                  <title>De vita Caesarum. English</title>
+                  <author>Suetonius, ca. 69-ca. 122.</author>
+                  <author>Holland, Philemon, 1552-1637. aut</author>
+               </titleStmt>
+               <extent>[32], 272, 39, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by H. Lownes and G. Snowdon] for Matthew Lownes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1606.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printers' and translator's names from STC.</note>
+                  <note>Printer's device (McKerrow 316) on title page.</note>
+                  <note>Letterpress title page only, omitting Holland's name. Snowdon printed the prelims., indexes, and annotations; H. Lownes the rest--STC.</note>
+                  <note>A translation, by Philemon Holland, of Suetonius' De vita Caesarum.</note>
+                  <note>"Annotations vpon C. Iulius Cæsar, dictator" has caption title and separate register.</note>
+                  <note>Some print faded, and some pages stained.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Emperors --  Rome --  Early works to 1800.</term>
+               <term>Rome --  History --  Empire, 30 B.C.-284 A.D. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2003-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2003-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2004-12</date>
+            <label>Ben Griffin</label>Sampled and proofread</change>
+         <change>
+            <date>2004-12</date>
+            <label>Ben Griffin</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2005-01</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         
+         <div type="dedication">
+            <pb facs="tcp:3392:1" rendition="simple:additions"/>
+            <pb facs="tcp:3392:1"/>
+            <head>TO THE RIGHT HONO<g ref="char:EOLhyphen"/>RABLE AND VERTVOVS <hi>LA<g ref="char:EOLhyphen"/>DIE, THE LADIE HARINGTON.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">M</seg>ADAME, the late pestilence in <hi>Couentrie,</hi> which occasioned my translation &amp;c. of this Hi<g ref="char:EOLhyphen"/>storie, moved me also, in part, to addresse the same unto your Honour.</p>
+            <p>For being altogether restrained then, from free practise of my profession abroad, &amp; no lesse impatient of idle<g ref="char:EOLhyphen"/>nesse at home, I could not readily thinke of a better course to spend that vacation, than in an Argument having a reference to mine old Grammaticall Muses, and according, in some sort, with my latter studies in Physick. What howres therfore, either the doubt<g ref="char:EOLhyphen"/>ful or diseased estate of my neighbours, together with the meditati<g ref="char:EOLhyphen"/>ons of mine owne mortalitie would afford, I employed gladly in the said Subiect.</p>
+            <p>Againe, for as much as the selfe same cause debarred me from accesse unto your house at <hi>Combe</hi> (a dutie that otherwise the vi<g ref="char:EOLhyphen"/>cinitie of our aboad did require) I fully resolued at the finishing of those my Sedentary labours, to prese<g ref="char:cmbAbbrStroke">̄</g>t the same to your view: therby to sheild my selfe (whom it pleased you before time to grace with kind entertainme<g ref="char:cmbAbbrStroke">̄</g>t) from the iust imputation of rude negligence in that behalfe. But now, since the same citie so dangerous the yeare before, is become a retyring place of safety for your Houshold, &amp; hath to mee alreadie yeelded fit opportunitie to excuse my former absence personally by word of mouth, I have presumed nevertheles to dedicate the same unto your Honour, as a token of my thankeful<g ref="char:EOLhyphen"/>nesse for your bounteous favour, farre above the proportion of my
+<pb facs="tcp:3392:2"/>
+deserts, and an earnest penny of that propense minde, which I carie to honour your name, in the best maner I could deuise.</p>
+            <p>And verily calling to my remembrance how courteously you have vouchsafed heretofore to accept even at second hand my trauailes in this kinde, and with good words testified oftentimes the content<g ref="char:EOLhyphen"/>ment you received therin, I had no reason to doubt the like accep<g ref="char:EOLhyphen"/>tance of that which out of a loving and devote heart I offer first unto your selfe.</p>
+            <p>Lastly, when I consider, how together with sincere pietie, rare wisdome, and other eminent vertues, there is seated in your person a singular affection to advance good literature, with an extraordi<g ref="char:EOLhyphen"/>narie respect of learned men, I knew no means out of my small fortunes to do you greater honour, than by entituling you as Patro<g ref="char:EOLhyphen"/>nesse of that, which may benefit young Scholers, my countrimen, that would be learned: to give knowledge unto the word, that all the profit or pleasure whatsoever, which shall grow unto them, from these endeavours of mine, are derived immediatly from you and for your sake bestowed upon them.</p>
+            <p>These motives, right Honorable, as well of my first enterprise, as of chusing your Patronage, if it please you to approue, (the onely thing that I humbly crave at your hand for this present) <hi>I</hi> shall not only thinke my pains well taken and choise as well made: prising your acceptance to the worth of a competent guerdon: but also con<g ref="char:EOLhyphen"/>tinue my hearty prayers unto the Almightie for your perfect health, proceeding in a vertuous course of life, with increase of true Honour here upon earth, and after the revolution of many new yeares, for eternall happinesse in the highest Heaven.</p>
+            <closer>
+               <signed>Your Honours most readie at command, Philêmon Holland.</signed>
+            </closer>
+         </div>
+
+         <div type="to_the_reader">
+            <pb facs="tcp:3392:2"/>
+            <head>To the Readers.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HAT yee may with better contentment reade these Historicall reports of the twelve first CEASARS, which SVETONIVS hath de<g ref="char:EOLhyphen"/>livered most truely, compiled as compendiously, and digested right methodically; I have thought it good with some few advertisments praemised, to commend the same unto you.</p>
+            <p>First therefore, whereas by the iudgement of the best learned, and the Analogie of other Histories, hee seemeth to affect nothing so much as uncorrupt &amp; plaine trueth, (the prin<g ref="char:EOLhyphen"/>cipall vertue of an Historiographer) forbearing to meddle with those <note n="*" place="margin">Nerva, Traianus, and Hadri<g ref="char:EOLhyphen"/>anus whose secretarie he was.</note> Emperours in whose daies he flourished; because he would not thrust himselfe into danger by revea<g ref="char:EOLhyphen"/>ling, nor betray the libertie of a writer in concealing the faults; much lesse incurre the note of Flatterie, extolling above measure the good parts of Princes then living; and to that purpose penned their lives, who were lately deceased, as one said very well, <hi>eadem libertate qua ipsi vixerunt:</hi> if happlie in prosecuting of this point, he hath recorded ought that may be offensive to chast and modest mindes, yee shal do well to glaunce over with your eye such places lightly, as I with my pen touched vnwillingly.</p>
+            <p>Secondly, for as much as he continueth in generall the Narrations of the said Princes, from before their Nativitie unto their Death &amp; Funerals: and in the severall discourses, of their ages, affaires, vertues, vices, feature &amp; lineaments of bodie, first, after an uniform maner, proposeth throughout certain heads summarily, and then exemplyfieth the same in due order by perticulers (a most lightsome method and way of teaching) keeping him selfe still to the Subiect matter, without any digressions at all: my advise is, that for your more expedite course in reading the whole, yee direct your minde thereunto. Now, for that his IVLIVS CHASAR sorteth not with the rest, but appeareth <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as whose aun<g ref="char:EOLhyphen"/>cestours, birth, childhoode, &amp;c. be not set downe; (which maime I impute rather to the iniurie of time, than unto the purpose or oversight of the Authour) I have in some sort supplyed that defect, with the labours of LEVVIS VIVES, TORRENTIVS and others, which I finde praefixed in the last and best Editions.</p>
+            <p>Thirdly, considering that brevitie is many times the mother of Obscuritie, may it please those among you, who are not so conuersant in such concise writings, as admit not one word superfluous, to have recourse, for the clearing of some doubts unto the margin, as also to those briefe Annotations, which for their sakes, out of mine owne readings, to<g ref="char:EOLhyphen"/>gether with the select observations of BEROALDVS, SABELLICVS, TORRENTIVS and CASAVBONVS I have collected. Which also will ease them of many difficulties that his succinct style and termes, nor elswhere obvious, interlaced, may otherwise breed.</p>
+            <p>Finally, if there happen to occur some Errata, that might escape either my pen in wri<g ref="char:EOLhyphen"/>ting, or the ordinarie dilige<g ref="char:cmbAbbrStroke">̄</g>ce of meane Correctors in the printing ye will of your iudi<g ref="char:EOLhyphen"/>cious candour, I hope, either passe them over with connivency, if they be literall, or else taxe with some easie censure in case they bee materiall: So long as for your full satis<g ref="char:EOLhyphen"/>faction, ye may with small paines before yee begin either to read or iudge, correct what is amisse, according to the Examen and Review annexed to the end of all.</p>
+            <closer>Farewell.</closer>
+         </div>
+<div type="supplement">
+            <pb facs="tcp:3392:3"/>
+            <pb facs="tcp:3392:3"/>
+            <head>A SVPPLEMENT TO THE BEGINNING OF C. IVLIVS CEASAR DICTATOR.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE <hi>IVLIAN</hi> linage, as most men are perswaded, is descended from <hi>Ascanius Iülus,</hi> the sonne of <hi>Aeneas</hi> by <hi>Creusa:</hi> which <hi>Iülus,</hi> after he had left <hi>Lavinium,</hi> built long <hi>Alba:</hi> wherein also he reigned. Others, grounding vpon a more assured evidence, have thought it good to de<g ref="char:EOLhyphen"/>rive the same rather from <hi>Iülus</hi> the son of <hi>Ascanius.</hi> For when after the death of (this) <hi>Ascanius<g ref="char:punc">▪</g>
+               </hi> the Kingdome of the Latines was devol<g ref="char:EOLhyphen"/>ved<note n="*" place="margin">or retur<g ref="char:EOLhyphen"/>ned unto</note> againe upon <hi>Sylvius</hi> the sonne of <hi>Aeneas</hi> and <hi>Lavinia,</hi> the charge of Religion &amp; sacred ceremonies of the Latin and Troian Nation both, remained yet still in the race and progenie of <hi>Iülus:</hi> out of which are sprung the Iulij. These (Iulij) with certaine other most noble families of <hi>Latium, Tullus Hosti<g ref="char:EOLhyphen"/>lius</hi> King of the Romanes, after he had rased <hi>Alba,</hi> translated to Rome, and raunged among the <corr>Nobilitie,</corr>[cite: 7]. <corr>Late it</corr> was, <corr>e</corr>re they rose and mounted to high place of Magistracie; but were recko<g ref="char:EOLhyphen"/>ned almost in the last ranke of the <corr>Patritians</corr> [cite: 8] of auncient Nobilitie: &amp; of them, the <hi>Iüli</hi> <corr>b</corr>are the <corr>principall name.</corr> [cite: 8] For <hi>C. Iulius,</hi> (sonne of <hi>Lucius</hi>) surnamed also <hi>Iülus,</hi> was Consull together with <hi>P. <corr>Pinarius</corr> <corr>Mamercinus</corr></hi> [cite: 9] <hi>Rufus,</hi> in the yeare after the foundation of <hi>Rome</hi> citie<note n="*" place="margin">or rather 265, accor<g ref="char:EOLhyphen"/>ding to the Chronolo<g ref="char:EOLhyphen"/>gy annexed unto Titus Livius.</note> 264. And<note n="*" place="margin">By the computati<g ref="char:EOLhyphen"/>on of Dio<g ref="char:EOLhyphen"/>nyfius, T. Livius, Cas<g ref="char:EOLhyphen"/>siodorus &amp; others.</note> seaven yeeres after,<note n="*" place="margin">C. Iulius, or Iu<g ref="char:cmbAbbrStroke">̄</g>lus.</note> his sonne, with <hi>Q. Fabius Vibulanus</hi> (Consull) the second time. Againe, some space of time comming betweene, <hi>Vopiscus Iulius,</hi> sonne of <hi>Caius</hi> and Nephew of <hi>Lucius,</hi> bare the Consulshippe with <hi>L. Aemilius<note n="*" place="margin">al. Ma<g ref="char:EOLhyphen"/>mercus</note> Mamercinus</hi> third time Consull, in the yeere<note n="*" place="margin">or 28<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, af<g ref="char:EOLhyphen"/>ter the Chro<g ref="char:EOLhyphen"/>nologie a<g ref="char:EOLhyphen"/>foresaid of Dionyfius.</note> 280. I finde likewise, that in the yeere<note n="*" place="margin">more tru<g ref="char:EOLhyphen"/>ly 303</note> 302. <hi>Caius Iulius,</hi> sonne of <hi>Caius,</hi> and nephew of <hi>Lucius,</hi> was a decemvir for the enacting and <corr>penning</corr> [cite: 10] of Lawes, and that in the former Ele<g ref="char:EOLhyphen"/>ction of that Magistracie: as also, that <hi>Caius Iulius</hi> sonne of <hi>Caius</hi> and Nephew of <hi>Caius,</hi> be<g ref="char:EOLhyphen"/>came Consull with <hi>Marcus Geganius Macerinus,</hi> in the yeare<note n="*" place="margin">307, by Livius ac<g ref="char:EOLhyphen"/><corr>cou..ap</corr> [cite: 16]</note> 306. and the selfe same man a second time, with <hi>Lucius Verginius Trirostus</hi> in the yeere<note n="*" place="margin">319. 320. 4<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>7</note> 318: and immediately in the<note n="*" place="margin">So <corr>surna</corr><g ref="char:EOLhyphen"/>med. [cite: 21]</note> yeere next following, a third time, with the same <hi>Verginius</hi> now twice Consull. And thus much for the <hi>Iu<g ref="char:cmbAbbrStroke">̄</g>li.</hi> For to reherse and collect all them of that familie, together with the honorable places of everie one, which were many in number, and of sundry kindes; is not our purpose: and besides, the thing it selfe is apparent and upon record in the publick Registers.</p>
+            <p>Moreover, I have observed in the <hi>Iulian</hi> line, a certaine house also of the <hi>Mentones:</hi> and among them, one <hi>Caius Iulius,</hi> colleague in the Consulshippe with <hi>T. Quint<corr>u</corr>s Pennus Cincin<g ref="char:EOLhyphen"/>natus,</hi> [cite: 15] in the 322. yeere after the foundation of the citie. I finde likewise, <hi>Caius Iulius Denter</hi> to be master of the Horsemen, when <hi>Caius Claudius Cr<corr>a</corr>ssus Sabinus Regillensis</hi> [cite: 15] was Dictator, for to hold their solemne assembly of Election, in the yeare 405. There were besides of these Iulij, others going vnder the name of <hi>Libones:</hi> and of the same race one triumphed; to wit, <hi>Lucius Iulius,</hi> sonne of <hi>Lucius</hi> and nephew of <hi>Lucius;</hi> companion in the Consulate which <hi>Marcus Attili<g ref="char:EOLhyphen"/>us Regulus,</hi> in the yeere<note n="*" place="margin">H<corr>aply</corr> Pomp<corr>tina</corr> 2<corr>4</corr> of the tribe Pomptin<corr>a.</corr> [cite: 21]</note> 486. But, as touching <hi>Caius Iulius</hi> sonne of <hi>Lucius,</hi> and surnamed <hi>Caesar <corr>Strabo</corr>,</hi> [cite: 16] whom <hi>Suetonius</hi> also ment in the 55. chapter of <hi>Iulius Caesar,</hi> and <hi>Cicero</hi> prai<g ref="char:EOLhyphen"/>seth in his <hi>Brutus,</hi> and in the second booke of his Oratour, I doubt, whether this addition (<hi>Stra<g ref="char:EOLhyphen"/>bo,</hi>) should not be taken as a by-name. For, otherwise there is in our <corr>h</corr>ands [cite: 17] a peece of siluer coine, with the inscription of <hi>Lucius Iulius,</hi> sonne of <hi>Lucius,</hi> and surnamed <hi>Strabo.</hi> The Epi<g ref="char:EOLhyphen"/>gramme of the former is extant among the Antiquities of <hi>Rome</hi> citie, in this maner.</p>
+            <p>
+               <q>C. Iulius, L. F. Caesar Strabo, AEd. Cur. Q. Trib. Mil. Bis XVIR. AGR. D<corr>a</corr>nd. ADTR. IV D. Pontif.</q> [cite: 20]
+            </p>
+            <p>To conclude, I have met with writers, who reckoned also among the Iulij, certaine <corr>Annales</corr>: [cite: 22] which, for mine owne part verily, I could never yet light upon, in searching the Records &amp; Chro<g ref="char:EOLhyphen"/>nicles. But in the eight booke of the Familiar Epistles (of <hi>Cicero</hi>) and namely in the seaventh letter there, of <hi>M. Caelius</hi> unto <hi>Cicero,</hi> there is mention made among others, of one <hi>L. Iulius,</hi> sonne of <hi>Lucius, Pomp. Annalis:</hi> where the writing (as I suppose) is not very certaine and
+<pb facs="tcp:3392:4"/>
+               <corr>cleerely</corr> [cite: 28] acknowledge. For besides that the better corrected Copies call him <hi>Villius,</hi> (for <hi>Iulius</hi>) <hi>Liuie</hi> also hath expresly &amp; plainely written in his fortieth booke, that one <hi>Lucius Villius</hi> a Tri<g ref="char:EOLhyphen"/>bune of the Commons, made a Law which prouided and ordained, in what yeere of mens age they might sue for everie kinde of Magistracie, and be capable thereof. Whereupon, unto that <corr>familie</corr> [cite: 29] was giuen this surname, to be called <hi>Annales</hi> Thus farre <hi>Liuius.</hi> <corr>Hereunto</corr> <corr>may</corr> <corr>be added this</corr> [cite: 30] moreouer; that the Kinred <hi>Iulia,</hi> is reckoned in the Tribe <hi>Fabia</hi> (and not Pomp<g ref="char:EOLhyphen"/><corr>tina</corr>), [cite: 30] as we have noted in the fortieth chapter of <hi>Augustus.</hi> I am of opinion therefore, that safer <corr>it</corr> <corr>is</corr> <corr>to</corr> [cite: 31] account the <hi>Annales</hi> among the <hi>Villii,</hi> and not the <hi>Iulii.</hi> But thus much hereof, by the <corr>w</corr>ay, [cite: 32] and as it were passing by; Now proceede we to the rest.</p>
+            <p>In the linage <hi><corr>Iulia</corr></hi> [cite: 34] then, there was a familie also of the <hi>Caesars.</hi> But what the reason should be of that surname, it is not certainely knowne; no more, than who he was, that first bare the saide <corr>furname</corr>. [cite: 36] For, before <hi>Caesar</hi> the Dictator, and his father and grandfather, there were <hi>Iulii</hi> na<g ref="char:EOLhyphen"/><corr>med</corr> <hi>Cae<corr>s</corr>ares.</hi> [cite: 37] As for example; He, who (as <hi>Livie</hi> witnesseth in his 27. booke) was in the second <corr>P</corr>unick warre [cite: 38] sent from the Senate to <hi>Crispinus</hi> the Consul, about the nomination of a Dicta<g ref="char:EOLhyphen"/>tour. As for the terme <hi>Cae<corr>s</corr>ares,</hi> those usually the Romane tongue surnamed so, who were borne, either by r<corr>i</corr>pping their mothers wombes<g ref="char:punc">▪</g> or with a<note n="*" place="margin">
+                  <corr>Cæso</corr> <corr>matris</corr> <corr>utere</corr>. [cite: 39]
+               </note> bush of haire growing on their heads, or else<note n="*" place="margin">cum <corr>cæfarie</corr></note> <corr>grey-eied</corr>. [cite: 40] Some adde moreouer the tale of an Elephant slaine in <hi>Africk,</hi> which the inhabitants there call <hi>Caesar:</hi> and vpon that verie cavse, this surname first befell unto <hi>Caesar</hi> the Dictatours <corr>Grandfire</corr>. [cite: 40] But <hi>Spartia<corr>n</corr>us</hi> and <hi>Servius,</hi> the Authors hereof, are of the meanest credite and au<g ref="char:EOLhyphen"/>thoritie. For not his progeny alone, of all the <hi>Iulii,</hi> had this surname, but many others besides of <corr>his</corr> <corr>house</corr> and <corr>kinred</corr>, [cite: 40] both long before and also together with him.</p>
+            <p>
+               <corr>Confuls</corr> before <hi>Iulius <corr>Cæfar</corr></hi> [cite: 41] the Dictator, there were, Sext. <hi>Iulius,</hi> sonne of <hi>Caius,</hi> nephew of <hi>Lucius,</hi> together vvith <hi>Lucius Aurelius Orestes,</hi> in the yeere after the foundation of <hi>Rome<note n="*" place="margin">
+                     <corr>597. af-ter the a-bouesaid Chronolo-gie.</corr> [cite: 41]
+                  </note>
+               </hi> 596: Also <hi>
+                  <corr>Sex</corr>. Iulius</hi> sonne of <hi>Ca<corr>i</corr>us,</hi> [cite: 41] nephew of <hi>Sext,</hi> was colleague vvith <hi>L. Marcius Phi<g ref="char:EOLhyphen"/><corr>lippus</corr></hi> [cite: 41] in the beginning of the Sociall vvarre in the yeare after the cities foundation<note n="*" place="margin">662.</note> 662. and in the next yeere after, <hi>Lucius Iulius</hi> so<corr>n</corr>ne of <hi>Lucius,</hi> and Nephew of <hi>Lucius,</hi> bare the Consulate with <hi>Pub. <corr>Rutilius</corr> Lupu<corr>s</corr>.</hi> [cite: 41] Neither before these, were anie of the <hi>Caesars</hi> reno<corr>w</corr>med or aduan<g ref="char:EOLhyphen"/>ced [cite: 42] to the highest Office<note n="*" place="margin">663.</note> of <corr>State</corr>. [cite: 42] Many<g ref="char:punc">▪</g>
+               <note n="*" place="margin">Consul<g ref="char:EOLhyphen"/>ship. Frater pa<g ref="char:EOLhyphen"/>truelis.</note> yeeres after, out of the same familie, <hi>Lucius Caesar,</hi> son of <hi>Sextus</hi> and cosi<corr>n</corr> Germane to that <hi>C. Iulius</hi> Caesar, who beg<corr>a</corr>t the Dictato<corr>u</corr>r, [cite: 44] and attained only to the <corr>Preturship</corr>, who also died at <hi>P<corr>is</corr>ae</hi> without any evident sicknesse, euen as he did his shoes <corr>on</corr> in a morning, [cite: 45] that <hi>L. Caesar</hi> I say, came to be Consull.</p>
+            <p>Well. <hi>Caesar</hi> the Dictator was borne at Rome (when <hi>Caius Marcius</hi> and <hi>Lucius Valerius Flaccus</hi> were Consuls) vpon the fourth day before the Ides of <hi>Quintilis,</hi> which moneth after his death, was by vertue of the Lavv <hi>Antonia</hi> called for that cause, <hi>Iulie,</hi> His bringing up hee had vvith his mother <hi>Aurelia,</hi> daughter of <hi>Caius Cotta,</hi> and his aunt by the fathers side <hi>Iulia,</hi> the vvife of <hi>Mar<corr>ius</corr>.</hi> Whereupon grevv the love that he tooke (a Petritian though he vvere) to the <corr>Plebeian</corr> Fa<corr>c</corr>tion; [cite: 47] and the hatred he bare to <hi>Sulla.</hi> The Greeke and Latine tongue, the precepts also <corr>and</corr> <corr>rules</corr> of Oratorie, <corr>h</corr>e learned of M. <hi>Ant<corr>o</corr>nius G<corr>n</corr>i<corr>p</corr>ho,</hi> [cite: 48] a French man borne. Who being of an <corr>excellent</corr> <corr>w</corr>it and <corr>singular</corr> memorie, courteous besides in his behauiour, and of a kinde <corr>gentle</corr> nature, [cite: 49] taught the Greek and Latine, Grammer, <corr>Rhetorick</corr> <corr>w</corr>it<corr>h</corr>al, first in the house of <hi>C<corr>a</corr>ius <corr>Cæfar</corr></hi> <corr>his</corr> <corr>father</corr>; <corr>afterwards</corr> in his ovvne; and got much there<corr>by</corr>; [cite: 50] such vvas the bountie of his <corr>scholars;</corr> <corr>considering</corr> <corr>that</corr> hee never compounded vvith <corr>them</corr> [cite: 51] for any vvages or revvard. <corr>Now,</corr> <corr>was</corr> <corr>this</corr> <corr>Cæfar</corr> vvonderous <corr>docible</corr> and apt to learne, <corr>ye</corr>a and framed naturally for <corr>elo</corr><g ref="char:EOLhyphen"/>quence. [cite: 52]</p>
+            <p>
+               <corr>His</corr> <corr>Latine</corr> speech vvas trimly <corr>g</corr>arnished, (<corr>though</corr> Domesticall <corr>a</corr>cquaintance) by his mother <hi><corr>Aurelia,</corr> <corr>a</corr></hi> <corr>woman</corr> <corr>that</corr> spake the Romane tongue purely and elegantly: like as the <hi>Muciae, Laeliae, <corr>Corneliæ,</corr></hi> <corr>and</corr> <corr>other</corr> <corr>right</corr> honorable Dames did, in vvhose families there arose Oratours of great <corr>name,</corr>. [cite: 53]</p>
+         </div>
+         </front>
+         </text>
+         </TEI>
