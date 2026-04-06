@@ -224,11 +224,14 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
           </div>
         </div>
 
-<div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.abo016.rolfe-eng1" n="17">
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.abo016.rolfe-eng1" n="17">
   <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.abo016.rolfe-eng1:17" n="1">
-            <p rend="align(indent)">It was in his reign that protection against forgers was first devised, by having no tablets signed that were not bored with holes through which a string was passed three times. In the matter of wills it was enacted that the first two pages should be presented to the signatories with only the name of the testator written upon them, and that no one who wrote a will for another should put down a legacy for himself; further, that clients should pay a fixed and reasonable fee for the services of their advocates, but nothing at all for the benches, which were to be provided free of charge by the public treasury; finally, that the pleading of cases, which had before fallen to the treasury, should be transferred to the Forum and the court of the recoverers, and that all appeals from the judges should be made to the senate.</p>
+            <p rend="align(indent)">It was in his reign that a protection against forgers was first devised, by having no tablets signed that were not bored with holes through which a cord was thrice passed.<note resp="editor">The tablets consisted of three leaves, two of which were bound together and sealed.  The contract was written twice, on the open leaf and on the closed ones. In cases of dispute the seals were broken in the presence of the signers and the two versions compared.</note> In the case of <pb n="113"/>wills it was provided that the first two leaves should be presented to the signatories<note resp="editor">As witnesses. The testator afterwards wrote the names of the heirs on these leaves.</note> with only the name of the testator written upon them, and that no one who wrote a will for another should put down a legacy for himself; further, that clients should pay a fixed and reasonable fee for the services of their advocates,<note resp="editor">The Cincian law of 204 B.C. forbade fees. Augustus renewed the law in 17 B.C. (Dio, 54. 18). Claudius limited fees to 10,000 sesterces (Tac. Ann. 11. 5-6). The senate again abolished fees at the beginning of Nero's reign (Tac. Ann. 13. 5), but Nero apparently revived the law of Claudius, with a provision against the addition of "costs."</note> but nothing at all for benches, which were to be furnished free of charge by the public treasury; finally as regarded the pleading of cases, that those connected with the treasury<note resp="editor">Instead of coming before the prefects of the treasury; cf. Claud. ix. 2.</note> should be transferred to the Forum and a board of arbiters, and that any appeal from the juries should be made to the senate.</p>
           </div>
         </div>
+        
+
+        
 
 <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.abo016.rolfe-eng1" n="18">
   <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.abo016.rolfe-eng1:18" n="1">
@@ -254,17 +257,13 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
           </div>
         </div>
 
-<div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.abo016.rolfe-eng1" n="21">
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.abo016.rolfe-eng1" n="21">
   <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.abo016.rolfe-eng1:21" n="1">
-            <p rend="align(indent)">Considering it of great importance to appear in Rome as well, he renewed the contest of the Neronia before the appointed time, and when there was a general call for his <q rend="double">divine voice,</q> he replied that if any wished to hear him, he would do them the favour in the gardens; but when the guard of soldiers which was then on duty seconded the entreaties of the people, he joyfully agreed to appear at once. He promptly had his name added to the list of the lyre-players who entered the contest, and casting his own lot into the urn with the rest, came forward in his turn, attended by the prefects of the praetorian guard carrying his lyre, and followed by the tribunes of the soldiers and his intimate friends.</p>
-          </div>
-  <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.abo016.rolfe-eng1:21" n="2">
-            <p>Having taken his place and finished his preliminary voluntary, he announced through the ex-consul Cluvius Rufus that <q rend="double">he would sing Niobe</q>; and he kept at it until late in the afternoon, putting off the award of the prize for that event and postponing the rest of the contest to the next year, to have an excuse for singing oftener. But since even that seemed too long to wait, he did not cease to appear in public from time to time. He even thought of taking part in private performances among the professional actors, when one of the praetors offered him a million sesterces.</p>
-          </div>
-  <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.abo016.rolfe-eng1:21" n="3">
-            <p>He also put on the mask and sang tragedies representing gods and heroes and even heroines and goddesses, having the masks fashioned in the likeness of his own features or those of the women of whom he happened to be enamoured. Among other themes he sang <q rend="double">Canace in Labor,</q> <q rend="double">Orestes the Matricide,</q> <q rend="double">The Blinding of Oedipus,</q> and the <q rend="double">Frenzy of Hercules.</q> At the last named performance they say that a young recruit, seeing the emperor in mean attire and bound with chains, as the subject required, rushed forward to lend him aid.</p>
+            <p rend="align(indent)">Considering it of great importance to appear in Rome as well, he repeated the contest of the Neronia<note resp="editor">See chap. xii. 3.</note> before the appointed time, and when there was a general call for his <q rend="double">divine voice,</q> he replied that if any wished to hear him, he would favour them in the gardens; but when the guard of soldiers which was then on duty seconded the entreaties of the people, he gladly agreed to appear at once. So without delay he had his name added to the list of the lyre-players who entered the contest, and casting his own lot into the urn with the rest, he came forward in his turn, attended by the prefects of the Guard carrying his lyre, and followed by the tribunes of the soldiers and his intimate friends.</p>
           </div>
         </div>
+
+
 
 <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.abo016.rolfe-eng1" n="22">
   <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.abo016.rolfe-eng1:22" n="1">
@@ -347,7 +346,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
           </div>
         </div>
 
-        <pb n="p.135"/>
+        
   <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.abo016.rolfe-eng1" n="31">
     <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.abo016.rolfe-eng1:31" n="1">
       <p rend="align(indent)">XXXI. There was nothing however in which he was more ruinously prodigal than in building. He made a palace extending all the way from the Palatine to the Esquiline, which at first he called the House of Passage, but when it was burned shortly after its completion and rebuilt, the Golden House. Its size and splendour will be sufficiently indicated by the <pb n="p.137"/> following details. Its vestibule was large enough to contain a colossal statue of the emperor a hundred and twenty feet high; and it was so extensive that it had a triple colonnade<note resp="editor">That is, with three parallel rows of columns.</note> a mile long. There was a pond too, like a sea, surrounded with buildings to represent cities,<note resp="editor">One may compare Hadrian's villa at Tibur (Tivoli) with its Canopus, its Vale of Tempe, and the like.</note> besides tracts of country, varied by tilled fields, vineyards, pastures and woods, with great numbers of wild and domestic animals.</p>
