@@ -217,12 +217,16 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
           </div>
         </div>
 
-
         <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.abo016.rolfe-eng1" n="16">
   <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.abo016.rolfe-eng1:16" n="1">
-            <p rend="align(indent)">During his reign many abuses were severely punished and put down, and no fewer new laws were made: a limit was set to expenditures; the public banquets were confined to a distribution of food; the sale of any kind of cooked viands in the taverns was forbidden, with the exception of pulse and vegetables, although before every sort of dainty was exposed for sale. Punishment was inflicted on the Christians, a class of men given to a new and mischievous superstition. He put an end to the diversions of the chariot drivers, who from immunity of long standing claimed the right of ranging at large and amusing themselves by cheating and robbing the people. The pantomimic actors and their partisans were banished from the city.</p>
-          </div>
-        </div>
+    <p rend="align(indent)">He devised a new form for the buildings of the city and in front of the houses and apartments he erected porches, from the flat roofs of which fires could be fought; and these he put up at his own cost.<note resp="editor">This was undoubtedly after the great fire; see chap. xxxviii.</note> He had also planned to extend the walls as far as Ostia and to bring the sea from there to Rome by a canal.</p>
+  </div>
+  <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.abo016.rolfe-eng1:16" n="2">
+    <p>During his reign many abuses were severely punished and put down, and no fewer new laws were made: a limit was set to expenditures; the public banquets were confined to a distribution of food; the sale of any kind of cooked viands in the taverns was forbidden, with the exception of pulse and vegetables, although before every sort of dainty was exposed for sale.<note resp="editor">Various attempts had however been made to check this form of luxury; see note on Claud. xl. 1.</note> Punishment was inflicted on the Christians, a class of men given to a new and mischievous superstition. He put an end to the diversions of the chariot drivers, who from immunity of long standing claimed the right of ranging at large and amusing themselves by cheating and robbing the people. The pantomimic actors and their partisans were banished from the city.<note resp="editor">Because of their disorderly conduct; see chap xxvi. 2, and Tac. Ann. 13. 25.</note></p>
+  </div>
+</div>
+
+       
 
         <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.abo016.rolfe-eng1" n="17">
   <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.abo016.rolfe-eng1:17" n="1">
