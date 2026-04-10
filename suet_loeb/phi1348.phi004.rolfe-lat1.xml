@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="eng">
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="lat">De Grammaticis et Rhetoribus</title>
+        <author>Suetonius</author>
+        <editor>John C. Rolfe</editor>
+        <sponsor>Perseus Project, Tufts University</sponsor>
+        <principal>Gregory Crane</principal>
+        <respStmt>
+          <resp>Prepared under the supervision of</resp>
+          <name>Gregory Crane</name>
+        </respStmt>
+        <funder>Tufts University</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Trustees of Tufts University</publisher>
+        <pubPlace>Medford, MA</pubPlace>
+        <authority>Perseus Project</authority>
+        <date type="release">2026-04-08</date>
+        <idno type="filename">phi1348.phi004.rolfe-lat1.xml</idno>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a
+            Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <title>Suetonius</title>
+            <author>Suetonius</author>
+            <editor>John C. Rolfe</editor>
+            <imprint>
+              <publisher>William Heinemann</publisher>
+              <pubPlace>London</pubPlace>
+              <publisher>Macmillan</publisher>
+              <pubPlace>New York</pubPlace>
+              <date>1914</date>
+            </imprint>
+            <biblScope unit="volume">2</biblScope>
+          </monogr>
+          <series>
+            <title>Loeb Classical Library</title>
+          </series>
+          <ref target="https://archive.org/details/suetonius02suet/page/394/mode/2up">Internet
+            Archive</ref>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <refsDecl n="CTS">
+        <cRefPattern n="section" matchPattern="(\w+).(\w+)"
+          replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+          <p>This pointer pattern extracts chapter and section</p>
+        </cRefPattern>
+        <cRefPattern n="chapter" matchPattern="(\w+)"
+          replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+          <p>This pointer pattern extracts chapter</p>
+        </cRefPattern>
+      </refsDecl>
+      <editorialDecl>
+        <correction method="silent" status="medium">
+          <p>Gemini scan of PDF</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="eng">English</language>
+        <language ident="lat">Latin</language>
+        <language ident="fre">French</language>
+        <language ident="grc">Greek</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-04-08" who="Gregory Crane">Pivoted to De Grammaticis et Rhetoribus using the Rolfe PDF, properly integrating textual notes.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="eng">
+    <body>
+      <div xml:lang="lat" type="edition" n="urn:cts:latinLit:phi1348.phi004.rolfe-lat1">
+        
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="1">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:1" n="1">
+            <p rend="align(indent)">GRAMMATICA Romae ne in usu quidem olim, nedum in honore ullo erat, rudi scilicet ac bellicosa etiam tum civitate, necdum magnopere liberalibus disciplinis vacante.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:1" n="2">
+            <p>Initium quoque eius mediocre exstitit, siquidem antiquissimi doctorum, qui iidem<note resp="editor" xml:lang="mul">qui iidem, Stephanus; qui idem, Lachmann; quidem, VLOIG; quidam, N.</note> et poetae et semigraeci erant (Livium et Ennium dico, quos utraque lingua domi forisque docuisse adnotatum est) nihil amplius quam Graecos interpretabantur, aut si quid ipsi Latine composuissent praelegebant.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:1" n="3">
+            <p>Nam quod nonnulli tradunt duos libros "De Litteris Syllabisque, item "De Metris" ab eodem Ennio editos, iure arguit L. Cotta non poetae sed posterioris Ennii esse, cuius etiam "De Augurandi Disciplina" volumina ferantur.</p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="2">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:2" n="1">
+            <p rend="align(indent)">Primus igitur, quantum opinamur, studium grammaticae in urbem intulit Crates Mallotes, Aristarchi aequalis, qui missus ad senatum ab Attalo rege inter secundum ac tertium Punicum bellum sub ipsam Ennii mortem, cum regione Palatii prolapsus in cloacae foramen crus fregisset, per omne legationis simul et valitudinis tempus plurimas acroasis subinde fecit assidueque disseruit, ac nostris exemplo fuit ad imitandum.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:2" n="2">
+            <p>Hactenus tamen imitati, ut carmina parum adhuc divolgata vel defunctorum amicorum vel si quorum aliorum probassent, diligentius retractarent ac legendo commentandoque etiam<note resp="editor" xml:lang="mul">etiam, NGOIW; et, VL.</note> ceteris nota facerent; ut C. Octavius Lampadio Naevii "Punicum Bellum," quod uno volumine et continenti scriptura expositum divisit in septem libros; ut postea Q. Vargunteius Annales Ennii, quos certis diebus in magna frequentia pronuntiabat; ut Laelius Archelaus Vettiusque Philocomus Lucilii saturas familiaris sui, quas legisse se apud Archelaum Pompeius Lenaeus, apud Philocomum Valerius Cato praedicant.</p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="3">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:3" n="1">
+            <p rend="align(indent)">Instruxerunt auxeruntque ab omni parte grammaticam L. Aelius Lanuvinus generque Aelii Ser. Clodius, uterque eques Ro. multique ac varii et in doctrina et in re p. usus. Aelius cognomine duplici fuit; nam et Praeconinus,<note resp="editor" xml:lang="mul">Praeconinus, Beroaldus; Praeconius or Preconius, mss.</note> quod pater eius praeconium fecerat, vocabatur, et Stilo,<note resp="editor" xml:lang="mul">Stilo, Stephanus; istilo, mss.</note> quod orationes nobilissimo cuique scribere solebat; tantum optimatium fautor, ut Metellum<note resp="editor" xml:lang="mul">Metellum, W (Roth); the other mss. have M. Metellum.</note> Numidicum in exsilium comitatus sit.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:3" n="2">
+            <p>Servius, cum librum soceri nondum editum fraude intercepisset, et ob hoc repudiatus pudore ac taedio secessisset ab urbe, in podagrae morbum incidit; cuius impatiens veneno sibi perunxit pedes et enecuit ita, ut parte ea corporis quasi praemortua<note resp="editor" xml:lang="mul">praemortua, Stephanus; praemortui or premortui, mss.</note> viveret.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:3" n="3">
+            <p>Posthac magis ac magis et gratia et cura artis increvit, ut ne clarissimi quidem viri abstinuerint quo minus et ipsi aliquid de ea scriberent, utque temporibus quibusdam super viginti celebres scholae fuisse in urbe tradantur; pretia vero grammaticorum tanta mercedesque tam magnae, ut constet Lutatium Daphnidem, quem Laevius Melissus per cavillationem nominis Panos ἀγάπημα<note resp="editor" xml:lang="mul">ἀγάπημα, Toup (Reifferscheid); ἄγασμα, Baum. Crusius (Roth).</note> dicit, DCC. milibus nummum a Q. Catulo emptum ac brevi manumissum, L. Appuleium ab Eficio Calvino equite Romano praedivite quadringenis annuis conductum<note resp="editor" xml:lang="mul">conductum, Reifferscheid; conductos, mss. except G, which has conductum ut.</note> multos edoceret.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:3" n="4">
+            <p>Nam in provincias quoque grammatica penetraverat, ac nonnulli de notissimis doctoribus peregre docuerunt, maxime in Gallia Togata; inter quos Octavius Teucer et Pescennius<note resp="editor" xml:lang="mul">Pescennius, Roth; Sescennius or Fescennius, mss.</note> Iaccus et Oppius Chares; hic quidem ad ultimam aetatem, et cum iam non ingressu modo deficeretur sed et visu.</p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="4">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:4" n="1">
+            <p rend="align(indent)">Appellatio grammaticorum Graeca consuetudine invaluit; sed initio litterati vocabantur. Cornelius quoque Nepos libello quo distinguit litteratum ab erudito, litteratos quidem vulgo appellari ait eos qui aliquid diligenter<note resp="editor" xml:lang="mul">aliquid diligenter, NGIOW; diligenter aliquid, VL.</note> et acute scienterque possint aut dicere aut scribere, ceterum proprie sic appellandos poetarum interpretes, qui a Graecis grammatici nominentur.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:4" n="2">
+            <p>Eosdem litteratores vocitatos Messala Corvinus in quadam epistula ostendit, non esse sibi dicens rem cum Furio Bibaculo, ne cum Ticida quidem aut litteratore Catone; significat enim haud dubie Valerium Catonem, poetam simul grammaticumque notissimum. Sunt qui litteratum a litteratore distinguant, ut Graeci grammaticum a grammatista, et illum quidem absolute, hunc mediocriter doctum existiment. Quorum opinionem Orbilius etiam exemplis confirmat; namque apud maiores ait, cum familia alicuius venalis produceretur, non temere quem litteratum in titulo, sed litteratorem inscribi solitum esse, quasi non perfectum litteris, sed imbutum.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:4" n="3">
+            <p>Veteres grammatici et rhetoricam docebant, ac multorum de utraque arte commentarii feruntur. Secundum quam consuetudinem posteriores quoque existimo, quanquam iam discretis professionibus, nihilo minus vel retinuisse vel instituisse et ipsos quaedam genera meditationum<note resp="editor" xml:lang="mul">meditationum, OW, G in margin, N as correction (cf. Gell. xx. 5. 2); the other mss. have institutionum.</note> ad eloquentiam praeparandam, ut problemata, paraphrasis, allocutiones, ethologias<note resp="editor" xml:lang="mul">ethologias, Beroaldus; aethiologias, mss.</note> atque alia hoc genus; ne scilicet sicci omnino atque aridi pueri rhetoribus traderentur. Quae quidem omitti iam video, desidia quorundam et infantia; non enim fastidio putem.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:4" n="4">
+            <p>Me quidem adolescentulo, repeto quendam Principem nomine alternis diebus declamare, alternis disputare, nonnullis vero mane<note resp="editor" xml:lang="mul">vero mane] mane vero, mss.</note> disserere, post meridiem remoto pulpito declamare solitum. Audiebam etiam, memoria patrum quosdam e grammatici statim ludo transisse in Forum atque in numerum praestantissimorum patronorum receptos.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:4" n="5">
+            <p>Clari professores et de quibus prodi possit aliquid dum taxat a nobis, fere hi fuerunt.</p>
+          </div>
+        </div>
+
+      </div>
+    </body>
+  </text>
+</TEI>

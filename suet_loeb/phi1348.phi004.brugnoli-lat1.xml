@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="eng">
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="lat">De Grammaticis et Rhetoribus</title>
+        <author>Suetonius</author>
+        <editor>John C. Rolfe</editor>
+        <sponsor>Perseus Project, Tufts University</sponsor>
+        <principal>Gregory Crane</principal>
+        <respStmt>
+          <resp>Prepared under the supervision of</resp>
+          <name>Gregory Crane</name>
+        </respStmt>
+        <funder>Tufts University</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Trustees of Tufts University</publisher>
+        <pubPlace>Medford, MA</pubPlace>
+        <authority>Perseus Project</authority>
+        <date type="release">2026-04-08</date>
+        <idno type="filename">phi1348.phi004.rolfe-lat1.xml</idno>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a
+            Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <title>Suetonius</title>
+            <author>Suetonius</author>
+            <editor>John C. Rolfe</editor>
+            <imprint>
+              <publisher>William Heinemann</publisher>
+              <pubPlace>London</pubPlace>
+              <publisher>Macmillan</publisher>
+              <pubPlace>New York</pubPlace>
+              <date>1914</date>
+            </imprint>
+            <biblScope unit="volume">2</biblScope>
+          </monogr>
+          <series>
+            <title>Loeb Classical Library</title>
+          </series>
+          <ref target="https://archive.org/details/suetonius02suet/page/394/mode/2up">Internet
+            Archive</ref>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <refsDecl n="CTS">
+        <cRefPattern n="section" matchPattern="(\w+).(\w+)"
+          replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+          <p>This pointer pattern extracts chapter and section</p>
+        </cRefPattern>
+        <cRefPattern n="chapter" matchPattern="(\w+)"
+          replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+          <p>This pointer pattern extracts chapter</p>
+        </cRefPattern>
+      </refsDecl>
+      <editorialDecl>
+        <correction method="silent" status="medium">
+          <p>Gemini scan of PDF</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="eng">English</language>
+        <language ident="lat">Latin</language>
+        <language ident="fre">French</language>
+        <language ident="grc">Greek</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-04-08" who="Gregory Crane">Completed De Grammaticis (Chapters 1-24) using the Rolfe PDF, properly integrating textual notes.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="eng">
+    <body>
+      <div xml:lang="lat" type="edition" n="urn:cts:latinLit:phi1348.phi004.rolfe-lat1">
+        
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="1">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:1" n="1">
+            <p rend="align(indent)">GRAMMATICA Romae ne in usu quidem olim, nedum in honore ullo erat, rudi scilicet ac bellicosa etiam tum civitate, necdum magnopere liberalibus disciplinis vacante.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:1" n="2">
+            <p>Initium quoque eius mediocre exstitit, siquidem antiquissimi doctorum, qui iidem<note resp="editor" xml:lang="mul">qui iidem, Stephanus; qui idem, Lachmann; quidem, VLOIG; quidam, N.</note> et poetae et semigraeci erant (Livium et Ennium dico, quos utraque lingua domi forisque docuisse adnotatum est) nihil amplius quam Graecos interpretabantur, aut si quid ipsi Latine composuissent praelegebant.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:1" n="3">
+            <p>Nam quod nonnulli tradunt duos libros "De Litteris Syllabisque," item "De Metris" ab eodem Ennio editos, iure arguit L. Cotta non poetae sed posterioris Ennii esse, cuius etiam "De Augurandi Disciplina" volumina ferantur.</p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="2">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:2" n="1">
+            <p rend="align(indent)">Primus igitur, quantum opinamur, studium grammaticae in urbem intulit Crates Mallotes, Aristarchi aequalis, qui missus ad senatum ab Attalo rege inter secundum ac tertium Punicum bellum sub ipsam Ennii mortem, cum regione Palatii prolapsus in cloacae foramen crus fregisset, per omne legationis simul et valitudinis tempus plurimas acroasis subinde fecit assidueque disseruit, ac nostris exemplo fuit ad imitandum.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:2" n="2">
+            <p>Hactenus tamen imitati, ut carmina parum adhuc divolgata vel defunctorum amicorum vel si quorum aliorum probassent, diligentius retractarent ac legendo commentandoque etiam<note resp="editor" xml:lang="mul">etiam, NGOIW; et, VL.</note> ceteris nota facerent; ut C. Octavius Lampadio Naevii "Punicum Bellum," quod uno volumine et continenti scriptura expositum divisit in septem libros; ut postea Q. Vargunteius Annales Ennii, quos certis diebus in magna frequentia pronuntiabat; ut Laelius Archelaus Vettiusque Philocomus Lucilii saturas familiaris sui, quas legisse se apud Archelaum Pompeius Lenaeus, apud Philocomum Valerius Cato praedicant.</p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="3">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:3" n="1">
+            <p rend="align(indent)">Instruxerunt auxeruntque ab omni parte grammaticam L. Aelius Lanuvinus generque Aelii Ser. Clodius, uterque eques Ro. multique ac varii et in doctrina et in re p. usus. Aelius cognomine duplici fuit; nam et Praeconinus,<note resp="editor" xml:lang="mul">Praeconinus, Beroaldus; Praeconius or Preconius, mss.</note> quod pater eius praeconium fecerat, vocabatur, et Stilo,<note resp="editor" xml:lang="mul">Stilo, Stephanus; istilo, mss.</note> quod orationes nobilissimo cuique scribere solebat; tantum optimatium fautor, ut Metellum<note resp="editor" xml:lang="mul">Metellum, W (Roth); the other mss. have M. Metellum.</note> Numidicum in exsilium comitatus sit.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:3" n="2">
+            <p>Servius, cum librum soceri nondum editum fraude intercepisset, et ob hoc repudiatus pudore ac taedio secessisset ab urbe, in podagrae morbum incidit; cuius impatiens veneno sibi perunxit pedes et enecuit ita, ut parte ea corporis quasi praemortua<note resp="editor" xml:lang="mul">praemortua, Stephanus; praemortui or premortui, mss.</note> viveret.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:3" n="3">
+            <p>Posthac magis ac magis et gratia et cura artis increvit, ut ne clarissimi quidem viri abstinuerint quo minus et ipsi aliquid de ea scriberent, utque temporibus quibusdam super viginti celebres scholae fuisse in urbe tradantur; pretia vero grammaticorum tanta mercedesque tam magnae, ut constet Lutatium Daphnidem, quem Laevius Melissus per cavillationem nominis Panos ἀγάπημα<note resp="editor" xml:lang="mul">ἀγάπημα, Toup (Reifferscheid); ἄγασμα, Baum. Crusius (Roth).</note> dicit, DCC. milibus nummum a Q. Catulo emptum ac brevi manumissum, L. Appuleium ab Eficio Calvino equite Romano praedivite quadringenis annuis conductum<note resp="editor" xml:lang="mul">conductum, Reifferscheid; conductos, mss. except G, which has conductum ut.</note> multos edoceret.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:3" n="4">
+            <p>Nam in provincias quoque grammatica penetraverat, ac nonnulli de notissimis doctoribus peregre docuerunt, maxime in Gallia Togata; inter quos Octavius Teucer et Pescennius<note resp="editor" xml:lang="mul">Pescennius, Roth; Sescennius or Fescennius, mss.</note> Iaccus et Oppius Chares; hic quidem ad ultimam aetatem, et cum iam non ingressu modo deficeretur sed et visu.</p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="4">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:4" n="1">
+            <p rend="align(indent)">Appellatio grammaticorum Graeca consuetudine invaluit; sed initio litterati vocabantur. Cornelius quoque Nepos libello quo distinguit litteratum ab erudito, litteratos quidem vulgo appellari ait eos qui aliquid diligenter<note resp="editor" xml:lang="mul">aliquid diligenter, NGIOW; diligenter aliquid, VL.</note> et acute scienterque possint aut dicere aut scribere, ceterum proprie sic appellandos poetarum interpretes, qui a Graecis grammatici nominentur.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:4" n="2">
+            <p>Eosdem litteratores vocitatos Messala Corvinus in quadam epistula ostendit, non esse sibi dicens rem cum Furio Bibaculo, ne cum Ticida quidem aut litteratore Catone; significat enim haud dubie Valerium Catonem, poetam simul grammaticumque notissimum. Sunt qui litteratum a litteratore distinguant, ut Graeci grammaticum a grammatista, et illum quidem absolute, hunc mediocriter doctum existiment. Quorum opinionem Orbilius etiam exemplis confirmat; namque apud maiores ait, cum familia alicuius venalis produceretur, non temere quem litteratum in titulo, sed litteratorem inscribi solitum esse, quasi non perfectum litteris, sed imbutum.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:4" n="3">
+            <p>Veteres grammatici et rhetoricam docebant, ac multorum de utraque arte commentarii feruntur. Secundum quam consuetudinem posteriores quoque existimo, quanquam iam discretis professionibus, nihilo minus vel retinuisse vel instituisse et ipsos quaedam genera meditationum<note resp="editor" xml:lang="mul">meditationum, OW, G in margin, N as correction (cf. Gell. xx. 5. 2); the other mss. have institutionum.</note> ad eloquentiam praeparandam, ut problemata, paraphrasis, allocutiones, ethologias<note resp="editor" xml:lang="mul">ethologias, Beroaldus; aethiologias, mss.</note> atque alia hoc genus; ne scilicet sicci omnino atque aridi pueri rhetoribus traderentur. Quae quidem omitti iam video, desidia quorundam et infantia; non enim fastidio putem.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:4" n="4">
+            <p>Me quidem adolescentulo, repeto quendam Principem nomine alternis diebus declamare, alternis disputare, nonnullis vero mane<note resp="editor" xml:lang="mul">vero mane] mane vero, mss.</note> disserere, post meridiem remoto pulpito declamare solitum. Audiebam etiam, memoria patrum quosdam e grammatici statim ludo transisse in Forum atque in numerum praestantissimorum patronorum receptos.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:4" n="5">
+            <p>Clari professores et de quibus prodi possit aliquid dum taxat a nobis, fere hi fuerunt.</p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="5">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:5" n="1">
+            <p rend="align(indent)">V. Saevius Nicanor primus ad famam dignationemque docendo pervenit, fecitque praeter commentarios, quorum tamen pars maxima intercepta dicitur, saturam quoque, in qua libertinum se ac duplici cognomine esse per haec indicat :</p>
+            <quote rend="blockquote">
+              <l>"Saevius Nicanor Marci libertus negabit ;</l>
+              <l>Saevius Posthumius vero<note resp="editor" xml:lang="eng">Posthumius vero, E. H. Brewster, Class. Phil. ix. (to be published); pot huius, VL; posthus, O; post hoc, G; post h', I.<p>The text and the meaning are uncertain, but it is obvious from the preceding sentence that we must have two cognomina. The man's name appears to have been M. Saevius Postumius Nicanor. Thus he was Saevius Postumius, and Marcus. The meaning of the verbs and of the lines as a whole is obscured by the lack of a context. The textual variants show that the mss. had the spelling Posthumius.</p></note> idem ac Marcus docebit."</l>
+            </quote>
+            <p>Sunt qui tradant, ob infamiam quandam eum in Sardiniam secessisse ibique diem obisse.</p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="6">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:6" n="1">
+            <p rend="align(indent)">VI. Aurelius Opilius, Epicurei cuiusdam libertus, philosophiam primo, deinde rhetoricam, novissime grammaticam docuit.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:6" n="2">
+            <p>Dimissa autem schola, Rutilium Rufum damnatum in Asiam secutus, ibidem Smyrnae<note resp="editor" xml:lang="mul">Zmyrnae, V.</note> simul consenuit, composuitque variae eruditionis aliquot volumina, ex quibus novem unius corporis, quia<note resp="editor" xml:lang="mul">quia, Ernesti; qui quia, mss.</note> scriptores ac poetas sub clientela Musarum iudicaret, non absurde et fecisse et inscripsisse<note resp="editor" xml:lang="mul">inscripsisse, Wolf; scripsisse, mss. (se scripsisse, O).</note> se ait ex numero divarum et appellatione.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:6" n="3">
+            <p>Huius cognomen in plerisque indicibus et titulis per unam L litteram<note resp="editor" xml:lang="mul">L litteram, J. F. Gronov; litteram or literam, mss.</note> scriptum animadverto, venum ipse id per duas effert in parastichide libelli, qui inscribitur "Pinax."<note resp="editor" xml:lang="eng">The Tablet.</note></p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="7">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:7" n="1">
+            <p rend="align(indent)">VII. M. Antonius Gnipho, ingenuus in Gallia natus sed expositus, a nutritore<note resp="editor" xml:lang="eng">That is, the man who found and reared him.</note> suo manumissus institutusque (Alexandriae quidem, ut aliqui tradunt, in contubernio Dionysi Scytobrachionis; quod equidem non temere crediderim, cum temporum ratio vix congruat) fuisse dicitur ingenii magni, memoriae singularis, nec minus Graece quam Latine doctus; praeterea comi facilique natura, nec unquam de mercedibus pactus, eoque plura ex liberalitate discentium consecutus.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:7" n="2">
+            <p>Docuit primum in Divi Iulii domo pueri adhuc,<note resp="editor" xml:lang="mul">adhuc, omitted by L.</note> deinde in sua privata.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:7" n="3">
+            <p>Docuit autem et rhetoricam, ita ut quotidie praecepta eloquentiae traderet, declamaret vero nonnisi nundinis.<note resp="editor" xml:lang="eng">Literally, "on market days"; see note on Aug. xcii. 2.</note></p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:7" n="4">
+            <p>Scholam eius claros quoque viros frequentasse aiunt, in iis M. Ciceronem, etiam cum praetura fungeretur.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:7" n="5">
+            <p>Scripsit multa, quamvis annum aetatis quinquagesimum non excesserit. Etsi Ateius Philologus duo tantum volumina "De Latino Sermone" reliquisse eum tradit; nam cetera scripta discipulorum eius esse, non ipsius; in quibus et suum alicubi reperiri nomen, ut hoc * *</p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="8">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:8" n="1">
+            <p rend="align(indent)">VIII. M. Pompilius Andronicus, natione Syrus, studio Epicureae sectae desidiosior in professione grammatica<note resp="editor" xml:lang="mul">grammatica, NOGIW; grammaticae, VL.</note> habebatur minusque idoneus ad tuendam scholam.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:8" n="2">
+            <p>Itaque cum se in urbe non solum Antonio Gniphoni, sed ceteris etiam deterioribus postponi videret, Cumas transiit ibique in otio vixit et multa composuit; verum adeo inops atque egens, ut coactus sit praecipuum illud opusculum suum "Annalium Ennii Elenchorum"<note resp="editor" xml:lang="eng">Elenchus is a transliteration of the Greek ἔλεγχος, "refutation," "cross-examination."<p>The work was apparently an attack on the Annals, like those on the writings of Vergil; cf. the Life of Vergil, 44 and 45.</p></note> XVI. milibus nummum cuidam vendere, quos libros Orbilius suppressos redemisse se dicit vulgandosque curasse nomine auctoris.</p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="9">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:9" n="1">
+            <p rend="align(indent)">IX. L.<note resp="editor" xml:lang="eng">L., added by Roth.</note> Orbilius Pupillus Beneventanus, morte parentum, una atque eadem die inimicorum dolo interemptorum, destitutus, primo apparituram magistratibus fecit; deinde in Macedonia corniculo, mox equo meruit; functusque militia, studia repetit, quae iam inde a puero non leviter attigerat; ac professus diu in patria, quinquagesimo demum anno Romam consule Cicerone transiit docuitque maiore fama quam emolumento.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:9" n="2">
+            <p>Namque iam persenex pauperem se et habitare sub tegulis<note resp="editor" xml:lang="eng">That is, in a garret.</note> quodam scripto fatetur.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:9" n="3">
+            <p>Librum etiam, cui est titulus "Perialogos,"<note resp="editor" xml:lang="eng">Perialogos, mss. ; περιαλγής, Toup.<p>The word is evidently corrupt; perhaps we should read Perialges (περιαλγής), "The Sorrowful Man." Turnebus suggested περὶ ἀλογίας, a treatise on the folly of teachers in submitting to such unjust treatment.</p></note> edidit continentem querelas de iniuriis, quas professores neglegentia aut ambitione parentum acciperent.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:9" n="4">
+            <p>Fuit autem naturae acerbae, non modo in antisophistas, quos omni occasione<note resp="editor" xml:lang="mul">omni in occasione, mss. except W, in which in is stricken out; cf. Claud. xlii. 1.</note> laceravit,<note resp="editor" xml:lang="eng">Cf. Tib. xi. 3.</note> sed etiam in discipulos, ut et Horatius significat "plagosum" eum appellans,<note resp="editor" xml:lang="eng">Epist. 2. 1. 70.</note> et Domitius Marsus scribens :</p>
+            <quote rend="blockquote">
+              <l>"Si quos Orbilius ferula scuticaque cecidit."</l>
+            </quote>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:9" n="5">
+            <p>Ac ne principum quidem virorum insectatione abstinuit; siquidem ignotus adhuc cum iudicio frequenti testimonium diceret, interrogatus a Varrone diversae partis advocato, quidnam ageret et quo artificio uteretur, gibberosos se de sole in umbram transferre respondit; quod Murena gibber erat.<note resp="editor" xml:lang="eng">Varro Murena. Macrobius, Saturn. 2. 6, tells the same story of Galba, father of the emperor (cf. Galba, iii), but gives the reply of Orbilius as: in sole gibbos soleo fricare, "I rub humps in the sun." Neither remark seems to have any point except the allusion to Murena's deformity, unless Suetonius's version means "I put them into the background," or "consign them to obscurity." The commentators confine themselves to quoting Macrobius.</note></p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:9" n="6">
+            <p>Vixit prope ad centesimum aetatis annum, amissa iam pridem memoria, ut versus Bibaculi docet :</p>
+            <quote rend="blockquote">
+              <l>"Orbilius ubinam est, litterarum oblivio?"</l>
+            </quote>
+            <p>Statua eius Beneventi ostenditur in Capitolio ad sinistrum latus marmorea habitu sedentis ac palliati, appositis duobus scriniis.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:9" n="7">
+            <p>Reliquit filium Orbilium,<note resp="editor" xml:lang="eng">Orbilium, bracketed for omission by Reiff.</note> et ipsum grammaticum professorem.</p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="10">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:10" n="1">
+            <p rend="align(indent)">X. L. Ateius Philologus libertinus Athenis est natus. Hunc Capito Ateius notus iuris consultus inter grammaticos rhetorem, inter rhetores grammaticum fuisse ait.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:10" n="2">
+            <p>De eodem Asinius Pollio in libro, quo Sallustii scripta reprehendit ut nimia priscorum verborum affectatione oblita, ita tradit: "In eam rem adiutorium ei fecit maxime quidem<note resp="editor" xml:lang="mul">quidem, O. Jahn; quidam, mss.</note> Ateius Praetextatus nobilis grammaticus Latinus, declamantium deinde auditor atque praeceptor, ad summam Philologus ab semet nominatus."</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:10" n="3">
+            <p>Ipse ad Laelium Hermam scripsit, se in Graecis litteris magnum processum habere et in Latinis nonnullum, audisse Antonium Gniphonen eiusque † haere postea docuisse.<note resp="editor" xml:lang="eng">The text is corrupt and no satisfactory emendation has as yet been proposed; see Ihm, Rh. Mus. 61, p. 551. Vahlen, Index Lectionum, Berlin, 1877, suggested theoremata, which would give the meaning "and afterwards taught his (Gnipho's) theories."</note> Praecepisse autem multis et claris iuvenibus, in quis Appio quoque et Pulchro Claudiis fratribus, quorum etiam comes in provincia fuerit.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:10" n="4">
+            <p>Philologi appellationem assumpsisse videtur, quia sic ut Eratosthenes, qui primus hoc cognomen sibi vindicavit, multiplici variaque doctrina censebatur.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:10" n="5">
+            <p>Quod sane ex commentariis eius apparet, quanquam paucissimi exstent; de quorum tamen copia sic altera ad eundem Hermam epistula significat: "Hylen<note resp="editor" xml:lang="eng">A Greek word, equivalent to Silva, meaning literally "timber" for building, and used metaphorically of material here of material for oratory. Silva is also applied technically to hasty and more or less extempore productions; cf. Quint. 10. 3. 17, diversum est huic eorum vitium, qui primo decurrere per materiam stilo quam velocissimo volunt et sequentes calorem atque impetum ex tempore scribunt; hanc silvam vocant.</note> nostram aliis memento commendare, quam omnis generis coegimus, uti scis, octingentos in libros."</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:10" n="6">
+            <p>Coluit postea familiarissime C. Sallustium et eo defuncto Asinium Pollionem, quos historiam componere aggressos, alterum breviario rerum omnium Romanarum, ex quibus quas vellet eligeret, instruxit, alterum praeceptis de ratione scribendi.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:10" n="7">
+            <p>Quo magis miror Asinium credidisse, antiqua eum verba et figuras solitum esse colligere Sallustio ; cum sibi sciat nihil<note resp="editor" xml:lang="mul">nihil, GIW; the other mss. have nil</note> aliud suadere quam ut noto civilique et proprio sermone utatur,<note resp="editor" xml:lang="eng">That is, his own, without borrowing or imitation.</note> vitetque maxime obscuritatem Sallustii et audaciam in translationibus.</p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="11">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:11" n="1">
+            <p rend="align(indent)">XI. P.<note resp="editor" xml:lang="eng">P., added by Roth.</note> Valerius Cato, ut nonnulli tradiderunt, Burseni cuiusdam libertus ex Gallia; ipse libello, cui est titulus "Indignatio," ingenuum se natum ait et pupillum relictum, eoque facilius licentia Sullani temporis exutum patrimonio.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:11" n="2">
+            <p>Docuit multos et nobiles, visusque est peridoneus praeceptor, maxime ad poeticam tendentibus, ut quidem apparere vel his versiculis potest :</p>
+            <quote rend="blockquote">
+              <l>"Cato grammaticus, Latina Siren,</l>
+              <l>Qui solus legit ac facit poetas."</l>
+            </quote>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:11" n="3">
+            <p>Is scripsit praeter grammaticos libellos etiam poemata, ex quibus praecipue probantur "Lydia" et "Diana." "Lydiae" Ticida meminit :</p>
+            <quote rend="blockquote">
+              <l>"Lydia doctorum maxima cura liber;"</l>
+            </quote>
+            <p>"Dianae" Cinna:</p>
+            <quote rend="blockquote">
+              <l>"Saecula permaneat nostri Dictynna<note resp="editor" xml:lang="eng">Dictynna is a name of Diana as goddess of the chase, from δίκτυον, "hunting-net."</note> Catonis."</l>
+            </quote>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:11" n="4">
+            <p>Vixit ad extremam senectam, sed in summa pauperie<note resp="editor" xml:lang="mul">pauperie] pauperiem, mss.</note> et paene inopia,<note resp="editor" xml:lang="mul">inopia] inopiam, mss.</note> abditus modico gurgustio, postquam Tusculana villa creditoribus cesserat, ut auctor est Bibaculus :</p>
+            <quote rend="blockquote">
+              <l>"Si quis forte mei domum Catonis,</l>
+              <l>Depictas minio assulas,<note resp="editor" xml:lang="mul">assulas, Beroaldus; assylas, G; assyllas, NOI; asillas, VL.</note> et illos</l>
+              <l>Custodis videt hortulos Priapi:</l>
+              <l>Miratur, quibus ille disciplinis</l>
+              <l>Tantam sit<note resp="editor" xml:lang="mul">sit sapientiam, L (Pontanus); sapientiam sit, VNGOI.</note> sapientiam assecutus,</l>
+              <l>Quem tres cauliculi, selibra farris.</l>
+              <l>Racemi duo tegula sub una</l>
+              <l>Ad summam prope nutriant senectam."</l>
+            </quote>
+            <p>Et rursus:</p>
+            <quote rend="blockquote">
+              <l>"Catonis modo, Galle, Tusculanum</l>
+              <l>Tota creditor urbe venditabat.</l>
+              <l>Mirati sumus, unicum magistrum,</l>
+              <l>Summum grammaticum, optimum poetam</l>
+              <l>Omnes solvere posse quaestiones,</l>
+              <l>Unum difficile expedire nomen.<note resp="editor" xml:lang="eng">Unum expedire nomen, "make shift to find one name," as surety for his debts.</note></l>
+              <l>En cor<note resp="editor" xml:lang="eng">Cor here, as often, = "intelligence," and iecur may have the same meaning, although it is commonly spoken of as the seat of the emotions, especially anger and the like.</note> Zenodoti, en iecur Cratetis."<note resp="editor" xml:lang="eng">That is, "what a fate for a man with such a mind and heart."</note></l>
+            </quote>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="12">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:12" n="1">
+            <p rend="align(indent)">XII. Cornelius Epicadus, L. Cornelii Sullae dictatoris libertus calatorque<note resp="editor" xml:lang="eng">The calatores, literally "summoners," were attendants on the augurs and other religious officials.</note> in sacerdotio augurali, filio quoque eius Fausto gratissimus fuit; quare nunquam non utriusque se libertum edidit.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:12" n="2">
+            <p>Librum autem, quem Sulla novissimum "De Rebus Suis" imperfectum reliquerat, ipse supplevit.</p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="13">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:13" n="1">
+            <p rend="align(indent)">XIII. Staberius Eros suomet aere<note resp="editor" xml:lang="mul">suomet aere, Roth; nametra, mss.</note> emptus de catasta<note resp="editor" xml:lang="eng">Catasta was the scaffolding or platform on which slaves were exposed to view at public sales.</note> et propter litterarum studium manumissus, docuit inter ceteros Brutum et Cassium.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:13" n="2">
+            <p>Sunt qui tradant tanta eum honestate praeditum, ut temporibus Sullanis proscriptorum liberos gratis et sine mercede ulla in disciplinam receperit.</p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="14">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:14" n="1">
+            <p rend="align(indent)">XIV. Curtius Nicias haesit Cn. Pompeio et C. Memmio; sed cum codicillos Memmi ad Pompei uxorem de stupro pertulisset, proditus ab ea, Pompeium offendit, domoque ei interdictum est.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:14" n="2">
+            <p>Fuit et M. Ciceronis familiaris; in cuius epistula ad Dolabellam<note resp="editor" xml:lang="eng">Ad Fam. 9. 10.</note> haec de eo legimus: "Nihil Romae geritur quod te putem scire curare, nisi forte scire vis, me inter Niciam nostrum et Vidium iudicem esse. Profert alter, opinor duobus versiculis, expensum Niciae;<note resp="editor" xml:lang="mul">Niciae, omitted by VLNGW; added from Cicero by OI.</note> alter Aristarchus hos obelizei:<note resp="editor" xml:lang="eng">The critical mark used to indicate spurious or interpolated lines; that is, Vidius denies the debt.</note> ego tanquam criticus antiquus<note resp="editor" xml:lang="mul">antiquus] antiquos, mss.</note> iudicaturus sum, utrum sint τοῦ ποιητοῦ an παρεμβεβλημένοι."<note resp="editor" xml:lang="mul">τοῦ ποιητοῦ an παρεμβεβλημένοι, omitted by the mss.; restored from Cicero by Aldus.</note></p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:14" n="3">
+            <p>Item ad Atticum:<note resp="editor" xml:lang="eng">Ad Att. 12. 26.</note> "De Nicia quod scribis, si ita me haberem ut eius humanitate frui possem, in primis vellem mecum illum habere; sed mihi solitudo et recessus provincia est. Praeterea nosti Niciae nostri imbecillitatem, mollitiam, consuetudinem victus. Cur ergo illi molestus esse velim, cum mihi ille iucundus esse non possit? Voluntas tamen eius mihi grata est."</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:14" n="4">
+            <p>Huius "De Lucilio" libros etiam Santra<note resp="editor" xml:lang="mul">Santra, Statius; satyra or satura, mss. (W. has santyra corr. to satyra).</note> comprobat.</p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="15">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:15" n="1">
+            <p rend="align(indent)">XV. Lenaeus, Magni Pompei libertus et paene omnium expeditionum comes, defuncto eo filiisque eius schola se sustentavit; docuitque in Carinis ad Telluris, in qua regione Pompeiorum domus fuerat,<note resp="editor" xml:lang="eng">See note on Tib. xv. 1.</note> ac tanto amore erga patroni memoriam exstitit, ut Sallustium historicum, quod eum oris probi, animo inverecundo scripsisset, acerbissima satura laceraverit, lastaurum et lurconem et nebulonem popinonemque appellans, et vita scriptisque monstrosum, praeterea priscorum Catonisque verborum ineruditissimum furem.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:15" n="2">
+            <p>Traditur autem puer adhuc Athenis<note resp="editor" xml:lang="mul">Athenis, N. Heinsius; catenis, VLNGO; tacenis, I.</note> subreptus, refugisse in patriam, perceptisque liberalibus disciplinis, pretium suum domino<note resp="editor" xml:lang="mul">domino, NGOIW; the other mss. omit.</note> rettulisse, verum ob ingenium atque doctrinam gratis manumissus.</p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="16">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:16" n="1">
+            <p rend="align(indent)">XVI. Q. Caecilius Epirota, Tusculi natus, libertus Attici<note resp="editor" xml:lang="mul">Attici, Beroaldus; Satti, etc., mss.</note> equitis Romani, ad quem sunt Ciceronis epistulae, cum filiam patroni nuptam M. Agrippae doceret, suspectus in ea et ob hoc remotus, ad Cornelium Gallum se contulit vixitque una familiarissime, quod ipsi Gallo inter gravissima crimina ab Augusto obicitur.<note resp="editor" xml:lang="eng">Cf. Aug. lxvi. 1-2.</note></p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:16" n="2">
+            <p>Post deinde damnationem mortemque Galli scholam aperuit, sed ita ut paucis et tantum adulescentibus praeciperet, praetextato nemini, nisi si cuius parenti hoc officium negare non posset.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:16" n="3">
+            <p>Primus dicitur Latine ex tempore disputasse, primusque Vergilium et alios poetas novos praelegere coepisse, quod etiam Domitii Marsi versiculus indicat:</p>
+            <quote rend="blockquote">
+              <l>"Epirota, tenellorum nutricula vatum."</l>
+            </quote>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="17">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:17" n="1">
+            <p rend="align(indent)">XVII. M. Verrius Flaccus libertinus docendi genere maxime claruit. Namque ad exercitanda discentium ingenia aequales inter se committere solebat, proposita non solum materia quam scriberent, sed et praemio quod victor auferret. Id erat liber aliquis antiquus pulcher aut rarior.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:17" n="2">
+            <p>Quare ab Augusto quoque nepotibus eius praeceptor electus, transiit in Palatium cum tota schola, verum ut ne quem<note resp="editor" xml:lang="mul">ne quem, OW; neque, VLNGI.</note> amplius posthac discipulum reciperet; docuitque in atrio Catulinae domus, quae pars Palatii tunc erat, et centena sestertia in annum accepit.<note resp="editor" xml:lang="eng">Q. Lutatius Catulus; see chap. iii. and Index.</note></p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:17" n="3">
+            <p>Decessit aetatis exactae sub Tiberio. Statuam habet Praeneste, in inferiore<note resp="editor" xml:lang="mul">inferiore, VLW; superiore, NOGI.</note> fori parte contra<note resp="editor" xml:lang="mul">contra, NOI; circa, VLG; cf. Vahlen, Index Lectionum, Berlin, 1877.</note> hemicyclium,<note resp="editor" xml:lang="eng">A semi-circular place for sitting; applied also by Vitruvius, 9. 9. 1, to a kind of sundial.</note> in quo fastos a se ordinatos et marmoreo parieti incisos publicarat.<note resp="editor" xml:lang="eng">The Fasti Praenestini, of which fragments have come down to us.</note></p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="18">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:18" n="1">
+            <p rend="align(indent)">XVIII. L. Crassicius, genere Tarentinus, ordinis libertini, cognomine Pasicles, mox Pansam se transnominavit.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:18" n="2">
+            <p>Hic initio circa scenam versatus est, dum mimographos adiuvat; deinde in pergula<note resp="editor" xml:lang="mul">pergula, Ven. ed. of 1474, Beroaldus; percula, OW; parcula, VLNGI.</note> docuit,<note resp="editor" xml:lang="eng">A pergula was an upper floor or balcony on the front of a house; such balconies were used as shops, studios, schools, and the like; cf. Aug. xciv. 12.</note> donec commentario "Zmyrnae" edito adeo inclaruit, ut haec de eo scriberentur:</p>
+            <quote rend="blockquote">
+              <l>"Uni Crassicio se credere Zmyrna probavit ;</l>
+              <l>Desinite indocti coniugio hanc petere!</l>
+              <l>Soli Crassicio se dixit nubere velle,</l>
+              <l>Intima cui soli nota sua exstiterint."</l>
+            </quote>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:18" n="3">
+            <p>Sed cum edoceret<note resp="editor" xml:lang="eng">The mss. have et doceret, except O, which omits et; W indicates a lacuna before et.</note> iam multos ac nobiles, in iis Iullum<note resp="editor" xml:lang="mul">Iulum, OI; Iulium, VLNG.</note> Antonium, triumviri filium, ut Verrio quoque Flacco compararetur, dimissa repente schola, transiit ad Q. Sexti philosophi sectam.</p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="19">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:19" n="1">
+            <p rend="align(indent)">XIX. Scribonius Aphrodisius, Orbilii servus atque discipulus, mox a Scribonia Libonis filia, quae prior Augusti uxor fuerat, redemptus et manumissus, docuit quo Verrius tempore, cuius etiam libris "De Orthographia" rescripsit, non sine insectatione studiorum morumque eius.</p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="20">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:20" n="1">
+            <p rend="align(indent)">XX. C. Iulius Hyginus, Augusti libertus, natione Hispanus, (nonnulli Alexandrinum putant et a Caesare puerum Romam adductum Alexandria capta) studiose et audiit et imitatus est Cornelium Alexandrum grammaticum Graecum, quem propter antiquitatis notitiam Polyhistorem multi, quidam Historiam vocabant.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:20" n="2">
+            <p>Praefuit Palatinae bibliothecae, nec eo secius plurimos docuit; fuitque familiarissimus Ovidio poetae et Clodio Licino<note resp="editor" xml:lang="mul">Licino, Oudendorp, Bergk; Licinio, mss.</note> consulari, historico, qui eum admodum pauperem decessisse tradit et liberalitate sua, quoad vixerit, sustentatum.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:20" n="3">
+            <p>Huius libertus fuit Iulius Modestus, in studiis atque doctrina vestigia patroni secutus.</p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="21">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:21" n="1">
+            <p rend="align(indent)">XXI. C. Melissus, Spoleti natus ingenuus, sed ob discordiam parentum expositus, cura et industria educatoris sui altiora studia percepit, ac Maecenati pro grammatico muneri datus est.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:21" n="2">
+            <p>Cui cum se gratum et acceptum in modum amici videret, quanquam asserente matre, permansit tamen in statu servitutis praesentemque condicionem verae origini anteposuit;</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:21" n="3">
+            <p>quare cito manumissus, Augusto etiam<note resp="editor" xml:lang="mul">Augusto etiam, NGOW; Augusto et, VLI.</note> insinuatus est.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:21" n="4">
+            <p>Quo delegante,<note resp="editor" xml:lang="mul">quo delegante, O: quod elegantem, VLNGIW.</note> curam ordinandarum bibliothecarum in Octaviae porticu suscepit.<note resp="editor" xml:lang="eng">Aug. xxix. 3.</note> Atque, ut ipse tradit, sexagesimum aetatis annum agens, libellos "Ineptiarum," qui nunc "Iocorum" inscribuntur, componere instituit, absolvitque CL,<note resp="editor" xml:lang="eng">See note on Tib. vii. 2.</note> quibus et alios diversi operis postea addidit.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:21" n="5">
+            <p>Fecit et novum genus togatarum<note resp="editor" xml:lang="eng">The fabulae togatae presented scenes from Roman life, in contrast with the fabulae palliatae, or comedies adapted from the Greek.</note> inscripsitque trabeatas.<note resp="editor" xml:lang="eng">See note on trabea, Dom. xiv. 3. In the trabeatae the characters were knights or other wearers of the trabea.</note></p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="22">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:22" n="1">
+            <p rend="align(indent)">XXII. M. Pomponius Marcellus, sermonis Latini exactor molestissimus, in advocatione quadam (nam interdum et causas agebat) soloecismum ab adversario factum usque adeo arguere perseveravit, quoad Cassius Severus, interpellatis iudicibus, dilationem petiit, ut litigator suus alium grammaticum adhiberet; quando non putat is cum adversario de iure sibi, sed de soloecismo controversiam futuram.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:22" n="2">
+            <p>Hic idem, cum ex oratione Tiberi verbum<note resp="editor" xml:lang="mul">Tiberius verbum, W: Tyberium, V; Tyberius, O.</note> reprehendisset, affirmante Ateio Capitone, et esse illud Latinum, et si non esset, futurum certe iam inde: "Mentitur," inquit, "Capito; tu enim, Caesar, civitatem dare potes hominibus, verbo<note resp="editor" xml:lang="mul">verbo, Roth; verbis, G. Faernus (Reiff.); verba, mss.</note> non potes."</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:22" n="3">
+            <p>Pugilem olim fuisse, Asinius Gallus hoc in eum epigrammate ostendit:
+              <quote rend="blockquote">
+                <l>"Qui 'caput ad laevam'<note resp="editor" xml:lang="eng">To dodge a blow delivered with the right hand; cf. Verg. Aen. v. 428, abduxere retro longe capita ardua ab ictu; part of the instruction to a boxer.</note> didicit, glossemata nobis</l>
+                <l>Praecipit; os<note resp="editor" xml:lang="eng">Os is of course used in a double sense, figuratively as above, and literally, of a pugilist's battered visage.</note> nullum, vel potius pugilis!"</l>
+              </quote>
+            </p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="23">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:23" n="1">
+            <p rend="align(indent)">XXIII. Q. Remmius Palaemon, Vicetinus,<note resp="editor" xml:lang="mul">Vicetinus, W; the other mss. have Vicentinus (Vicc-, G).</note> mulieris verna, primo, ut ferunt, textrinum, deinde herilem filium dum comitatur in scholam,<note resp="editor" xml:lang="eng">As paedagogus, cf. Nero, xxxvi. 2, etc.</note> litteras didicit.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:23" n="2">
+            <p>Postea manumissus docuit Romae ac principem locum inter grammaticos tenuit, quanquam infamis omnibus vitiis, palamque et Tiberio et mox Claudio praedicantibus, nemini minus institutionem puerorum vel iuvenum committendam.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:23" n="3">
+            <p>Sed capiebat homines cum memoria rerum, tum facilitate sermonis ; nec non etiam poemata faciebat ex tempore. Scripsit vero variis, nec vulgaribus metris.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:23" n="4">
+            <p>Arrogantia fuit tanta, ut M. Varronem porcum appellaret; secum et natas et morituras litteras iactaret; nomen suum in "Bucolicis"<note resp="editor" xml:lang="eng">3. 50 ff.</note> non temere positum, sed praesagante<note resp="editor" xml:lang="mul">praesagante, mss., Roth; praesagiente, Reiff.</note> Vergilio, fore quandoque omnium poetarum ac poematum Palaemonem iudicem.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:23" n="5">
+            <p>Gloriabatur etiam, latrones quondam sibi propter nominis celebritatem parsisse.<note resp="editor" xml:lang="mul">parsisse, VG; parcisse, NI; pepercisse, LO.</note> Luxuriae ita indulsit, ut saepius in die lavaret, nec sufficeret sumptibus, quanquam ex schola quadringena annua caperet, ac non multo minus ex re familiari; cuius diligentissimus erat, cum et officinas promercalium vestium exerceret, et agros adeo coleret, ut vitem manu eius insitam<note resp="editor" xml:lang="mul">insitam, S. Gelenius, Mommsen; institutam, mss.</note> satis constet CCCLX uvas edidisse.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:23" n="6">
+            <p>Sed maxime flagrabat libidinibus in mulieres, usque ad infamiam oris; dicto quoque<note resp="editor" xml:lang="mul">dicto quoque, VLGO; dictoque, NI.</note> non infaceto notatum ferunt cuiusdam, qui cum<note resp="editor" xml:lang="mul">qui cum, O: qui eum, VNGI; omitted by L; qui cum eum, Reiff.</note> in turba osculum sibi ingerentem quanquam refugiens devitare non posset, "Vis tu," inquit, "magister, quotiens festinantem aliquem vides, abligurire?"</p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1" n="24">
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:24" n="1">
+            <p rend="align(indent)">XXIV. M. Valerius Probus, Berytius, diu centuriatum petiit, donec taedio ad studia se contulit.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:24" n="2">
+            <p>Legerat in provincia quosdam veteres libellos apud grammatistam, durante adhuc ibi antiquorum memoria, necdum omnino abolita sicut Romae.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:24" n="3">
+            <p>Hos cum diligentius repeteret atque alios deinceps cognoscere cuperet, quamvis omnes contemni magisque opprobrio legentibus quam gloriae et fructui esse animadverteret, nihilo minus in proposito mansit; multaque exemplaria contracta emendare ac distinguere et annotare curavit, soli huic nec ulli praeterea grammatices parti deditus.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:24" n="4">
+            <p>Hic non tam discipulos quam sectatores aliquot habuit. Nunquam enim ita docuit ut magistri personam sustineret; unum et alterum, vel cum plurimos tres aut quattuor postmeridianis horis admittere solebat, cubansque inter longos ac vulgares sermones legere quaedam, idque perraro.</p>
+          </div>
+          <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.phi004.rolfe-lat1:24" n="5">
+            <p>Nimis pauca et exigua de quibusdam minutis quaestiunculis edidit. Reliquit autem non mediocrem "Silvam Observationum Sermonis Antiqui."<note resp="editor" xml:lang="eng">Naturally, on literary and grammatical topics See note on Hyle, chap. x.</note></p>
+          </div>
+        </div>
+
+      </div>
+    </body>
+  </text>
+</TEI>
