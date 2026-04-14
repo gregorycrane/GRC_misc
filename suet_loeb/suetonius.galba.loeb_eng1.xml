@@ -1,4 +1,84 @@
-<div xml:lang="eng" type="translation" n="urn:cts:latinLit:phi1348.abo017.rolfe-eng1">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="eng">
+    <fileDesc>
+      <titleStmt>
+        <title>Nero</title>
+        <author>Suetonius</author>
+        <editor role="translator">John C. Rolfe</editor>
+        <sponsor>Perseus Project, Tufts University</sponsor>
+        <principal>Gregory Crane</principal>
+        <funder>Tufts University</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Trustees of Tufts University</publisher>
+        <pubPlace>Medford, MA</pubPlace>
+        <authority>Perseus Project</authority>
+        <date type="release" when="2026-04-01">Perseus 5.0</date>
+        <idno type="filename">phi1348.abo016.rolfe-eng1.xml</idno>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a
+            Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <title>Suetonius</title>
+            <author>Suetonius</author>
+            <editor role="translator">John C. Rolfe</editor>
+            <imprint>
+              <publisher>William Heinemann</publisher>
+              <pubPlace>London</pubPlace>
+              <publisher>Macmillan</publisher>
+              <pubPlace>New York</pubPlace>
+              <date>1914</date>
+            </imprint>
+            <biblScope unit="volume">2</biblScope>
+          </monogr>
+          <series>
+            <title>Loeb Classical Library</title>
+          </series>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <refsDecl n="CTS">
+        <cRefPattern n="section" matchPattern="(\w+).(\w+)"
+          replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+          <p>This pointer pattern extracts chapter and section.</p>
+        </cRefPattern>
+        <cRefPattern n="chapter" matchPattern="(\w+)"
+          replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+          <p>This pointer pattern extracts chapter.</p>
+        </cRefPattern>
+      </refsDecl>
+
+      <editorialDecl>
+        <correction method="silent" status="medium">
+          <p>Gemini scan of PDF</p>
+        </correction>
+      </editorialDecl>
+
+    </encodingDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="eng">English</language>
+        <language ident="lat">Latin</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-04-04" who="Gemini">First version</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:lang="eng" type="translation" n="urn:cts:latinLit:phi1348.abo016.rolfe-eng1">
+        <div xml:lang="eng" type="translation" n="urn:cts:latinLit:phi1348.abo017.rolfe-eng1">
   <pb n="p.191"/>
   <div type="textpart" subtype="chapter" xml:base="urn:cts:latinLit:phi1348.abo017.rolfe-eng1" n="1">
     <div type="textpart" subtype="section" xml:base="urn:cts:latinLit:phi1348.abo017.rolfe-eng1:1" n="1">
@@ -222,3 +302,7 @@
     </div>
   </div>
 </div>
+</div>
+</body>
+</text>
+</TEI>
