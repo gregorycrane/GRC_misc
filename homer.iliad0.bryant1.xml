@@ -1,51 +1,84 @@
-
-
-    <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>The Iliad of Homer</title>
-        <author>Homer</author>
-        <respStmt>
-          <resp>translated by</resp>
-          <name>William Cullen Bryant</name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>Fields, Osgood, &amp; Co.</publisher>
-        <pubPlace>Boston</pubPlace>
-        <date>1870</date>
-      </publicationStmt>
-      <sourceDesc>
-        <p>This text is a digital transcription of William Cullen Bryant's translation of Homer's Iliad.</p>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <projectDesc>
-        <p>This TEI XML version of Bryant's translation of Homer was created to provide a digital edition of the text.</p>
-      </projectDesc>
-      <editorialDecl>
-        <p>Each book of the Iliad begins with a new line numbering, starting from line 1.</p>
-      </editorialDecl>
-    </encodingDesc>
-    <profileDesc>
-      <langUsage>
-        <language ident="en">English</language>
-      </langUsage>
-      <textClass>
-        <keywords>
-          <term>Homer</term>
-          <term>Iliad</term>
-          <term>Epic poetry</term>
-          <term>Classical literature</term>
-          <term>William Cullen Bryant</term>
-          <term>Translation</term>
-        </keywords>
-      </textClass>
-    </profileDesc>
-  </teiHeader>
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="en">The Iliad of Homer</title>
+                <author>Homer</author>
+                <respStmt>
+                    <resp>translated by</resp>
+                    <name>William Cullen Bryant</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Fields, Osgood, &amp; Co.</publisher>
+                <pubPlace>Boston</pubPlace>
+                <date>1870</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>Homer</author>
+                        <title xml:lang="en">The Iliad of Homer</title>
+                        <respStmt>
+                            <resp>translated by</resp>
+                            <name>William Cullen Bryant</name>
+                        </respStmt>
+                        <imprint>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Fields, Osgood, &amp; Co.</publisher>
+                            <date>1870</date>
+                        </imprint>
+                    </monogr>
+                    <note>This text is a digital transcription of William Cullen Bryant's translation of Homer's Iliad.</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <refsDecl n="CTS">
+                <cRefPattern n="line" matchPattern="(\w+).(\w+)"
+                    replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']//tei:l[@n='$2'])">
+                    <p>This pointer pattern extracts Book and Line</p>
+                </cRefPattern>
+                <cRefPattern n="book" matchPattern="(\w+)"
+                    replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+                    <p>This pointer pattern extracts Book</p>
+                </cRefPattern>
+            </refsDecl>
+            <refsDecl>
+                <refState delim="." unit="book"/>
+                <refState unit="line"/>
+            </refsDecl>
+            <editorialDecl>
+                <p>Each book of the Iliad begins with a new line numbering, starting from line 1.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Homer</term>
+                    <term>Iliad</term>
+                    <term>Epic poetry</term>
+                    <term>Classical literature</term>
+                    <term>William Cullen Bryant</term>
+                    <term>Translation</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="XML_Converter" when="2026-06-28">Converted original header structure to match EpiDoc template.</change>
+            <change who="grc" when="2026-06-28">Did a first pass adding Perseus card passes using Gemini. I had done a preliminary XML version earlier.</change>
+        </revisionDesc>
+    </teiHeader>
     <text>
-        <front><div>
+        <front>
+                    
+
+          <div type="textpart" subtype="preface">
   <head>PREFACE.</head>
   <pb n="iii"/>
   <p>HAVING now nearly completed my translation of the Iliad of Homer, I sit down to write the Preface, that it may be prefixed to the first volume. To this task of translation, which I began in 1865, I afterwards gave myself the more willingly because it helped in some measure to divert my mind from a great domestic sorrow. I am not sure that, when it shall be concluded, it may not cost me some regret to part with so interesting a companion as the old Greek poet, whose thoughts I have, for four years past, been occupied, though with interruptions, in the endeavor to transfer from his own grand and musical Greek to our less sonorous but still manly and flexible tongue.</p>
@@ -331,7 +364,8 @@ of his Daughter. Refusal of Agamemnon.</item>
       <item>His Resolve to meet Achilles, and his Flight when Achilles approaches.</item>
       <item>Descent of Minerva to aid Achilles. - Deceit practised by her on Hector, when, assuming the Form of his Brother Deiphobus, she induces him to encounter Achilles.</item>
       <item>His Death.</item>
-      <item>His Body dragged at the Chariot-wheels of the Victor. - Lament of Priam and Hecuba.</item>
+      <item>His Body dragged at the Chariot-wheels of the Victor.</item>
+      <item>Lament of Priam and Hecuba.</item>
       <item>The News brought to Andromache while engaged at the Loom. Her Sorrow and Lamentation.</item>
     </list>
   </div>
@@ -361,6 +395,7 @@ of his Daughter. Refusal of Agamemnon.</item>
 </front>
         
         <body>
+          <div type="textpart" subtype="translation" n="urn:cts:greekLit:tlg0012.tlg001.bryant1870-eng2" xml:lang="eng">
 <div type="textpart" subtype="book" n="1">
     <head>THE ILIAD.</head>
     <head>BOOK I.</head>
@@ -755,7 +790,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="388">To ply the oar, and put a hecatomb</l>
         <l n="389">Upon it for the god. He thither led</l>
         <l n="390">The fair-cheeked maid Chryseis; the command</l>
-        <l n="391">He gave to wise Ulysses; forth they went,</l>
+        <l n="391">He gave to wise Ulysses; <milestone unit="card" n="1.312"/> forth they went,</l>
         <l n="392">Leader and crew, upon their watery path.</l>
         <l n="393">Meanwhile, he bade the camp be purified;</l>
         <l n="394">And straight the warriors purified the camp,</l>
@@ -847,7 +882,8 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="480">Were perishing in heaps. His arrows flew</l>
         <l n="481">Among the Grecian army, far and wide.</l>
         <l n="482">A seer expert in oracles revealed</l>
-        <l n="483">The will of Phœbus, and I was the first</l>
+        <l n="483">The will of Phœbus, <milestone unit="card" n="1.386"/>
+ and I was the first</l>
         <l n="484">To counsel that the god should be appeased.</l>
         <l n="485">But Agamemnon rose in sudden wrath,</l>
         <l n="486">Uttering a threat, which he has since fulfilled.</l>
@@ -1081,7 +1117,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="714">In silence, and obey, lest all the gods</l>
         <l n="715">Upon Olympus, when I come and lay</l>
         <l n="716">These potent hands on thee, protect thee not."</l>
-        <l n="717">He spake, and Juno, large-eyed and august,</l>
+        <l n="717"><milestone unit="card" n="1.568"/>He spake, and Juno, large-eyed and august,</l>
         <l n="718">O'erawed, and curbing her high spirit, sat</l>
         <l n="719">In silence; meanwhile all the gods of heaven</l>
         <l n="720">Within the halls of Jove were inly grieved.</l>
@@ -4471,7 +4507,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="950">And urge him on. O Father Jupiter,</l>
         <l n="951">Wilt thou be angry with me if I drive</l>
         <l n="952">Mars, sorely wounded, from the battle-field?”</l>
-        <l n="953">The cloud-compelling Jupiter replied:-</l>
+        <l n="953"><milestone unit="card" n="5.764"/>The cloud-compelling Jupiter replied:-</l>
         <l n="954">"Thou hast my leave; but send to encounter him</l>
         <l n="955">Pallas the spoiler, who has many a time</l>
         <l n="956">Brought grievous troubles on the god of war."</l>
@@ -5735,7 +5771,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="395">Him for whose life they scarce had dared to hope.</l>
         <l n="396">And Ajax also by the well-armed Greeks,</l>
         <l n="397">Exulting in his feats of arms, was brought</l>
-        <l n="398">To noble Agamemnon. When the chiefs</l>
+        <l n="398">To noble Agamemnon. <milestone unit="card" n="7.313"/>When the chiefs</l>
         <l n="399">Were in his tents, the monarch sacrificed</l>
         <l n="400">A bullock of twelve summers to the son</l>
         <l n="401">Of Saturn, sovereign Jupiter. They flayed</l>
@@ -5837,7 +5873,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="497">From cruel battle till we burn our dead:</l>
         <l n="498">Then be the war renewed till fate shall part</l>
         <l n="499">The hosts and give to one the victory."</l>
-        <l n="500">He spake; and all were silent for a space.</l>
+        <l n="500"><milestone unit="card" n="7.398"/>He spake; and all were silent for a space.</l>
         <l n="501">Then spake at length the valiant Diomed: -</l>
         <l n="502">"Let none consent to take the Trojan's goods,</l>
         <l n="503">Nor even Helen; for a child may see</l>
@@ -6042,7 +6078,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="96">Then neither dared Idomeneus remain,</l>
         <l n="97">Nor Agamemnon, on the ground, nor stayed</l>
         <l n="98">The chieftains Ajax, ministers of Mars.</l>
-        <l n="99">Gerenian Nestor, guardian of the Greeks,</l>
+        <l n="99"><milestone unit="card" n="8.78"/>Gerenian Nestor, guardian of the Greeks,</l>
         <l n="100">Alone was left behind, and he remained</l>
         <l n="101">Unwillingly. A steed of those that drew</l>
         <l n="102">His car was sorely wounded by a shaft</l>
@@ -6575,7 +6611,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="629">And let us gather store of wood, to feed</l>
         <l n="630">A multitude of blazing fires all night,</l>
         <l n="631">Till Morning, daughter of the Dawn, appear, -</l>
-        <l n="632">Fires that shall light the sky, lest in the hours</l>
+        <l n="632">Fires that shall light the sky, <milestone unit="card" n="8.512"/>lest in the hours</l>
         <l n="633">Of darkness with their ships the long-haired Greeks</l>
         <l n="634">Attempt escape across the mighty deep.</l>
         <l n="635">Let every foeman bear a wound to cure</l>
@@ -6834,7 +6870,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="193">Most hateful is to men. Now let the son</l>
         <l n="194">Of Peleus yield at length to me, who stand</l>
         <l n="195">Above him in authority and years."</l>
-        <l n="196">Then answered Nestor the Gerenian knight: —</l>
+        <l n="196"><milestone unit="card" n="9.162"/>Then answered Nestor the Gerenian knight: —</l>
         <l n="197">"Atrides Agamemnon! glorious king!</l>
         <l n="198">Gifts not to be contemned thou offerest</l>
         <l n="199">To Prince Achilles. Let us now despatch</l>
@@ -6991,7 +7027,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="350">With milky kine, thou may'st become to him</l>
         <l n="351">A son-in-law, and cherished equally</l>
         <l n="352">With his sole son Orestes, who is reared</l>
-        <l n="353">Right royally. Three daughters there, within</l>
+        <l n="353">Right royally. <milestone unit="card" n="9.286"/>Three daughters there, within</l>
         <l n="354">The monarch's stately halls, - Chrysothemis,</l>
         <l n="355">Laodice, and Iphianassa, - dwell,</l>
         <l n="356">And thou may'st choose among them, and may'st lead</l>
@@ -7574,7 +7610,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="46">None will accept the task, I fear, to creep</l>
         <l n="47">Alone at dead of night, a spy, within</l>
         <l n="48">The hostile lines; - a bold man must he be."</l>
-        <l n="49">Then answered Agamemnon, king of men: -</l>
+        <l n="49"><milestone unit="card" n="10.42"/>Then answered Agamemnon, king of men: -</l>
         <l n="50">"Most noble Menelaus, much we need</l>
         <l n="51">Wise counsel - thou and I - to save our men</l>
         <l n="52">And galleys from destruction, since the will</l>
@@ -7624,7 +7660,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="96">Alone, while others sleep? Com'st thou to find</l>
         <l n="97">One of the guardsmen, or a comrade? Speak;</l>
         <l n="98">Come not in silence thus: what wouldst thou have?"</l>
-        <l n="99">Then answered Agamemnon, king of men: -</l>
+        <l n="99"><milestone unit="card" n="10.86"/>Then answered Agamemnon, king of men: -</l>
         <l n="100">"Ο Nestor, son of Neleus, whom the Greeks</l>
         <l n="101">All glory in! thou certainly wilt know</l>
         <l n="102">Atrides Agamemnon, whom the will</l>
@@ -7674,7 +7710,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="146">Let us go on, and meet them where they wait,</l>
         <l n="147">Among the guards and just before the gates, -</l>
         <l n="148">For I appointed that the trysting-place."</l>
-        <l n="149">And Nestor, the Gerenian knight, replied: -</l>
+        <l n="149"><milestone unit="card" n="10.128"/>And Nestor, the Gerenian knight, replied: -</l>
         <l n="150">"Then let no Greek condemn him, or refuse</l>
         <l n="151">To heed and to obey when he shall speak."</l>
         <l n="152">He spake, and drew his tunic o'er his breast,</l>
@@ -7776,7 +7812,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="248">A black ewe with a suckling lamb, -such gifts</l>
         <l n="249">No one hath yet received, - and he should sit</l>
         <l n="250">A guest at all our banquets and our feasts."</l>
-        <l n="251">He spake; and all were silent for a space.</l>
+        <l n="251"><milestone unit="card" n="10.218"/>He spake; and all were silent for a space.</l>
         <l n="252">Then Diomed, the great in battle, said: -</l>
         <l n="253">"Nestor, my resolute spirit urges me</l>
         <l n="254">To explore the Trojan camp, that lies so near;</l>
@@ -8011,7 +8047,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="483">Will they remain beside our galleys here,</l>
         <l n="484">Or do they meditate, since, as they say,</l>
         <l n="485">The Greeks are beaten, a return to Troy?"</l>
-        <l n="486">Dolon, Eumedes' son, made answer thus:-</l>
+        <l n="486"><milestone unit="card" n="10.412"/>Dolon, Eumedes' son, made answer thus:-</l>
         <l n="487">"What thou requirest I will truly tell.</l>
         <l n="488">Hector is with his counsellors, and now,</l>
         <l n="489">Apart from all the bustle, at the tomb</l>
@@ -8118,7 +8154,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="590">To take the showy lash that lay in sight</l>
         <l n="591">On the fair chariot-seat. In going thence</l>
         <l n="592">He whistled, as a sign to Diomed,</l>
-        <l n="593">Who lingered, pondering on his next exploit, —</l>
+        <l n="593"><milestone unit="card" n="10.503"/>Who lingered, pondering on his next exploit, —</l>
         <l n="594">Whether to seize the chariot where was laid</l>
         <l n="595">The embroidered armor, dragging it away;</l>
         <l n="596">Or, lifting it aloft, to bear it thence;</l>
@@ -10326,7 +10362,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="498">He toppled from the sumptuous chariot-seat,</l>
         <l n="499">And large-souled Nestor's son, Antilochus,</l>
         <l n="500">Drave with the chariot to the well-armed Greeks.</l>
-        <l n="501">Deiphobus, who sorrowed for the fate</l>
+        <l n="501"><milestone unit="card" n="13.402"/>Deiphobus, who sorrowed for the fate</l>
         <l n="502">Of Asius, drawing near Idomeneus,</l>
         <l n="503">Hurled at him his bright spear. The Greek beheld,</l>
         <l n="504">As face to face they stood, and scaped the stroke,</l>
@@ -10537,6 +10573,430 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="709">Part of the Trojan's weapon, like a stake</l>
         <l n="710">Hardened by fire, stood fixed within the shield,</l>
         <l n="711">Part lay on earth, and he who cast it slunk</l>
+
+        
+        <pb n="31"/>
+
+<l n="712">Among his comrades to avoid his fate.</l>
+<l n="713">Meriones, pursuing with his spear,</l>
+<l n="714">Smote him between the navel and the groin,</l>
+<l n="715">Where deadliest are the wounds in battle given</l>
+<l n="716">To man's unhappy race. He planted there</l>
+<l n="717">The cruel blade, and Adamas, who fell,</l>
+<l n="718">Writhed panting round it, as a bullock bound</l>
+<l n="719">By cowherds on the mountain with strong cords</l>
+<l n="720">Pants as they lead him off against his will.</l>
+<l n="721">So wounded, Adamas drew heavy breath,</l>
+<l n="722">And yet not long. The brave Meriones,</l>
+<l n="723">Approaching, plucked the weapon forth, and night</l>
+<l n="724">Came o'er the eyes of Adamas. At hand</l>
+<l n="725">Stood Helenus, and struck Deipyrus</l>
+<l n="726">Upon the temple with his ponderous sword,</l>
+<l n="727">Of Thracian make, and cut the three-coned helm</l>
+<l n="728">Away, and dashed it to the ground; it rolled</l>
+<l n="729">Between a Grecian warrior's feet, who stooped</l>
+<l n="730">And took it up, while o'er its owner's eyes</l>
+<l n="731">The darkness gathered. Grieved at this, the son</l>
+<l n="732">Of Atreus, Menelaus great in war,</l>
+<l n="733">Rushed forward, threatening royal Helenus.</l>
+<l n="734">He brandished his sharp spear; the Trojan drew</l>
+<l n="735">His bow; advancing, one to hurl a lance,</l>
+
+<pb n="32"/>
+
+<l n="736">And one to send an arrow. Priam's son</l>
+<l n="737">Let fly a shaft at Menelaus' breast.</l>
+<l n="738">The bitter missile from the hollow mail</l>
+<l n="739">Glanced off. As when from the broad winnowing-fan</l>
+<l n="740">On some wide threshing-floor the swarthy beans,</l>
+<l n="741">Or vetches, bound before the whistling wind</l>
+<l n="742">And winnower's force, so, bounding from the mail</l>
+
+<l n="743">Of gallant Menelaus, flew afar</l>
+<l n="744">The bitter shaft. Then Menelaus, great</l>
+<l n="745">In battle, smote the hand of Helenus</l>
+
+<l n="746">That held the polished bow; the brazen spear</l>
+<l n="747">Passed through the hand, and reached the bow, and there</l>
+<l n="748">Stood fixed, while Helenus, avoiding death,</l>
+<l n="749">Drew back among his comrades, with his hand</l>
+<l n="750">Held low, and trailing still the ashen stem.</l>
+
+<l n="751">Magnanimous Agenor from the wound</l>
+<l n="752">Drew forth the blade, and wrapped the hand in wool,</l>
+<l n="753">Carefully twisted, taken from a sling</l>
+<l n="754">Carried by an attendant of the chief.</l>
+<l n="755">To meet the glorious Menelaus sprang</l>
+<l n="756">Pisander, led by his unhappy fate</l>
+<l n="757">To perish, Menelaus! by thy hand</l>
+<l n="758">In that fierce conflict. When the two were near,</l>
+<l n="759">Advancing toward each other, Atreus' son</l>
+
+<pb n="33"/>
+
+<l n="760">Took aim amiss; his spear flew far aside.</l>
+<l n="761">Pisander smote the buckler on the arm</l>
+<l n="762">Of mighty Menelaus, yet drave not</l>
+
+<l n="763">The weapon through. The broad shield stopped its force,</l>
+<l n="764">And broke it at the neck; yet hoped he still</l>
+<l n="765">For victory, and exulted. Then the son</l>
+<l n="766">Of Atreus drew his silver-studded sword</l>
+<l n="767">And sprang upon his foe, who from beneath</l>
+<l n="768">His buckler took a brazen battle-axe,</l>
+
+<l n="769">With a long stem of polished olive-wood.</l>
+<l n="770">Both struck at once. Pisander hewed away,</l>
+<l n="771">Below the crest, the plumed helmet-cone</l>
+<l n="772">Of Atreus' son, who smote, above the nose,</l>
+<l n="773">Pisander's forehead, crashing through the bones.</l>
+<l n="774">Both bleeding eyes dropped to the ground amid</l>
+<l n="775">The dust; he fell; he writhed; the conqueror,</l>
+<l n="776">Advancing, set his heel upon his breast,</l>
+<l n="777">And stripped the armor off, and, boasting, said: -</l>
+<l n="778">"Thus shall ye leave unharmed the fleet that brought</l>
+<l n="779">The knights of Greece, ye treaty-breaking sons</l>
+<l n="780">Of Ilium, never satisfied with war!</l>
+<l n="781">Yet lack ye not still other guilt and shame,</l>
+<l n="782">Wrong done to me, ye dogs! Ye have not feared</l>
+<l n="783">The wrath of Hospitable Jove, who flings</l>
+<pb n="34"/>
+
+<l n="784">The thunder, and will yet destroy your town,</l>
+<l n="785">With all its towers, - ye who, without a cause,</l>
+<l n="786">Bore off my youthful bride, and heaps of wealth,</l>
+<l n="787">When she had given you welcome as our guests.</l>
+<l n="788">And now ye seek to burn with fire the fleet</l>
+<l n="789">With which we cross the ocean, and to slay</l>
+<l n="790">The Grecian heroes. Ye shall yet be forced,</l>
+<l n="791">Eager for battle as ye are, to pause.</l>
+<l n="792">O Father Jupiter, who hast the praise</l>
+<l n="793">Of highest wisdom among gods and men!</l>
+<l n="794">All this is of thy ordering. How hast thou</l>
+<l n="795">Favored this arrogant crew of Troy, in love</l>
+<l n="796">With violence, who never have enough</l>
+<l n="797">Of war and all its many miseries!</l>
+<l n="798">All other things soon satisfy desire, -</l>
+<l n="799">Sleep, love, and song, and graceful dance, which most</l>
+<l n="800">Delight in more than warlike toils, - yet they</l>
+<l n="801">Of Troy are never satisfied with war."</l>
+<l n="802">So spake the illustrious man, and, having stripped</l>
+
+<l n="803">The bloody armor from the dead, he gave</l>
+<l n="804">The spoil to his companions, and rejoined</l>
+<l n="805">The warriors in the van. Harpalion then,</l>
+
+<l n="806">A son of King Pylæmenes, with whom</l>
+<l n="807">He left his home to join the war at Troy,</l>
+<l n="808">Assaulted him. He never saw again</l>
+<pb n="35"/>
+
+<l n="809">His native land. Close to Atrides' shield,</l>
+<l n="810">He struck it in the centre with his lance,</l>
+<l n="811">Yet could not drive the weapon through the brass,</l>
+<l n="812">And backward shrank, in fear of death, among</l>
+<l n="813">His comrades, looking round him lest some foe</l>
+<l n="814">Should wound him with the spear. Meriones</l>
+<l n="815">Let fly a brazen arrow after him,</l>
+<l n="816">Which, entering his right flank below the bone,</l>
+<l n="817">Passed through and cleft the bladder. Down he sank</l>
+<l n="818">Where the shaft struck him, breathing out his life</l>
+<l n="819">In the arms of his companions. Like a worm</l>
+<l n="820">He lay extended on the earth; his blood</l>
+<l n="821">Gushed forth, a purple stream, and steeped the soil.</l>
+<l n="822">The large-souled Paphlagonians came around,</l>
+<l n="823">And placed him in a chariot, sorrowing,</l>
+
+<l n="824">And bore him to the gates of sacred Troy.</l>
+<l n="825">The father followed weeping, but no hand</l>
+<l n="826">Was raised to avenge the slaughter of his son.</l>
+
+<l n="827">Yet deeply moved was Paris at his death,</l>
+<l n="828">For he had been Harpalion's guest among</l>
+<l n="829">The Paphlagonians. Grieving for the slain,</l>
+<l n="830">He sent a brazen arrow from his bow.</l>
+<l n="831">Now there was one Euchenor, rich and brave,</l>
+<l n="832">The son of Polyïdus, hoary seer;</l>
+<pb n="36"/>
+
+<l n="833">His dwelling was in Corinth, and he came,</l>
+<l n="834">Forewarned and conscious of his fate, to Troy;</l>
+<l n="835">For often Polyïdus, good old man,</l>
+<l n="836">Warned him that he within his palace halls</l>
+<l n="837">Should perish by a grievous malady,</l>
+<l n="838">Or else be slain by Trojan hands beside</l>
+<l n="839">The Grecian fleet. So, to escape at once</l>
+<l n="840">The censure of the Achaians and disease,</l>
+<l n="841">He came, lest he in after times might rue</l>
+<l n="842">His choice. And now between the jaw and ear</l>
+<l n="843">Did Paris smite him; from the warrior's limbs</l>
+<l n="844">Life fled, and darkness gathered o'er his eyes.</l>
+<l n="845">And then they fought; like a devouring fire</l>
+<l n="846">That battle was; but Hector, dear to Jove,</l>
+<l n="847">Had not yet learned that on the left the Greeks</l>
+<l n="848">Made havoc of his men; for in that hour</l>
+<l n="849">The Greeks had almost made the victory theirs,</l>
+<l n="850">So greatly had the god who shakes the shores</l>
+<l n="851">Kindled their courage, and with his own arm</l>
+<l n="852">Brought timely aid. Still Hector, pressing on</l>
+<l n="853">Where first he leaped within the gates and wall,</l>
+<l n="854">Broke the close phalanxes of shielded Greeks.</l>
+<l n="855">There, ranged beside the hoary deep, the ships</l>
+<l n="856">Of Ajax and Protesilaus lay.</l>
+
+
+
+<pb n="37"/>
+
+
+<l n="857">The wall that guarded them was low, and there</l>
+<l n="858">Warriors and steeds in fiercest conflict met;</l>
+<l n="859">There the Bœotians, there in their long robes</l>
+<l n="860">The läonians, there the Locrians, there</l>
+<l n="861">The men of Phthia, and the Epeians famed</l>
+<l n="862">For valor, held back Hector, struggling on</l>
+<l n="863">To reach the ships, yet found they had no power</l>
+<l n="864">To drive the noble warrior from the ground,</l>
+<l n="865">For he was like a flame. The chosen men</l>
+<l n="866">Of Athens formed the van. Menestheus, son</l>
+<l n="867">Of Peteus, was their leader, after whom</l>
+<l n="868">Phidas and Stichius followed, and with them</l>
+<l n="869">The gallant Bias. Meges, Phyleus' son,</l>
+<l n="870">With Dracius and Amphion, marshalled there</l>
+<l n="871">The Epeians; while the Phthian band were led</l>
+<l n="872">By Medon and Podarces, warlike chief.</l>
+<l n="873">And Medon was the great Oïleus' son,</l>
+<l n="874">And brother of the lesser Ajax, born</l>
+<l n="875">Without the tie of wedlock, and he dwelt</l>
+<l n="876">Far from his native land, in Phylacè;</l>
+<l n="877">For by his violent hand the brother died</l>
+<l n="878">Of Eryopis, whom Oileus made</l>
+<l n="879">His lawful spouse. Podarces was the son</l>
+<l n="880">Of Iphiclus, and dwelt in Phylace.</l>
+
+
+<pb n="38"/>
+
+<l n="881">These, at the head of Phthia's valiant youth,</l>
+<l n="882">And cased in massive armor, fought beside</l>
+<l n="883">Bœotia's warriors for the Grecian fleet.</l>
+<l n="884">But Ajax swift of foot, Oileus' son,</l>
+<l n="885">From him of Telamon departed not</l>
+<l n="886">Even for an instant. As when two black steers</l>
+<l n="887">Of equal vigor o'er a fallow draw</l>
+<l n="888">The strongly jointed plough, till near their horns</l>
+<l n="889">Streams the warm sweat; the polished yoke alone</l>
+<l n="890">Holds them asunder, as they move along</l>
+<l n="891">The furrow, and the share divides the soil</l>
+<l n="892">That lies between them; - so the heroic twain</l>
+<l n="893">Kept near each other. Many men and brave</l>
+<l n="894">Followed to Troy the son of Telamon</l>
+<l n="895">As his companions, and, when weariness</l>
+<l n="896">Came o'er his sweaty limbs, relieved their chief</l>
+<l n="897">Of his broad buckler. But the Locrian host</l>
+<l n="898">Attended not Oileus' great-souled son,</l>
+<l n="899">Nor could they ever venture to engage</l>
+<l n="900">In combat hand to hand. No brazen helms</l>
+<l n="901">Were theirs, with horse-hair plumes, no orbèd shields,</l>
+<l n="902">Nor ashen spears. They came with him to Troy,</l>
+<l n="903">Trusting in their good bows, and in their slings</l>
+<l n="904">Of twisted wool, from which they showered afar</l>
+
+<pb n="39"/>
+
+<l n="905">Stones that dispersed the phalanxes of Troy.</l>
+<l n="906">The chieftains Ajax, warring in the van,</l>
+<l n="907">Clad in their shining armor, fought to check</l>
+<l n="908">The Trojans and their leader, brazen-mailed,</l>
+<l n="909">While in the rear the Locrians lurked unseen,</l>
+<l n="910">And sent their shafts, so that the men of Troy,</l>
+<l n="911">All order lost, were fain to cease from fight.</l>
+<l n="912">Then had the Trojans from the ships and tents</l>
+<l n="913">Turned back, and fled, with fearful loss of life,</l>
+<l n="914">To lofty Ilium, if Polydamas</l>
+<l n="915">Had not accosted valiant Hector thus:-</l>
+<l n="916">"Hector, thou hearkenest not to warning words.</l>
+<l n="917">Deem'st thou, because a god has given thee strength</l>
+<l n="918">Beyond all other men for feats of war,</l>
+<l n="919">That therefore thou art wiser than they all</l>
+<l n="920">In council? Think not for thyself to claim</l>
+<l n="921">All gifts at once. On one the god bestows</l>
+<l n="922">Prowess in war, upon another grace</l>
+<l n="923">In dance, upon another skill to touch</l>
+<l n="924">The harp and sing. In yet another, Jove</l>
+<l n="925">The Thunderer, implants the prudent mind,</l>
+<l n="926">By which the many profit, and by which</l>
+<l n="927">Communities are saved; and well doth he</l>
+<l n="928">Who hath it know its worth. Now let me speak</l>
+
+
+<pb n="40"/>
+
+
+<l n="929">What seems to me the wisest. Round thee flames</l>
+<l n="930">The encircling war; the valiant sons of Troy,</l>
+<l n="931">Since they have crossed the ramparts, stand aloof,</l>
+<l n="932">Armed as they are, or fight against large odds</l>
+<l n="933">Scattered among the galleys. Yield thou now</l>
+<l n="934">The ground, and, summoning the chiefs, decide</l>
+<l n="935">What plan to follow, - whether we shall storm</l>
+<l n="936">The well-oared galleys, should the God vouchsafe</l>
+<l n="937">The victory to us, - or else depart</l>
+<l n="938">In safety from the fleet. I greatly fear</l>
+<l n="939">The Achaians may repay to us the debt</l>
+<l n="940">Of yesterday. There yet is at the fleet</l>
+<l n="941">One who, I think, no longer will refrain</l>
+<l n="942">Wholly from battle." Thus Polydamas</l>
+<l n="943">Spake, and the sage advice pleased Hector well,</l>
+<l n="944">Who, leaping from his chariot to the ground,</l>
+<l n="945">With all his weapons, said these winged words:-</l>
+<l n="946">"Remain with all the bravest warriors here,</l>
+<l n="947">Polydamas, while I depart to give</l>
+<l n="948">The due commands, and instantly return."</l>
+<l n="949"><milestone unit="card" n="13.754"/>He spake, and with a shout he rushed away,</l>
+<l n="950">Seen from afar, like a snow-mountain's peak,</l>
+<l n="951">And flew among the Trojans and allies,</l>
+<l n="952">Who crowded round the brave Polydamas,</l>
+
+
+
+<pb n="41"/>
+
+
+<l n="953">The son of Panthöus, at Hector's call.</l>
+<l n="954">Among the foremost combatants he sought</l>
+<l n="955">Deiphobus, and mighty Helenus,</l>
+<l n="956">The king; he looked for Adamas, the son</l>
+<l n="957">Of Asius, and for Asius of the house</l>
+<l n="958">Of Hyrtacus. Some not unharmed he found,</l>
+<l n="959">Yet not o'ercome; while others lay in death</l>
+<l n="960">Beneath the galley-sterns, where Grecian hands</l>
+<l n="961">Had slain them; others on the wall, struck down</l>
+
+
+<l n="962">By missiles, or in combat hand to hand.</l>
+<l n="963">There on the left of that disastrous fray</l>
+<l n="964">He met the noble Alexander, spouse</l>
+<l n="965">Of fair-haired Helen, as he cheered his men,</l>
+<l n="966">And rallied them to battle. Hector thus</l>
+<l n="967">Addressed his brother with reproachful words: -</l>
+
+<l n="968">"Accursed Paris! noble but in form,</l>
+<l n="969">Effeminate seducer! where are now</l>
+<l n="970">Deiphobus, and mighty Helenus?</l>
+<l n="971">And Adamas, the son of Asius, where?</l>
+<l n="972">And Asius, son of Hyrtacus? and where</l>
+<l n="973">Orthryoneus? Now towering Ilium sinks</l>
+<l n="974">From her high summit, and thy fate is sure."</l>
+<l n="975">And then the godlike Paris answered thus:-</l>
+<l n="976">"Since it hath pleased thee, Hector, thus to cast</l>
+
+
+
+<pb n="42"/>
+
+
+<l n="977">Reproach on me, though innocent, I may</l>
+<l n="978">Another day neglect the toils of war,</l>
+<l n="979">Although in truth my mother brought me forth</l>
+<l n="980">Not quite unapt for combat. Since the hour</l>
+<l n="981">When thou didst lead the battle to the ships</l>
+<l n="982">With thy companions, we have held our ground,</l>
+<l n="983">Here on this spot, contending with the Greeks.</l>
+<l n="984">Three chiefs for whom thou askest have been slain.</l>
+<l n="985">Deiphobus and mighty Helenus,</l>
+<l n="986">Both wounded in the hand by massive spears,</l>
+<l n="987">Have left the field; the son of Saturn saved</l>
+<l n="988">Their lives. Now lead us wheresoe'er thou wilt,</l>
+<l n="989">And we will follow thee with resolute hearts,</l>
+<l n="990">Nor deem that thou wilt find in us a lack</l>
+<l n="991">Of valor while our strength of arm remains.</l>
+<l n="992">The boldest cannot fight beyond his strength.”</l>
+<l n="993">With such persuasive words the warrior calmed</l>
+<l n="994">His brother's anger, and they went where raged</l>
+<l n="995">The hottest conflict round Cebriones,</l>
+<l n="996">Phalces, Orthæus, and the excellent</l>
+<l n="997">Polydamas, with Palmys at his side,</l>
+<l n="998">And Polyphœtes, godlike in his form,</l>
+<l n="999">And where Ascanius and Morys fought,</l>
+<l n="1000">Sons of Hippotion. They the day before</l>
+
+
+<pb n="43"/>
+
+
+<l n="1001">Came marching from Ascania's fertile fields,</l>
+<l n="1002">Moved by the will of Jove to share the war.</l>
+<l n="1003">All these swept on, as when a hurricane,</l>
+<l n="1004">A thunder-gust, from Father Jupiter</l>
+<l n="1005">Buffets the plain, and mingles with the deep,</l>
+<l n="1006">In mighty uproar, and the billows rise</l>
+<l n="1007">All over the resounding brine, and swell,</l>
+<l n="1008">Whitening with foam, and chase each other on.</l>
+
+<l n="1009">So moved the Trojans on, man after man,</l>
+<l n="1010">In close array, all armed in glittering brass,</l>
+<l n="1011">Following their generals. Hector, Priam's son,</l>
+<l n="1012">And peer of Mars in battle, led the van,</l>
+
+<l n="1013">His round shield held before him, tough with hides</l>
+<l n="1014">And overlaid with brass. Upon his brow</l>
+<l n="1015">The gleaming helmet nodded as he moved.</l>
+<l n="1016">On every side he tried the phalanxes,</l>
+<l n="1017">If haply they might yield to his assault,</l>
+<l n="1018">Made from beneath that buckler; but the Greeks</l>
+<l n="1019">In spirit or in order wavered not.</l>
+<l n="1020">And Ajax, striding forth, defied him thus: -</l>
+
+
+<l n="1021">"Draw nearer, friend! Think'st thou to frighten thus</l>
+<l n="1022">The Greeks? We are not quite so inexpert</l>
+<l n="1023">In war, although so cruelly chastised</l>
+<l n="1024">By Jupiter. Thou thinkest in thy heart</l>
+
+<pb n="44"/>
+
+
+<l n="1025">That thou shalt make our ships thy spoil; but we</l>
+<l n="1026">Have also our strong arms to drive thee back,</l>
+<l n="1027">And far more soon the populous town of Troy,</l>
+<l n="1028">Captured and sacked, shall fall by Grecian hands.</l>
+<l n="1029">And now I warn thee that the hour is near</l>
+<l n="1030">When, fleeing, thou shalt pray to Father Jove</l>
+<l n="1031">And all the immortals, that thy long-maned steeds,</l>
+<l n="1032">Bearing thee townward 'mid a cloud of dust</l>
+<l n="1033">Along the plain, may be more swift than hawks."</l>
+<l n="1034">As thus he spake, an eagle, to the right,</l>
+<l n="1035">High in the middle heaven, flew over him,</l>
+<l n="1036">And, gladdened by the omen, all the Greeks</l>
+<l n="1037">Shouted; but then illustrious Hector spake:-</l>
+<l n="1038">"Babbler and boaster, what wild words are these?</l>
+<l n="1039">O Ajax! would that I were but as sure</l>
+<l n="1040">To be the child of ægis-bearing Jove,</l>
+<l n="1041">Brought forth by Juno the august, and held</l>
+<l n="1042">In honor everywhere like that which crowns</l>
+<l n="1043">Apollo and Minerva, as I know</l>
+<l n="1044">That to the Greeks this very day will bring</l>
+<l n="1045">Destruction, and that thou shalt also lie</l>
+<l n="1046">Slain with the others, if thou dare abide</l>
+<l n="1047">The stroke of my long spear, which yet shall tear</l>
+<l n="1048">Thy dainty flesh, and thou, with thy full limbs,</l>
+
+
+<pb n="45"/>
+
+
+<l n="1049">Shalt be the feast of Trojan dogs and birds,</l>
+<l n="1050">Unburied by the galleys of the Greeks."</l>
+<l n="1051">So Hector spake, and led his warriors on.</l>
+<l n="1052">They followed with a mighty shout; the rear</l>
+<l n="1053">Sent up as loud a cry. On the other side</l>
+<l n="1054">Shouted the Greeks, nor intermitted now</l>
+<l n="1055">Their wonted valor, but stood firm to breast</l>
+<l n="1056">The onset of the chosen men of Troy.</l>
+<l n="1057">The mingled clamor of both hosts went up</l>
+<l n="1058">To heaven, and to the shining seat of Jove.</l>
+
     </lg>
 </div>
 
@@ -11398,7 +11858,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="43">Of this, that thou mayst see of what avail</l>
         <l n="44">Hereafter thy dissembled love and all</l>
         <l n="45">Thy cunning strategies will be to thee."</l>
-        <l n="46">He spake, and Juno, large-eyed and august,</l>
+        <l n="46"><milestone unit="card" n="15.34"/>He spake, and Juno, large-eyed and august,</l>
         <l n="47">Shuddered, and answered Jove with winged words:-</l>
         <l n="48">"Be witness, Earth, and the great Heavens above,</l>
         <l n="49">And waters of the Styx that glide beneath, -</l>
@@ -11828,7 +12288,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="473">To perish, slaughtered by the sons of Troy."</l>
         <l n="474">So spake he supplicating. Jupiter</l>
         <l n="475">The All-disposer thundered as he heard</l>
-        <l n="476">The old man's prayer. The Trojans by that voice</l>
+        <l n="476">The old man's prayer. <milestone unit="card" n="15.379"/> The Trojans by that voice</l>
         <l n="477">Of ægis-bearing Jove were moved to press</l>
         <l n="478">The Greeks more resolutely, and were filled</l>
         <l n="479">With fiercer valor. As a mighty wave</l>
@@ -12061,7 +12521,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="706">But either we must rout the Greeks, or they</l>
         <l n="707">Will level to the ground the lofty towers</l>
         <l n="708">Of Ilium, and will slay its citizens."</l>
-        <l n="709">He spake, and led the way; his godlike friend</l>
+        <l n="709"><milestone unit="card" n="15.559"/>He spake, and led the way; his godlike friend</l>
         <l n="710">Followed him, while the son of Telamon,</l>
         <l n="711">Ajax, exhorted thus the sons of Greece: -</l>
         <l n="712">"Be men, my friends, and let a noble dread</l>
@@ -12106,7 +12566,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="751">The Trojans under Hector poured a storm</l>
         <l n="752">Of weapons, and the din was terrible.</l>
         <l n="753">Yet when he reached the serried ranks of Greece</l>
-        <l n="754">He turned and stood. Meanwhile the Trojan host,</l>
+        <l n="754">He turned and stood. <milestone unit="card" n="15.592"/>Meanwhile the Trojan host,</l>
         <l n="755">Like ravening lions, fiercely rushed against</l>
         <l n="756">The galleys, that the will of Jupiter</l>
         <l n="757">Might be fulfilled; for now he nerved their limbs</l>
@@ -13080,7 +13540,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="773">His powerful hand in vain, was vexed, and said:</l>
         <l n="774">"Had I but struck thee, dancer as thou art,</l>
         <l n="775">Meriones, my spear had suddenly</l>
-        <l n="776">Ended thy dancing." Then Meriones,</l>
+        <l n="776">Ended thy dancing." <milestone unit="card" n="16.619"/>Then Meriones,</l>
         <l n="777">The skilful spearman, answered: "Thou art brave,</l>
         <l n="778">But thou wilt find it hard to overcome</l>
         <l n="779">The might of all who gather to repulse</l>
@@ -13697,7 +14157,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="297">Hector, o'ershadows all, and over us</l>
         <l n="298">Impends the doom of death. Yet let us call</l>
         <l n="299">Our mighty men, if they perchance may hear."</l>
-        <l n="300">He spake, and Menelaus, great in war,</l>
+        <l n="300"><milestone unit="card" n="17.246"/>He spake, and Menelaus, great in war,</l>
         <l n="301">Obeyed his wish and shouted to the Greeks: -</l>
         <l n="302">"O friends, the princes and the chiefs of Greece,</l>
         <l n="303">Who at the public feasts with Atreus' sons -</l>
@@ -13713,7 +14173,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="313">Meriones, his armor-bearer, fierce</l>
         <l n="314">As the man-slayer Mars. But who could tell</l>
         <l n="315">The names of all the other Greeks that sprang</l>
-        <l n="316">To mingle in the strife? The Trojans made</l>
+        <l n="316">To mingle in the strife? <milestone unit="card" n="17.274"/>The Trojans made</l>
         <l n="317">The first assault, and Hector led them on.</l>
         <l n="318">As at the mouth of some great river, swoln</l>
         <l n="319">By rains from Jove, the mighty ocean-wave</l>
@@ -14188,7 +14648,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="788">And bid him bear the tidings in all haste</l>
         <l n="789">To the great son of Peleus, that the one</l>
         <l n="790">Of all his friends whom most he loved is slain."</l>
-        <l n="791">He spake, and Menelaus, great in war,</l>
+        <l n="791"><milestone unit="card" n="17.656"/>He spake, and Menelaus, great in war,</l>
         <l n="792">Complied, and hastened forth, as from a fold</l>
         <l n="793">A lion stalks away, that long has kept</l>
         <l n="794">In fear the hounds and herdsmen, who all night</l>
@@ -15911,7 +16371,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="302">Capys, to whom Anchises owes his birth.</l>
         <l n="303">Anchises is my father; Priam's son</l>
         <l n="304">Is noble Hector. Such I claim to be</l>
-        <l n="305">My lineage and my blood; but Jove at will</l>
+        <l n="305">My lineage and my blood; <milestone unit="card" n="20.242"/> but Jove at will</l>
         <l n="306">Gives in large measure, or diminishes,</l>
         <l n="307">Men's warlike prowess; and the power of Jove</l>
         <l n="308">Is over all. But let us talk no more</l>
@@ -16134,7 +16594,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="525">Above the double corselet; the keen blade</l>
         <l n="526">Came forth in front; the Trojan with a cry</l>
         <l n="527">Fell forward on his knees, and, bending, clasped</l>
-        <l n="528">His bowels in his hands. When Hector saw</l>
+        <l n="528">His bowels in his hands. <milestone unit="card" n="20.419"/>When Hector saw</l>
         <l n="529">His brother thus upon the earth, there came</l>
         <l n="530">A darkness o'er his eyes, nor could he bear</l>
         <l n="531">Longer to stand aloof, but, brandishing</l>
@@ -16584,7 +17044,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="331">And drenched his shoulders. Then again he sprang</l>
         <l n="332">Away; the rapid torrent made his knees</l>
         <l n="333">To tremble, while it swept, where'er he trod,</l>
-        <l n="334">The earth from underneath his feet. He looked</l>
+        <l n="334">The earth from underneath his feet. <milestone unit="card" n="21.272"/>He looked</l>
         <l n="335">To the broad heaven above him, and complained: -</l>
         <l n="336">"Will not some god, O Father Jove, put forth</l>
         <l n="337">His power to save me in my hour of need</l>
@@ -17235,7 +17695,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="223">Wouldst thou reprieve from death a mortal man,</l>
         <l n="224">Whose doom is fixed? Then do it; but know this,</l>
         <l n="225">That all the other gods will not approve."</l>
-        <l n="226">Then spake again the Cloud-compeller Jove:</l>
+        <l n="226"><milestone unit="card" n="22.177"/>Then spake again the Cloud-compeller Jove:</l>
         <l n="227">"Tritonia, my dear child, be calm. I spake</l>
         <l n="228">Of no design. I would be kind to thee.</l>
         <l n="229">Do as thou wilt, and be there no delay."</l>
@@ -17331,7 +17791,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="319">Thou shalt meet no dishonor at my hands;</l>
         <l n="320">But, stripping off the armor, I will send</l>
         <l n="321">The Greeks thy body. Do the like by me."</l>
-        <l n="322">The swift Achilles answered with a frown:</l>
+        <l n="322"><milestone unit="card" n="22.260"/>The swift Achilles answered with a frown:</l>
         <l n="323">"Accursed Hector, never talk to me</l>
         <l n="324">Of covenants. Men and lions plight no faith,</l>
         <l n="325">Nor wolves agree with lambs, but each must plan</l>
@@ -17346,7 +17806,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="334">By my good spear. Thou shalt repay to me</l>
         <l n="335">The evil thou hast done my countrymen, -</l>
         <l n="336">My friends whom thou hast slaughtered in thy rage."</l>
-        <l n="337">He spake, and, brandishing his massive spear,</l>
+        <l n="337"><milestone unit="card" n="22.289"/>He spake, and, brandishing his massive spear,</l>
         <l n="338">Hurled it at Hector, who beheld its aim</l>
         <l n="339">From where he stood. He stooped, and over him</l>
         <l n="340">The brazen weapon passed, and plunged to earth.</l>
@@ -18042,7 +18502,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="389">Brings down the oak; by skill the pilot guides</l>
         <l n="390">His wind-tossed galley over the dark sea ;</l>
         <l n="391">And thus by skill the charioteer o'ercomes</l>
-        <l n="392">His rival. He who trusts too much his steeds</l>
+        <l n="392">His rival. <milestone unit="card" n="23.319"/>He who trusts too much his steeds</l>
         <l n="393">And chariot lets them veer from side to side</l>
         <l n="394">Along the course, nor keeps a steady rein</l>
         <l n="395">Straight on, while one expert in horsemanship,</l>
@@ -18081,7 +18541,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="428">Reared here in Ilium by Laomedon."</l>
         <l n="429">Neleian Nestor spake, and, having thus</l>
         <l n="430">Given all the needful cautions, took his seat</l>
-        <l n="431">In his own place. Meriones, the fifth,</l>
+        <l n="431">In his own place. <milestone unit="card" n="23.351"/>Meriones, the fifth,</l>
         <l n="432">Harnessed his steeds with stately manes, and all</l>
         <l n="433">Mounted their chariots. Lots were cast; the son</l>
         <l n="434">Of Peleus shook the helmet, and the lot</l>
@@ -18614,7 +19074,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="961">Holding the animal's horn and spitting forth</l>
         <l n="962">The dirt, he said to those around: "T is plain</l>
         <l n="963">The goddess caused my feet to slide; she aids</l>
-        <l n="964">Ulysses like a mother." So he said,</l>
+        <l n="964">Ulysses like a mother." <milestone unit="card" n="23.784"/>So he said,</l>
         <l n="965">And the Greeks laughed. And then Antilochus</l>
         <l n="966">Received the third reward, and with a smile</l>
         <l n="967">Said to the Greeks: "I tell you all, my friends,</l>
@@ -18772,10 +19232,7 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="16">Nor did the morn that rose o'er sea and shore</l>
         <l n="17">Dawn unperceived by him; for then he yoked</l>
         <l n="18">His fleet steeds to the chariot, and made fast</l>
-</div>
 
-<div type="textpart" subtype="book" n="24">
-  <head>BOOK XXIV.</head>
  
         <l n="19">The corse of Hector, that it might be dragged</l>
         <l n="20">After the wheels. Three times around the tomb</l>
@@ -19781,5 +20238,6 @@ of his Daughter. Refusal of Agamemnon.</item>
         <l n="1020">Returned, and in the halls where Priam dwelt,</l>
         <l n="1021">Nursling of Jove, were feasted royally.</l>
         <l n="1022">Such was the mighty Hector's burial rite.</l>
+</div>
 </div>
 </body></text></TEI>
