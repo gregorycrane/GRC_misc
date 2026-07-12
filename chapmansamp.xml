@@ -1,81 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title xml:lang="eng">The Iliad</title>
-            <author>Homer</author>
-            <editor role="translator">George Chapman</editor>
-            <editor>Rev. Richard Hooper</editor>
-            <sponsor>Perseus Project, Tufts University</sponsor>
-            <principal>Gregory Crane</principal>
-            <respStmt>
-               <resp>Initial text generation from OCR and primary TEI XML encoding by</resp>
-               <name>Gemini 3.5</name>
-            </respStmt>
-         </titleStmt>
-         <extent>about 375 p.</extent>
-         <publicationStmt>
-            <publisher>Trustees of Tufts University</publisher>
-            <pubPlace>Medford, MA</pubPlace>
-            <authority>Perseus Project</authority>
-         </publicationStmt>
-         <notesStmt>
-            <note anchored="true" place="unspecified">New TEI XML edition started from OCR-generated text under the supervision of Gregory Crane.</note>
-         </notesStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <author>Homer</author>
-                  <title>The Iliads of Homer</title>
-                  <title type="sub">done according to the Greek by George Chapman ; with an introduction and notes by Rev. Richard Hooper M.A.</title>
-                  <editor>George Chapman</editor>
-                  <imprint>
-                     <pubPlace>London</pubPlace>
-                     <publisher>John Russell Smith</publisher>
-                     <date>1887</date>
-                  </imprint>
-                  <biblScope unit="page">375 p.</biblScope>
-
-               </monogr>
-            </biblStruct>           
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <refsDecl n="CTS">
-            <cRefPattern n="line" matchPattern="(\w+).(\w+)"
-               replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']//tei:l[@n='$2'])">
-               <p>This pointer pattern extracts Book and Line</p>
-            </cRefPattern>
-            <cRefPattern n="book" matchPattern="(\w+)"
-               replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
-               <p>This pointer pattern extracts Book</p>
-            </cRefPattern>
-         </refsDecl>
-         <refsDecl>
-            <refState delim="." unit="book"/>
-            <refState unit="card"/>
-         </refsDecl>
-         <refsDecl>
-            <refState unit="book" delim="."/>
-            <refState unit="line"/>
-         </refsDecl>
-      </encodingDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="eng">English</language>
-            <language ident="grc">Greek</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc>
-         <change when="2026-07-10" who="Gemini 3.5">Initial file creation, OCR text generation, and basic EpiDoc TEI header tagging under Gregory Crane's supervision.</change>
-      </revisionDesc>
-   </teiHeader>
-<text xml:lang="eng">
-      <body>
-         <div type="translation" n="urn:cts:greekLit:tlg0012.tlg001.chapman1611morley1887-eng2" xml:id="book1">
-
+<div type="textpart" subtype="book" n="1">
       <pb n="1" facs="#83"/>
       <head rend="center">THE FIRST BOOK OF HOMER'S ILIADS.</head>
       
@@ -85,13 +8,13 @@
         <l n="2">Gifts for his daughter, prisoner to the king;</l>
         <l n="3">For which her tender'd freedom he entreats;</l>
         <l n="4">But, being dismiss'd with contumelious threats,</l>
-        <l n="5">At Phœbus' hands, by vengeful <choice><orig>by vengeful</orig><reg>vengeful</reg></choice> prayer, he seeks</l>
+        <l n="5">At Phœbus' hands, by vengeful prayer, he seeks</l>
         <l n="6">To have a plague inflicted on the Greeks.</l>
         <l n="7">Which had, Achilles doth a council cite,</l>
         <l n="8">Embold'ning Calchas, in the king's despite,</l>
         <l n="9">To tell the truth why they were punish'd so.</l>
         <l n="10">From hence their fierce and deadly strife did grow.</l>
-        <l n="11">For wrong in which Æacides<anchor xml:id="n1.11_ref"/> so raves,</l>
+        <l n="11">For wrong in which Aeacides<anchor xml:id="n1.11_ref"/> so raves,</l>
         <l n="12">That goddess Thetis, from her throne of waves</l>
         <l n="13">Ascending heaven, of Jove assistance won,</l>
         <l n="14">To plague the Greeks by absence of her son,</l>
@@ -107,19 +30,19 @@
         <l n="2">The army's plague: the strife of kings.</l>
       </div>
 
-      <div type="textpart" subtype="book" n="1">
+      <div type="textpart" subtype="text">
         <l n="1"><hi rend="dropcap">A</hi>CHILLES' baneful wrath resound, O Goddess, that impos'd</l>
         <l n="2">Infinite sorrows on the Greeks, and many brave souls los'd</l>
         <l n="3">From breasts heroic; sent them far to that invisible cave<anchor xml:id="n1.3_ref"/></l>
         <l n="4">That no light comforts; and their limbs to dogs and vultures gave:</l>
 
-        <note target="#n1.11_ref"><mentioned>Æacides</mentioned>—Achilles, grandson of Æacus.</note>
+        <note target="#n1.11_ref"><mentioned>Aeacides</mentioned>—Achilles, grandson of Aeacus.</note>
         <note target="#n1.3_ref"><mentioned>Invisible cave</mentioned>—Hades.</note>
         
-        <fw type="footer">VOL. I. B</fw>
+        
 
         <pb n="2" facs="#84"/>
-        <fw type="header">2 THE FIRST BOOK</fw>
+        
         
         <l n="5">To all which Jove's will gave effect; from whom first strife begun</l>
         <l n="6">Betwixt Atrides, king of men, and Thetis' godlike son.<anchor xml:id="n1.6_ref"/></l>
@@ -155,7 +78,7 @@
         <note target="#n1.30_ref">"See my bed made," it may be Englished. The word is ἀντιόωσαν, which signifies contra stantem, as standing of one side opposite to another on the other side; which yet others translate capessentem et adornantem; which, since it shows best to a reader, I follow.—CHAPMAN.</note>
 
         <pb n="3" facs="#85"/>
-        <fw type="header">OF HOMER'S ILIADS. 3</fw>
+        
         
         <l n="31">With all fit ornaments my bed. Incense me then no more,</l>
         <l n="32">But, if thou wilt be safe, begone." This said, the sea-beat shore,</l>
@@ -192,7 +115,7 @@
         <note target="#n1.52_ref"><mentioned>White-arm'd queen</mentioned>—Juno.</note>
 
         <pb n="4" facs="#86"/>
-        <fw type="header">4 THE FIRST BOOK</fw>
+        
         
         <l n="61">To death may yield his graves no more, but offering all supply</l>
         <l n="62">Of savours burnt from lambs and goats, avert his fervent eye,</l>
@@ -228,7 +151,7 @@
         <note target="#n1.86_ref"><mentioned>Empery</mentioned>—sovereign authority;—"Ruling in large and ample empery / O'er France, and all her almost kingly dukedoms." <bibl>SHAKESPEARE. Hen. V. 1. 2.</bibl></note>
 
         <pb n="5" facs="#87"/>
-        <fw type="header">OF HOMER'S ILIADS. 5</fw>
+        
         
         <l n="89">The God against us; his offence is for his priest impair'd</l>
         <l n="90">By Agamemnon, that refus'd the present he preferr'd,</l>
@@ -265,7 +188,7 @@
         <note target="#n1.116_ref"><mentioned>Supply for her</mentioned>—compensation for her loss.</note>
 
         <pb n="6" facs="#88"/>
-        <fw type="header">6 THE FIRST BOOK</fw>
+        
         
         <l n="117">Lose not my winnings. 'Tis not fit. Ye see all I lose mine</l>
         <l n="118">Forc'd by another, see as well some other may resign</l>
@@ -299,7 +222,7 @@
         <note target="#n1.139_ref"><mentioned>Let him, &amp;c.</mentioned> i. e. though he may rage.</note>
 
         <pb n="7" facs="#89"/>
-        <fw type="header">OF HOMER'S ILIADS. 7</fw>
+        
         
         <l n="143">Bright-cheek'd Chryseis. For conduct of all which, we must choose</l>
         <l n="144">A chief out of our counsellors. Thy service we must use,</l>
@@ -320,7 +243,7 @@
         <l n="159">Pour out their shades and deeps between; but thee, thou frontless man,</l>
         <l n="160">We follow, and thy triumphs make with bonfires of our bane;</l>
         <l n="161">Thine, and thy brother's, vengeance sought, thou dog's eyes, of this Troy</l>
-        <l n="162">By our <choice><orig>expos'd</orig><reg>exposed</reg></choice> lives;<anchor xml:id="n1.162_ref"/> whose deserts thou neither dost employ</l>
+        <l n="162">By our expos'd lives;<anchor xml:id="n1.162_ref"/> whose deserts thou neither dost employ</l>
         <l n="163">With honour nor with care. And now, thou threat'st to force from me</l>
         <l n="164">The fruit of my sweat, which the Greeks gave all;<anchor xml:id="n1.164_ref"/> and though it be,</l>
         <l n="165">Compar'd with thy part, then snatch'd up, nothing; nor ever is</l>
@@ -338,7 +261,7 @@
         <note target="#n1.170_ref"><mentioned>Continent</mentioned>—i. e. possession. Continent incontinent, a quibble of Chapman's.</note>
 
         <pb n="8" facs="#90"/>
-        <fw type="header">8 THE FIRST BOOK</fw>
+        
         
         <l n="173">Should'st still be ravishing my right, draw my whole treasure dry,</l>
         <l n="174">And add dishonour." He replied: "If thy heart serve thee, flee;</l>
@@ -377,7 +300,7 @@
         <note target="#n1.200_ref"><mentioned>Only gave her look to him</mentioned>—i. e. only made herself seen by him.</note>
 
         <pb n="9" facs="#91"/>
-        <fw type="header">OF HOMER'S ILIADS. 9</fw>
+        
         
         <l n="203">Yet straight he knew her by her eyes, so terrible they were,</l>
         <l n="204">Sparkling with ardour, and thus spake: "Thou seed of Jupiter,</l>
@@ -417,7 +340,7 @@
         <note target="#n1.232_ref">"This simile Virgil directly translates." — <bibl>CHAPMAN.</bibl></note>
 
         <pb n="10" facs="#92"/>
-        <fw type="header">10 THE FIRST BOOK</fw>
+        
         
         <l n="235">And ornaments bereft with iron; which now to other end</l>
         <l n="236">Judges of Greece bear, and their laws, receiv'd from Jove, defend;</l>
@@ -425,7 +348,7 @@
         <l n="238">Shall burn with thirst of me thy host, no prayers shall ever breed</l>
         <l n="239">Affection in me to their aid, though well-deserved woes</l>
         <l n="240">Afflict thee for them, when to death man-slaught'ring Hector throws</l>
-        <l n="241">Whole troops of them, and thou <choice><orig>torment'st</orig><reg>tormentest</reg></choice> thy vex'd mind with conceit</l>
+        <l n="241">Whole troops of them, and thou torment'st thy vex'd mind with conceit</l>
         <l n="242">Of thy rude rage now,<anchor xml:id="n1.242_ref"/> and his wrong that most deserv'd the right</l>
         <l n="243">Of all thy army." Thus, he threw his sceptre 'gainst the ground,</l>
         <l n="244">With golden studs stuck, and took seat. Atrides' breast was drown'd</l>
@@ -439,13 +362,13 @@
         <l n="252">Her king, and all his sons, will make as just a mock, and joy,</l>
         <l n="253">Of these disjunctions; if of you, that all our host excel</l>
         <l n="254">In counsel and in skill of fight, they hear this. Come, repel</l>
-        <l n="255">These young men's passions. Y' are not both, put <choice><orig>both your</orig><reg>both your</reg></choice> years<anchor xml:id="n1.255_ref"/> in one,</l>
+        <l n="255">These young men's passions. Y' are not both, put both your years<anchor xml:id="n1.255_ref"/> in one,</l>
         <l n="256">So old as I. I liv'd long since, and was companion</l>
         <l n="257">With men superior to you both, who yet would ever hear</l>
         <l n="258">My counsels with respect. Mine eyes yet never witness were,</l>
         <l n="259">Nor ever will be, of such men as then delighted them;</l>
         <l n="260">Pirithous, Exadius, and god-like Polypheme,</l>
-        <l n="261">Cæneus, and Dryas prince of men, Ægean Theseus,</l>
+        <l n="261">Cæneus, and Dryas prince of men, Aegean Theseus,</l>
         <l n="262">A man like heaven's immortals form'd; all, all most vigorous,</l>
         <l n="263">Of all men that even those days bred; most vigorous men, and fought</l>
         <l n="264">With beasts most vigorous, mountain beasts, (for men in strength were nought</l>
@@ -454,7 +377,7 @@
         <note target="#n1.255_ref">The second folio has "put both you years." It will not be necessary to note the many manifest errors that disfigure this second edition.</note>
 
         <pb n="11" facs="#93"/>
-        <fw type="header">OF HOMER'S ILIADS. 11</fw>
+        
         
         <l n="265">Match'd with their forces) fought with them, and bravely fought them down.</l>
         <l n="266">Yet even with these men I convers'd, being call'd to the renown</l>
@@ -462,1421 +385,413 @@
         <l n="268">In th' Asian kingdom; and I fought, to a degree of might</l>
         <l n="269">That help'd even their mights, against such as no man now would dare</l>
         <l n="270">To meet in conflict; yet even these my counsels still would hear,</l>
-        <l n="271">And with obedience crown my words. 'Tis better than to wreath your wrath.<anchor xml:id="n1.272_ref"/> Atrides, give not stream</l>
-        <l n="272">To all thy power, nor force his prise, but yield her still his own,</l>
-        <l n="273">As all men else do. Nor do thou encounter with thy crown,<anchor xml:id="n1.274_ref"/></l>
-        <l n="274">Great son of Peleus, since no king that ever Jove allow'd</l>
-        <l n="275">Grace of a sceptre equals him. Suppose thy nerves endow'd</l>
-        <l n="276">With strength superior, and thy birth a very goddess gave,</l>
-        <l n="277">Yet he of force is mightier, since what his own nerves have</l>
-        <l n="278">Is amplified<anchor xml:id="n1.279_ref"/> with just command of many other. King of men,</l>
-        <l n="279">Command thou then thyself; and I with my prayers will obtain</l>
-        <l n="280">Grace of Achilles to subdue his fury; whose parts are</l>
-        <l n="281">Worth our intreaty, being chief check to all our ill in war."</l>
-        <l n="282">"All this, good father," said the king, "is comely and good right;<anchor xml:id="n1.283_ref"/></l>
-        <l n="283">But this man breaks all such bonds; he affects, past all men, height;<anchor xml:id="n1.284_ref"/></l>
-        <l n="284">All would in his power hold, all make his subjects, give to all</l>
-        <l n="285">His hot will for a temperate law; all which he never shall</l>
-        <l n="286">Persuade at my hands. If the gods have given him the great style</l>
-        <l n="287">Of ablest soldier, made they that his licence to revile</l>
-        <l n="288">Men with vile language?" Thetis' son prevented him, and said:</l>
-        <l n="289">"Fearful and vile I might be thought, if the exactions laid</l>
-        <l n="290">By all means on me I should bear. Others command to this,</l>
-        <l n="291">Thou shalt not me; or if thou dost, far my free spirit is</l>
+        <l n="271">And with obedience crown my words. Give you such palm to them;</l>
+        <l n="272">'Tis better than to wreath your wrath.<anchor xml:id="n1.272_ref"/> Atrides, give not stream</l>
+        <l n="273">To all thy power, nor force his prise, but yield her still his own,</l>
+        <l n="274">As all men else do. Nor do thou encounter with thy crown,<anchor xml:id="n1.274_ref"/></l>
+        <l n="275">Great son of Peleus, since no king that ever Jove allow'd</l>
+        <l n="276">Grace of a sceptre equals him. Suppose thy nerves endow'd</l>
+        <l n="277">With strength superior, and thy birth a very goddess gave,</l>
+        <l n="278">Yet he of force is mightier, since what his own nerves have</l>
+        <l n="279">Is amplified<anchor xml:id="n1.279_ref"/> with just command of many other. King of men,</l>
+        <l n="280">Command thou then thyself; and I with my prayers will obtain</l>
+        <l n="281">Grace of Achilles to subdue his fury; whose parts are</l>
+        <l n="282">Worth our intreaty, being chief check to all our ill in war."</l>
+        <l n="283">"All this, good father," said the king, "is comely and good right;<anchor xml:id="n1.283_ref"/></l>
+        <l n="284">But this man breaks all such bonds; he affects, past all men, height;<anchor xml:id="n1.284_ref"/></l>
+        <l n="285">All would in his power hold, all make his subjects, give to all</l>
+        <l n="286">His hot will for a temperate law; all which he never shall</l>
+        <l n="287">Persuade at my hands. If the gods have given him the great style</l>
+        <l n="288">Of ablest soldier, made they that his licence to revile</l>
+        <l n="289">Men with vile language?" Thetis' son prevented him, and said:</l>
+        <l n="290">"Fearful and vile I might be thought, if the exactions laid</l>
+        <l n="291">By all means on me I should bear. Others command to this,</l>
+        <l n="292">Thou shalt not me; or if thou dost, far my free spirit is</l>
 
-        <note target="#n1.272_ref"><mentioned>To wreath your wrath</mentioned>—to allow your wrath to triumph: an allusion to the wreaths worn by victors.—<bibl>DR. COOKE TAYLOR.</bibl></note>
-        <note target="#n1.274_ref"><mentioned>Encounter with thy crown</mentioned>—enter into dispute with thy sovereign.</note>
-        <note target="#n1.279_ref"><mentioned>Amplified</mentioned>. The second folio (which Dr. Taylor follows) has "amplied." The metre would require that the word "many" should be omitted.</note>
-        <note target="#n1.283_ref"><mentioned>Good right</mentioned>—right good, very good.</note>
-        <note target="#n1.284_ref"><mentioned>Affects height</mentioned>—aims at superiority above all men.</note>
+        <note target="#n1.590_ref"><mentioned>To wreath your wrath</mentioned>—to allow your wrath to triumph: an allusion to the wreaths worn by victors.—<bibl>DR. COOKE TAYLOR.</bibl></note>
+        <note target="#n1.590_ref"><mentioned>Encounter with thy crown</mentioned>—enter into dispute with thy sovereign.</note>
+        <note target="#n1.590_ref"><mentioned>Amplified</mentioned>. The second folio (which Dr. Taylor follows) has "amplied." The metre would require that the word "many" should be omitted.</note>
+        <note target="#n1.590_ref"><mentioned>Good right</mentioned>—right good, very good.</note>
+        <note target="#n1.590_ref"><mentioned>Affects height</mentioned>—aims at superiority above all men.</note>
 
         <pb n="12" facs="#94"/>
-        <fw type="header">12 THE FIRST BOOK</fw>
         
-        <l n="292">From serving thy command. Beside, this I affirm (afford</l>
-        <l n="293">Impression of it in thy soul) I will not use my sword</l>
-        <l n="294">On thee or any for a wench, unjustly though thou tak'st</l>
-        <l n="295">The thing thou gav'st; but all things else that in my ship thou mak'st</l>
-        <l n="296">Greedy survey of, do not touch without my leave; or do,—</l>
-        <l n="297">Add that act's wrong to this, that these may see that outrage too,—</l>
-        <l n="298">And then comes my part; then be sure thy blood upon my lance</l>
-        <l n="299">Shall flow in vengeance." These high terms these two at variance</l>
-        <l n="300">Us'd to each other; left their seats; and after them arose</l>
-        <l n="301">The whole court. To his tents and ships, with friends and soldiers, goes</l>
-        <l n="302">Angry Achilles. Atreus' son the swift ship launch'd, and put</l>
-        <l n="303">Within it twenty chosen row'rs, within it likewise shut</l>
-        <l n="304">The hecatomb t' appease the God; then caus'd to come aboard</l>
-        <l n="305">Fair-cheek'd Chryseis; for the chief, he in whom Pallas pour'd</l>
-        <l n="306">Her store of counsels, Ithacus, aboard went last; and then</l>
-        <l n="307">The moist ways of the sea they sail'd. And now the king of men</l>
-        <l n="308">Bade all the host to sacrifice. They sacrific'd, and cast</l>
-        <l n="309">The offal of all to the deeps; the angry God they grac'd</l>
-        <l n="310">With perfect hecatombs; some bulls, some goats, along the shore</l>
-        <l n="311">Of the unfruitful sea, inflam'd. To heaven the thick fumes bore</l>
-        <l n="312">Enwrapped savours. Thus, though all the politic king made shew</l>
-        <l n="313">Respects to heaven, yet he himself all that time did pursue</l>
-        <l n="314">His own affections; the late jar, in which he thunder'd threats</l>
-        <l n="315">Against Achilles, still he fed, and his affections' heats</l>
-        <l n="316">Thus vented to Talthybius, and grave Eurybates,</l>
-        <l n="317">Heralds, and ministers of trust, to all his messages.</l>
-        <l n="318">"Haste to Achilles' tent; where take Briseis' hand, and bring</l>
-        <l n="319">Her beauties to us. If he fail to yield her, say your king</l>
-        <l n="320">Will come himself, with multitudes that shall the horribler</l>
-        <l n="321">Make both his presence, and your charge, that so he dares defer."</l>
-        <l n="322">This said, he sent them with a charge of hard condition.</l>
-        <l n="323">They went unwillingly, and trod the fruitless sea's shore; soon</l>
+        
+        <l n="293">From serving thy command. Beside, this I affirm (afford</l>
+        <l n="294">Impression of it in thy soul) I will not use my sword</l>
+        <l n="295">On thee or any for a wench, unjustly though thou tak'st</l>
+        <l n="296">The thing thou gav'st; but all things else that in my ship thou mak'st</l>
+        <l n="297">Greedy survey of, do not touch without my leave; or do,—</l>
+        <l n="298">Add that act's wrong to this, that these may see that outrage too,—</l>
+        <l n="299">And then comes my part; then be sure thy blood upon my lance</l>
+        <l n="300">Shall flow in vengeance." These high terms these two at variance</l>
+        <l n="301">Us'd to each other; left their seats; and after them arose</l>
+        <l n="302">The whole court. To his tents and ships, with friends and soldiers, goes</l>
+        <l n="303">Angry Achilles. Atreus' son the swift ship launch'd, and put</l>
+        <l n="304">Within it twenty chosen row'rs, within it likewise shut</l>
+        <l n="305">The hecatomb t' appease the God; then caus'd to come aboard</l>
+        <l n="306">Fair-cheek'd Chryseis; for the chief, he in whom Pallas pour'd</l>
+        <l n="307">Her store of counsels, Ithacus, aboard went last; and then</l>
+        <l n="308">The moist ways of the sea they sail'd. And now the king of men</l>
+        <l n="309">Bade all the host to sacrifice. They sacrific'd, and cast</l>
+        <l n="310">The offal of all to the deeps; the angry God they grac'd</l>
+        <l n="311">With perfect hecatombs; some bulls, some goats, along the shore</l>
+        <l n="312">Of the unfruitful sea, inflam'd. To heaven the thick fumes bore</l>
+        <l n="313">Enwrapped savours. Thus, though all the politic king made shew</l>
+        <l n="314">Respects to heaven, yet he himself all that time did pursue</l>
+        <l n="315">His own affections; the late jar, in which he thunder'd threats</l>
+        <l n="316">Against Achilles, still he fed, and his affections' heats</l>
+        <l n="317">Thus vented to Talthybius, and grave Eurybates,</l>
+        <l n="318">Heralds, and ministers of trust, to all his messages.</l>
+        <l n="319">"Haste to Achilles' tent; where take Briseis' hand, and bring</l>
+        <l n="320">Her beauties to us. If he fail to yield her, say your king</l>
+        <l n="321">Will come himself, with multitudes that shall the horribler</l>
+        <l n="322">Make both his presence, and your charge, that so he dares defer."</l>
+        <l n="323">This said, he sent them with a charge of hard condition.</l>
+        <l n="324">They went unwillingly, and trod the fruitless sea's shore; soon</l>
 
         <pb n="13" facs="#95"/>
-        <fw type="header">OF HOMER'S ILIADS. 13</fw>
         
-        <l n="324">They reach'd the navy and the tents, in which the quarter lay</l>
-        <l n="325">Of all the Myrmidons, and found the chief Chief in their sway</l>
-        <l n="326">Set at his black bark in his tent. Nor was Achilles glad</l>
-        <l n="327">To see their presence; nor themselves in any glory had</l>
-        <l n="328">Their message, but with reverence stood, and fear'd th' offended king,</l>
-        <l n="329">Ask'd not the dame, nor spake a word. He yet, well knowing the thing</l>
-        <l n="330">That caus'd their coming, grac'd them thus: "Heralds, ye men that bear</l>
-        <l n="331">The messages of men and gods, y' are welcome, come ye near.</l>
-        <l n="332">I nothing blame you, but your king; 'tis he I know doth send</l>
-        <l n="333">You for Briseis; she is his. Patroclus, honour'd friend,</l>
-        <l n="334">Bring forth the damsel, and these men let lead her to their lord.</l>
-        <l n="335">But, heralds, be you witnesses before the most ador'd,</l>
-        <l n="336">Before us mortals, and before your most ungentle king,</l>
-        <l n="337">Of what I suffer, that, if war ever hereafter bring</l>
-        <l n="338">My aid in question, to avert any severest bane</l>
-        <l n="339">It brings on others, I am 'scus'd to keep mine aid in wane,</l>
-        <l n="340">Since they mine honour. But your king, in tempting mischief, raves,</l>
-        <l n="341">Nor sees at once by present things the future; how like waves</l>
-        <l n="342">Ills follow ills; injustices being never so secure</l>
-        <l n="343">In present times, but after-plagues even then are seen as sure;</l>
-        <l n="344">Which yet he sees not, and so soothes his present lust, which check'd,</l>
-        <l n="345">Would check plagues future; and he might, in succouring right, protect</l>
-        <l n="346">Such as fight for his right at fleet. They still in safety fight</l>
-        <l n="347">That fight still justly." This speech us'd, Patroclus did the rite</l>
-        <l n="348">His friend commanded, and brought forth Briseis from her tent,</l>
-        <l n="349">Gave her the heralds, and away to th' Achive ships they went.</l>
-        <l n="350">She sad, and scarce for grief could go. Her love<anchor xml:id="n1.351_ref"/> all friends forsook,</l>
-        <l n="351">And wept for anger. To the shore of th' old sea he betook</l>
-        <l n="352">Himself alone, and casting forth upon the purple sea</l>
-        <l n="353">His wet eyes, and his hands to heaven advancing, this sad plea</l>
-        <l n="354">Made to his mother: "Mother! Since you brought me forth to breathe</l>
-        <l n="355">So short a life, Olympius<anchor xml:id="n1.356_ref"/> had good right to bequeath</l>
+        
+        <l n="325">They reach'd the navy and the tents, in which the quarter lay</l>
+        <l n="326">Of all the Myrmidons, and found the chief Chief in their sway</l>
+        <l n="327">Set at his black bark in his tent. Nor was Achilles glad</l>
+        <l n="328">To see their presence; nor themselves in any glory had</l>
+        <l n="329">Their message, but with reverence stood, and fear'd th' offended king,</l>
+        <l n="330">Ask'd not the dame, nor spake a word. He yet, well knowing the thing</l>
+        <l n="331">That caus'd their coming, grac'd them thus: "Heralds, ye men that bear</l>
+        <l n="332">The messages of men and gods, y' are welcome, come ye near.</l>
+        <l n="333">I nothing blame you, but your king; 'tis he I know doth send</l>
+        <l n="334">You for Briseis; she is his. Patroclus, honour'd friend,</l>
+        <l n="335">Bring forth the damsel, and these men let lead her to their lord.</l>
+        <l n="336">But, heralds, be you witnesses before the most ador'd,</l>
+        <l n="337">Before us mortals, and before your most ungentle king,</l>
+        <l n="338">Of what I suffer, that, if war ever hereafter bring</l>
+        <l n="339">My aid in question, to avert any severest bane</l>
+        <l n="340">It brings on others, I am 'scus'd to keep mine aid in wane,</l>
+        <l n="341">Since they mine honour. But your king, in tempting mischief, raves,</l>
+        <l n="342">Nor sees at once by present things the future; how like waves</l>
+        <l n="343">Ills follow ills; injustices being never so secure</l>
+        <l n="344">In present times, but after-plagues even then are seen as sure;</l>
+        <l n="345">Which yet he sees not, and so soothes his present lust, which check'd,</l>
+        <l n="346">Would check plagues future; and he might, in succouring right, protect</l>
+        <l n="347">Such as fight for his right at fleet. They still in safety fight</l>
+        <l n="348">That fight still justly." This speech us'd, Patroclus did the rite</l>
+        <l n="349">His friend commanded, and brought forth Briseis from her tent,</l>
+        <l n="350">Gave her the heralds, and away to th' Achive ships they went.</l>
+        <l n="351">She sad, and scarce for grief could go. Her love<anchor xml:id="n1.351_ref"/> all friends forsook,</l>
+        <l n="352">And wept for anger. To the shore of th' old sea he betook</l>
+        <l n="353">Himself alone, and casting forth upon the purple sea</l>
+        <l n="354">His wet eyes, and his hands to heaven advancing, this sad plea</l>
+        <l n="355">Made to his mother: "Mother! Since you brought me forth to breathe</l>
+        <l n="356">So short a life, Olympius<anchor xml:id="n1.356_ref"/> had good right to bequeath</l>
 
-        <note target="#n1.351_ref"><mentioned>Her love</mentioned>—Achilles.</note>
-        <note target="#n1.356_ref"><mentioned>Olympius</mentioned>—Jupiter.</note>
+        <note target="#n1.590_ref"><mentioned>Her love</mentioned>—Achilles.</note>
+        <note target="#n1.590_ref"><mentioned>Olympius</mentioned>—Jupiter.</note>
 
         <pb n="14" facs="#96"/>
-        <fw type="header">14 THE FIRST BOOK</fw>
         
-        <l n="356">My short life honour; yet that right he doth in no degree,</l>
-        <l n="357">But lets Atrides do me shame, and force that prise from me</l>
-        <l n="358">That all the Greeks gave." This with tears he utter'd, and she heard,</l>
-        <l n="359">Set with her old sire in his deeps, and instantly appear'd</l>
-        <l n="360">Up from the grey sea like a cloud, sate by his side, and said:</l>
-        <l n="361">"Why weeps my son? What grieves thee? Speak, conceal not what hath laid</l>
-        <l n="362">Such hard hand on thee, let both know." He, sighing like a storm,</l>
-        <l n="363">Replied: "Thou dost know. Why should I things known again inform?</l>
-        <l n="364">We march'd to Thebes, the sacred town of king Eëtion,</l>
-        <l n="365">Sack'd it, and brought to fleet the spoil, which every valiant son</l>
-        <l n="366">Of Greece indifferently shar'd. Atrides had for share</l>
-        <l n="367">Fair-cheek'd Chryseis. After which, his priest, that shoots so far,</l>
-        <l n="368">Chryses, the fair Chryseis' sire, arriv'd at th' Achive fleet,</l>
-        <l n="369">With infinite ransom, to redeem the dear imprison'd feet</l>
-        <l n="370">Of his fair daughter. In his hands he held Apollo's crown,</l>
-        <l n="371">And golden sceptre; making suit to every Grecian son,</l>
-        <l n="372">But most the sons of Atreus, the others' orderers,</l>
-        <l n="373">Yet they least heard him; all the rest receiv'd with reverend ears</l>
-        <l n="374">The motion, both the priest and gifts gracing, and holding worth</l>
-        <l n="375">His wish'd acceptance.<anchor xml:id="n1.376_ref"/> Atreus' son yet (vex'd) commanded forth</l>
-        <l n="376">With rude terms Phœbus' reverend priest; who, angry, made retreat,</l>
-        <l n="377">And pray'd to Phœbus, in whose grace he standing passing great</l>
-        <l n="378">Got his petition. The God an ill shaft sent abroad</l>
-        <l n="379">That tumbled down the Greeks in heaps. The host had no abode</l>
-        <l n="380">That was not visited. We ask'd a prophet that well knew</l>
-        <l n="381">The cause of all; and from his lips Apollo's prophecies flew,</l>
-        <l n="382">Telling his anger. First myself exhorted to appease</l>
-        <l n="383">The anger'd God, which Atreus' son did at the heart displease;</l>
-        <l n="384">And up he stood, us'd threats, perform'd. The black-ey'd Greeks sent home</l>
-        <l n="385">Chryseis to her sire, and gave his God a hecatomb.</l>
+        
+        <l n="357">My short life honour; yet that right he doth in no degree,</l>
+        <l n="358">But lets Atrides do me shame, and force that prise from me</l>
+        <l n="359">That all the Greeks gave." This with tears he utter'd, and she heard,</l>
+        <l n="360">Set with her old sire in his deeps, and instantly appear'd</l>
+        <l n="361">Up from the grey sea like a cloud, sate by his side, and said:</l>
+        <l n="362">"Why weeps my son? What grieves thee? Speak, conceal not what hath laid</l>
+        <l n="363">Such hard hand on thee, let both know." He, sighing like a storm,</l>
+        <l n="364">Replied: "Thou dost know. Why should I things known again inform?</l>
+        <l n="365">We march'd to Thebes, the sacred town of king Eëtion,</l>
+        <l n="366">Sack'd it, and brought to fleet the spoil, which every valiant son</l>
+        <l n="367">Of Greece indifferently shar'd. Atrides had for share</l>
+        <l n="368">Fair-cheek'd Chryseis. After which, his priest, that shoots so far,</l>
+        <l n="369">Chryses, the fair Chryseis' sire, arriv'd at th' Achive fleet,</l>
+        <l n="370">With infinite ransom, to redeem the dear imprison'd feet</l>
+        <l n="371">Of his fair daughter. In his hands he held Apollo's crown,</l>
+        <l n="372">And golden sceptre; making suit to every Grecian son,</l>
+        <l n="373">But most the sons of Atreus, the others' orderers,</l>
+        <l n="374">Yet they least heard him; all the rest receiv'd with reverend ears</l>
+        <l n="375">The motion, both the priest and gifts gracing, and holding worth</l>
+        <l n="376">His wish'd acceptance.<anchor xml:id="n1.376_ref"/> Atreus' son yet (vex'd) commanded forth</l>
+        <l n="377">With rude terms Phœbus' reverend priest; who, angry, made retreat,</l>
+        <l n="378">And pray'd to Phœbus, in whose grace he standing passing great</l>
+        <l n="379">Got his petition. The God an ill shaft sent abroad</l>
+        <l n="380">That tumbled down the Greeks in heaps. The host had no abode</l>
+        <l n="381">That was not visited. We ask'd a prophet that well knew</l>
+        <l n="382">The cause of all; and from his lips Apollo's prophecies flew,</l>
+        <l n="383">Telling his anger. First myself exhorted to appease</l>
+        <l n="384">The anger'd God, which Atreus' son did at the heart displease;</l>
+        <l n="385">And up he stood, us'd threats, perform'd. The black-ey'd Greeks sent home</l>
+        <l n="386">Chryseis to her sire, and gave his God a hecatomb.</l>
 
-        <note target="#n1.376_ref"><mentioned>His wish'd acceptance</mentioned>—that which he wished to be accepted.</note>
+        <note target="#n1.590_ref"><mentioned>His wish'd acceptance</mentioned>—that which he wished to be accepted.</note>
 
         <pb n="15" facs="#97"/>
-        <fw type="header">OF HOMER'S ILIADS. 15</fw>
         
-        <l n="386">Then, for Briseis, to my tents Atrides' heralds came,</l>
-        <l n="387">And took her that the Greeks gave all. If then thy powers can frame</l>
-        <l n="388">Wreak<anchor xml:id="n1.389_ref"/> for thy son, afford it. Scale Olympus, and implore</l>
-        <l n="389">Jove (if by either word, or fact, thou ever didst restore</l>
-        <l n="390">Joy to his griev'd heart) now to help. I oft have heard thee vaunt,</l>
-        <l n="391">In court of Peleus, that alone thy hand was conversant</l>
-        <l n="392">In rescue from a cruel spoil<anchor xml:id="n1.393_ref"/> the black-cloud-gathering Jove,</l>
-        <l n="393">Whom other Godheads would have bound (the Power whose pace doth move</l>
-        <l n="394">The round earth, heaven's great Queen, and Pallas);<anchor xml:id="n1.394_ref"/> to whose bands</l>
-        <l n="395">Thou cam'st with rescue, bringing up him with the hundred hands</l>
-        <l n="396">To great Olympus, whom the Gods call Briareus, men</l>
-        <l n="397">Ægæon, who his sire surpass'd, and was as strong again,</l>
-        <l n="398">And in that grace sat glad by Jove. Th' immortals stood dismay'd</l>
-        <l n="399">At his ascension, and gave free passage to his aid.</l>
-        <l n="400">Of all this tell Jove; kneel to him, embrace his knee, and pray,</l>
-        <l n="401">If Troy's aid he will ever deign, that now their forces may</l>
-        <l n="402">Beat home the Greeks to fleet and sea; embruing their retreat</l>
-        <l n="403">In slaughter; their pains paying the wreak of their proud sovereign's heat;</l>
-        <l n="404">And that far-ruling king may know from his poor soldier's harms</l>
-        <l n="405">His own harm falls; his own and all in mine, his best in arms."</l>
-        <l n="406">Her answer she pour'd out in tears: "O me, my son," said she,</l>
-        <l n="407">"Why brought I up thy being at all, that brought thee forth to be</l>
-        <l n="408">Sad subject of so hard a fate? O would to heaven, that since</l>
-        <l n="409">Thy fate is little, and not long, thou might'st without offence</l>
-        <l n="410">And tears perform it! But to live thrall to so stern a fate</l>
-        <l n="411">As grants thee least life, and that least so most unfortunate,</l>
-        <l n="412">Grieves me t' have given thee any life. But what thou wishest now,</l>
-        <l n="413">If Jove will grant, I'll up and ask; Olympus crown'd with snow</l>
-        <l n="414">I'll climb; but sit thou fast at fleet, renounce all war, and feed</l>
-        <l n="415">Thy heart with wrath, and hope of wreak; till which come, thou shalt need</l>
+        
+        <l n="387">Then, for Briseis, to my tents Atrides' heralds came,</l>
+        <l n="388">And took her that the Greeks gave all. If then thy powers can frame</l>
+        <l n="389">Wreak<anchor xml:id="n1.389_ref"/> for thy son, afford it. Scale Olympus, and implore</l>
+        <l n="390">Jove (if by either word, or fact, thou ever didst restore</l>
+        <l n="391">Joy to his griev'd heart) now to help. I oft have heard thee vaunt,</l>
+        <l n="392">In court of Peleus, that alone thy hand was conversant</l>
+        <l n="393">In rescue from a cruel spoil<anchor xml:id="n1.393_ref"/> the black-cloud-gathering Jove,</l>
+        <l n="394">Whom other Godheads would have bound (the Power whose pace doth move</l>
+        <l n="395">The round earth, heaven's great Queen, and Pallas);<anchor xml:id="n1.394_ref"/> to whose bands</l>
+        <l n="396">Thou cam'st with rescue, bringing up him with the hundred hands</l>
+        <l n="397">To great Olympus, whom the Gods call Briareus, men</l>
+        <l n="398">Aegæon, who his sire surpass'd, and was as strong again,</l>
+        <l n="399">And in that grace sat glad by Jove. Th' immortals stood dismay'd</l>
+        <l n="400">At his ascension, and gave free passage to his aid.</l>
+        <l n="401">Of all this tell Jove; kneel to him, embrace his knee, and pray,</l>
+        <l n="402">If Troy's aid he will ever deign, that now their forces may</l>
+        <l n="403">Beat home the Greeks to fleet and sea; embruing their retreat</l>
+        <l n="404">In slaughter; their pains paying the wreak of their proud sovereign's heat;</l>
+        <l n="405">And that far-ruling king may know from his poor soldier's harms</l>
+        <l n="406">His own harm falls; his own and all in mine, his best in arms."</l>
+        <l n="407">Her answer she pour'd out in tears: "O me, my son," said she,</l>
+        <l n="408">"Why brought I up thy being at all, that brought thee forth to be</l>
+        <l n="409">Sad subject of so hard a fate? O would to heaven, that since</l>
+        <l n="410">Thy fate is little, and not long, thou might'st without offence</l>
+        <l n="411">And tears perform it! But to live thrall to so stern a fate</l>
+        <l n="412">As grants thee least life, and that least so most unfortunate,</l>
+        <l n="413">Grieves me t' have given thee any life. But what thou wishest now,</l>
+        <l n="414">If Jove will grant, I'll up and ask; Olympus crown'd with snow</l>
+        <l n="415">I'll climb; but sit thou fast at fleet, renounce all war, and feed</l>
+        <l n="416">Thy heart with wrath, and hope of wreak; till which come, thou shalt need</l>
 
-        <note target="#n1.389_ref"><mentioned>Wreak</mentioned>—revenge. A frequent word in Elizabethan writers.</note>
-        <note target="#n1.393_ref"><mentioned>Spoil</mentioned>—injury.</note>
-        <note target="#n1.394_ref">Neptune, Juno, Minerva.</note>
+        <note target="#n1.590_ref"><mentioned>Wreak</mentioned>—revenge. A frequent word in Elizabethan writers.</note>
+        <note target="#n1.590_ref"><mentioned>Spoil</mentioned>—injury.</note>
+        <note target="#n1.590_ref">Neptune, Juno, Minerva.</note>
 
         <pb n="16" facs="#98"/>
-        <fw type="header">16 THE FIRST BOOK</fw>
         
-        <l n="416">A little patience. Jupiter went yesterday to feast</l>
-        <l n="417">Amongst the blameless Æthiops, in th' ocean's deepen'd breast,</l>
-        <l n="418">All Gods attending him; the twelfth, high heaven again he sees,</l>
-        <l n="419">And then his brass-pav'd court I'll scale, cling to his pow'rful knees,</l>
-        <l n="420">And doubt not but to win thy wish." Thus, made she her remove,</l>
-        <l n="421">And left wrath tyring on her son for his enforced love.<anchor xml:id="n1.422_ref"/></l>
-        <l n="422">Ulysses, with the hecatomb, arriv'd at Chrysa's shore;</l>
-        <l n="423">And when amidst the haven't deep mouth they came to use the oar,</l>
-        <l n="424">They straight struck sail, then roll'd them up, and on the hatches threw;</l>
-        <l n="425">The top-mast to the kelsine then with halyards down they drew;</l>
-        <l n="426">Then brought the ship to port with oars; then forked anchor cast;</l>
-        <l n="427">And, 'gainst the violence of storm, for drifting made her fast.</l>
-        <l n="428">All come ashore, they all expos'd the holy hecatomb</l>
-        <l n="429">To angry Phœbus, and, with it, Chryseis welcom'd home;</l>
-        <l n="430">Whom to her sire, wise Ithacus, that did at th' altar stand,</l>
-        <l n="431">For honour, led, and, speaking thus,<anchor xml:id="n1.432_ref"/> resign'd her to his hand:</l>
-        <l n="432">"Chryses, the mighty king of men, great Agamemnon, sends</l>
-        <l n="433">Thy lov'd seed by my hands to thine; and to thy God commends</l>
-        <l n="434">A hecatomb, which my charge is to sacrifice, and seek</l>
-        <l n="435">Our much-sigh-mix'd woe his recure,<anchor xml:id="n1.436_ref"/> invok'd by every Greek."</l>
-        <l n="436">Thus he resign'd her, and her sire receiv'd her highly joy'd.</l>
-        <l n="437">About the well-built altar, then, they orderly employ'd</l>
-        <l n="438">The sacred offering, wash'd their hands, took salt cakes; and the priest,</l>
-        <l n="439">With hands held up to heaven, thus pray'd: "O thou that all things seest,</l>
-        <l n="440">Fautour<anchor xml:id="n1.441_ref"/> of Chrysa, whose fair hand doth guardfully dispose</l>
-        <l n="441">Celestial Cilla, governing in all power Tenedos,</l>
+        
+        <l n="417">A little patience. Jupiter went yesterday to feast</l>
+        <l n="418">Amongst the blameless Aethiops, in th' ocean's deepen'd breast,</l>
+        <l n="419">All Gods attending him; the twelfth, high heaven again he sees,</l>
+        <l n="420">And then his brass-pav'd court I'll scale, cling to his pow'rful knees,</l>
+        <l n="421">And doubt not but to win thy wish." Thus, made she her remove,</l>
+        <l n="422">And left wrath tyring on her son for his enforced love.<anchor xml:id="n1.422_ref"/></l>
+        <l n="423">Ulysses, with the hecatomb, arriv'd at Chrysa's shore;</l>
+        <l n="424">And when amidst the haven't deep mouth they came to use the oar,</l>
+        <l n="425">They straight struck sail, then roll'd them up, and on the hatches threw;</l>
+        <l n="426">The top-mast to the kelsine then with halyards down they drew;</l>
+        <l n="427">Then brought the ship to port with oars; then forked anchor cast;</l>
+        <l n="428">And, 'gainst the violence of storm, for drifting made her fast.</l>
+        <l n="429">All come ashore, they all expos'd the holy hecatomb</l>
+        <l n="430">To angry Phœbus, and, with it, Chryseis welcom'd home;</l>
+        <l n="431">Whom to her sire, wise Ithacus, that did at th' altar stand,</l>
+        <l n="432">For honour, led, and, speaking thus,<anchor xml:id="n1.432_ref"/> resign'd her to his hand:</l>
+        <l n="433">"Chryses, the mighty king of men, great Agamemnon, sends</l>
+        <l n="434">Thy lov'd seed by my hands to thine; and to thy God commends</l>
+        <l n="435">A hecatomb, which my charge is to sacrifice, and seek</l>
+        <l n="436">Our much-sigh-mix'd woe his recure,<anchor xml:id="n1.436_ref"/> invok'd by every Greek."</l>
+        <l n="437">Thus he resign'd her, and her sire receiv'd her highly joy'd.</l>
+        <l n="438">About the well-built altar, then, they orderly employ'd</l>
+        <l n="439">The sacred offering, wash'd their hands, took salt cakes; and the priest,</l>
+        <l n="440">With hands held up to heaven, thus pray'd: "O thou that all things seest,</l>
+        <l n="441">Fautour<anchor xml:id="n1.441_ref"/> of Chrysa, whose fair hand doth guardfully dispose</l>
+        <l n="442">Celestial Cilla, governing in all power Tenedos,</l>
 
-        <note target="#n1.422_ref"><mentioned>Tyring</mentioned>—a term in falconry; from tirer (French) to drag or pull. The hawk was said to tire on her prey, when it was thrown at her, and she began to pull at it and tear it. Hence, metaphorically, for being engaged eagerly on any thing. Shakespeare thus uses it; Cymb. 111. 4, Tim. of Athens, III. 6.—<bibl>NARES.</bibl> <mentioned>For his enforced love</mentioned>—for Briseis forced from him.</note>
-        <note target="#n1.432_ref"><mentioned>Speaking thus</mentioned>. The first folio has "spoken thus."</note>
-        <note target="#n1.436_ref"><mentioned>Recure</mentioned>—cure. His refers to cure—our woe's recure.</note>
-        <note target="#n1.441_ref"><mentioned>Fautour</mentioned>—(Lat.) aider, protector.</note>
+        <note target="#n1.590_ref"><mentioned>Tyring</mentioned>—a term in falconry; from tirer (French) to drag or pull. The hawk was said to tire on her prey, when it was thrown at her, and she began to pull at it and tear it. Hence, metaphorically, for being engaged eagerly on any thing. Shakespeare thus uses it; Cymb. 111. 4, Tim. of Athens, III. 6.—<bibl>NARES.</bibl> <mentioned>For his enforced love</mentioned>—for Briseis forced from him.</note>
+        <note target="#n1.590_ref"><mentioned>Speaking thus</mentioned>. The first folio has "spoken thus."</note>
+        <note target="#n1.590_ref"><mentioned>Recure</mentioned>—cure. His refers to cure—our woe's recure.</note>
+        <note target="#n1.590_ref"><mentioned>Fautour</mentioned>—(Lat.) aider, protector.</note>
 
         <pb n="17" facs="#99"/>
-        <fw type="header">OF HOMER'S ILIADS. 17</fw>
         
-        <l n="442">O hear thy priest, and as thy hand, in free grace to my prayers,</l>
-        <l n="443">Shot fervent plague-shafts through the Greeks, now hearten their affairs</l>
-        <l n="444">With health renew'd, and quite remove th' infection from their blood."</l>
-        <l n="445">He pray'd; and to his pray'rs again the God propitious stood.</l>
-        <l n="446">All, after pray'r, cast on salt cakes, drew back, kill'd, flay'd the beeves,</l>
-        <l n="447">Cut out and dubb'd<anchor xml:id="n1.448_ref"/> with fat their thighs, fair dress'd with doubled leaves,</l>
-        <l n="448">And on them all the sweetbreads prick'd. The priest, with small sere wood,</l>
-        <l n="449">Did sacrifice, pour'd on red wine; by whom the young men stood,</l>
-        <l n="450">And turn'd, in five ranks, spits. On which (the legs enough) they eat</l>
-        <l n="451">The inwards; then in giggots<anchor xml:id="n1.452_ref"/> cut the other fit for meat,</l>
-        <l n="452">And put to fire; which roasted well they drew. The labour done,</l>
-        <l n="453">They serv'd the feast in that fed all to satisfaction.</l>
-        <l n="454">Desire of meat and wine thus quench'd, the youths crown'd cups of wine,</l>
-        <l n="455">Drunk off, and fill'd again to all. That day was held divine,</l>
-        <l n="456">And spent in pæans to the Sun, who heard with pleased ear;</l>
-        <l n="457">When whose bright chariot stoop'd to sea, and twilight hid the clear,</l>
-        <l n="458">All soundly on their cables slept, even till the night was worn.</l>
-        <l n="459">And when the Lady of the light, the rosy-finger'd Morn,</l>
-        <l n="460">Rose from the hills, all fresh arose, and to the camp retir'd.</l>
-        <l n="461">Apollo with a fore-right wind their swelling bark inspir'd.</l>
-        <l n="462">The top-mast hoisted, milk-white sails on his round breast they put,</l>
-        <l n="463">The mizens strooted<anchor xml:id="n1.464_ref"/> with the gale, the ship her course did cut</l>
-        <l n="464">So swiftly that the parted waves against her ribs did roar;</l>
-        <l n="465">Which, coming to the camp, they drew aloft<anchor xml:id="n1.466_ref"/> the sandy shore;</l>
-        <l n="466">Where, laid on stocks, each soldier kept his quarter as before.</l>
-        <l n="467">But Peleus' son, swift-foot Achilles, at his swift ships sate</l>
-        <l n="468">Burning in wrath, nor ever came to councils of estate</l>
+        
+        <l n="443">O hear thy priest, and as thy hand, in free grace to my prayers,</l>
+        <l n="444">Shot fervent plague-shafts through the Greeks, now hearten their affairs</l>
+        <l n="445">With health renew'd, and quite remove th' infection from their blood."</l>
+        <l n="446">He pray'd; and to his pray'rs again the God propitious stood.</l>
+        <l n="447">All, after pray'r, cast on salt cakes, drew back, kill'd, flay'd the beeves,</l>
+        <l n="448">Cut out and dubb'd<anchor xml:id="n1.448_ref"/> with fat their thighs, fair dress'd with doubled leaves,</l>
+        <l n="449">And on them all the sweetbreads prick'd. The priest, with small sere wood,</l>
+        <l n="450">Did sacrifice, pour'd on red wine; by whom the young men stood,</l>
+        <l n="451">And turn'd, in five ranks, spits. On which (the legs enough) they eat</l>
+        <l n="452">The inwards; then in giggots<anchor xml:id="n1.452_ref"/> cut the other fit for meat,</l>
+        <l n="453">And put to fire; which roasted well they drew. The labour done,</l>
+        <l n="454">They serv'd the feast in that fed all to satisfaction.</l>
+        <l n="455">Desire of meat and wine thus quench'd, the youths crown'd cups of wine,</l>
+        <l n="456">Drunk off, and fill'd again to all. That day was held divine,</l>
+        <l n="457">And spent in pæans to the Sun, who heard with pleased ear;</l>
+        <l n="458">When whose bright chariot stoop'd to sea, and twilight hid the clear,</l>
+        <l n="459">All soundly on their cables slept, even till the night was worn.</l>
+        <l n="460">And when the Lady of the light, the rosy-finger'd Morn,</l>
+        <l n="461">Rose from the hills, all fresh arose, and to the camp retir'd.</l>
+        <l n="462">Apollo with a fore-right wind their swelling bark inspir'd.</l>
+        <l n="463">The top-mast hoisted, milk-white sails on his round breast they put,</l>
+        <l n="464">The mizens strooted<anchor xml:id="n1.464_ref"/> with the gale, the ship her course did cut</l>
+        <l n="465">So swiftly that the parted waves against her ribs did roar;</l>
+        <l n="466">Which, coming to the camp, they drew aloft<anchor xml:id="n1.466_ref"/> the sandy shore;</l>
+        <l n="467">Where, laid on stocks, each soldier kept his quarter as before.</l>
+        <l n="468">But Peleus' son, swift-foot Achilles, at his swift ships sate</l>
+        <l n="469">Burning in wrath, nor ever came to councils of estate</l>
 
-        <note target="#n1.448_ref"><mentioned>Dubb'd</mentioned>—From the French dauber. We use the word dabbed on now in the same sense. Halliwell, in his Archaic Dict. quotes "Morte Arthure, MS. Linc. f. 88;" — "His dyademe was droppede downe / Dubbyde with stonys."</note>
-        <note target="#n1.452_ref"><mentioned>Giggots</mentioned>—quarters; from French gigot.</note>
-        <note target="#n1.464_ref"><mentioned>Strooted</mentioned>—swelled out. Halliwell spells it strout, which he says is still in use.</note>
-        <note target="#n1.466_ref"><mentioned>Aloft</mentioned>—high up on.</note>
+        <note target="#n1.590_ref"><mentioned>Dubb'd</mentioned>—From the French dauber. We use the word dabbed on now in the same sense. Halliwell, in his Archaic Dict. quotes "Morte Arthure, MS. Linc. f. 88;" — "His dyademe was droppede downe / Dubbyde with stonys."</note>
+        <note target="#n1.590_ref"><mentioned>Giggots</mentioned>—quarters; from French gigot.</note>
+        <note target="#n1.590_ref"><mentioned>Strooted</mentioned>—swelled out. Halliwell spells it strout, which he says is still in use.</note>
+        <note target="#n1.590_ref"><mentioned>Aloft</mentioned>—high up on.</note>
         
-        <fw type="footer">VOL. I. C</fw>
+        
 
         <pb n="18" facs="#100"/>
-        <fw type="header">18 THE FIRST BOOK</fw>
         
-        <l n="469">That make men honour'd, never trod the fierce embattled field,</l>
-        <l n="470">But kept close, and his lov'd heart pin'd, what fight and cries could yield<anchor xml:id="n1.471_ref"/></l>
-        <l n="471">Thirsting at all parts to the host. And now, since first he told</l>
-        <l n="472">His wrongs to Thetis, twelve fair morns their ensigns did unfold,</l>
-        <l n="473">And then the ever-living gods mounted Olympus, Jove</l>
-        <l n="474">First in ascension. Thetis then remember'd well to move</l>
-        <l n="475">Achilles' motion, rose <choice><orig>from</orig><reg>from the</reg></choice> sea,<anchor xml:id="n1.476_ref"/> and, by the morn's first light,</l>
-        <l n="476">The great heaven and Olympus climb'd; where, in supremest height</l>
-        <l n="477">Of all that many-headed hill, she saw the far-seen son</l>
-        <l n="478">Of Saturn, set from all the rest, in his free seat alone.</l>
-        <l n="479">Before whom, on her own knees fall'n, the knees of Jupiter</l>
-        <l n="480">Her left hand held, her right his chin, and thus she did prefer</l>
-        <l n="481">Her son's petition: "Father Jove! If ever I have stood</l>
-        <l n="482">Aidful to thee in word or work, with this implored good</l>
-        <l n="483">Requite my aid, renown my son, since in so short a race</l>
-        <l n="484">(Past others) thou confin'st his life. An insolent disgrace</l>
-        <l n="485">Is done him by the king of men; he forc'd from him a prise</l>
-        <l n="486">Won with his sword. But thou, O Jove, that art most strong, most wise,</l>
-        <l n="487">Honour my son for my sake; add strength to the Trojans' side</l>
-        <l n="488">By his side's weakness in his want; and see Troy amplified</l>
-        <l n="489">In conquest, so much, and so long, till Greece may give again</l>
-        <l n="490">The glory reft him, and the more illustrate the free reign</l>
-        <l n="491">Of his wrong'd honour." Jove at this sate silent; not a word</l>
-        <l n="492">In long space pass'd him. Thetis still hung on his knee, implor'd</l>
-        <l n="493">The second time his help, and said: "Grant, or deny my suit,</l>
-        <l n="494">Be free in what thou dost; I know thou canst not sit thus mute</l>
-        <l n="495">For fear of any; speak, deny, that so I may be sure,</l>
-        <l n="496">Of all heaven's Goddesses, 'tis I that only must endure</l>
-        <l n="497">Dishonour by thee." Jupiter, the great cloud-gatherer, griev'd</l>
-        <l n="498">With thought of what a world of griefs this suit ask'd, being achiev'd,</l>
+        
+        <l n="470">That make men honour'd, never trod the fierce embattled field,</l>
+        <l n="471">But kept close, and his lov'd heart pin'd, what fight and cries could yield<anchor xml:id="n1.471_ref"/></l>
+        <l n="472">Thirsting at all parts to the host. And now, since first he told</l>
+        <l n="473">His wrongs to Thetis, twelve fair morns their ensigns did unfold,</l>
+        <l n="474">And then the ever-living gods mounted Olympus, Jove</l>
+        <l n="475">First in ascension. Thetis then remember'd well to move</l>
+        <l n="476">Achilles' motion, rose from sea,<anchor xml:id="n1.476_ref"/> and, by the morn's first light,</l>
+        <l n="477">The great heaven and Olympus climb'd; where, in supremest height</l>
+        <l n="478">Of all that many-headed hill, she saw the far-seen son</l>
+        <l n="479">Of Saturn, set from all the rest, in his free seat alone.</l>
+        <l n="480">Before whom, on her own knees fall'n, the knees of Jupiter</l>
+        <l n="481">Her left hand held, her right his chin, and thus she did prefer</l>
+        <l n="482">Her son's petition: "Father Jove! If ever I have stood</l>
+        <l n="483">Aidful to thee in word or work, with this implored good</l>
+        <l n="484">Requite my aid, renown my son, since in so short a race</l>
+        <l n="485">(Past others) thou confin'st his life. An insolent disgrace</l>
+        <l n="486">Is done him by the king of men; he forc'd from him a prise</l>
+        <l n="487">Won with his sword. But thou, O Jove, that art most strong, most wise,</l>
+        <l n="488">Honour my son for my sake; add strength to the Trojans' side</l>
+        <l n="489">By his side's weakness in his want; and see Troy amplified</l>
+        <l n="490">In conquest, so much, and so long, till Greece may give again</l>
+        <l n="491">The glory reft him, and the more illustrate the free reign</l>
+        <l n="492">Of his wrong'd honour." Jove at this sate silent; not a word</l>
+        <l n="493">In long space pass'd him. Thetis still hung on his knee, implor'd</l>
+        <l n="494">The second time his help, and said: "Grant, or deny my suit,</l>
+        <l n="495">Be free in what thou dost; I know thou canst not sit thus mute</l>
+        <l n="496">For fear of any; speak, deny, that so I may be sure,</l>
+        <l n="497">Of all heaven's Goddesses, 'tis I that only must endure</l>
+        <l n="498">Dishonour by thee." Jupiter, the great cloud-gatherer, griev'd</l>
+        <l n="499">With thought of what a world of griefs this suit ask'd, being achiev'd,</l>
 
-        <note target="#n1.471_ref">"Eagerly desirous of what fight and cries could yield at all parts of the host. The Greek is more simple: He ardently desired shout and war." <bibl>DR. COOKE TAYLOR.</bibl></note>
-        <note target="#n1.476_ref">The second folio reads "rose from the sea."</note>
+        <note target="#n1.590_ref">"Eagerly desirous of what fight and cries could yield at all parts of the host. The Greek is more simple: He ardently desired shout and war." <bibl>DR. COOKE TAYLOR.</bibl></note>
+        <note target="#n1.590_ref">The second folio reads "rose from the sea."</note>
 
         <pb n="19" facs="#101"/>
-        <fw type="header">OF HOMER'S ILIADS. 19</fw>
         
-        <l n="499">Swell'd, sigh'd, and answer'd: "Works of death thou urgest. O at this</l>
-        <l n="500">Juno will storm, and all my powers inflame with contumelies.</l>
-        <l n="501">Ever she wrangles, charging me in ear of all the Gods</l>
-        <l n="502">That I am partial still, that I add the displeasing odds</l>
-        <l n="503">Of my aid to the Ilians. Begone then, lest she see;</l>
-        <l n="504">Leave thy request to my care; yet, that trust may hearten thee</l>
-        <l n="505">With thy desire's grant, and my power to give it act approve</l>
-        <l n="506">How vain her strife is, to thy prayer my eminent head shall move;</l>
-        <l n="507">Which is the great sign of my will with all th' immortal states;</l>
-        <l n="508">Irrevocable; never fails; never without the rates<anchor xml:id="n1.509_ref"/></l>
-        <l n="509">Of all powers else; when my head bows, all heads bow with it still</l>
-        <l n="510">As their first mover; and gives power to any work I will."</l>
-        <l n="511">He said; and his black eyebrows bent; above his deathless head</l>
-        <l n="512">Th' ambrosian curls flow'd; great heaven shook; and both were severed,</l>
-        <l n="513">Their counsels broken. To the depth of Neptune's kingdom div'd</l>
-        <l n="514">Thetis from heaven's height; Jove arose, and all the Gods receiv'd</l>
-        <l n="515">(All rising from their thrones) their sire, attending to his court.</l>
-        <l n="516">None sate when he rose, none delay'd the furnishing his port<anchor xml:id="n1.517_ref"/></l>
-        <l n="517">Till he came near, all met with him, and brought him to his throne.</l>
-        <l n="518">Nor sate great Juno ignorant, when she beheld alone</l>
-        <l n="519">Old Nereus' silver-footed seed<anchor xml:id="n1.520_ref"/> with Jove, that she had brought</l>
-        <l n="520">Counsels to heaven; and straight her tongue had teeth in it, that wrought</l>
-        <l n="521">This sharp invective: "Who was that (thou craftiest counsellor</l>
-        <l n="522">Of all the Gods) that so apart some secret did implore?</l>
-        <l n="523">Ever, apart from me, thou lov'st to counsel and decree</l>
-        <l n="524">Things of more close trust than thou think'st are fit t' impart to me.</l>
-        <l n="525">Whatever thou determin'st, I must ever be denied</l>
-        <l n="526">The knowledge of it by thy will." To her speech thus replied</l>
-        <l n="527">The Father both of men and Gods: "Have never hope to know</l>
-        <l n="528">My whole intentions, though my wife; it fits not, nor would show</l>
+        
+        <l n="500">Swell'd, sigh'd, and answer'd: "Works of death thou urgest. O at this</l>
+        <l n="501">Juno will storm, and all my powers inflame with contumelies.</l>
+        <l n="502">Ever she wrangles, charging me in ear of all the Gods</l>
+        <l n="503">That I am partial still, that I add the displeasing odds</l>
+        <l n="504">Of my aid to the Ilians. Begone then, lest she see;</l>
+        <l n="505">Leave thy request to my care; yet, that trust may hearten thee</l>
+        <l n="506">With thy desire's grant, and my power to give it act approve</l>
+        <l n="507">How vain her strife is, to thy prayer my eminent head shall move;</l>
+        <l n="508">Which is the great sign of my will with all th' immortal states;</l>
+        <l n="509">Irrevocable; never fails; never without the rates<anchor xml:id="n1.509_ref"/></l>
+        <l n="510">Of all powers else; when my head bows, all heads bow with it still</l>
+        <l n="511">As their first mover; and gives power to any work I will."</l>
+        <l n="512">He said; and his black eyebrows bent; above his deathless head</l>
+        <l n="513">Th' ambrosian curls flow'd; great heaven shook; and both were severed,</l>
+        <l n="514">Their counsels broken. To the depth of Neptune's kingdom div'd</l>
+        <l n="515">Thetis from heaven's height; Jove arose, and all the Gods receiv'd</l>
+        <l n="516">(All rising from their thrones) their sire, attending to his court.</l>
+        <l n="517">None sate when he rose, none delay'd the furnishing his port<anchor xml:id="n1.517_ref"/></l>
+        <l n="518">Till he came near, all met with him, and brought him to his throne.</l>
+        <l n="519">Nor sate great Juno ignorant, when she beheld alone</l>
+        <l n="520">Old Nereus' silver-footed seed<anchor xml:id="n1.520_ref"/> with Jove, that she had brought</l>
+        <l n="521">Counsels to heaven; and straight her tongue had teeth in it, that wrought</l>
+        <l n="522">This sharp invective: "Who was that (thou craftiest counsellor</l>
+        <l n="523">Of all the Gods) that so apart some secret did implore?</l>
+        <l n="524">Ever, apart from me, thou lov'st to counsel and decree</l>
+        <l n="525">Things of more close trust than thou think'st are fit t' impart to me.</l>
+        <l n="526">Whatever thou determin'st, I must ever be denied</l>
+        <l n="527">The knowledge of it by thy will." To her speech thus replied</l>
+        <l n="528">The Father both of men and Gods: "Have never hope to know</l>
+        <l n="529">My whole intentions, though my wife; it fits not, nor would show</l>
 
-        <note target="#n1.509_ref"><mentioned>Rates</mentioned>—ratifications</note>
-        <note target="#n1.517_ref"><mentioned>Furnishing his port</mentioned>—assuming a proper deportment.</note>
-        <note target="#n1.520_ref"><mentioned>Nereus' silver-footed seed</mentioned>—Thetis.</note>
+        <note target="#n1.590_ref"><mentioned>Rates</mentioned>—ratifications</note>
+        <note target="#n1.590_ref"><mentioned>Furnishing his port</mentioned>—assuming a proper deportment.</note>
+        <note target="#n1.590_ref"><mentioned>Nereus' silver-footed seed</mentioned>—Thetis.</note>
 
         <pb n="20" facs="#102"/>
-        <fw type="header">20 THE FIRST BOOK</fw>
         
-        <l n="529">Well to thine own thoughts; but what fits thy woman's ear to hear,</l>
-        <l n="530">Woman, nor man, nor God, shall know before it grace thine ear.</l>
-        <l n="531">Yet, what apart from men and Gods I please to know, forbear</l>
-        <l n="532">T' examine, or enquire of that." She with the cow's fair eyes,<anchor xml:id="n1.533_ref"/></l>
-        <l n="533">Respected Juno, this return'd: "Austere king of the skies,</l>
-        <l n="534">What hast thou utter'd? When did I before this time inquire,</l>
-        <l n="535">Or sift thy counsels? Passing close you are still. Your desire</l>
-        <l n="536">Is serv'd with such care, that I fear you can scarce vouch the deed</l>
-        <l n="537">That makes it public, being seduc'd by this old sea-god's seed,</l>
-        <l n="538">That could so early use her knees, embracing thine. I doubt</l>
-        <l n="539">The late act of thy bowed head was for the working out</l>
-        <l n="540">Of some boon she ask'd; that her son thy partial hand would please</l>
-        <l n="541">With plaguing others." "Wretch!" said he, "thy subtle jealousies<anchor xml:id="n1.543_ref"/></l>
-        <l n="542">Are still exploring; my designs can never 'scape thine eye,</l>
-        <l n="543">Which yet thou never canst prevent. Your curiosity</l>
-        <l n="544">Makes thee less car'd for at my hands, and horrible the end</l>
-        <l n="545">Shall make thy humour. If it be what thy suspects intend,</l>
-        <l n="546">What then? 'Tis my free will it should; to which let way be given</l>
-        <l n="547">With silence. Curb your tongue in time, lest all the Gods in heaven</l>
-        <l n="548">Too few be and too weak to help thy punish'd insolence,</l>
-        <l n="549">When my inaccessible hands shall fall on thee." The sense</l>
-        <l n="550">Of this high threat'ning made her fear, and silent she sate down,</l>
-        <l n="551">Humbling her great heart. All the Gods in court of Jove did frown</l>
-        <l n="552">At this offence given; amongst whom heaven's famous artizan,</l>
-        <l n="553">Ephaistus,<anchor xml:id="n1.554_ref"/> in his mother's care this comely speech began;</l>
-        <l n="554">"Believe it, these words will breed wounds beyond our powers to bear,</l>
-        <l n="555">If thus for mortals ye fall out. Ye make a tumult here</l>
-        <l n="556">That spoils our banquet. Evermore worst matters put down best.</l>
-        <l n="557">But, mother, though yourself be wise, yet let your son request</l>
+        
+        <l n="530">Well to thine own thoughts; but what fits thy woman's ear to hear,</l>
+        <l n="531">Woman, nor man, nor God, shall know before it grace thine ear.</l>
+        <l n="532">Yet, what apart from men and Gods I please to know, forbear</l>
+        <l n="533">T' examine, or enquire of that." She with the cow's fair eyes,<anchor xml:id="n1.533_ref"/></l>
+        <l n="534">Respected Juno, this return'd: "Austere king of the skies,</l>
+        <l n="535">What hast thou utter'd? When did I before this time inquire,</l>
+        <l n="536">Or sift thy counsels? Passing close you are still. Your desire</l>
+        <l n="537">Is serv'd with such care, that I fear you can scarce vouch the deed</l>
+        <l n="538">That makes it public, being seduc'd by this old sea-god's seed,</l>
+        <l n="539">That could so early use her knees, embracing thine. I doubt</l>
+        <l n="540">The late act of thy bowed head was for the working out</l>
+        <l n="541">Of some boon she ask'd; that her son thy partial hand would please</l>
+        <l n="542">With plaguing others." "Wretch!" said he, "thy subtle jealousies<anchor xml:id="n1.543_ref"/></l>
+        <l n="543">Are still exploring; my designs can never 'scape thine eye,</l>
+        <l n="544">Which yet thou never canst prevent. Your curiosity</l>
+        <l n="545">Makes thee less car'd for at my hands, and horrible the end</l>
+        <l n="546">Shall make thy humour. If it be what thy suspects intend,</l>
+        <l n="547">What then? 'Tis my free will it should; to which let way be given</l>
+        <l n="548">With silence. Curb your tongue in time, lest all the Gods in heaven</l>
+        <l n="549">Too few be and too weak to help thy punish'd insolence,</l>
+        <l n="550">When my inaccessible hands shall fall on thee." The sense</l>
+        <l n="551">Of this high threat'ning made her fear, and silent she sate down,</l>
+        <l n="552">Humbling her great heart. All the Gods in court of Jove did frown</l>
+        <l n="553">At this offence given; amongst whom heaven's famous artizan,</l>
+        <l n="554">Ephaistus,<anchor xml:id="n1.554_ref"/> in his mother's care this comely speech began;</l>
+        <l n="555">"Believe it, these words will breed wounds beyond our powers to bear,</l>
+        <l n="556">If thus for mortals ye fall out. Ye make a tumult here</l>
+        <l n="557">That spoils our banquet. Evermore worst matters put down best.</l>
+        <l n="558">But, mother, though yourself be wise, yet let your son request</l>
 
-        <note target="#n1.533_ref"><mentioned>With the cow's fair eyes</mentioned>—Chapman has retained the original meaning of the word βοῶπις, and, I think, rightly. Oxen have beautiful eyes irrespective of their magnitude. In Bk. vii. 10, he translates it "that had her eyes so clear."</note>
-        <note target="#n1.543_ref"><mentioned>Still exploring</mentioned>—ever prying.</note>
-        <note target="#n1.554_ref"><mentioned>Ephaistus</mentioned>—Vulcan.</note>
+        <note target="#n1.590_ref"><mentioned>With the cow's fair eyes</mentioned>—Chapman has retained the original meaning of the word βοῶπις, and, I think, rightly. Oxen have beautiful eyes irrespective of their magnitude. In Bk. vii. 10, he translates it "that had her eyes so clear."</note>
+        <note target="#n1.590_ref"><mentioned>Still exploring</mentioned>—ever prying.</note>
+        <note target="#n1.590_ref"><mentioned>Ephaistus</mentioned>—Vulcan.</note>
 
         <pb n="21" facs="#103"/>
-        <fw type="header">OF HOMER'S ILIADS. 21</fw>
         
-        <l n="558">His wisdom audience.<anchor xml:id="n1.559_ref"/> Give good terms to our lov'd father Jove,</l>
-        <l n="559">For fear he take offence again, and our kind banquet prove</l>
-        <l n="560">A wrathful battle. If he will, the heavenly Light'ner can</l>
-        <l n="561">Take you and toss you from your throne, his power Olympian</l>
-        <l n="562">Is so surpassing. Soften then with gentle speech his spleen,</l>
-        <l n="563">And drink to him; I know his heart will quickly down again."</l>
-        <l n="564">This said, arising from his throne, in his lov'd mother's hand</l>
-        <l n="565">He put the double-handed cup,<anchor xml:id="n1.566_ref"/> and said: "Come, do not stand</l>
-        <l n="566">On these cross humours, suffer, bear, though your great bosom grieve,</l>
-        <l n="567">And lest blows force you, all my aid not able to relieve</l>
-        <l n="568">Your hard condition, though these eyes behold it, and this heart</l>
-        <l n="569">Sorrow to think it. 'Tis a task too dangerous to take part</l>
-        <l n="570">Against Olympius. I myself the proof of this still feel.</l>
-        <l n="571">When other Gods would fain have help'd, he took me by the heel,</l>
-        <l n="572">And hurl'd me out of heaven. All day I was in falling down;</l>
-        <l n="573">At length in Lemnos I struck earth. The likewise-falling sun</l>
-        <l n="574">And I, together, set; my life almost set too; yet there</l>
-        <l n="575">The Sintii cheer'd and took me up." This did to laughter cheer</l>
-        <l n="576">White-wristed Juno, who now took the cup of him, and smil'd.</l>
-        <l n="577">The sweet peace-making draught went round, and lame Ephaistus fill'd</l>
-        <l n="578">Nectar to all the other Gods. A laughter never left</l>
-        <l n="579">Shook all the blessed deities, to see the lame so deft<anchor xml:id="n1.580_ref"/></l>
-        <l n="580">At that cup service. All that day, even till the sun went down,</l>
-        <l n="581">They banqueted, and had such cheer as did their wishes crown.</l>
-        <l n="582">Nor had they music less divine; Apollo there did touch</l>
-        <l n="583">His most sweet harp, to which, with voice, the Muses pleas'd as much.</l>
-        <l n="584">But when the sun's fair light was set, each Godhead to his house</l>
-        <l n="585">Address'd for sleep, where every one, with art most curious,</l>
+        
+        <l n="559">His wisdom audience.<anchor xml:id="n1.559_ref"/> Give good terms to our lov'd father Jove,</l>
+        <l n="560">For fear he take offence again, and our kind banquet prove</l>
+        <l n="561">A wrathful battle. If he will, the heavenly Light'ner can</l>
+        <l n="562">Take you and toss you from your throne, his power Olympian</l>
+        <l n="563">Is so surpassing. Soften then with gentle speech his spleen,</l>
+        <l n="564">And drink to him; I know his heart will quickly down again."</l>
+        <l n="565">This said, arising from his throne, in his lov'd mother's hand</l>
+        <l n="566">He put the double-handed cup,<anchor xml:id="n1.566_ref"/> and said: "Come, do not stand</l>
+        <l n="567">On these cross humours, suffer, bear, though your great bosom grieve,</l>
+        <l n="568">And lest blows force you, all my aid not able to relieve</l>
+        <l n="569">Your hard condition, though these eyes behold it, and this heart</l>
+        <l n="570">Sorrow to think it. 'Tis a task too dangerous to take part</l>
+        <l n="571">Against Olympius. I myself the proof of this still feel.</l>
+        <l n="572">When other Gods would fain have help'd, he took me by the heel,</l>
+        <l n="573">And hurl'd me out of heaven. All day I was in falling down;</l>
+        <l n="574">At length in Lemnos I struck earth. The likewise-falling sun</l>
+        <l n="575">And I, together, set; my life almost set too; yet there</l>
+        <l n="576">The Sintii cheer'd and took me up." This did to laughter cheer</l>
+        <l n="577">White-wristed Juno, who now took the cup of him, and smil'd.</l>
+        <l n="578">The sweet peace-making draught went round, and lame Ephaistus fill'd</l>
+        <l n="579">Nectar to all the other Gods. A laughter never left</l>
+        <l n="580">Shook all the blessed deities, to see the lame so deft<anchor xml:id="n1.580_ref"/></l>
+        <l n="581">At that cup service. All that day, even till the sun went down,</l>
+        <l n="582">They banqueted, and had such cheer as did their wishes crown.</l>
+        <l n="583">Nor had they music less divine; Apollo there did touch</l>
+        <l n="584">His most sweet harp, to which, with voice, the Muses pleas'd as much.</l>
+        <l n="585">But when the sun's fair light was set, each Godhead to his house</l>
+        <l n="586">Address'd for sleep, where every one, with art most curious,</l>
 
-        <note target="#n1.559_ref"><mentioned>Wisdom audience</mentioned>—i. e. a hearing for his wisdom.</note>
-        <note target="#n1.566_ref"><mentioned>Double-handed</mentioned>—so reads the second folio; in the first it was "double-handled." The δέπας ἀμφικύπελλον, however, was not a cup with two handles, but which was held in the middle with a cup at each end.</note>
-        <note target="#n1.580_ref"><mentioned>Deft</mentioned>—dexterous, neat.</note>
+        <note target="#n1.590_ref"><mentioned>Wisdom audience</mentioned>—i. e. a hearing for his wisdom.</note>
+        <note target="#n1.590_ref"><mentioned>Double-handed</mentioned>—so reads the second folio; in the first it was "double-handled." The δέπας ἀμφικύπελλον, however, was not a cup with two handles, but which was held in the middle with a cup at each end.</note>
+        <note target="#n1.590_ref"><mentioned>Deft</mentioned>—dexterous, neat.</note>
 
         <pb n="22" facs="#104"/>
-        <fw type="header">22 THE FIRST BOOK</fw>
         
-        <l n="586">By heaven's great both-foot-halting God<anchor xml:id="n1.587_ref"/> a several roof had built.</l>
-        <l n="587">Even he to sleep went, by whose hand heaven is with lightning gilt,</l>
-        <l n="588">High Jove, where he had us'd to rest when sweet sleep seiz'd his eyes;</l>
-        <l n="589">By him the golden-thron'd Queen slept, the Queen of deities.</l>
+        
+        <l n="587">By heaven's great both-foot-halting God<anchor xml:id="n1.587_ref"/> a several roof had built.</l>
+        <l n="588">Even he to sleep went, by whose hand heaven is with lightning gilt,</l>
+        <l n="589">High Jove, where he had us'd to rest when sweet sleep seiz'd his eyes;</l>
+        <l n="590">By him the golden-thron'd Queen slept, the Queen of deities.</l>
 
-        <note target="#n1.587_ref"><mentioned>Great both-foot-halting God</mentioned>—Vulcan.</note>
+        <note target="#n1.590_ref"><mentioned>Great both-foot-halting God</mentioned>—Vulcan.</note>
       </div>
-
-<div type="textpart" subtype="book" n="2">
-
-   <div type="textpart" subtype="argument" n="1">
-  <head rend="center">THE ARGUMENT.</head>
-  <l n="1">Jove calls a vision up from Somnus' den</l>
-  <l n="2">To bid Atrides muster up his men.</l>
-  <l n="3">The King, to Greeks dissembling his desire,</l>
-  <l n="4">Persuades them to their country to retire.</l>
-  <l n="5">By Pallas' will, Ulysses stays their flight;</l>
-  <l n="6">And wise old Nestor heartens them to fight.</l>
-  <l n="7">They take their meat; which done, to arms they go,</l>
-  <l n="8">And march in good array against the foe.</l>
-  <l n="9">So those of Troy; when Iris, from the sky,</l>
-  <l n="10">Of Saturn's son performs the embassy.</l>
 </div>
-
-<div type="textpart" subtype="argument" n="2">
-  <head rend="center">ANOTHER ARGUMENT.</head>
-  <l n="1">Beta the dream and synod cites;</l>
-  <l n="2">And catalogues the naval knights.</l>
-</div>
-<div type="textpart" subtype="text">
-<l n="1"><hi rend="dropcap">T</hi>HE other Gods, and knights at arms, all night slept; only Jove</l>
-  <l n="2">Sweet slumber seiz'd not; he discours'd how best he might approve</l>
-  <l n="3">His vow made for Achilles' grace, and make the Grecians find</l>
-  <l n="4">His miss<anchor xml:id="n2.4_ref"/> in much death. All ways cast, this counsel serv'd his mind</l>
-  <l n="5">With most allowance;<anchor xml:id="n2.5_ref"/> to dispatch a harmful dream to greet</l>
-  <l n="6">The king of men, and gave this charge : "Go to the Achive fleet,</l>
-
-  <note target="#n2.4_ref"><mentioned>Miss</mentioned>—absence, or loss.</note>
-  <note target="#n2.5_ref"><mentioned>Allowance</mentioned>—approbation. <quote>"A stirring dwarf we most allowance give / Before a sleeping guest."</quote> — <bibl>SHAKESPEARE. Troil. and Cress. II. 3.</bibl></note>
-
-  <pb n="29" facs="#111"/>
-  <fw type="header">HOMER'S ILIADS. 29</fw>
-
-  <l n="7">Pernicious dream, and, being arriv'd in Agamemnon's tent,</l>
-  <l n="8">Deliver truly all this charge. Command him to convent<anchor xml:id="n2.8_ref"/></l>
-  <l n="9">His whole host arm'm'd before these towers; for now Troy's broad-way'd town</l>
-  <l n="10">He shall take in;<anchor xml:id="n2.10_ref"/> the heaven-hous'd Gods are now indifferent grown;</l>
-  <l n="11">Juno's request hath won them; Troy now under imminent ills</l>
-  <l n="12">At all parts labours." This charge heard the vision straight fulfils;</l>
-  <l n="13">The ships reach'd, and Atrides' tent, in which he found him laid,</l>
-  <l n="14">Divine sleep pour'd about his powers. He stood above his head</l>
-  <l n="15">Like Nestor, grac'd of old men most, and this did intimate:</l>
-  <l n="16">" Sleeps the wise Atreus' tame-horse son? A counsellor of state</l>
-  <l n="17">Must not the whole night spend in sleep, to whom the people are</l>
-  <l n="18">For guard committed, and whose life stands bound to so much care.</l>
-  <l n="19">Now hear me then, Jove's messenger, who, though far off from thee,</l>
-  <l n="20">Is near thee yet in ruth<anchor xml:id="n2.20_ref"/> and care, and gives command by me</l>
-  <l n="21">To arm thy whole host. Thy strong hand the broad-way'd town of Troy</l>
-  <l n="22">Shall now take in; no more the Gods dissentiously employ</l>
-  <l n="23">Their high-hous'd powers; Juno's suit hath won them all to her ;</l>
-  <l n="24">And ill fates overhang these towers, address'd<anchor xml:id="n2.24_ref"/> by Jupiter.</l>
-  <l n="25">Fix in thy mind this, nor forget to give it action when</l>
-  <l n="26">Sweet sleep shall leave thee." Thus, he fled; and left the king of men</l>
-  <l n="27">Repeating in discourse his dream, and dreaming still, awake,</l>
-  <l n="28">Of power, not ready yet for act. O fool, he thought to take</l>
-  <l n="29">In that next day old Priam's town; not knowing what affairs</l>
-  <l n="30">Jove had in purpose, who prepar'd, by strong fight, sighs and cares</l>
-  <l n="31">For Greeks and Trojans. The dream gone, his voice still murmured</l>
-  <l n="32">About the king's ears, who sate up, put on him in his bed</l>
-
-  <note target="#n2.8_ref"><mentioned>Convent</mentioned>—convene.</note>
-  <note target="#n2.10_ref"><mentioned>Take in</mentioned>—conquer. Shakespeare — <quote>"Is it not strange, Canidius, / He could so quickly cut th' Ionian sea, / And take in Toryne?"</quote> — <bibl>Anton and Cleop. III. 7.</bibl></note>
-  <note target="#n2.20_ref"><mentioned>Ruth</mentioned>—pity, tender care. A word in use even in Milton's time.</note>
-  <note target="#n2.24_ref"><mentioned>Address'd</mentioned>—prepared. A frequent word.</note>
-
-  <pb n="30" facs="#112"/>
-  <fw type="header">30 THE SECOND BOOK</fw>
-
-  <l n="33">His silken inner weed,<anchor xml:id="n2.33_ref"/> fair, new, and then in haste arose,</l>
-  <l n="34">Cast on his ample mantle, tied to his soft feet fair shoes,</l>
-  <l n="35">His silver-hilted sword he hung about his shoulders, took</l>
-  <l n="36">His father's sceptre never stain'd, which then abroad he shook,</l>
-  <l n="37">And went to fleet. And now great heaven Goddess Aurora scal'd,</l>
-  <l n="38">To Jove, and all Gods, bringing light; when Agamemnon call'd</l>
-  <l n="39">His heralds, charging them aloud to call to instant court</l>
-  <l n="40">The thick-hair'd Greeks. The heralds call'd; the Greeks made quick resort.</l>
-  <l n="41">The Council chiefly he compos'd of old great-minded men,</l>
-  <l n="42">At Nestor's ships, the Pylian king. All there assembled then,</l>
-  <l n="43">Thus Atreus' son began the court: "Hear, friends: A dream divine,</l>
-  <l n="44">Amidst the calm night in my sleep, did through my shut eyes shine,</l>
-  <l n="45">Within my fantasy. His form did passing naturally</l>
-  <l n="46">Resemble Nestor; such attire, a stature just as high.</l>
-  <l n="47">He stood above my head, and words thus fashion'd did relate :</l>
-  <l n="48">Sleeps the wise Atreus' tame-horse<anchor xml:id="n2.48_ref"/> son? A counsellor of state</l>
-  <l n="49">Must not the whole night spend in sleep, to whom the people are</l>
-  <l n="50">For guard committed, and whose life stands bound to so much care.</l>
-  <l n="51">Now hear me then, Jove's messenger, who, though far off from thee,</l>
-  <l n="52">Is near thee yet in love and care, and gives command by me</l>
-  <l n="53">To arm thy whole host. Thy strong hand the broad-way'd town of Troy</l>
-  <l n="54">Shall now take in; no more the Gods dissentiously employ</l>
-  <l n="55">Their high hous'd powers; Saturnia's suit hath won them all to her;</l>
-  <l n="56">And ill fates over-hang these towers, address'd by Jupiter.</l>
-  <l n="57">Fix in thy mind this.' This express'd, he took wing and away,</l>
-  <l n="58">And sweet sleep left me. Let us then by all our means assay</l>
-  <l n="59">To arm our army; I will first (as far as fits our right)</l>
-  <l n="60">Try their addictions,<anchor xml:id="n2.60_ref"/> and command with full sail'd ships our flight;</l>
-
-  <note target="#n2.33_ref"><mentioned>Weed</mentioned>—dress. Now generally used for mourning, but formerly for any dress. Thus Spenser, — <quote>"A goodlie ladie, clad in hunter's weed."</quote> — <bibl>F. Q. 11. iii. 21.</bibl></note>
-  <note target="#n2.48_ref"><mentioned>Tame-horse</mentioned>—tamer of horses.</note>
-  <note target="#n2.60_ref"><mentioned>Addictions</mentioned>—will, inclinations.</note>
-
-  <pb n="31" facs="#113"/>
-  <fw type="header">OF HOMER'S ILIADS. 31.</fw>
-
-  <l n="61">Which if they yield to, oppose you." He sate, and up arose</l>
-  <l n="62">Nestor, of sandy Pylos king, who, willing to dispose</l>
-  <l n="63">Their counsel to the public good, propos'd this to the state:</l>
-  <l n="64">"Princes and Councillors of Greece, if any should relate</l>
-  <l n="65">This vision but the king himself, it might be held a tale,</l>
-  <l n="66">And move the rather our retreat; but since our General</l>
-  <l n="67">Affirms he saw it, hold it true, and all our best means make</l>
-  <l n="68">To arm our army." This speech us'd, he first the Council brake;</l>
-  <l n="69">The other sceptre-bearing States<anchor xml:id="n2.69_ref"/> arose too, and obey'd</l>
-  <l n="70">The people's Rector. Being abroad, the earth was overlaid</l>
-  <l n="71">With flockers to them, that came forth, as when of frequent<anchor xml:id="n2.71_ref"/> bees</l>
-  <l n="72">Swarms rise out of a hollow rock, repairing the degrees<anchor xml:id="n2.72_ref"/></l>
-  <l n="73">Of their egression endlessly, with ever rising new</l>
-  <l n="74">From forth their sweet nest; as their store, still as it faded, grew,</l>
-  <l n="75">And never would cease sending forth her clusters to the spring,</l>
-  <l n="76">They still crowd out so; this flock here, that there, belabouring</l>
-  <l n="77">The loaded flowers; so from the ships and tents the army's store</l>
-  <l n="78">Troop'd to these princes, and the court, along th' unmeasur'd<anchor xml:id="n2.78_ref"/> shore;</l>
-  <l n="79">Amongst whom, Jove's ambassadress, Fame, in her virtue shin'd,</l>
-  <l n="80">Exciting greediness to hear. The rabble, thus inclin'd,</l>
-  <l n="81">Hurried together; uproar seiz'd the high court; earth did groan</l>
-  <l n="82">Beneath the settling multitude; tumult was there alone.</l>
-  <l n="83">Thrice three vociferous heralds rose to check the rout, and get</l>
-  <l n="84">Ear to their Jove-kept governors, and instantly was set</l>
-  <l n="85">The huge confusion;<anchor xml:id="n2.85_ref"/> every man set fast, the clamour ceas'd.</l>
-  <l n="86">Then stood divine Atrides up, and in his hand compress'd</l>
-  <l n="87">His sceptre, th' elaborate work of fiery Mulciber,</l>
-  <l n="88">Who gave it to Saturnian Jove; Jove to his messenger;</l>
-
-  <note target="#n2.69_ref"><mentioned>States</mentioned>—rulers, persons of authority.</note>
-  <note target="#n2.71_ref"><mentioned>Frequent</mentioned>—numerous.</note>
-  <note target="#n2.72_ref"><mentioned>Repairing the degrees</mentioned>—filling up the ranks.</note>
-  <note target="#n2.78_ref"><mentioned>Unmeasur'd</mentioned>—immeasurable. Chapman commonly uses the past participle thus</note>
-  <note target="#n2.85_ref"><mentioned>The huge confusion</mentioned>—so the second folio; in the first it is "that huge confusion."</note>
-
-  <pb n="32" facs="#114"/>
-  <fw type="header">32 THE SECOND BOOK</fw>
-
-  <l n="89">His messenger, Argicides,<anchor xml:id="n2.89_ref"/> to Pelops, skill'd in horse;</l>
-  <l n="90">Pelops to Atreus, chief of men; he, dying, gave it course<anchor xml:id="n2.90_ref"/></l>
-  <l n="91">To prince Thyestes, rich in herds; Thyestes to the hand</l>
-  <l n="92">Of Agamemnon render'd it, and with it the command</l>
-  <l n="93">Of many isles, and Argos all. On this he leaning, said:</l>
-  <l n="94">" O friends, great sons of Danaus, servants of Mars, Jove laid</l>
-  <l n="95">A heavy curse on me; to vow, and bind it with the bent<anchor xml:id="n2.95_ref"/></l>
-  <l n="96">Of his high forehead, that, this Troy of all her people spent,</l>
-  <l n="97">I should return; yet now to mock our hopes built on his vow,</l>
-  <l n="98">And charge ingloriously my flight, when such an overthrow</l>
-  <l n="99">Of brave friends I have author'd. But to his mightiest will</l>
-  <l n="100">We must submit us, that hath raz'd and will be razing still</l>
-  <l n="101">Men's footsteps from so many towns; because his power is most,</l>
-  <l n="102">He will destroy most. But how vile such and so great an host</l>
-  <l n="103">Will show to future times, that, match'd with lesser numbers far,</l>
-  <l n="104">We fly, not putting on the crown<anchor xml:id="n2.104_ref"/> of our so long-held war,</l>
-  <l n="105">Of which there yet appears no end. Yet should our foes and we</l>
-  <l n="106">Strike truce, and number both our powers, Troy taking all that be</l>
-  <l n="107">Her arm'm'd inhabitants, and we in tens should all sit down</l>
-  <l n="108">At our truce banquet, every ten allow'd one of the town</l>
-  <l n="109">To fill his feast-cup, many tens would their attendant want;</l>
-  <l n="110">So much I must affirm our power exceeds th' inhabitant.<anchor xml:id="n2.110_ref"/></l>
-  <l n="111">But their auxiliary bands, those brandishers of spears,</l>
-  <l n="112">From many cities drawn, are they that are our hinderers,</l>
-  <l n="113">Not suffering well-rais'd Troy to fall. Nine years are ended now</l>
-  <l n="114">Since Jove our conquest vow'd; and now our vessels rotten grow,</l>
-  <l n="115">Our tackling fails; our wives, young sons, sit in their doors and long</l>
-  <l n="116">For our arrival; yet the work that should have wreak'd our wrong,</l>
-
-  <note target="#n2.89_ref"><mentioned>Argicides</mentioned>—the slayer of Argus, Mercury.</note>
-  <note target="#n2.90_ref"><mentioned>Gave it course</mentioned>—gave it in turn.</note>
-  <note target="#n2.95_ref"><mentioned>Bent</mentioned>—bend, nod. See Bk. I. 575-6.</note>
-  <note target="#n2.104_ref"><mentioned>Putting on the crown</mentioned>—concluding.</note>
-  <note target="#n2.110_ref"><mentioned>Inhabitant</mentioned>—inhabiters, viz. of Troy; the Trojans as distinguished from their allies.</note>
-
-  <pb n="33" facs="#115"/>
-  <fw type="header">OF HOMER'S ILIADS. 33</fw>
-
-  <l n="117">And made us welcome, lies unwrought. Come then, as I bid, all</l>
-  <l n="118">Obey, and fly to our lov'd home; for now, nor ever, shall</l>
-  <l n="119">Our utmost take in broad-way'd Troy." This said, the multitude</l>
-  <l n="120">Was all for home; and all men else that what this would conclude</l>
-  <l n="121">Had not discover'd. All the crowd was shov'd about the shore,</l>
-  <l n="122">In sway, like rude and raging waves, rous'd with the fervent blore<anchor xml:id="n2.122_ref"/></l>
-  <l n="123">Of th' east and south winds, when they break from Jove's clouds, and are borne</l>
-  <l n="124">On rough backs of th' Icarian seas; or like a field of corn</l>
-  <l n="125">High grown, that Zephyr's vehement gusts bring easily underneath,</l>
-  <l n="126">And make the stiff up-bristled ears do homage to his breath;</l>
-  <l n="127">For even so easily, with the breath Atrides us'd, was sway'd</l>
-  <l n="128">The violent multitude. To fleet with shouts, and disarray'd,</l>
-  <l n="129">All rush'd; and with a fog of dust their rude feet dimm'd the day;</l>
-  <l n="130">Each cried to other, ' Cleanse our ships, come, launch, aboard, away.'</l>
-  <l n="131">The clamour of the runners home reach'd heaven; and then, past fate,</l>
-  <l n="132">The Greeks had left Troy, had not then the Goddess of estate<anchor xml:id="n2.132_ref"/></l>
-  <l n="133">Thus spoke to Pallas: “O foul shame! Thou untam'd seed of Jove,</l>
-  <l n="134">Shall thus the sea's broad back be charg'd with these our friends' remove,</l>
-  <l n="135">Thus leaving Argive Helen here, thus Priam grac'd, thus Troy,</l>
-  <l n="136">In whose fields, far from their lov'd own, for Helen's sake, the joy</l>
-  <l n="137">And life of so much Grecian birth is vanish'd? Take thy way</l>
-  <l n="138">T' our brass-arm'd people, speak them fair, let not a man obey</l>
-  <l n="139">The charge now given, nor launch one ship." She said, and Pallas did</l>
-  <l n="140">As she commanded; from the tops of heaven's steep hill she slid,</l>
-  <l n="141">And straight the Greeks' swift ships she reach'd; Ulysses (like to Jove</l>
-  <l n="142">In gifts of counsel) she found out, who to that base remove</l>
-  <l n="143">Stirr'd not a foot, nor touch'd a ship, but griev'd at heart to see</l>
-  <l n="144">That fault in others. To him close the Blue-eyed Deity</l>
-  <l n="145">Made way, and said :</l>
-  <l n="146">"Thou wisest Greek, divine Laertes' son,</l>
-  <l n="147">Thus fly ye homewards to your ships? Shall all thus headlong run?</l>
-
-  <note target="#n2.122_ref"><mentioned>Fervent blore</mentioned>—raging gale, blast.</note>
-  <note target="#n2.132_ref"><mentioned>Goddess of estate</mentioned>—chief Goddess, Juno.</note>
-  <fw type="footer">VOL. I. D</fw>
-
-  <pb n="34" facs="#116"/>
-  <fw type="header">34 THE SECOND BOOK</fw>
-
-  <l n="148">Glory to Priam thus ye leave, glory to all his friends,</l>
-  <l n="149">If thus ye leave her here, for whom so many violent ends</l>
-  <l n="150">Have clos'd your Greek eyes, and so far from their so loved home.</l>
-  <l n="151">Go to these people, use no stay, with fair terms overcome</l>
-  <l n="152">Their foul endeavour, not a man a flying sail let hoice."<anchor xml:id="n2.152_ref"/></l>
-  <l n="153">Thus spake she; and Ulysses knew 'twas Pallas by her voice,</l>
-  <l n="154">Ran to the runners, cast from him his mantle, which his man</l>
-  <l n="155">And herald, grave Eurybates, the Ithacensian,</l>
-  <l n="156">That follow'd him, took up. Himself to Agamemnon went,</l>
-  <l n="157">His incorrupted sceptre took, his sceptre of descent,<anchor xml:id="n2.157_ref"/></l>
-  <l n="158">And with it went about the fleet. What prince, or man of name,</l>
-  <l n="159">He found flight-giv'n, he would restrain with words of gentlest blame:</l>
-  <l n="160">"Good sir, it fits not you to fly, or fare as one afraid,</l>
-  <l n="161">You should not only stay yourself, but see the people stayed.</l>
-  <l n="162">You know not clearly, though you heard the king's words, yet his mind;</l>
-  <l n="163">He only tries men's spirits now, and, whom his trials find</l>
-  <l n="164">Apt to this course, he will chastise. Nor you, nor I, heard all</l>
-  <l n="165">He spake in council; nor durst press too near our General,</l>
-  <l n="166">Lest we incens'd him to our hurt. The anger of a king</l>
-  <l n="167">Is mighty; he is kept of Jove, and from Jove likewise spring</l>
-  <l n="168">His honours, which, out of the love of wise Jove, he enjoys."</l>
-  <l n="169">Thus he the best sort us'd; the worst, whose spirits brake out in noise,</l>
-  <l n="170">He cudgell'd with his sceptre, chid, and said: "Stay, wretch, be still,</l>
-  <l n="171">And hear thy betters; thou art base, and both in power and skill</l>
-  <l n="172">Poor and unworthy, without name in counsel or in war.</l>
-  <l n="173">We must not all be kings. The rule is most irregular</l>
-  <l n="174">Where many rule. One lord, one king, propose to thee; and he,</l>
-  <l n="175">To whom wise Saturn's son hath given both law and empery</l>
-  <l n="176">To rule the public, is that king." Thus ruling, he restrain'd</l>
-  <l n="177">The host from flight; and then again the Council was maintain'm'd</l>
-
-  <note target="#n2.152_ref"><mentioned>Hoice</mentioned>—hoise, hoist.</note>
-  <note target="#n2.157_ref"><mentioned>Sceptre of descent</mentioned>—which had descended to him from his father, see v. 36.</note>
-
-  <pb n="35" facs="#117"/>
-  <fw type="header">OF HOMER'S ILIADS. 35</fw>
-
-  <l n="178">With such a concourse, that the shore rung with the tumult made;</l>
-  <l n="179">As when the far-resounding sea doth in its rage invade</l>
-  <l n="180">His sandy confines, whose sides groan with his involved wave,</l>
-  <l n="181">And make his own breast echo sighs. All sate, and audience gave.</l>
-  <l n="182">Thersites only would speak all. A most disorder'd store</l>
-  <l n="183">Of words he foolishly pour'd out, of which his mind held more</l>
-  <l n="184">Than it could manage; any thing, with which he could procure</l>
-  <l n="185">Laughter, he never could contain. He should have yet been sure</l>
-  <l n="186">To touch no kings; t'oppose their states becomes not jesters' parts.</l>
-  <l n="187">But he the filthiest fellow was of all that had deserts</l>
-  <l n="188">In Troy's brave siege. He was squint-ey'd, and lame of either foot;</l>
-  <l n="189">So crook-back'd, that he had no breast; sharp-headed, where did shoot</l>
-  <l n="190">(Here and there spers'd) thin mossy hair. He most of all envíed</l>
-  <l n="191">Ulysses and Æacides, whom still his spleen would chide.</l>
-  <l n="192">Nor could the sacred King himself avoid his saucy vein;</l>
-  <l n="193">Against whom since he knew the Greeks did vehement hates sustain,</l>
-  <l n="194">Being angry for Achilles' wrong, he cried out, railing thus:</l>
-  <l n="195">"Atrides, why complain'st thou now? What would'st thou more of us ?</l>
-  <l n="196">Thy tents are full of brass; and dames, the choice of all, are thine,</l>
-  <l n="197">With whom we must present thee first, when any towns resign</l>
-  <l n="198">To our invasion. Want'st thou then, besides all this, more gold</l>
-  <l n="199">From Troy's knights to redeem their sons, whom to be dearly sold</l>
-  <l n="200">I or some other Greek must take? Or would'st thou yet again</l>
-  <l n="201">Force from some other lord his prise, to soothe the lusts that reign</l>
-  <l n="202">In thy encroaching appetite? It fits no prince to be</l>
-  <l n="203">A prince of ill, and govern us, or lead our progeny</l>
-  <l n="204">By rape to ruin. O base Greeks, deserving infamy,</l>
-  <l n="205">And ills eternal! Greekish girls, not Greeks, ye are! Come, flee</l>
-  <l n="206">Home with our ships; leave this man here to perish with his preys,<anchor xml:id="n2.206_ref"/></l>
-  <l n="207">And try if we help'd him or not. He wrong'd a man that weighs</l>
-  <l n="208">Far more than he himself in worth. He forc'd from Thetis' son</l>
-  <l n="209">And keeps his prise still. Nor think I that mighty man hath won</l>
-
-  <note target="#n2.206_ref"><mentioned>Preys</mentioned>—booty. See <bibl>Judges, ch. v. ver. 30.</bibl></note>
-
-  <pb n="36" facs="#118"/>
-  <fw type="header">36 THE SECOND BOOK</fw>
-
-  <l n="210">The style of wrathful worthily; he's soft, he's too remiss;</l>
-  <l n="211">Or else, Atrides, his had been thy last of injuries."</l>
-  <l n="212">Thus he the people's Pastor chid; but straight stood up to him</l>
-  <l n="213">Divine Ulysses, who, with looks exceeding grave and grim,</l>
-  <l n="214">This bitter check gave: "Cease, vain fool, to vent thy railing vein</l>
-  <l n="215">On kings thus, though it serve thee well; nor think thou canst restrain,</l>
-  <l n="216">With that thy railing faculty, their wills in least degree;</l>
-  <l n="217">For not a worse, of all this host, came with our King than thee,</l>
-  <l n="218">To Troy's great siege; then do not take into that mouth of thine</l>
-  <l n="219">The names of kings, much less revile the dignities that shine</l>
-  <l n="220">In their supreme states, wresting thus this motion for our home,</l>
-  <l n="221">To soothe thy cowardice; since ourselves yet know not what will come</l>
-  <l n="222">Of these designments, if it be our good to stay, or go.</l>
-  <l n="223">Nor is it that thou stand'st on; thou revil'st our General so,</l>
-  <l n="224">Only because he hath so much, not given by such as thou</l>
-  <l n="225">But our heroës. Therefore this thy rude vein makes me vow</l>
-  <l n="226">(Which shall be curiously<anchor xml:id="n2.226_ref"/> observ'd) if ever I shall hear</l>
-  <l n="227">This madness from thy mouth again, let not Ulysses bear</l>
-  <l n="228">This head, nor be the father call'd of young Telemachus,</l>
-  <l n="229">If to thy nakedness I take and strip thee not, and thus</l>
-  <l n="230">Whip thee to fleet from council; send, with sharp stripes, weeping hence</l>
-  <l n="231">This glory thou affect'st to rail."<anchor xml:id="n2.231_ref"/> This said, his insolence</l>
-  <l n="232">He settled with his sceptre; struck his back and shoulders so</l>
-  <l n="233">That bloody wales rose. He shrunk round; and from his eyes did flow</l>
-  <l n="234">Moist tears, and, looking filthily, he sate, fear'd, smarted, dried</l>
-  <l n="235">His blubber'd cheeks; and all the prease,<anchor xml:id="n2.235_ref"/> though griev'd to be denied.</l>
-  <l n="236">Their wish'd retreat for home, yet laugh'd delightsomely, and spake</l>
-  <l n="237">Either to other: "O ye Gods, how infinitely take</l>
-
-  <note target="#n2.226_ref"><mentioned>Curiously</mentioned>—scrupulously, carefully.</note>
-  <note target="#n2.231_ref"><mentioned>This glory thou affect'st to rail</mentioned> — the sense (somewhat complicated) seems: <quote>"This glory to rail thou affectest,"</quote> this glorious railing power you pride yourself upon.</note>
-  <note target="#n2.235_ref"><mentioned>Prease</mentioned>—press, crowd.</note>
-
-  <pb n="37" facs="#119"/>
-  <fw type="header">OF HOMER'S ILIADS. 37</fw>
-
-  <l n="238">Ulysses' virtues in our good! Author of counsels, great</l>
-  <l n="239">In ordering armies, how most well this act became his heat,</l>
-  <l n="240">To beat from council this rude fool. I think his saucy spirit,</l>
-  <l n="241">Hereafter, will not let his tongue abuse the sovereign merit,</l>
-  <l n="242">Exempt from such base tongues as his." Thus spake the people; then</l>
-  <l n="243">The city-razer Ithacus stood up to speak again,</l>
-  <l n="244">Holding his sceptre. Close to him gray-eyed Minerva stood,</l>
-  <l n="245">And, like a herald, silence caus'd, that all the Achive brood</l>
-  <l n="246">(From first to last) might hear and know the counsel; when, inclin'd</l>
-  <l n="247">To all their good, Ulysses said: "Atrides, now I find</l>
-  <l n="248">These men would render thee the shame of all men; nor would pay</l>
-  <l n="249">Their own vows to thee, when they took their free and honour'd way</l>
-  <l n="250">From Argos hither, that, till Troy were by their brave hands rac'd,<anchor xml:id="n2.250_ref"/> </l>
-  <l n="251">They would not turn home. Yet, like babes, and widows, now they haste</l>
-  <l n="252">To that base refuge. 'Tis a spite to see men melted so</l>
-  <l n="253">In womanish changes; though 'tis true, that if a man do go</l>
-  <l n="254">Only a month to sea, and leave his wife far off, and he,</l>
-  <l n="255">Tortur'd with winter's storms, and toss'd with a tumultuous sea,</l>
-  <l n="256">Grows heavy, and would home. Us then, to whom the thrice three year</l>
-  <l n="257">Hath fill'd his revoluble orb since our arrival here,</l>
-  <l n="258">I blame not to wish home much more; yet all this time to stay,</l>
-  <l n="259">Out of our judgments,<anchor xml:id="n2.259_ref"/> for our end, and now to take our way</l>
-  <l n="260">Without it, were absurd and vile. Sustain then, friends; abide</l>
-  <l n="261">The time set to our object; try if Calchas prophesied</l>
-  <l n="262">True of the time or not. We know, ye all can witness well,</l>
-  <l n="263">(Whom these late death-conferring fates have fail'd to send to hell)</l>
-  <l n="264">That when in Aulis, all our fleet assembled with a freight</l>
-  <l n="265">Of ills to Ilion and her friends, beneath the fair grown height</l>
-  <l n="266">A platane bore, about a fount, whence crystal water flow'd,</l>
-  <l n="267">And near our holy altar, we upon the Gods bestowed</l>
-
-  <note target="#n2.250_ref"><mentioned>Rac'd</mentioned>—razed.</note>
-  <note target="#n2.259_ref"><mentioned>Out of our judgments</mentioned>—against our inclinations.</note>
-
-  <pb n="38" facs="#120"/>
-  <fw type="header">38 THE SECOND BOOK</fw>
-
-  <l n="268">Accomplish'd hecatombs; and there appear'd a huge portent,</l>
-  <l n="269">A dragon with a bloody scale, horrid to sight, and sent</l>
-  <l n="270">To light by great Olympius; which, crawling from beneath</l>
-  <l n="271">The altar, to the platane climb'd, and ruthless crash'd to death</l>
-  <l n="272">A sparrow's young, in number eight, that in a top-bough lay</l>
-  <l n="273">Hid under leaves, the dam the ninth, that hover'd every way,</l>
-  <l n="274">Mourning her lov'd birth, till at length, the serpent, watching her,</l>
-  <l n="275">Her wing caught, and devour'd her too. This dragon Jupiter,</l>
-  <l n="276">That brought him forth, turn'd to a stone, and made a powerful mean</l>
-  <l n="277">To stir our zeals up that admir'd, when of a fact so clean</l>
-  <l n="278">Of all ills as our sacrifice, so fearful an ostent</l>
-  <l n="279">Should be the issue. Calchas, then, thus prophesied th' event:</l>
-  <l n="280">• Why are ye dumb-struck, fair-hair'd Greeks? Wise Jove is he hath shown</l>
-  <l n="281">This strange ostent to us. 'Twas late, and passing lately done,</l>
-  <l n="282">But that grace it foregoes to us,<anchor xml:id="n2.282_ref"/> for suffering all the state</l>
-  <l n="283">Of his appearance (being so slow) nor time shall end, nor fate.</l>
-  <l n="284">As these eight sparrows, and the dam (that made the ninth) were eat</l>
-  <l n="285">By this stern serpent; so nine years we are t' endure the heat</l>
-  <l n="286">Of ravenous war, and, in the tenth, take in this broad-way'd town.'</l>
-  <l n="287">Thus he interpreted this sign; and all things have their crown</l>
-  <l n="288">As he interpreted, till now. The rest, then, to succeed</l>
-  <l n="289">Believe as certain. Stay we all, till, that most glorious deed</l>
-  <l n="290">Of taking this rich town, our hands are honour'd with." This said,</l>
-  <l n="291">The Greeks gave an unmeasur'd shout; which back the ships repaid</l>
-  <l n="292">With terrible echoes, in applause of that persuasion</l>
-  <l n="293">Divine Ulysses us'd; which yet had no comparison</l>
-  <l n="294">With Nestor's next speech, which was this: "O shameful thing! Ye talk</l>
-  <l n="295">Like children all, that know not war. In what air's region walk</l>
-  <l n="296">Our oaths, and covenants? Now, I see the fit respects of men</l>
-  <l n="297">Are vanish'd quite; our right hands given, our faiths, our counsels, vain ;</l>
-
-  <note target="#n2.282_ref"><mentioned>That grace it foregoes to us</mentioned>—the favour it foretells to us.</note>
-
-  <pb n="39" facs="#121"/>
-  <fw type="header">OF HOMER'S ILIADS. 39</fw>
-
-  <l n="298">Our sacrifice with wine all fled in that profaned flame</l>
-  <l n="299">We made to bind all; for thus still we vain persuasions frame,</l>
-  <l n="300">And strive to work our end with words, not joining stratagemes</l>
-  <l n="301">And hands together, though, thus long, the power of our extremes<anchor xml:id="n2.301_ref"/> </l>
-  <l n="302">Hath urg'd us to them. Atreus' son! Firm as at first hour stand;</l>
-  <l n="303">Make good thy purpose; talk no more in councils, but command</l>
-  <l n="304">In active field. Let two or three, that by themselves advise,</l>
-  <l n="305">Faint in their crowning;<anchor xml:id="n2.305_ref"/> they are such as are not truly wise;</l>
-  <l n="306">They will for Argos, ere they know if that which Jove hath said</l>
-  <l n="307">Be false or true. I tell them all, that high Jove bow'd his head,</l>
-  <l n="308">As first we went aboard our fleet, for sign we should confer<anchor xml:id="n2.308_ref"/></l>
-  <l n="309">These Trojans their due fate and death; almighty Jupiter</l>
-  <l n="310">All that day darting forth his flames, in an unmeasur'd light,</l>
-  <l n="311">On our right hands. Let therefore none once dream of coward flight,</l>
-  <l n="312">Till (for his own) some wife of Troy he sleeps withal, the rape</l>
-  <l n="313">Of Helen wreaking, and our sighs enforc'd for her escape.<anchor xml:id="n2.313_ref"/></l>
-  <l n="314">If any yet dare dote on home, let his dishonour'd haste</l>
-  <l n="315">His black and well-built bark but touch, that (as he first disgrac'd</l>
-  <l n="316">His country's spirit) fate, and death, may first his spirit let go.</l>
-  <l n="317">But be thou wise, king, do not trust thyself, but others. Know</l>
-  <l n="318">I will not use an abject word. See all thy men array'd</l>
-  <l n="319">In tribes and nations, that tribes tribes, nations may nations, aid.</l>
-  <l n="320">Which doing, thou shalt know what chiefs, what soldiers, play the men,</l>
-  <l n="321">And what the cowards; for they all will fight in several<anchor xml:id="n2.321_ref"/> then,</l>
-  <l n="322">Easy for note. And then shalt thou, if thou destroy'st not Troy,</l>
-  <l n="323">Know if the prophecy's defect, or men thou dost employ</l>
-
-  <note target="#n2.301_ref"><mentioned>Extremes</mentioned>—necessities.</note>
-  <note target="#n2.305_ref"><mentioned>Crowning</mentioned>—fulfilment of purpose.</note>
-  <note target="#n2.308_ref"><mentioned>Confer these Trojans</mentioned>—confer on.</note>
-  <note target="#n2.313_ref"><mentioned>Escape</mentioned>—frequently used for transgression of female virtue, thus <bibl>Shakespeare,— "Rome will despise her for this foul escape." — Titus And. IV. 2.</bibl></note>
-  <note target="#n2.321_ref"><mentioned>In several</mentioned>—severally, separately.</note>
-
-  <pb n="40" facs="#122"/>
-      <fw type="header">40 THE SECOND BOOK</fw>
-      
-      <l n="323">In their approv'd arts want in war, or lack of that brave heat</l>
-      <l n="324">Fit for the vent'rous spirits of Greece, was cause to thy defeat."</l>
-      <l n="325">To this the king of men replied: " O father, all the sons</l>
-      <l n="326">Of Greece thou <choice><orig>conquer'st</orig><reg>conquerest</reg></choice> in the strife of consultations.</l>
-      <l n="327">I would to Jove, Athenia, and Phœbus, I could make,</l>
-      <l n="328">Of all, but ten such counsellors; then instantly would shake</l>
-      <l n="329">King Priam's city, by our hands laid hold on and laid waste.</l>
-      <l n="330">But Jove hath order'd I should grieve, and to that end hath cast</l>
-      <l n="331">My life into debates past end. Myself, and Thetis' son,</l>
-      <l n="332">Like girls, in words fought for a girl, and I th' offence begun.</l>
-      <l n="333">But if we ever talk as friends, Troy's thus deferred fall</l>
-      <l n="334">Shall never vex us more one hour. Come then, to victuals all,</l>
-      <l n="335">That strong Mars all may bring to field. Each man his lance's steel</l>
-      <l n="336">See sharpen'd well, his shield well lin'd, his horses meated well,</l>
-      <l n="337">His chariot carefully made strong, that these affairs of death</l>
-      <l n="338">We all day may hold fiercely out. No man must rest, or breath;</l>
-      <l n="339">The bosoms of our targeteers must all be steep'd in sweat;</l>
-      <l n="340">The lancer's arm must fall dissolv'd; our chariot-horse with heat</l>
-      <l n="341">Must seem to melt. But if I find one soldier take the chace,<anchor xml:id="n2.341_ref"/></l>
-      <l n="342">Or stir from fight, or fight not still fix'd in his enemy's face,</l>
-      <l n="343">Or hid a-shipboard, all the world, for force, nor price, shall save</l>
-      <l n="344">His hated life, but fowls and dogs be his abhorred grave."</l>
-      <l n="345">He said; and such a murmur rose as on a lofty shore</l>
-      <l n="346">The waves make when the south wind comes, and tumbles them before</l>
-      <l n="347">Against a rock, grown near the strand, which diversly beset</l>
-      <l n="348">Is never free, but, here and there, with varied uproars beat.</l>
-      <l n="349">All rose then, rushing to the fleet, perfum'd their tents, and eat;</l>
-      <l n="350">Each off'ring to th' immortal gods, and praying to 'scape th' heat</l>
-      <l n="351">Of war and death. The king of men an ox of five years' spring</l>
-      <l n="352">T' almighty Jove slew, call'd the peers; first Nestor; then the king</l>
-      <l n="353">Idomenæus; after them th' Ajaces; and the son</l>
-      <l n="354">Of Tydeus; Ithacus the sixth, in counsel paragon</l>
-
-      <note target="#n2.341_ref"><mentioned>Take the chace</mentioned>—take to flight.</note>
-
-      <pb n="41" facs="#123"/>
-      <fw type="header">OF HOMER'S ILIADS. 41</fw>
-      
-      <l n="355">To Jove himself. All these he bade; but at-a-martial-cry<anchor xml:id="n2.355_ref"/></l>
-      <l n="356">Good Menelaus, since he saw his brother busily</l>
-      <l n="357">Employ'd at that time, would not stand on invitation,</l>
-      <l n="358">But of himself came. All about the off'ring overthrown</l>
-      <l n="359">Stood round, took salt-cakes, and the king himself thus pray'd for all :</l>
-      <l n="360">"O Jove, most great, most glorious, that, in that starry hall,</l>
-      <l n="361">Sitt'st drawing dark clouds up to air, let not the sun go down,</l>
-      <l n="362">Darkness supplying it, till my hands the palace and the town</l>
-      <l n="363">Of Priam overthrow and burn, the arms on Hector's breast</l>
-      <l n="364">Dividing, spoiling with my sword thousands, in interest<anchor xml:id="n2.364_ref"/></l>
-      <l n="365">Of his bad quarrel, laid by him in dust, and eating earth."</l>
-      <l n="366">He pray'd; Jove heard him not, but made more plentiful the birth</l>
-      <l n="367">Of his sad toils, yet took his gifts. Prayers past, cakes on they threw;</l>
-      <l n="368">The ox then, to the altar drawn, they kill'd, and from him drew</l>
-      <l n="369">His hide, then cut him up, his thighs, in two hewn, dubb's with fat</l>
-      <l n="370">Prick'd on the sweetbreads, and with wood, leaveless, and kindled at</l>
-      <l n="371">Apposed fire, they burn the thighs; which done, the inwards, slit,</l>
-      <l n="372">They broil'd on coals and eat; the rest, in giggots cut, they spit,</l>
-      <l n="373">Roast cunningly, draw, sit, and feast. Nought lack'd to leave allay'd</l>
-      <l n="374">Each temperate appetite; which serv'd, Nestor began and said:</l>
-      <l n="375">"Atrides, most grac'd king of men, now no more words allow,</l>
-      <l n="376">Nor more defer the deed Jove vows. Let heralds summon now</l>
-      <l n="377">The brazen-coated Greeks, and us range everywhere the host,</l>
-      <l n="378">To stir a strong war quickly up." This speech no syllable lost;<anchor xml:id="n2.378_ref"/></l>
-      <l n="379">The high voic'd heralds instantly he charg'd to call to arms</l>
-      <l n="380">The curl'd-head Greeks; they call'd; the Greeks straight answer'd their alarms.</l>
-      <l n="381">The Jove-kept kings about the king all gather'd, with their aid</l>
-      <l n="382">Rang'd all in tribes and nations. With them the Gray-eyed Maid<anchor xml:id="n2.382_ref"/></l>
-
-      <note target="#n2.355_ref"><mentioned>At-a-martial-cry good-Menelaus</mentioned>—good at a shout; <title xml:lang="grc">Βοὴν ἀγαθὸς</title> is the epithet of Menelaus.</note>
-      <note target="#n2.364_ref"><mentioned>In interest of</mentioned>—on account of, &amp;c.</note>
-      <note target="#n2.378_ref"><mentioned>This speech no syllable lost</mentioned>—i. e. Agamemnon attended to every syllable of the speech.</note>
-      <note target="#n2.382_ref"><mentioned>Gray-eyed Maid</mentioned>—Minerva.</note>
-
-      <pb n="42" facs="#124"/>
-      <fw type="header">42 THE SECOND BOOK</fw>
-      
-      <l n="383">Great Ægis (Jove's bright shield) sustain'd, that can be never old,</l>
-      <l n="384">Never corrupted, fring'd about with serpents forg'd of gold,</l>
-      <l n="385">As many as sufficed to make an hundred fringes, worth</l>
-      <l n="386">An hundred oxen, every snake all sprawling, all set forth</l>
-      <l n="387">With wondrous spirit. Through the host with this the Goddess ran,</l>
-      <l n="388">In fury casting round her eyes, and furnish'd every man</l>
-      <l n="389">With strength, exciting all to arms, and fight incessant. None</l>
-      <l n="390">Now liked their lov'd homes like the wars; and as a fire upon</l>
-      <l n="391">A huge wood, on the heights of hills, that far off hurls his light,</l>
-      <l n="392">So the divine brass shin'd on these, thus thrusting on for fight.</l>
-      <l n="393">Their splendour through the air reach'd heaven; and as about the flood</l>
-      <l n="394">Caïster, in an Asian mead, flocks of the airy brood,</l>
-      <l n="395">Cranes, geese, or long-neck'd swans, here, there, proud of their pinions fly,</l>
-      <l n="396">And in their falls lay out such throats, that with their spiritful cry<anchor xml:id="n2.396_ref"/></l>
-      <l n="397">The meadow shrieks again; so here, these many-nation'd men</l>
-      <l n="398">Flow'd over the Scamandrian field, from tents and ships; the din</l>
-      <l n="399">Was dreadful that the feet of men and horse beat out of earth;</l>
-      <l n="400">And in the flourishing mead they stood, thick as the odorous birth</l>
-      <l n="401">Of flowers, or leaves bred in the spring; or thick as swarms of flies</l>
-      <l n="402">Throng then to sheep-cotes, when each swarm his erring wing applies</l>
-      <l n="403">To milk dew'd on the milk-maid's pails; all eagerly dispos'd</l>
-      <l n="404">To give to ruin th' Ilians. And as in rude heaps clos'd,</l>
-      <l n="405">Though huge goatherds are at their food, the goatherds easily yet</l>
-      <l n="406">Sort into sundry herds; so here the chiefs in battle set</l>
-      <l n="407">Here tribes, here nations, ordering all. Amongst whom shin'd the king</l>
-      <l n="408">With eyes like lightning-loving Jove, his forehead answering,</l>
-      <l n="409">In breast like Neptune, Mars in waist; and as a goodly bull</l>
-      <l n="410">Most eminent of all a herd, most strong, most masterful,</l>
-      <l n="411">So Agamemnon Jove that day made overheighten clear</l>
-      <l n="412">That heaven-bright army, and preferr'd to all th' heroës there.</l>
-      <l n="413">Now tell me, Muses, you that dwell in heavenly roofs, (for you</l>
-      <l n="414">Are Goddesses, are present here, are wise, and all things know,</l>
-
-      <note target="#n2.396_ref"><mentioned>In their falls</mentioned>—when they alight.</note>
-
-      <pb n="43" facs="#125"/>
-      <fw type="header">OF HOMER'S ILIADS. 43</fw>
-      
-      <l n="415">We only trust the voice of fame, know nothing,) who they were</l>
-      <l n="416">That here were captains of the Greeks, commanding princes here.</l>
-      <l n="417">The multitude exceed my song; though fitted to my choice</l>
-      <l n="418">Ten tongues were, harden'd palates ten, a breast of brass, a voice</l>
-      <l n="419">Infract and trump-like; that great work, unless the seed of Jove</l>
-      <l n="420">(The deathless Muses) undertake, maintains a pitch above</l>
-      <l n="421">All mortal powers. The princes then, and navy that did bring</l>
-      <l n="422">These so inenarrable troops, and all their soils, I sing.</l>
-      
-      <note rend="center">THE CATALOGUE OF THE GRECIAN SHIPS AND CAPTAINS.</note>
-      
-      <l n="423">Peneleus, and Leitus, all that Bœotia bred,</l>
-      <l n="424">Arcesilaus, Clonius, and Prothoenor, led;</l>
-      <l n="425">Th' inhabitants of Hyria, and stony Aulida,</l>
-      <l n="426">Schæne, Scole, the hilly Eteon, and holy Thespia,</l>
-      <l n="427">Of Græa, and great Mycalesse, that hath the ample plain,</l>
-      <l n="428">Of Harma, and Ilesius, and all that did remain</l>
-      <l n="429">In Eryth, and in Eleon, in Hylen, Peteona,</l>
-      <l n="430">In fair Ocalea, and, the town well-builded, Medeona,</l>
-      <l n="431">Copas, Eutresis, Thisbe, that for pigeons doth surpass,</l>
-      <l n="432">Of Coroneia, Haliart, that hath such store of grass,</l>
-      <l n="433">All those that in Platea dwelt, that Glissa did possess,</l>
-      <l n="434">And Hypothebs, whose well-built walls are rare and fellowless,</l>
-      <l n="435">In rich Onchestus' famous wood, to watery Neptune vow'd,</l>
-      <l n="436">And Arne, where the vine-trees are with vigorous bunches bow'd,</l>
-      <l n="437">With them that dwelt in Midea, and Nissa most divine,</l>
-      <l n="438">All those whom utmost Anthedon did wealthily confine.</l>
-      <l n="439">From all these coasts, in general, full fifty sail were sent;</l>
-      <l n="440">And six score strong Bœotian youths in every burthen went.</l>
-      <l n="441">But those who in Aspledon dwelt, and Minian Orchomen,</l>
-      <l n="442">God Mars's sons did lead (Ascalaphus and Ialmen)</l>
-      <l n="443">Who in Azidon Actor's house did of Astyoche come;</l>
-      <l n="444">The bashful maid, as she went up into the higher room,</l>
-
-      <pb n="44" facs="#126"/>
-      <fw type="header">44 THE SECOND BOOK</fw>
-      
-      <l n="445">The War-god secretly compress'd. In safe conduct of these,</l>
-      <l n="446">Did thirty hollow-bottom'd barks divide the wavy seas.</l>
-      <l n="447">Brave Schedius and Epistrophus, the Phocian captains were,</l>
-      <l n="448">(Naubolida-Iphitus' sons) all proof 'gainst any fear;</l>
-      <l n="449">With them the Cyparissians went, and bold Pythonians,</l>
-      <l n="450">Men of religious Chrysa's soil, and fat Daulidians,</l>
-      <l n="451">Panopæans, Anemores, and fierce Hyampolists ;</l>
-      <l n="452">And those that dwell where Cephisus casts up his silken mists;</l>
-      <l n="453">The men that fair Lilæa held, near the Cephisian spring;</l>
-      <l n="454">All which did forty sable barks to that designment bring.</l>
-      <l n="455">About th' entoil'd Phocensian fleet had these their sail assign'd;</l>
-      <l n="456">And near to the sinister wing the arm'm'd Bœotians shin'd.</l>
-      <l n="457">Ajax the less, Oileus' son, the Locrians led to war;</l>
-      <l n="458">Not like to Ajax Telamon, but lesser man by far,</l>
-      <l n="459">Little he was, and ever wore a breastplate made of linne,<anchor xml:id="n2.459_ref"/></l>
-      <l n="460">But for the manage of his lance he general praise did win.</l>
-      <l n="461">The dwellers of Caliarus, of Bessa, Opoën,</l>
-      <l n="462">The youths of Cynus, Scarphis, and Augias, lovely men,</l>
-      <l n="463">Of Tarphis, and of Thronius, near flood Boagrius' fall;</l>
-      <l n="464">Twice twenty martial barks of these, less Ajax sail'd withal.</l>
-      <l n="465">Who near Eubœa's blessed soil their habitations had,</l>
-      <l n="466">Strength-breathing Abants, who their seats in sweet Eubœa made,</l>
-      <l n="467">The Histiæans rich in grapes, the men of Chalcida,</l>
-      <l n="468">The Cerinths bordering on the sea, of rich Eretria,</l>
-      <l n="469">Of Dion's highly-seated town, Charistus, and of Styre,</l>
-      <l n="470">All these the duke Alphenor led, a flame of Mars's fire,<anchor xml:id="n2.470_ref"/></l>
-      <l n="471">Surnam'd Chalcodontiades, the mighty Abants' guide,</l>
-      <l n="472">Swift men of foot, whose broad-set backs their trailing hair did hide,</l>
-      <l n="473">Well seen in fight, and soon could pierce with far extended darts</l>
-      <l n="474">The breastplates of their enemies, and reach their dearest hearts.</l>
-
-      <note target="#n2.459_ref"><mentioned>Breastplate made of linne</mentioned>—made of flax ; <title xml:lang="grc">λινοθώρηξ</title>.</note>
-      <note target="#n2.470_ref"><mentioned>Duke</mentioned>—leader. The translators of the Bible retained this word in mentioning Esau's descendants, Gen. xxxvi.</note>
-
-      <pb n="45" facs="#127"/>
-      <fw type="header">OF HOMER'S ILIADS. 45</fw>
-      
-      <l n="475">Forty black men of war did sail in this Alphenor's charge.</l>
-      <l n="476">The soldiers that in Athens dwelt, a city builded large,</l>
-      <l n="477">The people of Eristhius, whom Jove-sprung Pallas fed,<anchor xml:id="n2.477_ref"/></l>
-      <l n="478">And plenteous-feeding Tellus brought out of her flow'ry bed;</l>
-      <l n="479">Him Pallas placed in her rich fane, and, every ended year,</l>
-      <l n="480">Of bulls and lambs th' Athenian youths please him with off'rings there;</l>
-      <l n="481">Mighty Menestheus, Peteus' son, had their divided care;</l>
-      <l n="482">For horsemen and for targeteers none could with him compare,</l>
-      <l n="483">Nor put them into better place, to hurt or to defend;</l>
-      <l n="484">But Nestor (for he elder was) with him did sole contend;</l>
-      <l n="485">With him came fifty sable sail. And out of Salamine</l>
-      <l n="486">Great Ajax brought twelve sail, that with th' Athenians did combine.</l>
-      <l n="487">Who did in fruitful Argos dwell, or strong Tiryntha keep,</l>
-      <l n="488">Hermion, or in Asinen whose bosom is so deep,</l>
-      <l n="489">Træzena, Eïon, Epidaure where Bacchus crowns his head,</l>
-      <l n="490">Ægina, and Maseta's soil, did follow Diomed,</l>
-      <l n="491">And Sthenelus, the dear lov'd son of famous Capaneus,</l>
-      <l n="492">Together with Euryalus, heir of Mecisteus,</l>
-      <l n="493">The king of Talæonides; past whom in deeds of war,</l>
-      <l n="494">The famous soldier Diomed of all was held by far.</l>
-      <l n="495">Four score black ships did follow these. The men fair Mycene held,</l>
-      <l n="496">The wealthy Corinth, Cleon that for beauteous site excell'd,<anchor xml:id="n2.496_ref"/></l>
-      <l n="497">Aræthyrea's lovely seat, and in Ornia's plain,</l>
-      <l n="498">And Sicyona, where at first did king Adrastus reign,</l>
-      <l n="499">High-seated Gonoëssa's towers, and Hyperisius,</l>
-      <l n="500">That dwelt in fruitful Pellenen, and in divine Ægius,</l>
-      <l n="501">With all the sea-side borderers, and wide Helice's friends,</l>
-      <l n="502">To Agamemnon every town her native birth commends,</l>
-      <l n="503">In double-fifty sable barks. With him a world of men</l>
-      <l n="504">Most strong and full of valour went, and he in triumph then</l>
-
-      <note target="#n2.477_ref"><mentioned>Eristhius</mentioned>—Erectheus in the original.</note>
-      <note target="#n2.496_ref">Dr. Taylor has printed "sight," whereas if he had consulted the original he would have seen that Chapman meant "site". (<title xml:lang="grc">Εΰ κτιμένας τε κλεωνάς</title>.)</note>
-
-      <pb n="46" facs="#128"/>
-      <fw type="header">46 THE SECOND BOOK</fw>
-      
-      <l n="505">Put on his most resplendent arms, since he did overshine</l>
-      <l n="506">The whole heroic host of Greece, in power of that design.</l>
-      <l n="507">Who did in Lacedæmon's rule th' unmeasur'd concave hold,</l>
-      <l n="508">High Pharis, Sparta, Messe's towers for doves so much extoll'd,</l>
-      <l n="509">Bryseia's and Augia's grounds, strong Laa, Oetylon,</l>
-      <l n="510">Amyclas, Helos' harbour-town that Neptune beats upon,</l>
-      <l n="511">All these did Menelaus lead (his brother, that in cries<anchor xml:id="n2.511_ref"/></l>
-      <l n="512">Of war was famous). Sixty ships convey'd these enemies</l>
-      <l n="513">To Troy in chief, because their king was chiefly injur'd there,</l>
-      <l n="514">In Helen's rape, and did his best to make them buy it dear.</l>
-      <l n="515">Who dwelt in Pylos' sandy soil, and Arene the fair,</l>
-      <l n="516">In Thryon, near Alphæus' flood, and Aepy full of air,</l>
-      <l n="517">In Cyparisseus, Amphigen, and little Pteleon,</l>
-      <l n="518">The town where all the Iliots dwelt, and famous Doreon,</l>
-      <l n="519">Where all the Muses, opposite, in strife of poesy,</l>
-      <l n="520">To ancient Thamyris of Thrace, did use him cruelly,</l>
-      <l n="521">(He coming from Eurytus' court, the wise Echalian king,)</l>
-      <l n="522">Because he proudly durst affirm he could more sweetly sing</l>
-      <l n="523">Than that Pierian race of Jove; who, angry with his vaunt,</l>
-      <l n="524">Bereft his eyesight, and his song, that did the ear enchant,</l>
-      <l n="525">And of his skill to touch his harp disfurnished his hand.</l>
-      <l n="526">All these in ninety hollow keels grave Nestor did command.</l>
-      <l n="527">The richly-blest inhabitants of the Arcadian land</l>
-      <l n="528">Below Cyllene's mount (that by Epytus' tomb did stand)</l>
-      <l n="529">Where dwelt the bold near-fighting men, who did in Phæneus live,</l>
-      <l n="530">And Orchomen, where flocks of sheep the shepherds clust'ring drive,</l>
-      <l n="531">In Ripé, and in Stratié, the fair Mantinean town,</l>
-      <l n="532">And strong Enispe, that for height is ever weather-blown,</l>
-      <l n="533">Tegea, and in Stymphalus, Parrhasia strongly wall'd,</l>
-      <l n="534">All these Alcæus' son to field (king Agapenor) call'd;</l>
-      <l n="535">In sixty barks he brought them on, and every bark well mann'd</l>
-      <l n="536">With fierce Arcadians, skill'd to use the utmost of a band.</l>
-
-      <note target="#n2.511_ref"><mentioned>His brother</mentioned>—Agamemnon's.</note>
-
-      <pb n="47" facs="#129"/>
-      <fw type="header">OF HOMER'S ILIADS. 47</fw>
-      
-      <l n="537">King Agamemnon, on these men, did well-built ships bestow</l>
-      <l n="538">To pass the gulfy purple sea, that did no sea rites know.<anchor xml:id="n2.538_ref"/></l>
-      <l n="539">They who in Hermin, Buphrasis, and Elis, did remain,</l>
-      <l n="540">What Olen's cliffs, Alisius, and Myrsin did contain,</l>
-      <l n="541">Were led to war by twice two dukes (and each ten ships did bring,</l>
-      <l n="542">Which many venturous Epians did serve for burthening,)</l>
-      <l n="543">Beneath Amphimachus's charge, and valiant Thalpius,</l>
-      <l n="544">(Son of Eurytus-Actor one, the other, Cteatus,)<anchor xml:id="n2.544_ref"/></l>
-      <l n="545">Diores Amaryncides the other did employ,</l>
-      <l n="546">The fourth divine Polixenus (Agasthenes's joy).</l>
-      <l n="547">The king of fair Angeiades, who from Dulichius came,</l>
-      <l n="548">And from Echinaus' sweet isles, which hold their holy frame</l>
-      <l n="549">By ample Elis region, Meges Phylides led ;</l>
-      <l n="550">Whom duke Phyleus, Jove's belov'd, begat, and whilome fled</l>
-      <l n="551">To large Dulichius, for the wrath that fir'd his father's breast.</l>
-      <l n="552">Twice twenty ships with ebon sails were in his charge address'd.</l>
-      <l n="553">The warlike men of Cephale, and those of Ithaca,</l>
-      <l n="554">Woody Neritus, and the men of wet Crocylia,</l>
-      <l n="555">Sharp Ægilipa, Samos' isle, Zacynthus, sea inclos'd,</l>
-      <l n="556">Epirus, and the men that hold the continent oppos'd,</l>
-      <l n="557">All these did wise Ulysses lead, in counsel peer to Jove;</l>
-      <l n="558">Twelve ships he brought, which in their course vermilion sterns did move.</l>
-      <l n="559">Thoas, Andremon's well-spoke son, did guide th' Ætolians well,</l>
-      <l n="560">Those that in Pleuron, Olenon, and strong Pylene dwell,</l>
-      <l n="561">Great Chalcis that by sea-side stands, and stony Calydon;</l>
-      <l n="562">(For now no more of Eneus' sons surviv'd; they all were gone;</l>
-
-      <note target="#n2.538_ref">Agamemnon furnished ships for the Arcadians, as they were an inland people, and "did no sea rites know."</note>
-      <note target="#n2.544_ref">Dr. Taylor has printed this and the following line, thus :— <quote>(Son of Eurytus-Actor one, the next of Cteatus) / Diores Amaryncides the third ships did employ.</quote> This is not authorized by either of the folios. The first has— <quote>Son of Eurytus-Actor one; the other Cteatus) / Diores Amarincides the other did employ.</quote> The second folio in line 544, with its usual typographical inaccuracy, omits "the other." I have thought it best to retain the reading of the first.</note>
-
-      <pb n="48" facs="#130"/>
-      <fw type="header">48 THE SECOND BOOK</fw>
-      
-      <l n="563">No more his royal self did live, no more his noble son</l>
-      <l n="564">The golden Meleager now, their glasses all were run)</l>
-      <l n="565">All things were left to him in charge, the Ætolians' chief he was,</l>
-      <l n="566">And forty ships to Trojan wars the seas with him did pass.</l>
-      <l n="567">The royal soldier Idomen did lead the Cretans stout,</l>
-      <l n="568">The men of Gnossus, and the town Gortyna wall'd about,</l>
-      <l n="569">Of Lictus, and Miletus' towers, of white Lycastus' state,</l>
-      <l n="570">Of Phæstus, and of Rhytias, the cities fortunate,</l>
-      <l n="571">And all the rest inhabiting the hundred towns of Crete;</l>
-      <l n="572">Whom warlike Idomen did lead, co-partner in the fleet,</l>
-      <l n="573">With kill-man Merion. Eighty ships with them did Troy invade.</l>
-      <l n="574">Tlepolemus Heraclides, right strong and bigly made,</l>
-      <l n="575">Brought nine tall ships of war from Rhodes, which haughty Rhodians mann'd,</l>
-      <l n="576">Who dwelt in three dissever'd parts of that most pleasant land,</l>
-      <l n="577">Which Lyndus, and Jalissus, were, and bright Camirus, call'd.</l>
-      <l n="578">Tlepolemus commanded these, in battle unappall'd,</l>
-      <l n="579">Whom fair Astyoche brought forth, by force of Hercules,</l>
-      <l n="580">Led out of Ephyr with his hand, from river Selleës,</l>
-      <l n="581">When many towns of princely youths he levell'd with the ground.</l>
-      <l n="582">Tlepolem, in his father's house (for building much renown'd)</l>
-      <l n="583">Brought up to headstrong state of youth, his mother's brother slew,</l>
-      <l n="584">The flower of arms, Licymnius, that somewhat aged grew;</l>
-      <l n="585">Then straight he gather'd him a fleet, assembling bands of men,</l>
-      <l n="586">And fled by sea, to shun the threats that were denounced then</l>
-      <l n="587">By other sons and nephews of th' Alciden fortitude.<anchor xml:id="n2.587_ref"/></l>
-      <l n="588">He in his exile came to Rhodes, driven in with tempests rude.</l>
-      <l n="589">The Rhodians were distinct in tribes, and great with Jove did stand,</l>
-      <l n="590">The King of men and Gods, who gave much treasure to their land.</l>
-      <l n="591">Nireus out of Syma's haven three well-built barks did bring;</l>
-      <l n="592">Nireus, fair Aglaia's son, and Charopes' the king;</l>
-
-      <note target="#n2.587_ref"><mentioned>The Alciden fortitude</mentioned>—a pleonasm for Hercules himself.</note>
-
-      <pb n="49" facs="#131"/>
-      <fw type="header">OF HOMER'S ILIADS. 49</fw>
-      
-      <l n="593">Nireus was the fairest man that to fair Ilion came<anchor xml:id="n2.593_ref"/></l>
-      <l n="594">Of all the Greeks, save Peleus' son, who passed for general frame.</l>
-      <l n="595">But weak this was, not fit for war, and therefore few did guide.</l>
-      <l n="596">Who did in Cassus, Nisyrus, and Crapathus, abide,</l>
-      <l n="597">In Co, Eurypylus's town, and in Calydna's soils,</l>
-      <l n="598">Phidippus and bold Antiphus did guide to Trojan toils,</l>
-      <l n="599">(The sons of crowned Thessalus, deriv'd from Hercules)</l>
-      <l n="600">Who went with thirty hollow ships well-order'd to the seas.</l>
-      <l n="601">Now will I sing the sackful troops Pelasgian Argos held,</l>
-      <l n="602">That in deep Alus, Alopé, and soft Trechina dwell'd,</l>
-      <l n="603">In Phthia, and in Hellade where live the lovely dames,</l>
-      <l n="604">The Myrmidons, Hellenians, and Achives, rob'd of fames;</l>
-      <l n="605">All which the great Æacides in fifty ships did lead.</l>
-      <l n="606">For these forgat war's horrid voice, because they lack'd their head</l>
-      <l n="607">That would have brought them bravely forth; but now at fleet did lie</l>
-      <l n="608">That wind-like user of his feet, fair Thetis' progeny,</l>
-      <l n="609">Wroth for bright-cheek'd Briseis' loss, whom from Lyrnessus' spoils</l>
-      <l n="610">(His own exploit) he brought away as trophy of his toils,</l>
-      <l n="611">When that town was depopulate; he sunk the Theban towers;</l>
-      <l n="612">Myneta, and Epistrophus, he sent to Pluto's bowers,</l>
-      <l n="613">Who came of king Evenus' race, great Helepiades;</l>
-      <l n="614">Yet now he idly lives enrag'd, but soon must leave his ease.</l>
-      <l n="615">Of those that dwelt in Phylace, and flow'ry Pyrason</l>
-      <l n="616">The wood of Ceres, and the soil that sheep are fed upon</l>
-      <l n="617">Iton, and Antron built by sea, and Pteleus full of grass,</l>
-      <l n="618">Protesilaus, while he liv'd, the worthy captain was,</l>
-      <l n="619">Whom now the sable earth detains. His tear-torn-faced spouse</l>
-      <l n="620">He woful left in Phylace, and his half-finish'd house;</l>
-      <l n="621">A fatal Dardan first his life, of all the Greeks, bereft, </l>
-      <l n="622">As he was leaping from his ship; yet were his men unleft</l>
-      <l n="623">Without a chief, for though they wish'd to have no other man</l>
-      <l n="624">But good Protesilay their guide, Podarces yet began</l>
-
-      <note target="#n2.593_ref"><mentioned>This</mentioned>-- Nireus.</note>
-   <pb n="50" facs="#132"/>
-        <fw type="header">50 THE SECOND BOOK</fw>
-        
-        <l n="625">To govern them, (Iphitis' son, the son of Phylacus)</l>
-        <l n="626">Most rich in sheep, and brother to short-liv'd Protesilaus,</l>
-        <l n="627">Of younger birth, less, and less strong, yet serv'd he to direct</l>
-        <l n="628">The companies, that still did more their ancient duke affect.</l>
-        <l n="629">Twice twenty jetty sails with him the swelling stream did take.</l>
-        <l n="630">But those that did in Pheres dwell, at the Bæbeian lake,</l>
-        <l n="631">In Bæbe, and in Glaphyra, Iaolcus builded fair,</l>
-        <l n="632">In thrice six ships to Pergamus did through the seas repair,</l>
-        <l n="633">With old Admetus' tender son, Eumelus, whom he bred</l>
-        <l n="634">Of Alcest, Pelius' fairest child of all his female seed.</l>
-        <l n="635">The soldiers that before the siege Methone's vales did hold,</l>
-        <l n="636">Thaumacie, flow'ry Melibæ, and Olison the cold,</l>
-        <l n="637">Duke Philoctetes governed, in darts of finest sleight;</l>
-        <l n="638">Seven vessels in his charge convey'd their honourable freight,</l>
-        <l n="639">By fifty rowers in a bark, most expert in the bow;</l>
-        <l n="640">But he in sacred Lemnos lay, brought miserably low</l>
-        <l n="641">By torment of an ulcer grown with Hydra's poison'd blood,</l>
-        <l n="642">Whose sting was such, Greece left him there in most impatient mood;</l>
-        <l n="643">Yet thought they on him at his ship, and choos'd, to lead his men,</l>
-        <l n="644">Medon, Oileus' bastard son, brought forth to him by Rhen.</l>
-        <l n="645">From Tricce, bleak Ithomen's cliffs, and hapless Oechaly,</l>
-        <l n="646">(Eurytus' city, rul'd by him in wilful tyranny,)</l>
-        <l n="647">In charge of Æsculapius' sons, physician highly prais'd,</l>
-        <l n="648">Machaon, Podalirius, were thirty vessels rais'd.</l>
-        <l n="649">Who near Hyperia's fountain dwelt, and in Ormenius,</l>
-        <l n="650">The snowy tops of Titanus, and in Asterius,</l>
-        <l n="651">Evemon's son, Eurypylus, did lead into the field;</l>
-        <l n="652">Whose towns did forty black-sail'd ships to that encounter yield.</l>
-        <l n="653">Who Gyrton, and Argissa, held, Orthen, and Elon's seat,</l>
-        <l n="654">And chalky Oloössone, were led by Polypœte,</l>
-        <l n="655">The issue of Pirithous, the son of Jupiter.</l>
-        <l n="656">Him the Athenian Theseus' friend Hippodamy did bear,</l>
-
-        <pb n="51" facs="#133"/>
-        <fw type="header">OF HOMER'S ILIADS. 51</fw>
-        
-        <l n="657">When he the bristled savages did give Ramnusia,</l>
-        <l n="658">And drove them out of Pelius, as far as Æthica.</l>
-        <l n="659">He came not single, but with him Leonteus, Coron's son,</l>
-        <l n="660">An arm of Mars, and Coron's life Ceneus' seed begun.</l>
-        <l n="661">Twice twenty ships attended these. Guneus next did bring</l>
-        <l n="662">From Cyphus twenty sail and two; the Enians following;</l>
-        <l n="663">And fierce Peræbi, that about Dodone's frozen mould</l>
-        <l n="664">Did plant their houses; and the men that did the meadows hold</l>
-        <l n="665">Which Titaresius decks with flowers, and his sweet current leads</l>
-        <l n="666">Into the bright Peneïus, that hath the silver heads,</l>
-        <l n="667">Yet with his admirable stream doth not his waves commix,</l>
-        <l n="668">But glides aloft on it like oil; for 'tis the flood of Styx,</l>
-        <l n="669">By which th' immortal Gods do swear. Teuthredon's honour'd birth,</l>
-        <l n="670">Prothous, led the Magnets forth, who near the shady earth</l>
-        <l n="671">Of Pelius, and Peneïon, dwelt; forty revengeful sail</l>
-        <l n="672">Did follow him. These were the dukes and princes of avail</l>
-        <l n="673">That came from Greece. But now the man, that overshin'd them all,</l>
-        <l n="674">Sing, Muse, and their most famous steeds to my recital call,</l>
-        <l n="675">That both th' Atrides followed. Fair Pheretiades</l>
-        <l n="676">The bravest mares did bring by much; Eumelius manag'd these,</l>
-        <l n="677">Swift of their feet as birds of wings, both of one hair did shine,</l>
-        <l n="678">Both of an age, both of a height, as measur'd by a line,</l>
-        <l n="679">Whom silver-bow'd Apollo bred in the Pierian mead,</l>
-        <l n="680">Both slick and dainty, yet were both in war of wondrous dread.</l>
-        <l n="681">Great Ajax Telamon for strength pass'd all the peers of war,</l>
-        <l n="682">While vex'd Achilles was away; but he surpass'd him far.</l>
-        <l n="683">The horse that bore that faultless man<anchor xml:id="n2.683_ref"/> were likewise past compare;</l>
-        <l n="684">Yet lay he at the crook'd-stern'd ships, and fury was his fare,</l>
-        <l n="685">For Atreus' son's ungracious deed; his men yet pleas'd their hearts</l>
-        <l n="686">With throwing of the holed stone,<anchor xml:id="n2.686_ref"/> with hurling of their darts,</l>
-
-        <note target="#n2.660_ref"><mentioned>Slick</mentioned>—sleek, smooth.</note>
-        <note target="#n2.683_ref"><mentioned>Faultless man</mentioned>—Achilles.</note>
-        <note target="#n2.686_ref"><mentioned>Throwing of the holed stone</mentioned>—in the Greek, playing at quoits.</note>
-
-        <pb n="52" facs="#134"/>
-        <fw type="header">52 THE SECOND BOOK</fw>
-        
-        <l n="687">And shooting fairly on the shore; their horse at chariots fed</l>
-        <l n="688">On greatest parsley, and on sedge that in the fens is bred.</l>
-        <l n="689">His princes' tents their chariots held, that richly cover'd were.</l>
-        <l n="690">His princes, amorous of their chief,<anchor xml:id="n2.690_ref"/> walk'd storming here and there</l>
-        <l n="691">About the host, and scorn'd to fight; their breaths as they did pass</l>
-        <l n="692">Before them flew as if a fire fed on the trembling grass;</l>
-        <l n="693">Earth under-groan'd their high-rais'd feet, as when offended Jove,</l>
-        <l n="694">In Arime, Typhœius with rattling thunder drove</l>
-        <l n="695">Beneath the earth; in Arime, men say, the grave is still</l>
-        <l n="696">Where thunder tomb'd Typhœius, and is a monstrous hill;</l>
-        <l n="707">And as that thunder made earth groan, so groan'd it as they past,</l>
-        <l n="698">They trod with such hard-set-down steps, and so exceeding fast.</l>
-        <l n="699">To Troy the rainbow-girded Dame<anchor xml:id="n2.699_ref"/> right heavy news relates</l>
-        <l n="700">From Jove, as all to council drew in Priam's palace-gates,</l>
-        <l n="701">Resembling Priam's son in voice, Polites, swift of feet,</l>
-        <l n="702">In trust whereof, as sentinel, to see when from the fleet</l>
-        <l n="703">The Grecians sallied, he was set upon the lofty brow</l>
-        <l n="704">Of aged Æsyetes' tomb, and this did Iris show :</l>
-        <l n="705">" O Priam, thou art always pleas'd with indiscreet advice,</l>
-        <l n="706">And fram'm'st thy life to times of peace, when such a war doth rise</l>
-        <l n="707">As threats inevitable spoil. I never did behold</l>
-        <l n="708">Such and so mighty troops of men, who trample on the mould</l>
-        <l n="709">In number like Autumnus' leaves, or like the marine sand,</l>
-        <l n="710">All ready round about the walls to use a ruining hand.</l>
-        <l n="711">Hector, I therefore charge thee most, this charge to undertake.</l>
-        <l n="712">A multitude remain in Troy, will fight for Priam's sake,</l>
-        <l n="713">Of other lands and languages; let every leader then</l>
-        <l n="714">Bring forth well arm'm'd into the field his several bands of men."</l>
-        <l n="715">Strong Hector knew a deity gave charge to this assay,</l>
-        <l n="716">Dismiss'm'iss'd the council straight; like waves, clusters to arms do sway;</l>
-
-        <note target="#n2.690_ref"><mentioned>Amorous of their chief</mentioned>—ardently desiring their chief, viz. to lead them to battle.</note>
-        <note target="#n2.699_ref"><mentioned>Iris</mentioned>.</note>
-
-        <pb n="53" facs="#135"/>
-        <fw type="header">OF HOMER'S ILIADS. 53</fw>
-        
-        <l n="717">The ports are all wide open set; out rush'd the troops in swarms,</l>
-        <l n="718">Both horse and foot; the city rung with sudden-cried alarms.</l>
-        <l n="719">A column stands without the town that high his head doth raise,</l>
-        <l n="720">A little distant, in a plain trod down with divers ways,</l>
-        <l n="721">Which men do Batieia call, but the Immortals name</l>
-        <l n="722">Myrine's famous sepulchre, the wondrous active dame.</l>
-        <l n="723">Here were th' auxiliary bands, that came in Troy's defence,</l>
-        <l n="724">Distinguish'd under several guides of special excellence.</l>
-        <l n="725">The duke of all the Trojan power great helm-deck'd Hector was,</l>
-        <l n="726">Which stood of many mighty men well skill'd in darts of brass.</l>
-        <l n="727">Æneas of commixed seed (a Goddess with a man,</l>
-        <l n="728">Anchises with the Queen of love) the troops Dardanian</l>
-        <l n="729">Led to the field; his lovely sire in Ida's lower shade</l>
-        <l n="730">Begat him of sweet Cyprides; he solely was not made</l>
-        <l n="731">Chief leader of the Dardan powers, Antenor's valiant sons,</l>
-        <l n="732">Archilochus and Acamas, were join'd companions.</l>
-        <l n="733">Who in Zelia dwelt beneath the sacred foot of Ide,</l>
-        <l n="734">That drank of black Æsepus' stream, and wealth made full of pride,</l>
-        <l n="735">The Aphnii, Lycaon's son, whom Phœbus gave his bow,</l>
-        <l n="736">Prince Pandarus did lead to field. Who Adrestinus owe,<anchor xml:id="n2.736_ref"/></l>
-        <l n="737">Apesus' city, Pityæ, and mount Tereiës,</l>
-        <l n="738">Adrestus and stout Amphius led; who did their sire displease,</l>
-        <l n="739">(Merops Percosius, that excell'd all Troy in heavenly skill</l>
-        <l n="740">Of futures-searching prophecy) for, much against his will,</l>
-        <l n="741">His sons were agents in those arms; whom since they disobey'd,</l>
-        <l n="742">The fates, in letting slip their threads, their hasty valours stay'd.</l>
-        <l n="743">Who in Percotes, Practius, Arisba, did abide,</l>
-        <l n="744">Who Sestus and Abydus bred, Hyrtacides did guide;</l>
-        <l n="745">Prince Asius Hyrtacides, that, through great Selees' force,</l>
-        <l n="746">Brought from Arisba to that fight the great and fiery horse.</l>
-        <l n="747">Pylæus, and Hippothous, the stout Pelasgians led,</l>
-        <l n="748">Of them Larissa's fruitful soil before had nourished;</l>
-
-        <note target="#n2.736_ref"><mentioned>Owe</mentioned>—own.</note>
-
-        <pb n="54" facs="#136"/>
-        <fw type="header">54 THE SECOND BOOK</fw>
-        
-        <l n="749">These were Pelasgian Pithus' sons, son of Teutamidas.</l>
-        <l n="750">The Thracian guides were Pirous, and valiant Acamas,</l>
-        <l n="751">Of all that the impetuous flood of Hellespont enclos'd.</l>
-        <l n="752">Euphemus, the Ciconian troops, in his command dispos'd,</l>
-        <l n="753">Who from Træzenius-Ceades right nobly did descend.</l>
-        <l n="754">Pyræchmes did the Pæons rule, that crooked bows do bend;</l>
-        <l n="755">From Axius, out of Amydon, he had them in command,</l>
-        <l n="756">From Axius, whose most beauteous stream still overflows the land.</l>
-        <l n="757">Pylæmen, with the well-arm'm'd heart, the Paphlagonians led,</l>
-        <l n="758">From Enes, where the race of mules fit for the plough is bred.</l>
-        <l n="759">The men that broad Cytorus' bounds, and Sesamus, enfold,</l>
-        <l n="760">About Parthenius' lofty flood, in houses much extoll'd,</l>
-        <l n="761">From Cromna and Ægialus, the men that arms did bear,</l>
-        <l n="762">And Erythinus situate high, Pylæmen's soldiers were.</l>
-        <l n="763">Epistrophus and Dius did the Halizonians guide,</l>
-        <l n="764">Far-fetch'd from Alybe, where first the silver mines were tried.</l>
-        <l n="765">Chromis, and augur Ennomus, the Mysians did command,</l>
-        <l n="766">Who could not with his auguries the strength of death withstand,</l>
-        <l n="767">But suffer'd it beneath the stroke of great Æacides,</l>
-        <l n="768">In Xanthus; where he made more souls dive to the Stygian seas.</l>
-        <l n="769">Phorcys, and fair Ascanius, the Phrygians brought to war,</l>
-        <l n="770">Well train'm'd for battle, and were come out of Ascania far.</l>
-        <l n="771">With Methles, and with Antiphus, (Pylæmen's sons) did fight</l>
-        <l n="772">The men of Meïon, whom the fen Gygæa brought to light,</l>
-        <l n="773">And those Meïonians that beneath the mountain Tmolus sprung.</l>
-        <l n="774">The rude unletter'd Caribæ, that barbarous were of tongue,</l>
-        <l n="775">Did under Nastes' colours march, and young Amphimachus,</l>
-        <l n="776">(Nomion's famous sons) to whom, the mountain Phthirorus</l>
-        <l n="777">That with the famous wood is crown'd, Miletus, Mycales</l>
-        <l n="778">That hath so many lofty marks for men that love the seas,</l>
-        <l n="779">The crooked arms Mæander bow'd with his so snaky flood,</l>
-        <l n="780">Resign'd for conduct the choice youth of all their martial brood.</l>
-
-        <pb n="55" facs="#137"/>
-        <fw type="header">OF HOMER'S ILIADS. 55</fw>
-        
-        <l n="781">The fool Amphimachus, to field, brought gold to be his wrack,</l>
-        <l n="782">Proud-girl-like that doth ever bear her dower upon her back,</l>
-        <l n="783">Which wise Achilles mark'd, slew him, and took his gold in strife,</l>
-        <l n="784">At Xanthus' flood; so little Death did fear his golden life.</l>
-        <l n="785">Sarpedon led the Lycians, and Glaucus unreprov'd,<anchor xml:id="n2.785_ref"/></l>
-        <l n="786">From Lycia, and the gulfy flood of Xanthus far remov'd.</l>
-
-        <note target="#n2.785_ref"><mentioned>Unreprov'd</mentioned>—irreproachable.</note>
-</div>
-      </div>
-      </div>
-      
-    </body>
-  </text>
-</TEI>
