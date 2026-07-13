@@ -74,7 +74,7 @@
    </teiHeader>
 <text xml:lang="eng">
       <body>
-         <div type="translation" n="urn:cts:greekLit:tlg0012.tlg001.chapman1611hooper1887-eng2" >
+         <div type="translation" n="urn:cts:greekLit:tlg0012.tlg001.chapman1611hooper-eng2" >
 <div type="textpart" subtype="book" n="1">
       <pb n="1" facs="#83"/>
       <head rend="center">THE FIRST BOOK OF HOMER'S ILIADS.</head>
@@ -108,7 +108,7 @@
       </div>
 
       <div type="textpart" subtype="text">
-        <l n="1"><hi rend="dropcap">A</hi>CHILLES' baneful wrath resound, O Goddess, that impos'd</l>
+        <l n="1">ACHILLES' baneful wrath resound, O Goddess, that impos'd</l>
         <l n="2">Infinite sorrows on the Greeks, and many brave souls los'd</l>
         <l n="3">From breasts heroic; sent them far to that invisible cave<anchor xml:id="n1.3_ref"/></l>
         <l n="4">That no light comforts; and their limbs to dogs and vultures gave:</l>
@@ -895,7 +895,7 @@
   <l n="2">And catalogues the naval knights.</l>
 </div>
 <div type="textpart" subtype="text">
-<l n="1"><hi rend="dropcap">T</hi>HE other Gods, and knights at arms, all night slept; only Jove</l>
+<l n="1">THE other Gods, and knights at arms, all night slept; only Jove</l>
   <l n="2">Sweet slumber seiz'd not; he discours'd how best he might approve</l>
   <l n="3">His vow made for Achilles' grace, and make the Grecians find</l>
   <l n="4">His miss<anchor xml:id="n2.4_ref"/> in much death. All ways cast, this counsel serv'd his mind</l>
@@ -1253,7 +1253,7 @@
   <l n="276">To stir our zeals up that admir'd, when of a fact so clean</l>
   <l n="277">Of all ills as our sacrifice, so fearful an ostent</l>
   <l n="278">Should be the issue. Calchas, then, thus prophesied th' event:</l>
-  <l n="279">• Why are ye dumb-struck, fair-hair'd Greeks? Wise Jove is he hath shown</l>
+  <l n="279">"Why are ye dumb-struck, fair-hair'd Greeks? Wise Jove is he hath shown</l>
   <l n="280">This strange ostent to us. 'Twas late, and passing lately done,</l>
   <l n="281">But that grace it foregoes to us,<anchor xml:id="n2.282_ref"/> for suffering all the state</l>
   <l n="282">Of his appearance (being so slow) nor time shall end, nor fate.</l>
@@ -1315,7 +1315,7 @@
       
       <l n="323">In their approv'd arts want in war, or lack of that brave heat</l>
       <l n="324">Fit for the vent'rous spirits of Greece, was cause to thy defeat."</l>
-      <l n="325">To this the king of men replied: " O father, all the sons</l>
+      <l n="325">To this the king of men replied: "O father, all the sons</l>
       <l n="326">Of Greece thou conquer'st in the strife of consultations.</l>
       <l n="327">I would to Jove, Athenia, and Phœbus, I could make,</l>
       <l n="328">Of all, but ten such counsellors; then instantly would shake</l>
@@ -1907,7 +1907,7 @@
         </div>
 
         <div type="textpart" subtype="text">
-          <l n="1"><hi rend="dropcap">W</hi>HEN every least commander's will best soldiers had obey'd,</l>
+          <l n="1">WHEN every least commander's will best soldiers had obey'd,</l>
           <l n="2">And both the hosts were rang'd for fight, the Trojans would have fray'd</l>
           <l n="3">The Greeks with noises, crying out, in coming rudely on</l>
           <l n="4">At all parts, like the cranes that fill with harsh confusion</l>
@@ -2537,7 +2537,7 @@
         </div>
 
         <div type="textpart" subtype="text">
-          <l n="1"><hi rend="dropcap">W</hi>ITHIN the fair-pav'd court of Jove he and the Gods conferr'd</l>
+          <l n="1">WITHIN the fair-pav'd court of Jove he and the Gods conferr'd</l>
           <l n="2">About the sad events of Troy; amongst whom minister'd</l>
           <l n="3">Bless'd Hebe nectar. As they sat, and did Troy's tow'rs behold,</l>
           <l n="4">They drank, and pledg'd each other round in full-crown'd cups of gold.</l>
@@ -2785,7 +2785,7 @@
           <l n="201">His idle army, empty ships, and leaves here overcome</l>
           <l n="202">Good Menelaus.' When this brave breaks in their hated breath,</l>
           <l n="203">Then let the broad earth swallow me, and take me quick to death.”</l>
-          <l n="204">" Nor shall this ever chance," said he, " and therefore be of cheer,</l>
+          <l n="204">"Nor shall this ever chance," said he, "and therefore be of cheer,</l>
           <l n="205">Lest all the army, led by you, your passions put in fear.</l>
           <l n="206">The arrow fell in no such place as death could enter at,</l>
           <l n="207">My girdle, curets doubled here, and my most trusted plate,</l>
@@ -3273,7 +3273,7 @@
         </div>
 
         <div type="textpart" subtype="text">
-          <l n="1"><hi rend="dropcap">T</hi>HEN Pallas breath'd in Tydeus' son; to render whom supreme</l>
+          <l n="1">THEN Pallas breath'd in Tydeus' son; to render whom supreme</l>
           <l n="2">To all the Greeks, at all his parts, she cast a hotter beam</l>
           <l n="3">On his high mind, his body fill'd with much superior might,</l>
           <l n="4">And made his cómplete armour cast a far more cómplete light.</l>
@@ -4408,7 +4408,7 @@
         </div>
 
         <div type="textpart" subtype="text">
-          <l n="1"><hi rend="dropcap">T</hi>HE stern fight freed of all the Gods, conquest with doubtful wings</l>
+          <l n="1">THE stern fight freed of all the Gods, conquest with doubtful wings</l>
           <l n="2">Flew on their lances; every way the restless field she flings</l>
           <l n="3">Betwixt the floods of Simois and Xanthus that confin'd</l>
           <l n="4">All their affairs at Ilion, and round about them shin'd.</l>
@@ -5134,7 +5134,7 @@
         </div>
 
         <div type="textpart" subtype="text">
-          <l n="1"><hi rend="dropcap">T</hi>HIS said, brave Hector through the ports, with Troy's bane-bringing knight,</l>
+          <l n="1">THIS said, brave Hector through the ports, with Troy's bane-bringing knight,</l>
           <l n="2">Made issue to th' insatiate field, resolv'd to fervent fight.</l>
           <l n="3">And as the Weather-wielder sends to seamen prosperous gales,</l>
           <l n="4">When with their sallow polish'd oars, long lifted from their falls,</l>
@@ -5430,7 +5430,7 @@
         <l n="245">Said to them: "Now no more, my sons; the Sovereign of the skies</l>
         <l n="246">Doth love you both; both soldiers are, all witness with good right;</l>
         <l n="247">But now night lays her mace on earth; 'tis good t' obey the night."</l>
-        <l n="248">" Idæus," Telamon replied, " to Hector speak, not me;</l>
+        <l n="248">"Idæus," Telamon replied, "to Hector speak, not me;</l>
         <l n="249">He that call'd all our Achive peers to station-fight, 'twas he;</l>
         <l n="250">If he first cease I gladly yield." Great Hector then began :</l>
         <l n="251">"Ajax, since Jove to thy big form made thee so strong a man,</l>
@@ -5645,7 +5645,7 @@
         </div>
 
         <div type="textpart" subtype="text">
-          <l n="1"><hi rend="dropcap">T</hi>HE cheerful Lady of the light, deck'd in her saffron robe,</l>
+          <l n="1">THE cheerful Lady of the light, deck'd in her saffron robe,</l>
           <l n="2">Dispers'd her beams through every part of this enflow'red globe,</l>
           <l n="3">When thund'ring Jove a Court of Gods assembled by his will,</l>
           <l n="4">In top of all the topful heights that crown th' Olympian hill.</l>
@@ -6144,7 +6144,7 @@
       <l n="411">Our kind obedience, nor our griefs, but bear our powers applied</l>
       <l n="412">To just protection of the Greeks, that anger tomb not all</l>
       <l n="413">In Troy's foul gulf of perjury, and let them stand should fall."</l>
-      <l n="414">" Grieve not," said Jove, " at all done yet; for, if thy fair eyes please,</l>
+      <l n="414">"Grieve not," said Jove, "at all done yet; for, if thy fair eyes please,</l>
       <l n="415">This next red morning they shall see the great Saturnides</l>
       <l n="416">Bring more destruction to the Greeks; and Hector shall not cease,</l>
       <l n="417">Till he have rous'd from the fleet swift-foot Aeacides,</l>
@@ -6438,7 +6438,7 @@ And great Achilles' stern reply.</p>
     <l n="162">To be unrul'd, implacable, and seek the blood of hosts,</l>
     <l n="163">Whom therefore men do much abhor; then let him yield to me,</l>
     <l n="164">I am his greater, being a king, and more in years than he."</l>
-    <l n="165">" Brave king," said Nestor, " these rich gifts must make him needs relent,</l>
+    <l n="165">"Brave king," said Nestor, "these rich gifts must make him needs relent,</l>
     <l n="166">Choose then fit legates instantly to greet him at his tent.</l>
     <l n="167">But stay; admit my choice of them, and let them straight be gone.</l>
     <l n="168">Jove-loved Phenix shall be chief, then Ajax Telamon,</l>
@@ -7635,7 +7635,7 @@ And great Achilles' stern reply.</p>
                </div>
 
                <div type="textpart" subtype="text">
-                  <l n="1"><hi rend="dropcap">A</hi>URORA out of restful bed did from bright Tithon rise.</l>
+                  <l n="1">AURORA out of restful bed did from bright Tithon rise.</l>
                   <l n="2">To bring each deathless Essence light, and use to mortal eyes;</l>
                   <l n="3">When Jove sent Eris to the Greeks, sustaining in her hand</l>
                   <l n="4">Stern signs of her designs for war. She took her horrid stand</l>
@@ -8594,7 +8594,7 @@ And great Achilles' stern reply.</p>
                </div>
 
                <div type="textpart" subtype="text">
-                  <l n="1"><hi rend="dropcap">P</hi>ATROCLUS thus employ'd in cure of hurt Eurypylus,</l>
+                  <l n="1">PATROCLUS thus employ'd in cure of hurt Eurypylus,</l>
                   <l n="2">Both hosts are all for other wounds doubly contentious,</l>
                   <l n="3">One always labouring to expel, the other to invade.</l>
                   <l n="4">Nor could the broad dike of the Greeks, nor that strong wall they made</l>
@@ -9179,7 +9179,7 @@ And great Achilles' stern reply.</p>
                </div>
 
                <div type="textpart" subtype="text">
-                  <l n="1"><hi rend="dropcap">J</hi>OVE helping Hector, and his host, thus close to th' Achive fleet,</l>
+                  <l n="1">JOVE helping Hector, and his host, thus close to th' Achive fleet,</l>
                   <l n="2">He let them then their own strengths try, and season there their sweet</l>
                   <l n="3">With ceaseless toils and grievances; for now he turn'd his face,</l>
                   <l n="4">Look'd down, and view'd the far-off land of well-rode men in Thrace,</l>
@@ -9476,7 +9476,7 @@ And great Achilles' stern reply.</p>
                   <l n="242">I took them as my prise And this is not the guise</l>
                   <l n="243">But since I love fight, therefore doth my martial star bestow,</l>
                   <l n="244">Besides those darts, helms, targets boss'd, and corslets bright as day."</l>
-                  <l n="245">" So I," said Merion, " at my tent, and sable bark, may say,</l>
+                  <l n="245">"So I," said Merion, "at my tent, and sable bark, may say,</l>
                   <l n="246">I many Trojan spoils retain, but now not near they be</l>
                   <l n="247">To serve me for my present use, and therefore ask I thee.</l>
                   <l n="248">Not that I lack a fortitude to store me with my own,</l>
@@ -10115,7 +10115,7 @@ And great Achilles' stern reply.</p>
             </div>
 
             <div type="textpart" subtype="text">
-               <l n="1"><hi rend="dropcap">N</hi>OT wine, nor feasts, could lay their soft chains on old Nestor's ear<anchor xml:id="n14.1_ref"/></l>
+               <l n="1">NOT wine, nor feasts, could lay their soft chains on old Nestor's ear<anchor xml:id="n14.1_ref"/></l>
                <l n="2">To this high clamour, who requir'd Machaon's thoughts to bear</l>
 
                <note target="#n14.a1.3_ref">* The Cestus, or magic girdle of Venus.</note>
@@ -10667,7 +10667,7 @@ And great Achilles' stern reply.</p>
             </div>
 <div type="textpart" subtype="text">
             
-               <l n="1"><hi rend="dropcap">T</hi>HE Trojans, beat past pale and dike, and numbers prostrate laid,</l>
+               <l n="1">THE Trojans, beat past pale and dike, and numbers prostrate laid,</l>
                <l n="2">All got to chariot, fear-driven all, and fear'd as men dismay'd.</l>
                <note resp="grc">line problem</note>
                <l n="3">Then Jove on Ida's top awak'd, rose from Saturnia's side,</l>
@@ -11506,7 +11506,7 @@ And great Achilles' stern reply.</p>
             </div>
 
             <div type="textpart" subtype="text">
-               <l n="1"><hi rend="dropcap">T</hi>HUS fighting for this well-built ship; Patroclus all that space</l>
+               <l n="1">THUS fighting for this well-built ship; Patroclus all that space</l>
                <l n="2">Stood by his friend, preparing words to win the Greeks his grace,</l>
                <l n="3">With pow'r of uncontained tears; and, like a fountain pour'd</l>
                <l n="4">In black streams from a lofty rock, the Greeks so plagued deplor'd.</l>
@@ -12486,7 +12486,7 @@ And great Achilles' stern reply.</p>
                </div>
 
                <div type="textpart" subtype="text">
-                  <l n="1"><hi rend="dropcap">N</hi>OR could his slaughter rest conceal'd from Menelaus' ear,</l>
+                  <l n="1">NOR could his slaughter rest conceal'd from Menelaus' ear,</l>
                   <l n="2">Who flew amongst the foremost fights, and with his targe and spear</l>
                   <l n="3">Circled the body, as much griev'd, and with as tender heed</l>
                   <l n="4">To keep it theirs, as any dam about her first-born seed,</l>
@@ -13257,7 +13257,7 @@ And great Achilles' stern reply.</p>
             </div>
 
             <div type="textpart" subtype="text">
-               <l n="1"><hi rend="dropcap">T</hi>HEY fought still like the rage of fire. And now Antilochus</l>
+               <l n="1">THEY fought still like the rage of fire. And now Antilochus</l>
                <l n="2">Came to Aeacides, whose mind was much solicitous</l>
                <l n="3">For that which, as he fear'd, was fall'n. He found him near the fleet</l>
                <l n="4">With upright sail-yards, uttering this to his heroic conceit :</l>
@@ -13598,7 +13598,7 @@ And great Achilles' stern reply.</p>
                <l n="285">Hunts the sly hunter, many a vale resounding his disdain;</l>
                <l n="286">So mournm'd Pelides his late loss, so weighty were his moans,</l>
                <l n="287">Which, for their dumb sounds, now gave words to all his Myrmidons :</l>
-               <l n="288">"O Gods," said he, " how vain a vow I made, to cheer the mind</l>
+               <l n="288">"O Gods," said he, "how vain a vow I made, to cheer the mind</l>
                <l n="289">Of sad Menœtius, when his son his hand to mine resign'd,</l>
                <l n="290">That high tower'd Opus he should see, and leave rac't Ilion</l>
                <l n="291">With spoil and honour, even with me! But Jove vouchsafes to none</l>
@@ -13961,7 +13961,7 @@ And great Achilles' stern reply.</p>
                </div>
 
                <div type="textpart" subtype="text">
-                  <l n="1"><hi rend="dropcap">T</hi>HE moon arose, and from the ocean, in her saffron robe,</l>
+                  <l n="1">THE moon arose, and from the ocean, in her saffron robe,</l>
                   <l n="2">Gave light to all, as well to Gods as men of th' under globe.</l>
                   <l n="3">Thetis stoop'd home, and found the prostrate person of her son</l>
                   <l n="4">About his friend, still pouring out himself in passion;</l>
@@ -14162,7 +14162,7 @@ And great Achilles' stern reply.</p>
                   <l n="174">And thou, Atrides, in the taste of so severe an end,</l>
                   <l n="175">Hereafter may on others hold a juster government;</l>
                   <l n="176">Nor will it aught impair a king to give a sound content</l>
-                  <l n="177">To any subject soundly wrong'd." " I joy," replied the king,</l>
+                  <l n="177">To any subject soundly wrong'd." "I joy," replied the king,</l>
                   <l n="178">"O Laertiades, to hear thy liberal counselling;</l>
                   <l n="179">In which is all decorum kept, nor any point lacks touch</l>
                   <l n="180">That might be thought on to conclude a reconcilement such</l>
@@ -14229,7 +14229,7 @@ And great Achilles' stern reply.</p>
                   <l n="228">Or fall with some offence to him that looks for new command,</l>
                   <l n="229">Whoever in dislike holds back. All join then, all things fit</l>
                   <l n="230">Allow'd for all; set on a charge, at all parts answering it."</l>
-                  <l n="231">This said, he chose, for noblest youths to bear the presents, these :</l>
+                  <l n="231">This said, he chose, for noblest youths to bear the presents, these:</l>
                   <l n="232">The sons of Nestor, and with them renown'd Meriones,</l>
                   <l n="233">Phylides, Thoas, Lycomed, and Meges, all which went,</l>
                   <l n="234">And Menalippus, following Ulysses to the tent</l>
@@ -14469,7 +14469,7 @@ And great Achilles' stern reply.</p>
             </div>
 
             <div type="textpart" subtype="text">
-               <l n="1"><hi rend="dropcap">T</hi>HE Greeks thus arm'd, and made insatiate with desire of fight,</l>
+               <l n="1">THE Greeks thus arm'd, and made insatiate with desire of fight,</l>
                <l n="2">About thee, Peleus' son, the foe, in ground of greatest height,</l>
                <l n="3">Stood opposite, rang'd. Then Jove charg'd Themis from Olympus' top</l>
                <l n="4">To call a court. She every way dispers'd, and summon'd up</l>
@@ -15042,7 +15042,7 @@ And great Achilles' stern reply.</p>
             </div>
 
             <div type="textpart" subtype="text">
-               <l n="1"><hi rend="dropcap">A</hi>ND now they reach'd the goodly swelling channel of the flood,</l>
+               <l n="1">AND now they reach'd the goodly swelling channel of the flood,</l>
                <l n="2">Gulf-eating Xanthus, whom Jove mix'd with his immortal brood;</l>
                <l n="3">And there Achilles cleft the host of Ilion. One side fell</l>
                <l n="4">On Xanthus, th' other on the town, and that did he impel</l>
@@ -15730,7 +15730,7 @@ And great Achilles' stern reply.</p>
             </div>
 
             <div type="textpart" subtype="text">
-               <l n="1"><hi rend="dropcap">T</hi>HUS, chas'd like hinds, the Ilians took time to drink and eat,</l>
+               <l n="1">THUS, chas'd like hinds, the Ilians took time to drink and eat,</l>
                <l n="2">And to refresh them, getting off the mingled dust and sweat,</l>
                <l n="3">And good strong rampires on instead. The Greeks then cast their shields</l>
                <l n="4">Aloft their shoulders; and now Fate their near invasion yields</l>
@@ -16073,7 +16073,7 @@ And great Achilles' stern reply.</p>
 
                <l n="289">Thy strong knees thus; and now the dogs and fowls in foulest use</l>
                <l n="290">Shall tear thee up, thy corse expos'd to all the Greeks' abuse."</l>
-               <l n="291">He, fainting, said : " Let me implore, even by thy knees and soul</l>
+               <l n="291">He, fainting, said: "Let me implore, even by thy knees and soul</l>
                <l n="292">And thy great parents, do not see a cruelty so foul</l>
                <l n="293">Inflicted on me. Brass and gold receive at any rate,</l>
                <l n="294">And quit my person, that the peers and ladies of our state</l>
@@ -16288,7 +16288,7 @@ And great Achilles' stern reply.</p>
             </div>
 
             <div type="textpart" subtype="text">
-               <l n="1"><hi rend="dropcap">T</hi>HUS, mourned all Troy. But when at fleet and Hellespontus' shore</l>
+               <l n="1">THUS, mourned all Troy. But when at fleet and Hellespontus' shore</l>
                <l n="2">The Greeks arriv'd, each to his ship; only the Conqueror</l>
                <l n="3">Kept undispers'd his Myrmidons, and said: "Lov'd countrymen,</l>
                <l n="4">Disjoin not we chariots and horse, but, bearing hard our rein,</l>
@@ -17280,7 +17280,7 @@ And great Achilles' stern reply.</p>
             </div>
 
             <div type="textpart" subtype="text">
-               <l n="1"><hi rend="dropcap">T</hi>HE games perform'd, the soldiers wholly dispers'd to fleet,</l>
+               <l n="1">THE games perform'd, the soldiers wholly dispers'd to fleet,</l>
                <l n="2">Supper and sleep their only care. Constant Achilles yet</l>
                <l n="3">Wept for his friend, nor sleep itself, that all things doth subdue,</l>
                <l n="4">Could touch at him; this way and that he turn'd, and did renew</l>
@@ -17607,7 +17607,7 @@ And great Achilles' stern reply.</p>
                <l n="271">Spread on thy right hand, thou mayst know thy zealous offering</l>
                <l n="272">Accepted, and thy safe return confirm'd; but if he fail,</l>
                <l n="273">Fail thy intent, though never so it labours to prevail."</l>
-               <l n="274">" This I refuse not," he replied, " for no faith is so great</l>
+               <l n="274">"This I refuse not," he replied, "for no faith is so great</l>
                <l n="275">In Jove's high favour but it must with held-up hands intreat."</l>
                <l n="276">This said, the chambermaid that held the ewer and basin by</l>
                <l n="277">He bad pour water on his hands; when, looking to the sky,</l>
@@ -17712,7 +17712,7 @@ And great Achilles' stern reply.</p>
                <l n="358">To-morrow all the sun-burn'd Greeks will circle Troy with arms,</l>
                <l n="359">The princes rage to be withheld so idly, your alarms</l>
                <l n="360">Not given half hot enough they think, and can contain no more."</l>
-               <l n="361">He answer'd: " If you serve the prince, let me be bold t' implore</l>
+               <l n="361">He answer'd: "If you serve the prince, let me be bold t' implore</l>
                <l n="362">This grace of thee, and tell me true: Lies Hector here at fleet,</l>
                <l n="363">Or have the dogs his flesh?" He said: "Nor dogs nor fowl have yet</l>
                <l n="364">Touch'd at his person; still he lies at fleet, and in the tent</l>
