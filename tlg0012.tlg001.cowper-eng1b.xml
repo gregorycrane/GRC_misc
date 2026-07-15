@@ -761,7 +761,7 @@ him should be denied the same advantage.</p>
     <pb n="3" facs="#page_45"/>
     
     <div type="textpart" subtype="text">
-        <l n="1"><name>ACHILLES</name> sing, O Goddess! Peleus' son;</l>
+        <l n="1">ACHILLES sing, O Goddess! Peleus' son;</l>
         <l n="2">His wrath pernicious, who ten thousand woes</l>
         <l n="3">Caused to Achaia's host, sent many a soul</l>
         <l n="4">Illustrious into Ades premature,</l>
@@ -7961,7 +7961,7 @@ they sally from the gate together.</p>
         <l n="398">After long search, though wanting it herself,</l>
         <l n="399">So I have worn out many sleepless nights,</l>
         <l n="400">And waded deep through many a bloody day</l>
-        <l n="401">In battle for their wives.<anchor xml:id="n9.401_ref"/> I have destroy'd</l>
+        <l n="401">In battle for their wives.<anchor xml:id="n9.401_ref"/> I have destroy'd </l>
         <l n="402">Twelve cities with my fleet, and twelve, save one,</l>
         <l n="403">On foot contending in the fields of Troy.</l>
         <l n="404">From all these cities, precious spoils I took</l>
@@ -11105,6 +11105,7 @@ they sally from the gate together.</p>
         <l n="573">Scatter'd, and tumult infinite arose.</l>
       </div>
 </div>
+
 <div type="textpart" subtype="book" n="13">
         <pb n="2" facs="#12"/>
         
@@ -11117,7 +11118,7 @@ they sally from the gate together.</p>
     
 
         <div type="textpart" subtype="text">
-          <l n="1"><hi rend="dropcap">W</hi>HEN Jove to Hector and his host had given</l>
+          <l n="1">WHEN Jove to Hector and his host had given</l>
           <l n="2">Such entrance to the fleet, to all the woes</l>
           <l n="3">And toils of unremitting battle there</l>
           <l n="4">He them abandon'd, and his glorious eyes</l>
