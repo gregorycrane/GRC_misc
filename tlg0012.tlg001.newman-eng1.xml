@@ -59027,6 +59027,7 @@
             <seg type="metrical-part" n="a">And they still pitiful did weep,</seg>
             <seg type="metrical-part" n="b">when rosy-finger'd Morning 110</seg>
           </l>
+          <lb n="110"/>
           <l n="109">
             <seg type="metrical-part" n="a">Shone over them, around the dead:</seg>
             <seg type="metrical-part" n="b">but royal Agamemnon</seg>
@@ -59107,6 +59108,7 @@
             <seg type="metrical-part" n="a">To warloving Myrmidons</seg>
             <seg type="metrical-part" n="b">straightway made urgent bidding,</seg>
           </l>
+          <lb n="130"/>
           <l n="128">
             <seg type="metrical-part" n="a">That each beneath the chariot</seg>
             <seg type="metrical-part" n="b">should yoke his steeds, and gird him 130</seg>
@@ -59484,6 +59486,7 @@
             <seg type="metrical-part" n="a">And swift Achilles, all that night,</seg>
             <seg type="metrical-part" n="b">with goblet doubly hollow 269</seg>
           </l>
+          <lb n="220"/>
           <l n="217">
             <seg type="metrical-part" n="a">Out of a golden bowl did teem</seg>
             <seg type="metrical-part" n="b">the sacred wine, and wetted</seg>
@@ -59538,6 +59541,7 @@
             <seg type="metrical-part" n="a">Reclin'd all-weary: quickly there</seg>
             <seg type="metrical-part" n="b">sweet slumber stole across him. 290</seg>
           </l>
+          
           <l n="230">
             <seg type="metrical-part" n="a">Meanwhile the chieftains were in troop</seg>
             <seg type="metrical-part" n="b">around Atrides gather'd,</seg>
@@ -59585,6 +59589,7 @@
             <seg type="metrical-part" n="b">hide in the courts of Pluto.</seg>
           </l>
           <milestone unit="line" ed="grc" n="240"/>
+          <lb n="245"/>
           <l n="241">
             <seg type="metrical-part" n="a">Meanwhile no overweening mound</seg>
             <seg type="metrical-part" n="b">to heap aloft exhort I,</seg>
@@ -59670,6 +59675,7 @@
             <seg type="metrical-part" n="b">of two-and-twenty measures. 340</seg>
           </l>
           <milestone unit="line" ed="grc" n="260"/>
+          <lb n="265"/>
           <l n="261">
             <seg type="metrical-part" n="a">The next, an untam'd six-year mare,</seg>
             <seg type="metrical-part" n="b">a mule within her bearing.</seg>
@@ -59686,6 +59692,7 @@
             <seg type="metrical-part" n="a">For him whose coursers fourth might be,</seg>
             <seg type="metrical-part" n="b">he set two golden talents;</seg>
           </l>
+          <lb n="270"/>
           <l n="265">
             <seg type="metrical-part" n="a">But for the fifth a double urn,</seg>
             <seg type="metrical-part" n="b">new to the fire, he destin'd. 349</seg>
@@ -59957,6 +59964,7 @@
             <seg type="metrical-part" n="a">Right close to this approaching, drive</seg>
             <seg type="metrical-part" n="b">thy chariot and horses.</seg>
           </l>
+          <lb n="335"/>
           <l n="329">
             <seg type="metrical-part" n="a">In the welljoined car thyself</seg>
             <seg type="metrical-part" n="b">must leftwise gently lean thee, 460</seg>
@@ -59974,6 +59982,7 @@
             <seg type="metrical-part" n="a">That, troth! the centre of thy wheel</seg>
             <seg type="metrical-part" n="b">may doubt to graze the surface 465</seg>
           </l>
+           <lb n="340"/>
           <l n="333">
             <seg type="metrical-part" n="a">Of the rough stone. Shun thou to prove</seg>
             <seg type="metrical-part" n="b">its perilous encounter,</seg>
@@ -59991,6 +60000,7 @@
             <seg type="metrical-part" n="a">But keen, my son! and wary be:</seg>
             <seg type="metrical-part" n="b">for if, inside the others,</seg>
           </l>
+           <lb n="345"/>
           <l n="337">
             <seg type="metrical-part" n="a">Thou round the goal, not one of them</seg>
             <seg type="metrical-part" n="b">pursuing shall o'erhend thee;</seg>
@@ -60050,6 +60060,7 @@
             <seg type="metrical-part" n="b">Achilles mark'd the limits,</seg>
           </l>
           <milestone unit="line" ed="grc" n="350"/>
+           <lb n="360"/>
           <l n="351">
             <seg type="metrical-part" n="a">In the wide level seen afar;</seg>
             <seg type="metrical-part" n="b">and station'd godlike Phoenix, 495</seg>
@@ -60060,1058 +60071,1048 @@
           </l>
 
 <pb n="400" facs="#430"/>
-          <l n="362">
-            <seg type="metrical-part" n="a">With eager menace: speedily</seg>
-            <seg type="metrical-part" n="b">the breadth of plain travers'd they,</seg>
-          </l>
-          <l n="363">
-            <seg type="metrical-part" n="a">Far from the galleys; but the dust</seg>
-            <seg type="metrical-part" n="b">beneath their breasts uplifted 365</seg>
-          </l>
-          <l n="364">
-            <seg type="metrical-part" n="a">Stood as a cloud, or like a squall;</seg>
-            <seg type="metrical-part" n="b">and from the horses' shoulders</seg>
-          </l>
-          <l n="365">
-            <seg type="metrical-part" n="a">Along the breezes wav'd the manes:</seg>
-            <seg type="metrical-part" n="b">the cars, at one while vanish'd,</seg>
-          </l>
-          <milestone unit="line" ed="grc" n="365"/>
-          <l n="366">
-            <seg type="metrical-part" n="a">Sunk in the manyfeeding earth;</seg>
-            <seg type="metrical-part" n="b">elsewhile aloft they bounded.</seg>
-          </l>
-          <l n="367">
-            <seg type="metrical-part" n="a">Up stood the drivers from their seats,</seg>
-            <seg type="metrical-part" n="b">with hearts for conquest panting:</seg>
-          </l>
-          <l n="368">
-            <seg type="metrical-part" n="a">Each shouted to his steeds, and they</seg>
-            <seg type="metrical-part" n="b">in dusty tempest scuffled. 371</seg>
-          </l>
-          <l n="369">
-            <seg type="metrical-part" n="a">But when, fulfilling their career,</seg>
-            <seg type="metrical-part" n="b">the coursers fleetly scudding</seg>
-          </l>
-          <l n="370">
-            <seg type="metrical-part" n="a">Back to the hoary brine would come,</seg>
-            <seg type="metrical-part" n="b">then were the odds apparent</seg>
-          </l>
-          <milestone unit="line" ed="grc" n="370"/>
-          <l n="371">
-            <seg type="metrical-part" n="a">And worth of each; for hard was stretch'd</seg>
-            <seg type="metrical-part" n="b">the race forthwith: and quickly</seg>
-          </l>
-          <l n="372">
-            <seg type="metrical-part" n="a">The rapid mares of Pheres' stud</seg>
-            <seg type="metrical-part" n="b">foremost of all outstarted. 376</seg>
-          </l>
-          <l n="373">
-            <seg type="metrical-part" n="a">Behind, the stallions of Tros</seg>
-            <seg type="metrical-part" n="b">by Diomed were driven</seg>
-          </l>
-          <l n="374">
-            <seg type="metrical-part" n="a">So near, they alway seem'd as tho'</seg>
-            <seg type="metrical-part" n="b">they on the car would mount them.</seg>
-          </l>
-          <l n="375">
-            <seg type="metrical-part" n="a">Eumelus' back and shoulders broad</seg>
-            <seg type="metrical-part" n="b">were warm beneath their panting; 381</seg>
-          </l>
-          <milestone unit="line" ed="grc" n="375"/>
-          <l n="376">
-            <seg type="metrical-part" n="a">For aye against him lay their heads,</seg>
-            <seg type="metrical-part" n="b">as close behind they gallop'd.</seg>
-          </l>
-          <l n="377">
-            <seg type="metrical-part" n="a">And now they haply would have pass'd,</seg>
-            <seg type="metrical-part" n="b">or doubtful left the contest,</seg>
-          </l>
-          <l n="378">
-            <seg type="metrical-part" n="a">But bright Apollo, wroth of old</seg>
-            <seg type="metrical-part" n="b">against the son of Tydeus,</seg>
-          </l>
-          <l n="379">
-            <seg type="metrical-part" n="a">Struck from his hands the shining scourge:</seg>
-            <seg type="metrical-part" n="b">then tears from out his eyen 386</seg>
-          </l>
-          <l n="380">
-            <seg type="metrical-part" n="a">Fell in his anger, when the mares</seg>
-            <seg type="metrical-part" n="b">onward and onward winning</seg>
-          </l>
-<milestone unit="line" ed="grc" n="380"/>
-          <l n="381">
-            <seg type="metrical-part" n="a">He saw; while, of the lash bereft,</seg>
-            <seg type="metrical-part" n="b">his own career was damag'd.</seg>
-          </l>
-          <l n="382">
-            <seg type="metrical-part" n="a">Nor did Athene fail to mark</seg>
-            <seg type="metrical-part" n="b">Apollo's fraudful dealing</seg>
-          </l>
-          <l n="383">
-            <seg type="metrical-part" n="a">Against Tydides: quickly she</seg>
-            <seg type="metrical-part" n="b">the people's shepherd chased, 390</seg>
-          </l>
-          <l n="384">
-            <seg type="metrical-part" n="a">And gave him back the scourge,</seg>
-            <seg type="metrical-part" n="b">and breath'd into his horses vigour;</seg>
-          </l>
-          <l n="385">
-            <seg type="metrical-part" n="a">Then, wrathful with Admetus' son,</seg>
-            <seg type="metrical-part" n="b">pursued, and brake asunder 395</seg>
-          </l>
-<milestone unit="line" ed="grc" n="385"/>
-          <l n="386">
-            <seg type="metrical-part" n="a">His yoke: down fell the pole:</seg>
-            <seg type="metrical-part" n="b">the steeds this way and that were parted.</seg>
-          </l>
-          <l n="387">
-            <seg type="metrical-part" n="a">Out of the chariot himself</seg>
-            <seg type="metrical-part" n="b">beside the wheel was rolled</seg>
-          </l>
-          <l n="388">
-            <seg type="metrical-part" n="a">On to his elbow: nostrils, mouth,</seg>
-            <seg type="metrical-part" n="b">forehead, and brow were mangled,</seg>
-          </l>
-          <l n="389">
-            <seg type="metrical-part" n="a">His eyen were with tears brimful,</seg>
-            <seg type="metrical-part" n="b">his throat was drain'd of juices. 401</seg>
-          </l>
-          <l n="390">
-            <seg type="metrical-part" n="a">Then past him Tydeus' son held on</seg>
-            <seg type="metrical-part" n="b">the singlehoofed horses,</seg>
-          </l>
-<milestone unit="line" ed="grc" n="390"/>
-          <l n="391">
-            <seg type="metrical-part" n="a">Forth springing: for Athene</seg>
-            <seg type="metrical-part" n="b">into his horses vigour breath'd,</seg>
-          </l>
-          <l n="392">
-            <seg type="metrical-part" n="a">And on himself put glory.</seg>
-            <seg type="metrical-part" n="b">After him kept the son of Atreus, 405</seg>
-          </l>
-          <l n="393">
-            <seg type="metrical-part" n="a">The auburn Menelaüs.</seg>
-            <seg type="metrical-part" n="b">Then did Antilochus rebuke</seg>
-          </l>
-          <l n="394">
-            <seg type="metrical-part" n="a">The horses of his father:</seg>
-            <seg type="metrical-part" n="b">"Step on, ye also; strain to speed.</seg>
-          </l>
-          <l n="395">
-            <seg type="metrical-part" n="a">I claim not, that the coursers</seg>
-            <seg type="metrical-part" n="b">of Tydeus' skilfulhearted son 410</seg>
-          </l>
-          <milestone unit="line" ed="grc" n="395"/>
-          <l n="396">
-            <seg type="metrical-part" n="a">Ye vanquish; sith Athene</seg>
-            <seg type="metrical-part" n="b">to them hath swiftness granted now,</seg>
-          </l>
-          <pb n="401" facs="#431"/>
-          <l n="397">
-            <seg type="metrical-part" n="a">And on himself put glory.</seg>
-            <seg type="metrical-part" n="b">But overhend Atrides' steeds</seg>
-          </l>
-          <l n="398">
-            <seg type="metrical-part" n="a">And be not left behind them,</seg>
-            <seg type="metrical-part" n="b">Quickly; lest in disgrace ye sink,</seg>
-          </l>
-          <l n="399">
-            <seg type="metrical-part" n="a">If Blazer, she, a female, —</seg>
-            <seg type="metrical-part" n="b">Outstrip you in the race. And why</seg>
-          </l>
-          <l n="400">
-            <seg type="metrical-part" n="a">Fall ye behind, my bravest?</seg>
-            <seg type="metrical-part" n="b">For roundly will I say, and this 415</seg>
-          </l>
-          <milestone unit="line" ed="grc" n="400"/>
-          <l n="401">
-            <seg type="metrical-part" n="a">Shall be a fact accomplish'd:</seg>
-            <seg type="metrical-part" n="b">No longer shall ye twain receive</seg>
-          </l>
-          <l n="402">
-            <seg type="metrical-part" n="a">Grooming and food with Nestor</seg>
-            <seg type="metrical-part" n="b">The people's shepherd: he forthwith</seg>
-          </l>
-          <l n="403">
-            <seg type="metrical-part" n="a">By the sharp brass will slay you,</seg>
-            <seg type="metrical-part" n="b">If by your heartlessness a prize 421</seg>
-          </l>
-          <l n="404">
-            <seg type="metrical-part" n="a">Inferiour we carry.</seg>
-            <seg type="metrical-part" n="b">But keep ye pace and follow hard</seg>
-          </l>
-          <l n="405">
-            <seg type="metrical-part" n="a">And scud with extreme effort:</seg>
-            <seg type="metrical-part" n="b">And I myself will machinate 425</seg>
-          </l>
-          <milestone unit="line" ed="grc" n="405"/>
-          <l n="406">
-            <seg type="metrical-part" n="a">And will espy to complish,</seg>
-            <seg type="metrical-part" n="b">If in the narrows of the road</seg>
-          </l>
-          <l n="407">
-            <seg type="metrical-part" n="a">I find a place to pass him."</seg>
-            <seg type="metrical-part" n="b">So spake he earnest: they beneath</seg>
-          </l>
-          <l n="408">
-            <seg type="metrical-part" n="a">Their lord's upbraidment quailing,</seg>
-            <seg type="metrical-part" n="b">Ran swifter on, awhile; but soon 431</seg>
-          </l>
-          <l n="409">
-            <seg type="metrical-part" n="a">Antilochus war-biding</seg>
-            <seg type="metrical-part" n="b">Saw, where the road was rent away</seg>
-          </l>
-          <l n="410">
-            <seg type="metrical-part" n="a">And hollow'd by a torrent,</seg>
-            <seg type="metrical-part" n="b">Whose pent-up waters sapp'd the ground 435</seg>
-          </l>
-<milestone unit="line" ed="grc" n="410"/>
-          <l n="411">
-            <seg type="metrical-part" n="a">And narrow left the passage:</seg>
-            <seg type="metrical-part" n="b">Hereby did Menelaüs drive,</seg>
-          </l>
-          <l n="412">
-            <seg type="metrical-part" n="a">Concourse of wheels avoiding.</seg>
-            <seg type="metrical-part" n="b">But devious his rival held</seg>
-          </l>
-          <l n="413">
-            <seg type="metrical-part" n="a">The singlehoofed horses,</seg>
-            <seg type="metrical-part" n="b">Pressing by shorter cut oblique 440</seg>
-          </l>
-          <l n="414">
-            <seg type="metrical-part" n="a">To meet within the narrows.</seg>
-            <seg type="metrical-part" n="b">Then to Antilochus aloud</seg>
-          </l>
-          <l n="415">
-            <seg type="metrical-part" n="a">Atrides cried in terror:</seg>
-            <seg type="metrical-part" n="b">"Antilochus! infatuate 445</seg>
-          </l>
-<milestone unit="line" ed="grc" n="415"/>
-          <l n="416">
-            <seg type="metrical-part" n="a">Thy course: hold-in thy horses,</seg>
-            <seg type="metrical-part" n="b">While narrow is the road; and soon,</seg>
-          </l>
-          <l n="417">
-            <seg type="metrical-part" n="a">Where it is broader, pass me;</seg>
-            <seg type="metrical-part" n="b">Lest on the chariot thou strike</seg>
-          </l>
-          <l n="418">
-            <seg type="metrical-part" n="a">And bring on both disaster."</seg>
-            <seg type="metrical-part" n="b">So spake he; but Antilochus 450</seg>
-          </l>
-<l n="419">
-            <seg type="metrical-part" n="a">Drave nearer still and nearer,</seg>
-            <seg type="metrical-part" n="b">Urging the horses with the scourge,</seg>
-          </l>
-          <l n="420">
-            <seg type="metrical-part" n="a">Alike as tho' he heard not.</seg>
-            <seg type="metrical-part" n="b">Then, far as may a youthful man, 455</seg>
-          </l>
-<milestone unit="line" ed="grc" n="420"/>
-          <l n="421">
-            <seg type="metrical-part" n="a">His stalwart vigour trying,</seg>
-            <seg type="metrical-part" n="b">Over his shoulder fling the quoit,</seg>
-          </l>
-          <l n="422">
-            <seg type="metrical-part" n="a">So far they onward hurried.</seg>
-            <seg type="metrical-part" n="b">But Atreus' son in mid career</seg>
-          </l>
-          <l n="423">
-            <seg type="metrical-part" n="a">Refrain'd his speed on purpose,</seg>
-            <seg type="metrical-part" n="b">Lest that the singlehoofed steeds 461</seg>
-          </l>
-          <l n="424">
-            <seg type="metrical-part" n="a">Within the road be tangled,</seg>
-            <seg type="metrical-part" n="b">And overturn the chariots</seg>
-          </l>
-          <l n="425">
-            <seg type="metrical-part" n="a">Welljoined: so the drivers</seg>
-            <seg type="metrical-part" n="b">Would in the dust themselves be cast, 465</seg>
-          </l>
-<milestone unit="line" ed="grc" n="425"/>
-          <l n="426">
-            <seg type="metrical-part" n="a">For victory too eager.</seg>
-            <seg type="metrical-part" n="b">Then auburn Menelaüs spake</seg>
-          </l>
-          <l n="427">
-            <seg type="metrical-part" n="a">A word of bitter chiding:</seg>
-            <seg type="metrical-part" n="b">"Antilochus! of all mankind 470</seg>
-          </l>
-          <l n="428">
-            <seg type="metrical-part" n="a">None is than thee more deadly.</seg>
-            <seg type="metrical-part" n="b">Avaunt to ruin! falsely do</seg>
-          </l>
-          <l n="429">
-            <seg type="metrical-part" n="a">The Achaians hold thee prudent.</seg>
-            <seg type="metrical-part" n="b">But I will challenge thee to oath, 475</seg>
-          </l>
-          <l n="430">
-            <seg type="metrical-part" n="a">And of the prize despoil thee."</seg>
-            <seg type="metrical-part" n="b">After such words, with cheery voice</seg>
-          </l>
-          <milestone unit="line" ed="grc" n="430"/>
-          <l n="431">
-            <seg type="metrical-part" n="a">He to the coursers shouted:</seg>
-            <seg type="metrical-part" n="b">"Stay not behind, nor wait to think, </seg>
-          </l>
-          <pb n="402" facs="#432"/>
-          <l n="432">
-            <seg type="metrical-part" n="a">Albeit griev'd, my gallants!</seg>
-            <seg type="metrical-part" n="b">To them far earlier, I trow,</seg>
-          </l>
-          <l n="433">
-            <seg type="metrical-part" n="a">Will feet and knees be weary,</seg>
-            <seg type="metrical-part" n="b">Than unto you: for from them both 481</seg>
-          </l>
-          <l n="434">
-            <seg type="metrical-part" n="a">The strength of youth is parted."</seg>
-            <seg type="metrical-part" n="b">So spake he earnest: they beneath</seg>
-          </l>
-          <l n="435">
-            <seg type="metrical-part" n="a">Their lord's upbraidment quailing,</seg>
-            <seg type="metrical-part" n="b">Ran swifter on, and speedily 485</seg>
-          </l>
-<milestone unit="line" ed="grc" n="435"/>
-          <l n="436">
-            <seg type="metrical-part" n="a">Came nearer, and yet nearer.</seg>
-            <seg type="metrical-part" n="b">Meanwhile in theatre behind</seg>
-          </l>
-          <l n="437">
-            <seg type="metrical-part" n="a">Abode the Argives, watching</seg>
-            <seg type="metrical-part" n="b">The coursers, who across the plain 490</seg>
-          </l>
-          <l n="438">
-            <seg type="metrical-part" n="a">In dusty tempest scuffled.</seg>
-            <seg type="metrical-part" n="b">The Cretan chief Idomeneus</seg>
-          </l>
-          <l n="439">
-            <seg type="metrical-part" n="a">Did first espy the horses;</seg>
-            <seg type="metrical-part" n="b">For he beyond the company 495</seg>
-          </l>
-          <l n="440">
-            <seg type="metrical-part" n="a">To scan around sat forward,</seg>
-            <seg type="metrical-part" n="b">And heard the charioteer afar,</seg>
-          </l>
-<milestone unit="line" ed="grc" n="440"/>
-          <l n="441">
-            <seg type="metrical-part" n="a">And knew his loud upbraidment,</seg>
-            <seg type="metrical-part" n="b">And saw a signal horse in front, 501</seg>
-          </l>
-          <l n="442">
-            <seg type="metrical-part" n="a">Who else was bay of colour,</seg>
-            <seg type="metrical-part" n="b">But bare a white spot, like a moon,</seg>
-          </l>
-          <l n="443">
-            <seg type="metrical-part" n="a">Upon his forehead blazing.</seg>
-            <seg type="metrical-part" n="b">Then stood Idomeneus upright, 505</seg>
-          </l>
-          <l n="444">
-            <seg type="metrical-part" n="a">And spake before the Argives:</seg>
-            <seg type="metrical-part" n="b">"O friends, who of the Argive folk</seg>
-          </l>
-          <l n="445">
-            <seg type="metrical-part" n="a">Are governours and leaders,</seg>
-            <seg type="metrical-part" n="b">Do I alone the coursers view, 510</seg>
-          </l>
-<milestone unit="line" ed="grc" n="445"/>
-          <l n="446">
-            <seg type="metrical-part" n="a">Or eke do ye descry them?</seg>
-            <seg type="metrical-part" n="b">Another pair of steeds than erst,</seg>
-          </l>
-          <l n="447">
-            <seg type="metrical-part" n="a">Methinketh, now are foremost;</seg>
-            <seg type="metrical-part" n="b">Ay; and another charioteer 515</seg>
-          </l>
-          <l n="448">
-            <seg type="metrical-part" n="a">Appeareth: but the others</seg>
-            <seg type="metrical-part" n="b">I ween, met damage on the plain,</seg>
-          </l>
-          <l n="449">
-            <seg type="metrical-part" n="a">Which thitherward had vantage.</seg>
-            <seg type="metrical-part" n="b">Surely ahead I saw the mares 520</seg>
-          </l>
-          <l n="450">
-            <seg type="metrical-part" n="a">Around the pillar bending:</seg>
-            <seg type="metrical-part" n="b">But them I nowhere now may ken,</seg>
-          </l>
-<milestone unit="line" ed="grc" n="450"/>
-          <l n="451">
-            <seg type="metrical-part" n="a">Albeit that my eyen</seg>
-            <seg type="metrical-part" n="b">Turn, as I gaze, on every side 525</seg>
-          </l>
-          <l n="452">
-            <seg type="metrical-part" n="a">Over the plain of Troas.</seg>
-            <seg type="metrical-part" n="b">Either the charioteer his reins</seg>
-          </l>
-          <l n="453">
-            <seg type="metrical-part" n="a">Hath dropt, or round the pillar</seg>
-            <seg type="metrical-part" n="b">Could not his coursers duly hold 530</seg>
-          </l>
-          <l n="454">
-            <seg type="metrical-part" n="a">And fail'd to wheel discreetly.</seg>
-            <seg type="metrical-part" n="b">There (bode I) forth he fell, and brake</seg>
-          </l>
-          <l n="455">
-            <seg type="metrical-part" n="a">His chariot's equipments,</seg>
-            <seg type="metrical-part" n="b">And from the road his mares, possest 535</seg>
-          </l>
-<milestone unit="line" ed="grc" n="455"/>
-          <l n="456">
-            <seg type="metrical-part" n="a">By untam'd spirit, started.</seg>
-            <seg type="metrical-part" n="b">But ye, arising, eke yourselves</seg>
-          </l>
-          <l n="457">
-            <seg type="metrical-part" n="a">Behold; for not distinctly</seg>
-            <seg type="metrical-part" n="b">My eyen may beknow: yet here, 540</seg>
-          </l>
-          <l n="458">
-            <seg type="metrical-part" n="a">Methinketh, is a hero</seg>
-            <seg type="metrical-part" n="b">Ætolian of birth, who yet</seg>
-          </l>
-          <l n="459">
-            <seg type="metrical-part" n="a">Mid Argive princes reigneth,</seg>
-            <seg type="metrical-part" n="b">The courser-taming Tydeus' son, 545</seg>
-          </l>
-          <l n="460">
-            <seg type="metrical-part" n="a">Stouthearted Diomedes."</seg>
-            <seg type="metrical-part" n="b">Then Ajax swift, Oïleus' son,</seg>
-          </l>
-          <milestone unit="line" ed="grc" n="460"/>
-          <l n="461">
-            <seg type="metrical-part" n="a">With insult base revil'd him:</seg>
-            <seg type="metrical-part" n="b">"Idomeneus! wherefore too soon 550</seg>
-          </l>
-          <pb n="403" facs="#433"/>
-          <l n="462">
-            <seg type="metrical-part" n="a">Dost bluster? o'er the level</seg>
-            <seg type="metrical-part" n="b">Hither the nimblefooted mares</seg>
-          </l>
-          <l n="463">
-            <seg type="metrical-part" n="a">Speed far afront of others.</seg>
-            <seg type="metrical-part" n="b">Among the Argives thou, I ween, 555</seg>
-          </l>
-          <l n="464">
-            <seg type="metrical-part" n="a">Art not so much the youngest,</seg>
-            <seg type="metrical-part" n="b">Nor peer thy eyen from thy head</seg>
-          </l>
-          <l n="465">
-            <seg type="metrical-part" n="a">The keenest in the army;</seg>
-            <seg type="metrical-part" n="b">But thou with words of bluster aye 561</seg>
-          </l>
-<milestone unit="line" ed="grc" n="465"/>
-          <l n="466">
-            <seg type="metrical-part" n="a">Dost prate: and wherefore need we</seg>
-            <seg type="metrical-part" n="b">Thy endless prating? here around</seg>
-          </l>
-          <l n="467">
-            <seg type="metrical-part" n="a">Are many talkers abler.</seg>
-            <seg type="metrical-part" n="b">Still the same coursers hold the lead, 566</seg>
-          </l>
-          <l n="468">
-            <seg type="metrical-part" n="a">Which at the turn were foremost,</seg>
-            <seg type="metrical-part" n="b">Eumelus' mares, and in the car</seg>
-          </l>
-          <l n="469">
-            <seg type="metrical-part" n="a">Himself the ribbons holdeth."</seg>
-            <seg type="metrical-part" n="b">To him with anger, front to front, 571</seg>
-          </l>
-          <l n="470">
-            <seg type="metrical-part" n="a">The Cretan leader answer'd:</seg>
-            <seg type="metrical-part" n="b">"O Ajax, ill-deviser, skill'd</seg>
-          </l>
-          <milestone unit="line" ed="grc" n="470"/>
-          <l n="471">
-            <seg type="metrical-part" n="a">In jibes; beneath the Argives</seg>
-            <seg type="metrical-part" n="b">In all beside thou fallest, sith 576</seg>
-          </l>
-          <l n="472">
-            <seg type="metrical-part" n="a">Ungracious is thy temper.</seg>
-            <seg type="metrical-part" n="b">Come! for a wager stake we now</seg>
-          </l>
-          <l n="473">
-            <seg type="metrical-part" n="a">A tripod or a cauldron,</seg>
-            <seg type="metrical-part" n="b">And let us both as umpire take 581</seg>
-          </l>
-          <l n="474">
-            <seg type="metrical-part" n="a">Atrides Agamemnon,</seg>
-            <seg type="metrical-part" n="b">Which steeds are foremost: so shalt</seg>
-          </l>
-          <l n="475">
-            <seg type="metrical-part" n="a">Thou discover by repayment."</seg>
-            <seg type="metrical-part" n="b">So spake he: but Oïleus' son, 586</seg>
-          </l>
-<milestone unit="line" ed="grc" n="475"/>
-          <l n="476">
-            <seg type="metrical-part" n="a">Swift Ajax, rose asudden</seg>
-            <seg type="metrical-part" n="b">In anger, ready to retort</seg>
-          </l>
-          <l n="477">
-            <seg type="metrical-part" n="a">With words of fierce contention.</seg>
-            <seg type="metrical-part" n="b">And now had he haply farther gone 591</seg>
-          </l>
-          <l n="478">
-            <seg type="metrical-part" n="a">The strife betwixt the chieftains,</seg>
-            <seg type="metrical-part" n="b">But that Achilles' self arose</seg>
-          </l>
-          <l n="479">
-            <seg type="metrical-part" n="a">And spake a word before them:</seg>
-            <seg type="metrical-part" n="b">"No longer with reproachful words 596</seg>
-          </l>
-          <l n="480">
-            <seg type="metrical-part" n="a">Of fierce contention answer,</seg>
-            <seg type="metrical-part" n="b">O Ajax and Idomeneus:</seg>
-          </l>
-<milestone unit="line" ed="grc" n="480"/>
-          <l n="481">
-            <seg type="metrical-part" n="a">Nor, troth, is it beseeming:</seg>
-            <seg type="metrical-part" n="b">Yea, with another were ye wroth, 601</seg>
-          </l>
-          <l n="482">
-            <seg type="metrical-part" n="a">Who should such deeds adventure.</seg>
-            <seg type="metrical-part" n="b">But ye in theatre abide</seg>
-          </l>
-          <l n="483">
-            <seg type="metrical-part" n="a">To watch the steeds' careering.</seg>
-            <seg type="metrical-part" n="b">Soon will they hither come themselves, 606</seg>
-          </l>
-          <l n="484">
-            <seg type="metrical-part" n="a">With rivalry excited;</seg>
-            <seg type="metrical-part" n="b">Then each the coursers shall beknow,</seg>
-          </l>
-          <l n="485">
-            <seg type="metrical-part" n="a">Which first, and which are second."</seg>
-            <seg type="metrical-part" n="b">He spake: but Tydeus' son drew near, 611</seg>
-          </l>
-<milestone unit="line" ed="grc" n="485"/>
-          <l n="486">
-            <seg type="metrical-part" n="a">Right urgent: on the shoulder</seg>
-            <seg type="metrical-part" n="b">He alway lash'd the steeds: but they</seg>
-          </l>
-          <l n="487">
-            <seg type="metrical-part" n="a">Tossing aloft accomplish'd</seg>
-            <seg type="metrical-part" n="b">Their speedy course: the charioteer 616</seg>
-          </l>
-          <l n="488">
-            <seg type="metrical-part" n="a">With daubs of dust was powder'd;</seg>
-            <seg type="metrical-part" n="b">And, as instinct, the chariot</seg>
-          </l>
-          <l n="489">
-            <seg type="metrical-part" n="a">With gold and tin bedizen'd</seg>
-            <seg type="metrical-part" n="b">Follow'd the nimble-footed steeds: 621</seg>
-          </l>
-          <l n="490">
-            <seg type="metrical-part" n="a">And scarce a track behind them</seg>
-            <seg type="metrical-part" n="b">In the thin dust the wheel had left;</seg>
-          </l>
-<milestone unit="line" ed="grc" n="490"/>
-          <pb n="404" facs="#434"/>
-          <l n="491">
-            <seg type="metrical-part" n="a">So flew they o'er the champaign.</seg>
-            <seg type="metrical-part" n="b">He in mid company drew up;</seg>
-          </l>
-          <l n="492">
-            <seg type="metrical-part" n="a">And from the horses trickled</seg>
-            <seg type="metrical-part" n="b">Abundant sweat down to the ground, 626</seg>
-          </l>
-          <l n="493">
-            <seg type="metrical-part" n="a">From crests and flanks and bosom.</seg>
-            <seg type="metrical-part" n="b">Then from the shining chariot</seg>
-          </l>
-          <l n="494">
-            <seg type="metrical-part" n="a">Himself to earth outspringing</seg>
-            <seg type="metrical-part" n="b">Hanged upon the yoke his scourge. 631</seg>
-          </l>
-          <l n="495">
-            <seg type="metrical-part" n="a">Without delay, on instant</seg>
-            <seg type="metrical-part" n="b">The valiant Sthenelus stept up,</seg>
-          </l>
-<milestone unit="line" ed="grc" n="495"/>
-          <l n="496">
-            <seg type="metrical-part" n="a">And seiz'd the prize behoten,</seg>
-            <seg type="metrical-part" n="b">And to his comrades high of heart 636</seg>
-          </l>
-          <l n="497">
-            <seg type="metrical-part" n="a">Handed the skilful woman</seg>
-            <seg type="metrical-part" n="b">And eared tripod, for their lord:</seg>
-          </l>
-          <l n="498">
-            <seg type="metrical-part" n="a">But he the steeds unharness'd.</seg>
-            <seg type="metrical-part" n="b">Next did Antilochus arrive, 641</seg>
-          </l>
-          <l n="499">
-            <seg type="metrical-part" n="a">Neleian horses driving,</seg>
-            <seg type="metrical-part" n="b">Who Menelaüs had by craft</seg>
-          </l>
-          <l n="500">
-            <seg type="metrical-part" n="a">Outstript, but not by swiftness:</seg>
-            <seg type="metrical-part" n="b">Yet even so with nimble steeds 646</seg>
-          </l>
-<milestone unit="line" ed="grc" n="500"/>
-          <l n="501">
-            <seg type="metrical-part" n="a">Clung Menelas behind him.</seg>
-            <seg type="metrical-part" n="b">As wheel is parted from the horse,</seg>
-          </l>
-          <l n="502">
-            <seg type="metrical-part" n="a">Who on the champaign straining</seg>
-            <seg type="metrical-part" n="b">Draweth his master with the car; 651</seg>
-          </l>
-          <l n="503">
-            <seg type="metrical-part" n="a">Whose outmost tailhair brusheth</seg>
-            <seg type="metrical-part" n="b">The running tire: (no mighty space,</seg>
-          </l>
-          <l n="504">
-            <seg type="metrical-part" n="a">However far he gallop:)</seg>
-            <seg type="metrical-part" n="b">So far by Nestor's spotless son 656</seg>
-          </l>
-          <l n="505">
-            <seg type="metrical-part" n="a">Was Menelaüs distanc'd;</seg>
-            <seg type="metrical-part" n="b">So far alone: yet was he once</seg>
-          </l>
-<milestone unit="line" ed="grc" n="505"/>
-          <l n="506">
-            <seg type="metrical-part" n="a">A full quoit-throw to rearward.</seg>
-            <seg type="metrical-part" n="b">Yet quickly won he back the loss; 661</seg>
-          </l>
-          <l n="507">
-            <seg type="metrical-part" n="a">For more and more the vigour</seg>
-            <seg type="metrical-part" n="b">Wax'd brave in Agamemnon's mare,</seg>
-          </l>
-          <l n="508">
-            <seg type="metrical-part" n="a">The glossy-coated Blazer.</seg>
-            <seg type="metrical-part" n="b">And if for both the chariots 665</seg>
-          </l>
-          <l n="509">
-            <seg type="metrical-part" n="a">The race had farther lasted,</seg>
-            <seg type="metrical-part" n="b">Full surely had she overpast,</seg>
-          </l>
-          <l n="510">
-            <seg type="metrical-part" n="a">Nor doubtful left the contest.</seg>
-            <seg type="metrical-part" n="b">Fourth came the bonny Merion, 670</seg>
-          </l>
-<milestone unit="line" ed="grc" n="510"/>
-          <l n="511">
-            <seg type="metrical-part" n="a">Idomeneus' attendant,</seg>
-            <seg type="metrical-part" n="b">Who a spearthrow was left behind</seg>
-          </l>
-          <l n="512">
-            <seg type="metrical-part" n="a">High-honour'd Menelaüs:</seg>
-            <seg type="metrical-part" n="b">For slowest were of all the field 675</seg>
-          </l>
-          <l n="513">
-            <seg type="metrical-part" n="a">His glossy-coated horses,</seg>
-            <seg type="metrical-part" n="b">And, as a charioteer, himself</seg>
-          </l>
-          <l n="514">
-            <seg type="metrical-part" n="a">Upon the lists was weakest.</seg>
-            <seg type="metrical-part" n="b">Latest of all, with long delay 680</seg>
-          </l>
-          <l n="515">
-            <seg type="metrical-part" n="a">Arriv'd Admetus' offspring,</seg>
-            <seg type="metrical-part" n="b">Dragging the beauteous chariot,</seg>
-          </l>
-<milestone unit="line" ed="grc" n="515"/>
-          <pb n="405" facs="#435"/>
-          <l n="516">
-            <seg type="metrical-part" n="a">From far his coursers driving.</seg>
-            <seg type="metrical-part" n="b">Godlike Achilles, fleet of foot,</seg>
-          </l>
-          <l n="517">
-            <seg type="metrical-part" n="a">Beheld the chief with pity,</seg>
-            <seg type="metrical-part" n="b">And to the Argives standing forth 686</seg>
-          </l>
-          <l n="518">
-            <seg type="metrical-part" n="a">Harangu'd in winged accents:</seg>
-            <seg type="metrical-part" n="b">"A noblest hero driveth last</seg>
-          </l>
-          <l n="519">
-            <seg type="metrical-part" n="a">His single-hoofed horses.</seg>
-            <seg type="metrical-part" n="b">But come ye; upon him a prize 691</seg>
-          </l>
-          <l n="520">
-            <seg type="metrical-part" n="a">Bestow we, as is seemly,</seg>
-            <seg type="metrical-part" n="b">In second rank: but Tydeus' son</seg>
-          </l>
-          <milestone unit="line" ed="grc" n="520"/>
-          <l n="521">
-            <seg type="metrical-part" n="a">Must with the first be honour'd."</seg>
-            <seg type="metrical-part" n="b">So spake he: then the chieftains 696</seg>
-          </l>
-          <l n="522">
-            <seg type="metrical-part" n="a">All unto his word assented.</seg>
-            <seg type="metrical-part" n="b">And now had he the mare on him</seg>
-          </l>
-          <l n="523">
-            <seg type="metrical-part" n="a">Bestow'd; (for so the Achaians</seg>
-            <seg type="metrical-part" n="b">Approv'd;) but that Antilochus, 701</seg>
-          </l>
-          <l n="524">
-            <seg type="metrical-part" n="a">Greathearted Nestor's offspring,</seg>
-            <seg type="metrical-part" n="b">Arose, and challeng'd to account</seg>
-          </l>
-          <l n="525">
-            <seg type="metrical-part" n="a">Achilles, son of Peleus:</seg>
-            <seg type="metrical-part" n="b">"Achilles! troth, shall I with thee 706</seg>
-          </l>
-<milestone unit="line" ed="grc" n="525"/>
-          <l n="526">
-            <seg type="metrical-part" n="a">Be wrathful, if thou complish</seg>
-            <seg type="metrical-part" n="b">This word: for of my proper prize</seg>
-          </l>
-          <l n="527">
-            <seg type="metrical-part" n="a">Thou thinkest to despoil me,</seg>
-            <seg type="metrical-part" n="b">In pity, that his speedy mares 711</seg>
-          </l>
-          <l n="528">
-            <seg type="metrical-part" n="a">And chariot were crippled</seg>
-            <seg type="metrical-part" n="b">And that himself is worthy: yet</seg>
-          </l>
-          <l n="529">
-            <seg type="metrical-part" n="a">His duty was, to offer</seg>
-            <seg type="metrical-part" n="b">Vows to th' immortals; never then 716</seg>
-          </l>
-          <l n="530">
-            <seg type="metrical-part" n="a">Had he been thrown to rearmost.</seg>
-            <seg type="metrical-part" n="b">Pity and love to gratify,</seg>
-          </l>
-          <milestone unit="line" ed="grc" n="530"/>
-          <l n="531">
-            <seg type="metrical-part" n="a">Thy tents have gold in plenty,</seg>
-            <seg type="metrical-part" n="b">And brass and sheep and servant-maids 721</seg>
-          </l>
-          <l n="532">
-            <seg type="metrical-part" n="a">And single-hoofed horses:</seg>
-            <seg type="metrical-part" n="b">Of these thou mayest afterward</seg>
-          </l>
-          <l n="533">
-            <seg type="metrical-part" n="a">Take greater prize to give him,</seg>
-            <seg type="metrical-part" n="b">Or even now before us: so 726</seg>
-          </l>
-          <l n="534">
-            <seg type="metrical-part" n="a">The Achaians shall approve thee.</seg>
-            <seg type="metrical-part" n="b">But I to none will yield the mare:</seg>
-          </l>
-          <l n="535">
-            <seg type="metrical-part" n="a">Whoever would pretensions</seg>
-            <seg type="metrical-part" n="b">To her adventure, must with me 731</seg>
-          </l>
-<milestone unit="line" ed="grc" n="535"/>
-          <l n="536">
-            <seg type="metrical-part" n="a">Prepare to enter combat."</seg>
-            <seg type="metrical-part" n="b">So vaunted he, and drew a smile</seg>
-          </l>
-          <l n="537">
-            <seg type="metrical-part" n="a">From Achileus swiftfooted,</seg>
-            <seg type="metrical-part" n="b">Delighting in Antilochus, 736</seg>
-          </l>
-          <l n="538">
-            <seg type="metrical-part" n="a">Who was his dear companion.</seg>
-            <seg type="metrical-part" n="b">Thereat reciprocal to him</seg>
-          </l>
-          <l n="539">
-            <seg type="metrical-part" n="a">He winged accents utter'd:</seg>
-            <seg type="metrical-part" n="b">"Antilochus! if verily 741</seg>
-          </l>
-          <l n="540">
-            <seg type="metrical-part" n="a">Thou biddest to Eumelus</seg>
-            <seg type="metrical-part" n="b">Fresh prize from out my stores to give,</seg>
-          </l>
-          <milestone unit="line" ed="grc" n="540"/>
-          <pb n="406" facs="#436"/>
-          <l n="541">
-            <seg type="metrical-part" n="a">This also will I complish:</seg>
-            <seg type="metrical-part" n="b">A corslet I on him bestow, 746</seg>
-          </l>
-          <l n="542">
-            <seg type="metrical-part" n="a">Which from Asteropæus</seg>
-            <seg type="metrical-part" n="b">I took: of brass the substance is,</seg>
-          </l>
-          <l n="543">
-            <seg type="metrical-part" n="a">But wreath'd around the margin</seg>
-            <seg type="metrical-part" n="b">Are streams of shining tin; and this 751</seg>
-          </l>
-          <l n="544">
-            <seg type="metrical-part" n="a">A goodly price would yield him."</seg>
-            <seg type="metrical-part" n="b">He spake, and to Automedon,</seg>
-          </l>
-          <l n="545">
-            <seg type="metrical-part" n="a">His comrade dear, gave order</seg>
-            <seg type="metrical-part" n="b">To bear it from his tent: but he 756</seg>
-          </l>
-<milestone unit="line" ed="grc" n="545"/>
-          <l n="546">
-            <seg type="metrical-part" n="a">Quickly return'd, and brought it,</seg>
-            <seg type="metrical-part" n="b">And plac'd it in Eumelus' hands;</seg>
-          </l>
-          <l n="547">
-            <seg type="metrical-part" n="a">And he with joy receiv'd it.</seg>
-            <seg type="metrical-part" n="b">But Menelaüs, sore at heart, 761</seg>
-          </l>
-          <l n="548">
-            <seg type="metrical-part" n="a">Hereon stood forth among them,</seg>
-            <seg type="metrical-part" n="b">In wrath against Antilochus</seg>
-          </l>
-          <l n="549">
-            <seg type="metrical-part" n="a">Unmeasur'd: but a herald</seg>
-            <seg type="metrical-part" n="b">Into his hand a sceptre plac'd, 766</seg>
-          </l>
-          <l n="550">
-            <seg type="metrical-part" n="a">And challeng'd all the Argives</seg>
-            <seg type="metrical-part" n="b">To silence: then the godlike man</seg>
-          </l>
-<milestone unit="line" ed="grc" n="550"/>
-          <l n="551">
-            <seg type="metrical-part" n="a">Spake out his heart before them:</seg>
-            <seg type="metrical-part" n="b">"Antilochus! who heretofore 771</seg>
-          </l>
-          <l n="552">
-            <seg type="metrical-part" n="a">Wast sage; what now hath ail'd thee?</seg>
-            <seg type="metrical-part" n="b">Loss to my coursers hast thou wrought,</seg>
-          </l>
-          <l n="553">
-            <seg type="metrical-part" n="a">And to my skill dishonour,</seg>
-            <seg type="metrical-part" n="b">Thrusting thy horses to the front, 776</seg>
-          </l>
-          <l n="554">
-            <seg type="metrical-part" n="a">Which were by far the worser.</seg>
-            <seg type="metrical-part" n="b">But come now! ye who leaders are</seg>
-          </l>
-          <l n="555">
-            <seg type="metrical-part" n="a">And governours to Argos,</seg>
-            <seg type="metrical-part" n="b">Pass ye a sentence in the midst 781</seg>
-          </l>
-<milestone unit="line" ed="grc" n="555"/>
-          <l n="556">
-            <seg type="metrical-part" n="a">For both, with even fairness;</seg>
-            <seg type="metrical-part" n="b">Lest that hereafter haply one</seg>
-          </l>
-          <l n="557">
-            <seg type="metrical-part" n="a">Of brazen-clad Achaians</seg>
-            <seg type="metrical-part" n="b">Say, Menelaüs did by lies 786</seg>
-          </l>
-          <l n="558">
-            <seg type="metrical-part" n="a">Antilochus o'erpower,</seg>
-            <seg type="metrical-part" n="b">And carried off the mare, altho'</seg>
-          </l>
-          <l n="559">
-            <seg type="metrical-part" n="a">His steeds were far the worser,</seg>
-            <seg type="metrical-part" n="b">Only that he himself in might 791</seg>
-          </l>
-          <l n="560">
-            <seg type="metrical-part" n="a">And majesty was grander.</seg>
-            <seg type="metrical-part" n="b">Or else, come! I myself will judge;</seg>
-          </l>
-<milestone unit="line" ed="grc" n="560"/>
-          <pb n="407" facs="#437"/>
-          <l n="561">
-            <seg type="metrical-part" n="a">Nor do I ween that any</seg>
-            <seg type="metrical-part" n="b">Of Danaï will this reprove; 796</seg>
-          </l>
-          <l n="562">
-            <seg type="metrical-part" n="a">For fair shall be my trial.</seg>
-            <seg type="metrical-part" n="b">Antilochus! Jove-nurtur'd! hark!</seg>
-          </l>
-          <l n="563">
-            <seg type="metrical-part" n="a">Stand thou before the chariot</seg>
-            <seg type="metrical-part" n="b">And coursers: hold beside thee 801</seg>
-          </l>
-          <l n="564">
-            <seg type="metrical-part" n="a">The lash wherewith thou dravest:</seg>
-            <seg type="metrical-part" n="b">Touch the steeds, and swear by Neptune</seg>
-          </l>
-          <l n="565">
-            <seg type="metrical-part" n="a">Landshaking, that thou diddest not</seg>
-            <seg type="metrical-part" n="b">By guile my car entangle." 806</seg>
-          </l>
-<milestone unit="line" ed="grc" n="565"/>
-          <l n="566">
-            <seg type="metrical-part" n="a">But him did sage Antilochus</seg>
-            <seg type="metrical-part" n="b">Confronting gently answer:</seg>
-          </l>
-          <l n="567">
-            <seg type="metrical-part" n="a">"No more of this; for, troth, am I</seg>
-            <seg type="metrical-part" n="b">Than thee, prince Menelaüs! 811</seg>
-          </l>
-          <l n="568">
-            <seg type="metrical-part" n="a">Younger by far, and thou than me</seg>
-            <seg type="metrical-part" n="b">Art loftier and braver.</seg>
-          </l>
-          <l n="569">
-            <seg type="metrical-part" n="a">Well knowest thou, how youthful men</seg>
-            <seg type="metrical-part" n="b">In trespasses are tangled; 815</seg>
-          </l>
-          <l n="570">
-            <seg type="metrical-part" n="a">For quicker their perceptions are,</seg>
-            <seg type="metrical-part" n="b">But flimsy is their judgment.</seg>
-          </l>
-<milestone unit="line" ed="grc" n="570"/>
-          <l n="571">
-            <seg type="metrical-part" n="a">Therefore thy heart will bear with me.</seg>
-            <seg type="metrical-part" n="b">Also to thee resign I 820</seg>
-          </l>
-          <l n="572">
-            <seg type="metrical-part" n="a">The mare, which I had won: and eke</seg>
-            <seg type="metrical-part" n="b">If more thou shouldest ask me</seg>
-          </l>
-          <l n="573">
-            <seg type="metrical-part" n="a">From my own stores to bring, this too</seg>
-            <seg type="metrical-part" n="b">At once would I present thee</seg>
-          </l>
-          <l n="574">
-            <seg type="metrical-part" n="a">Right willing, rather than with thee,</seg>
-            <seg type="metrical-part" n="b">Jove-nurtur'd! meet displeasure 826</seg>
-          </l>
-          <l n="575">
-            <seg type="metrical-part" n="a">All days, and an offender be</seg>
-            <seg type="metrical-part" n="b">Before the unseen powers."</seg>
-          </l>
-<milestone unit="line" ed="grc" n="575"/>
-          <l n="576">
-            <seg type="metrical-part" n="a">So spake greathearted Nestor's</seg>
-            <seg type="metrical-part" n="b">Son, and led the mare and plac'd her 831</seg>
-          </l>
-          <l n="577">
-            <seg type="metrical-part" n="a">In hands of Menelaus: then</seg>
-            <seg type="metrical-part" n="b">His royal heart was melted.</seg>
-          </l>
-          <l n="578">
-            <seg type="metrical-part" n="a">As in a growing crop of wheat,</seg>
-            <seg type="metrical-part" n="b">When all the acres bristle, 835</seg>
-          </l>
-          <l n="579">
-            <seg type="metrical-part" n="a">A dew, descending genial,</seg>
-            <seg type="metrical-part" n="b">The ears doth warm and soften,</seg>
-          </l>
-          <l n="580">
-            <seg type="metrical-part" n="a">So, Menelaūs! then to thee</seg>
-            <seg type="metrical-part" n="b">The heart within was soften'd. 840</seg>
-          </l>
-<milestone unit="line" ed="grc" n="580"/>
-          <l n="581">
-            <seg type="metrical-part" n="a">Thereat the prince accosting him</seg>
-            <seg type="metrical-part" n="b">Did winged accents utter:</seg>
-          </l>
-          <l n="582">
-            <seg type="metrical-part" n="a">"Antilochus! now unto thee</seg>
-            <seg type="metrical-part" n="b">Myself will yield my anger:</seg>
-          </l>
-          <l n="583">
-            <seg type="metrical-part" n="a">For never wast thou heretofore</seg>
-            <seg type="metrical-part" n="b">Askew, nor airy-witted. 845</seg>
-          </l>
-          <l n="584">
-            <seg type="metrical-part" n="a">Youth hath thy mind o'ercome: henceforth</seg>
-            <seg type="metrical-part" n="b">Shun thou to trick thy betters.</seg>
-          </l>
-          <l n="585">
-            <seg type="metrical-part" n="a">Other Achaian man mayhap</seg>
-            <seg type="metrical-part" n="b">Had not so lightly calm'd me. 850</seg>
-          </l>
-<milestone unit="line" ed="grc" n="585"/>
-          <l n="586">
-            <seg type="metrical-part" n="a">But troth, much thou endured hast</seg>
-            <seg type="metrical-part" n="b">For me, and much hast toiled,</seg>
-          </l>
-          <l n="587">
-            <seg type="metrical-part" n="a">As thy good sire and brother too;</seg>
-            <seg type="metrical-part" n="b">Therefore to thy entreaty</seg>
-          </l>
-          <l n="588">
-            <seg type="metrical-part" n="a">Will I comply: yea, and the mare,</seg>
-            <seg type="metrical-part" n="b">Albeit mine, — I yield her: 585</seg>
-          </l>
-          <l n="589">
-            <seg type="metrical-part" n="a">So shall these learn, that ne'er my heart</seg>
-            <seg type="metrical-part" n="b">Was stern and overweening."</seg>
-          </l>
-          <l n="590">
-            <seg type="metrical-part" n="a">He spake; and to Noëmon's hands,</seg>
-            <seg type="metrical-part" n="b">Antilochus' companion, 591</seg>
-          </l>
-<milestone unit="line" ed="grc" n="590"/>
-          <l n="591">
-            <seg type="metrical-part" n="a">Gave up the mare, and took himself</seg>
-            <seg type="metrical-part" n="b">The all-resplendent cauldron.</seg>
-          </l>
-          <l n="592">
-            <seg type="metrical-part" n="a">And Merion, who fourth drave in,</seg>
-            <seg type="metrical-part" n="b">Gat the two golden talents. 595</seg>
-          </l>
-          <l n="593">
-            <seg type="metrical-part" n="a">But the fifth prize, which still was left,</seg>
-            <seg type="metrical-part" n="b">The double urn; — to Nestor</seg>
-          </l>
-          <l n="594">
-            <seg type="metrical-part" n="a">Achilles thro' the Argive throng</seg>
-            <seg type="metrical-part" n="b">Bare it, and spake beside him:</seg>
-          </l>
-          <l n="595">
-            <seg type="metrical-part" n="a">"Here now! let this to thee alsó,</seg>
-            <seg type="metrical-part" n="b">Old friend! be made a keepsake 601</seg>
-          </l>
-<milestone unit="line" ed="grc" n="595"/>
-          <l n="596">
-            <seg type="metrical-part" n="a">For record of Patroclus' grave:</seg>
-            <seg type="metrical-part" n="b">For never among Argives</seg>
-          </l>
-          <l n="597">
-            <seg type="metrical-part" n="a">Himself shalt thou again behold.</seg>
-            <seg type="metrical-part" n="b">And hark! this prize I give thee 605</seg>
-          </l>
-          <l n="598">
-            <seg type="metrical-part" n="a">Gratis! for neither race of foot</seg>
-            <seg type="metrical-part" n="b">Nor darting wilt thou enter,</seg>
-          </l>
-          <l n="599">
-            <seg type="metrical-part" n="a">Wrestling, nor boxing: for on thee</seg>
-            <seg type="metrical-part" n="b">Stern Eld already presseth."</seg>
-          </l>
-          <l n="600">
-            <seg type="metrical-part" n="a">He spake, and plac'd it in his hands;</seg>
-            <seg type="metrical-part" n="b">And he with joy receiv'd it, 611</seg>
-          </l>
-<milestone unit="line" ed="grc" n="600"/>
-          <l n="601">
-            <seg type="metrical-part" n="a">And unto him reciprocal</seg>
-            <seg type="metrical-part" n="b">Harangu'd in winged accents:</seg>
-          </l>
-          <l n="602">
-            <seg type="metrical-part" n="a">"Ay, verily; all this, my child!</seg>
-            <seg type="metrical-part" n="b">Discreetly hast thou spoken. 615</seg>
-          </l>
-          <l n="603">
-            <seg type="metrical-part" n="a">For friend! their early hardihood</seg>
-            <seg type="metrical-part" n="b">Hath fail'd my limbs: no longer</seg>
-          </l>
-          <l n="604">
-            <seg type="metrical-part" n="a">The feet rush agile, nor the hands</seg>
-            <seg type="metrical-part" n="b">On either side my shoulders.</seg>
-          </l>
-          <l n="605">
-            <seg type="metrical-part" n="a">O that I still were só in youth,</seg>
-            <seg type="metrical-part" n="b">And unimpair'd my vigour, 621</seg>
-          </l>
-<milestone unit="line" ed="grc" n="605"/>
-          <l n="606">
-            <seg type="metrical-part" n="a">As when the Epeians did of yore</seg>
-            <seg type="metrical-part" n="b">King Amarynkeus bury,</seg>
-          </l>
-          <l n="607">
-            <seg type="metrical-part" n="a">And in Buprasium his sons</seg>
-            <seg type="metrical-part" n="b">Set forth the royal prizes.</seg>
-          </l>
-          <l n="608">
-            <seg type="metrical-part" n="a">Then no one might with me compare,</seg>
-            <seg type="metrical-part" n="b">Neither among the Epeians 626</seg>
-          </l>
-          <l n="609">
-            <seg type="metrical-part" n="a">Or mighty-soul'd Ætolians,</seg>
-            <seg type="metrical-part" n="b">Nor from my native Pylos.</seg>
-          </l>
-          <l n="610">
-            <seg type="metrical-part" n="a">Then Clytomedes conquer'd I</seg>
-            <seg type="metrical-part" n="b">In boxing, son of Enops; 631</seg>
-          </l>
+<pb n="400" facs="#430"/>
+  <l n="365">
+    <seg type="metrical-part" n="a">With eager menace: speedily</seg>
+    <seg type="metrical-part" n="b">the breadth of plain travers'd they,</seg>
+  </l>
+
+  <lb n="365"/>
+  <l n="366">
+    <seg type="metrical-part" n="a">Far from the galleys; but the dust</seg>
+    <seg type="metrical-part" n="b">beneath their breasts uplifted 365</seg>
+  </l>
+  <l n="367">
+    <seg type="metrical-part" n="a">Stood as a cloud, or like a squall;</seg>
+    <seg type="metrical-part" n="b">and from the horses' shoulders</seg>
+  </l>
+  <l n="368">
+    <seg type="metrical-part" n="a">Along the breezes wav'd the manes:</seg>
+    <seg type="metrical-part" n="b">the cars, at one while vanish'd,</seg>
+  </l>
+  <l n="369">
+    <seg type="metrical-part" n="a">Sunk in the manyfeeding earth;</seg>
+    <seg type="metrical-part" n="b">elsewhile aloft they bounded.</seg>
+  </l>
+  <lb n="370"/>
+  <l n="370">
+    <seg type="metrical-part" n="a">Up stood the drivers from their seats,</seg>
+    <seg type="metrical-part" n="b">with hearts for conquest panting:</seg>
+  </l>
+  <l n="371">
+    <seg type="metrical-part" n="a">Each shouted to his steeds,</seg>
+    <seg type="metrical-part" n="b">and they in dusty tempest scuffled. 371</seg>
+  </l>
+  <l n="372">
+    <seg type="metrical-part" n="a">But when, fulfilling their career,</seg>
+    <seg type="metrical-part" n="b">the coursers fleetly scudding</seg>
+  </l>
+  <l n="373">
+    <seg type="metrical-part" n="a">Back to the hoary brine would come,</seg>
+    <seg type="metrical-part" n="b">then were the odds apparent</seg>
+  </l>
+  <lb n="375"/>
+  <l n="374">
+    <seg type="metrical-part" n="a">And worth of each; for hard was stretch'd</seg>
+    <seg type="metrical-part" n="b">the race forthwith: and quickly</seg>
+  </l>
+  <l n="375">
+    <seg type="metrical-part" n="a">The rapid mares of Pheres' stud</seg>
+    <seg type="metrical-part" n="b">foremost of all outstarted.</seg>
+  </l>
+  <l n="376">
+    <seg type="metrical-part" n="a">Behind, the stallions of Tros</seg>
+    <seg type="metrical-part" n="b">by Diomed were driven 376</seg>
+  </l>
+  <l n="377">
+    <seg type="metrical-part" n="a">So near, they alway seem'd as tho'</seg>
+    <seg type="metrical-part" n="b">they on the car would mount them.</seg>
+  </l>
+  <lb n="380"/>
+  <l n="378">
+    <seg type="metrical-part" n="a">Eumelus' back and shoulders broad</seg>
+    <seg type="metrical-part" n="b">were warm beneath their panting;</seg>
+  </l>
+  <l n="379">
+    <seg type="metrical-part" n="a">For aye against him lay their heads,</seg>
+    <seg type="metrical-part" n="b">as close behind they gallop'd.</seg>
+  </l>
+  <l n="380">
+    <seg type="metrical-part" n="a">And now they haply would have pass'd,</seg>
+    <seg type="metrical-part" n="b">or doubtful left the contest, 381</seg>
+  </l>
+  <l n="381">
+    <seg type="metrical-part" n="a">But bright Apollo, wroth of old</seg>
+    <seg type="metrical-part" n="b">against the son of Tydeus,</seg>
+  </l>
+  <lb n="385"/>
+  <l n="382">
+    <seg type="metrical-part" n="a">Struck from his hands the shining scourge:</seg>
+    <seg type="metrical-part" n="b">then tears from out his eyen</seg>
+  </l>
+  <l n="383">
+    <seg type="metrical-part" n="a">Fell in his anger, when the mares</seg>
+    <seg type="metrical-part" n="b">onward and onward winning 386</seg>
+  </l>
+  <l n="384">
+    <seg type="metrical-part" n="a">He saw; while, of the lash bereft,</seg>
+    <seg type="metrical-part" n="b">his own career was damag'd.</seg>
+  </l>
+  <l n="385">
+    <seg type="metrical-part" n="a">Nor did Athene fail to mark</seg>
+    <seg type="metrical-part" n="b">Apollo's fraudful dealing</seg>
+  </l>
+  <l n="386">
+    <seg type="metrical-part" n="a">Against Tydides: quickly she</seg>
+    <seg type="metrical-part" n="b">the people's shepherd chased,</seg>
+  </l>
+  <l n="387">
+    <seg type="metrical-part" n="a">And gave him back the scourge,</seg>
+    <seg type="metrical-part" n="b">and breath'd into his horses vigour; 390</seg>
+  </l>
+  <l n="388">
+    <seg type="metrical-part" n="a">Then, wrathful with Admetus' son,</seg>
+    <seg type="metrical-part" n="b">pursued, and brake asunder</seg>
+  </l>
+  <l n="389">
+    <seg type="metrical-part" n="a">His yoke: down fell the pole:</seg>
+    <seg type="metrical-part" n="b">the steeds this way and that were parted.</seg>
+  </l>
+  <l n="390">
+    <seg type="metrical-part" n="a">Out of the chariot himself</seg>
+    <seg type="metrical-part" n="b">beside the wheel was rolled</seg>
+  </l>
+  <l n="391">
+    <seg type="metrical-part" n="a">On to his elbow: nostrils, mouth,</seg>
+    <seg type="metrical-part" n="b">forehead, and brow were mangled,</seg>
+  </l>
+  <lb n="396"/>
+  <l n="392">
+    <seg type="metrical-part" n="a">His eyen were with tears brimful,</seg>
+    <seg type="metrical-part" n="b">his throat was drain'd of juices. 396</seg>
+  </l>
+  <l n="393">
+    <seg type="metrical-part" n="a">Then past him Tydeus' son held on</seg>
+    <seg type="metrical-part" n="b">the singlehoofed horses,</seg>
+  </l>
+  <l n="394">
+    <seg type="metrical-part" n="a">Beyond the others far ahead</seg>
+    <seg type="metrical-part" n="b">forth springing: for Athene</seg>
+  </l>
+  <lb n="400"/>
+  <l n="395">
+    <seg type="metrical-part" n="a">Into his horses vigour breath'd,</seg>
+    <seg type="metrical-part" n="b">and on himself put glory.</seg>
+  </l>
+  <l n="396">
+    <seg type="metrical-part" n="a">After him kept the son of Atreus,</seg>
+    <seg type="metrical-part" n="b">auburn Menelaüs. 400</seg>
+  </l>
+  <l n="397">
+    <seg type="metrical-part" n="a">Then did Antilochus rebuke</seg>
+    <seg type="metrical-part" n="b">the horses of his father:</seg>
+  </l>
+  <l n="398">
+    <seg type="metrical-part" n="a">"Step on, ye also; strain to speed.</seg>
+    <seg type="metrical-part" n="b">I claim not, that the coursers</seg>
+  </l>
+  <lb n="405"/>
+  <l n="399">
+    <seg type="metrical-part" n="a">Of Tydeus' skilfulhearted son</seg>
+    <seg type="metrical-part" n="b">ye vanquish; sith Athene 405</seg>
+  </l>
+  <note n="376" place="bottom" type="translator" corresp="urn:cts:greekLit:tlg0012.tlg001:23.376">Pheres was father of Admetus and grandfather of Eumelus.</note>
+
+  <pb n="401" facs="#431"/>
+  <l n="400">
+    <seg type="metrical-part" n="a">To them hath swiftness granted now,</seg>
+    <seg type="metrical-part" n="b">and on himself put glory.</seg>
+  </l>
+  <l n="401">
+    <seg type="metrical-part" n="a">But overhend Atrides' steeds</seg>
+    <seg type="metrical-part" n="b">and be not left behind them,</seg>
+  </l>
+  <l n="402">
+    <seg type="metrical-part" n="a">Quickly; lest in disgrace ye sink,</seg>
+    <seg type="metrical-part" n="b">if Blazer, she, a female, —</seg>
+  </l>
+  <l n="403">
+    <seg type="metrical-part" n="a">Outstrip you in the race. And why</seg>
+    <seg type="metrical-part" n="b">fall ye behind, my bravest?</seg>
+  </l>
+  <l n="404">
+    <seg type="metrical-part" n="a">For roundly will I say, and this</seg>
+    <seg type="metrical-part" n="b">shall be a fact accomplish'd: 410</seg>
+  </l>
+  <l n="405">
+    <seg type="metrical-part" n="a">No longer shall ye twain receive</seg>
+    <seg type="metrical-part" n="b">grooming and food with Nestor</seg>
+  </l>
+  <l n="406">
+    <seg type="metrical-part" n="a">The people's shepherd: he forthwith</seg>
+    <seg type="metrical-part" n="b">by the sharp brass will slay you,</seg>
+  </l>
+  <l n="407">
+    <seg type="metrical-part" n="a">If by your heartlessness a prize</seg>
+    <seg type="metrical-part" n="b">inferiour we carry.</seg>
+  </l>
+  <l n="408">
+    <seg type="metrical-part" n="a">But keep ye pace and follow hard</seg>
+    <seg type="metrical-part" n="b">and scud with extreme effort :</seg>
+  </l>
+  <l n="409">
+    <seg type="metrical-part" n="a">And I myself will machinate</seg>
+    <seg type="metrical-part" n="b">and will espy to complish, 415</seg>
+  </l>
+  <l n="410">
+    <seg type="metrical-part" n="a">If in the narrows of the road</seg>
+    <seg type="metrical-part" n="b">I find a place to pass him."</seg>
+  </l>
+  <l n="411">
+    <seg type="metrical-part" n="a">So spake he earnest: they beneath</seg>
+    <seg type="metrical-part" n="b">their lord's upbraidment quailing,</seg>
+  </l>
+  <l n="412">
+    <seg type="metrical-part" n="a">Ran swifter on, awhile; but soon</seg>
+    <seg type="metrical-part" n="b">Antilochus war-biding 420</seg>
+  </l>
+  <lb n="420"/>
+  <l n="413">
+    <seg type="metrical-part" n="a">Saw, where the road was rent away</seg>
+    <seg type="metrical-part" n="b">and hollow'd by a torrent,</seg>
+  </l>
+  <l n="414">
+    <seg type="metrical-part" n="a">Whose pent-up waters sapp'd the ground</seg>
+    <seg type="metrical-part" n="b">and narrow left the passage :</seg>
+  </l>
+  <l n="415">
+    <seg type="metrical-part" n="a">Hereby did Menelaüs drive,</seg>
+    <seg type="metrical-part" n="b">concourse of wheels avoiding.</seg>
+  </l>
+  <l n="416">
+    <seg type="metrical-part" n="a">But devious his rival held</seg>
+    <seg type="metrical-part" n="b">the singlehoofed horses,</seg>
+  </l>
+  <l n="417">
+    <seg type="metrical-part" n="a">Pressing by shorter cut oblique</seg>
+    <seg type="metrical-part" n="b">to meet within the narrows. 425</seg>
+  </l>
+  <l n="418">
+    <seg type="metrical-part" n="a">Then to Antilochus aloud</seg>
+    <seg type="metrical-part" n="b">Atrides cried in terror:</seg>
+  </l>
+  <l n="419">
+    <seg type="metrical-part" n="a">"Antilochus! infatuate</seg>
+    <seg type="metrical-part" n="b">thy course: hold-in thy horses,</seg>
+  </l>
+  <l n="420">
+    <seg type="metrical-part" n="a">While narrow is the road; and soon,</seg>
+    <seg type="metrical-part" n="b">where it is broader, pass me;</seg>
+  </l>
+  
+  <l n="421">
+    <seg type="metrical-part" n="a">Lest on the chariot thou strike</seg>
+    <seg type="metrical-part" n="b">and bring on both disaster." 430</seg>
+  </l>
+  <l n="422">
+    <seg type="metrical-part" n="a">So spake he; but Antilochus</seg>
+    <seg type="metrical-part" n="b">drave nearer still and nearer,</seg>
+  </l>
+  <l n="423">
+    <seg type="metrical-part" n="a">Urging the horses with the scourge,</seg>
+    <seg type="metrical-part" n="b">alike as tho' he heard not.</seg>
+  </l>
+  <l n="424">
+    <seg type="metrical-part" n="a">Then, far as may a youthful man,</seg>
+    <seg type="metrical-part" n="b">his stalwart vigour trying,</seg>
+  </l>
+  <l n="425">
+    <seg type="metrical-part" n="a">Over his shoulder fling the quoit,</seg>
+    <seg type="metrical-part" n="b">so far they onward hurried. 435</seg>
+  </l>
+  <l n="426">
+    <seg type="metrical-part" n="a">But Atreus' son in mid career</seg>
+    <seg type="metrical-part" n="b">refrain'd his speed on purpose,</seg>
+  </l>
+  <lb n="435"/>
+  <l n="427">
+    <seg type="metrical-part" n="a">Lest that the singlehoofed steeds</seg>
+    <seg type="metrical-part" n="b">within the road be tangled,</seg>
+  </l>
+  <l n="428">
+    <seg type="metrical-part" n="a">And overturn the chariots</seg>
+    <seg type="metrical-part" n="b">welljoined: so the drivers</seg>
+  </l>
+  <l n="429">
+    <seg type="metrical-part" n="a">Wouldin the dust themselves be cast,</seg>
+    <seg type="metrical-part" n="b">for victory too eager.</seg>
+  </l>
+  <l n="430">
+    <seg type="metrical-part" n="a">Then auburn Menelaüs spake</seg>
+    <seg type="metrical-part" n="b">a word of bitter chiding: 440</seg>
+  </l>
+  <l n="431">
+    <seg type="metrical-part" n="a">"Antilochus! of all mankind</seg>
+    <seg type="metrical-part" n="b">none is than thee more deadly.</seg>
+  </l>
+  <l n="432">
+    <seg type="metrical-part" n="a">Avaunt to ruin! falsely do</seg>
+    <seg type="metrical-part" n="b">the Achaians hold thee prudent.</seg>
+  </l>
+  <l n="433">
+    <seg type="metrical-part" n="a">But I will challenge thee to oath,</seg>
+    <seg type="metrical-part" n="b">and of the prize despoil thee.”</seg>
+  </l>
+  <l n="434">
+    <seg type="metrical-part" n="a">After such words, with cheery voice</seg>
+    <seg type="metrical-part" n="b">he to the coursers shouted :</seg>
+  </l>
+  <note n="424" place="bottom" type="translator" corresp="urn:cts:greekLit:tlg0012.tlg001:23.424">I express what I suppose to be the poet's meaning.</note>
+
+  <pb n="402" facs="#432"/>
+  <l n="435">
+    <seg type="metrical-part" n="a">"Stay not behind, nor wait to think,</seg>
+    <seg type="metrical-part" n="b">albeit griev'd, my gallants!</seg>
+  </l>
+  <l n="436">
+    <seg type="metrical-part" n="a">To them far earlier, I trow,</seg>
+    <seg type="metrical-part" n="b">will feet and knees be weary, 444</seg>
+  </l>
+  <l n="437">
+    <seg type="metrical-part" n="a">Than unto you: for from them both</seg>
+    <seg type="metrical-part" n="b">the strength of youth is parted."</seg>
+  </l>
+  <l n="438">
+    <seg type="metrical-part" n="a">So spake he earnest: they beneath</seg>
+    <seg type="metrical-part" n="b">their lord's upbraidment quailing,</seg>
+  </l>
+  <l n="439">
+    <seg type="metrical-part" n="a">Ran swifter on, and speedily</seg>
+    <seg type="metrical-part" n="b">came nearer, and yet nearer. 450</seg>
+  </l>
+  <l n="440">
+    <seg type="metrical-part" n="a">Meanwhile in theatre behind</seg>
+    <seg type="metrical-part" n="b">the Argives, watching</seg>
+  </l>
+  <l n="441">
+    <seg type="metrical-part" n="a">The coursers, who across the plain</seg>
+    <seg type="metrical-part" n="b">in dusty tempest scuffled.</seg>
+  </l>
+  <l n="442">
+    <seg type="metrical-part" n="a">The Cretan chief Idomeneus</seg>
+    <seg type="metrical-part" n="b">did first espy the horses;</seg>
+  </l>
+  <l n="443">
+    <seg type="metrical-part" n="a">For he beyond the company</seg>
+    <seg type="metrical-part" n="b">to scan around sat forward,</seg>
+  </l>
+  <l n="444">
+    <seg type="metrical-part" n="a">And heard the charioteer afar,</seg>
+    <seg type="metrical-part" n="b">and knew his loud upbraidment, 455</seg>
+  </l>
+  <l n="445">
+    <seg type="metrical-part" n="a">And saw a signal horse in front,</seg>
+    <seg type="metrical-part" n="b">who else was bay of colour,</seg>
+  </l>
+  <lb n="455"/>
+  <l n="446">
+    <seg type="metrical-part" n="a">But bare a white spot, like a moon,</seg>
+    <seg type="metrical-part" n="b">upon his forehead blazing.</seg>
+  </l>
+  <l n="447">
+    <seg type="metrical-part" n="a">Then stood Idomeneus upright,</seg>
+    <seg type="metrical-part" n="b">and spake before the Argives:</seg>
+  </l>
+  <l n="448">
+    <seg type="metrical-part" n="a">"O friends, who of the Argive folk</seg>
+    <seg type="metrical-part" n="b">are governours and leaders, 460</seg>
+  </l>
+  <l n="449">
+    <seg type="metrical-part" n="a">Do I alone the coursers view,</seg>
+    <seg type="metrical-part" n="b">or eke do ye descry them ?</seg>
+  </l>
+  <l n="450">
+    <seg type="metrical-part" n="a">Another pair of steeds than erst,</seg>
+    <seg type="metrical-part" n="b">methinketh, now are foremost;</seg>
+  </l>
+  <l n="451">
+    <seg type="metrical-part" n="a">Ay; and another charioteer</seg>
+    <seg type="metrical-part" n="b">appeareth: but the others</seg>
+  </l>
+  <l n="452">
+    <seg type="metrical-part" n="a">I ween, met damage on the plain,</seg>
+    <seg type="metrical-part" n="b">which thitherward had vantage.</seg>
+  </l>
+  <l n="453">
+    <seg type="metrical-part" n="a">Surely ahead I saw the mares</seg>
+    <seg type="metrical-part" n="b">around the pillar bending: 465</seg>
+  </l>
+  <l n="454">
+    <seg type="metrical-part" n="a">But them I nowhere now may ken,</seg>
+    <seg type="metrical-part" n="b">albeit that my eyen</seg>
+  </l>
+  <l n="455">
+    <seg type="metrical-part" n="a">Turn, as I gaze, on every side</seg>
+    <seg type="metrical-part" n="b">over the plain of Troas.</seg>
+  </l>
+  <l n="456">
+    <seg type="metrical-part" n="a">Either the charioteer his reins</seg>
+    <seg type="metrical-part" n="b">hath dropt, or round the pillar</seg>
+  </l>
+  <l n="457">
+    <seg type="metrical-part" n="a">Could not his coursers duly hold</seg>
+    <seg type="metrical-part" n="b">and fail'd to wheel discreetly.</seg>
+  </l>
+  <l n="458">
+    <seg type="metrical-part" n="a">There (bode I) forth he fell,</seg>
+    <seg type="metrical-part" n="b">and brake his chariot's equipments, 470</seg>
+  </l>
+  <l n="459">
+    <seg type="metrical-part" n="a">And from the road his mares, possest</seg>
+    <seg type="metrical-part" n="b">by untam'd spirit, started.</seg>
+  </l>
+  <l n="460">
+    <seg type="metrical-part" n="a">But ye, arising, eke yourselves</seg>
+    <seg type="metrical-part" n="b">behold; for not distinctly</seg>
+  </l>
+  <l n="461">
+    <seg type="metrical-part" n="a">My eyen may beknow: yet here,</seg>
+    <seg type="metrical-part" n="b">methinketh, is a hero</seg>
+  </l>
+  <l n="462">
+    <seg type="metrical-part" n="a">Ætolian of birth, who yet</seg>
+    <seg type="metrical-part" n="b">mid Argive princes reigneth,</seg>
+  </l>
+  <l n="463">
+    <seg type="metrical-part" n="a">The courser-taming Tydeus' son,</seg>
+    <seg type="metrical-part" n="b">stouthearted Diomedes." 475</seg>
+  </l>
+  <l n="464">
+    <seg type="metrical-part" n="a">Then Ajax swift, Oïleus' son,</seg>
+    <seg type="metrical-part" n="b">with insult base revil'd him:</seg>
+  </l>
+  <l n="465">
+    <seg type="metrical-part" n="a">"Idomeneus! wherefore too soon</seg>
+    <seg type="metrical-part" n="b">dost bluster? o'er the level</seg>
+  </l>
+  <l n="466">
+    <seg type="metrical-part" n="a">Hither the nimblefooted mares</seg>
+    <seg type="metrical-part" n="b">speed far afront of others.</seg>
+  </l>
+  <l n="467">
+    <seg type="metrical-part" n="a">Among the Argives thou, I ween,</seg>
+    <seg type="metrical-part" n="b">art not so much the youngest,</seg>
+  </l>
+  <l n="468">
+    <seg type="metrical-part" n="a">Nor peer thy eyen from thy head</seg>
+    <seg type="metrical-part" n="b">the keenest in the army; 480</seg>
+  </l>
+  <l n="469">
+    <seg type="metrical-part" n="a">But thou with words of bluster aye</seg>
+    <seg type="metrical-part" n="b">dost prate: and wherefore need we</seg>
+  </l>
+  <l n="470">
+    <seg type="metrical-part" n="a">Thy endless prating? here around</seg>
+    <seg type="metrical-part" n="b">are many talkers abler.</seg>
+  </l>
+
+  <pb n="403" facs="#433"/>
+  <l n="471">
+    <seg type="metrical-part" n="a">Still the same coursers hold the lead,</seg>
+    <seg type="metrical-part" n="b">which at the turn were foremost,</seg>
+  </l>
+  <l n="472">
+    <seg type="metrical-part" n="a">Eumelus' mares, and in the car</seg>
+    <seg type="metrical-part" n="b">himself the ribbons holdeth." 481</seg>
+  </l>
+  <l n="473">
+    <seg type="metrical-part" n="a">To him with anger, front to front,</seg>
+    <seg type="metrical-part" n="b">the Cretan leader answer'd :</seg>
+  </l>
+  <l n="474">
+    <seg type="metrical-part" n="a">"O Ajax, ill-deviser, skill'd</seg>
+    <seg type="metrical-part" n="b">in jibes; beneath the Argives</seg>
+  </l>
+  <l n="475">
+    <seg type="metrical-part" n="a">In all beside thou fallest, sith</seg>
+    <seg type="metrical-part" n="b">ungracious is thy temper. 485</seg>
+  </l>
+  <l n="476">
+    <seg type="metrical-part" n="a">Come! for a wager stake we now</seg>
+    <seg type="metrical-part" n="b">a tripod or a cauldron,</seg>
+  </l>
+  <l n="477">
+    <seg type="metrical-part" n="a">And let us both as umpire take</seg>
+    <seg type="metrical-part" n="b">Atrides Agamemnon,</seg>
+  </l>
+  <l n="478">
+    <seg type="metrical-part" n="a">Which steeds are foremost: so shalt</seg>
+    <seg type="metrical-part" n="b">thou discover by repayment."</seg>
+  </l>
+  <l n="479">
+    <seg type="metrical-part" n="a">So spake he: but Oïleus' son,</seg>
+    <seg type="metrical-part" n="b">swift Ajax, rose asudden</seg>
+  </l>
+  <l n="480">
+    <seg type="metrical-part" n="a">In anger, ready to retort</seg>
+    <seg type="metrical-part" n="b">with words of fierce contention. 490</seg>
+  </l>
+  <l n="481">
+    <seg type="metrical-part" n="a">And now had haply farther gone</seg>
+    <seg type="metrical-part" n="b">the strife betwixt the chieftains,</seg>
+  </l>
+  <l n="482">
+    <seg type="metrical-part" n="a">But that Achilles' self arose</seg>
+    <seg type="metrical-part" n="b">and spake a word before them:</seg>
+  </l>
+  <l n="483">
+    <seg type="metrical-part" n="a">"No longer with reproachful words</seg>
+    <seg type="metrical-part" n="b">of fierce contention answer,</seg>
+  </l>
+  <l n="484">
+    <seg type="metrical-part" n="a">O Ajax and Idomeneus:</seg>
+    <seg type="metrical-part" n="b">nor, troth, is it beseeming:</seg>
+  </l>
+  <l n="485">
+    <seg type="metrical-part" n="a">Yea, with another were ye wroth,</seg>
+    <seg type="metrical-part" n="b">who should such deeds adventure. 495</seg>
+  </l>
+  <l n="486">
+    <seg type="metrical-part" n="a">But ye in theatre abide</seg>
+    <seg type="metrical-part" n="b">to watch the steeds' careering.</seg>
+  </l>
+  <l n="487">
+    <seg type="metrical-part" n="a">Soon will they hither come themselves,</seg>
+    <seg type="metrical-part" n="b">with rivalry excited;</seg>
+  </l>
+  <l n="488">
+    <seg type="metrical-part" n="a">Then each the coursers shall beknow,</seg>
+    <seg type="metrical-part" n="b">which first, and which are second."</seg>
+  </l>
+  <l n="489">
+    <seg type="metrical-part" n="a">He spake: but Tydeus' son drew near,</seg>
+    <seg type="metrical-part" n="b">right urgent: on the shoulder 500</seg>
+  </l>
+
+  <lb n="500"/>
+  <l n="490">
+    <seg type="metrical-part" n="a">He alway lash'd the steeds: but they</seg>
+    <seg type="metrical-part" n="b">tossing aloft accomplish'd</seg>
+  </l>
+  <l n="491">
+    <seg type="metrical-part" n="a">Their speedy course: the charioteer</seg>
+    <seg type="metrical-part" n="b">with daubs of dust was powder'd;</seg>
+  </l>
+  <l n="492">
+    <seg type="metrical-part" n="a">And, as instinct, the chariot</seg>
+    <seg type="metrical-part" n="b">with gold and tin bedizen'd 505</seg>
+  </l>
+  <l n="493">
+    <seg type="metrical-part" n="a">Follow'd the nimble-footed steeds:</seg>
+    <seg type="metrical-part" n="b">and scarce a track behind them</seg>
+  </l>
+  <lb n="505"/>
+  <l n="494">
+    <seg type="metrical-part" n="a">In the thin dust the wheel had left;</seg>
+    <seg type="metrical-part" n="b">so flew they o'er the champaign.</seg>
+  </l>
+  <l n="495">
+    <seg type="metrical-part" n="a">He in mid company drew up;</seg>
+    <seg type="metrical-part" n="b">and from the horses trickled 510</seg>
+  </l>
+  <l n="496">
+    <seg type="metrical-part" n="a">Abundant sweat down to the ground,</seg>
+    <seg type="metrical-part" n="b">from crests and flanks and bosom.</seg>
+  </l>
+  <l n="497">
+    <seg type="metrical-part" n="a">Then from the shining chariot</seg>
+    <seg type="metrical-part" n="b">himself to earth outspringing</seg>
+  </l>
+  <lb n="510"/>
+  <l n="498">
+    <seg type="metrical-part" n="a">Hanged upon the yoke his scourge.</seg>
+    <seg type="metrical-part" n="b">Without delay, on instant</seg>
+  </l>
+  <l n="499">
+    <seg type="metrical-part" n="a">The valiant Sthenelus stept up,</seg>
+    <seg type="metrical-part" n="b">and seiz'd the prize behoten, 515</seg>
+  </l>
+  <l n="500">
+    <seg type="metrical-part" n="a">And to his comrades high of heart</seg>
+    <seg type="metrical-part" n="b">handed the skilful woman</seg>
+  </l>
+  <l n="501">
+    <seg type="metrical-part" n="a">And eared tripod, for their lord:</seg>
+    <seg type="metrical-part" n="b">but he the steeds unharness'd.</seg>
+  </l>
+  <l n="502">
+    <seg type="metrical-part" n="a">Next did Antilochus arrive,</seg>
+    <seg type="metrical-part" n="b">Neleian horses driving,</seg>
+  </l>
+  <lb n="515"/>
+  <l n="503">
+    <seg type="metrical-part" n="a">Who Menelaüs had by craft</seg>
+    <seg type="metrical-part" n="b">outstript, but not by swiftness:</seg>
+  </l>
+  <l n="504">
+    <seg type="metrical-part" n="a">Yet even so with nimble steeds</seg>
+    <seg type="metrical-part" n="b">clung Menelas behind him.</seg>
+  </l>
+  <l n="505">
+    <seg type="metrical-part" n="a">As wheel is parted from the horse,</seg>
+    <seg type="metrical-part" n="b">who on the champaign straining</seg>
+  </l>
+  <l n="506">
+    <seg type="metrical-part" n="a">Draweth his master with the car;</seg>
+    <seg type="metrical-part" n="b">whose outmost tailhair brusheth</seg>
+  </l>
+  <pb n="404" facs="#434"/>
+  <lb n="520"/>
+  <l n="507">
+    <seg type="metrical-part" n="a">The running tire: (no mighty space,</seg>
+    <seg type="metrical-part" n="b">however far he gallop :) 520</seg>
+  </l>
+  <l n="508">
+    <seg type="metrical-part" n="a">So far by Nestor's spotless son</seg>
+    <seg type="metrical-part" n="b">was Menelaüs distanc'd;</seg>
+  </l>
+  <l n="509">
+    <seg type="metrical-part" n="a">So far alone: yet was he once</seg>
+    <seg type="metrical-part" n="b">a full quoit-throw to rearward.</seg>
+  </l>
+  <l n="510">
+    <seg type="metrical-part" n="a">Yet quickly won he back the loss;</seg>
+    <seg type="metrical-part" n="b">for more and more the vigour 525</seg>
+  </l>
+  <lb n="525"/>
+  <l n="511">
+    <seg type="metrical-part" n="a">Wax'd brave in Agamemnon's mare,</seg>
+    <seg type="metrical-part" n="b">the glossy-coated Blazer.</seg>
+  </l>
+  <l n="512">
+    <seg type="metrical-part" n="a">And if for both the chariots</seg>
+    <seg type="metrical-part" n="b">the race had farther lasted,</seg>
+  </l>
+  <l n="513">
+    <seg type="metrical-part" n="a">Full surely had she overpast,</seg>
+    <seg type="metrical-part" n="b">nor doubtful left the contest.</seg>
+  </l>
+  <l n="514">
+    <seg type="metrical-part" n="a">Fourth came the bonny Merion,</seg>
+    <seg type="metrical-part" n="b">Idomeneus' attendant, 530</seg>
+  </l>
+  <l n="515">
+    <seg type="metrical-part" n="a">Who a spearthrow was left behind</seg>
+    <seg type="metrical-part" n="b">high-honour'd Menelaüs :</seg>
+  </l>
+  <l n="516">
+    <seg type="metrical-part" n="a">For slowest were of all the field</seg>
+    <seg type="metrical-part" n="b">his glossy-coated horses,</seg>
+  </l>
+  <l n="517">
+    <seg type="metrical-part" n="a">And, as a charioteer, himself</seg>
+    <seg type="metrical-part" n="b">upon the lists was weakest.</seg>
+  </l>
+  <l n="518">
+    <seg type="metrical-part" n="a">Latest of all, with long delay</seg>
+    <seg type="metrical-part" n="b">arriv'd Admetus' offspring, 535</seg>
+  </l>
+  <l n="519">
+    <seg type="metrical-part" n="a">Dragging the beauteous chariot,</seg>
+    <seg type="metrical-part" n="b">from far his coursers driving.</seg>
+  </l>
+  <l n="520">
+    <seg type="metrical-part" n="a">Godlike Achilles, fleet of foot,</seg>
+    <seg type="metrical-part" n="b">beheld the chief with pity,</seg>
+  </l>
+  <l n="521">
+    <seg type="metrical-part" n="a">And to the Argives standing forth</seg>
+    <seg type="metrical-part" n="b">harangu'd in winged accents:</seg>
+  </l>
+  <l n="522">
+    <seg type="metrical-part" n="a">"A noblest hero driveth last</seg>
+    <seg type="metrical-part" n="b">his single-hoofed horses.</seg>
+  </l>
+  <l n="523">
+    <seg type="metrical-part" n="a">But come ye; upon him a prize</seg>
+    <seg type="metrical-part" n="b">bestow we, as is seemly,</seg>
+  </l>
+  <l n="524">
+    <seg type="metrical-part" n="a">In second rank: but Tydeus' son</seg>
+    <seg type="metrical-part" n="b">must with the first be honour'd." 540</seg>
+  </l>
+  <l n="525">
+    <seg type="metrical-part" n="a">So spake he: then the chieftains</seg>
+    <seg type="metrical-part" n="b">all unto his word assented.</seg>
+  </l>
+  <l n="526">
+    <seg type="metrical-part" n="a">And now had he the mare on him</seg>
+    <seg type="metrical-part" n="b">bestow'd; (for so the Achaians</seg>
+  </l>
+  <l n="527">
+    <seg type="metrical-part" n="a">Approv'd;) but that Antilochus,</seg>
+    <seg type="metrical-part" n="b">greathearted Nestor's offspring, 545</seg>
+  </l>
+  <l n="528">
+    <seg type="metrical-part" n="a">Arose, and challeng'd to account</seg>
+    <seg type="metrical-part" n="b">Achilles, son of Peleus:</seg>
+  </l>
+  <l n="529">
+    <seg type="metrical-part" n="a">"Achilles! troth, shall I with thee</seg>
+    <seg type="metrical-part" n="b">be wrathful, if thou complish</seg>
+  </l>
+  <l n="530">
+    <seg type="metrical-part" n="a">This word: for of my proper prize</seg>
+    <seg type="metrical-part" n="b">thou thinkest to despoil me,</seg>
+  </l>
+  <l n="531">
+    <seg type="metrical-part" n="a">In pity, that his speedy mares</seg>
+    <seg type="metrical-part" n="b">and chariot were crippled</seg>
+  </l>
+  <l n="532">
+    <seg type="metrical-part" n="a">And that himself is worthy: yet</seg>
+    <seg type="metrical-part" n="b">his duty was, to offer</seg>
+  </l>
+  <l n="533">
+    <seg type="metrical-part" n="a">Vows to th' immortals; never then</seg>
+    <seg type="metrical-part" n="b">had he been thrown to rearmost. 550</seg>
+  </l>
+  <l n="534">
+    <seg type="metrical-part" n="a">Pity and love to gratify,</seg>
+    <seg type="metrical-part" n="b">thy tents have gold in plenty,</seg>
+  </l>
+  <lb n="550"/>
+  <l n="535">
+    <seg type="metrical-part" n="a">And brass and sheep and servant-maids</seg>
+    <seg type="metrical-part" n="b">and single-hoofed horses:</seg>
+  </l>
+  <l n="536">
+    <seg type="metrical-part" n="a">Of these thou mayest afterward</seg>
+    <seg type="metrical-part" n="b">take greater prize to give him,</seg>
+  </l>
+  <l n="537">
+    <seg type="metrical-part" n="a">Or even now before us: so</seg>
+    <seg type="metrical-part" n="b">the Achaians shall approve thee. 555</seg>
+  </l>
+  <l n="538">
+    <seg type="metrical-part" n="a">But I to none will yield the mare:</seg>
+    <seg type="metrical-part" n="b">whoever would pretensions</seg>
+  </l>
+  <l n="539">
+    <seg type="metrical-part" n="a">To her adventure, must with me</seg>
+    <seg type="metrical-part" n="b">prepare to enter combat."</seg>
+  </l>
+  <l n="540">
+    <seg type="metrical-part" n="a">So vaunted he, and drew a smile</seg>
+    <seg type="metrical-part" n="b">from Achileus swiftfooted,</seg>
+  </l>
+  <l n="541">
+    <seg type="metrical-part" n="a">Delighting in Antilochus,</seg>
+    <seg type="metrical-part" n="b">who was his dear companion.</seg>
+  </l>
+  <l n="542">
+    <seg type="metrical-part" n="a">Thereat reciprocal to him</seg>
+    <seg type="metrical-part" n="b">he winged accents utter'd:</seg>
+  </l>
+  <pb n="405" facs="#435"/>
+  <l n="543">
+    <seg type="metrical-part" n="a">"Antilochus! if verily</seg>
+    <seg type="metrical-part" n="b">thou biddest to Eumelus</seg>
+  </l>
+  <l n="544">
+    <seg type="metrical-part" n="a">Fresh prize from out my stores to give,</seg>
+    <seg type="metrical-part" n="b">this also will I complish : 560</seg>
+  </l>
+  <l n="545">
+    <seg type="metrical-part" n="a">A corslet I on him bestow,</seg>
+    <seg type="metrical-part" n="b">which from Asteropæus</seg>
+  </l>
+  <l n="546">
+    <seg type="metrical-part" n="a">I took: of brass the substance is,</seg>
+    <seg type="metrical-part" n="b">but wreath'd around the margin</seg>
+  </l>
+  <l n="547">
+    <seg type="metrical-part" n="a">Are streams of shining tin; and this</seg>
+    <seg type="metrical-part" n="b">a goodly price would yield him."</seg>
+  </l>
+  <l n="548">
+    <seg type="metrical-part" n="a">He spake, and to Automedon,</seg>
+    <seg type="metrical-part" n="b">his comrade dear, gave order 565</seg>
+  </l>
+  <l n="549">
+    <seg type="metrical-part" n="a">To bear it from his tent: but he</seg>
+    <seg type="metrical-part" n="b">quickly return'd, and brought it,</seg>
+  </l>
+  <l n="550">
+    <seg type="metrical-part" n="a">And plac'd it in Eumelus' hands;</seg>
+    <seg type="metrical-part" n="b">and he with joy receiv'd it.</seg>
+  </l>
+  <l n="551">
+    <seg type="metrical-part" n="a">But Menelaüs, sore at heart,</seg>
+    <seg type="metrical-part" n="b">hereon stood forth among them,</seg>
+  </l>
+  <l n="552">
+    <seg type="metrical-part" n="a">In wrath against Antilochus</seg>
+    <seg type="metrical-part" n="b">unmeasur'd: but a herald</seg>
+  </l>
+  <l n="553">
+    <seg type="metrical-part" n="a">Into his hand a sceptre plac'd,</seg>
+    <seg type="metrical-part" n="b">and challeng'd all the Argives 570</seg>
+  </l>
+  <l n="554">
+    <seg type="metrical-part" n="a">To silence: then the godlike man</seg>
+    <seg type="metrical-part" n="b">spake out his heart before them :</seg>
+  </l>
+  <l n="555">
+    <seg type="metrical-part" n="a">"Antilochus! who heretofore</seg>
+    <seg type="metrical-part" n="b">wast sage; what now hath ail'd thee?</seg>
+  </l>
+  <l n="556">
+    <seg type="metrical-part" n="a">Loss to my coursers hast thou wrought,</seg>
+    <seg type="metrical-part" n="b">and to my skill dishonour,</seg>
+  </l>
+  <l n="557">
+    <seg type="metrical-part" n="a">Thrusting thy horses to the front,</seg>
+    <seg type="metrical-part" n="b">which were by far the worser.</seg>
+  </l>
+  <l n="558">
+    <seg type="metrical-part" n="a">But come now! ye who leaders are</seg>
+    <seg type="metrical-part" n="b">and governours to Argos, 575</seg>
+  </l>
+  <l n="559">
+    <seg type="metrical-part" n="a">Pass ye a sentence in the midst</seg>
+    <seg type="metrical-part" n="b">for both, with even fairness;</seg>
+  </l>
+  <l n="560">
+    <seg type="metrical-part" n="a">Lest that hereafter haply one</seg>
+    <seg type="metrical-part" n="b">of brazen-clad Achaians</seg>
+  </l>
+  <l n="561">
+    <seg type="metrical-part" n="a">Say, Menelaüs did by lies</seg>
+    <seg type="metrical-part" n="b">Antilochus o'erpower,</seg>
+  </l>
+  <l n="562">
+    <seg type="metrical-part" n="a">And carried off the mare, altho'</seg>
+    <seg type="metrical-part" n="b">his steeds were far the worser,</seg>
+  </l>
+  <l n="563">
+    <seg type="metrical-part" n="a">Only that he himself in might</seg>
+    <seg type="metrical-part" n="b">and majesty was grander. 580</seg>
+  </l>
+  <l n="564">
+    <seg type="metrical-part" n="a">Or else, come! I myself will judge;</seg>
+    <seg type="metrical-part" n="b">nor do I ween that any</seg>
+  </l>
+  <l n="565">
+    <seg type="metrical-part" n="a">Of Danaï will this reprove;</seg>
+    <seg type="metrical-part" n="b">for fair shall be my trial.</seg>
+  </l>
+  <l n="566">
+    <seg type="metrical-part" n="a">Antilochus! Jove-nurtur'd! hark!</seg>
+    <seg type="metrical-part" n="b">as seemly is and rightful,</seg>
+  </l>
+  <l n="567">
+    <seg type="metrical-part" n="a">Stand thou before the chariot</seg>
+    <seg type="metrical-part" n="b">and coursers: hold beside thee</seg>
+  </l>
+  <l n="568">
+    <seg type="metrical-part" n="a">The lash wherewith thou dravest:</seg>
+    <seg type="metrical-part" n="b">touch the steeds, and swear by Neptune 585</seg>
+  </l>
+  <lb n="585"/>
+  <l n="569">
+    <seg type="metrical-part" n="a">Landshaking, that thou diddest not</seg>
+    <seg type="metrical-part" n="b">by guile my car entangle."</seg>
+  </l>
+  <l n="570">
+    <seg type="metrical-part" n="a">But him did sage Antilochus</seg>
+    <seg type="metrical-part" n="b">confronting gently answer:</seg>
+  </l>
+  <l n="571">
+    <seg type="metrical-part" n="a">"No more of this; for, troth, am I</seg>
+    <seg type="metrical-part" n="b">than thee, prince Menelaüs!</seg>
+  </l>
+  <l n="572">
+    <seg type="metrical-part" n="a">Younger by far, and thou than me</seg>
+    <seg type="metrical-part" n="b">art loftier and braver.</seg>
+  </l>
+  <l n="573">
+    <seg type="metrical-part" n="a">Well knowest thou, how youthful men</seg>
+    <seg type="metrical-part" n="b">in trespasses are tangled; 590</seg>
+  </l>
+  <l n="574">
+    <seg type="metrical-part" n="a">For quicker their perceptions are,</seg>
+    <seg type="metrical-part" n="b">but flimsy is their judgment.</seg>
+  </l>
+  <l n="575">
+    <seg type="metrical-part" n="a">Therefore thy heart will bear with me.</seg>
+    <seg type="metrical-part" n="b">Also to thee resign I</seg>
+  </l>
+  <l n="576">
+    <seg type="metrical-part" n="a">The mare, which I had won:</seg>
+    <seg type="metrical-part" n="b">and eke if more thou shouldest ask me</seg>
+  </l>
+  <l n="577">
+    <seg type="metrical-part" n="a">From my own stores to bring, this too</seg>
+    <seg type="metrical-part" n="b">at once would I present thee</seg>
+  </l>
+  <l n="578">
+    <seg type="metrical-part" n="a">Right willing, rather than with thee,</seg>
+    <seg type="metrical-part" n="b">Jove-nurtur'd! meet displeasure</seg>
+  </l>
+  <pb n="406" facs="#436"/>
+  <l n="579">
+    <seg type="metrical-part" n="a">All days, and an offender be</seg>
+    <seg type="metrical-part" n="b">before the unseen powers." 595</seg>
+  </l>
+  <l n="580">
+    <seg type="metrical-part" n="a">So spake greathearted Nestor's son,</seg>
+    <seg type="metrical-part" n="b">and led the mare and plac'd her</seg>
+  </l>
+  <l n="581">
+    <seg type="metrical-part" n="a">In hands of Menelaus: then</seg>
+    <seg type="metrical-part" n="b">his royal heart was melted.</seg>
+  </l>
+  <l n="582">
+    <seg type="metrical-part" n="a">As in a growing crop of wheat,</seg>
+    <seg type="metrical-part" n="b">when all the acres bristle,</seg>
+  </l>
+  <l n="583">
+    <seg type="metrical-part" n="a">A dew, descending genial,</seg>
+    <seg type="metrical-part" n="b">the ears doth warm and soften,</seg>
+  </l>
+  <l n="584">
+    <seg type="metrical-part" n="a">So, Menelaūs! then to thee</seg>
+    <seg type="metrical-part" n="b">the heart within was soften'd. 600</seg>
+  </l>
+  <l n="585">
+    <seg type="metrical-part" n="a">Thereat the prince accosting him</seg>
+    <seg type="metrical-part" n="b">did winged accents utter:</seg>
+  </l>
+  <l n="586">
+    <seg type="metrical-part" n="a">"Antilochus! now unto thee</seg>
+    <seg type="metrical-part" n="b">myself will yield my anger:</seg>
+  </l>
+  <l n="587">
+    <seg type="metrical-part" n="a">For never wast thou heretofore</seg>
+    <seg type="metrical-part" n="b">askew, nor airy-witted.</seg>
+  </l>
+  <l n="588">
+    <seg type="metrical-part" n="a">Youth hath thy mind o'ercome:</seg>
+    <seg type="metrical-part" n="b">henceforth shun thou to trick thy betters. 605</seg>
+  </l>
+
+  <lb n="606"/>
+  <l n="589">
+    <seg type="metrical-part" n="a">Other Achaian man mayhap</seg>
+    <seg type="metrical-part" n="b">had not so lightly calm'd me.</seg>
+  </l>
+  <l n="590">
+    <seg type="metrical-part" n="a">But troth, much thou endured hast</seg>
+    <seg type="metrical-part" n="b">for me, and much hast toiled,</seg>
+  </l>
+  <l n="591">
+    <seg type="metrical-part" n="a">As thy good sire and brother too;</seg>
+    <seg type="metrical-part" n="b">therefore to thy entreaty</seg>
+  </l>
+  <lb n="610"/>
+  <l n="592">
+    <seg type="metrical-part" n="a">Will I comply: yea, and the mare,</seg>
+    <seg type="metrical-part" n="b">albeit mine, -I yield her:</seg>
+  </l>
+  <l n="593">
+    <seg type="metrical-part" n="a">So shall these learn, that ne'er my heart</seg>
+    <seg type="metrical-part" n="b">was stern and overweening." 610</seg>
+  </l>
+  <l n="594">
+    <seg type="metrical-part" n="a">He spake; and to Noëmon's hands,</seg>
+    <seg type="metrical-part" n="b">Antilochus' companion,</seg>
+  </l>
+  <l n="595">
+    <seg type="metrical-part" n="a">Gave up the mare, and took himself</seg>
+    <seg type="metrical-part" n="b">the all-resplendent cauldron.</seg>
+  </l>
+  <l n="596">
+    <seg type="metrical-part" n="a">And Merion, who fourth drave in,</seg>
+    <seg type="metrical-part" n="b">gat the two golden talents.</seg>
+  </l>
+  <l n="597">
+    <seg type="metrical-part" n="a">But the fifth prize, which still was left,</seg>
+    <seg type="metrical-part" n="b">the double urn;-to Nestor 615</seg>
+  </l>
+  <l n="598">
+    <seg type="metrical-part" n="a">Achilles thro' the Argive throng</seg>
+    <seg type="metrical-part" n="b">bare it, and spake beside him:</seg>
+  </l>
+  <l n="599">
+    <seg type="metrical-part" n="a">"Here now! let this to thee alsó,</seg>
+    <seg type="metrical-part" n="b">old friend! be made a keepsake</seg>
+  </l>
+  <l n="600">
+    <seg type="metrical-part" n="a">For record of Patroclus' grave:</seg>
+    <seg type="metrical-part" n="b">for never among Argives 621</seg>
+  </l>
+  <l n="601">
+    <seg type="metrical-part" n="a">Himself shalt thou again behold.</seg>
+    <seg type="metrical-part" n="b">And hark! this prize I give thee</seg>
+  </l>
+  <lb n="621"/>
+  <l n="602">
+    <seg type="metrical-part" n="a">Gratis! for neither race of foot</seg>
+    <seg type="metrical-part" n="b">nor darting wilt thou enter,</seg>
+  </l>
+  <l n="603">
+    <seg type="metrical-part" n="a">Wrestling, nor boxing:</seg>
+    <seg type="metrical-part" n="b">for on thee stern Eld already presseth."</seg>
+  </l>
+  <l n="604">
+    <seg type="metrical-part" n="a">He spake, and Knee'd it in his hands;</seg>
+    <seg type="metrical-part" n="b">and he with joy receiv'd it,</seg>
+  </l>
+  <lb n="625"/>
+  <l n="605">
+    <seg type="metrical-part" n="a">And unto him reciprocal</seg>
+    <seg type="metrical-part" n="b">harangu'd in winged accents: 625</seg>
+  </l>
+  <l n="606">
+    <seg type="metrical-part" n="a">"Ay, verily; all this, my child!</seg>
+    <seg type="metrical-part" n="b">discreetly hast thou spoken.</seg>
+  </l>
+  <l n="607">
+    <seg type="metrical-part" n="a">For friend! their early hardihood</seg>
+    <seg type="metrical-part" n="b">hath fail'd my limbs: no longer</seg>
+  </l>
+  <l n="608">
+    <seg type="metrical-part" n="a">The feet rush agile, nor the hands</seg>
+    <seg type="metrical-part" n="b">on either side my shoulders.</seg>
+  </l>
+  <l n="609">
+    <seg type="metrical-part" n="a">O that I still were só in youth,</seg>
+    <seg type="metrical-part" n="b">and unimpair'd my vigour,</seg>
+  </l>
+  <l n="610">
+    <seg type="metrical-part" n="a">As when the Epeians did of yore</seg>
+    <seg type="metrical-part" n="b">king Amarynkeus bury, 630</seg>
+  </l>
+  <l n="611">
+    <seg type="metrical-part" n="a">And in Buprasium his sons</seg>
+    <seg type="metrical-part" n="b">set forth the royal prizes.</seg>
+  </l>
+  <l n="612">
+    <seg type="metrical-part" n="a">Then no one might with me compare,</seg>
+    <seg type="metrical-part" n="b">neither among the Epeians</seg>
+  </l>
+  <l n="613">
+    <seg type="metrical-part" n="a">Or mighty-soul'd Ætolians,</seg>
+    <seg type="metrical-part" n="b">nor from my native Pylos.</seg>
+  </l>
+  <l n="614">
+    <seg type="metrical-part" n="a">Then Clytomedes conquer'd I</seg>
+    <seg type="metrical-part" n="b">in boxing, son of Enops;</seg>
+  </l>
+
+    <pb n="407"/>
+  
 <milestone unit="line" ed="grc" n="610"/>
           <l n="611">
             <seg type="metrical-part" n="a">To wrestle next Ankæus rose,</seg>
@@ -61177,7 +61178,7 @@
           </l>
 <milestone unit="line" ed="grc" n="625"/>
           <l n="626">
-            <seg type="metrical-part" n="a">For this, on thee may heav'nly gods</seg>
+            <seg type="metrical-part" n="a">For this, on <emph>thee</emph> may heav'nly gods</seg>
             <seg type="metrical-part" n="b">Bestow heartsoothing favour."</seg>
           </l>
           <l n="627">
@@ -61344,6 +61345,7 @@
             <seg type="metrical-part" n="a">Until divine Epeius mark'd</seg>
             <seg type="metrical-part" n="b">his rival's eyen straying, 690</seg>
           </l>
+          <lb n="690"/>
           <l n="659">
             <seg type="metrical-part" n="a">And rising, smote upon his cheek:</seg>
             <seg type="metrical-part" n="b">nor long the blow endur'd he;</seg>
@@ -61464,6 +61466,7 @@
             <seg type="metrical-part" n="a">Nor might Ulysses, artful, cast</seg>
             <seg type="metrical-part" n="b">unto the ground his rival,</seg>
           </l>
+          <lb n="720"/>
           <l n="687">
             <seg type="metrical-part" n="a">Nor Ajax; for, all-sinewy,</seg>
             <seg type="metrical-part" n="b">Ulysses aye resisted.</seg>
@@ -61502,6 +61505,7 @@
             <seg type="metrical-part" n="b">Ajax to lift, made effort; 731</seg>
           </l>
           <milestone unit="line" ed="grc" n="695"/>
+          <lb n="730"/>
           <l n="696">
             <seg type="metrical-part" n="a">But barely stirr'd him from the ground;</seg>
             <seg type="metrical-part" n="b">until his knee he twisted,</seg>
@@ -61522,6 +61526,7 @@
             <seg type="metrical-part" n="a">"No longer strain your noble hearts,</seg>
             <seg type="metrical-part" n="b">nor wear yourselves with hardship.</seg>
           </l>
+          <lb n="736"/>
           <l n="705">
             <seg type="metrical-part" n="a">The victory to both is due:</seg>
             <seg type="metrical-part" n="b">both equal prizes taking,</seg>
@@ -61539,6 +61544,8 @@
             <seg type="metrical-part" n="a">And wiping off the dust, sat down,</seg>
             <seg type="metrical-part" n="b">clad in their rightful tunics. 740</seg>
           </l>
+
+          <lb n="740"/>
           <l n="709">
             <seg type="metrical-part" n="a">Then for the swift of foot anew</seg>
             <seg type="metrical-part" n="b">Pelides nam'd his prizes.</seg>
@@ -61637,6 +61644,7 @@
             <seg type="metrical-part" n="a">So near Ulysses kept, and trod</seg>
             <seg type="metrical-part" n="b">the very prints of Ajax,</seg>
           </l>
+          <lb n="765"/>
           <l n="732">
             <seg type="metrical-part" n="a">Ere dust could fill them; o'er his head,</seg>
             <seg type="metrical-part" n="b">behind, Ulysses panted, 770</seg>
@@ -61654,6 +61662,7 @@
             <seg type="metrical-part" n="b">within his secret bosom: 775</seg>
           </l>
 <milestone unit="line" ed="grc" n="735"/>
+<lb n="770"/>
           <l n="736">
             <seg type="metrical-part" n="a">"O goddess! be my good ally,</seg>
             <seg type="metrical-part" n="b">and to my feet show favour."</seg>
@@ -61691,6 +61700,7 @@
             <seg type="metrical-part" n="a">And lifted up the bowl: the ox</seg>
             <seg type="metrical-part" n="b">was won by gallant Ajax,</seg>
           </l>
+          <lb n="780"/>
           <l n="745">
             <seg type="metrical-part" n="a">Who, blowing from his lips the filth,</seg>
             <seg type="metrical-part" n="b">in hand the horn enclasped 790</seg>
@@ -61985,6 +61995,8 @@
             <seg type="metrical-part" n="a">Unto the smoothly hollow ships</seg>
             <seg type="metrical-part" n="b">the royal prize escorted.</seg>
           </l>
+
+          <pb n="850"/>
 <l n="814">
             <seg type="metrical-part" n="a">Then for the archers forth he set</seg>
             <seg type="metrical-part" n="b">blue steel in twenty axes; 905</seg>
@@ -62001,6 +62013,7 @@
             <seg type="metrical-part" n="a">A trembler pigeon by the foot,</seg>
             <seg type="metrical-part" n="b">and bade them aim toward it. 911</seg>
           </l>
+          <lb n="855"/>
           <l n="818">
             <seg type="metrical-part" n="a">Whoso might hit it, to his tent</seg>
             <seg type="metrical-part" n="b">should bear the double axes;</seg>
@@ -62019,6 +62032,7 @@
             <seg type="metrical-part" n="a">So said he: instantly arose</seg>
             <seg type="metrical-part" n="b">the might of princely Teucer,</seg>
           </l>
+          <lb n="860"/>
           <l n="822">
             <seg type="metrical-part" n="a">And up rose bonny Merion,</seg>
             <seg type="metrical-part" n="b">Idomeneus' attendant.</seg>
@@ -62057,6 +62071,7 @@
             <seg type="metrical-part" n="b">and all the Achaians shouted.</seg>
           </l>
 <milestone unit="line" ed="grc" n="825"/>
+<lb n="870"/>
           <l n="831">
             <seg type="metrical-part" n="a">But Merion all-eager drew</seg>
             <seg type="metrical-part" n="b">the bow, whereon his arrow</seg>
@@ -62073,6 +62088,7 @@
             <seg type="metrical-part" n="a">Wheeling aloft amid the clouds</seg>
             <seg type="metrical-part" n="b">he saw the trembler pigeon,</seg>
           </l>
+          <lb n="875"/>
           <l n="835">
             <seg type="metrical-part" n="a">And pierc'd her thro' beneath the wing:</seg>
             <seg type="metrical-part" n="b">the arrow, back descending, 940</seg>
@@ -62090,6 +62106,7 @@
             <seg type="metrical-part" n="a">Fleeted the life: she droop'd the neck,</seg>
             <seg type="metrical-part" n="b">and her thick feathers huddled. 945</seg>
           </l>
+          <lb n="881"/>
           <l n="839">
             <seg type="metrical-part" n="a">So fell she far away: thereat</seg>
             <seg type="metrical-part" n="b">the people gaz'd admiring.</seg>
@@ -62128,6 +62145,7 @@
             <seg type="metrical-part" n="a">Godlike Achilles, fleet of foot,</seg>
             <seg type="metrical-part" n="b">then spake a word before them:</seg>
           </l>
+          <lb n="890"/>
           <l n="848">
             <seg type="metrical-part" n="a">"O son of Atreus, well we know</seg>
             <seg type="metrical-part" n="b">how houses thy puissance, 964</seg>
