@@ -48,7 +48,7 @@
         <quotation marks="all"/>
         <p>Original spelling and punctuation are retained. Running heads and isolated page numbers are omitted. End-of-line word divisions introduced by print layout or OCR are normalized.</p>
         <p>Newman composes each verse from a four-beat component followed by a three-beat component. Every l element therefore contains two seg elements with type="metrical-part" and n values "a" and "b". Where the printed row is too long to display a gap, the component boundary is recovered by metrical scansion rather than inferred from whitespace alone.</p>
-        <p>The l/@n values enumerate the English verse rows. Milestones with unit="line" and ed="grc" preserve or infer the canonical Greek line references printed at five-line intervals. Corrections listed in the edition corrigenda are encoded with choice, sic, and corr.</p>
+
       </editorialDecl>
     </encodingDesc>
     <profileDesc>
@@ -58,8 +58,9 @@
     </profileDesc>
     <revisionDesc>
       <change when="2026-07-15" who="Tufts University">Front matter encoded from the HathiTrust OCR.</change>
-      <change when="2026-07-15" who="Tufts University">Book I encoded with its printed metrical divisions, page breaks, Greek line-reference milestones, notes, and corrigenda.</change>
-      <change when="2026-07-15" who="Tufts University">Books II–IV encoded with their metrical divisions, page breaks, Greek line-reference milestones, translator notes, bracketed overflow text, and corrigenda.</change>
+        <change when="2026-07-15" who="Tufts University">Gemini Flash 3.5: encoded with their metrical divisions, page breaks, Greek line-reference milestones, translator notes, bracketed overflow text, and corrigenda. The OCR treated two part lines as separate columns. Gemini did a remarkable job joining them together. I am sure I missed patches where it got out of sync but it did a very good first pass.</change>
+               <change when="2026-07-15" who="Gregory Crane">Gemini could not track the line numbers. Newman frequently skips line numbers in the English so that he can keep up with the Greek. I added 549 lb milestones to mark these discontinuities -- only a first pass.</change>
+
     </revisionDesc>
   </teiHeader>
   <text xml:lang="eng">
@@ -378,7 +379,7 @@
       </div>
     </front>
     <body>
-      <div type="translation" n="urn:cts:greekLit:tlg0012.tlg001.newman-eng1">
+      <div type="translation" n="urn:cts:greekLit:tlg0012.tlg001.newman1856-eng2">
         <head>Newman's Iliad</head>
         <div type="textpart" subtype="book" n="1">
           <head>BOOK I</head>
@@ -592,7 +593,7 @@
             <seg type="metrical-part" n="b">right fearful was the twanging.</seg>
           </l>
           <l n="50">
-            <seg type="metrical-part" n="a">At first the mules and <choice>
+            <seg type="metrical-part" n="a">At first the mules and <choice resp="Newman">
                 <sic>huddling</sic>
                 <corr>sprightly</corr>
               </choice> dogs</seg>
@@ -2002,7 +2003,7 @@
           <l n="381">
             <seg type="metrical-part" n="a">To his entreaty lent an ear;</seg>
             <seg type="metrical-part" n="b">
-              <choice>
+              <choice resp="Newman">
                 <sic>also</sic>
                 <corr>for</corr>
               </choice> greatly did he love him.</seg>
@@ -2379,7 +2380,7 @@
          
           <l n="469">
             <seg type="metrical-part" n="a">But when desire importunate</seg>
-            <seg type="metrical-part" n="b">of food and drink <choice>
+            <seg type="metrical-part" n="b">of food and drink <choice resp="Newman">
                 <sic>were</sic>
                 <corr>was</corr>
               </choice> ended,</seg>
@@ -8357,7 +8358,7 @@
           <milestone unit="line" ed="grc" n="385"/>
           <l n="384">
             <seg type="metrical-part" n="a">
-              <choice>
+              <choice resp="Newman">
                 <sic>Took</sic>
                 <corr>Shook</corr>
               </choice> it, beneath the semblance hid</seg>
@@ -8800,11 +8801,7 @@
           </l>
           <l n="28">
             <seg type="metrical-part" n="a">The people gathering, for woe</seg>
-            <seg type="metrical-part" n="b">to Priam and his children<choice>
-                <sic>,</sic>
-                <corr>.</corr>
-              </choice>
-            </seg>
+            <seg type="metrical-part" n="b">to Priam and his children.</seg>
           </l>
           <l n="29">
             <seg type="metrical-part" n="a">Do so: but we, the other gods,</seg>
@@ -9394,7 +9391,7 @@
           </l>
           <l n="167">
             <seg type="metrical-part" n="a">Wrathful at this deceit, himself</seg>
-            <seg type="metrical-part" n="b">shall <choice>
+            <seg type="metrical-part" n="b">shall <choice resp="Newman">
                 <sic>flout</sic>
                 <corr>flaunt</corr>
               </choice> his gloomy ægis</seg>
@@ -12356,6 +12353,7 @@
     <seg type="metrical-part" n="a">Seemeth it little to cajole</seg>
     <seg type="metrical-part" n="b">the unwarlike race of women?</seg>
   </l>
+  <lb n="350"/>
   <l n="334">
     <seg type="metrical-part" n="a">If thou with battle's grim array</seg>
     <seg type="metrical-part" n="b">wilt deal, in sooth I fancy</seg>
@@ -12378,12 +12376,13 @@
     <seg type="metrical-part" n="a">Fretted with throbbing pains; and all</seg>
     <seg type="metrical-part" n="b">her beauteous flesh was darken'd.</seg>
   </l>
+      <pb n="84" facs="#114"/>
+    <lb n="355"/>
   <l n="339">
     <seg type="metrical-part" n="a">Soon, to the left of toilsome fight,</seg>
     <seg type="metrical-part" n="b">she found impetuous Ares 360</seg>
   </l>
-    <pb n="84" facs="#114"/>
-    <lb n="355"/>
+
   <l n="340">
     <seg type="metrical-part" n="a">Sitting; and on a cloud his spear</seg>
     <seg type="metrical-part" n="b">and nimble horses rested.</seg>
@@ -15788,158 +15787,6 @@
           <note n="205" place="bottom" type="translator" corresp="urn:cts:greekLit:tlg0012.tlg001:6.205">Sudden deaths, especially of women, are attributed to the arrows of Artemis. See 428, and 19, 59.</note>
           <note n="216" place="bottom" type="translator" corresp="urn:cts:greekLit:tlg0012.tlg001:6.216">Oeneus,—father of Tydeus father of Diomedes. Meleager (2, 642) was successor to his father Oeneus in Aetolia: his brother Tydeus married a daughter of Adrastus, king of Argos (and of Sicyon, 2, 572) son of Taläus (2, 566). Hence Diomedes succeeded to the principality of Argos, though his father was an Aetolian (4, 399).</note>
 
-
-          <l n="216">
-            <seg type="metrical-part" n="a">Whom God to me may grant, and whom</seg>
-            <seg type="metrical-part" n="b">I overhend in fleetness:</seg>
-          </l>
-          <l n="217">
-            <seg type="metrical-part" n="a">Thou too enough of Argives hast</seg>
-            <seg type="metrical-part" n="b">to slay, if thou be able.</seg>
-          </l>
-          <l n="218">
-            <seg type="metrical-part" n="a">But let us, each with other, change</seg>
-            <seg type="metrical-part" n="b">our arms; that all who see us</seg>
-          </l>
-          <l n="219">
-            <seg type="metrical-part" n="a">May know, that, to be stranger-friends</seg>
-            <seg type="metrical-part" n="b">is our ancestral glory."</seg>
-          </l>
-          <l n="220">
-            <seg type="metrical-part" n="a">On such alternate argument,</seg>
-            <seg type="metrical-part" n="b">they from their cars descending</seg>
-          </l>
-          <milestone unit="line" ed="grc" n="230"/>
-          <l n="221">
-            <seg type="metrical-part" n="a">Each of the other seiz'd the hand</seg>
-            <seg type="metrical-part" n="b">and pledges gave of friendship.</seg>
-          </l>
-          <l n="222">
-            <seg type="metrical-part" n="a">Thereat did Jove Saturnius</seg>
-            <seg type="metrical-part" n="b">the wit of Glaucus cripple,</seg>
-          </l>
-          <l n="223">
-            <seg type="metrical-part" n="a">Who with Tydides Diomed</seg>
-            <seg type="metrical-part" n="b">exchange of arms accepted,</seg>
-          </l>
-          <l n="224">
-            <seg type="metrical-part" n="a">And gave his gold for common brass,</seg>
-            <seg type="metrical-part" n="b">for nine a hundred oxen.</seg>
-          </l>
-          <l n="225">
-            <seg type="metrical-part" n="a">Meanwhile retiring, Hector reach'd</seg>
-            <seg type="metrical-part" n="b">the Skæan gates and beech tree,</seg>
-          </l>
-          <milestone unit="line" ed="grc" n="235"/>
-          <l n="226">
-            <seg type="metrical-part" n="a">And all around him flock'd the wives</seg>
-            <seg type="metrical-part" n="b">and daughters of the Troians,</seg>
-          </l>
-          <l n="227">
-            <seg type="metrical-part" n="a">To make inquiry for their sons,</seg>
-            <seg type="metrical-part" n="b">their brothers and their kinsmen,</seg>
-          </l>
-          <l n="228">
-            <seg type="metrical-part" n="a">And for their husbands. He, in turn,</seg>
-            <seg type="metrical-part" n="b">with solemn train commanded</seg>
-          </l>
-          <l n="229">
-            <seg type="metrical-part" n="a">All to entreat the gods: but grief</seg>
-            <seg type="metrical-part" n="b">was held in store for many.</seg>
-          </l>
-          <l n="230">
-            <seg type="metrical-part" n="a">But when at Priam's gorgeous house,</seg>
-            <seg type="metrical-part" n="b">with shining porches builded,</seg>
-          </l>
-          <milestone unit="line" ed="grc" n="240"/>
-          <l n="231">
-            <seg type="metrical-part" n="a">He had arriv'd, wherein were rang'd</seg>
-            <seg type="metrical-part" n="b">fifty bright marble bowers,</seg>
-          </l>
-          <l n="232">
-            <seg type="metrical-part" n="a">All side by side; where Priam's sons</seg>
-            <seg type="metrical-part" n="b">slept with their wedded consorts;</seg>
-          </l>
-          <l n="233">
-            <seg type="metrical-part" n="a">But opposite, within the court,</seg>
-            <seg type="metrical-part" n="b">were twelve bright marble bowers,</seg>
-          </l>
-          <l n="234">
-            <seg type="metrical-part" n="a">Under the roof, all side by side,</seg>
-            <seg type="metrical-part" n="b">abode of Priam's daughters,</seg>
-          </l>
-          <l n="235">
-            <seg type="metrical-part" n="a">Where slept, beside their wives august,</seg>
-            <seg type="metrical-part" n="b">the sons-in-law of Priam:——</seg>
-          </l>
-          <milestone unit="line" ed="grc" n="245"/>
-          <l n="236">
-            <seg type="metrical-part" n="a">Just then, benign in tenderness,</seg>
-            <seg type="metrical-part" n="b">his mother came across him,</seg>
-          </l>
-          <l n="237">
-            <seg type="metrical-part" n="a">Leading with her Laodike,</seg>
-            <seg type="metrical-part" n="b">the fairest of her daughters;</seg>
-          </l>
-          <l n="238">
-            <seg type="metrical-part" n="a">And closely did she press his hand,</seg>
-            <seg type="metrical-part" n="b">and spake, his name pronouncing;</seg>
-          </l>
-          <l n="239">
-            <seg type="metrical-part" n="a">"And why, my child, thus comest thou,</seg>
-            <seg type="metrical-part" n="b">leaving the hardy battle?</seg>
-          </l>
-          <l n="240">
-            <seg type="metrical-part" n="a">Achaia's children (luckless name!)</seg>
-            <seg type="metrical-part" n="b">around the city warring,</seg>
-          </l>
-          <milestone unit="line" ed="grc" n="250"/>
-          <l n="241">
-            <seg type="metrical-part" n="a">Sorely, I guess, outwear the folk;</seg>
-            <seg type="metrical-part" n="b">and thee thy mind commanded</seg>
-          </l>
-          <l n="242">
-            <seg type="metrical-part" n="a">To come and raise thy hands to Jove</seg>
-            <seg type="metrical-part" n="b">upon the city's summit.</seg>
-          </l>
-          <l n="243">
-            <seg type="metrical-part" n="a">But stay, and let me bring thee wine.</seg>
-            <seg type="metrical-part" n="b">With wine, as honey pleasant,</seg>
-          </l>
-          <l n="244">
-            <seg type="metrical-part" n="a">Shalt thou libations make to Jove</seg>
-            <seg type="metrical-part" n="b">and other gods immortal,</seg>
-          </l>
-          <l n="245">
-            <seg type="metrical-part" n="a">Firstly; and afterward thyself</seg>
-            <seg type="metrical-part" n="b">shalt by the draught be strengthen'd.</seg>
-          </l>
-          <milestone unit="line" ed="grc" n="255"/>
-          <l n="246">
-            <seg type="metrical-part" n="a">Wine to a man allwearièd</seg>
-            <seg type="metrical-part" n="b">increaseth mighty vigour;</seg>
-          </l>
-          <l n="247">
-            <seg type="metrical-part" n="a">As wearièd art thou, my son,</seg>
-            <seg type="metrical-part" n="b">thy kinsmen's lives defending."</seg>
-          </l>
-          <l n="248">
-            <seg type="metrical-part" n="a">Great Hector of the motley helm</seg>
-            <seg type="metrical-part" n="b">then spake to her responsive:</seg>
-          </l>
-          <l n="249">
-            <seg type="metrical-part" n="a">"Raise not to me heart-soothing wine,</seg>
-            <seg type="metrical-part" n="b">O venerable mother,</seg>
-          </l>
-          <l n="250">
-            <seg type="metrical-part" n="a">Lest thou my limbs unnerve, and steal</seg>
-            <seg type="metrical-part" n="b">my memory of valour.</seg>
-          </l>
-          <milestone unit="line" ed="grc" n="260"/>
-          <l n="251">
-            <seg type="metrical-part" n="a">It shameth me, the sparkling wine</seg>
-            <seg type="metrical-part" n="b">to pour with hands unwashen</seg>
-          </l>
           <pb n="107" facs="#137"/>
           <l n="252">
             <seg type="metrical-part" n="a">To Jupiter; nor may a man</seg>
@@ -18476,7 +18323,10 @@
             <seg type="metrical-part" n="b">then will we burn the bodies</seg>
           </l>
           <l n="334">
-            <seg type="metrical-part" n="a">Anent the galleys, high at hand;</seg>
+            <seg type="metrical-part" n="a">Anent the galleys, <choice resp="Newman">
+                <sic>high</sic>
+                <corr>night</corr>
+              </choice> at hand;</seg>
             <seg type="metrical-part" n="b">that, when we homeward voyage,</seg>
           </l>
           <l n="335">
@@ -22507,7 +22357,10 @@
           <milestone unit="line" ed="grc" n="235"/>
           <l n="236">
             <seg type="metrical-part" n="a">For 'tis his vow to chop away</seg>
-            <seg type="metrical-part" n="b">our prows' extreme adornments,</seg>
+            <seg type="metrical-part" n="b">our <choice resp="Newman">
+                <sic>prows'</sic>
+                <corr>poops'<app></app></corr>
+              </choice> extreme adornments,</seg>
           </l>
           <l n="237">
             <seg type="metrical-part" n="a">And in the scorching flame to wrap</seg>
@@ -22893,7 +22746,7 @@
             <seg type="metrical-part" n="b">to kings and chiefs distribute,</seg>
           </l>
           <milestone unit="line" ed="grc" n="325"/>
-          <pb n="144" facs="#184"/>
+          <pb n="154" facs="#184"/>
               <lb n="335"/>
           <l n="326">
             <seg type="metrical-part" n="a">Their rights inviolate abide;</seg>
@@ -22993,7 +22846,10 @@
             <seg type="metrical-part" n="b">then, when to sea I launch them,</seg>
           </l>
           <l n="349">
-            <seg type="metrical-part" n="a">Shall thou behold, if so thy will,</seg>
+            <seg type="metrical-part" n="a"><choice resp="Newman">
+                <sic>Shall</sic>
+                <corr>Shalt</corr>
+              </choice> thou behold, if so thy will,</seg>
             <seg type="metrical-part" n="b">or if such things concern thee,——</seg>
           </l>
           <l n="350">
@@ -24491,7 +24347,7 @@
     <seg type="metrical-part" n="a">Might be in slumber sweet detain'd;</seg>
     <seg type="metrical-part" n="b">but tides of thought did toss him.</seg>
   </l>
-  <lb n="10"/>
+  <lb n="5"/>
   <l n="710">
     <seg type="metrical-part" n="a">And as when brighthair'd Juno's lord</seg>
     <seg type="metrical-part" n="b">thro' heaven lightning sendeth,</seg>
@@ -24509,10 +24365,12 @@
     <seg type="metrical-part" n="a">So thickly from his bosom sobb'd</seg>
     <seg type="metrical-part" n="b">the royal Agamemnon,</seg>
   </l>
+  <lb n="10"/>
   <l n="714">
     <seg type="metrical-part" n="a">Deep drawing from his heart the moan;</seg>
     <seg type="metrical-part" n="b">and all his vitals trembled.</seg>
   </l>
+  
   <l n="715">
     <seg type="metrical-part" n="a">When o'er the Troian plain he gaz'd,</seg>
     <seg type="metrical-part" n="b">the many flames admir'd he,</seg>
@@ -26045,11 +25903,7 @@
     <seg type="metrical-part" n="b">or comest thou self-bidden?"</seg>
   </l>
   <l n="1068">
-    <seg type="metrical-part" n="a">Dolon replied, and while he spake,
-      <choice>
-        <sic>Agameninon</sic>
-        <corr>Agamemnon</corr>
-      </choice> has also been noted as a typo in this segment, though not printed directly in this line.</seg>
+    <seg type="metrical-part" n="a">Dolon replied, and while he spake,</seg>
     <seg type="metrical-part" n="b">his limbs beneath him trembled:</seg>
   </l>
   <l n="1069">
@@ -29105,7 +28959,7 @@
   </l>
 
   <pb n="195" facs="#225"/>
-   <lb n="555"/>
+ 
   <l n="532">
     <seg type="metrical-part" n="a">And in the morning, sorely griev'd</seg>
     <seg type="metrical-part" n="b">and empty, off he passeth:</seg>
@@ -33188,7 +33042,10 @@
     <seg type="metrical-part" n="b">against the brave to quit us." 300</seg>
   </l>
   <l n="231">
-    <seg type="metrical-part" n="a">Thus said, again the god was mix'd</seg>
+    <seg type="metrical-part" n="a"><choice resp="Newman">
+                <sic>Thus</sic>
+                <corr>This</corr>
+              </choice> said, again the god was mix'd</seg>
     <seg type="metrical-part" n="b">amid the toil of heroes.</seg>
   </l>
   <l n="232">
@@ -33313,7 +33170,7 @@
     <seg type="metrical-part" n="a">For neither (as I trow) myself</seg>
     <seg type="metrical-part" n="b">forgetful am of prowess, 375</seg>
   </l>
-    <lb n="215"/>
+    <lb n="270"/>
 
   <l n="261">
     <seg type="metrical-part" n="a">But do among the foremost stand</seg>
@@ -38446,7 +38303,10 @@
     <seg type="metrical-part" n="a">"O doltish and bewilder'd soul,</seg>
     <seg type="metrical-part" n="b">besotted are thy senses: 135</seg>
   </l>
-  <note n="66" place="bottom" type="translator" corresp="urn:cts:greekLit:tlg0012.tlg001:15.66">Orcus, the underworld. This word is Latin, not Homeric: so Tartarus.</note>
+  <note n="66" place="bottom" type="translator" corresp="urn:cts:greekLit:tlg0012.tlg001:15.66">Orcus, the underworld. This word is Latin, not Homeric: <choice resp="Newman">
+                <sic>so</sic>
+                <corr>for</corr>
+              </choice> Tartarus.</note>
 
   <pb n="257" facs="#287"/>
   <l n="128">
@@ -48543,7 +48403,10 @@
           </l>
           <l n="183">
             <seg type="metrical-part" n="a">Nor know I other man, of whom</seg>
-            <seg type="metrical-part" n="b">the noble arms would suit me,</seg>
+            <seg type="metrical-part" n="b"><choice resp="Newman">
+                <sic>the</sic>
+                <corr>thy</corr>
+              </choice> noble arms would suit me,</seg>
           </l>
           <l n="184">
             <seg type="metrical-part" n="a">Unless I haply take the shield</seg>
@@ -58817,7 +58680,10 @@
           </l>
           <l n="59">
             <seg type="metrical-part" n="a">But Peleus' son upon the strand</seg>
-            <seg type="metrical-part" n="b">of much-brawling water 60</seg>
+            <seg type="metrical-part" n="b"><choice resp="Newman">
+                <sic>of</sic>
+                <corr>of the</corr>
+              </choice> much-brawling water 60</seg>
           </l>
           <l n="60">
             <seg type="metrical-part" n="a">Lay mid a troop of Myrmidons,</seg>
@@ -62219,6 +62085,7 @@
             <seg type="metrical-part" n="a">On many a hero-battlefield</seg>
             <seg type="metrical-part" n="b">or cleaving noisome billows:</seg>
           </l>
+          <lb n="10"/>
           <l n="9">
             <seg type="metrical-part" n="a">So, tender tears he dripp'd, reclin'd</seg>
             <seg type="metrical-part" n="b">on side, on face, or backward. 10</seg>
@@ -62236,6 +62103,7 @@
             <seg type="metrical-part" n="a">Then he beneath the chariot</seg>
             <seg type="metrical-part" n="b">would yoke his nimble horses,</seg>
           </l>
+          <lb n="15"/>
           <l n="13">
             <seg type="metrical-part" n="a">And Hector fasten to the car</seg>
             <seg type="metrical-part" n="b">to trail behind their gallop; 15</seg>
@@ -62338,6 +62206,7 @@
             <seg type="metrical-part" n="a">But unto deadly Achileus</seg>
             <seg type="metrical-part" n="b">ye gods are bent on succour,</seg>
           </l>
+          <lb n="40"/>
           <l n="37">
             <seg type="metrical-part" n="a">Who neither rightful is in mind</seg>
             <seg type="metrical-part" n="b">nor may his breast be melted, 40</seg>
@@ -62355,6 +62224,7 @@
             <seg type="metrical-part" n="b">nor bashfulness admitteth, 45</seg>
           </l>
           <milestone unit="line" ed="grc" n="40"/>
+          <lb n="45"/>
           <l n="41">
             <seg type="metrical-part" n="a">Which greatly profiteth mankind</seg>
             <seg type="metrical-part" n="b">or whilom greatly harmeth.</seg>
@@ -62477,6 +62347,7 @@
             <seg type="metrical-part" n="a">Therefore, if some one of the gods</seg>
             <seg type="metrical-part" n="b">would Thetis summon near me;</seg>
           </l>
+          <lb n="75"/>
           <l n="70">
             <seg type="metrical-part" n="a">So might I speak a canny word</seg>
             <seg type="metrical-part" n="b">of counsel, that Achilles 75</seg>
@@ -62495,7 +62366,10 @@
             <seg type="metrical-part" n="b">to craggy-clifted Imbros 80</seg>
           </l>
           <l n="74">
-            <seg type="metrical-part" n="a">Leapt in the black expanse of the sea;</seg>
+            <seg type="metrical-part" n="a">Leapt in the black expanse of <choice resp="Newman">
+                <sic>the</sic>
+                <corr></corr>
+              </choice> sea;</seg>
             <seg type="metrical-part" n="b">and all the waters echoed.</seg>
           </l>
           <l n="75">
@@ -62515,6 +62389,7 @@
             <seg type="metrical-part" n="a">Nymphs of the brine, assembled sat</seg>
             <seg type="metrical-part" n="b">around: she in the middle 85</seg>
           </l>
+          <lb n="85"/>
           <l n="79">
             <seg type="metrical-part" n="a">Was weeping for her spotless son,</seg>
             <seg type="metrical-part" n="b">whom Destiny appointed</seg>
@@ -62574,6 +62449,7 @@
             <seg type="metrical-part" n="a">Eke all the other blessed gods</seg>
             <seg type="metrical-part" n="b">eternal sat around him.</seg>
           </l>
+          <lb n="100"/>
           <l n="93">
             <seg type="metrical-part" n="a">So she by father Jove sat down;</seg>
             <seg type="metrical-part" n="b">for unto her Athene 105</seg>
@@ -62595,6 +62471,7 @@
             <seg type="metrical-part" n="a">"Unto Olympus art thou come,</seg>
             <seg type="metrical-part" n="b">albeit in thy bosom 110</seg>
           </l>
+          <lb n="105"/>
           <l n="98">
             <seg type="metrical-part" n="a">Holding inexpiable grief,</seg>
             <seg type="metrical-part" n="b">oh Thetis: I too know it:</seg>
@@ -62636,7 +62513,7 @@
             <seg type="metrical-part" n="b">and that of all immortals</seg>
           </l>
           <l n="107">
-            <seg type="metrical-part" n="a">Chiefest am I in anger; sith</seg>
+            <seg type="metrical-part" n="a">Chiefest am <emph>I</emph> in anger; sith</seg>
             <seg type="metrical-part" n="b">with frantic mind he holdeth 125</seg>
           </l>
           <l n="108">
@@ -62648,7 +62525,7 @@
             <seg type="metrical-part" n="b">and yield the corpse of Hector.</seg>
           </l>
           <l n="110">
-            <seg type="metrical-part" n="a">But I will Iris send alsó</seg>
+            <seg type="metrical-part" n="a">But <emph>I</emph> will Iris send alsó</seg>
             <seg type="metrical-part" n="b">to mighty-hearted Priam, 130</seg>
           </l>
           <milestone unit="line" ed="grc" n="110"/>
@@ -62846,6 +62723,7 @@
             <seg type="metrical-part" n="a">Wrapt in a cloak, his shape was mark'd;</seg>
             <seg type="metrical-part" n="b">and round his head &amp; shoulders</seg>
           </l>
+          <lb n="165"/>
 <l n="157">
             <seg type="metrical-part" n="a">Was dung, which plenteous his hands</seg>
             <seg type="metrical-part" n="b">had newly pack'd together. 211</seg>
@@ -62863,6 +62741,7 @@
             <seg type="metrical-part" n="b">beneath the hands of Argos. 215</seg>
           </l>
           <milestone unit="line" ed="grc" n="160"/>
+          <lb n="169"/>
           <l n="161">
             <seg type="metrical-part" n="a">Then by the side of Priam stood</seg>
             <seg type="metrical-part" n="b">Jove's messenger, and speaking</seg>
@@ -63053,6 +62932,7 @@
             <seg type="metrical-part" n="b">whom not the coward playing</seg>
           </l>
 <milestone unit="line" ed="grc" n="205"/>
+<lb n="215"/>
           <l n="206">
             <seg type="metrical-part" n="a">Nor plotting shelter or escape</seg>
             <seg type="metrical-part" n="b">he slew, but forward standing</seg>
@@ -63134,6 +63014,7 @@
             <seg type="metrical-part" n="a">A grand possession. Men of Thrace</seg>
             <seg type="metrical-part" n="b">on him of yore bestow'd it,</seg>
           </l>
+          <lb n="235"/>
           <l n="225">
             <seg type="metrical-part" n="a">When he on ambassy went forth.</seg>
             <seg type="metrical-part" n="b">But now, in zeal to ransom 325</seg>
@@ -63151,6 +63032,7 @@
             <seg type="metrical-part" n="a">"Away, ye rascal worthless rout!</seg>
             <seg type="metrical-part" n="b">is it, because no sorrow 330</seg>
           </l>
+          <lb n="240"/>
           <l n="229">
             <seg type="metrical-part" n="a">At home ye have, that therefore now</seg>
             <seg type="metrical-part" n="b">ye hither come to plague me?</seg>
@@ -63168,6 +63050,7 @@
             <seg type="metrical-part" n="a">For by his death the Achaïans</seg>
             <seg type="metrical-part" n="b">will lighter toil encounter</seg>
           </l>
+          <lb n="245"/>
           <l n="233">
             <seg type="metrical-part" n="a">To slay you. As for me, before</seg>
             <seg type="metrical-part" n="b">these eyes behold my city 340</seg>
@@ -63291,6 +63174,7 @@
             <seg type="metrical-part" n="a">Around the boss: then bound it fast,</seg>
             <seg type="metrical-part" n="b">the tongue beneath inserting.</seg>
           </l>
+          <lb n="275"/>
           <l n="262">
             <seg type="metrical-part" n="a">Next, from the chamber carrying,</seg>
             <seg type="metrical-part" n="b">on the well-polish'd carriage 395</seg>
@@ -63521,6 +63405,7 @@
             <seg type="metrical-part" n="b">and reach'd the open country,</seg>
           </l>
           <milestone unit="line" ed="grc" n="315"/>
+          <lb n="330"/>
           <l n="316">
             <seg type="metrical-part" n="a">The train, returning on their path,</seg>
             <seg type="metrical-part" n="b">to Ilium betook them,</seg>
@@ -63621,6 +63506,7 @@
             <seg type="metrical-part" n="a">"Offspring of Dardanus, beware!</seg>
             <seg type="metrical-part" n="b">'tis work for cautious dealing;</seg>
           </l>
+          <lb n="355"/>
           <l n="340">
             <seg type="metrical-part" n="a">Near us a man I see, and think</seg>
             <seg type="metrical-part" n="b">he presently will slay us. 360</seg>
@@ -63786,6 +63672,7 @@
             <seg type="metrical-part" n="a">Mangled beneath his weapon keen:</seg>
             <seg type="metrical-part" n="b">and we stood by admiring: 420</seg>
           </l>
+          <lb n="395"/>
           <l n="379">
             <seg type="metrical-part" n="a">Sith Achileus our arms withheld,</seg>
             <seg type="metrical-part" n="b">enrag'd against Atrides.</seg>
@@ -64015,6 +63902,7 @@
             <seg type="metrical-part" n="a">But when the tent of Peleus' son they reach'd,</seg>
             <seg type="metrical-part" n="b">— a tall pavillion,</seg>
           </l>
+          <lb n="450"/>
           <l n="433">
             <seg type="metrical-part" n="a">Which for their lord the Myrmidons had built</seg>
             <seg type="metrical-part" n="b">with beams of larches, 531</seg>
@@ -64032,6 +63920,7 @@
             <seg type="metrical-part" n="a">Whose door a single beam of larch</seg>
             <seg type="metrical-part" n="b">did bar, which three Achaians</seg>
           </l>
+          <lb n="455"/>
           <l n="437">
             <seg type="metrical-part" n="a">(Three of the common sort) would lift</seg>
             <seg type="metrical-part" n="b">to fasten or to open;</seg>
@@ -64091,6 +63980,7 @@
             <seg type="metrical-part" n="b">from off the car alighted, 565</seg>
           </l>
 <milestone unit="line" ed="grc" n="450"/>
+<lb n="470"/>
           <l n="451">
             <seg type="metrical-part" n="a">And left Idæus there behind:</seg>
             <seg type="metrical-part" n="b">for he the mules and horses</seg>
@@ -64298,6 +64188,7 @@
             <seg type="metrical-part" n="a">How hast thou dar'd, alone to seek</seg>
             <seg type="metrical-part" n="b">amid Achaia's galleys 655</seg>
           </l>
+          <lb n="520"/>
           <l n="500">
             <seg type="metrical-part" n="a">The presence of a man, by whom</seg>
             <seg type="metrical-part" n="b">thy children brave and many</seg>
@@ -64315,6 +64206,7 @@
             <seg type="metrical-part" n="a">Leave we our sorrows anygait</seg>
             <seg type="metrical-part" n="b">unstirr'd within the bosom.</seg>
           </l>
+          <lb n="525"/>
           <l n="504">
             <seg type="metrical-part" n="a">For, fruit is none of chilling wail;</seg>
             <seg type="metrical-part" n="b">and so to wretched mortals 665</seg>
@@ -64336,6 +64228,7 @@
             <seg type="metrical-part" n="a">These, thunder-loving Jupiter</seg>
             <seg type="metrical-part" n="b">to one man mingled giveth;</seg>
           </l>
+          <lb n="530"/>
 <l n="509">
             <seg type="metrical-part" n="a">So, such a man of fair and foul</seg>
             <seg type="metrical-part" n="b">alternate hath his portion. 675</seg>
@@ -64374,6 +64267,7 @@
             <seg type="metrical-part" n="a">In-that no ruling race of sons</seg>
             <seg type="metrical-part" n="b">was born within his chambers:</seg>
           </l>
+          <lb n="540"/>
           <l n="518">
             <seg type="metrical-part" n="a">One only son begat he; — me</seg>
             <seg type="metrical-part" n="b">short-fated; who shall never 691</seg>
@@ -64391,6 +64285,7 @@
             <seg type="metrical-part" n="a">Thou too, old man, of yore (we hear)</seg>
             <seg type="metrical-part" n="b">a blessed fortune haddest,</seg>
           </l>
+          <lb n="545"/>
           <l n="522">
             <seg type="metrical-part" n="a">Who didst in sons and wealth excel,</seg>
             <seg type="metrical-part" n="b">from Lesbos, home of Macar,</seg>
@@ -64556,6 +64451,7 @@
             <seg type="metrical-part" n="b">lest Priam, pierc'd with anguish, 776</seg>
           </l>
 <milestone unit="line" ed="grc" n="560"/>
+<lb n="585"/>
           <l n="561">
             <seg type="metrical-part" n="a">The sight beholding, vent his ire,</seg>
             <seg type="metrical-part" n="b">and Achileus be wrathful,</seg>
@@ -64678,6 +64574,7 @@
             <seg type="metrical-part" n="a">Of food bethought her. Now, I ween,</seg>
             <seg type="metrical-part" n="b">in solitary mountains,</seg>
           </l>
+          <lb n="615"/>
 <l n="590">
             <seg type="metrical-part" n="a">Amid the rocks of Sipylus,</seg>
             <seg type="metrical-part" n="b">where (say they) are the couches 831</seg>
@@ -64928,6 +64825,7 @@
             <seg type="metrical-part" n="a">Slept Priam and the herald old,</seg>
             <seg type="metrical-part" n="b">both fraught with canny counsel.</seg>
           </l>
+          <lb n="675"/>
           <l n="649">
             <seg type="metrical-part" n="a">But in the chamber closely pight,</seg>
             <seg type="metrical-part" n="b">within a niche Achilles</seg>
@@ -65096,6 +64994,7 @@
             <seg type="metrical-part" n="a">Before the gates the livelong day</seg>
             <seg type="metrical-part" n="b">till set of sun had lasted,</seg>
           </l>
+          <lb n="715"/>
           <l n="688">
             <seg type="metrical-part" n="a">But from his car the aged man</seg>
             <seg type="metrical-part" n="b">spake forth unto the people:</seg>
@@ -65177,6 +65076,7 @@
             <seg type="metrical-part" n="b">or haply, some Achaian</seg>
           </l>
           <pb n="434" facs="#464"/>
+           <lb n="735"/>
           <l n="707">
             <seg type="metrical-part" n="a">To sad destruction thee shall give,</seg>
             <seg type="metrical-part" n="b">down from a tower hurling,</seg>
@@ -65223,6 +65123,7 @@
             <seg type="metrical-part" n="a">Might every day and every night</seg>
             <seg type="metrical-part" n="b">in tears and plaint remember."</seg>
           </l>
+          
           <l n="718">
             <seg type="metrical-part" n="a">So spake she weeping: after her,</seg>
             <seg type="metrical-part" n="b">also the women moaned. 755</seg>
@@ -65278,6 +65179,7 @@
             <seg type="metrical-part" n="b">from silver bow, had slain thee." 775</seg>
           </l>
 <milestone unit="line" ed="grc" n="730"/>
+ <lb n="760"/>
           <l n="731">
             <seg type="metrical-part" n="a">So spake she weeping, and arous'd</seg>
             <seg type="metrical-part" n="b">lament unintermitting.</seg>
@@ -65315,6 +65217,7 @@
             <seg type="metrical-part" n="a">Whether of husband's bretheren</seg>
             <seg type="metrical-part" n="b">or longrob'd female kindred,</seg>
           </l>
+           <lb n="770"/>
           <l n="740">
             <seg type="metrical-part" n="a">Or e'en thy mother; (but thy sire</seg>
             <seg type="metrical-part" n="b">is gentle as my father, 791</seg>
@@ -65438,6 +65341,7 @@
             <seg type="metrical-part" n="a">And on it rais'd a barrow-mound,</seg>
             <seg type="metrical-part" n="b">while watchers sat around it, 844</seg>
           </l>
+           <lb n="800"/>
           <l n="769">
             <seg type="metrical-part" n="a">Lest earlier a raid advance</seg>
             <seg type="metrical-part" n="b">of dapper-greav'd Achaians.</seg>
