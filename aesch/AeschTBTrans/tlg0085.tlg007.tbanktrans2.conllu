@@ -3296,7 +3296,6 @@
 # sent_id = 201
 # text = ἔνθεν διώκουσ' ἦλθον ἄτρυτον πόδα, πτερῶν ἄτερ ῥοιβδοῦσα κόλπον αἰγίδος.
 # literal_translation = from there I came plying an untiring foot, without wings whirring the fold of the aegis.
-
 1   ἔνθεν   ἔνθεν   ADV d--------   _   3   obj _   Ref=403|gloss=from_there
 2   διώκουσ'    διώκω   VERB    v-pppafn-   Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass 3   advcl   _   Ref=403|gloss=plying
 3   ἦλθον   ἔρχομαι VERB    v1saia---   Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act  0   root    _   Ref=403|gloss=I_came
@@ -3712,10 +3711,6 @@
 # sent_id = 233
 # text = εἴπερ πεποιθὼς τῇ δίκῃ βρέτας τόδε ἧσαι φυλάσσων ἑστίας ἁμῆς πέλας σεμνὸς προσίκτωρ ἐν τρόποις Ἰξίονος.
 # literal_translation = if indeed trusting in justice you sit guarding this image near my hearth, a holy suppliant in the manner of Ixion.
-
-
-[Image of Ixion on the wheel]
-
 0.1 E0.1    _   _   _   _   _   _   0:root  _   _
 1   εἴπερ   εἴπερ   SCONJ   c--------   _   7   mark    0.1:mark    Ref=439|gloss=if_indeed
 2   πεποιθὼς    πείθω   VERB    v-srpamn-   Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass   7   advcl   7:advcl Ref=439|gloss=trusting
