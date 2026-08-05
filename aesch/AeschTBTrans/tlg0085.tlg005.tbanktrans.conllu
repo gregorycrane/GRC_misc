@@ -12032,6 +12032,160 @@
 7	καίνων	καίνω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	4	nsubj	_	Ref=1562|SpaceAfter=No	killer
 8	.	.	PUNCT	u--------	_	1	punct	_	Ref=1562
 
+# sent_id = 751
+# text = μίμνει δὲ μίμνοντος ἐν θρόνῳ Διὸς παθεῖν τὸν ἔρξαντα·
+# literal_translation = It remains, while Zeus remains on his throne, that the one who acted must suffer.
+1	μίμνει	μίμνω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Ref=1563|gloss=remains
+2	δὲ	δέ	ADV	d--------	PartType=Ptcl	1	advmod	_	Ref=1563|gloss=and
+3	μίμνοντος	μίμνω	VERB	v-sppamg-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	1	advcl	_	Ref=1563|gloss=remaining
+4	ἐν	ἐν	ADP	r--------	_	5	case	_	Ref=1563|gloss=in
+5	θρόνῳ	θρόνος	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	3	obl:arg	_	Ref=1563|gloss=throne
+6	Διὸς	Ζεύς	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	3	nsubj	_	Ref=1563|gloss=of-Zeus
+7	παθεῖν	πάσχω	VERB	v--ana---	VerbForm=Inf|Voice=Act	1	csubj	_	Ref=1564|gloss=to-suffer
+8	τὸν	ὁ	DET	l-s---ma-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Ref=1564|gloss=the
+9	ἔρξαντα	ἔρδω	VERB	v-sapama-	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	7	nsubj	_	Ref=1564|SpaceAfter=No|gloss=doer
+10	·	·	PUNCT	u--------	_	1	punct	_	Ref=1564
+
+# sent_id = 752
+# text = θέσμιον γάρ.
+# literal_translation = For it is ordained.
+1	θέσμιον	θέσμιος	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Ref=1564|gloss=ordained
+2	γάρ	γάρ	ADV	d--------	PartType=Ptcl	1	advmod	1:advmod	Ref=1564|SpaceAfter=No|gloss=for
+3	.	.	PUNCT	u--------	_	1	punct	1:punct	Ref=1564
+
+# sent_id = 753
+# text = τίς ἂν γονὰν ἀραῖον ἐκβάλοι δόμων;
+# literal_translation = Who could drive the accursed seed from the house?
+1	τίς	τίς	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	5	nsubj	_	Ref=1565|gloss=who
+2	ἂν	ἄν1	ADV	d--------	PartType=Ptcl	5	advmod	_	Ref=1565|gloss=could
+3	γονὰν	γονή	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	Ref=1565|gloss=offspring
+4	ἀραῖον	ἀραῖος	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	amod	_	Ref=1565|gloss=accursed
+5	ἐκβάλοι	ἐκβάλλω	VERB	v3saoa---	Mood=Opt|Number=Sing|Person=3|Voice=Act	0	root	_	Ref=1565|gloss=cast-out
+6	δόμων	δόμος	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	5	obj	_	Ref=1565|SpaceAfter=No|gloss=from-house
+7	;	;	PUNCT	u--------	_	5	punct	_	Ref=1565
+
+# sent_id = 754
+# text = κεκόλληται γένος πρὸς ἄτᾳ.
+# literal_translation = The race is glued to ruin.
+1	κεκόλληται	κολλάω	VERB	v3srie---	Mood=Ind|Number=Sing|Person=3|Voice=MidPass	0	root	_	Ref=1566|gloss=is-glued
+2	γένος	γένος	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	Ref=1566|gloss=race
+3	πρὸς	πρός	ADP	r--------	_	4	case	_	Ref=1566|gloss=to
+4	ἄτᾳ	ἄτη	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	1	obl:arg	_	Ref=1566|SpaceAfter=No|gloss=ruin
+5	.	.	PUNCT	u--------	_	1	punct	_	Ref=1566
+
+# sent_id = 755
+# text = ἐς τόνδ’ ἐνέβης ξὺν ἀληθείᾳ χρησμόν.
+# literal_translation = You have entered upon this oracle with truth.
+1	ἐς	εἰς	ADP	r--------	_	6	case	_	Ref=1567|gloss=into
+2	τόνδ’	ὅδε	DET	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	Ref=1567|gloss=this
+3	ἐνέβης	ἐμβαίνω	VERB	v2saia---	Mood=Ind|Number=Sing|Person=2|Tense=Past|Voice=Act	0	root	_	Ref=1567|gloss=you-entered
+4	ξὺν	σύν	ADP	r--------	_	5	case	_	Ref=1567|gloss=with
+5	ἀληθείᾳ	ἀλήθεια	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	Ref=1567|gloss=truth
+6	χρησμόν	χρησμός	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	3	obl:arg	_	Ref=1568|SpaceAfter=No|gloss=oracle
+7	.	.	PUNCT	u--------	_	3	punct	_	Ref=1568
+
+# sent_id = 756
+# text = ἐγὼ δ’ οὖν ἐθέλω δαίμονι τῷ Πλεισθενιδῶν ὅρκους θεμένη τάδε μὲν στέργειν, δύστλητά περ ὄνθ’·
+# literal_translation = But I for my part am willing, making sworn pacts with the daemon of the Pleisthenidae, to acquiesce in these things, hard though they are to bear;
+1	ἐγὼ	ἐγώ	PRON	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Ref=1568|gloss=I
+2	δ’	δέ	ADV	d--------	PartType=Ptcl	4	advmod	_	Ref=1568|gloss=and
+3	οὖν	οὖν	ADV	d--------	PartType=Ptcl	2	advmod	_	Ref=1568|gloss=then
+4	ἐθέλω	ἐθέλω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=1569|gloss=wish
+5	δαίμονι	δαίμων	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	9	iobj	_	Ref=1569|gloss=spirit
+6	τῷ	ὁ	DET	l-s---md-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Ref=1569|gloss=the
+7	Πλεισθενιδῶν	Πλεισθενίδης	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	5	amod	_	Ref=1569|gloss=of-Pleisthenids
+8	ὅρκους	ὅρκος	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	9	obj	_	Ref=1570|gloss=oaths
+9	θεμένη	τίθημι	VERB	v-sapmfn-	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Mid	4	advcl	_	Ref=1570|gloss=making
+10	τάδε	ὅδε	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	12	obj	_	Ref=1570|gloss=these-things
+11	μὲν	μέν	ADV	d--------	PartType=Ptcl	12	advmod	_	Ref=1570|gloss=on-one-hand
+12	στέργειν	στέργω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	4	ccomp	_	Ref=1570|SpaceAfter=No|gloss=to-accept
+13	,	,	PUNCT	u--------	_	14	punct	_	Ref=1570
+14	δύστλητά	δύστλητος	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	12	advcl	_	Ref=1571|gloss=hard-to-bear
+15	περ	πέρ	ADV	d--------	_	14	advmod	_	Ref=1571|gloss=though
+16	ὄνθ’	εἰμί	AUX	v-pppana-	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	14	cop	_	Ref=1571|SpaceAfter=No|gloss=being
+17	·	·	PUNCT	u--------	_	4	punct	_	Ref=1571
+
+# sent_id = 757
+# text = ὃ δὲ λοιπόν, ἰόντ’ ἐκ τῶνδε δόμων ἄλλην γενεὰν τρίβειν θανάτοις αὐθένταισι.
+# literal_translation = and for the future, that he depart from these halls to wear down another race with kin-slaying deaths.
+0.1	E0.1	_	_	_	_	_	_	0:root	_
+1	ὃ	ὅς	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	3	nsubj	3:nsubj	Ref=1571|gloss=as-for-what
+2	δὲ	δέ	ADV	d--------	PartType=Ptcl	0	root	0.1:advmod	Ref=1571|gloss=but
+3	λοιπόν	λοιπός	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	11	advmod	11:advmod	Ref=1571|SpaceAfter=No|gloss=remains
+4	,	,	PUNCT	u--------	_	3	punct	3:punct	Ref=1571
+5	ἰόντ’	εἶμι	VERB	v-sppama-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	11	advcl	11:advcl	Ref=1571|gloss=going
+6	ἐκ	ἐκ	ADP	r--------	_	8	case	8:case	Ref=1572|gloss=from
+7	τῶνδε	ὅδε	DET	p-p---mg-	Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	8	det	8:det	Ref=1572|gloss=these
+8	δόμων	δόμος	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	5	obl:arg	5:obl	Ref=1572|gloss=halls
+9	ἄλλην	ἄλλος	DET	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	10	det	10:det	Ref=1572|gloss=another
+10	γενεὰν	γενεά	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	11	obj	11:obj	Ref=1572|gloss=family
+11	τρίβειν	τρίβω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	2	orphan	0.1:ccomp	Ref=1573|gloss=to-wear-out
+12	θανάτοις	θάνατος	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	11	obl	11:obl	Ref=1573|gloss=with-deaths
+13	αὐθένταισι	αὐθέντης	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	12	nmod	12:nmod	Ref=1573|SpaceAfter=No|gloss=self-slaying
+14	.	.	PUNCT	u--------	_	2	punct	0.1:punct	Ref=1573
+
+# sent_id = 758
+# text = κτεάνων τε μέρος βαιὸν ἐχούσῃ πᾶν ἀπόχρη μοι μανίας μελάθρων ἀλληλοφόνους ἀφελούσῃ.
+# literal_translation = Even possessing a small portion of wealth, it is completely enough for me if I have removed the mad, mutual-slaying frenzy from our halls.
+1	κτεάνων	κτέανον	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	Ref=1574|gloss=of-possessions
+2	τε	τε	CCONJ	c--------	_	7	cc	_	Ref=1574|gloss=and
+3	μέρος	μέρος	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=1574|gloss=part
+4	βαιὸν	βαιός	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	3	amod	_	Ref=1575|gloss=small
+5	ἐχούσῃ	ἔχω	VERB	v-sppafd-	Case=Dat|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	7	advcl	_	Ref=1575|gloss=having
+6	πᾶν	πᾶς	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	7	nsubj	_	Ref=1575|gloss=all
+7	ἀπόχρη	ἀπόχρη	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Ref=1575|gloss=suffices
+8	μοι	ἐγώ	PRON	p-s---fd-	Case=Dat|Gender=Fem|Number=Sing|Person=1|PronType=Prs	7	obj	_	Ref=1575|gloss=to-me
+9	μανίας	μανία	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	12	obj	_	Ref=1575|gloss=frenzies
+10	μελάθρων	μέλαθρον	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	12	obj	_	Ref=1575|gloss=of-halls
+11	ἀλληλοφόνους	ἀλληλοφόνοι	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	9	amod	_	Ref=1576|gloss=mutually-slaying
+12	ἀφελούσῃ	ἀφαιρέω	VERB	v-sfpafd-	Case=Dat|Gender=Fem|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Pass	7	advcl	_	Ref=1576|SpaceAfter=No|gloss=removing
+13	.	.	PUNCT	u--------	_	7	punct	_	Ref=1576
+
+# sent_id = 759
+# text = ὦ φέγγος εὖφρον ἡμέρας δικηφόρου.
+# literal_translation = O kindly light of a justice-bringing day!
+0.1	E0.1	_	_	_	_	_	_	0:root	_
+1	ὦ	ὦ	INTJ	i--------	_	2	discourse	2:discourse	Ref=1577|gloss=oh
+2	φέγγος	φέγγος	NOUN	n-s---nv-	Case=Voc|Gender=Neut|Number=Sing	0	root	0.1:vocative	Ref=1577|gloss=light
+3	εὖφρον	εὔφρων	ADJ	a-s---nv-	Case=Voc|Gender=Neut|Number=Sing	2	amod	2:amod	Ref=1577|gloss=kindly
+4	ἡμέρας	ἡμέρα	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	2	nmod	2:nmod	Ref=1577|gloss=of-day
+5	δικηφόρου	δικηφόρος	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	4	amod	4:amod	Ref=1577|SpaceAfter=No|gloss=avenging
+6	.	.	PUNCT	u--------	_	2	punct	0.1:punct	Ref=1577
+
+# sent_id = 760
+# text = φαίην ἂν ἤδη νῦν βροτῶν τιμαόρους θεοὺς ἄνωθεν γῆς ἐποπτεύειν ἄχη, ἰδὼν ὑφαντοῖς ἐν πέπλοις, Ἐρινύων τὸν ἄνδρα τόνδε κείμενον φίλως ἐμοί, χερὸς πατρῴας ἐκτίνοντα μηχανάς.
+# literal_translation = I could say now at last that the gods as avengers of mortals look down from above upon the woes of earth, seeing this man lying in woven robes of the Furies to my delight, paying for the schemes of his father's hand.
+1	φαίην	φημί	VERB	v1spoa---	Mood=Opt|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=1578|gloss=I-might-say
+2	ἂν	ἄν1	ADV	d--------	PartType=Ptcl	1	advmod	_	Ref=1578|gloss=would
+3	ἤδη	ἤδη	ADV	d--------	_	4	advmod	_	Ref=1578|gloss=already
+4	νῦν	νῦν	ADV	d--------	_	1	advmod	_	Ref=1578|gloss=now
+5	βροτῶν	βροτός	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	Ref=1578|gloss=of-mortals
+6	τιμαόρους	τιμάορος	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	7	acl:compl	_	Ref=1578|gloss=avenging
+7	θεοὺς	θεός	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	10	nsubj	_	Ref=1579|gloss=gods
+8	ἄνωθεν	ἄνωθεν	ADV	d--------	_	10	advmod	_	Ref=1579|gloss=from-above
+9	γῆς	γῆ	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	Ref=1579|gloss=of-earth
+10	ἐποπτεύειν	ἐποπτεύω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	1	ccomp	_	Ref=1579|gloss=to-watch-over
+11	ἄχη	ἄχος	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	10	obj	_	Ref=1579|SpaceAfter=No|gloss=woes
+12	,	,	PUNCT	u--------	_	13	punct	_	Ref=1579
+13	ἰδὼν	εἶδον	VERB	v-sapamn-	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	1	advcl	_	Ref=1580|gloss=having-seen
+14	ὑφαντοῖς	ὑφαντός	ADJ	a-p---md-	Case=Dat|Gender=Masc|Number=Plur	16	amod	_	Ref=1580|gloss=woven
+15	ἐν	ἐν	ADP	r--------	_	16	case	_	Ref=1580|gloss=in
+16	πέπλοις	πέπλος	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	22	obl:arg	_	Ref=1580|SpaceAfter=No|gloss=robes
+17	,	,	PUNCT	u--------	_	18	punct	_	Ref=1580
+18	Ἐρινύων	Ἐρινύς	PROPN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	16	nmod	_	Ref=1580|gloss=of-Furies
+19	τὸν	ὁ	DET	l-s---ma-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	Ref=1581|gloss=the
+20	ἄνδρα	ἀνήρ	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	13	obj	_	Ref=1581|gloss=man
+21	τόνδε	ὅδε	DET	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	20	det	_	Ref=1581|gloss=this
+22	κείμενον	κεῖμαι	VERB	v-sppema-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=MidPass	13	xcomp	_	Ref=1581|gloss=lying
+23	φίλως	φίλος	ADV	d--------	_	22	advmod	_	Ref=1581|gloss=welcome
+24	ἐμοί	ἐγώ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	23	obl	_	Ref=1581|SpaceAfter=No|gloss=to-me
+25	,	,	PUNCT	u--------	_	28	punct	_	Ref=1581
+26	χερὸς	χείρ	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	Ref=1582|gloss=of-hand
+27	πατρῴας	πατρῷος	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	26	amod	_	Ref=1582|gloss=paternal
+28	ἐκτίνοντα	ἐκτίνω	VERB	v-sppama-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	22	advcl	_	Ref=1582|gloss=paying-for
+29	μηχανάς	μηχανή	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	28	obj	_	Ref=1582|SpaceAfter=No|gloss=plots
+30	.	.	PUNCT	u--------	_	1	punct	_	Ref=1582
+
 # sent_id = 761
 # text = Ἀτρεὺς γὰρ ἄρχων τῆσδε γῆς, τούτου πατήρ, πατέρα Θυέστην τὸν ἐμόν, ὡς τορῶς φράσαι, αὑτοῦ δ' ἀδελφόν, ἀμφίλεκτος ὢν κράτει, ἠνδρηλάτησεν ἐκ πόλεώς τε καὶ δόμων.
 # literal_translation = For Atreus, ruler of this land, this man's father, drove my father Thyestes, to speak clearly, and his own brother, disputing his power, from both the city and his home.
