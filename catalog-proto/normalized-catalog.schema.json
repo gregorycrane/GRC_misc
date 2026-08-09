@@ -1,0 +1,193 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://catalog.perseus.org/schema/normalized-catalog.schema.json",
+  "title": "Normalized Perseus work and resource catalog",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["catalogVersion", "agents", "works", "editions", "manifestations", "resources", "sourceRecords"],
+  "properties": {
+    "catalogVersion": { "type": "string" },
+    "generatedAt": { "type": "string", "format": "date-time" },
+    "agents": { "type": "array", "items": { "$ref": "#/$defs/agent" } },
+    "works": { "type": "array", "items": { "$ref": "#/$defs/work" } },
+    "editions": { "type": "array", "items": { "$ref": "#/$defs/edition" } },
+    "manifestations": { "type": "array", "items": { "$ref": "#/$defs/manifestation" } },
+    "resources": { "type": "array", "items": { "$ref": "#/$defs/resource" } },
+    "sourceRecords": { "type": "array", "items": { "$ref": "#/$defs/sourceRecord" } }
+  },
+  "$defs": {
+    "localizedString": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["value"],
+      "properties": {
+        "value": { "type": "string", "minLength": 1 },
+        "language": { "type": "string" },
+        "script": { "type": "string" },
+        "type": { "enum": ["preferred", "uniform", "alternative", "translated", "abbreviated"] }
+      }
+    },
+    "identifier": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["scheme", "value"],
+      "properties": {
+        "scheme": { "type": "string", "minLength": 1 },
+        "value": { "type": "string", "minLength": 1 },
+        "uri": { "type": "string", "format": "uri" },
+        "scope": { "enum": ["agent", "work", "textual_version", "publication", "digital_object", "provider_record", "legacy"] },
+        "status": { "enum": ["verified", "catalog_assigned", "legacy", "deprecated", "unresolved"] },
+        "sourceRecordId": { "type": "string" }
+      }
+    },
+    "contribution": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "role"],
+      "properties": {
+        "agentId": { "type": "string" },
+        "name": { "type": "string", "minLength": 1 },
+        "role": { "type": "string", "minLength": 1 },
+        "identifiers": { "type": "array", "items": { "$ref": "#/$defs/identifier" } }
+      }
+    },
+    "coverage": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "label": { "type": "string" },
+        "volume": { "type": "string" },
+        "parts": { "type": "array", "items": { "type": "string" } },
+        "ctsPassage": { "type": "string" },
+        "completeWork": { "type": "boolean" },
+        "notes": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "agent": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "type", "preferredName", "identifiers"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "type": { "enum": ["person", "organization", "anonymous", "unknown"] },
+        "preferredName": { "$ref": "#/$defs/localizedString" },
+        "variantNames": { "type": "array", "items": { "$ref": "#/$defs/localizedString" } },
+        "identifiers": { "type": "array", "items": { "$ref": "#/$defs/identifier" } },
+        "fieldsOfActivity": { "type": "array", "items": { "type": "string" } },
+        "sourceRecordIds": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "work": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "creatorIds", "preferredTitle", "originalLanguage", "identifiers"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "creatorIds": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+        "preferredTitle": { "$ref": "#/$defs/localizedString" },
+        "variantTitles": { "type": "array", "items": { "$ref": "#/$defs/localizedString" } },
+        "originalLanguage": { "type": "string" },
+        "identifiers": { "type": "array", "items": { "$ref": "#/$defs/identifier" } },
+        "parentWorkId": { "type": "string" },
+        "relationType": { "enum": ["part_of", "summary_of", "fragment_of", "excerpt_from", "attributed_to", "supplement_to"] },
+        "notes": { "type": "array", "items": { "type": "string" } },
+        "sourceRecordIds": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "publication": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "place": { "type": "array", "items": { "type": "string" } },
+        "publisher": { "type": "array", "items": { "type": "string" } },
+        "dateIssuedDisplay": { "type": "string" },
+        "dateIssuedStart": { "type": "integer" },
+        "dateIssuedEnd": { "type": "integer" },
+        "editionStatement": { "type": "string" },
+        "issuance": { "type": "string" },
+        "physicalExtent": { "type": "string" },
+        "series": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "edition": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "workIds", "type", "title", "languages", "identifiers"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "workIds": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+        "type": { "enum": ["edition", "translation", "bilingual_edition", "commentary", "adaptation", "excerpt", "mixed", "unknown"] },
+        "title": { "$ref": "#/$defs/localizedString" },
+        "otherTitles": { "type": "array", "items": { "$ref": "#/$defs/localizedString" } },
+        "languages": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+        "contributors": { "type": "array", "items": { "$ref": "#/$defs/contribution" } },
+        "publication": { "$ref": "#/$defs/publication" },
+        "coverage": { "$ref": "#/$defs/coverage" },
+        "identifiers": { "type": "array", "items": { "$ref": "#/$defs/identifier" } },
+        "notes": { "type": "array", "items": { "type": "string" } },
+        "sourceRecordIds": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "manifestation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "editionId", "kind", "format", "identifiers"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "editionId": { "type": "string" },
+        "kind": { "enum": ["tei_transcription", "page_scan", "pdf", "ocr", "epub", "metadata_record", "other"] },
+        "format": { "type": "string", "minLength": 1 },
+        "label": { "type": "string" },
+        "coverage": { "$ref": "#/$defs/coverage" },
+        "identifiers": { "type": "array", "items": { "$ref": "#/$defs/identifier" } },
+        "derivedFromManifestationId": { "type": "string" },
+        "rights": { "type": "string" },
+        "availability": { "enum": ["available", "restricted", "metadata_only", "broken", "unknown"] },
+        "sourceRecordIds": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "resource": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "provider", "accessType", "url"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "manifestationId": { "type": "string" },
+        "editionId": { "type": "string" },
+        "workId": { "type": "string" },
+        "agentId": { "type": "string" },
+        "provider": { "type": "string", "minLength": 1 },
+        "accessType": { "enum": ["read", "download", "iiif_manifest", "source", "catalog_record", "authority_record", "landing_page", "api"] },
+        "url": { "type": "string", "format": "uri" },
+        "format": { "type": "string" },
+        "label": { "type": "string" },
+        "providerObjectId": { "type": "string" },
+        "relationship": { "enum": ["primary", "mirror", "alternate_interface", "derived_file", "metadata_for"] },
+        "stable": { "type": "boolean" },
+        "availability": { "enum": ["available", "restricted", "broken", "unknown"] },
+        "lastChecked": { "type": "string", "format": "date-time" },
+        "sourceRecordIds": { "type": "array", "items": { "type": "string" } }
+      },
+      "anyOf": [
+        { "required": ["manifestationId"] },
+        { "required": ["editionId"] },
+        { "required": ["workId"] },
+        { "required": ["agentId"] }
+      ]
+    },
+    "sourceRecord": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "recordType", "repository", "path"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "recordType": { "enum": ["MADS", "MODS", "CTS_INVENTORY", "TEI_HEADER", "OTHER"] },
+        "repository": { "type": "string" },
+        "path": { "type": "string" },
+        "commit": { "type": "string" },
+        "recordIdentifier": { "type": "string" },
+        "warnings": { "type": "array", "items": { "type": "string" } }
+      }
+    }
+  }
+}

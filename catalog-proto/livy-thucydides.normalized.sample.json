@@ -1,0 +1,230 @@
+{
+  "catalogVersion": "0.1.0",
+  "generatedAt": "2026-08-09T15:00:00Z",
+  "agents": [
+    {
+      "id": "agent:thucydides",
+      "type": "person",
+      "preferredName": { "value": "Thucydides", "language": "eng", "type": "preferred" },
+      "variantNames": [
+        { "value": "Θουκυδίδης", "language": "grc", "type": "alternative" },
+        { "value": "Thukydides", "language": "deu", "type": "alternative" }
+      ],
+      "identifiers": [
+        { "scheme": "cts_textgroup", "value": "urn:cts:greekLit:tlg0003", "scope": "agent", "status": "verified" },
+        { "scheme": "viaf", "value": "95161463", "uri": "https://viaf.org/viaf/95161463", "scope": "agent", "status": "verified" },
+        { "scheme": "citeurn", "value": "urn:cite:perseus:author.1403.1", "scope": "legacy", "status": "legacy" }
+      ],
+      "fieldsOfActivity": ["Historian"],
+      "sourceRecordIds": ["source:mads:author.1403.1"]
+    }
+  ],
+  "works": [
+    {
+      "id": "work:urn:cts:greekLit:tlg0003.tlg001",
+      "creatorIds": ["agent:thucydides"],
+      "preferredTitle": { "value": "History of the Peloponnesian War", "language": "eng", "type": "preferred" },
+      "variantTitles": [{ "value": "Ἱστορίαι", "language": "grc", "type": "uniform" }],
+      "originalLanguage": "grc",
+      "identifiers": [
+        { "scheme": "cts_work", "value": "urn:cts:greekLit:tlg0003.tlg001", "scope": "work", "status": "verified" },
+        { "scheme": "tlg", "value": "0003.001", "scope": "work", "status": "verified" }
+      ],
+      "sourceRecordIds": ["source:cts:tlg0003.tlg001"]
+    }
+  ],
+  "editions": [
+    {
+      "id": "edition:thucydides-hobbes-1812",
+      "workIds": ["work:urn:cts:greekLit:tlg0003.tlg001"],
+      "type": "translation",
+      "title": { "value": "The history of the Grecian war, in eight books", "language": "eng", "type": "preferred" },
+      "languages": ["eng"],
+      "contributors": [
+        { "name": "Thucydides", "role": "creator" },
+        { "name": "Hobbes, Thomas", "role": "translator" }
+      ],
+      "publication": {
+        "place": ["London"],
+        "publisher": ["Longman, Hurst, Rees, Orme and Brown"],
+        "dateIssuedDisplay": "1812",
+        "dateIssuedStart": 1812,
+        "dateIssuedEnd": 1812,
+        "editionStatement": "A new ed., corr. and amended.",
+        "issuance": "monographic"
+      },
+      "coverage": { "label": "Volumes I-II", "completeWork": true },
+      "identifiers": [
+        { "scheme": "oclc", "value": "13683262", "scope": "publication", "status": "verified" },
+        { "scheme": "cts_version", "value": "urn:cts:greekLit:tlg0003.tlg001.opp-eng12", "scope": "textual_version", "status": "catalog_assigned", "sourceRecordId": "source:mods:opp-eng12" }
+      ],
+      "sourceRecordIds": ["source:mods:opp-eng12"]
+    },
+    {
+      "id": "edition:thucydides-jones-powell-1942",
+      "workIds": ["work:urn:cts:greekLit:tlg0003.tlg001"],
+      "type": "edition",
+      "title": { "value": "Thucydidis Historiae", "language": "lat", "type": "preferred" },
+      "languages": ["grc"],
+      "contributors": [
+        { "name": "Jones, Henry Stuart", "role": "editor" },
+        { "name": "Powell, John Enoch", "role": "commenter" }
+      ],
+      "publication": {
+        "place": ["Oxonii"],
+        "publisher": ["e typographeo Clarendoniano"],
+        "dateIssuedDisplay": "1942",
+        "dateIssuedStart": 1942,
+        "dateIssuedEnd": 1942,
+        "issuance": "monographic",
+        "physicalExtent": "2 v. 20 cm.",
+        "series": ["Oxford Classical Texts"]
+      },
+      "identifiers": [
+        { "scheme": "oclc", "value": "871050", "scope": "publication", "status": "verified" },
+        { "scheme": "cts_version", "value": "urn:cts:greekLit:tlg0003.tlg001.perseus-grc2", "scope": "textual_version", "status": "verified" }
+      ],
+      "sourceRecordIds": ["source:mods:perseus-grc2", "source:cts:tlg0003.tlg001"]
+    }
+  ],
+  "manifestations": [
+    {
+      "id": "manifestation:ia:historyofgrecian00thucuoft",
+      "editionId": "edition:thucydides-hobbes-1812",
+      "kind": "page_scan",
+      "format": "image/*",
+      "label": "Volume I scan",
+      "coverage": { "volume": "I", "completeWork": false },
+      "identifiers": [{ "scheme": "internet_archive", "value": "historyofgrecian00thucuoft", "scope": "digital_object", "status": "verified" }],
+      "availability": "available",
+      "sourceRecordIds": ["source:mods:opp-eng12"]
+    },
+    {
+      "id": "manifestation:ia:historyofgrecian02thucuoft",
+      "editionId": "edition:thucydides-hobbes-1812",
+      "kind": "page_scan",
+      "format": "image/*",
+      "label": "Volume II scan",
+      "coverage": { "volume": "II", "completeWork": false },
+      "identifiers": [{ "scheme": "internet_archive", "value": "historyofgrecian02thucuoft", "scope": "digital_object", "status": "verified" }],
+      "availability": "available",
+      "sourceRecordIds": ["source:mods:opp-eng12"]
+    },
+    {
+      "id": "manifestation:tei:urn:cts:greekLit:tlg0003.tlg001.perseus-grc2",
+      "editionId": "edition:thucydides-jones-powell-1942",
+      "kind": "tei_transcription",
+      "format": "application/tei+xml",
+      "label": "Perseus TEI transcription",
+      "coverage": { "completeWork": true },
+      "identifiers": [{ "scheme": "cts_version", "value": "urn:cts:greekLit:tlg0003.tlg001.perseus-grc2", "scope": "digital_object", "status": "verified" }],
+      "availability": "available",
+      "sourceRecordIds": ["source:mods:perseus-grc2", "source:cts:tlg0003.tlg001"]
+    }
+  ],
+  "resources": [
+    {
+      "id": "resource:ia:historyofgrecian00thucuoft",
+      "manifestationId": "manifestation:ia:historyofgrecian00thucuoft",
+      "provider": "Internet Archive",
+      "accessType": "read",
+      "url": "https://archive.org/details/historyofgrecian00thucuoft",
+      "providerObjectId": "historyofgrecian00thucuoft",
+      "relationship": "primary",
+      "stable": true,
+      "availability": "available",
+      "sourceRecordIds": ["source:mods:opp-eng12"]
+    },
+    {
+      "id": "resource:ol:historyofgrecian00thucuoft",
+      "manifestationId": "manifestation:ia:historyofgrecian00thucuoft",
+      "provider": "Open Library",
+      "accessType": "landing_page",
+      "url": "https://openlibrary.org/details/historyofgrecian00thucuoft",
+      "providerObjectId": "historyofgrecian00thucuoft",
+      "relationship": "alternate_interface",
+      "stable": false,
+      "availability": "unknown",
+      "sourceRecordIds": ["source:mods:opp-eng12"]
+    },
+    {
+      "id": "resource:ia:historyofgrecian02thucuoft",
+      "manifestationId": "manifestation:ia:historyofgrecian02thucuoft",
+      "provider": "Internet Archive",
+      "accessType": "read",
+      "url": "https://archive.org/details/historyofgrecian02thucuoft",
+      "providerObjectId": "historyofgrecian02thucuoft",
+      "relationship": "primary",
+      "stable": true,
+      "availability": "available",
+      "sourceRecordIds": ["source:mods:opp-eng12"]
+    },
+    {
+      "id": "resource:github:tlg0003.tlg001.perseus-grc2",
+      "manifestationId": "manifestation:tei:urn:cts:greekLit:tlg0003.tlg001.perseus-grc2",
+      "provider": "PerseusDL canonical-greekLit",
+      "accessType": "source",
+      "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0003/tlg001/tlg0003.tlg001.perseus-grc2.xml",
+      "format": "application/tei+xml",
+      "providerObjectId": "tlg0003.tlg001.perseus-grc2.xml",
+      "relationship": "primary",
+      "stable": false,
+      "availability": "available",
+      "sourceRecordIds": ["source:mods:perseus-grc2"]
+    },
+    {
+      "id": "resource:beta-perseus:tlg0003.tlg001.perseus-grc2",
+      "manifestationId": "manifestation:tei:urn:cts:greekLit:tlg0003.tlg001.perseus-grc2",
+      "provider": "Perseus Digital Library",
+      "accessType": "read",
+      "url": "https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0003.tlg001.perseus-grc2:1.1.1/",
+      "relationship": "alternate_interface",
+      "stable": true,
+      "availability": "available",
+      "sourceRecordIds": ["source:cts:tlg0003.tlg001"]
+    },
+    {
+      "id": "resource:worldcat:13683262",
+      "editionId": "edition:thucydides-hobbes-1812",
+      "provider": "WorldCat",
+      "accessType": "catalog_record",
+      "url": "https://worldcat.org/oclc/13683262",
+      "providerObjectId": "13683262",
+      "relationship": "metadata_for",
+      "stable": true,
+      "availability": "unknown",
+      "sourceRecordIds": ["source:mods:opp-eng12"]
+    }
+  ],
+  "sourceRecords": [
+    {
+      "id": "source:mads:author.1403.1",
+      "recordType": "MADS",
+      "repository": "gregorycrane/catalog_data",
+      "path": "mads/PrimaryAuthors/T/Thucydides/author.1403.1.mads.xml",
+      "commit": "dc5871c3609c6a2ffc7e787fbdc70f6924ba4be6",
+      "recordIdentifier": "oca00254975"
+    },
+    {
+      "id": "source:mods:opp-eng12",
+      "recordType": "MODS",
+      "repository": "gregorycrane/catalog_data",
+      "path": "mods/greekLit/tlg0003/tlg001/opp-eng12/tlg0003.tlg001.opp-eng12.mods1.xml",
+      "commit": "dc5871c3609c6a2ffc7e787fbdc70f6924ba4be6",
+      "warnings": ["CTS version URN is catalog-assigned; the MODS record does not establish a matching TEI file."]
+    },
+    {
+      "id": "source:mods:perseus-grc2",
+      "recordType": "MODS",
+      "repository": "gregorycrane/catalog_data",
+      "path": "mods/greekLit/tlg0003/tlg001/perseus-grc2/tlg0003.tlg001.perseus-grc2.mods1.xml",
+      "commit": "dc5871c3609c6a2ffc7e787fbdc70f6924ba4be6"
+    },
+    {
+      "id": "source:cts:tlg0003.tlg001",
+      "recordType": "CTS_INVENTORY",
+      "repository": "PerseusDL/canonical-greekLit",
+      "path": "data/tlg0003/tlg001/__cts__.xml"
+    }
+  ]
+}

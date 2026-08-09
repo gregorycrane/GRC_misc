@@ -1,0 +1,1335 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="no-referrer">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline' 'unsafe-eval' 'wasm-unsafe-eval' blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; style-src 'unsafe-inline' blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; img-src blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; font-src blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; media-src blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; worker-src blob:; connect-src blob: data:; frame-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
+<title>Perseus Catalog Discovery</title>
+<style>:root{color-scheme:light dark;background:light-dark(rgb(255 255 255), rgb(24 24 24))}html,body{margin:0}body{box-sizing:border-box;padding:1rem;background:inherit}iframe{display:block;width:100%;height:calc(100vh - 2rem);margin:0 auto;border:0}</style>
+</head>
+<body>
+<iframe sandbox="allow-scripts" referrerpolicy="no-referrer" title="Perseus Catalog Discovery" srcdoc="&lt;!doctype html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;utf-8&quot;&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;
+&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+&lt;meta http-equiv=&quot;Content-Security-Policy&quot; content=&quot;default-src &#x27;none&#x27;; script-src &#x27;unsafe-inline&#x27; &#x27;unsafe-eval&#x27; &#x27;wasm-unsafe-eval&#x27; blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; style-src &#x27;unsafe-inline&#x27; blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; img-src blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; font-src blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; media-src blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; worker-src blob:; connect-src blob: data:; frame-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;&quot;&gt;
+&lt;title&gt;Perseus Catalog Discovery&lt;/title&gt;
+&lt;style&gt;:root {
+  color-scheme: light dark;
+  background-color: var(
+    --background,
+    var(--color-background-primary, light-dark(rgb(255 255 255), rgb(24 24 24)))
+  ) !important;
+
+  /* Agent-facing contract; keep in sync with SKILL.md. */
+  --background: var(
+    --color-background-primary,
+    light-dark(rgb(255 255 255), rgb(24 24 24))
+  );
+  --foreground: var(
+    --color-text-primary,
+    light-dark(rgb(26 28 31), rgb(255 255 255))
+  );
+  --card: color-mix(in oklab, var(--foreground) 5%, var(--background));
+  --card-foreground: var(
+    --color-text-primary,
+    light-dark(rgb(26 28 31), rgb(255 255 255))
+  );
+  --popover: var(
+    --color-background-secondary,
+    light-dark(rgb(255 255 255), rgb(45 45 45))
+  );
+  --popover-foreground: var(
+    --color-text-primary,
+    light-dark(rgb(26 28 31), rgb(255 255 255))
+  );
+  --primary: var(
+    --color-text-info,
+    light-dark(rgb(51 156 255), rgb(131 195 255))
+  );
+  --primary-foreground: var(
+    --color-text-inverse,
+    light-dark(rgb(255 255 255), rgb(13 13 13))
+  );
+  --secondary: var(
+    --color-background-secondary,
+    light-dark(rgb(255 255 255 / 96%), rgb(54 54 54 / 96%))
+  );
+  --secondary-foreground: var(
+    --color-text-primary,
+    light-dark(rgb(26 28 31), rgb(255 255 255))
+  );
+  --muted: color-mix(in srgb, var(--foreground) 10%, transparent);
+  --muted-foreground: var(
+    --color-text-secondary,
+    light-dark(rgb(26 28 31 / 49.4%), rgb(255 255 255 / 49.8%))
+  );
+  --accent: var(
+    --color-background-info,
+    light-dark(rgb(229 242 255), rgb(13 39 63))
+  );
+  --accent-foreground: var(
+    --color-text-info,
+    light-dark(rgb(51 156 255), rgb(131 195 255))
+  );
+  --destructive: var(
+    --color-text-warning,
+    light-dark(rgb(226 85 7), rgb(255 133 73))
+  );
+  --border: var(
+    --color-border-secondary,
+    light-dark(rgb(26 28 31 / 8%), rgb(255 255 255 / 8.2%))
+  );
+  --input: var(
+    --color-border-primary,
+    light-dark(
+      rgb(26 28 31 / 11.8%),
+      color-mix(in oklab, rgb(0 0 0) 10%, transparent)
+    )
+  );
+  --ring: var(
+    --color-ring-primary,
+    light-dark(rgb(51 156 255), rgb(131 195 255 / 76%))
+  );
+  --font-size-base: var(--font-text-md-size, 14px);
+  --blue: light-dark(rgb(51 156 255), rgb(51 156 255));
+  --orange: light-dark(rgb(226 85 7), rgb(251 106 34));
+  --green: light-dark(rgb(0 162 64), rgb(64 201 119));
+  --red: light-dark(rgb(224 46 42), rgb(255 103 100));
+  --purple: light-dark(rgb(146 79 247), rgb(173 123 249));
+  --yellow: light-dark(rgb(255 195 0), rgb(255 210 64));
+  --viz-series-1: var(--primary);
+  --viz-series-2: light-dark(rgb(243 136 59), rgb(245 154 86));
+  --viz-series-3: light-dark(rgb(93 201 119), rgb(116 213 139));
+  --viz-series-4: light-dark(rgb(235 119 177), rgb(240 143 192));
+  --viz-series-5: light-dark(rgb(155 121 236), rgb(170 145 239));
+  --viz-series-6: light-dark(rgb(58 185 177), rgb(90 203 194));
+
+  /* Internal implementation variables; not part of the agent contract. */
+  --font-sans: -apple-system, system-ui, &quot;Segoe UI&quot;, sans-serif;
+  --font-mono:
+    ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mono&quot;,
+    monospace;
+  --font-size-normal: max(11px, var(--font-size-base));
+  --font-size-tooltip: calc(var(--font-size-base) - 1px);
+  --font-size-small: max(11px, calc(var(--font-size-base) - 2px));
+  --font-size-h1: calc(var(--font-size-normal) * 1.7142857143);
+  --font-size-h2: calc(var(--font-size-normal) * 1.4285714286);
+  --font-size-h3: calc(var(--font-size-normal) * 1.2857142857);
+  --font-weight-normal: 430;
+  --font-weight-medium: 500;
+  --line-height-normal: calc(var(--font-size-normal) * 1.5);
+  --line-height-tooltip: calc(var(--font-size-tooltip) * 1.4285714286);
+  --line-height-small: calc(var(--font-size-small) + 4px);
+  --radius: var(--border-radius-lg, 12.5px);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-2xl: calc(var(--radius) * 1.6);
+  --radius-full: 9999px;
+  --shadow-sm: 0 1px 2px -1px rgb(0 0 0 / 8%);
+  --checkmark-image: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#x27;http://www.w3.org/2000/svg&#x27; viewBox=&#x27;0 0 17 17&#x27;%3E%3Cpath d=&#x27;M12.8961 3.64101C13.1297 3.41418 13.4984 3.37523 13.7779 3.56581C14.0571 3.75635 14.1554 4.11331 14.0299 4.41347L13.9615 4.53847L7.71151 13.7045C7.59411 13.8767 7.4063 13.9877 7.19881 14.0072C6.99136 14.0267 6.78564 13.9533 6.63826 13.806L2.88826 10.056L2.79842 9.9457C2.6192 9.67407 2.64927 9.30496 2.88826 9.06581C3.12738 8.82669 3.49647 8.79676 3.76815 8.97597L3.8785 9.06581L7.03084 12.2182L12.8053 3.74941L12.8961 3.64101Z&#x27;/%3E%3C/svg%3E&quot;);
+
+  /* Legacy aliases; not part of the current agent contract. */
+  --viz-bg: transparent;
+  --viz-panel: var(--card);
+  --viz-border: var(--border);
+  --viz-text: var(--foreground);
+  --viz-muted: var(--muted-foreground);
+  --viz-accent: var(--primary);
+  --viz-accent-text: var(--primary-foreground);
+  --viz-accent-bg: var(--accent);
+  --viz-font-size: var(--font-size-base);
+  --viz-warning: var(--destructive);
+}
+
+:root[data-theme=&quot;light&quot;] {
+  color-scheme: light;
+}
+
+:root[data-theme=&quot;dark&quot;] {
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html &gt; body {
+  /* Preserve MCP aliases for older inline renderers without creating :root cycles. */
+  --color-background-primary: var(
+    --background,
+    light-dark(rgb(255 255 255), rgb(24 24 24))
+  );
+  --color-text-primary: var(
+    --foreground,
+    light-dark(rgb(26 28 31), rgb(255 255 255))
+  );
+  --color-border-secondary: var(
+    --border,
+    light-dark(rgb(26 28 31 / 8%), rgb(255 255 255 / 8.2%))
+  );
+
+  margin: 0;
+  padding: 5px;
+  color: var(--foreground);
+  background: transparent !important;
+  font-family: var(--font-sans);
+  font-size: var(--font-size-normal);
+  font-weight: var(--font-weight-normal);
+  line-height: var(--line-height-normal);
+}
+
+a {
+  color: color-mix(in srgb, var(--viz-accent) 80%, var(--viz-text) 20%);
+  cursor: pointer;
+  font-weight: var(--font-weight-medium, 500);
+  text-decoration: none;
+  text-underline-offset: 2px;
+}
+
+a:is(:hover, :focus-visible) {
+  text-decoration-line: underline;
+  text-decoration-style: dashed;
+  text-decoration-thickness: 0.5px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-block: 0;
+}
+
+h1 {
+  font-size: var(--font-size-h1);
+  font-weight: var(--font-weight-medium);
+  line-height: 1.25;
+}
+
+h2 {
+  font-size: var(--font-size-h2);
+  font-weight: var(--font-weight-medium);
+  line-height: 1.25;
+}
+
+h3,
+h4,
+h5,
+h6 {
+  font-size: var(--font-size-h3);
+  font-weight: var(--font-weight-medium);
+  line-height: 1.3;
+}
+
+b,
+strong,
+th {
+  font-weight: var(--font-weight-medium);
+}
+
+code:not(pre code) {
+  display: inline;
+  padding: 1px 6px;
+  border-radius: var(--radius-sm);
+  corner-shape: superellipse(1.5);
+  background: var(--muted);
+  font-family: var(--font-mono);
+  font-size: 0.92em;
+  overflow-wrap: anywhere;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  word-break: break-word;
+}
+
+.table-responsive {
+  width: 100%;
+  overflow-x: auto;
+  scrollbar-width: thin;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  color: var(--foreground);
+  font: inherit;
+  text-align: start;
+}
+
+.table :is(th, td) {
+  padding-block: 10px;
+  padding-inline: 0 24px;
+  overflow-wrap: anywhere;
+  border-bottom: 1px solid var(--border);
+  text-align: start;
+  vertical-align: top;
+}
+
+.table-responsive &gt; .table :is(th, td) {
+  overflow-wrap: break-word;
+}
+
+.table :is(th, td):last-child {
+  padding-inline-end: 0;
+}
+
+.table :is(caption, thead th) {
+  font-weight: 600;
+}
+
+.table thead th {
+  padding-block: 8px;
+  border-bottom-color: color-mix(in srgb, var(--foreground) 16%, transparent);
+}
+
+.table tbody tr:last-child :is(th, td) {
+  border-bottom: 0;
+}
+
+.table.table-sm :is(th, td) {
+  padding-block: 6px;
+}
+
+.table.table-sm :is(th, td):not(:last-child) {
+  padding-inline-end: 16px;
+}
+
+.table :is(.text-end, [align=&quot;right&quot;]) {
+  text-align: end;
+  font-variant-numeric: tabular-nums;
+}
+
+.table :is(.text-center, [align=&quot;center&quot;]) {
+  text-align: center;
+}
+
+.table .text-nowrap {
+  white-space: nowrap;
+}
+
+#widget {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: 100%;
+  padding: 0;
+  background: transparent !important;
+}
+
+.card {
+  min-width: 0;
+  padding: 12px;
+  overflow: hidden;
+  overflow-wrap: break-word;
+  border-radius: var(--radius-2xl);
+  corner-shape: superellipse(1.5);
+  color: var(--card-foreground);
+  background: var(--card);
+}
+
+#widget &gt; :not(.card) {
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+.tooltip {
+  position: fixed;
+  z-index: 50;
+  top: 0;
+  left: 0;
+  width: max-content;
+  max-width: min(
+    20rem,
+    var(--tooltip-available-width, calc(100vw - 10px)),
+    calc(100vw - 10px)
+  );
+  max-height: min(
+    var(--tooltip-available-height, calc(100vh - 10px)),
+    calc(100vh - 10px)
+  );
+  padding: 4px 8px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  corner-shape: superellipse(1.5);
+  color: var(--popover-foreground);
+  background: var(--popover);
+  box-shadow: none;
+  font-size: var(--font-size-tooltip);
+  line-height: var(--line-height-tooltip);
+  overflow-wrap: break-word;
+  white-space: normal;
+  pointer-events: none;
+  user-select: none;
+}
+
+.viz-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(max(180px, 24%), 1fr));
+  gap: 10px;
+}
+
+.viz-stat {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.viz-stat-value {
+  font-size: var(--font-size-h2);
+  font-weight: var(--font-weight-medium);
+  line-height: 1.25;
+}
+
+.viz-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+}
+
+.viz-badge {
+  padding: 3px 8px;
+  border-radius: var(--radius-full);
+  color: var(--accent-foreground);
+  background: var(--accent);
+  font-weight: var(--font-weight-medium);
+}
+
+small,
+.text-small,
+.viz-badge {
+  font-size: var(--font-size-small);
+  line-height: var(--line-height-small);
+}
+
+.text-muted {
+  color: var(--muted-foreground);
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.viz-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+
+.viz-controls &gt; .form-label {
+  display: grid;
+  min-width: min(100%, 260px);
+  flex: 1 1 280px;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: baseline;
+  gap: 2px 12px;
+  margin-bottom: 0;
+}
+
+.viz-controls &gt; .form-label &gt; :is(.form-control, .form-range, .form-select) {
+  grid-column: 1 / -1;
+}
+
+.btn,
+.form-check-input,
+.form-control,
+.form-range,
+.form-select {
+  font: inherit;
+}
+
+.btn {
+  appearance: button;
+  display: inline-flex;
+  inline-size: fit-content;
+  max-inline-size: 100%;
+  min-height: 28px;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  margin: 0;
+  padding: 0 8px;
+  -webkit-app-region: no-drag;
+  border: 1px solid var(--input);
+  border-radius: var(--radius-lg);
+  corner-shape: superellipse(1.5);
+  color: var(--secondary-foreground);
+  background: var(--secondary);
+  cursor: var(--cursor-interaction, pointer);
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  user-select: none;
+  -webkit-font-smoothing: antialiased;
+}
+
+.btn:is(.btn-block, .viz-tile) {
+  inline-size: 100%;
+}
+
+.btn.viz-tile {
+  min-width: 0;
+  overflow-wrap: anywhere;
+  white-space: normal;
+}
+
+a.btn {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.btn:not(:disabled):hover {
+  background: color-mix(in srgb, var(--foreground) 6%, var(--secondary));
+}
+
+.btn-primary {
+  border-color: transparent;
+  color: var(--primary-foreground);
+  background: var(--foreground);
+  background-clip: padding-box;
+}
+
+.btn-primary .text-muted {
+  color: color-mix(in srgb, var(--primary-foreground) 50%, transparent);
+}
+
+.btn-primary:not(:disabled):hover {
+  background: color-mix(in srgb, var(--foreground) 80%, transparent);
+  background-clip: padding-box;
+}
+
+.btn-ghost {
+  border-color: transparent;
+  color: var(--muted-foreground);
+  background: transparent;
+}
+
+.btn-ghost:not(:disabled):hover {
+  color: var(--foreground);
+  background: color-mix(in srgb, var(--foreground) 6%, var(--secondary));
+}
+
+.btn:disabled {
+  cursor: not-allowed;
+  opacity: 0.4;
+}
+
+[data-lucide] {
+  stroke-width: 1.6;
+}
+
+.form-label {
+  display: block;
+  margin-bottom: 6px;
+  color: var(--foreground);
+}
+
+.form-control {
+  display: block;
+  width: 100%;
+  min-height: 28px;
+  padding: 0 8px;
+  outline: none;
+  border: 1px solid var(--input);
+  border-radius: var(--radius-lg);
+  corner-shape: superellipse(1.5);
+  color: var(--foreground);
+  background: var(--secondary);
+}
+
+.form-control::placeholder {
+  color: var(--muted-foreground);
+}
+
+.form-control[type=&quot;file&quot;] {
+  padding: 0;
+  overflow: hidden;
+  cursor: var(--cursor-interaction, pointer);
+}
+
+.form-control[type=&quot;file&quot;]::file-selector-button {
+  min-height: 26px;
+  margin-right: 8px;
+  padding: 0 8px;
+  border: 0;
+  border-right: 1px solid var(--input);
+  color: var(--secondary-foreground);
+  background: var(--secondary);
+  cursor: inherit;
+  font: inherit;
+}
+
+.form-control[type=&quot;file&quot;]:not(:disabled):hover::file-selector-button {
+  background: color-mix(in srgb, var(--foreground) 6%, var(--secondary));
+}
+
+.form-control-color[type=&quot;color&quot;] {
+  width: 40px;
+  height: 28px;
+  padding: 3px;
+  cursor: var(--cursor-interaction, pointer);
+}
+
+.form-control-color[type=&quot;color&quot;]::-webkit-color-swatch-wrapper {
+  padding: 0;
+}
+
+.form-control-color[type=&quot;color&quot;]::-webkit-color-swatch {
+  border: 0;
+  border-radius: calc(var(--radius-lg) - 4px);
+  corner-shape: superellipse(1.5);
+}
+
+textarea.form-control {
+  height: auto;
+  min-height: 72px;
+  padding: 8px 10px;
+  resize: vertical;
+}
+
+.form-control:focus-visible {
+  border-color: var(--ring);
+  box-shadow: inset 0 0 0 1px var(--ring);
+}
+
+.form-control:disabled,
+.form-select:disabled {
+  cursor: not-allowed;
+  opacity: 0.4;
+}
+
+.form-select {
+  appearance: none;
+  display: block;
+  width: 100%;
+  min-height: 28px;
+  margin: 0;
+  padding: 0 32px 0 8px;
+  outline: none;
+  border: 1px solid var(--input);
+  border-radius: var(--radius-lg);
+  corner-shape: superellipse(1.5);
+  color: var(--foreground);
+  background-color: var(--secondary);
+  background-image:
+    linear-gradient(45deg, transparent 50%, var(--muted-foreground) 50%),
+    linear-gradient(135deg, var(--muted-foreground) 50%, transparent 50%);
+  background-position:
+    calc(100% - 14px) 50%,
+    calc(100% - 10px) 50%;
+  background-repeat: no-repeat;
+  background-size: 4px 4px;
+  cursor: var(--cursor-interaction, default);
+}
+
+.form-select:not(:disabled):hover {
+  background-color: color-mix(in srgb, var(--foreground) 6%, var(--secondary));
+}
+
+.form-select:focus-visible {
+  border-color: var(--ring);
+  box-shadow: inset 0 0 0 1px var(--ring);
+}
+
+.form-check {
+  display: flex;
+  min-height: 20px;
+  align-items: center;
+  gap: 6px;
+}
+
+.form-check-input {
+  appearance: none;
+  width: 14px;
+  height: 14px;
+  flex: 0 0 auto;
+  margin: 0;
+  border: 1px solid var(--input);
+  color: var(--primary-foreground);
+  background-color: transparent;
+  cursor: var(--cursor-interaction, default);
+  transition:
+    background-color 150ms,
+    border-color 150ms,
+    box-shadow 150ms;
+}
+
+.form-check:not(.form-switch) .form-check-input[type=&quot;checkbox&quot;] {
+  border-color: var(--input);
+  border-radius: var(--radius-sm);
+  corner-shape: superellipse(1.5);
+  background-color: var(--secondary);
+  box-shadow: var(--shadow-sm);
+}
+
+.form-check:not(.form-switch)
+  .form-check-input:not(:disabled):not(:checked):hover {
+  background-color: var(--card);
+}
+
+.form-check:not(.form-switch) .form-check-input[type=&quot;checkbox&quot;]:checked {
+  border-color: var(--primary);
+  background-color: var(--primary);
+}
+
+.form-check:not(.form-switch)
+  .form-check-input[type=&quot;checkbox&quot;]:checked::before {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: var(--primary-foreground);
+  content: &quot;&quot;;
+  mask: var(--checkmark-image) center / 12px 12px no-repeat;
+}
+
+.form-check-input[type=&quot;radio&quot;] {
+  width: 14px;
+  height: 14px;
+  border-radius: var(--radius-full);
+}
+
+.form-check-input[type=&quot;radio&quot;]:checked {
+  border: 2px solid var(--primary);
+  background:
+    radial-gradient(circle, var(--primary-foreground) 0 2.5px, transparent 3px),
+    var(--primary);
+}
+
+.form-check:not(.form-switch) .form-check-input:focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+}
+
+.form-check:not(.form-switch) .form-check-input:disabled {
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+.form-check:not(.form-switch) .form-check-input:disabled + .form-check-label {
+  cursor: not-allowed;
+}
+
+.form-switch .form-check-input:disabled,
+.form-switch .form-check-input:disabled + .form-check-label {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.form-check-label {
+  color: var(--foreground);
+  cursor: var(--cursor-interaction, default);
+}
+
+.form-switch .form-check-input {
+  position: relative;
+  width: 32px;
+  height: 20px;
+  border: 0;
+  border-radius: var(--radius-full);
+  background: var(--muted);
+  box-shadow: none;
+  transition: background-color 200ms cubic-bezier(0, 0, 0.2, 1);
+}
+
+.form-switch .form-check-input::before {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+  border: 1px solid light-dark(var(--primary-foreground), var(--foreground));
+  border-radius: var(--radius-full);
+  background: light-dark(var(--primary-foreground), var(--foreground));
+  box-shadow: var(--shadow-sm);
+  content: &quot;&quot;;
+  transform: translate(2px, -50%);
+  transition: transform 200ms cubic-bezier(0, 0, 0.2, 1);
+}
+
+.form-switch .form-check-input:checked {
+  background: var(--primary);
+}
+
+.form-switch .form-check-input:checked::before {
+  transform: translate(14px, -50%);
+}
+
+.form-switch .form-check-input:focus-visible {
+  box-shadow: 0 0 0 2px var(--ring);
+}
+
+.form-range {
+  appearance: none;
+  display: block;
+  width: 100%;
+  height: 28px;
+  flex: 1;
+  margin: 0;
+  padding: 0;
+  outline: none;
+  border: 0;
+  accent-color: var(--primary);
+  background: linear-gradient(
+      color-mix(in srgb, var(--foreground) 7%, transparent),
+      color-mix(in srgb, var(--foreground) 7%, transparent)
+    )
+    center / 100% 2px no-repeat;
+}
+
+.form-range::-webkit-slider-runnable-track {
+  height: 28px;
+  background: transparent;
+}
+
+.form-range::-webkit-slider-thumb {
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  margin-top: 4px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-full);
+  background: light-dark(var(--primary-foreground), var(--foreground));
+}
+
+.form-range:focus-visible::-webkit-slider-thumb {
+  border-color: var(--ring);
+  box-shadow: inset 0 0 0 1px var(--ring);
+}
+
+.form-range::-moz-range-track {
+  height: 28px;
+  background: transparent;
+}
+
+.form-range::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-full);
+  background: light-dark(var(--primary-foreground), var(--foreground));
+}
+
+.form-range:focus-visible::-moz-range-thumb {
+  border-color: var(--ring);
+  box-shadow: inset 0 0 0 1px var(--ring);
+}
+
+.form-range:disabled {
+  cursor: not-allowed;
+  opacity: 0.4;
+}
+
+.btn:not(.btn-primary, .viz-tile):is(
+    [aria-pressed=&quot;true&quot;],
+    [aria-selected=&quot;true&quot;],
+    .is-selected
+  ) {
+  border-color: var(--primary);
+  color: var(--primary-foreground);
+  background: var(--primary);
+}
+
+.btn.viz-tile:is([aria-pressed=&quot;true&quot;], [aria-selected=&quot;true&quot;], .is-selected) {
+  border-color: var(--primary);
+  box-shadow: inset 0 0 0 1px var(--primary);
+}
+
+.btn:focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+}
+
+svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+#widget &gt; svg {
+  width: 100%;
+}
+
+/* Model-authored chart rules can otherwise stretch icons after these styles load. */
+svg.lucide {
+  display: block;
+  width: 16px !important;
+  height: 16px !important;
+  flex: none;
+  margin: 0 !important;
+  stroke-width: 1.6;
+}
+
+.text-warning,
+.text-destructive {
+  color: var(--destructive);
+}
+
+html&gt;body{padding:0}&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div id=&quot;perseus-catalog-mockup&quot;&gt;
+  &lt;style&gt;
+    #perseus-catalog-mockup { color-scheme: light dark; font-family: Georgia, &quot;Times New Roman&quot;, serif; color: light-dark(#17202a, #edf2f7); background: light-dark(#f7f5ef, #151a1f); min-height: 760px; border: 1px solid light-dark(#d7d1c3, #36414a); }
+    #perseus-catalog-mockup * { box-sizing: border-box; }
+    #perseus-catalog-mockup button, #perseus-catalog-mockup input, #perseus-catalog-mockup select { font: inherit; }
+    #perseus-catalog-mockup .pc-top { background: light-dark(#1f4263, #10283b); color: #fff; padding: 16px 24px 13px; display: flex; align-items: end; justify-content: space-between; gap: 20px; }
+    #perseus-catalog-mockup .pc-brand { font-size: 23px; line-height: 1; letter-spacing: .02em; }
+    #perseus-catalog-mockup .pc-brand small { display: block; font-family: ui-sans-serif, system-ui, sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: .14em; opacity: .76; margin-bottom: 7px; }
+    #perseus-catalog-mockup .pc-nav { display: flex; gap: 18px; font-family: ui-sans-serif, system-ui, sans-serif; font-size: 13px; }
+    #perseus-catalog-mockup .pc-nav span:first-child { border-bottom: 2px solid #f1c765; padding-bottom: 4px; }
+    #perseus-catalog-mockup .pc-searchbar { background: light-dark(#e8e3d7, #202931); padding: 12px 24px; display: flex; align-items: center; gap: 12px; }
+    #perseus-catalog-mockup .pc-searchbar label { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 12px; font-weight: 700; white-space: nowrap; }
+    #perseus-catalog-mockup .pc-searchbar input { width: 100%; border: 1px solid light-dark(#b9b09e, #50606e); background: light-dark(#fff, #12181d); color: inherit; padding: 10px 12px; border-radius: 3px; font-family: ui-sans-serif, system-ui, sans-serif; font-size: 14px; }
+    #perseus-catalog-mockup .pc-body { max-width: 1120px; margin: 0 auto; padding: 24px; }
+    #perseus-catalog-mockup .pc-crumbs { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 12px; color: light-dark(#526679, #aebdca); margin-bottom: 18px; }
+    #perseus-catalog-mockup .pc-crumbs button { border: 0; background: none; color: light-dark(#235b88, #8fc5ed); padding: 0; cursor: pointer; }
+    #perseus-catalog-mockup .pc-grid { display: grid; grid-template-columns: 220px minmax(0,1fr); gap: 28px; }
+    #perseus-catalog-mockup .pc-side { border-right: 1px solid light-dark(#d7d1c3, #36414a); padding-right: 22px; }
+    #perseus-catalog-mockup .pc-side h2 { font-size: 14px; font-family: ui-sans-serif, system-ui, sans-serif; text-transform: uppercase; letter-spacing: .08em; margin: 0 0 11px; }
+    #perseus-catalog-mockup .pc-author { font-size: 25px; margin: 0 0 4px; }
+    #perseus-catalog-mockup .pc-alias { font-size: 14px; color: light-dark(#67737d, #a8b3bc); margin-bottom: 20px; }
+    #perseus-catalog-mockup .pc-work-button { width: 100%; text-align: left; display: block; border: 0; border-left: 3px solid transparent; background: transparent; color: inherit; padding: 9px 10px; cursor: pointer; font-size: 14px; line-height: 1.3; }
+    #perseus-catalog-mockup .pc-work-button[aria-pressed=&quot;true&quot;] { background: light-dark(#e7edf2, #20303b); border-left-color: light-dark(#2b648f, #77b6e6); }
+    #perseus-catalog-mockup .pc-identifiers { margin-top: 22px; padding-top: 15px; border-top: 1px solid light-dark(#d7d1c3, #36414a); font-family: ui-sans-serif, system-ui, sans-serif; font-size: 11px; line-height: 1.7; color: light-dark(#586978, #aebac4); overflow-wrap: anywhere; }
+    #perseus-catalog-mockup .pc-main h1 { margin: 0; font-size: 32px; font-weight: 500; }
+    #perseus-catalog-mockup .pc-original { color: light-dark(#65737f, #b2bdc5); font-size: 16px; margin: 5px 0 14px; }
+    #perseus-catalog-mockup .pc-summary { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 13px; line-height: 1.55; color: light-dark(#435565, #c0cad2); max-width: 720px; }
+    #perseus-catalog-mockup .pc-path { display: grid; grid-template-columns: repeat(3, 1fr); border: 1px solid light-dark(#d3cbbb, #394751); margin: 22px 0; background: light-dark(#fff, #192128); }
+    #perseus-catalog-mockup .pc-path button { border: 0; border-right: 1px solid light-dark(#d3cbbb, #394751); background: transparent; color: inherit; padding: 15px 12px; text-align: left; cursor: pointer; min-height: 70px; }
+    #perseus-catalog-mockup .pc-path button:last-child { border-right: 0; }
+    #perseus-catalog-mockup .pc-path button[aria-pressed=&quot;true&quot;] { background: light-dark(#eaf1f6, #203442); box-shadow: inset 0 -3px light-dark(#2b648f, #77b6e6); }
+    #perseus-catalog-mockup .pc-path strong { display: block; font-family: ui-sans-serif, system-ui, sans-serif; font-size: 14px; margin-bottom: 5px; }
+    #perseus-catalog-mockup .pc-path small { display: block; font-family: ui-sans-serif, system-ui, sans-serif; color: light-dark(#61717f, #aebbc5); font-size: 11px; line-height: 1.3; }
+    #perseus-catalog-mockup .pc-controls { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 16px; }
+    #perseus-catalog-mockup .pc-controls select { width: 100%; padding: 9px 10px; border: 1px solid light-dark(#c5beaf, #43515d); border-radius: 3px; background: light-dark(#fff, #151d23); color: inherit; font-family: ui-sans-serif, system-ui, sans-serif; font-size: 12px; }
+    #perseus-catalog-mockup .pc-results-head { display: flex; justify-content: space-between; align-items: baseline; border-bottom: 1px solid light-dark(#d3cbbb, #394751); padding-bottom: 8px; margin-bottom: 3px; }
+    #perseus-catalog-mockup .pc-results-head h2 { font-size: 20px; margin: 0; font-weight: 500; }
+    #perseus-catalog-mockup .pc-count { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 11px; color: light-dark(#687683, #aebbc5); }
+    #perseus-catalog-mockup .pc-result { padding: 17px 0; border-bottom: 1px solid light-dark(#ddd6c9, #313e47); }
+    #perseus-catalog-mockup .pc-result-top { display: flex; justify-content: space-between; gap: 18px; align-items: start; }
+    #perseus-catalog-mockup .pc-result h3 { margin: 0 0 5px; font-size: 18px; font-weight: 600; }
+    #perseus-catalog-mockup .pc-meta { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 12px; line-height: 1.55; color: light-dark(#556674, #b6c2cb); }
+    #perseus-catalog-mockup .pc-actions { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 11px; }
+    #perseus-catalog-mockup .pc-action { border: 1px solid light-dark(#9eb2c1, #587389); background: light-dark(#f4f9fc, #1d3342); color: light-dark(#174d75, #b8dcf5); padding: 7px 10px; border-radius: 3px; font-family: ui-sans-serif, system-ui, sans-serif; font-size: 11px; cursor: pointer; }
+    #perseus-catalog-mockup .pc-action.pc-primary { background: light-dark(#285f89, #76b2dc); color: light-dark(#fff, #0f202c); border-color: transparent; font-weight: 700; }
+    #perseus-catalog-mockup .pc-badge { flex: 0 0 auto; font-family: ui-sans-serif, system-ui, sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: .05em; padding: 4px 7px; border-radius: 2px; background: light-dark(#e4ede6, #263d2d); color: light-dark(#2e6940, #9bd1a8); }
+    #perseus-catalog-mockup .pc-badge.pc-scan { background: light-dark(#eee8d8, #403720); color: light-dark(#6d5927, #dec67b); }
+    #perseus-catalog-mockup .pc-detail { display: none; margin-top: 12px; padding: 12px 14px; background: light-dark(#eeeae1, #202a31); font-family: ui-sans-serif, system-ui, sans-serif; font-size: 11px; line-height: 1.65; color: light-dark(#455866, #c3cdd4); }
+    #perseus-catalog-mockup .pc-detail[data-open=&quot;true&quot;] { display: block; }
+    #perseus-catalog-mockup .pc-empty { padding: 26px 0; color: light-dark(#687683, #aebbc5); font-family: ui-sans-serif, system-ui, sans-serif; font-size: 13px; }
+    @media (max-width: 720px) {
+      #perseus-catalog-mockup .pc-nav { display: none; }
+      #perseus-catalog-mockup .pc-searchbar { display: block; padding: 12px 18px; }
+      #perseus-catalog-mockup .pc-searchbar label { display: block; margin-bottom: 7px; }
+      #perseus-catalog-mockup .pc-body { padding: 18px; }
+      #perseus-catalog-mockup .pc-grid { grid-template-columns: 1fr; }
+      #perseus-catalog-mockup .pc-side { border-right: 0; border-bottom: 1px solid light-dark(#d7d1c3, #36414a); padding: 0 0 16px; }
+      #perseus-catalog-mockup .pc-identifiers { display: none; }
+      #perseus-catalog-mockup .pc-path { grid-template-columns: 1fr; }
+      #perseus-catalog-mockup .pc-path button { border-right: 0; border-bottom: 1px solid light-dark(#d3cbbb, #394751); min-height: 0; }
+      #perseus-catalog-mockup .pc-path button:last-child { border-bottom: 0; }
+      #perseus-catalog-mockup .pc-controls { grid-template-columns: 1fr; }
+      #perseus-catalog-mockup .pc-result-top { display: block; }
+      #perseus-catalog-mockup .pc-badge { display: inline-block; margin-top: 8px; }
+    }
+  &lt;/style&gt;
+
+  &lt;header class=&quot;pc-top&quot;&gt;
+    &lt;div class=&quot;pc-brand&quot;&gt;&lt;small&gt;Perseus Digital Library&lt;/small&gt;Texts &amp;amp; Editions&lt;/div&gt;
+    &lt;nav class=&quot;pc-nav&quot; aria-label=&quot;Primary&quot;&gt;&lt;span&gt;Collections&lt;/span&gt;&lt;span&gt;Research&lt;/span&gt;&lt;span&gt;Open source&lt;/span&gt;&lt;span&gt;About&lt;/span&gt;&lt;/nav&gt;
+  &lt;/header&gt;
+  &lt;div class=&quot;pc-searchbar&quot;&gt;
+    &lt;label for=&quot;pc-search&quot;&gt;Find a work or edition&lt;/label&gt;
+    &lt;input id=&quot;pc-search&quot; type=&quot;search&quot; placeholder=&quot;Try “Hobbes”, “Greek”, “1812”, or “Internet Archive”…&quot; /&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;pc-body&quot;&gt;
+    &lt;div class=&quot;pc-crumbs&quot;&gt;&lt;button type=&quot;button&quot;&gt;Greek literature&lt;/button&gt; &amp;nbsp;›&amp;nbsp; Thucydides &amp;nbsp;›&amp;nbsp; &lt;span id=&quot;pc-crumb-work&quot;&gt;History of the Peloponnesian War&lt;/span&gt;&lt;/div&gt;
+    &lt;div class=&quot;pc-grid&quot;&gt;
+      &lt;aside class=&quot;pc-side&quot;&gt;
+        &lt;h2&gt;Author&lt;/h2&gt;
+        &lt;div class=&quot;pc-author&quot;&gt;Thucydides&lt;/div&gt;
+        &lt;div class=&quot;pc-alias&quot;&gt;Θουκυδίδης · Historian&lt;/div&gt;
+        &lt;h2&gt;Works in this catalog&lt;/h2&gt;
+        &lt;button class=&quot;pc-work-button&quot; type=&quot;button&quot; data-work=&quot;history&quot; aria-pressed=&quot;true&quot;&gt;History of the Peloponnesian War&lt;/button&gt;
+        &lt;button class=&quot;pc-work-button&quot; type=&quot;button&quot; data-work=&quot;epigram&quot; aria-pressed=&quot;false&quot;&gt;Epigramma &lt;small&gt;(attributed)&lt;/small&gt;&lt;/button&gt;
+        &lt;div class=&quot;pc-identifiers&quot;&gt;&lt;strong&gt;Authority identifiers&lt;/strong&gt;&lt;br&gt;CTS textgroup: tlg0003&lt;br&gt;VIAF: 95161463&lt;br&gt;CITE: author.1403.1&lt;/div&gt;
+      &lt;/aside&gt;
+
+      &lt;main class=&quot;pc-main&quot;&gt;
+        &lt;h1 id=&quot;pc-title&quot;&gt;History of the Peloponnesian War&lt;/h1&gt;
+        &lt;div class=&quot;pc-original&quot; id=&quot;pc-original&quot;&gt;Ἱστορίαι · originally in Ancient Greek&lt;/div&gt;
+        &lt;div class=&quot;pc-summary&quot; id=&quot;pc-summary&quot;&gt;Choose a readable text, inspect a historical printed edition, or follow its digitized volumes. Editions stay grouped even when several libraries provide copies.&lt;/div&gt;
+
+        &lt;div class=&quot;pc-path&quot; role=&quot;group&quot; aria-label=&quot;Resource type&quot;&gt;
+          &lt;button type=&quot;button&quot; data-view=&quot;read&quot; aria-pressed=&quot;true&quot;&gt;&lt;strong&gt;Read as text&lt;/strong&gt;&lt;small&gt;Searchable Perseus TEI editions and translations&lt;/small&gt;&lt;/button&gt;
+          &lt;button type=&quot;button&quot; data-view=&quot;scans&quot; aria-pressed=&quot;false&quot;&gt;&lt;strong&gt;Digitized editions&lt;/strong&gt;&lt;small&gt;Scanned books, organized by edition and volume&lt;/small&gt;&lt;/button&gt;
+          &lt;button type=&quot;button&quot; data-view=&quot;records&quot; aria-pressed=&quot;false&quot;&gt;&lt;strong&gt;Catalog records&lt;/strong&gt;&lt;small&gt;Bibliographic descriptions and library identifiers&lt;/small&gt;&lt;/button&gt;
+        &lt;/div&gt;
+
+        &lt;div class=&quot;pc-controls&quot;&gt;
+          &lt;select id=&quot;pc-language&quot; aria-label=&quot;Language&quot;&gt;&lt;option value=&quot;all&quot;&gt;All languages&lt;/option&gt;&lt;option value=&quot;grc&quot;&gt;Ancient Greek&lt;/option&gt;&lt;option value=&quot;eng&quot;&gt;English&lt;/option&gt;&lt;option value=&quot;lat&quot;&gt;Latin&lt;/option&gt;&lt;option value=&quot;deu&quot;&gt;German&lt;/option&gt;&lt;option value=&quot;fra&quot;&gt;French&lt;/option&gt;&lt;option value=&quot;ita&quot;&gt;Italian&lt;/option&gt;&lt;/select&gt;
+          &lt;select id=&quot;pc-sort&quot; aria-label=&quot;Sort order&quot;&gt;&lt;option value=&quot;recommended&quot;&gt;Recommended first&lt;/option&gt;&lt;option value=&quot;date-old&quot;&gt;Oldest edition first&lt;/option&gt;&lt;option value=&quot;date-new&quot;&gt;Newest edition first&lt;/option&gt;&lt;/select&gt;
+        &lt;/div&gt;
+
+        &lt;div class=&quot;pc-results-head&quot;&gt;&lt;h2 id=&quot;pc-results-title&quot;&gt;Readable texts&lt;/h2&gt;&lt;span class=&quot;pc-count&quot; id=&quot;pc-count&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+        &lt;div id=&quot;pc-results&quot; aria-live=&quot;polite&quot;&gt;&lt;/div&gt;
+      &lt;/main&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;script&gt;
+    (() =&gt; {
+      const root = document.getElementById(&#x27;perseus-catalog-mockup&#x27;);
+      const data = {
+        history: {
+          title: &#x27;History of the Peloponnesian War&#x27;, original: &#x27;Ἱστορίαι · originally in Ancient Greek&#x27;,
+          summary: &#x27;Choose a readable text, inspect a historical printed edition, or follow its digitized volumes. Editions stay grouped even when several libraries provide copies.&#x27;,
+          read: [
+            {title:&#x27;Thucydidis Historiae&#x27;, people:&#x27;Henry Stuart Jones, editor · John Enoch Powell, critical apparatus&#x27;, date:1942, lang:&#x27;grc&#x27;, language:&#x27;Ancient Greek&#x27;, note:&#x27;Oxford Classical Texts · 2 volumes · CTS perseus-grc2&#x27;, badge:&#x27;Verified TEI&#x27;, actions:[&#x27;Read in Perseus&#x27;,&#x27;View TEI source&#x27;,&#x27;Edition details&#x27;], detail:&#x27;This is a searchable TEI transcription tied to a bibliographic edition. The CTS identity is verified against the current canonical inventory.&#x27;},
+            {title:&#x27;The History of the Grecian War&#x27;, people:&#x27;Thomas Hobbes, translator&#x27;, date:1843, lang:&#x27;eng&#x27;, language:&#x27;English&#x27;, note:&#x27;London: John Bohn · CTS perseus-eng4&#x27;, badge:&#x27;Verified TEI&#x27;, actions:[&#x27;Read in Perseus&#x27;,&#x27;View TEI source&#x27;,&#x27;Edition details&#x27;], detail:&#x27;The readable transcription is distinguished from the separate 1812 printed edition and its scans.&#x27;},
+            {title:&#x27;History of the Peloponnesian War&#x27;, people:&#x27;Richard Crawley, translator&#x27;, date:1914, lang:&#x27;eng&#x27;, language:&#x27;English&#x27;, note:&#x27;J. M. Dent / E. P. Dutton · CTS perseus-eng6&#x27;, badge:&#x27;Verified TEI&#x27;, actions:[&#x27;Read in Perseus&#x27;,&#x27;View TEI source&#x27;,&#x27;Edition details&#x27;], detail:&#x27;Reader and source links are two provider resources attached to one TEI manifestation.&#x27;},
+            {title:&#x27;Geschichte des Peloponnesischen Kriegs&#x27;, people:&#x27;Adolf Wahrmund, translator&#x27;, date:1864, lang:&#x27;deu&#x27;, language:&#x27;German&#x27;, note:&#x27;Stuttgart: Krais and Hoffmann · CTS 1st1K-ger2&#x27;, badge:&#x27;Verified TEI&#x27;, actions:[&#x27;Read in Perseus&#x27;,&#x27;Edition details&#x27;], detail:&#x27;Language and translator filters operate at the edition level, while the Read action comes from the verified TEI manifestation.&#x27;},
+            {title:&#x27;Histoire de la Guerre du Péloponnése&#x27;, people:&#x27;Élie-Ami Bétant, translator&#x27;, date:1863, lang:&#x27;fra&#x27;, language:&#x27;French&#x27;, note:&#x27;Paris: L. Hachette · CTS 1st1K-fre1&#x27;, badge:&#x27;Verified TEI&#x27;, actions:[&#x27;Read in Perseus&#x27;,&#x27;Edition details&#x27;], detail:&#x27;The work page can expose translations beyond the traditional Greek/English table of contents.&#x27;},
+            {title:&#x27;La storia di Tucidide&#x27;, people:&#x27;Anonymous translator&#x27;, date:1835, lang:&#x27;ita&#x27;, language:&#x27;Italian&#x27;, note:&#x27;Florence: Tipografia Galileiana · CTS 1st1K-ita1&#x27;, badge:&#x27;Verified TEI&#x27;, actions:[&#x27;Read in Perseus&#x27;,&#x27;Edition details&#x27;], detail:&#x27;Anonymous and uncertain contributions remain explicit rather than disappearing from the display.&#x27;}
+          ],
+          scans: [
+            {title:&#x27;The history of the Grecian war, in eight books&#x27;, people:&#x27;Thomas Hobbes, translator&#x27;, date:1812, lang:&#x27;eng&#x27;, language:&#x27;English&#x27;, note:&#x27;A new edition, corrected and amended · 2 volumes&#x27;, badge:&#x27;Scanned edition&#x27;, actions:[&#x27;Volume I — Internet Archive&#x27;,&#x27;Volume II — Internet Archive&#x27;,&#x27;Edition details&#x27;], detail:&#x27;One bibliographic translation contains two volume manifestations. Open Library can be offered as an alternate interface without duplicating the edition.&#x27;},
+            {title:&#x27;De bello peloponnesiaco libri octo&#x27;, people:&#x27;C. A. Duker and Joseph Wasse, editors&#x27;, date:1788, lang:&#x27;grc&#x27;, language:&#x27;Greek and Latin&#x27;, note:&#x27;Biponti: Ex typographia Societatis · 4 volumes&#x27;, badge:&#x27;Scanned edition&#x27;, actions:[&#x27;Volumes I–IV&#x27;,&#x27;Internet Archive&#x27;,&#x27;Edition details&#x27;], detail:&#x27;Four scan manifestations share one edition-level OCLC record. Greek text, Latin translation, and Latin notes are retained as mixed language roles.&#x27;},
+            {title:&#x27;De bello peloponnesiaco, libri octo&#x27;, people:&#x27;Greek text with Latin translation&#x27;, date:1819, lang:&#x27;lat&#x27;, language:&#x27;Greek and Latin&#x27;, note:&#x27;Multiple volumes and digitized copies&#x27;, badge:&#x27;Scanned edition&#x27;, actions:[&#x27;Internet Archive&#x27;,&#x27;HathiTrust&#x27;,&#x27;Compare copies&#x27;], detail:&#x27;Archive and HathiTrust objects remain separate manifestations because they may represent different physical copies.&#x27;},
+            {title:&#x27;The history of the Peloponnesian war&#x27;, people:&#x27;Benjamin Jowett, translator&#x27;, date:1900, lang:&#x27;eng&#x27;, language:&#x27;English&#x27;, note:&#x27;Oxford: Clarendon Press · multivolume set&#x27;, badge:&#x27;Scanned edition&#x27;, actions:[&#x27;Google Books&#x27;,&#x27;Internet Archive&#x27;,&#x27;Edition details&#x27;], detail:&#x27;Provider links are grouped under the edition, making alternatives discoverable without turning each URL into a separate title.&#x27;}
+          ],
+          records: [
+            {title:&#x27;Thucydidis Historiae&#x27;, people:&#x27;Henry Stuart Jones, editor · John Enoch Powell, critical apparatus&#x27;, date:1942, lang:&#x27;grc&#x27;, language:&#x27;Ancient Greek&#x27;, note:&#x27;OCLC 871050 · Oxford Classical Texts&#x27;, badge:&#x27;Library record&#x27;, actions:[&#x27;WorldCat&#x27;,&#x27;Identifiers&#x27;,&#x27;Edition details&#x27;], detail:&#x27;Catalog records attach to the bibliographic edition. They do not create a digital manifestation by themselves.&#x27;},
+            {title:&#x27;The history of the Grecian war, in eight books&#x27;, people:&#x27;Thomas Hobbes, translator&#x27;, date:1812, lang:&#x27;eng&#x27;, language:&#x27;English&#x27;, note:&#x27;OCLC 13683262&#x27;, badge:&#x27;Library record&#x27;, actions:[&#x27;WorldCat&#x27;,&#x27;Edition details&#x27;], detail:&#x27;The WorldCat record describes the publication as a whole; scan manifestations preserve volume-level identities.&#x27;},
+            {title:&#x27;De bello peloponnesiaco libri octo&#x27;, people:&#x27;C. A. Duker and Joseph Wasse, editors&#x27;, date:1788, lang:&#x27;grc&#x27;, language:&#x27;Greek and Latin&#x27;, note:&#x27;OCLC 1482998&#x27;, badge:&#x27;Library record&#x27;, actions:[&#x27;WorldCat&#x27;,&#x27;Identifiers&#x27;,&#x27;Edition details&#x27;], detail:&#x27;The same OCLC can cover a four-volume set, so it is never used as a scan identifier.&#x27;}
+          ]
+        },
+        epigram: {
+          title:&#x27;Epigramma&#x27;, original:&#x27;Attributed to Thucydides · originally in Ancient Greek&#x27;,
+          summary:&#x27;A small attributed work can still reveal the anthology editions and exact pages in which readers can inspect it.&#x27;,
+          read: [],
+          scans: [
+            {title:&#x27;Poetae lyrici Graeci&#x27;, people:&#x27;Theodor Bergk, editor · Thucydides, attributed author&#x27;, date:1853, lang:&#x27;grc&#x27;, language:&#x27;Ancient Greek&#x27;, note:&#x27;Epigram on page 267 · volume II&#x27;, badge:&#x27;Page-level scan&#x27;, actions:[&#x27;Open exact page&#x27;,&#x27;Google Books&#x27;,&#x27;Internet Archive&#x27;], detail:&#x27;The resource keeps its page selector, while the manifestation remains the digitized anthology volume.&#x27;},
+            {title:&#x27;Epigrammata Graeca&#x27;, people:&#x27;Edited collection&#x27;, date:1878, lang:&#x27;grc&#x27;, language:&#x27;Ancient Greek&#x27;, note:&#x27;SLUB Dresden digitization&#x27;, badge:&#x27;Page-level scan&#x27;, actions:[&#x27;Open at epigram&#x27;,&#x27;View whole volume&#x27;,&#x27;Edition details&#x27;], detail:&#x27;The epigram is discoverable as a work even though its material carrier is a larger anthology.&#x27;}
+          ],
+          records: [
+            {title:&#x27;Anthologia lyrica graeca&#x27;, people:&#x27;Scholarly anthology&#x27;, date:1904, lang:&#x27;grc&#x27;, language:&#x27;Ancient Greek&#x27;, note:&#x27;OCLC 4510434 · Teubner&#x27;, badge:&#x27;Library record&#x27;, actions:[&#x27;WorldCat&#x27;,&#x27;Edition details&#x27;], detail:&#x27;Attributed authorship is displayed as an assertion, not converted into unquestioned authorship.&#x27;}
+          ]
+        }
+      };
+      let work = &#x27;history&#x27;;
+      let view = &#x27;read&#x27;;
+      const titles = {read:&#x27;Readable texts&#x27;, scans:&#x27;Digitized editions&#x27;, records:&#x27;Catalog records&#x27;};
+      const escapeHtml = value =&gt; String(value).replace(/[&amp;&lt;&gt;&#x27;&quot;]/g, c =&gt; ({&#x27;&amp;&#x27;:&#x27;&amp;amp;&#x27;,&#x27;&lt;&#x27;:&#x27;&amp;lt;&#x27;,&#x27;&gt;&#x27;:&#x27;&amp;gt;&#x27;,&quot;&#x27;&quot;:&#x27;&amp;#39;&#x27;,&#x27;&quot;&#x27;:&#x27;&amp;quot;&#x27;}[c]));
+
+      function render() {
+        const language = root.querySelector(&#x27;#pc-language&#x27;).value;
+        const query = root.querySelector(&#x27;#pc-search&#x27;).value.trim().toLowerCase();
+        const sort = root.querySelector(&#x27;#pc-sort&#x27;).value;
+        const current = data[work];
+        root.querySelector(&#x27;#pc-title&#x27;).textContent = current.title;
+        root.querySelector(&#x27;#pc-crumb-work&#x27;).textContent = current.title;
+        root.querySelector(&#x27;#pc-original&#x27;).textContent = current.original;
+        root.querySelector(&#x27;#pc-summary&#x27;).textContent = current.summary;
+        root.querySelector(&#x27;#pc-results-title&#x27;).textContent = titles[view];
+        let rows = current[view].filter(row =&gt; (language === &#x27;all&#x27; || row.lang === language) &amp;&amp; (!query || [row.title,row.people,row.language,row.note,row.badge].join(&#x27; &#x27;).toLowerCase().includes(query)));
+        rows = rows.slice().sort((a,b) =&gt; sort === &#x27;date-old&#x27; ? a.date-b.date : sort === &#x27;date-new&#x27; ? b.date-a.date : 0);
+        root.querySelector(&#x27;#pc-count&#x27;).textContent = rows.length + (rows.length === 1 ? &#x27; result&#x27; : &#x27; results&#x27;) + (view === &#x27;read&#x27; &amp;&amp; work === &#x27;history&#x27; &amp;&amp; language === &#x27;all&#x27; &amp;&amp; !query ? &#x27; shown · 13 available&#x27; : &#x27;&#x27;);
+        const results = root.querySelector(&#x27;#pc-results&#x27;);
+        if (!rows.length) {
+          results.innerHTML = &#x27;&lt;div class=&quot;pc-empty&quot;&gt;No matching resources in this view. Try another resource type or language.&lt;/div&gt;&#x27;;
+          return;
+        }
+        results.innerHTML = rows.map((row,index) =&gt; `&lt;article class=&quot;pc-result&quot;&gt;&lt;div class=&quot;pc-result-top&quot;&gt;&lt;div&gt;&lt;h3&gt;${escapeHtml(row.title)}&lt;/h3&gt;&lt;div class=&quot;pc-meta&quot;&gt;${escapeHtml(row.language)} · ${escapeHtml(String(row.date))}&lt;br&gt;${escapeHtml(row.people)}&lt;br&gt;${escapeHtml(row.note)}&lt;/div&gt;&lt;/div&gt;&lt;span class=&quot;pc-badge ${view === &#x27;scans&#x27; ? &#x27;pc-scan&#x27; : &#x27;&#x27;}&quot;&gt;${escapeHtml(row.badge)}&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;pc-actions&quot;&gt;${row.actions.map((action,i) =&gt; `&lt;button type=&quot;button&quot; class=&quot;pc-action ${i === 0 ? &#x27;pc-primary&#x27; : &#x27;&#x27;}&quot; data-detail=&quot;${index}&quot;&gt;${escapeHtml(action)}&lt;/button&gt;`).join(&#x27;&#x27;)}&lt;/div&gt;&lt;div class=&quot;pc-detail&quot; id=&quot;pc-detail-${index}&quot; data-open=&quot;false&quot;&gt;${escapeHtml(row.detail)}&lt;/div&gt;&lt;/article&gt;`).join(&#x27;&#x27;);
+        results.querySelectorAll(&#x27;[data-detail]&#x27;).forEach(button =&gt; button.addEventListener(&#x27;click&#x27;, () =&gt; {
+          const detail = results.querySelector(&#x27;#pc-detail-&#x27; + button.dataset.detail);
+          const willOpen = detail.dataset.open !== &#x27;true&#x27;;
+          results.querySelectorAll(&#x27;.pc-detail&#x27;).forEach(el =&gt; el.dataset.open = &#x27;false&#x27;);
+          detail.dataset.open = String(willOpen);
+        }));
+      }
+
+      root.querySelectorAll(&#x27;[data-view]&#x27;).forEach(button =&gt; button.addEventListener(&#x27;click&#x27;, () =&gt; {
+        view = button.dataset.view;
+        root.querySelectorAll(&#x27;[data-view]&#x27;).forEach(el =&gt; el.setAttribute(&#x27;aria-pressed&#x27;, String(el === button)));
+        render();
+      }));
+      root.querySelectorAll(&#x27;[data-work]&#x27;).forEach(button =&gt; button.addEventListener(&#x27;click&#x27;, () =&gt; {
+        work = button.dataset.work;
+        root.querySelectorAll(&#x27;[data-work]&#x27;).forEach(el =&gt; el.setAttribute(&#x27;aria-pressed&#x27;, String(el === button)));
+        render();
+      }));
+      root.querySelector(&#x27;#pc-search&#x27;).addEventListener(&#x27;input&#x27;, render);
+      root.querySelector(&#x27;#pc-language&#x27;).addEventListener(&#x27;change&#x27;, render);
+      root.querySelector(&#x27;#pc-sort&#x27;).addEventListener(&#x27;change&#x27;, render);
+      render();
+    })();
+  &lt;/script&gt;
+&lt;/div&gt;
+
+&lt;script src=&quot;https://unpkg.com/@floating-ui/core@1.7.3/dist/floating-ui.core.umd.min.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://unpkg.com/@floating-ui/dom@1.7.4/dist/floating-ui.dom.umd.min.js&quot;&gt;&lt;/script&gt;
+&lt;script&gt;
+(() =&gt; {
+  if (window.FloatingUIDOM == null) {
+    return;
+  }
+  const { autoUpdate, computePosition, flip, offset, shift, size } =
+    window.FloatingUIDOM;
+  const tooltipPlacements = new Set([&quot;top&quot;, &quot;right&quot;, &quot;bottom&quot;, &quot;left&quot;]);
+  const tooltipId = `codex-visualization-tooltip-${
+    window.crypto?.randomUUID?.() ?? Date.now().toString(36)
+  }`;
+  const tooltipGap = 5;
+  const hoverDelay = 700;
+  const skipDelay = 300;
+  let activeTrigger = null;
+  let pendingTrigger = null;
+  let tooltip = null;
+  let openTimeout = null;
+  let autoUpdateCleanup = null;
+  let positionRequest = 0;
+  let skipDelayUntil = 0;
+
+  const getTrigger = (target) =&gt;
+    target?.nodeType === Node.ELEMENT_NODE
+      ? target.closest(&quot;[data-tooltip]&quot;)
+      : null;
+  const containsTarget = (trigger, target) =&gt;
+    target?.nodeType != null &amp;&amp; trigger.contains(target);
+  const getContent = (trigger) =&gt;
+    trigger.getAttribute(&quot;data-tooltip&quot;)?.trim() ?? &quot;&quot;;
+  const getPlacement = (trigger) =&gt; {
+    const placement = trigger.getAttribute(&quot;data-tooltip-placement&quot;);
+    return tooltipPlacements.has(placement) ? placement : &quot;top&quot;;
+  };
+  const getTooltip = () =&gt; {
+    if (tooltip == null) {
+      tooltip = document.createElement(&quot;div&quot;);
+      tooltip.id = tooltipId;
+      tooltip.className = &quot;tooltip&quot;;
+      tooltip.setAttribute(&quot;role&quot;, &quot;tooltip&quot;);
+    }
+    return tooltip;
+  };
+  const setDescribedBy = (trigger, described) =&gt; {
+    const ids = new Set(
+      (trigger.getAttribute(&quot;aria-describedby&quot;) ?? &quot;&quot;)
+        .split(/\s+/)
+        .filter(Boolean),
+    );
+    if (described) {
+      ids.add(tooltipId);
+    } else {
+      ids.delete(tooltipId);
+    }
+    if (ids.size === 0) {
+      trigger.removeAttribute(&quot;aria-describedby&quot;);
+    } else {
+      trigger.setAttribute(&quot;aria-describedby&quot;, [...ids].join(&quot; &quot;));
+    }
+  };
+  const clearOpenTimeout = () =&gt; {
+    if (openTimeout != null) {
+      window.clearTimeout(openTimeout);
+      openTimeout = null;
+    }
+    pendingTrigger = null;
+  };
+  const closeTooltip = (activateSkipDelay = true) =&gt; {
+    clearOpenTimeout();
+    positionRequest += 1;
+    autoUpdateCleanup?.();
+    autoUpdateCleanup = null;
+    if (activeTrigger == null) {
+      return;
+    }
+    setDescribedBy(activeTrigger, false);
+    activeTrigger = null;
+    tooltip?.remove();
+    if (activateSkipDelay) {
+      skipDelayUntil = Date.now() + skipDelay;
+    }
+  };
+  const updatePosition = (trigger, floating) =&gt; {
+    const request = ++positionRequest;
+    void computePosition(trigger, floating, {
+      middleware: [
+        offset(tooltipGap),
+        flip({ padding: tooltipGap }),
+        shift({ padding: tooltipGap }),
+        size({
+          padding: tooltipGap,
+          apply({ availableHeight, availableWidth, elements }) {
+            elements.floating.style.setProperty(
+              &quot;--tooltip-available-width&quot;,
+              `${Math.max(0, availableWidth)}px`,
+            );
+            elements.floating.style.setProperty(
+              &quot;--tooltip-available-height&quot;,
+              `${Math.max(0, availableHeight)}px`,
+            );
+          },
+        }),
+      ],
+      placement: getPlacement(trigger),
+      strategy: &quot;fixed&quot;,
+    })
+      .then(({ x, y }) =&gt; {
+        if (activeTrigger !== trigger || request !== positionRequest) {
+          return;
+        }
+        const scale = window.devicePixelRatio || 1;
+        floating.style.transform = `translate(${Math.round(x * scale) / scale}px, ${Math.round(y * scale) / scale}px)`;
+        floating.style.visibility = &quot;visible&quot;;
+      })
+      .catch(() =&gt; {
+        if (activeTrigger === trigger &amp;&amp; request === positionRequest) {
+          closeTooltip(false);
+        }
+      });
+  };
+  const openTooltip = (trigger) =&gt; {
+    const content = getContent(trigger);
+    if (!trigger.isConnected || content.length === 0) {
+      return;
+    }
+    clearOpenTimeout();
+    if (activeTrigger === trigger) {
+      return;
+    }
+    closeTooltip();
+    const floating = getTooltip();
+    floating.textContent = content;
+    floating.style.visibility = &quot;hidden&quot;;
+    floating.style.transform = &quot;translate(0, 0)&quot;;
+    document.body.appendChild(floating);
+    activeTrigger = trigger;
+    setDescribedBy(trigger, true);
+    autoUpdateCleanup = autoUpdate(trigger, floating, () =&gt; {
+      updatePosition(trigger, floating);
+    });
+  };
+  const requestOpen = (trigger, immediate = false) =&gt; {
+    if (
+      getContent(trigger).length === 0 ||
+      activeTrigger === trigger ||
+      pendingTrigger === trigger
+    ) {
+      return;
+    }
+    clearOpenTimeout();
+    pendingTrigger = trigger;
+    const delay =
+      immediate || activeTrigger != null || Date.now() &lt; skipDelayUntil
+        ? 0
+        : hoverDelay;
+    if (delay === 0) {
+      openTooltip(trigger);
+      return;
+    }
+    openTimeout = window.setTimeout(() =&gt; {
+      openTimeout = null;
+      pendingTrigger = null;
+      openTooltip(trigger);
+    }, delay);
+  };
+  const handlePointerOpen = (event) =&gt; {
+    if (event.pointerType === &quot;touch&quot;) {
+      return;
+    }
+    const trigger = getTrigger(event.target);
+    if (trigger == null || containsTarget(trigger, event.relatedTarget)) {
+      return;
+    }
+    requestOpen(trigger);
+  };
+  const handleLeave = (event) =&gt; {
+    const trigger = getTrigger(event.target);
+    if (trigger == null || containsTarget(trigger, event.relatedTarget)) {
+      return;
+    }
+    if (activeTrigger === trigger || pendingTrigger === trigger) {
+      closeTooltip();
+    }
+  };
+  const handleFocusIn = (event) =&gt; {
+    const trigger = getTrigger(event.target);
+    if (trigger?.matches(&quot;:focus-visible&quot;)) {
+      requestOpen(trigger, true);
+    }
+  };
+  const handleKeyDown = (event) =&gt; {
+    if (event.key === &quot;Escape&quot;) {
+      closeTooltip();
+    }
+  };
+  const handleContextMenu = (event) =&gt; {
+    const trigger = getTrigger(event.target);
+    if (activeTrigger === trigger || pendingTrigger === trigger) {
+      closeTooltip();
+    }
+  };
+  const destroy = () =&gt; {
+    closeTooltip(false);
+    document.removeEventListener(&quot;pointerover&quot;, handlePointerOpen);
+    document.removeEventListener(&quot;pointerout&quot;, handleLeave);
+    document.removeEventListener(&quot;focusin&quot;, handleFocusIn);
+    document.removeEventListener(&quot;focusout&quot;, handleLeave);
+    document.removeEventListener(&quot;keydown&quot;, handleKeyDown);
+    document.removeEventListener(&quot;contextmenu&quot;, handleContextMenu);
+    tooltip = null;
+  };
+
+  document.addEventListener(&quot;pointerover&quot;, handlePointerOpen);
+  document.addEventListener(&quot;pointerout&quot;, handleLeave);
+  document.addEventListener(&quot;focusin&quot;, handleFocusIn);
+  document.addEventListener(&quot;focusout&quot;, handleLeave);
+  document.addEventListener(&quot;keydown&quot;, handleKeyDown);
+  document.addEventListener(&quot;contextmenu&quot;, handleContextMenu);
+  window.addEventListener(&quot;pagehide&quot;, destroy, { once: true });
+})();
+&lt;/script&gt;
+&lt;script id=&quot;codex-visualization-lucide&quot; async src=&quot;https://unpkg.com/lucide@1.17.0/dist/umd/lucide.js&quot;&gt;&lt;/script&gt;
+&lt;script&gt;
+(() =&gt; {
+  const initialize = () =&gt; {
+    globalThis.lucide?.createIcons({ attrs: { width: 16, height: 16 } });
+  };
+  if (globalThis.lucide != null) {
+    initialize();
+    return;
+  }
+  document
+    .getElementById(&quot;codex-visualization-lucide&quot;)
+    ?.addEventListener(&quot;load&quot;, initialize, { once: true });
+})();
+&lt;/script&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+"></iframe>
+</body>
+</html>
