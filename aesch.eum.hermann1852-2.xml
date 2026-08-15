@@ -1,36 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei.c.org/ns/1.0">
-    <teiHeader>
-        <titleStmt>
-            <title>Aeschylus, Eumenides</title>
-        </titleStmt>
-        <publicationStmt>
-            <p>TEI version of Aeschylus's Eumenides, converted from plain text.</p>
-        </publicationStmt>
-        <sourceDesc>
-            <p>The source was a plain text file provided by the user.</p>
-        </sourceDesc>
-    </teiHeader>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="eng">
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="grc">Εὐμενίδες</title>            
+            <author>Aeschylus</author>
+            <editor>Gregory Crane</editor>
+            <sponsor>Perseus Project, Tufts University</sponsor>
+            <principal>Gregory Crane</principal>
+            <respStmt>
+               <resp>Prepared under the supervision of</resp>
+               <name>Lisa Cerrato</name>
+               <name>William Merrill</name>
+               <name>Elli Mylonas</name>
+               <name>David Smith</name>
+            </respStmt>
+            <funder n="org:AnnCPB">The Annenberg CPB/Project</funder>
+         </titleStmt>
+         <extent>About 70Kb</extent>
+         <publicationStmt>
+            <publisher>Trustees of Tufts University</publisher>
+            <pubPlace>Medford, MA</pubPlace>
+            <authority>Perseus Project</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>Aeschylus</author>
+                  <title>Aeschyli tragoediae</title>
+                  <editor role="editor">Gottfried Hermann</editor>
+                  <imprint>
+                     <pubPlace>Lipsiae</pubPlace>
+                     <publisher>Apud Weidmannos</publisher>
+                     <date>1852</date>
+                  </imprint>
+                  <biblScope unit="volume">2</biblScope>
+               </monogr>
+               <ref target="https://www.hathitrust.org/">OCR from HathiTrust</ref>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl><quotation marks="none"/></editorialDecl>
+         <refsDecl n="CTS">
+            <cRefPattern n="line" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div//tei:l[@n='$1'])">
+               <p>This pointer pattern extracts lines</p>
+            </cRefPattern>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="grc">Greek, Ancient (to 1453)</language>
+            <language ident="lat">Latin</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2026-08-14" who="Gregory Crane">Created TEI header for Hermann 1852 edition (URN: urn:cts:greekLit:tlg0085.tlg007.hermann1852-grc2) from HathiTrust OCR source.</change>
+      </revisionDesc>
+   </teiHeader>
+
     <text>
         <front>
             <pb n="270"/>
-            <div type="DramatisPersonae">
-                
-                <castList>
-                    <castItem>Πυθίας Προφήτης</castItem>
-                    <castItem>Ἀπόλλων</castItem>
-                    <castItem>Ὀρέστης</castItem>
-                    <castItem>Κλυταιμνήστρας Εἴδωλον</castItem>
-                    <castItem>Χορὸς Εὐμενίδων</castItem>
-                    <castItem>Ἀθηνᾶ</castItem>
-                    <castItem>Προπομποί</castItem>
-                    <castItem>Ἑρμῆς</castItem>
-                    <castItem>Κῆρυξ</castItem>
-                    <castItem>Δικασταί</castItem>
-                </castList>
-            </div>
+
+   <div type="textpart" subtype="dramatis-personae" xml:lang="grc">
+      <head>Τὰ τοῦ δράματος πρόσωπα</head>
+      <list type="cast">
+         <item xml:id="pythias">
+            <persName role="speaker">Πυθιὰς προφῆτις</persName>
+         </item>
+         <item xml:id="apollon">
+            <persName role="speaker">Ἀπόλλων</persName>
+         </item>
+         <item xml:id="orestes">
+            <persName role="speaker">Ὀρέστης</persName>
+         </item>
+         <item xml:id="klytaimnestra">
+            <persName role="speaker">Κλυταιμνήστρας εἴδωλον</persName>
+         </item>
+         <item xml:id="choros">
+            <persName role="speaker">Χορὸς Εὐμενίδων</persName>
+         </item>
+         <item xml:id="athena">
+            <persName role="speaker">Ἀθηνᾶ</persName>
+         </item>
+         <item xml:id="propompoi">
+            <persName role="speaker">Προπομποί</persName>
+         </item>
+      </list>
+   </div>
+
         </front>
         <body>
+                     <div type="edition" n="urn:cts:greekLit:tlg0085.tlg007.hermann1852-grc2" xml:lang="grc">
+
             <pb n="271"/>
             <sp>
                 <speaker>Πυθίας</speaker>
@@ -59,7 +123,7 @@
                 <l n="23">κοίλη, φίλορνις, δαιμόνων ἀναστροφαί.</l>
       
             <pb n="272"/>
-  <l n="24"><gap extent="..."/></l>
+  <l n="24"><gap reason="omitted" extent="..."/></l>
                 <l n="25">Βρόμιος ἔχει τὸν χῶρον, οὐδ᾽ ἀμνημονῶ,</l>
                 <l n="26">ἐξ οὗτε Βάκχαις ἐστρατήγησεν θεός,</l>
                 <l n="27">λαγὼ δίκην Πενθεῖ καταρράψας μόρον·</l>
@@ -86,7 +150,7 @@
                 <l n="48">εὕδει γυναικῶν ἐν θρόνοισιν ἥμενος.</l>
                 <l n="49">οὔτοι γυναῖκας, ἀλλὰ Γοργόνας λέγω·</l>
                 <l n="50">οὐδ᾽ αὖτε Γοργείοισιν εἰκάσω τύποις·</l>
-                <l n="51"><gap extent="..."/></l>
+                <l n="51"><gap reason="omitted" extent="..."/></l>
                 <l n="52">εἶδόν ποτ᾽ ἤδη Φινέως γεγραμμένας</l>
                 <l n="53">δεῖπνον φερούσας· ἄπτεροί γε μὴν ἰδεῖν</l>
                 <l n="54">αὗται, μέλαιναι δ᾽ ἐς τὸ πᾶν βδελύκτροποι·</l>
@@ -113,7 +177,7 @@
                 <l n="68">ἐχθροῖσι τοῖς σοῖς οὐ γενήσομαι πέπων.</l>
                 <l n="69">καὶ νῦν ἁλούσας τάσδε τὰς μάργους ὁρᾷς·</l>
                 <l n="70">ὕπνῳ πεσοῦσαι δ' αἱ κατάπτυστοι κόραι,</l>
-                  <l n="71"><gap extent="..."/></l>
+                  <l n="71"><gap reason="omitted" extent="..."/></l>
 
                 <l n="72">γραῖαι, παλαιαὶ παῖδες, αἷς οὐ μίγνυται</l>
                 <l n="73">θεῶν τις, οὐδ᾽ ἄνθρωπος, οὐδὲ θήρ ποτε·</l>
@@ -837,7 +901,7 @@
 <l n="473">πέμπειν τε, δυςπήμαντ᾽ ἀμηχάνως ἐμοί.</l>
 <l n="474">ἐπεὶ δὲ πρᾶγμα δεῦρ᾽ ἐπέσκηψεν τόδε,</l>
 <l n="475">φόνων δικαστὰς ὁρκίους αἱρουμένη</l>
-<l n="476"><gap extent="...."/></l>
+<l n="476"><gap reason="omitted" extent="...."/></l>
 <l n="477">Θεσμόν, τὸν εἰς ἅπαντ᾽ ἐγὼ θήσω χρόνον.</l>
 <l n="478">ὑμεῖς δὲ μαρτύριά τε καὶ τεκμήρια</l>
 <l n="479">καλεῖσθ', ἀρωγὰ τῆς δίκης θ' ὁρκώματα.</l>
@@ -938,14 +1002,14 @@
 <sp>
 <speaker>Ἀθηνᾶ</speaker>
 <l n="555">κήρυσσε, κήρυξ, καὶ στρατὸν κατειργάθου,</l>
-<l n="556">εἴτ᾽ οὖν διάτορος <gap reason="lacuna"/> Τυρσηνικὴ</l>
-<l n="557">σάλπιγξ, βροτείου πνεύματος πληρουμένη, <gap reason="lacuna"/></l>
+<l n="556">εἴτ᾽ οὖν διάτορος <gap reason="omitted"/> Τυρσηνικὴ</l>
+<l n="557">σάλπιγξ, βροτείου πνεύματος πληρουμένη, <gap reason="omitted"/></l>
 <note place="right" type="lyric">ἀντ. δ'.</note>
 <pb n="291"/>
 <l n="558">ὑπέρτονον γήρυμα φαινέτω στρατῷ.</l>
 <l n="559">πληρουμένου γὰρ τοῦδε βουλευτηρίου</l>
 <l n="560">σιγᾶν ἀρήγει καὶ μαθεῖν θεσμοὺς ἐμοὺς</l>
-<l n="561"><gap extent="..."/></l>
+<l n="561"><gap reason="omitted" extent="..."/></l>
 <l n="562">πόλιν τε πᾶσαν, εἰς τὸν αἰανῆ χρόνον</l>
 <l n="563">ἐκ τῶνδ᾽ ὅπως ἂν εὖ καταγνωσθῇ δίκη.</l>
 </sp>
@@ -1098,7 +1162,7 @@
 <l n="620">ψήφῳ διαιρεῖν τοῦδε πράγματος πέρι·</l>
 <l n="621">ἀπὸ στρατείας γάρ νιν ἠμποληκότα</l>
 <l n="622">τὰ πλεῖστ᾽ ἄμεινον εὔφροσιν δεδεγμένη</l>
-<l n="623"><gap extent="..."/></l>
+<l n="623"><gap reason="omitted" extent="..."/></l>
 <l n="624">δροίτης περῶντι λουτρά, κἀπὶ τέρματι</l>
 <l n="625">φᾶρος περεσκήνωσεν, ἐν δ᾽ ἀτέρμονι</l>
 <l n="626">κόπτει πεδήσασ' ἄνδρα δαιδάλῳ πέπλῳ.</l>
@@ -1144,7 +1208,7 @@
 <l n="653">τεκμήριον δὲ τοῦδέ σοι δείξω λόγου.</l>
 <l n="654">πατὴρ μὲν ἂν γένοιτ' ἄνευ μητρός· πέλας</l>
 <l n="655">μάρτυς πάρεστι παῖς Ὀλυμπίου Διός,</l>
-<l n="656"><gap extent="..."/></l>
+<l n="656"><gap reason="omitted" extent="..."/></l>
 <l n="657">οὐδ᾽ ἐν σκότοισι νηδύος τεθραμμένη,</l>
 <l n="658">ἀλλ᾽ οἷον ἔρνος οὔτις ἂν τέκοι θεός.</l>
 <l n="659">ἐγὼ δέ, Παλλάς, τἄλλα θ', ὡς ἐπίσταμαι,</l>
@@ -1521,7 +1585,7 @@
 <l n="840">ἔσται πολίταις τοῖςδε. καὶ σὺ τιμίαν</l>
 <l n="841">ἕδραν ἔχουσα πρὸς δόμοις Ἐρεχθέως</l>
 <l n="842">τεύξει παρ' ἀνδρῶν καὶ γυναικείων στόλων</l>
-<l n="843"><gap extent="..."/></l>
+<l n="843"><gap reason="omitted" extent="..."/></l>
 <l n="844">ὅσην παρ᾽ ἄλλων οὔποτ᾽ ἂν σχέθοις βροτῶν.</l>
 <l n="845">σὺ δ᾽ ἐν τόποισι τοῖς ἐμοῖσι μὴ βάλῃς</l>
 <l n="846">μήθ' αἱματηρὰς θηγάνας σπλάγχνων βλάβας</l>
@@ -1840,7 +1904,7 @@
 <l n="1026">οὕτω Μοῖρά τε συγκατέβα.</l>
 <l n="1027">ὀλολύξατε νῦν ἐπὶ μολπαῖς.</l>
 </sp>
-
+</div>
         </body>
     </text>
 </TEI>
