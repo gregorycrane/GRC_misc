@@ -1,0 +1,1559 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="eng">
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="lat">Supplices</title>
+        <author>Aeschylus</author>
+        <editor>Joannes Cornelius de Pauw</editor>
+        <respStmt>
+          <resp>Latin translation and commentary</resp>
+          <name>Thomas Stanley</name>
+        </respStmt>
+        <respStmt>
+          <resp>Digital conversion and CTS encoding</resp>
+          <name>Gregory Crane</name>
+        </respStmt>
+        <sponsor>Perseus Project, Tufts University</sponsor>
+        <principal>Gregory Crane</principal>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Perseus Project</publisher>
+        <pubPlace>Medford, MA</pubPlace>
+        <authority>Perseus Project</authority>
+        <availability>
+          <p>For scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Aeschylus</author>
+            <title>Aeschyli tragoediae superstites, Graeca in eas scholia, et deperditarum fragmenta</title>
+            <editor>Joannes Cornelius de Pauw</editor>
+            <respStmt>
+              <resp>Latin translation and commentary</resp>
+              <name>Thomas Stanley</name>
+            </respStmt>
+            <imprint>
+              <pubPlace>Hagae Comitum</pubPlace>
+              <publisher>Apud Petrum Gosse, filium, et socios</publisher>
+              <date>1745</date>
+            </imprint>
+            <biblScope unit="volume">2</biblScope>
+          </monogr>
+          <note>Greek text and Latin translation were printed on facing pages. This digital transcription is incomplete and preserves the surviving page and line sequence.</note>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>OCR text and printed lineation are preserved. The duplicated printed line number 446 is disambiguated as 446a and 446b. Latin-to-Greek correspondence is encoded with absolute CTS URNs.</p>
+      </editorialDecl>
+      <refsDecl n="CTS">
+        <cRefPattern n="line" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div//tei:l[@n='$1'])">
+          <p>This pointer pattern extracts a verse line.</p>
+        </cRefPattern>
+      </refsDecl>
+      <projectDesc>
+        <p>CTS edition: urn:cts:greekLit:tlg0085.tlg001.depauw1745-lat2.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="grc">Ancient Greek</language>
+        <language ident="lat">Latin</language>
+        <language ident="eng">English</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-08-16" who="#gcrane">Regularized as separate CTS/EpiDoc Greek and Latin editions with formal correspondence.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="lat">
+    <body>
+      <div type="edition" n="urn:cts:greekLit:tlg0085.tlg001.depauw1745-lat2" xml:lang="lat">
+        <div type="textpart" subtype="metrical-section">
+          <head>ANAPÆSTI.</head>
+          <pb n="559"/>
+          <l n="1" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1">Jupiter quidem supplicum-praeses inspiciat benevole</l>
+          <l n="2" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:2">Classem nostram</l>
+          <l n="3" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:3">Navalem solventem ab ostiis</l>
+          <l n="4" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:4">Minime profundis</l>
+          <l n="5" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:5">Nili. divinam enim linquentes</l>
+          <l n="6" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:6">Terram Syriae conterminam fugimus,</l>
+          <l n="7" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:7">Non ob sanguinem publica</l>
+          <l n="8" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:8">Urbis sententia damnatae:</l>
+          <l n="9" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:9">Verum ab codem genitorum maritorum fugientes</l>
+          <l n="10" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:10">Nuptias Aegypti filiorum impiasque</l>
+          <l n="11" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:11">Abominantes.</l>
+          <l n="12" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:12">Danaus autem pater, &amp; consilii autor,</l>
+          <l n="13" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:13">Et coœtus princeps, haec disponens,</l>
+          <l n="14" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:14">Maximum dolorem statuit,</l>
+          <l n="15" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:15">Fugere (nos) propere per fluctus marinos;</l>
+          <l n="16" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:16">Appellere autem ad terram Argivam, unde</l>
+          <l n="17" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:17">Nostrum genus, aestro percitæ</l>
+          <l n="18" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:18">Vaccae e contrectatione, &amp; ex afflatu</l>
+          <l n="19" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:19">Jovis gloriatur se fore.</l>
+          <l n="20" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:20">Quam igitur terram hac magis benevolam</l>
+          <l n="21" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:21">Accedamus,</l>
+          <l n="22" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:22">Cum hisce supplicum in manibus</l>
+          <l n="23" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:23">Lana coronatis ramis?</l>
+          <l n="24" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:24">O urbs, o terra, &amp; limpida aqua,</l>
+          <l n="25" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:25">Supremique Dii, &amp; graviter succensentes</l>
+          <l n="26" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:26">Terrestres sedes obtinentes,</l>
+          <l n="27" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:27">Et Jupiter tertius sospitator, custos aedium</l>
+          <l n="28" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:28">Piorum virorum, recipiatis supplicem</l>
+          <pb n="561"/>
+          <l n="29" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:29">Foemineam classem benevolo</l>
+          <l n="30" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:30">Spiritu regionis; virorum vero grande</l>
+          <l n="31" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:31">Examen protervum Aegypto genitum,</l>
+          <l n="32" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:32">Priusquam pedem in arenosa hac terra</l>
+          <l n="33" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:33">Ponant, vehiculo celeri</l>
+          <l n="34" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:34">Mittite ad mare, ubi turbine</l>
+          <l n="35" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:35">Procelloso tonitrui &amp; fulguri</l>
+          <l n="36" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:36">Imbriferisque ventis efferati</l>
+          <l n="37" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:37">Maris occurrentes pereant,</l>
+          <l n="38" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:38">Priusquam lectos, a quibus arcet Justitia,</l>
+          <l n="39" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:39">Assumentes sibi consanguineas</l>
+          <l n="40" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:40">Invitas, infcendant.</l>
+        </div>
+        <div type="textpart" subtype="strophe" n="1">
+          <head>Strophe 1.</head>
+          <l n="41" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:41">Nunc autem invocamus</l>
+          <l n="42" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:42">Divinum vitulum transmarinum</l>
+          <l n="43" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:43">Vindicem, filiumque</l>
+          <l n="44" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:44">Flores-comedentis progenitricis</l>
+          <l n="45" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:45">Vaccae ex afflatu</l>
+          <l n="46" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:46">Jovis contrectationem; (a contrectatione) vero cognomen</l>
+          <l n="47" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:47">Dedit fatalis dies</l>
+          <l n="48" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:48">Proprie:</l>
+        </div>
+        <div type="textpart" subtype="antistrophe" n="1">
+          <head>Antistrophe 1.</head>
+          <l n="49" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:49">Epaphumque ejusdem generis</l>
+          <l n="50" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:50">Invocans quoque,</l>
+          <l n="51" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:51">In uberibus</l>
+          <l n="52" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:52">Matris antiquae locis</l>
+          <l n="53" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:53">Priorum laborum recordans,.</l>
+          <l n="54" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:54">Nunc ostendam</l>
+          <l n="55" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:55">Manifesta testimonia, obscuraque</l>
+          <l n="56" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:56">(Novi) quamvis insperanda comparebunt.</l>
+          <l n="57" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:57">Intelliget vero</l>
+          <l n="58" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:58">Quis sermonem post tempus aliquod exactum</l>
+        </div>
+        <div type="textpart" subtype="strophe" n="2">
+          <head>Strophe 2.</head>
+          <pb n="563"/>
+          <l n="59" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:59">Si quis augurum vero prope sit</l>
+          <l n="60" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:60">In terra, planctum triste audiens,</l>
+          <l n="61" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:61">Existimabit se audire</l>
+          <l n="62" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:62">Vocem Tereos</l>
+          <l n="63" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:63">Miserandae uxoris,</l>
+          <l n="64" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:64">Lusciniaeque a circis fugatae:</l>
+        </div>
+        <div type="textpart" subtype="antistrophe" n="2">
+          <head>Antistrophe 2.</head>
+          <l n="65" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:65">Quae a locis &amp; fluviis prohibita,</l>
+          <l n="66" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:66">Plangit planctum novum nidorum</l>
+          <l n="67" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:67">Commemorat vero pueri</l>
+          <l n="68" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:68">Fatum, qui ab ipsa caedis authore</l>
+          <l n="69" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:69">Periit ipsius manibus,</l>
+          <l n="70" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:70">Crudelis matris iram sustinens.</l>
+        </div>
+        <div type="textpart" subtype="strophe" n="3">
+          <head>Strophe 3.</head>
+          <l n="71" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:71">Sic &amp; ego tristibus</l>
+          <l n="72" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:72">Ionicis cantibus</l>
+          <l n="73" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:73">Dilacero teneram</l>
+          <l n="74" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:74">Nilo-enutritam genam,</l>
+          <l n="75" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:75">Lacrymasque haud expertum cor.</l>
+          <l n="76" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:76">Dolores depascor,</l>
+          <l n="77" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:77">Metuens amicis hujusce</l>
+          <l n="78" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:78">Fugae aeria a terra,</l>
+        </div>
+        <div type="textpart" subtype="antistrophe" n="3">
+          <head>Antistrophe 3.</head>
+          <l n="79" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:79">Si quis sit qui curet.</l>
+          <l n="80" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:80">Verum Dii generis authores,</l>
+          <l n="81" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:81">Audite benevole quod justum est respicientes.</l>
+          <l n="82" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:82">Non perfectum</l>
+          <l n="83" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:83">Injuriam vero parato odio habentes,</l>
+          <l n="84" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:84">In nuptias justi sitis.</l>
+          <l n="85" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:85">Est autem &amp; e bello</l>
+          <l n="86" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:86">,, Fugientibus altare Mars</l>
+          <l n="87" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:87">,, Liberatorium, Deorum veneratio,</l>
+        </div>
+        <div type="textpart" subtype="strophe" n="4">
+          <head>Strophe 4.</head>
+          <pb n="565"/>
+          <l n="88" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:88">,, Si quis cordate Jovem colat.</l>
+          <l n="89" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:89">,, Jovis mens haud captu facilis est,</l>
+          <l n="90" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:90">,, Ubique splendet, etiam</l>
+          <l n="91" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:91">,, In tenebris.</l>
+          <l n="92" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:92">,, Obscuri sunt casus</l>
+          <l n="93" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:93">,, Hominibus diversiloquis.</l>
+        </div>
+        <div type="textpart" subtype="antistrophe" n="4">
+          <head>Antistrophe 4.</head>
+          <l n="94" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:94">,, Cadit autem secure non in tergum</l>
+          <l n="95" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:95">,, Vertice Jovis quicquid perficiendum statuatur.</l>
+          <l n="96" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:96">,, Densae enim animi</l>
+          <l n="97" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:97">,, Umbrosaeque</l>
+          <l n="98" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:98">,, Tendunt viae,</l>
+          <l n="99" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:99">,, Perceptu omnino difficiles.</l>
+        </div>
+        <div type="textpart" subtype="strophe" n="5">
+          <head>Strophe 5.</head>
+          <l n="100" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:100">,,Damnat autem respiciens</l>
+          <l n="101" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:101">,, Ab excelfis turribus impios</l>
+          <l n="102" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:102">,, Mortales, vim vero</l>
+          <l n="103" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:103">,, Nullam exarmat</l>
+          <l n="104" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:104">,,Deorum absque paena.</l>
+          <l n="105" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:105">,,Sedens superius mens</l>
+          <l n="106" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:106">,, Illinc tamen perfecit (omnia,)</l>
+          <l n="107" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:107">,, Sedibus in puris.</l>
+        </div>
+        <div type="textpart" subtype="antistrophe" n="5">
+          <head>Antistrophe 5.</head>
+          <pb n="567"/>
+          <l n="108" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:108">Respiciat autem injuriam</l>
+          <l n="109" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:109">Mortalem, qualiter juvenescit</l>
+          <l n="110" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:110">Radix propter</l>
+          <l n="111" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:111">Meas nuptias germen,</l>
+          <l n="112" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:112">Animo infeliciter consulente,</l>
+          <l n="113" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:113">Mentem furentem</l>
+          <l n="114" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:114">Retinens stimulum non vitandum, damno</l>
+          <l n="115" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:115">Gravi damno succumbens.</l>
+        </div>
+        <div type="textpart" subtype="strophe" n="6">
+          <head>Strophe 6.</head>
+          <l n="116" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:116">Tales dolores miseros inclamans dico</l>
+          <l n="117" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:117">Stridulos graves lacrymis cadentibus.</l>
+          <l n="118" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:118">Eheu! cheu!</l>
+          <l n="119" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:118">Lugubres cantilenas decentia</l>
+          <l n="120" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:119">Inclamans carmina.</l>
+          <l n="121" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:120">Viva me doloribus honoro (mihi presica sum.)</l>
+          <l n="122" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:121">Propitiam quidem mihi reddo Apiam terram,</l>
+          <l n="123" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:122">Barbara vero vocem</l>
+          <l n="124" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:123">Facile intelligis.</l>
+          <l n="125" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:124">Saepius autem rogo, cum laciniis,</l>
+          <l n="126" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:125">Lineis textis, aut</l>
+          <l n="127" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:126">Sidonio capitis tegmine.</l>
+        </div>
+        <div type="textpart" subtype="antistrophe" n="6">
+          <head>Antistrophe 6.</head>
+          <l n="128" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:127">Diis pia perfecta, rebus bene cedentibus,</l>
+          <l n="129" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:128">Incurrant, ubi mors absit.</l>
+          <l n="130" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:129">Eheu! cheu!</l>
+          <l n="131" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:129">Eheu, judicatu difficiles labores!</l>
+          <l n="132" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:130">Qua fluctus hic abducet?</l>
+          <l n="133" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:131">Propitiam quidem mihi reddo Apiam terram,</l>
+          <l n="134" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:132">Barbara vero vocem</l>
+          <l n="135" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:133">Facile intelligis.</l>
+          <l n="136" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:134">Saepius autem rogo cum laciniis,</l>
+          <l n="137" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:135">Lineis textis, aut</l>
+          <l n="138" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:136">Sidonio capitis tegmine.</l>
+        </div>
+        <div type="textpart" subtype="strophe" n="7">
+          <head>Strophe 7.</head>
+          <pb n="569"/>
+          <l n="139" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:139">Remus quidem &amp; lino confuta</l>
+          <l n="140" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:140">Domus (i. e. navis) mare arcens a ligno</l>
+          <l n="141" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:141">Tempestate nulla jactatam me misit cum flatibus:</l>
+          <l n="142" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:142">Neque queror:</l>
+          <l n="143" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:143">Finis autem tempore</l>
+          <l n="144" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:144">Pater qui omnia cernit</l>
+          <l n="145" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:145">Benevolus faciat</l>
+          <l n="146" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:146">Semen magnum venerandae matris,</l>
+          <l n="147" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:147">Lectos virorum, hei! hei!</l>
+          <l n="148" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:148">Innuptum indomitum effugere.</l>
+        </div>
+        <div type="textpart" subtype="antistrophe" n="7">
+          <head>Antistrophe 7.</head>
+          <l n="149" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:149">Libens vero cupientem casta</l>
+          <l n="150" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:150">Respiciat me Jovis filia,</l>
+          <l n="151" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:151">Retinens venerandum vultum secure.</l>
+          <l n="152" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:152">A gravibus persecutionibus</l>
+          <l n="153" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:153">Secure</l>
+          <l n="154" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:154">Indomitam indomita</l>
+          <l n="155" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:155">Liberet.</l>
+          <l n="156" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:156">Semen magnum venerandae matris,</l>
+          <l n="157" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:157">Lectos virorum, hei! hei!</l>
+          <l n="158" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:158">Innuptum indomitum effugere.</l>
+        </div>
+        <div type="textpart" subtype="strophe" n="8">
+          <head>Strophe 8.</head>
+          <l n="159" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:159">Si vero non, denigratum</l>
+          <l n="160" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:160">Fulmine ictum genus</l>
+          <l n="161" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:161">Terrestre,</l>
+          <l n="162" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:162">Plurimos recipientem hospites</l>
+          <l n="163" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:163">Mortuos Jovem</l>
+          <l n="164" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:164">Adibimus e ramis (facto)</l>
+          <l n="165" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:165">Laqueo morientes,</l>
+          <l n="166" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:166">Non consecutae (auxilium)</l>
+          <l n="167" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:167">Deorum caelestium.</l>
+        </div>
+        <div type="textpart" subtype="episode">
+          <pb n="571"/>
+          <l n="168" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:168">O Jupiter, eheu in Io</l>
+          <l n="169" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:169">Ira a Diis investigatrix est.</l>
+          <l n="170" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:170">Novi vero damnum</l>
+          <l n="171" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:171">Uxoris caelos vincens.</l>
+          <l n="172" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:172">Ex valido enim vento</l>
+          <l n="173" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:173">Provenit tempestas.</l>
+        </div>
+        <div type="textpart" subtype="antistrophe" n="8">
+          <head>Antistrophe 8.</head>
+          <l n="174" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:175">Tunc non justos</l>
+          <l n="175" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:176">Jupiter consequetur sermones,</l>
+          <l n="176" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:177">Vaccae</l>
+          <l n="177" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:178">Filium ignominia afficiens,</l>
+          <l n="178" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:179">Quem ipse aliquando generavit,</l>
+          <l n="179" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:180">Nunc habens retortum</l>
+          <l n="180" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:181">Oculum in precibus (nostris:)</l>
+          <l n="181" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:182">Ex alto vero benevole Audiat invocatus.</l>
+        </div>
+        <div type="textpart" subtype="metrical-section">
+          <head>IAMBI.</head>
+          <sp>
+            <speaker>Senex</speaker>
+            <l n="182" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:183">Puerae, sapere oportet: cum prudenti vero venitis</l>
+            <l n="183" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:184">Fido sene hoc nauclero patre.</l>
+            <l n="184" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:185">Et quid in terra agendum nunc consilium capere</l>
+            <l n="185" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:186">Hortor, observare mea verba memorantes.</l>
+            <l n="186" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:187">Video pulverem, mutum exercitus nuncium,</l>
+            <l n="187" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:188">Fistulae non tacent axe agitatae.</l>
+            <l n="188" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:189">Turbam vero clypeatam &amp; hastam quatientem</l>
+            <l n="189" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:190">Cerno, cum equis &amp; curvis curribus.</l>
+            <l n="190" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:191">Fortasse ad nos hujusce terrae principes,</l>
+            <l n="191" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:192">Speculatores sint nuncios audituri.</l>
+            <l n="192" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:193">Verum sive innoxius, sive efferatus</l>
+            <l n="193" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:194">Cruda ira, concitatur in hunc coaetum,</l>
+            <l n="194" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:195">Melius fuerit omni modo, o puellae,</l>
+            <l n="195" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:196">Cumulo adsidere horum Deorum qui certaminibus praesunt.</l>
+            <l n="196" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:197">Turre potentius est altare, infractum scutum.</l>
+            <l n="197" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:198">Verum quam citissime ite, &amp; alba (lana) coronatos</l>
+            <l n="198" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:199">Olivae ramos, delicias venerandi Jovis,</l>
+            <pb n="573"/>
+            <l n="199" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:200">Cum reverentia gestantes manibus,</l>
+            <l n="200" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:201">Modesta &amp; tristia &amp; convenientia verba</l>
+            <l n="201" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:202">Cum hospitibus permutate, ut advenas decet,</l>
+            <l n="202" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:203">Clare proferentes fugam incruentam.</l>
+            <l n="203" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:204">Vox autem sequatur, primum quidem non temeraria,</l>
+            <l n="204" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:205">Non protervus e fronte modesta</l>
+            <l n="205" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:206">Proveniat vultus ab oculo pudico.</l>
+            <l n="206" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:207">Nec prior loquaris, nec prolixa in sermone</l>
+            <l n="207" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:208">Fias: hoc genus invidiae pronum est valde.</l>
+            <l n="208" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:209">Cedere autem recordare: auxilii indiga es hospes exul.</l>
+            <l n="209" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:210">Audacter enim loqui non decet inferiores.</l>
+            <l n="210" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:211">Virgines. Pater, prudenter prudentes alloqueris.</l>
+            <l n="211" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:212">Diligenter autem recordabimur haec tua</l>
+            <l n="212" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:213">Prudentia praecepta: Jupiter autem genitor inspiciat.</l>
+            <l n="213" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:214">Senex. Ne nunc otiosa sis, artificii autem adsit robur.</l>
+            <l n="214" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:215">Virg. Cupio quidem nunc prope te sedem habere.</l>
+            <l n="215" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:216">Senex. O Jupiter, post interitum ne laborum miserearis.</l>
+            <l n="216" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:217">Respiciat quidem benevolo oculo.</l>
+            <l n="217" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:218">Virg. Hoc volente fauste haec cedent.</l>
+            <l n="218" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:219">Senex. Jovisque alitem hunc nunc invocate.</l>
+            <l n="219" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:220">Virg. Invocamus jubar Solis sospitatorium,</l>
+            <l n="220" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:221">Castumque Apollinem, exulem e caelis Deum.</l>
+            <l n="221" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:222">Cernens hoc fatum, ignoscat mortalibus.</l>
+            <l n="222" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:223">Senex. Ignoscat quidem, &amp; benevolus adsit.</l>
+            <l n="223" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:224">Virg. Quem amplius Deorum horum invocabo?</l>
+            <l n="224" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:225">Senex. Video trientem hunc, signum Dei.</l>
+            <l n="225" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:226">Virg. Benevole (huc nos) misit, benevole etiam recipiat in terra.</l>
+            <l n="226" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:227">Senex. Mercurius hic alius secundum Graecorum leges.</l>
+            <l n="227" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:228">Virg. Liberis fausta pronunciet.</l>
+            <l n="228" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:229">Senex. Omnium horum Regum commune altare</l>
+            <l n="229" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:230">Veneramini. caste, ut turba turturum.,</l>
+            <l n="230" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:231">Sedete, circorum similiam ob metum,</l>
+            <l n="231" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:232">Inimicorum consanguineorum, inquinantium genus.</l>
+            <l n="232" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:233">Quomodo avis avem devorans casta sit?</l>
+            <l n="233" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:234">Quomodo invitam ducens ab invito</l>
+            <pb n="575"/>
+            <l n="234" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:235">Pudicus fit? neque apud inferos mortuus</l>
+            <l n="235" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:236">Effugiat petulantiam criminis, hoc perpetrans.</l>
+            <l n="236" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:237">Etiam ibi judicat facinora, ut fertur,</l>
+            <l n="237" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:238">Jupiter alius inter sustinentes supremum jus.</l>
+            <l n="238" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:239">Considerate &amp; permutate hunc locum,</l>
+            <l n="239" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:240">Ut res haec vobis in victoriam cedat.</l>
+            <l n="240" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:241">Rex. Cujatem caetum hunc haud Graecum,</l>
+            <l n="241" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:242">Vestibus barbaris &amp; spissamentis</l>
+            <l n="242" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:243">Conspicuum alloquimur? non enim Argivus est</l>
+            <l n="243" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:244">Mulierum amictus, neque a locis Graeciae.</l>
+            <l n="244" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:245">Quomodo autem ad regionem (hanc) neque praecone praemisso,</l>
+            <l n="245" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:246">Extraneaque, sine duce, venire</l>
+            <l n="246" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:247">Ausae estis intrepide, mirandum hoc est.</l>
+            <l n="247" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:248">Rami quidem, ut moris est supplicibus,</l>
+            <l n="248" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:249">A vobis deponuntur apud Deos certaminum praesides.</l>
+            <l n="249" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:250">Hoc tantum Graeca terra conjectura assequatur.</l>
+            <l n="250" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:251">Alia etiam multa conjicere par esset,</l>
+            <l n="251" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:252">Nisi praesenti vox foret quae indicet.</l>
+            <l n="252" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:253">Virg. De amictu locutus es vera verba.</l>
+            <l n="253" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:254">Ego vero te utrum ut popularem alloquor,</l>
+            <l n="254" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:255">Aut custodem templi virgam, aut urbis ducem?</l>
+            <l n="255" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:256">Rex. Ad haec responde &amp; cum fiducia dic mihi:</l>
+            <l n="256" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:257">Indigenae enim ego sum Palaechthonis</l>
+            <l n="257" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:258">Filius Pelasgus, hujusce terrae princeps.</l>
+            <l n="258" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:259">Mei autem, Regis, apte cognomen ferens</l>
+            <l n="259" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:260">Pelasgorum genus hac terra fruitur.</l>
+            <l n="260" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:261">Totiusque terrae, per quam Algus transit,</l>
+            <l n="261" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:262">Strymonque ad Solem occidentem, imperium habeo.</l>
+            <l n="262" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:263">Termino autem hanc Perrhaeborum terram,</l>
+            <l n="263" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:264">Quaeque ultra Pindum, prope Paeonas,</l>
+            <l n="264" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:265">Montesque Dodonaeos: contrahit autem terminus</l>
+            <l n="265" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:266">Humidi maris: quaeque ulterius sunt possideo..</l>
+            <l n="266" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:267">Ipsius vero regionis Apiae solum hoc</l>
+            <l n="267" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:268">A retro nomen tulit medici gratia.</l>
+            <l n="268" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:269">Apis enim veniens e finibus Naupactiis</l>
+            <pb n="577"/>
+            <l n="269" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:270">Medico-vates filius Apollinis terram</l>
+            <l n="270" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:271">Hanc expurgavit ab animalibus homines interimentibus</l>
+            <l n="271" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:272">Quae quidem antiquorum sanguinum inquinamentis</l>
+            <l n="272" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:273">Polluta edidit terra efferata pestifera animalia,</l>
+            <l n="273" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:274">Draconum turbam, crudele contubernium,</l>
+            <l n="274" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:275">Horum remedia incisoria &amp; liberatoria</l>
+            <l n="275" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:276">Inculpate inveniens Apis Argivae terrae,</l>
+            <l n="276" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:277">Memoriam in precibus mercedis loco consecutus est.</l>
+            <l n="277" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:278">Habens jam (haec) de me indicia,</l>
+            <l n="278" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:279">Genus tuum clare efferas, &amp; ulterius loquaris.</l>
+            <l n="279" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:280">Longam quidem orationem urbs non diligit.</l>
+            <l n="280" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:281">Virg. Brevis &amp; perspicuus sermo, Argivae genere</l>
+            <l n="281" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:282">Gloriamur fore, semen vaccae prole felicis:</l>
+            <l n="282" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:283">Et haec omnia vera ostendam in sermone.</l>
+            <l n="283" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:284">Rex. Incredibilia auditu mihi, o hospites, loquimini,</l>
+            <l n="284" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:285">Quomodo hoc sit vobis Argivum genus.</l>
+            <l n="285" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:286">Libycis enim similiores estis</l>
+            <l n="286" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:287">Mulieribus, &amp; nullatenus indigenis.</l>
+            <l n="287" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:288">Et Nilus quidem talem nutriat plantam,</l>
+            <l n="288" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:289">Cypriusque character in faemineis formis</l>
+            <l n="289" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:290">Similis incutitur a maribus fabris :</l>
+            <l n="290" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:291">Indasque audio nomadas celeribus</l>
+            <l n="291" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:292">Camelis vehi, terram</l>
+            <l n="292" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:293">Vicinam Aethiopibus incolentes.</l>
+            <l n="293" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:294">Innuptasque carnem devorantes Amazonas,</l>
+            <l n="294" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:295">Si arcus gestaretis, omnino conjicerem</l>
+            <l n="295" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:296">Vos fore. edoctus melius sciam</l>
+            <l n="296" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:297">Quomodo progenies semenque Argivum tuum sit.,</l>
+            <l n="297" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:298">Virg. Aedituam Junonis dicunt aliquando</l>
+            <l n="298" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:299">Io commisceri hac in Argiva terra</l>
+            <l n="299" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:300">Jovi, ut maxime &amp; magna fama se habet.</l>
+            <l n="300" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:301">Rex. Numquid &amp; fama est Jovem commiscuisse se cum mortali?</l>
+            <l n="301" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:302">Virg. Et clam Junonem haec (fiunt) adulteria.</l>
+            <l n="302" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:303">Rex. Quomodo ergo finiunt Regum hae contentiones?</l>
+            <l n="303" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:304">Virg. Mulierem vertit in vaccam Argiva Dea.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="episode">
+          <sp>
+            <speaker>Rex.</speaker>
+            <pb n="579"/>
+            <l n="306" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:306">Numquid igitur appropinquat Jupiter vaccae pulchri-corni?</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="307" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:307">Aiunt vertentem corpus in taurum vaccis insilientem.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="308" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:308">Quid ad haec uxor praepotens Jovis?</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="309" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:309">Omnia cernentem custodem constituit vaccae.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="310" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:310">Qualem omnia cernentem bubulcum dicis?</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="311" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:311">Argum, quem Mercurius terrae filium interfecit.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="312" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:312">Quid igitur aliud struxit infelici vaccae?!</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="313" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:313">Boves exagitans animal, motorium,</l>
+            <l n="314" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:314">Oestrum id vocant Nili incolae.</l>
+            <l n="315" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:315">Eam igitur ex hac terra expulit longo cursu.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="316" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:316">Et haec omnia dixisti convenienter mihi.</l>
+            <l n="317" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:317">Etiam ad Canobum &amp; ad Memphim profecta est?</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="318" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:318">Et Jupiter contrectans manu generat prolem.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="319" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:319">Quis igitur gloriatur se fore divinum vaccae vitulum?</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="320" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:320">Epaphus, vere a liberationibus cognomen obtinens,</l>
+            <l n="321" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:321">(A quo) Libye maxima hujus terrae parte fruitur.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="322" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:322">Quem igitur alium hujus germen dicis?</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="323" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:323">Belum filios duos habentem, patrem patris mei.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="324" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:324">Sapientissimum hoc nomen indica mihi.</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="325" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:325">Danaus: frater autem ei est quinquaginta filiorum pater:</l>
+            <l n="326" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:326">Etiam Danai nomen proprio vocabulo</l>
+            <l n="327" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:327">Aegyptus. intelligens vero nostrum antiquum genus</l>
+            <l n="328" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:328">(Ita) agas ut Argivum erigas coetum.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="329" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:329">Videmini quidem mihi hujus terrae fuisse participes</l>
+            <l n="330" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:330">Antiquitus: verum quomodo paternas aedes</l>
+            <l n="331" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:331">Deferere ausae estis? quinam accidit casus?</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="332" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:332">Rex Pelasgorum, varia sunt hominum mala.</l>
+            <l n="333" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:333">Laboris nunquam videas candem alam.</l>
+            <l n="334" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:334">Quandoquidem quis exspectasset insperatam hanc fugam,</l>
+            <l n="335" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:335">Appellere ad Argos affinitatem prius consanguineam,</l>
+            <l n="336" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:336">Odio lectorum nuptialium attonitam?</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="337" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:337">Cur ais accessisse hos certaminum praesides Deos,</l>
+            <l n="338" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:338">Alba (lana) coronatos tenentes recens-decerptos ramos?</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="339" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:339">Ut non fiam famula Aegypti generi.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="340" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:340">Utrum prae odio, aut quod non licitum est dicis?</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="341" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:341">Quis vero amicos compararet dominos?</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <pb n="581"/>
+            <l n="342" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:342">Robur quidem eo modo magis augetur mortalibus.</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="343" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:343">Etiam infelicibus facile toleranda mors est.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="344" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:344">Quomodo ergo versus vos pius ego sim?</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="345" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:345">Petentibus ne tradas iterum Aegypti filiis.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="346" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:346">Gravia tu quidem dicis, bellum novum suscipere.</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="347" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:347">Verum Justitia auxiliatores tuetur.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="348" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:348">Siquidem ab initio rerum particeps fuissem.</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="349" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:349">Reverere tu puppem urbis ita coronatam.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="350" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:350">Horrui, cernens has aedes umbrosas.</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="351" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:351">Atrox quidem est ira Jovis supplicum praesidis.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="antistrophe" n="1">
+          <l n="352" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:352">Chor. Palaechthonis fili, audi me</l>
+          <l n="353" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:353">Benevolo corde, Pelasgorum Rex.</l>
+          <l n="354" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:354">Respice me supplicem exulem vagabundam,</l>
+          <l n="355" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:355">Ut vitulam albis maculis compunctam in petris</l>
+          <l n="356" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:356">Accessu difficilibus. auxilio</l>
+          <l n="357" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:357">Freta mugiit</l>
+          <l n="358" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:358">Enarrans pastori dolores.</l>
+        </div>
+        <div type="textpart" subtype="metrical-section">
+          <head>IAMBI.</head>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="359" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:359">Cerno ramis recens-decerptis umbrosum</l>
+            <l n="360" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:360">Novumque caetum Deorum horum qui certaminibus praesunt.</l>
+            <l n="361" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:361">Sit res hospitum ab urbe oriundarum absque damno.</l>
+            <l n="362" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:362">Neque ex insperatis &amp; improvisis urbi</l>
+            <l n="363" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:363">Fiat contentio: his enim non indiget urbs.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="antistrophe" n="1">
+          <l n="364" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:364">Chor. Respiciat quidem fugam absque noxa</l>
+          <l n="365" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:365">Supplicum praeses Themis, Jovis omnia perficientis filia.</l>
+          <l n="366" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:366">Tu vero a serius-genita senex existens disce</l>
+          <l n="367" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:367">Supplicem revereri, a quo</l>
+          <l n="368" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:368">Dii sacra recipiunt</l>
+          <l n="369" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:369">A viro puro.</l>
+        </div>
+        <div type="textpart" subtype="metrical-section">
+          <head>IAMBI.</head>
+          <sp>
+            <speaker>Rex.</speaker>
+            <pb n="583"/>
+            <l n="370" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:370">Ne sedeatis incolae aedium</l>
+            <l n="371" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:371">Mearum: si vero in commune polluitur urbs,</l>
+            <l n="372" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:372">In commune populus curam gerat conficiendi remedia</l>
+            <l n="373" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:373">Ego autem non perficiam promissum prius,</l>
+            <l n="374" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:374">Civibus vero omnibus de hac communicabo.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="strophe" n="2">
+          <l n="375" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:375">Tu quidem urbs, tu vero populi communitas,</l>
+          <l n="376" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:376">Rector supremus existens,</l>
+          <l n="377" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:377">Imperium geris altaris &amp; foci terrae.</l>
+          <l n="378" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:378">Unico tuo nutu</l>
+          <l n="379" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:379">Unica imperante in sede negotium</l>
+          <l n="380" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:380">Omne peragis: scelus devites.</l>
+        </div>
+        <div type="textpart" subtype="metrical-section">
+          <head>IAMBI.</head>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="381" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:381">Scelus quidem eveniat inimicis meis,</l>
+            <l n="382" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:382">Vobis autem auxiliari sine damno haud possum:</l>
+            <l n="383" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:383">Neque vero clementis est hasce preces negligere.</l>
+            <l n="384" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:384">Non queo me extricare, metuo</l>
+            <l n="385" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:385">Et efficere, &amp; non efficere, fortunaeque optionem facere.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="antistrophe" n="2">
+          <l n="386" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:386">Chor. E coelis speculatorem respice,</l>
+          <l n="387" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:387">Custodem aerumnosorum</l>
+          <l n="388" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:388">Virorum, qui vicinis assidentes</l>
+          <l n="389" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:389">Non consequuntur justitiam legibus consentancam</l>
+          <l n="390" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:390">Permanet quidem Jovis supplicum praesidis ira</l>
+          <l n="391" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:391">In difficulter demulcendis patientis aerumnis.</l>
+        </div>
+        <div type="textpart" subtype="metrical-section">
+          <head>IAMBI.</head>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="392" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:392">Si tui imperium habeant Aegypti filii,</l>
+            <pb n="585"/>
+            <l n="393" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:393">Secundum urbis legem aientes se genere proximos</l>
+            <l n="394" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:394">Fore, quis hisce sese velit opponere?</l>
+            <l n="395" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:395">Oportet te monstrare secundum leges domesticas,</l>
+            <l n="396" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:396">Quod non habeant jus qualecunque in te.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="strophe" n="3">
+          <l n="397" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:397">Chor. Ne fiam unquam subdita</l>
+          <l n="398" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:398">Virorum robori a stellis vero ducta</l>
+          <l n="399" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:399">Artificium nuptiarum infelicium terminabo</l>
+          <l n="400" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:400">Fuga. in auxilium autem assumens justitiam,</l>
+          <l n="401" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:401">Judica prout exigit Deorum reverentia.</l>
+        </div>
+        <div type="textpart" subtype="metrical-section">
+          <head>IAMBI.</head>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="402" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:402">Non facile judicatu judicium est: ne me judicem assumas.</l>
+            <l n="403" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:403">Prius etiam dixi quod sine populo haec non</l>
+            <l n="404" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:404">Fecero, quamvis imperium obtinens, ne quando</l>
+            <l n="405" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:405">Dicat populus, si quid aliter evenerit,</l>
+            <l n="406" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:406">Advenas honorans, perdidisti urbem.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="antistrophe" n="3">
+          <l n="407" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:407">Chor. Utrosque consanguineorum inspectat</l>
+          <l n="408" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:408">Jupiter in alteram partem inclinans, rependens</l>
+          <l n="409" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:409">Prava quidem pravis, sanctaque sanctis.</l>
+          <l n="410" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:410">Cur, hisce aequaliter inclinantibus, doles</l>
+          <l n="411" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:411">Quod justum est facere?</l>
+        </div>
+        <div type="textpart" subtype="metrical-section">
+          <head>IAMBI.</head>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="412" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:412">Opus quidem est profunda cura sospitatoria,</l>
+            <l n="413" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:413">Instar urinatoris, in imum pervenire (oportet)</l>
+            <l n="414" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:414">Perspicacem oculum, non vino gravem;</l>
+            <l n="415" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:415">Ut sine damno haec, primum quidem urbi</l>
+            <l n="416" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:416">Nobisque ipsis eveniant fauste,</l>
+            <l n="417" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:417">Et neque pugna supplices attinget,</l>
+            <l n="418" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:418">Neque in Deorum sedibus hic collocatas</l>
+            <l n="419" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:419">Tradentes vos, Deum omnia-perdentem</l>
+            <l n="420" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:420">Atrocem contubernalem habebimus vindicem,</l>
+            <l n="421" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:421">Qui nec in Orco mortuum liberat.</l>
+            <l n="422" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:422">Nonne videtur quod opus sit cura sospitatoria?</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="strophe" n="4">
+          <pb n="587"/>
+          <l n="423" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:423">Chor. Curato, &amp; esto</l>
+          <l n="424" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:424">Juste pius</l>
+          <l n="425" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:425">Hospes,</l>
+          <l n="426" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:426">Exulem ne tradas</l>
+          <l n="427" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:427">Alonge expulsione</l>
+          <l n="428" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:428">Infelici proruentem:</l>
+        </div>
+        <div type="textpart" subtype="antistrophe" n="4">
+          <l n="429" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:429">Nec cernas me a sedibus</l>
+          <l n="430" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:430">Multorum Deorum</l>
+          <l n="431" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:431">Tanquam pignus raptam, o qui</l>
+          <l n="432" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:432">Totum terrae imperium habes.</l>
+          <l n="433" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:433">Nosce injuriam virorum,</l>
+          <l n="434" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:434">Et caveto ab ira (Jovis.)</l>
+        </div>
+        <div type="textpart" subtype="strophe" n="5">
+          <l n="435" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:435">Neque sustineas supplicem cernere</l>
+          <l n="436" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:436">A simulacris praeter</l>
+          <l n="437" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:437">Jus raptam</l>
+          <l n="438" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:438">Vittis, instar equi,</l>
+          <l n="439" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:439">Peplorumque multis liciis textorum</l>
+          <l n="440" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:440">Meorum prehensionem.</l>
+        </div>
+        <div type="textpart" subtype="antistrophe" n="5">
+          <l n="441" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:441">Noris enim haec, &amp; liberis &amp; aedibus,</l>
+          <l n="442" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:442">Qualia facias,</l>
+          <l n="443" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:443">Certum est vicissim rependere</l>
+          <l n="444" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:444">Similem justitiam.</l>
+          <l n="445" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:445">Haec perpende justa</l>
+          <l n="446a" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:446a">A Jove robora.</l>
+        </div>
+        <div type="textpart" subtype="metrical-section">
+          <head>IAMBI.</head>
+          <sp>
+            <speaker>Rex</speaker>
+            <pb n="589"/>
+            <l n="446b" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:446b">Et quidem perpendi: huc vero res pervenit,</l>
+            <l n="447" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:447">Aut in hos aut illos bellum novum suscipere</l>
+            <l n="448" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:448">Omnino necesse est: &amp; compacta est navis</l>
+            <l n="449" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:449">Cuneis nauticis, ita allata.</l>
+            <l n="450" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:450">Absque dolore non erit finis.</l>
+            <l n="451" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:451">Et divitiis quidem e domo eversis,</l>
+            <l n="452" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:452">Obveniant aliae Jovis locupletatoris gratia,</l>
+            <l n="453" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:453">Damno majores, etiam valde augeat merces.</l>
+            <l n="454" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:454">Et lingua ejaculante non opportuna,</l>
+            <l n="455" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:455">Luctuosa animum valde commoventia,</l>
+            <l n="456" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:456">Fiat sermonis sermo demulctorius.</l>
+            <l n="457" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:457">Ut vero consanguineus sanguis haud fiat,</l>
+            <l n="458" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:458">Oportet lubenter sacra facere, &amp; cadere sacrificia ad responsa elicienda</l>
+            <l n="459" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:459">Diis multis, multa damni remedia.</l>
+            <l n="460" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:460">Omnino ab hac lite ego recedo:</l>
+            <l n="461" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:461">Velim autem ignarus potius malorum quam gnarus</l>
+            <l n="462" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:462">Fore. fausta eveniant praeter sententiam meam.</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="463" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:463">Multorum audi finem modestorum sermonum.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="464" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:464">Audivi, ulterius loquaris, non me fugiet.</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="465" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:465">Habeo fila, cingulaque vestes colligantia.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="466" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:466">Fortunae mulierum haec conveniunt.</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="467" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:467">Ex his igitur, scias, commentum (fuerit) pulchrum.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="468" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:468">Dic, qualem hanc vocem profers.</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="469" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:469">Si quid fidum huic coetui non praestabitur.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="470" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:470">Quid tibi peraget cingulorum commentum?</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="471" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:471">Novis tabulis ut simulacra haec ornem.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="472" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:472">Enigmati simile est hoc verbum: verum quomodo, dic.</l>
+          </sp>
+          <sp>
+            <speaker>Virg</speaker>
+            <l n="473" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:473">De Diis hisce ut suspendam me quantocyus.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="474" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:474">Audivi sermonem cor pungentem.</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="475" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:475">Intelligis: manifestius enim te cernere feci.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="476" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:476">Et undequaque res ineluctabiles (sunt.)</l>
+            <l n="477" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:477">Malorum autem multitudo, ut flumen, ingruit:</l>
+            <l n="478" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:478">Damnique in abyssum mare non facile pervium</l>
+            <pb n="591"/>
+            <l n="479" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:479">Intravit, &amp; nullibi portus (est) malorum.</l>
+            <l n="480" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:480">Si enim vobis hoc negotium non perficiam,</l>
+            <l n="481" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:481">Scelus nominasti non superandum.</l>
+            <l n="482" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:482">Rursus si cum consanguineis tuis, filiis Aegypti,</l>
+            <l n="483" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:483">Pro muris constitutus pugnam consecero,</l>
+            <l n="484" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:484">Quomodo damnum non fiat acerbum,</l>
+            <l n="485" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:485">Viros mulierum gratia terram cruentare?</l>
+            <l n="486" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:486">Necesse tamen est iram revereri Jovis</l>
+            <l n="487" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:487">Supplicum praesidis: maximus enim (Jovis) inter mortales timor (est.)</l>
+            <l n="488" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:488">Tu quidem senex pater harum virginum,</l>
+            <l n="489" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:489">Ramos hosce sub ulnis ferens,</l>
+            <l n="490" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:490">Ad alia altaria Deorum hujusce regionis</l>
+            <l n="491" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:491">Deponas, ut videant hujus adventus signum</l>
+            <l n="492" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:492">Cives cuncti: neque projiciatur verbum</l>
+            <l n="493" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:493">De me: ad incusandum enim magistratum pronus est populus.</l>
+            <l n="494" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:494">Fortasse commiseratio inspiciens haec,</l>
+            <l n="495" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:495">Odio habeat injuriam coetus masculi,</l>
+            <l n="496" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:496">In vos autem populus sit magis benevolus.</l>
+            <l n="497" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:497">Versus inferiores enim quisque benevolentiam fert.</l>
+          </sp>
+          <sp>
+            <speaker>Senex.</speaker>
+            <l n="498" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:498">Plurimum a nobis haec sunt aestimata,</l>
+            <l n="499" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:499">Reverendum benevolum hospitem invenire.</l>
+            <l n="500" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:500">Asseclas vero &amp; interpretes ex indigenis</l>
+            <l n="501" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:501">Una mitte, ut Deorum urbis praesidum</l>
+            <l n="502" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:502">Altaria ante templa (exstructa) &amp; sedes Deorum</l>
+            <l n="503" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:503">Inveniamus, securitas vero sit per urbem</l>
+            <l n="504" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:504">Euntibus: formae species non similis (illis) est.</l>
+            <l n="505" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:505">Nilus enim non simile Inacho genus</l>
+            <l n="506" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:506">Nutrit. cave ne audacia pariat metum.</l>
+            <l n="507" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:507">Etiam amicum quis ex ignorantia interfecit.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="508" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:508">Eatis, o viri: recte enim loquitur hospes.</l>
+            <l n="509" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:509">Ducite ad urbis altaria, Deorum sedes.</l>
+            <l n="510" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:510">Nec occurrentibus multa loqui oportet,</l>
+            <l n="511" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:511">Ducentes nautam hunc Deorum domesticum.</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="512" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:512">Hunc quidem allocutus es, &amp; composite etc.</l>
+            <l n="513" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:513">Ego autem quid faciam? quomodo mihi robur indas?</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="episode">
+          <pb n="599"/>
+          <l n="598" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:598">Sub dominio nullius potentiorum sedens</l>
+          <l n="599" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:599">Minus imperium obtinet:</l>
+          <l n="600" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:600">Neminem superius sedentem veneratur infra.</l>
+          <l n="601" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:601">Adest opus simul ac dictum,</l>
+          <l n="602" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:602">Quorum animus salutifer fert peragere.</l>
+        </div>
+        <div type="textpart" subtype="metrical-section">
+          <head>IAMBI.</head>
+          <sp>
+            <speaker>Senex.</speaker>
+            <l n="604" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:604">Bono animo este, filiae, bene indigenae</l>
+            <l n="605" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:605">Populi statuta sunt perfecta decreta.</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="606" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:606">O salve, senex charissime nunciorum mihi:</l>
+            <l n="607" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:607">Dic vero nobis quousque ratus habetur finis;</l>
+            <l n="608" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:608">Populi imperium obtinens manus qua numero major est.</l>
+          </sp>
+          <sp>
+            <speaker>Senex.</speaker>
+            <l n="609" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:609">Decretum est Argivis non sententiis diversis,</l>
+            <l n="610" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:610">Verum ita ut juvenescam ego animo vetulo;</l>
+            <l n="611" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:611">Totius enim populi manibus faustis</l>
+            <l n="612" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:612">Horruit aether hanc rem decernentis;</l>
+            <l n="613" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:613">Nos (Scilicet) hanc terram incolere liberos,</l>
+            <l n="614" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:614">Et pignoris loco non captos, &amp; cum jure asyli inter homines:</l>
+            <l n="615" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:615">Et neque incolarum neque advenarum quenquam</l>
+            <l n="616" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:616">Ducere: si vero addatur vis,</l>
+            <l n="617" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:617">Qui non opitulabitur his terrae participibus,</l>
+            <l n="618" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:618">Infamem futurum publica sententia in exilium missum.</l>
+            <l n="619" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:619">Talem persuasit sententiam de nobis loquens</l>
+            <l n="620" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:620">Pelasgorum rex, Jovis supplicum praesidis iram</l>
+            <l n="621" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:621">Gravem praedicens nunquam in futurum</l>
+            <l n="622" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:622">Urbem augere, hospitaleque &amp; urbicum simul</l>
+            <l n="623" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:623">Dicens duplex inquinamentum ante urbem apparens</l>
+            <l n="624" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:624">Inextricabilis damni fomentum fore.</l>
+            <l n="625" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:625">Haec audiens Argivus populus, manibus</l>
+            <l n="626" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:626">Statuit sine monitore ut haec fierent.</l>
+            <l n="627" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:627">Concionatorias autem audiit suasorias strophas</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="episode">
+          <pb n="601"/>
+          <l n="628" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:628">Pelasgorum populus: Jupiter vero finem statuit.</l>
+        </div>
+        <div type="textpart" subtype="metrical-section">
+          <head>ANAPAESTI.</head>
+          <sp>
+            <speaker>Chor.</speaker>
+            <l n="629" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:629">Agedum, recitemus in Argivos</l>
+            <l n="630" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:630">Preces bene ominatas, bonorum retributiones.</l>
+            <l n="631" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:631">Jupiter vero inspectet hospitalis hospitis</l>
+            <l n="632" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:632">Oris honores vere</l>
+            <l n="633" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:633">Inculpate ad omnem finem.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="strophe" n="1">
+          <l n="634" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:634">Nunc tandem Dii</l>
+          <l n="635" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:635">A Jove orti audiatis (me)</l>
+          <l n="636" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:636">Precatoria generi (huic) effundentem.</l>
+          <l n="637" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:637">Nunquam igne absumptam</l>
+          <l n="638" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:638">Pelasgorum urbem,</l>
+          <l n="639" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:639">Illaetabilis clamore,</l>
+          <l n="640" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:640">Faciat lascivus Mars,</l>
+          <l n="641" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:641">Arationibus</l>
+          <l n="642" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:642">Demetens mortales in aliis:</l>
+          <l n="643" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:643">Quoniam miserti sunt nostrum,</l>
+          <l n="644" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:644">Sententiamque benevolam protulerunt:</l>
+          <l n="645" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:645">Reverentur supplices Jovis,</l>
+          <l n="646" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:646">Gregem hunc non invidendum.</l>
+        </div>
+        <div type="textpart" subtype="antistrophe" n="1">
+          <l n="647" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:647">Neque pro viris</l>
+          <l n="648" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:648">Sententiam protulerunt, ignominia</l>
+          <l n="649" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:649">Afficientes litem mulierum:</l>
+          <l n="650" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:650">Divinum respicientes</l>
+          <l n="651" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:651">Vindicemque speculatorem,</l>
+          <l n="652" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:652">Non oppugnandum, quem</l>
+          <l n="653" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:653">Nulla domus habeat</l>
+          <l n="654" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:654">Super tectum</l>
+          <l n="655" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:655">Inquinantem: gravis insidet.</l>
+          <l n="656" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:656">Reverentur enim consanguineos,</l>
+          <l n="657" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:657">Supplices puri Jovis.</l>
+          <l n="658" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:658">Quapropter puris</l>
+          <l n="659" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:659">Aris Deos placabunt.</l>
+        </div>
+        <div type="textpart" subtype="metrical-section">
+          <head>Iambi.</head>
+          <sp>
+            <speaker>Dan.</speaker>
+            <pb n="609"/>
+            <l n="746" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:746">Quandoquidem perfecta est sententia Argivorum, o liberi,</l>
+            <l n="747" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:747">Bono animo esto, pugnabunt pro te, (id) ego certo novi.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="antistrophe" n="1">
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="748" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:748">Perditum, protervum est Aegypti genus,</l>
+            <l n="749" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:749">Pugnae inexplebile; gnarum alloquor.</l>
+            <l n="750" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:750">Ligno compactas habentes nigricantes</l>
+            <l n="751" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:751">Naves, adnavigarunt prospera cum ira,</l>
+            <l n="752" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:752">Nigro cum exercitu.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="metrical-section">
+          <head>Iambi.</head>
+          <sp>
+            <speaker>Dan.</speaker>
+            <l n="753" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:753">Verum multos invenient meridie</l>
+            <l n="754" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:754">Aestu habentes lacertum bene limatum.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="strophe" n="2">
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="755" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:755">Solam vero ne linquas, oro (te,) pater,</l>
+            <l n="756" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:756">Mulier sola relicta nihili est: non inest (ei) robur.</l>
+            <l n="757" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:757">Vafri autem &amp; fraudulenti</l>
+            <l n="758" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:758">Impuris animis, instar taurorum (rapient nos,)</l>
+            <l n="759" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:759">Aras nihili aestimantes.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="metrical-section">
+          <head>Iambi.</head>
+          <sp>
+            <speaker>Dan.</speaker>
+            <l n="760" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:760">Pulchre quidem haec nobis conferant, o liberi,</l>
+            <l n="761" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:761">Si simul te &amp; Deos odio prosequantur.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="antistrophe" n="2">
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="762" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:762">Non tridentes hosce &amp; Deorum cultus</l>
+            <l n="763" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:763">Metuentes, a nobis manum abstinebunt, pater.</l>
+            <l n="764" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:764">Contemptores autem Deorum (sint) impio robore.</l>
+            <l n="765" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:765">Protervi instar canum audaces.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="metrical-section">
+          <head>IAMBI.</head>
+          <sp>
+            <speaker>Dan.</speaker>
+            <l n="766" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:766">Verum fama est lupos potentiores canibus,</l>
+            <l n="767" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:767">Esse: arundinis fructus non praestat aristae.</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="768" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:768">Ut petulantium impiorumque virorum</l>
+            <pb n="611"/>
+            <l n="769" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:769">Iram habentium, robur vitare oportet.</l>
+          </sp>
+          <sp>
+            <speaker>Dan.</speaker>
+            <l n="770" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:770">Non celer est nautici exercitus motus,</l>
+            <l n="771" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:771">Neque statio, neque funium securitas</l>
+            <l n="772" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:772">Ad terram inferenda, neque in anchorae stabilitate</l>
+            <l n="773" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:773">Statim confidunt navium rectores,</l>
+            <l n="774" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:774">Praesertim cum accedant terram portum non habentem,</l>
+            <l n="775" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:775">In noctem recedente Sole, solet</l>
+            <l n="776" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:776">Gravem dolorem parere nox gubernatori prudenti.</l>
+            <l n="777" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:777">Ita neque fiat exercitus egressus</l>
+            <l n="778" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:778">Tutus, priusquam navis statione confidat. tu vero</l>
+            <l n="779" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:779">Cave ne ob timorem negligas Deos,</l>
+            <l n="780" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:780">Quaerens auxilium. nuncium vero non incusabit</l>
+            <l n="781" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:781">Urbs senem, juvenescentem animo ad loquendum prompto.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="strophe" n="3">
+          <head>ANTISTROPHICA.</head>
+          <sp>
+            <speaker>Chor.</speaker>
+            <l n="782" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:782">Eheu terra montana, merito veneranda!</l>
+            <l n="783" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:783">Quid patiemur? quo fugiamus Apia</l>
+            <l n="784" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:784">A terra, obscurum si qua sit latibulum?</l>
+            <l n="785" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:785">Ater fiam fumus</l>
+            <l n="786" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:786">Nubibus appropinquans Jovis,</l>
+            <l n="787" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:787">Omnino evanidus.</l>
+            <l n="788" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:788">Circumvolitans sicut</l>
+            <l n="789" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:789">Pulvis sine alis peream.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="antistrophe" n="3">
+          <l n="790" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:790">Non amplius cor sit ad evadendum ineptum.</l>
+          <l n="791" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:791">Tenebrosum mihi palpitat cor.</l>
+          <l n="792" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:792">Patris speculatus me interemit: perii ob metum.</l>
+          <l n="793" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:793">Velim autem fatalem</l>
+          <l n="794" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:794">Laqueum consequi in vinculis,</l>
+          <l n="795" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:795">Prius quam vir exosus</l>
+          <l n="796" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:796">Appropinquet manibus.</l>
+          <l n="797" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:797">Prius morienti orcus imperet.</l>
+        </div>
+        <div type="textpart" subtype="strophe" n="4">
+          <pb n="613"/>
+          <l n="798" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:798">Unde vero fiat mihi in aere sedes,</l>
+          <l n="799" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:799">Ubi nubes per aquosas gignitur nix,</l>
+          <l n="800" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:800">Aut glabra praealta non indicanda</l>
+          <l n="801" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:801">Sola solitaria</l>
+          <l n="802" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:802">Protuberans rupes, profundum</l>
+          <l n="803" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:803">Cadaver mihi attestans,</l>
+          <l n="804" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:804">Priusquam domantes invito</l>
+          <l n="805" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:805">Corde nuptias consequar?</l>
+        </div>
+        <div type="textpart" subtype="antistrophe" n="4">
+          <l n="806" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:806">Canibus fieri cibus &amp; indigenis</l>
+          <l n="807" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:807">Avibus coena non recuso:</l>
+          <l n="808" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:808">Mors enim liberat</l>
+          <l n="809" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:809">A malis deflendis.</l>
+          <l n="810" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:810">Veniat, veniat mors ante</l>
+          <l n="811" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:811">Lectum nuptialem me interimens.</l>
+          <l n="812" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:812">Quod de me amplius remedium</l>
+          <l n="813" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:813">Inveniam nuptiarum &amp; liberationem?</l>
+        </div>
+        <div type="textpart" subtype="strophe" n="5">
+          <head>MONOSTROPHICA.</head>
+          <l n="814" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:814">Tristem emitte vocem, coelestes</l>
+          <l n="815" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:815">Cantus precatorios Diis, quae mihi</l>
+          <l n="816" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:816">Negotia perficiant, quae me</l>
+          <l n="817" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:817">Liberent.</l>
+          <l n="818" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:818">Fortiter respice, pater,</l>
+          <l n="819" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:819">Si vim lubenter inspicis</l>
+          <l n="820" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:820">Oculis justis.</l>
+          <l n="821" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:821">Faveas supplicibus tuis,</l>
+          <l n="822" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:822">Jupiter, qui terrae imperium obtines.</l>
+          <l n="823" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:823">Genus enim Aegyptium masculum</l>
+          <l n="824" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:824">Injuria haud ferenda,</l>
+          <l n="825" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:825">Cursu me persequens,</l>
+          <l n="826" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:826">Fugitivam investigationibus luctuosis</l>
+          <l n="827" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:827">Vi me capere quaerit.</l>
+        </div>
+        <div type="textpart" subtype="strophe" n="6">
+          <pb n="615"/>
+          <l n="828" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:828">Tuam autem super omnia bilancem</l>
+          <l n="829" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:829">Libra.</l>
+          <l n="830" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:830">Quid sine te perfectum redditur mortalibus</l>
+          <l n="831" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:831">Oh, oh, oh! ah, ah, ah!</l>
+          <l n="832" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:832">Hic ad prehendendum navalis, terrestris.</l>
+          <l n="833" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:833">Ante haec prehensor moriaris, ioph, om</l>
+          <l n="834" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:834">Iterum descensus</l>
+          <l n="835" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:835">Lamentabilem vocem edo.</l>
+          <l n="836" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:836">Video haec prooemia procuratoria laborum</l>
+          <l n="837" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:837">Violentorum meorum. hei! hei!</l>
+          <l n="838" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:838">Ito fuga ad opem:</l>
+          <l n="839" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:839">Truculenta jactat</l>
+          <l n="840" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:840">Non ferenda &amp; in navi &amp; in terra.</l>
+          <l n="841" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:841">Rex ante nos collocator.</l>
+          <sp>
+            <speaker>Praeco.</speaker>
+            <l n="842" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:842">Properate, properate</l>
+            <l n="843" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:843">In navem quantocyus.</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="844" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:844">Non, non,</l>
+            <l n="845" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:845">Vulsiones, vulsiones, punctiones,</l>
+            <l n="846" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:846">Cruenta lethalis</l>
+            <l n="847" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:847">Abscissio capitis.</l>
+          </sp>
+          <sp>
+            <speaker>Praeco.</speaker>
+            <l n="848" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:848">Properate, properate perditae perditae in navem.</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="849" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:849">Deinde per multifluum</l>
+            <l n="850" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:850">Salsum transitum,</l>
+            <l n="851" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:851">Dominorum cum injuria,</l>
+            <l n="852" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:852">Naveque cuneis compacta, totam</l>
+          </sp>
+          <sp>
+            <speaker>Praeco.</speaker>
+            <l n="853" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:853">Cruentam te sistam in nave,</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="854" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:854">Una strepe in abitu.</l>
+            <l n="855" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:855">Jubeo vi dimittere</l>
+            <l n="856" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:856">Statim mentis insaniam.</l>
+            <l n="857" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:857">Hei! hei!</l>
+          </sp>
+          <sp>
+            <speaker>Praeco.</speaker>
+            <l n="858" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:858">Relinque sedes, ito ad navem,</l>
+            <l n="859" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:859">Inhonore in urbem piorum.</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="860" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:860">Nunquam iterum (me) videat</l>
+            <pb n="617"/>
+            <l n="861" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:861">Vitalis aqua,</l>
+            <l n="862" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:862">Unde auctus</l>
+            <l n="863" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:863">Vitalis sanguis mortalibus germinat.</l>
+            <l n="864" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:864">Sacra ego sum praenobilis</l>
+            <l n="865" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:865">Sedi sedi Deorum, o senex.</l>
+          </sp>
+          <sp>
+            <speaker>Prae.</speaker>
+            <l n="866" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:866">Tu vero in navem, in navem</l>
+            <l n="867" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:867">Ibis statim</l>
+            <l n="868" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:868">Volens nolens</l>
+            <l n="869" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:869">Vi, vi maxima.</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="870" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:870">Ite protinus priusquam male habeatis</l>
+            <l n="871" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:871">A manibus perditis.</l>
+            <l n="872" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:872">Hei! hei! hei! hei!</l>
+            <l n="873" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:873">Infeliciter pereas</l>
+            <l n="874" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:874">In marino luco</l>
+            <l n="875" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:875">Circa Sarpedonium</l>
+            <l n="876" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:876">Promontorium arenosum errans</l>
+            <l n="877" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:877">Lato in aere.</l>
+          </sp>
+          <sp>
+            <speaker>Prae.</speaker>
+            <l n="878" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:878">Ejula, ac clama, &amp; invoca Deos:</l>
+            <l n="879" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:879">Aegyptiam enim navim non evitabis.</l>
+            <l n="880" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:880">Ejula &amp; clama acerbiora</l>
+            <l n="881" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:881">Aerumnae nomen obtinens.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="strophe" n="7">
+          <head>ANOMOIOSTROPHA.</head>
+          <sp>
+            <speaker>Virg</speaker>
+            <l n="882" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:882">Hei! hei! hei! hei! hei</l>
+            <l n="883" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:883">Exitium quod ante terram latret!</l>
+            <l n="884" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:884">Exscreanda ferociter profers,</l>
+            <l n="885" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:885">Quaecunque interrogas: magnus</l>
+            <l n="886" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:886">Nilus avertat te inferentem</l>
+            <l n="887" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:887">Injuriam inauditam.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="metrical-section">
+          <head>Iambi.</head>
+          <sp>
+            <speaker>Prae.</speaker>
+            <l n="888" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:888">Proficisci jubeo in navem utroque latere remigantem</l>
+            <l n="889" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:889">Quam citissime: ne qua otietur.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="episode">
+          <pb n="619"/>
+          <l n="893" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:893">Tractio enim crimen expugnabit.</l>
+        </div>
+        <div type="textpart" subtype="strophe" n="2_end">
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="894" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:894">Hei! hei, pater! simulacrorum</l>
+            <l n="895" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:895">Auxilium in damnum me perduxit.</l>
+            <l n="896" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:896">Ceu araneae tela.</l>
+            <l n="897" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:897">Somnium, somnium nigrum.</l>
+            <l n="898" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:898">Otototoi!</l>
+            <l n="899" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:899">Mater terra, mater terra, clamorum</l>
+            <l n="900" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:900">Terrorem propulsa.</l>
+            <l n="901" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:901">O pater Terrae fili Jupiter.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="metrical-section">
+          <head>Iambi.</head>
+          <sp>
+            <speaker>Prae.</speaker>
+            <l n="902" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:902">Non metuo Deos hujusce loci:</l>
+            <l n="903" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:903">Non enim me nutrierunt, nec ad senectutem perduxerunt victu.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="strophe" n="3_end">
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="904" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:904">Furit prope bipes serpens,</l>
+            <l n="905" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:905">Ut vipera me</l>
+            <l n="906" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:906">Mordens.</l>
+            <l n="907" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:907">Ototototoi!</l>
+            <l n="908" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:908">Mater terra, mater terra, clamorum</l>
+            <l n="909" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:909">Terrorem propulsa.</l>
+            <l n="910" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:910">O pater Terrae fili Jupiter.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="metrical-section">
+          <head>Iambi.</head>
+          <sp>
+            <speaker>Prae.</speaker>
+            <l n="911" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:911">Si quis in navem non eat, haec laudans,</l>
+            <l n="912" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:912">Lacinia vestis texturam non commiserebitur (lacerabitur vestis.)</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="strophe" n="4_end">
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="913" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:913">Eheu urbis duces primores, vincor.</l>
+          </sp>
+          <sp>
+            <speaker>Prae.</speaker>
+            <l n="914" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:914">Multos Reges, filios Aegypti, statim</l>
+            <l n="915" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:915">Videbitis: bono animo este, non vocabitis anarchiam.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="strophe" n="5_end">
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="916" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:916">Periimus.</l>
+            <l n="917" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:917">Inexpectata, o Rex, passae sumus.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="metrical-section">
+          <head>Iambi.</head>
+          <sp>
+            <speaker>Prae.</speaker>
+            <pb n="621"/>
+            <l n="918" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:918">Trahere vos videor capillis avellens,</l>
+            <l n="919" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:919">Quoniam non auscultas hisce meis sermonibus.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="metrical-section">
+          <head>IAMBI.</head>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="920" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:920">Tu quid facis? qua audacia</l>
+            <l n="921" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:921">Virorum Pelasgorum terram hanc ignominia afficis?</l>
+            <l n="922" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:922">Numquid in mulierum urbem existimas (te) venisse?</l>
+            <l n="923" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:923">Barbarus cum fis versus Graecos admodum insolens es:</l>
+            <l n="924" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:924">Et in multis peccans nihil animo recte fecisti.</l>
+          </sp>
+          <sp>
+            <speaker>Prae.</speaker>
+            <l n="925" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:925">In quo ex his erratum est mihi praeter jus?</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="926" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:926">Primum quidem hospes fore non nosti.</l>
+          </sp>
+          <sp>
+            <speaker>Prae.</speaker>
+            <l n="927" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:927">Quomodo vero non, perdita inveniens?</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="928" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:928">Quos alloqueris hospites indigenas?</l>
+          </sp>
+          <sp>
+            <speaker>Prae.</speaker>
+            <l n="929" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:929">Mercurium maximum hospitem inquisitorem.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="930" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:930">Deos allocutus, Deos non omnino veneraris.</l>
+          </sp>
+          <sp>
+            <speaker>Prae.</speaker>
+            <l n="931" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:931">Deos Niliacos veneror.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="932" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:932">Qui vero hic sunt, non omnino, ut ego a te audio.</l>
+          </sp>
+          <sp>
+            <speaker>Prae.</speaker>
+            <l n="933" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:933">Ducam quidem, si quis hasce e manibus non auferat.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="934" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:934">Lugebis si tetigeris, abhinc non longe.</l>
+          </sp>
+          <sp>
+            <speaker>Prae.</speaker>
+            <l n="935" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:935">Audivi verbum nullo modo hospitale.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="936" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:936">Non enim hospitio excipio Deorum depraedatores.</l>
+          </sp>
+          <sp>
+            <speaker>Prae.</speaker>
+            <l n="937" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:937">Haec veniens dicas Aegypti filiis.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="938" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:938">Fastidiosum hoc animo meo (est.)</l>
+          </sp>
+          <sp>
+            <speaker>Prae.</speaker>
+            <l n="939" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:939">Verum ut scias, dicam manifestius.</l>
+            <l n="940" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:940">Decet enim praeconem referre clare</l>
+            <l n="941" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:941">Singula. quomodo, dico, &amp; a quo depraedatus.</l>
+            <l n="942" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:942">Huc venire mulierum consanguineum caetum.</l>
+            <l n="943" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:943">Non haec dijudicat ex testibus</l>
+            <l n="944" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:944">Mars: neque litem pecunia accepta</l>
+            <l n="945" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:945">Solvit: verum prius multae fient</l>
+            <l n="946" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:946">Strages virorum, &amp; vitae jacturae.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="947" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:947">Quid oporteat dicere, justa tandem edoctus</l>
+            <l n="948" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:948">Et scias ipse, &amp; socii tui.</l>
+            <l n="949" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:949">Has vero volentes, &amp; cum lubitu animi,</l>
+            <l n="950" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:950">Ducas quidem, si pius persuadeat sermo.</l>
+            <l n="951" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:951">Talis omnium urbis civium una</l>
+            <pb n="623"/>
+            <l n="952" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:952">Sententia decernitur, nunquam vi tradere</l>
+            <l n="953" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:953">Caetum mulierum: horum adacta est plane</l>
+            <l n="954" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:954">Impages penetranter, ut maneat inconcusse.</l>
+            <l n="955" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:955">Haec tabulis non sunt inscripta,</l>
+            <l n="956" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:956">Nec in plicaturis librorum sigillata:</l>
+            <l n="957" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:957">Sed manifesta audis ex libere loquente</l>
+            <l n="958" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:958">Lingua. recede vero quam citissime ex oculis (meis.)</l>
+          </sp>
+          <sp>
+            <speaker>Prae.</speaker>
+            <l n="959" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:959">Haec scias, jam bellum suscipies novum.</l>
+            <l n="960" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:960">Victoria vero &amp; robur fit viris.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="961" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:961">Sed &amp; viros quoque hujusce terrae incolas</l>
+            <l n="962" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:962">Invenietis, non bibentes hordeaceum vinum.</l>
+            <l n="963" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:963">Vos vero omnes una cum amicis asseclis</l>
+            <l n="964" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:964">Cum fiducia ingredimini in urbem bene-munitam</l>
+            <l n="965" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:965">Turrium profunda machina conclusam.</l>
+            <l n="966" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:966">Et domus quidem multae sunt publicae,</l>
+            <l n="967" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:967">Neque domus mea incolitur parva manu.</l>
+            <l n="968" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:968">Jucundum est felices inhabitare domos</l>
+            <l n="969" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:969">Una cum multis aliis: si vero major sit gratia,</l>
+            <l n="970" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:970">Licet incolere domos quae vos tantum capiant.</l>
+            <l n="971" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:971">Horum optima animisque (vestris) gratissima</l>
+            <l n="972" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:972">(Licet) decerpite (eligite.) patronus autem ego (ero,)</l>
+            <l n="973" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:973">Civesque omnes, quorum haec decernitur</l>
+            <l n="974" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:974">Sententia. cur qui majorem hisce authoritatem habeant expectas?</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="metrical-section">
+          <head>ANAPAESTI.</head>
+          <sp>
+            <speaker>Chor.</speaker>
+            <l n="975" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:975">Pro bonis quidem bonis abundes,</l>
+            <l n="976" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:976">Divine Pelasgorum (rex.)</l>
+            <l n="977" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:977">Huc autem mitte benevolus nostrum</l>
+            <l n="978" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:978">Patrem fiducia praeditum, providum,</l>
+            <l n="979" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:979">Et consilii authorem: hujus enim prior</l>
+            <l n="980" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:980">Est cura, ubi oportet domos incolere,</l>
+            <l n="981" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:981">Et (ubi) locus Benevolus. quisque inferre</l>
+            <l n="982" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:982">Contumeliam diversa lingua utentibus.</l>
+            <l n="983" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:983">Promptus (est.) eveniant vero optima.</l>
+          </sp>
+          <sp>
+            <speaker>Rex.</speaker>
+            <l n="984" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:984">Cumque decore &amp; placido</l>
+            <l n="985" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:985">Sermone in populorum loco (urbe)</l>
+            <l n="986" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:986">Ordinemini, charae famulae, eo modo</l>
+            <pb n="624"/>
+            <l n="987" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:987">Quo unicuique constituit</l>
+            <l n="988" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:988">Danaus dotem famulas decentem.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="metrical-section">
+          <head>IAMBI.</head>
+          <sp>
+            <speaker>Dan.</speaker>
+            <l n="989" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:989">O liberi, Argivis supplicari oportet,</l>
+            <l n="990" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:990">Et sacrificare &amp; libare, ceu Diis caelestibus,</l>
+            <l n="991" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:991">Libamina, quandoquidem servarunt nos eodem animo omnes.</l>
+            <l n="992" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:992">Et quae a me facta sunt adversus pertinaces consanguineos</l>
+            <l n="993" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:993">Amice non acerbe audiverunt:</l>
+            <l n="994" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:994">Mihi autem stipatores hos, satellitesque hastatos</l>
+            <l n="995" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:995">Statuerunt, ut habeam munus eximium;</l>
+            <l n="996" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:996">Neque inexpectato hasta crudeli caesus</l>
+            <l n="997" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:997">Lateam, regioni vero onus (piaculum) perpetuum adfit.</l>
+            <l n="998" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:998">Talia me consecuto, decoram mentis meae</l>
+            <l n="999" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:999">Gratiam praestantiorem veneramini.</l>
+            <l n="1000" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1000">Et haec quidem adscribetis scriptis</l>
+            <l n="1001" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1001">Multis aliis prudentibus patris monitis,</l>
+            <l n="1002" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1002">Ignotum caetum in tempore manifestum fieri.</l>
+            <l n="1003" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1003">Quisque in inquilinum linguam malam fert</l>
+            <l n="1004" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1004">Promptam, maledictaque proferre facile (est.)</l>
+            <l n="1005" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1005">Vos autem hortor me probro non afficere,</l>
+            <l n="1006" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1006">Florem hunc aetatis habentes expetendum a viris:</l>
+            <l n="1007" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1007">Tenera pubertas non facilis servatu est.</l>
+            <l n="1008" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1008">Bestiae eam expetunt &amp; mortales,</l>
+            <l n="1009" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1009">Animantiaque alata &amp; pedestria.</l>
+            <l n="1010" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1010">Fructus extreme maturos palam praedicat Venus.</l>
+            <l n="1011" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1011">Et immatura non pati sic manere dico.</l>
+            <l n="1012" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1012">Et in virginum delicias pulchras</l>
+            <l n="1013" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1013">Unusquisque praeteriens oculi amatorium</l>
+            <l n="1014" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1014">Radium conjicit cupidine victus.</l>
+            <l n="1015" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1015">Ad haec ne patiamur ea quorum (vitandorum) gratia multus labor,</l>
+            <l n="1016" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1016">Multumque mare forte nobis obtigit in nave,</l>
+            <l n="1017" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1017">Neque dedecus nobis, gaudium vero inimicis meis</l>
+            <l n="1018" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1018">Conficiamus. habitatio duplex adest,</l>
+            <l n="1019" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1019">Hanc quidem Pelasgus, hanc vero urbs dat</l>
+            <l n="1020" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1020">Habitandam sine famulis: facilia quidem haec.</l>
+            <l n="1021" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1021">Tantum observa mandata haec patris,</l>
+            <pb n="626"/>
+            <l n="1022" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1022">Castitatem vitae praeferens.</l>
+          </sp>
+          <sp>
+            <speaker>Virg.</speaker>
+            <l n="1023" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1023">In caeteris prospere nobis res cedant a Diis caelestibus:</l>
+            <l n="1024" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1024">Pubertatis autem meae gratia bono animo esto, pater.</l>
+            <l n="1025" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1025">Si quid novi enim Diis statutum non sit,</l>
+            <l n="1026" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1026">Mentis vestigium prius non mutabo.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="metrical-section">
+          <head>ANAPAESTI.</head>
+          <sp>
+            <speaker>Chor.</speaker>
+            <l n="1027" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1027">Agite quidem Principes, beatos</l>
+            <l n="1028" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1028">Deos celebrantes urbisque praesides,</l>
+            <l n="1029" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1029">Quique rivum Erasini</l>
+            <l n="1030" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1030">Antiquum incolitis,</l>
+            <l n="1031" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1031">Sumite asseclae robur.</l>
+            <l n="1032" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1032">Laus vero huic urbi Pelasgorum</l>
+            <l n="1033" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1033">Contingat, neque amplius Nili</l>
+            <l n="1034" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1034">Ostia celebremus hymnis:</l>
+            <l n="1035" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1035">Amnes vero qui per regionem (hanc)</l>
+            <l n="1036" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1036">Nutritium potum</l>
+            <l n="1037" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1037">Fundunt faecunditatis authores,</l>
+            <l n="1038" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1038">Pinguibus effusionibus terrae</l>
+            <l n="1039" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1039">Hoc solum emollientes.</l>
+            <l n="1040" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1040">Respiciat vero Diana casta</l>
+            <l n="1041" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1041">Caetum commiserans: neque ex necessitate</l>
+            <l n="1042" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1042">Nuptiae eveniant Cythereiae:</l>
+            <l n="1043" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1043">Abominandum est hoc praemium: Venerem</l>
+            <l n="1044" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1044">Non negligit hic cantus benevolus:</l>
+            <l n="1045" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1045">Potens enim est Jovi proxime cum Junone.</l>
+            <l n="1046" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1046">Celebratur autem varia-consilia-habens</l>
+            <l n="1047" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1047">Dea ob opera grandia.</l>
+            <l n="1048" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1048">Participes vero amicae matri adsunt,</l>
+            <l n="1049" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1049">Affectus nullus recusat</l>
+            <l n="1050" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1050">Deos-domantem Suadam harmoniae data est</l>
+            <l n="1051" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1051">Sors Veneris.</l>
+            <l n="1052" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1052">Fallacesque sunt amorum viae.</l>
+            <l n="1053" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1053">Fugitivos vero afflatus, malosque dolores,</l>
+            <l n="1054" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1054">Bellaque cruenta</l>
+            <l n="1055" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1055">Metuo: cur enim (alias) secundam navigationem</l>
+            <l n="1056" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1056">Fecissent celeribus confectationibus?</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="episode">
+          <sp>
+            <speaker>Semic.</speaker>
+            <pb n="629"/>
+            <l n="1057" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1057">Quod a fato decretum est, hoc fiet.</l>
+            <l n="1058" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1058">Jovis non vitanda est magna</l>
+            <l n="1059" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1059">Immensa mens: multis [etiam aliis]</l>
+            <l n="1060" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1060">Mulierum nuptiis</l>
+            <l n="1061" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1061">[Talis] exitus contingat.</l>
+            <l n="1062" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1062">Magnus Jupiter propulset</l>
+            <l n="1063" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1063">A me nuptias filiorum Aegypti.</l>
+            <l n="1064" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1064">Hoc optimum quidem est;</l>
+            <l n="1065" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1065">Tu vero id optas quod consequi non potes.</l>
+            <l n="1066" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1066">Tu vero non nosti futurum.</l>
+            <l n="1067" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1067">Ad quid ego divinam mentem</l>
+            <l n="1068" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1068">Spectarem, aspectum fundo carentem?</l>
+            <l n="1069" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1069">Moderata nunc precare.</l>
+            <l n="1070" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1070">Quem modum me doces?</l>
+            <l n="1071" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1071">In res Deorum haud nimium inquirere.</l>
+          </sp>
+        </div>
+        <div type="textpart" subtype="metrical-section">
+          <head>Trochaici.</head>
+          <sp>
+            <speaker>Semic.</speaker>
+            <l n="1072" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1072">Jupiter Rex depellat</l>
+            <l n="1073" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1073">Nuptias virorum infelices</l>
+            <l n="1074" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1074">Hostiles, qui Io</l>
+            <l n="1075" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1075">A dolore liberavit feliciter</l>
+            <l n="1076" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1076">Paeonia manu tractans.</l>
+            <l n="1077" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1077">[Is] placide [haec] componens,</l>
+            <l n="1078" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1078">Etiam robur det mulieribus.</l>
+            <l n="1079" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1079">Quod melius est mali,</l>
+            <l n="1080" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1080">Et quod utriusque fortunae particeps laudo,</l>
+            <l n="1081" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1081">Et lis litem secutura est,</l>
+            <l n="1082" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1082">Precibus meis liberatoriis</l>
+            <l n="1083" corresp="urn:cts:greekLit:tlg0085.tlg001.depauw1745-grc2:1083">Auxiliis Dei.</l>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
