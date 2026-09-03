@@ -2,7 +2,7 @@
           <head>
             <title type="main">THE SEVEN AGAINST THEBES.</title>
           </head><pb n="262"/>
-          
+
           <ab>
             <title type="sub">DRAMATIS PERSONÆ.</title>
           </ab>
@@ -13,7 +13,7 @@
           <p>ANTIGONE.</p>
           <p>HERALD.</p>
           <p>[SCENE.—THEBES, in front of the Acropolis. The stage, adorned with altars and statues of the gods, is occupied by a crowd of Theban citizens. Enter ETEOCLES with his train.]</p><pb n="263"/>
-            
+
           <ab>
             <title type="sub">INTRODUCTION.</title>
           </ab>
@@ -43,7 +43,8 @@
           <head>
             <title type="main">THE SEVEN AGAINST THEBES.</title>
           </head>
-          <sp>
+          <milestone n="1" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1-38">
             <speaker>ETEOCLES</speaker>
             <l>BURGHERS of Cadmos, timely words beseem</l>
             <l>Him at the stern who guards the city's weal,</l>
@@ -91,7 +92,8 @@
           </sp>
           <stage>[Exeunt Citizens.</stage>
           <stage>[Enter MESSENGER.]</stage>
-          <sp>
+          <milestone n="39" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:39-68">
             <speaker>MESSENGER</speaker>
             <l>Noble Eteocles, Cadmeians' lord,</l>
             <l>I come clear tidings bringing of the host;—<lb n="40"/></l>
@@ -128,7 +130,7 @@
             <l>Outside that happens, without scath shalt be.</l>
           </sp>
           <stage>[Exit.</stage>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:69-77">
             <speaker>ETEOCLES</speaker>
             <l>O Zeus, and Earth, and Gods our town who guard,</l>
             <l>And thou strong curse, Erinys of my sire,<lb n="70"/></l>
@@ -143,7 +145,8 @@
           </sp>
           <stage>[Exit.</stage>
           <stage>[Enter Chorus of Theban Maidens.]</stage>
-          <sp>
+          <milestone n="78" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:78-83">
             <speaker>CHORUS</speaker>
             <l>I wail forth mighty, fear-inspiring woes!</l>
             <l>An army hurries, from its camp set free!</l>
@@ -160,73 +163,74 @@
             <l>Ye gods and goddesses, oh turn aside</l>
             <l>The impending woe.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:84-89">
             <speaker>LEADER OF THE 1ST HALF CHORUS</speaker>
             <l>With battle-shout, straight to our city-wall</l>
             <l>The host white-shielded speeds in fair array.<lb n="90"/></l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:90-95">
             <speaker>FIRST MAIDEN</speaker>
             <l>Who will deliver?</l>
           </sp>
           <pb n="275"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:96-101">
             <speaker>SECOND MAIDEN</speaker>
             <l>Succour us who may,</l>
             <l>Or god or goddess?</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:102-108">
             <speaker>THIRD MAIDEN</speaker>
             <l>Prostrate shall I fall</l>
             <l>Their shrines before?</l>
           </sp>
-          <sp>
+          <milestone n="109" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:109">
             <speaker>FOURTH MAIDEN</speaker>
             <l>Ye Blest ones here who reign</l>
             <l>Now is the time to clasp your statues, now.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:110-111">
             <speaker>FIFTH MAIDEN</speaker>
             <l>Burdened with sorrow, why, oh why delay?</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:112-113">
             <speaker>SIXTH MAIDEN</speaker>
             <l>The clash of shields meets it, or not your ear?</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:114">
             <speaker>SEVENTH MAIDEN</speaker>
             <l>† When, if not now, shall we our prayers begin</l>
             <l>With sacred peplus and wool-tufted bough?</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:115-116">
             <speaker>EIGHTH MAIDEN</speaker>
             <l>I mark the rattling din!</l>
             <l>It is the clatter of no single spear.<lb n="100"/></l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:117-118">
             <speaker>NINTH MAIDEN</speaker>
             <l>O Ares, tutelary god of old,</l>
             <l>Thy proper soil betraying what wilt gain?</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:119-120">
             <speaker>TENTH MAIDEN</speaker>
             <l>O golden-helmed god, the State behold</l>
             <l>Which once to count beloved thou didst deign.</l>
           </sp>
           <pb n="276"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:121">
             <speaker>LEADER OF 1ST HALF CHORUS</speaker>
             <l>†Ye tutelary gods, the land who hold,</l>
             <l>Come ye, come all, look on this virgin train</l>
             <l>Who, dreading bonds, as suppliants on you call.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:122-123">
             <speaker>LEADER OF 2ND HALF CHORUS</speaker>
             <l>For lo! with slanting plumes</l>
             <l>A surge of warriors round our city wall,</l>
             <l>On blasts of Ares riding, hoarsely booms.<lb n="110"/></l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:124-125">
             <speaker>CHORUS</speaker>
             <stage>STROPHE I.</stage>
             <l>†Do thou, O Zeus, all-perfect Sire, do thou</l>
@@ -240,7 +244,7 @@
             <l>Each having gained by lot his post,</l>
             <l>Stand, prompt for battle, at the seventh gate.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:126-127">
             <speaker>CHORUS</speaker>
             <stage>MESODE.</stage>
             <l>Thou too, Zeus-born, war-loving power, do thou,<lb n="120"/></l>
@@ -249,7 +253,8 @@
             <l>Poseidon, with fish-piercing trident now</l>
             <l>Grant respite from our fears, grant respite thou.</l>
           </sp>
-          <sp>
+          <milestone n="128" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:128-137">
             <speaker>CHORUS</speaker>
             <stage>ANTISTROPHE I.</stage>
             <l>Ares, alas! Our town, the name which bears</l>
@@ -264,7 +269,7 @@
             <l>And thou from Leto who dost boast</l>
             <l>Thy heavenly birth, thy bow, dread virgin, bend.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:138-148">
             <speaker>CHORUS</speaker>
             <stage>STROPHE II.</stage>
             <l>The din of chariot wheels, alas, ah me,</l>
@@ -276,7 +281,8 @@
             <l>What ails the city? What its doom will be?</l>
             <l>God guides the issue to what goal unseen?</l>
           </sp>
-          <sp>
+          <milestone n="149" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:149-157">
             <speaker>CHORUS</speaker>
             <stage>ANTISTROPHE II.</stage>
             <l>A stone-shower hits the towers, alas, ah me,</l>
@@ -289,7 +295,8 @@
             <l>O Onca,<ref n="278.1">*</ref> here enthroned, blest Deity,</l>
             <l>Do thou protect our seven-gated town.</l>
           </sp>
-          <sp>
+          <milestone n="158" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:158-161">
             <speaker>CHORUS</speaker>
             <stage>STROPHE III.</stage>
             <l>O ye all-puissant powers,</l>
@@ -300,7 +307,7 @@
             <l>To hosts of alien speech. These virgins hear,</l>
             <l>Most justly hear, with outstretched hands who pray.<lb n="160"/></l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:162-165">
             <speaker>CHORUS</speaker>
             <stage>ANTISTROPHE III.</stage>
             <l>Divinities most dear,</l>
@@ -311,7 +318,8 @@
             <l>Our sacrificial rites call ye to mind.</l>
           </sp>
           <stage>[Re-enter ETEOCLES.]</stage>
-          <sp>
+          <milestone n="166" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:166-173">
             <speaker>ETEOCLES</speaker>
             <stage>(to the Chorus).</stage>
             <l>You I accost, creatures unbearable.</l>
@@ -338,7 +346,8 @@
             <l>Bide thou within, and no more mischief cause.</l>
             <l>Dost hear or not? Or speak I to the deaf?</l>
           </sp>
-          <sp>
+          <milestone n="174" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:174-180">
             <speaker>CHORUS</speaker>
             <stage>STROPHE I.</stage>
             <l>Dear son of Edipus, I trembled sore,</l>
@@ -348,13 +357,15 @@
             <l>The noise of fire-wrought gear-</l>
             <l>Within the chargers' mouths their guiding rein.</l>
           </sp>
-          <sp>
+          <milestone n="181" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:181-202">
             <speaker>ETEOCLES</speaker>
             <l>What then? doth sailor means of safety find,</l>
             <l>The stern forsaking for the prow, what time</l>
             <l>His vessel labours 'mid the ocean wave?</l>
           </sp>
-          <sp>
+          <milestone n="203" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:203-207">
             <speaker>CHORUS</speaker>
             <stage>ANTISTROPHE I.</stage>
             <l>Relying on the gods, as was but meet,</l>
@@ -364,21 +375,23 @@
             <l>Poured to the Blest my prayer,</l>
             <l>That they our city's prowess would uphold.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:208-210">
             <speaker>ETEOCLES</speaker>
             <l>Pray that our towers be stanch 'gainst foemen's spear.</l>
           </sp>
-          <sp>
+          <milestone n="211" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:211-215">
             <speaker>CHORUS</speaker>
             <l>Grant not the gods this boon?</l>
           </sp>
           <pb n="281"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:216-218">
             <speaker>ETEOCLES</speaker>
             <l>Ay, but 'tis said,</l>
             <l>That from a captured town the gods depart.</l>
           </sp>
-          <sp>
+          <milestone n="219" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:219-222">
             <speaker>CHORUS</speaker>
             <stage>STROPHE II.</stage>
             <l>Ne'er may this conclave of the gods take flight</l>
@@ -386,13 +399,14 @@
             <l>And never may these streets appal my sight<lb n="210"/></l>
             <l>Foe-trampled, and to hostile fire a prey.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:223-225">
             <speaker>ETEOCLES</speaker>
             <l>Call on the gods, but be not ill-advised;</l>
             <l>Obedience mother is of good success,</l>
             <l>Sure pledge of safety;-so the saying runs.<ref n="281.1">*</ref></l>
           </sp>
-          <sp>
+          <milestone n="226" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:226-229">
             <speaker>CHORUS</speaker>
             <stage>ANTISTROPHE II.</stage>
             <l>True, but the gods have strength more mighty still,</l>
@@ -400,13 +414,14 @@
             <l>It lifteth from the lowest depths of ill</l>
             <l>Him who, with cloud-veiled eyes, was desperate.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:230-232">
             <speaker>ETEOCLES</speaker>
             <l>Men's part it is to offer sacrifice</l>
             <l>And victims to the gods, when foes assail;<lb n="220"/></l>
             <l>Thine to be silent and to bide within.</l>
           </sp>
-          <sp>
+          <milestone n="233" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:233-235">
             <speaker>CHORUS</speaker>
             <stage>STROPHE III.</stage>
             <l>'Tis through the gods we dwell</l>
@@ -416,13 +431,14 @@
             <l>What anger can this move?</l>
           </sp>
           <pb n="282"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:236-238">
             <speaker>ETEOCLES</speaker>
             <l>I grudge thee not due homage to the gods;</l>
             <l>But lest thy fear unheart the citizens,</l>
             <l>Tranquil abide, nor yield o'ermuch to fear.</l>
           </sp>
-          <sp>
+          <milestone n="239" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:239-241">
             <speaker>CHORUS</speaker>
             <stage>ANTISTROPHE III.</stage>
             <l>Hearing unwonted din,</l>
@@ -431,58 +447,59 @@
             <l>I drew this fortress near;</l>
             <l>This seat of gods above.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:242-244">
             <speaker>ETEOCLES</speaker>
             <l>If now of dying or of wounded men</l>
             <l>Ye hear, bear them not off with loud laments,</l>
             <l>For 'tis on human slaughter Ares feeds.<ref n="282.1">*</ref></l>
           </sp>
-          <sp>
+          <milestone n="245" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:245">
             <speaker>CHORUS</speaker>
             <l>Hark! not far off snorting of steeds I hear.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:246">
             <speaker>ETEOCLES</speaker>
             <l>Hear, if thou must; but hear not over-loud.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:247">
             <speaker>CHORUS</speaker>
             <l>Groans from its base our fort, girt round by foes.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:248">
             <speaker>ETEOCLES</speaker>
             <l>Mine is the task to counsel in this strait.</l>
           </sp>
           <pb n="283"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:249">
             <speaker>CHORUS</speaker>
             <l>Woe's me! More loud the rattling at the gates.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:250">
             <speaker>ETEOCLES</speaker>
             <l>Hush, nor alarm the city with these cries.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:251">
             <speaker>CHORUS</speaker>
             <l>Associate gods, our towers abandon not.<lb n="240"/></l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:252">
             <speaker>ETEOCLES</speaker>
             <l>Plague on thee! canst thou not in silence bear?</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:253">
             <speaker>CHORUS</speaker>
             <l>Co-burgher gods! save me from slavery.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:254">
             <speaker>ETEOCLES</speaker>
             <l>Thyself enslavest, thee and all the town.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:255">
             <speaker>CHORUS</speaker>
             <l>All-puissant Zeus, turn 'gainst the foe thy bolt.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:256">
             <speaker>ETEOCLES</speaker>
             <l>Zeus! what a gift to man was womankind!</l>
           </sp>
@@ -495,36 +512,36 @@
         </div>
 
         <div type="textpart" subtype="chapter">
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:257">
             <speaker>CHORUS</speaker>
             <l>Wretched as men are in a captured town.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:258">
             <speaker>ETEOCLES</speaker>
             <l>The statues touching, dost renew thy cries?</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:259">
             <speaker>CHORUS</speaker>
             <l>Through want of heart fear seizes on my tongue.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:260">
             <speaker>ETEOCLES</speaker>
             <l>I pray thee grant me but one trifling boon.</l>
           </sp>
           <pb n="284"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:261">
             <speaker>CHORUS</speaker>
             <l>Speak quickly then, so shall I quickly know.<lb n="250"/></l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:262">
             <speaker>ETEOCLES</speaker>
             <l>Be still, unhappy one, scare not thy friends.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:263">
             <speaker>CHORUS</speaker>
             <l>Still am I;—with the rest I'll bear my doom.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:264-287">
             <speaker>ETEOCLES</speaker>
             <l>This word I to thy former words prefer.</l>
             <l>Moreover keeping from these shrines aloof,</l>
@@ -553,7 +570,8 @@
             <l>Arrive, and by the stress set all ablaze.</l>
           </sp>
           <stage>[Exit ETEOCLES.]</stage>
-          <sp>
+          <milestone n="288" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:288-295">
             <speaker>CHORUS</speaker>
             <stage>STROPHE I.</stage>
             <l>I heed, but terror leaves my heart no rest,</l>
@@ -570,7 +588,7 @@
             <l>Put forth, O kindred gods, your utmost powers,<ref n="285.1">*</ref></l>
             <l>Save host and State as Sire who Cadmos own.<lb n="290"/></l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:296-303">
             <speaker>CHORUS</speaker>
             <stage>ANTISTROPHE I.</stage>
             <l>And say what soil of earth will ye obtain</l>
@@ -588,7 +606,8 @@
             <l>Oh hear my shrill-voiced wailings and retain,</l>
             <l>As Saviours of our State, your stedfast reign.</l>
           </sp>
-          <sp>
+          <milestone n="304" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:304-320">
             <speaker>CHORUS</speaker>
             <stage>STROPHE II.</stage>
             <l>For sad it were to Hades drear,</l>
@@ -604,7 +623,8 @@
             <l>Lamenting, swell the mingled roar.<lb n="320"/></l>
             <l>This heavy doom forebodingly I dread.</l>
           </sp>
-          <sp>
+          <milestone n="321" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:321-332">
             <speaker>CHORUS</speaker>
             <stage>ANTISTROPHE II.</stage>
             <l>For maids whose bloom is at the full,</l>
@@ -621,7 +641,8 @@
             <l>With frenesy, all sanctities</l>
             <l>Foully polluting, doth their rage inspire.</l>
           </sp>
-          <sp>
+          <milestone n="333" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:333-344">
             <speaker>CHORUS</speaker>
             <stage>STROPHE III.</stage>
             <l>Loud clamours through the town prevail,</l>
@@ -636,7 +657,8 @@
             <l>Each greedy for nor less nor equal share.</l>
             <l>In scenes like these how may we hope to fare?</l>
           </sp>
-          <sp>
+          <milestone n="345" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:345-356">
             <speaker>CHORUS</speaker>
             <stage>ANTISTROPHE III.</stage>
             <l>And fruitage too of every sort<lb n="350"/></l>
@@ -652,20 +674,22 @@
             <l>Their hope that death, their tear-fraught woes to end,</l>
             <l>O'er them may soon her sheltering night extend.</l>
           </sp>
-          <sp>
+          <milestone n="357" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:357-368">
             <speaker>LEADER OF 1ST HALF CHORUS</speaker>
             <p>The army-scout, to me it seemeth, friends,
 Brings us some recent tiding from the host,
 Plying in haste his charioteering feet.</p>
           </sp>
-          <sp>
+          <milestone n="369" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:369-374">
             <speaker>LEADER OF 2ND HALF CHORUS</speaker>
             <p>And lo! our king, offspring of Edipus,
 Comes in fair time the herald's news to hear.
 Unmeasured too his footsteps are through haste.</p>
           </sp>
           <stage>[Enter ETEOCLES and Train.]</stage>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:375-396">
             <speaker>MESSENGER</speaker>
             <l>I, the foe's movements knowing, can report<lb n="370"/></l>
             <l>How at the gates each hath his post by lot.</l>
@@ -693,7 +717,7 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Who, when the bolts are loosed, may warrant give,</l>
             <l>As champion to defend the Proitid gates?<lb n="390"/></l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:397-416">
             <speaker>ETEOCLES</speaker>
             <l>I tremble at no panoply of man,</l>
             <l>Neither have mere devices power to wound;</l>
@@ -718,7 +742,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Thus to our earth close kin is justly set<lb n="410"/></l>
             <l>From his own mother foeman's spear to ward.</l>
           </sp>
-          <sp>
+          <milestone n="417" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:417-421">
             <speaker>CHORUS</speaker>
             <stage>STROPHE I.</stage>
             <l>Grant to my champion victory,</l>
@@ -727,7 +752,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>But ah, by fear possest, I dread to see</l>
             <l>Their gory fates who perish for their friends.</l>
           </sp>
-          <sp>
+          <milestone n="422" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:422-436">
             <speaker>MESSENGER</speaker>
             <l>Him may the gods thus with fair fortune crown!</l>
             <l>The Electran gates hath Capaneus by lot,</l>
@@ -747,7 +773,7 @@ Unmeasured too his footsteps are through haste.</p>
             <l>This boaster who will meet and tremble not?</l>
           </sp>
           <pb n="291"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:437-451">
             <speaker>ETEOCLES</speaker>
             <l>Here also gain accrueth upon gain.</l>
             <l>When in o'erweening thoughts vain men indulge</l>
@@ -766,7 +792,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>With other gods' approval. Now, tell on,</l>
             <l>Who against other gates the lot hath drawn?</l>
           </sp>
-          <sp>
+          <milestone n="452" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:452-456">
             <speaker>CHORUS</speaker>
             <stage>ANTISTROPHE I.</stage>
             <l>Perish who vaunteth mightily</l>
@@ -775,7 +802,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>My home invading, me as captive prey<lb n="450"/></l>
             <l>He driveth from my girlish haunts away!</l>
           </sp>
-          <sp>
+          <milestone n="457" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:457-471">
             <speaker>MESSENGER</speaker>
             <l>Him next who drew his station at the ports</l>
             <l>I'll name. For to Eteocles, third chief,</l>
@@ -799,7 +827,7 @@ Unmeasured too his footsteps are through haste.</p>
         </div>
 
         <div type="textpart" subtype="chapter">
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:472-480">
             <speaker>ETEOCLES</speaker>
             <l>Him will I straight with happy omens send;</l>
             <l>Yea, sent is Megareus, whose vaunts are deeds,</l>
@@ -813,7 +841,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Will with the spoils his father's house adorn.</l>
             <l>Now of another brag, nor grudge thy words.</l>
           </sp>
-          <sp>
+          <milestone n="481" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:481-485">
             <speaker>CHORUS</speaker>
             <stage>STROPHE II.</stage>
             <l>For him success I pray,</l>
@@ -824,7 +853,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>High-sounding words, may Zeus, Avenger dread,</l>
             <l>By wrathful ire possest, on them look down!<lb n="480"/></l>
           </sp>
-          <sp>
+          <milestone n="486" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:486-500">
             <speaker>MESSENGER</speaker>
             <l>One more, a fourth, the neighbour-gate who holds,</l>
             <l>Onca-Athena's, shouting stands hard by;</l>
@@ -843,7 +873,7 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Needs must we be prepared, for at our gates</l>
             <l>Rout is already boastfully proclaimed.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:501-520">
             <speaker>ETEOCLES</speaker>
             <l>First Onca-Pallas, near our city gates</l>
             <l>Holding her seat, hating man's insolence,</l>
@@ -867,7 +897,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>And to our champion, as the legend reads</l>
             <l>Set on his shield, may Zeus deliverer be.</l>
           </sp>
-          <sp>
+          <milestone n="521" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:521-525">
             <speaker>CHORUS</speaker>
             <stage>ANTISTROPHE II.</stage>
             <l>Firm is my trust that he</l>
@@ -877,7 +908,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>And to the long-lived gods, prone in the field,</l>
             <l>Before our gate shall fling his own proud head.<lb n="520"/></l>
           </sp>
-          <sp>
+          <milestone n="526" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:526-549">
             <speaker>MESSENGER</speaker>
             <l>Such be the issue! At the northern gates</l>
             <l>The fifth is marshalled, near the tomb which holds</l>
@@ -905,7 +937,7 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Doth Argos' kindly nurture now repay</l>
             <l>By threats against our towers, which heaven avert!</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:550-562">
             <speaker>ETEOCLES</speaker>
             <l>From the high gods may they the doom obtain</l>
             <l>Planned in these godless vaunts; so they themselves</l>
@@ -923,7 +955,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>At him who fain would carry her within.</l>
             <l>If heaven so wills, herein I truth shall speak.</l>
           </sp>
-          <sp>
+          <milestone n="563" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:563-567">
             <speaker>CHORUS</speaker>
             <stage>STROPHE III.</stage>
             <l>His word my breast doth rend,</l>
@@ -933,7 +966,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Ye Gods, above who reign,</l>
             <l>Here, in our land, smite ye their alien host!</l>
           </sp>
-          <sp>
+          <milestone n="568" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:568-596">
             <speaker>MESSENGER</speaker>
             <l>Sixth, let me name a man most sage of heart,</l>
             <l>Amphiaraos, prophet, first in arms;</l>
@@ -967,7 +1001,7 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Champions, I charge thee, send skilful and brave,</l>
             <l>For terrible is he who fears the gods.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:597-625">
             <speaker>ETEOCLES</speaker>
             <l>Woe for the omen which the righteous makes</l>
             <l>Companion of the impious; nought is worse</l>
@@ -999,7 +1033,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>To snatch from 'neath his shield the naked spear.<lb n="620"/></l>
             <l>But victory is still the gift of God.</l>
           </sp>
-          <sp>
+          <milestone n="626" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:626-630">
             <speaker>CHORUS</speaker>
             <stage>ANTISTROPHE III.</stage>
             <l>Our just entreaties crown,</l>
@@ -1009,7 +1044,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Repelled beneath our towers,</l>
             <l>May Zeus, with his dread thunder, lay them low!</l>
           </sp>
-          <sp>
+          <milestone n="631" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:631-652">
             <speaker>MESSENGER</speaker>
             <l>Now at the seventh gate the seventh chief,</l>
             <l>Thy proper mother's son, I will announce,</l>
@@ -1036,7 +1072,7 @@ Unmeasured too his footsteps are through haste.</p>
             <l>But never shalt thou blame my herald-words.</l>
             <l>To guide the rudder of the State be thine!</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:653-676">
             <speaker>ETEOCLES</speaker>
             <l>O heaven-demented race of Edipus,<lb n="650"/></l>
             <l>My race, tear-fraught, detested of the gods.</l>
@@ -1064,7 +1100,7 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Foeman to foe, I'll stand. Quick, bring my spear,</l>
             <l>My greaves, and armour, bulwark against stones.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:677-682">
             <speaker>CHORUS</speaker>
             <l>Dearest of mortals, son of Edipus,</l>
             <l>Be not in wrath like him of fatal name;</l>
@@ -1074,14 +1110,15 @@ Unmeasured too his footsteps are through haste.</p>
             <l>But death of brothers, slain by mutual hands,-</l>
             <l>Old age to such pollution never comes.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:683-685">
             <speaker>ETEOCLES</speaker>
             <l>If any one bear evil, let it be<lb n="680"/></l>
             <pb n="301"/>
             <l>Without disgrace, sole profit to the dead;</l>
             <l>On base and evil deeds no glory waits.</l>
           </sp>
-          <sp>
+          <milestone n="686" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:686-688">
             <speaker>CHORUS</speaker>
             <stage>STROPHE IV.</stage>
             <l>What art so eager for, my son?</l>
@@ -1089,13 +1126,14 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Spear-frenzied, soul-possessing, bear thee on:</l>
             <l>No, the first germ of evil passion quell.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:689-691">
             <speaker>ETEOCLES</speaker>
             <l>Since God himself the matter presses on,</l>
             <l>Let all of Laios' race, 'neath Phobos' ban,</l>
             <l>Drift with the breeze, Cocytos' wave its goal.</l>
           </sp>
-          <sp>
+          <milestone n="692" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:692-694">
             <speaker>CHORUS</speaker>
             <stage>ANTISTROPHE IV.</stage>
             <l>Thee passion biting to the quick</l>
@@ -1103,14 +1141,15 @@ Unmeasured too his footsteps are through haste.</p>
             <l>A bitter-fruited deed to consummate<lb n="690"/></l>
             <l>Of blood to be atoned for never more.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:695-697">
             <speaker>ETEOCLES</speaker>
             <l>E'en so, for my dear father's hostile curse,</l>
             <l>Now ripe, broods o'er me with dry tearless eyes,</l>
             <l>Telling that later doom hath prior gain.<ref n="301.1">*</ref></l>
           </sp>
           <pb n="302"/>
-          <sp>
+          <milestone n="698" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:698-701">
             <speaker>CHORUS</speaker>
             <stage>STROPHE V.</stage>
             <l>But do not thou press on;</l>
@@ -1120,13 +1159,14 @@ Unmeasured too his footsteps are through haste.</p>
             <l>When from thy hand</l>
             <l>Due meed of sacrifice the gods receive.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:702-704">
             <speaker>ETEOCLES</speaker>
             <l>The gods, methinks, have long neglected us,</l>
             <l>Our doom the only offering they esteem.<lb n="700"/></l>
             <l>Why longer fawn then upon deadly fate?</l>
           </sp>
-          <sp>
+          <milestone n="705" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:705-708">
             <speaker>CHORUS</speaker>
             <stage>ANTISTROPHE V.</stage>
             <l>Now is the very hour</l>
@@ -1136,47 +1176,49 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Attend thy way.</l>
             <l>But now she seethes with fury unsubdued.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:709-711">
             <speaker>ETEOCLES</speaker>
             <l>Seethed over hath the curse of Edipus.</l>
             <l>Too true the Phantoms of my nightly dreams,</l>
             <l>Ghastly dividers of our father's wealth.</l>
           </sp>
-          <sp>
+          <milestone n="712" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:712">
             <speaker>CHORUS</speaker>
             <l>To women yield, although thou love them not.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:713">
             <speaker>ETEOCLES</speaker>
             <l>Say what may yet be done, and speak in brief.<lb n="710"/></l>
           </sp>
           <pb n="303"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:714">
             <speaker>CHORUS</speaker>
             <l>Tread not this pathway to the seventh gate.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:715">
             <speaker>ETEOCLES</speaker>
             <l>My whetted soul with words thou shalt not blunt.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:716">
             <speaker>CHORUS</speaker>
             <l>Conquest, e'en without glory, God respects.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:717">
             <speaker>ETEOCLES</speaker>
             <l>The armed warrior brooks not such a word.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:718">
             <speaker>CHORUS</speaker>
             <l>Wouldst thou in sooth cull thine own brother's blood?</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:719">
             <speaker>ETEOCLES</speaker>
             <l>Grant but the gods, from harm he shall not 'scape.</l>
           </sp>
           <stage>[Exit ETEOCLES.]</stage>
-          <sp>
+          <milestone n="720" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:720-726">
             <speaker>CHORUS</speaker>
             <stage>STROPHE I.</stage>
             <l>I shudder lest the house-destroying Might,</l>
@@ -1186,7 +1228,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Of Edipus infatuate.</l>
             <l>Child-slaying Eris urges on the fight.</l>
           </sp>
-          <sp>
+          <milestone n="727" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:727-733">
             <speaker>CHORUS</speaker>
             <stage>ANTISTROPHE I.</stage>
             <l>The lots between them doth a stranger deal,</l>
@@ -1197,7 +1240,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>To dwell on as they hold when slain,</l>
             <l>Stript of all portion in their wide domain.<lb n="730"/></l>
           </sp>
-          <sp>
+          <milestone n="734" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:734-737">
             <speaker>CHORUS</speaker>
             <stage>STROPHE II.</stage>
             <l>But when in death they lie,</l>
@@ -1208,7 +1252,7 @@ Unmeasured too his footsteps are through haste.</p>
             <l>O horrors new upon this house that wait,</l>
             <l>Blent with the direful ills of earlier date!</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:738-741">
             <speaker>CHORUS</speaker>
             <stage>ANTISTROPHE II.</stage>
             <l>For of the crime I tell</l>
@@ -1219,7 +1263,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Who thrice proclaimed the sacred oracle,</l>
             <l>"Die without issue wouldst thou save the State,—"</l>
           </sp>
-          <sp>
+          <milestone n="742" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:742-749">
             <speaker>CHORUS</speaker>
             <stage>STROPHE III.</stage>
             <l>Yet he, by friends o'erpower'd, perverse of mind,</l>
@@ -1229,7 +1274,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>A bloody offshoot. Frenzy blind</l>
             <l>In wedlock the infatuate couple paired.</l>
           </sp>
-          <sp>
+          <milestone n="750" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:750-757">
             <speaker>CHORUS</speaker>
             <stage>ANTISTROPHE III.</stage>
             <l>And now a sea of ill leads wave on wave;—</l>
@@ -1240,7 +1286,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>The breadth of wall extends. I fear</l>
             <l>Lest with its kings the city be subdued.</l>
           </sp>
-          <sp>
+          <milestone n="758" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:758-765">
             <speaker>CHORUS</speaker>
             <stage>STROPHE IV.</stage>
             <l>For the dread settlements at last,</l>
@@ -1250,7 +1297,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>O'erweighted is, into the briny main</l>
             <l>From the ship's stern the precious freight is cast.</l>
           </sp>
-          <sp>
+          <milestone n="766" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:766-771">
             <speaker>CHORUS</speaker>
             <stage>ANTISTROPHE IV.</stage>
             <l>For to what man did gods e'er pay</l>
@@ -1260,18 +1308,21 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Had from the ravening monster purged the land,</l>
             <l>That riddling pest which seized on men for prey.<lb n="770"/></l>
           </sp>
-          <sp>
+          <milestone n="772" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:772-784">
             <speaker>CHORUS</speaker>
             <stage>STROPHE V.</stage>
             <l>But when, unhappy wight,</l>
             <l>Apprised of his dire wedlock, anguish-fraught,</l>
             <l>Intolerant of pain,</l>
+            <milestone n="778" unit="card"/>
             <l>With frenzied heart he twofold mischief wrought;</l>
             <l>For with the hand that had his father slain,</l>
             <l>His proper eyes he did bereave of sight.<ref n="305.1">*</ref><lb n="780"/></l>
           </sp>
           <pb n="306"/>
-          <sp>
+          <milestone n="785" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:785-791">
             <speaker>CHORUS</speaker>
             <stage>ANTISTROPHE V.</stage>
             <l>And at his sons he flung,</l>
@@ -1282,7 +1333,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Erinys, swift of foot, accomplish now.</l>
           </sp>
           <stage>[Enter MESSENGER.]</stage>
-          <sp>
+          <milestone n="792" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:792-802">
             <speaker>MESSENGER</speaker>
             <l>Ye maidens, mother-nurtured, courage take,</l>
             <l>Our city hath escaped the vassal yoke;<lb n="790"/></l>
@@ -1297,36 +1349,36 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Avenging on the sons of Edipus</l>
             <l>Laios' ill-counselled trespass wrought of old.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:803">
             <speaker>CHORUS</speaker>
             <l>What new event hath to the city chanced?<lb n="800"/></l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:803">
             <speaker>MESSENGER</speaker>
             <l>Saved is the city, but the brother kings-</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:803">
             <speaker>CHORUS</speaker>
             <l>What sayest thou? Through fear I am distraught.</l>
           </sp>
           <pb n="307"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:803">
             <speaker>MESSENGER</speaker>
             <l>Be calm and listen. Edipus' two sons—</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:803">
             <speaker>CHORUS</speaker>
             <l>Ah wretched me! Prophet I am of ills.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:804">
             <speaker>MESSENGER</speaker>
             <l>Earth drinks their blood, each by the other slain.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:805">
             <speaker>CHORUS</speaker>
             <l>Came they to this? 'Tis horrible, yet speak.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:806">
             <speaker>MESSENGER</speaker>
             <l>Dead are our chiefs by fratricidal hands.</l>
           </sp>
@@ -1339,23 +1391,23 @@ Unmeasured too his footsteps are through haste.</p>
         </div>
 
         <div type="textpart" subtype="chapter">
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:807">
             <speaker>CHORUS</speaker>
             <l>Then are they slain by hands too brotherly.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:808">
             <speaker>MESSENGER</speaker>
             <l>Prone in the dust they lie, too true the tale.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:809">
             <speaker>CHORUS</speaker>
             <l>Thus dealt the god impartially with both.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:810">
             <speaker>MESSENGER</speaker>
             <l>Yea, he himself destroys th' ill-fated race.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:811">
             <speaker>CHORUS</speaker>
             <l>Cause have we here for gladness and for tears.<lb n="810"/></l>
             <l>The city prospers but its governors,</l>
@@ -1365,7 +1417,7 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Borne onward by their father's direful curse.</l>
           </sp>
           <pb n="308"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:812-821">
             <speaker>CHORUS</speaker>
             <l>O mighty Zeus, and tutelary powers</l>
             <l>To whom to rescue these Cadmeian towers</l>
@@ -1378,7 +1430,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Names full of glory and of strife,</l>
             <l>Are through intent unhallowed reft of life.</l>
           </sp>
-          <sp>
+          <milestone n="822" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:822-832">
             <speaker>CHORUS</speaker>
             <stage>STROPHE.</stage>
             <l>Dark curse, with full completion crowned,</l>
@@ -1390,7 +1443,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>A dirge I wove, sad strain.—</l>
             <l>Ill-omened is this concert of the spear.</l>
           </sp>
-          <sp>
+          <milestone n="833" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:833-839">
             <speaker>CHORUS</speaker>
             <stage>ANTISTROPHE.</stage>
             <l>Their father's baleful curse hath wrought,</l>
@@ -1401,13 +1455,15 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Not blunted are the oracles ;-this deed<lb n="840"/></l>
           </sp>
           <stage>[The bodies of the brothers are brought in.]</stage>
-          <sp>
+          <milestone n="840" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:840-847">
             <speaker>CHORUS</speaker>
             <l>Which ye have wrought, oh lamentable pair,</l>
             <l>All credence doth transcend.</l>
             <l>Dire woes are come, not by mere rumour taught.</l>
           </sp>
-          <sp>
+          <milestone n="848" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:848-860">
             <speaker>CHORUS</speaker>
             <stage>Epode.</stage>
             <l>Lo, obvious now to sight the herald's tale!</l>
@@ -1430,7 +1486,7 @@ Unmeasured too his footsteps are through haste.</p>
           </sp>
           <pb n="310"/>
           <stage>[As the funeral procession advances, ANTIGONE and ISMENE are seen approaching.]</stage>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:861-874">
             <speaker>CHORUS</speaker>
             <l>But for a task of bitter pain,</l>
             <l>Their brothers' requiem to intone,</l>
@@ -1448,7 +1504,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Here is no guile,-these wailings that I pour</l>
             <l>Come from my very heart, unfeignedly.</l>
           </sp>
-          <sp>
+          <milestone n="875" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:875-876">
             <speaker>SEMI-CHORUS I</speaker>
             <stage>STROPHE I.</stage>
             <l>Woe! Woe!</l>
@@ -1456,12 +1513,12 @@ Unmeasured too his footsteps are through haste.</p>
             <l>By sorrow unsubdued, unhappy twain,<lb n="870"/></l>
             <l>Spear-armed your father's house who captive made.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:877-878">
             <speaker>SEMI-CHORUS II</speaker>
             <l>Wretched in sooth, wretched their doom, laid low</l>
             <l>To their own dwelling's bane.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:879-880">
             <speaker>SEMI-CHORUS I</speaker>
             <stage>ANTISTROPHE I.</stage>
             <l>Woe! Woe!</l>
@@ -1470,12 +1527,13 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Who bitter kingship tasted; war's keen blade</l>
             <l>To you, at length, hath reconcilement brought.</l>
           </sp>
-          <sp>
+          <milestone n="881" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:881-883">
             <speaker>SEMI-CHORUS II</speaker>
             <l>Ay, the dread fury of their sire hath wrought</l>
             <l>This all too-stubborn woe.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:884-887">
             <speaker>SEMI-CHORUS I</speaker>
             <stage>STROPHE II.</stage>
             <l>Both smitten through the breast,</l>
@@ -1483,14 +1541,15 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Woe! Woe! ye fiend possest!</l>
             <l>Woe for the curse of mutual-slaughtering doom!</l>
           </sp>
-          <sp>
+          <milestone n="888" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:888-893">
             <speaker>SEMI-CHORUS II</speaker>
             <l>Smitten, as ye relate,</l>
             <l>Were they, in home and life, with ruin dire,</l>
             <l>Both by dumb Fury, and contentious Fate,<lb n="890"/></l>
             <l>Sprung from the curse of Edipus, their sire.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:894-899">
             <speaker>SEMI-CHORUS I</speaker>
             <stage>ANTISTROPHE II.</stage>
             <l>Moans through the city reign,</l>
@@ -1499,7 +1558,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Their wealth, dire cause to that ill-fated twain</l>
             <l>Of strife, whose issue death to either side.</l>
           </sp>
-          <sp>
+          <milestone n="900" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:900-904">
             <speaker>SEMI-CHORUS II</speaker>
             <l>With hearts keen whetted they</l>
             <l>Their wealth apportioned, equal shares they gain;-</l>
@@ -1507,7 +1567,7 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Be now applauded in triumphal strain.</l>
           </sp>
           <pb n="312"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:905-910">
             <speaker>SEMI-CHORUS I</speaker>
             <stage>STROPHE III.</stage>
             <l>Steel-smitten, hapless pair!</l>
@@ -1516,7 +1576,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Awaiteth them ?-A share</l>
             <l>In their ancestral tomb.</l>
           </sp>
-          <sp>
+          <milestone n="911" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:911-915">
             <speaker>SEMI-CHORUS II</speaker>
             <l>Grief, with heart-piercing groan,</l>
             <l>Escorts them from their home-sad task;—</l>
@@ -1525,7 +1586,7 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Wasteth my heart as from its depths within</l>
             <l>True tears I shed, weeping those princes' doom.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:916-921">
             <speaker>SEMI-CHORUS I</speaker>
             <stage>ANTISTROPHE III.</stage>
             <l>This o'er them one may say,</l>
@@ -1534,7 +1595,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>And to the alien host,</l>
             <l>Slaughtered in deadly fray.</l>
           </sp>
-          <sp>
+          <milestone n="922" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:922-926">
             <speaker>SEMI-CHORUS II</speaker>
             <l>Of womankind on earth,</l>
             <l>Of all, the mother's name who boast,<lb n="920"/></l>
@@ -1542,7 +1604,7 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Wedding her son these forth she brought,</l>
             <l>By kindred hands and mutual murder slain.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:927-932">
             <speaker>SEMI-CHORUS I</speaker>
             <stage>STROPHE IV.</stage>
             <l>Brothers indeed together reft of life,</l>
@@ -1551,7 +1613,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Falling in frenzied strife,</l>
             <l>So did they end their feud.</l>
           </sp>
-          <sp>
+          <milestone n="933" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:933-938">
             <speaker>SEMI-CHORUS II</speaker>
             <l>Stayed is their hate, and on the gory plain<lb n="930"/></l>
             <l>Commingled is their life;</l>
@@ -1562,7 +1625,7 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Bitter apportioner of wealth, I trow,</l>
             <l>Making the curse paternal all too true.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:939-944">
             <speaker>SEMI-CHORUS I</speaker>
             <stage>ANTISTROPHE IV.</stage>
             <l>Of heaven-sent woe allotted shares have they;—</l>
@@ -1570,7 +1633,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Lies 'neath their lifeless clay</l>
             <l>Wealth fathomless of earth.</l>
           </sp>
-          <sp>
+          <milestone n="945" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:945-956">
             <speaker>SEMI-CHORUS II</speaker>
             <l>O ye who your own house have caused to bloom</l>
             <l>With many bitter woes!</l>
@@ -1584,237 +1648,242 @@ Unmeasured too his footsteps are through haste.</p>
           </sp>
           <pb n="314"/>
           <stage>[Enter ANTIGONE and ISMENE.—The former addresses the corpse of POLYNEIKES, the latter that of ETEOCLES.]</stage>
-          <sp>
+          <milestone n="957" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:957">
             <speaker>ANTIGONE</speaker>
             <l>Smiting, thou wast smitten.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:957">
             <speaker>ISMENE</speaker>
             <l>Slaying, thou wast slain.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:958">
             <speaker>ANTIGONE</speaker>
             <l>Thou with spear didst slaughter.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:959">
             <speaker>ISMENE</speaker>
             <l>Thee the spear laid low.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:960">
             <speaker>ANTIGONE</speaker>
             <l>In thy toil most wretched.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:961">
             <speaker>ISMENE</speaker>
             <l>Wretched in thy woe.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:962">
             <speaker>ANTIGONE</speaker>
             <l>Pour forth lamentations.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:963">
             <speaker>ISMENE</speaker>
             <l>Mourners, weep amain.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:964">
             <speaker>ANTIGONE</speaker>
             <l>Prostrate lies the slayer.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:965">
             <speaker>ISMENE</speaker>
             <l>Near him lies the slain.</l>
           </sp>
-          <sp>
+          <milestone n="966" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:966">
             <speaker>ANTIGONE</speaker>
             <stage>STROPHE.</stage>
             <l>Alas! with sighing raves my spirit.<lb n="960"/></l>
           </sp>
           <pb n="315"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:966">
             <speaker>ISMENE</speaker>
             <l>Moans my heart within my breast.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:967">
             <speaker>ANTIGONE</speaker>
             <l>Worthy thou of all lamentings.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:968">
             <speaker>ISMENE</speaker>
             <l>Direst fate hath thee oppressed.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:969">
             <speaker>ANTIGONE</speaker>
             <l>By thy friend wert reft of life.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:970">
             <speaker>ISMENE</speaker>
             <l>Thou thy friend hast slain in strife.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:971">
             <speaker>ANTIGONE</speaker>
             <l>Twofold horrors to relate.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:972">
             <speaker>ISMENE</speaker>
             <l>Twofold to behold.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:973">
             <speaker>ANTIGONE</speaker>
             <l>Brothers these by brothers slain.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:974">
             <speaker>ISMENE</speaker>
             <l>Near them stand we, sisters twain.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:975">
             <speaker>ANTIGONE</speaker>
             <l>Deadly deeds to tell of.<lb n="970"/></l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:976">
             <speaker>ISMENE</speaker>
             <l>Deadly to behold.</l>
           </sp>
           <pb n="316"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:977-979">
             <speaker>CHORUS</speaker>
             <l>Woe, woe, for wretched Fate,</l>
             <l>Donor of baleful dower!</l>
             <l>Woe for the shade august of Edipus!</l>
             <l>O swart Erinys strong art thou in power!</l>
           </sp>
-          <sp>
+          <milestone n="980" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:980">
             <speaker>ANTIGONE</speaker>
             <stage>ANTISTROPHE.</stage>
             <l>Woes, alas, to sight distressing,</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:980">
             <speaker>ISMENE</speaker>
             <l>Showed he me, his exile past.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:981">
             <speaker>ANTIGONE</speaker>
             <l>After slaying he returned not.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:982">
             <speaker>ISMENE</speaker>
             <l>Saved, his breath away he cast.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:983">
             <speaker>ANTIGONE</speaker>
             <l>Perished hath he; all too true.<lb n="980"/></l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:984">
             <speaker>ISMENE</speaker>
             <l>Ay, and him he also slew.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:985">
             <speaker>ANTIGONE</speaker>
             <l>Wretched kindred!</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:986">
             <speaker>ISMENE</speaker>
             <l>Wretched fate!</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:987">
             <speaker>ANTIGONE</speaker>
             <l>Cares from kindred strife that flow.</l>
           </sp>
           <pb n="317"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:988">
             <speaker>ISMENE</speaker>
             <l>Steeped, alas, in threefold woe.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:989">
             <speaker>ANTIGONE</speaker>
             <l>Deadly deeds to tell of.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:990">
             <speaker>ISMENE</speaker>
             <l>Deadly to behold.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:991-993">
             <speaker>CHORUS</speaker>
             <l>Woe, woe, for wretched Fate,</l>
             <l>Donor of baleful dower!</l>
             <l>Woe for the shade august of Edipus!<lb n="990"/></l>
             <l>O swart Erinys strong art thou in power!</l>
           </sp>
-          <sp>
+          <milestone n="994" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:994">
             <speaker>ANTIGONE</speaker>
             <stage>EPODE.</stage>
             <l>This in sooth by proof thou knowest.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:994">
             <speaker>ISMENE</speaker>
             <l>Thou not later this hast learned.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:994">
             <speaker>ANTIGONE</speaker>
             <l>To this city when thou camest.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:995">
             <speaker>ISMENE</speaker>
             <l>And 'gainst him thy spear hast turned.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:996">
             <speaker>ANTIGONE</speaker>
             <l>Woe! alas! Dire trouble!</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:997">
             <speaker>ISMENE</speaker>
             <l>Woe! alas! Dire grief.</l>
           </sp>
           <pb n="318"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:998">
             <speaker>ANTIGONE</speaker>
             <l>On our house hath fallen.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:999">
             <speaker>ISMENE</speaker>
             <l>Ay, and on this land.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1000">
             <speaker>ANTIGONE</speaker>
             <l>On me above all others.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1001">
             <speaker>ISMENE</speaker>
             <l>On me who forward see.<lb n="1000"/></l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1002">
             <speaker>ANTIGONE</speaker>
             <l>Woe for these wretched brothers!</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1003">
             <speaker>ISMENE</speaker>
             <l>Woe, Leader-King, for thee!</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1004">
             <speaker>ANTIGONE</speaker>
             <l>Of all men most lamented!</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1005">
             <speaker>ISMENE</speaker>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1006">
             <speaker>ANTIGONE</speaker>
             <l>O ye possessed by Atè!</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1007">
             <speaker>ISMENE</speaker>
             <l>Where shall we lay the twain?</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1008">
             <speaker>ANTIGONE</speaker>
             <l>In spot most rich in honour.</l>
           </sp>
           <pb n="319"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1009-1010">
             <speaker>ISMENE</speaker>
             <l>Woe, Sire, thy wedded-bane!</l>
           </sp>
           <stage>[Enter HERALD.]</stage>
-          <sp>
+          <milestone n="1011" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1011-1031">
             <speaker>HERALD</speaker>
             <l>Me it behoves to publish the resolve,</l>
             <l>And statute of Cadmeia's senators.</l>
@@ -1839,7 +1908,8 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Unhonour'd thus with tender obsequies.</l>
             <l>So they who rule Cadmeians have ordained.</l>
           </sp>
-          <sp>
+          <milestone n="1032" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1032-1047">
             <speaker>ANTIGONE</speaker>
             <l>But to Cadmeia's rulers I declare,</l>
             <l>If none will join in burying this man,<lb n="1030"/></l>
@@ -1859,53 +1929,54 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Him will I shroud;-let none suppose aught else.</l>
             <l>Courage! Effectual means will fail me not.</l>
           </sp>
-          <sp>
+          <milestone n="1048" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1048">
             <speaker>HERALD</speaker>
             <l>I warn thee not to disobey the State.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1049">
             <speaker>ANTIGONE</speaker>
             <l>I warn thee publish no vain words to me.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1050">
             <speaker>HERALD</speaker>
             <l>Bitter a people just escaped from harm.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1051">
             <speaker>ANTIGONE</speaker>
             <l>Embitter them; unearthed he shall not lie.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1052">
             <speaker>HERALD</speaker>
             <l>Whom the State loathes wilt honour with a tomb?</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1053">
             <speaker>ANTIGONE</speaker>
             <l>Ay, for the gods have not dishonoured him.<ref n="320.1">*</ref><lb n="1050"/></l>
           </sp>
           <pb n="321"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1054">
             <speaker>HERALD</speaker>
             <l>Not till he peril brought upon this land.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1055">
             <speaker>ANTIGONE</speaker>
             <l>The wrong he bore he would with wrongs requite.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1056">
             <speaker>HERALD</speaker>
             <l>Ay, but 'gainst all he wrought instead of one.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1057-1058">
             <speaker>ANTIGONE</speaker>
             <l>Last of the gods is Strife to close dispute.</l>
             <l>Yet him I will inter, spare then thy words.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1059-1064">
             <speaker>HERALD</speaker>
             <l>But know thou headstrong art, and I forbid.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1065-1071">
             <speaker>CHORUS</speaker>
             <l>Woe! Woe!</l>
             <l>Dire mischiefs, vaunting loud,</l>
@@ -1925,7 +1996,7 @@ Unmeasured too his footsteps are through haste.</p>
             <l>Mourn'd by a sister's lonely-wailing strain.</l>
             <l>Who may to this agree?</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1072-1077">
             <speaker>SEMI-CHORUS I</speaker>
             <l>Let the city strike with doom,<lb n="1070"/></l>
             <l>Or not, who Polyneikes mourn;</l>
@@ -1936,7 +2007,7 @@ Unmeasured too his footsteps are through haste.</p>
             <l>In our townsmen's sight</l>
             <l>Vary with the hour.</l>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg004.perseus-grc2:1078-1084">
             <speaker>SEMI-CHORUS II</speaker>
             <l>But this other follow we,</l>
             <l>As the city doth approve</l>

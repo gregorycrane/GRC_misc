@@ -70,7 +70,8 @@
 
           <div type="play">
           <head>THE PERSIANS.</head>
-          <sp>
+          <milestone n="1" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1-158">
             <speaker>CHORUS</speaker>
             <lg>
               <l>THE Faithful these, advisers old</l>
@@ -126,6 +127,7 @@
               <l>Well-skilled, a countless host.</l>
             </lg>
             <lg>
+              <milestone n="41" unit="card"/>
               <l>And Lydians, a luxurious train,</l>
               <l>Who the whole native people hold,</l>
               <l>Of Asia's mainland; these the twain,</l>
@@ -162,6 +164,7 @@
             <div type="section">
               <head>STROPHE I.</head>
               <lg>
+                <milestone n="65" unit="card"/>
                 <l>Already hath the royal host,</l>
                 <l>Spoiler of cities, gained the adverse coast;</l>
                 <l>O'er cordage-fastened raft<ref n="207.1">*</ref> the channel they</l>
@@ -175,6 +178,7 @@
             <div type="section">
               <head>ANTISTROPHE I.</head>
               <lg>
+                <milestone n="73" unit="card"/>
                 <l>Thus the fierce king, who holds command</l>
                 <l>O'er populous Asia, drives through all the land,</l>
                 <l>In twofold armament, his flock divine,</l>
@@ -188,6 +192,7 @@
             <div type="section">
               <head>STROPHE II.</head>
               <lg>
+                <milestone n="81" unit="card"/>
                 <l>From eyes like deadly dragon's, flashing a lurid gleam,</l>
                 <l>With men and galleys countless, driving his Syrian car,</l>
                 <l>'Gainst spear-famed men he leadeth his arrow-puissant war.</l>
@@ -197,6 +202,7 @@
             <div type="section">
               <head>ANTISTROPHE II.</head>
               <lg>
+                <milestone n="87" unit="card"/>
                 <l n="90">And none of valour proven against the mighty stream</l>
                 <l>May stand, a living bulwark, and that fierce billow stem;</l>
                 <l>For Persia's host resistless is, and her stout-hearted men.</l>
@@ -205,9 +211,11 @@
             <div type="section">
               <head>MESODE.</head>
               <lg>
+                <milestone n="93" unit="card"/>
                 <l>But ah! what mortal baffle may<ref n="209.1">*</ref></l>
                 <l>A god's deep-plotted snare,—</l>
                 <l>Who may o'erleap with foot so light?</l>
+                <milestone n="100" unit="card"/>
                 <l n="100">Até at first, with semblance fair,</l>
                 <l>Into her toils allures her prey,</l>
                 <l>Whence no mere mortal wight</l>
@@ -219,6 +227,7 @@
               <head>STROPHE III.</head>
               <lg>
                 <l>In olden time by Heaven's decree</l>
+                <milestone n="107" unit="card"/>
                 <l>Fixed was the Persians' destiny;—</l>
                 <l>Tower-battering war was theirs by Fate,</l>
                 <l>The turmoil when steed-mounted foes</l>
@@ -230,9 +239,11 @@
             <div type="section">
               <head>ANTISTROPHE III.</head>
               <lg>
+                <milestone n="111" unit="card"/>
                 <l>Now have they learned firm gaze to cast</l>
                 <l>On the vext sea, what time the blast</l>
                 <l>Makes hoary its broad-furrowed plain.</l>
+                <milestone n="115" unit="card"/>
                 <l>Confide they now in naval craft,</l>
                 <l>Cables fine-wove, device to waft</l>
                 <l>Armies across the main.</l>
@@ -243,6 +254,7 @@
               <lg>
                 <l>Hence, swartly robed, my heart by fear</l>
                 <l>Is tortured, lest ere long the State—</l>
+                <milestone n="120" unit="card"/>
                 <l n="120">Woe for the Persian army! hear</l>
                 <l>That Susa's mighty fort is desolate.</l>
               </lg>
@@ -259,6 +271,7 @@
             <div type="section">
               <head>STROPHE V.</head>
               <lg>
+                <milestone n="126" unit="card"/>
                 <l>For all the troops that draw the rein,</l>
                 <l>And all who tread the dusty plain,</l>
                 <l n="130">Like swarming bees, with him who led</l>
@@ -270,11 +283,13 @@
             <div type="section">
               <head>ANTISTROPHE V.</head>
               <lg>
+                <milestone n="133" unit="card"/>
                 <l>And yearning love with many a tear</l>
                 <l>The couch bedeweth, lone and drear;</l>
                 <pb n="211"/>
                 <l>The wives of Persia, steeped in woe,</l>
                 <l>Lament, of their dear lords bereft,</l>
+                <milestone n="140" unit="card"/>
                 <l n="140">For her fierce spouse against the foe</l>
                 <l>Each sent spear-armed, and mourns unmated left.</l>
               </lg>
@@ -298,6 +313,7 @@
               <l>The mother of my royal lord, my queen.</l>
               <l>Do we obeisance, falling at her feet;</l>
               <l>Yea, it behoves us all</l>
+              <milestone n="155" unit="card"/>
               <l>With words of salutation her to greet.</l>
             </lg>
             <stage>[They prostrate themselves before her, touching the earth with their foreheads.]</stage>
@@ -310,7 +326,8 @@
               <l n="160">Unless our ancient fortune abandons now the host.</l>
             </lg>
           </sp>
-          <sp>
+          <milestone n="159" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:159-172">
             <speaker>ATOSSA</speaker>
             <lg>
               <l>Therefore I come forsaking our gold-tricked palace halls,</l>
@@ -330,7 +347,7 @@
               <pb n="213"/>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:173-175">
             <speaker>CHORUS</speaker>
             <lg>
               <l>Queen of this land, know surely, thou needest not speak twice,</l>
@@ -338,7 +355,8 @@
               <l>For we to counsel summoned, devoted are to thee.</l>
             </lg>
           </sp>
-          <sp>
+          <milestone n="176" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:176-214">
             <speaker>ATOSSA</speaker>
             <lg>
               <l>Ever by nightly visions, manifold<ref n="213.1">*</ref></l>
@@ -364,6 +382,7 @@
               <pb n="214"/>
               <l>Whirls it along, snapping the yoke asunder.</l>
               <l>Prone falls my son, and close at hand his sire,</l>
+              <milestone n="200" unit="card"/>
               <l n="200">Darius, pitying stands, whom when he sees,</l>
               <l>The robes about his person Xerxes rends.</l>
               <l>Such was, I say, my vision of the night.</l>
@@ -386,7 +405,8 @@
             </lg>
             <note xml:id="ftn213.1" n="213.1" place="bottom">* The narrative of Atossa recalls the premonitory dream which, according to Herodotus, was sent by the gods to Xerxes and Artabanus prior to their expedition against Greece.</note>
           </sp>
-          <sp>
+          <milestone n="215" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:215-225">
             <speaker>CHORUS</speaker>
             <lg>
               <l>Thee neither would we, mother, o'erfrighten by our words,</l>
@@ -404,7 +424,7 @@
               <l>Trustful that from these omens the issue fair will prove.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:226-231">
             <speaker>ATOSSA</speaker>
             <lg>
               <l>Well thou, the first expounder of these my dreams, hast given</l>
@@ -416,86 +436,87 @@
             </lg>
             <note xml:id="ftn215.1" n="215.1" place="bottom">* Herodotus relates that Darius, on hearing of the burning of Sardis, inquired who the Athenians were.</note>
           </sp>
-          <sp>
+          <milestone n="232" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:232">
             <speaker>CHORUS</speaker>
             <lg>
               <l>Far to the west, where waneth our sovereign lord, the sun.</l>
             </lg>
           </sp>
           <pb n="216"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:233">
             <speaker>ATOSSA</speaker>
             <p>What! hath my son then hankered this town to make his prey?</p>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:234">
             <speaker>CHORUS</speaker>
             <p>Ay, to our king all Hellas would then submissive prove.</p>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:235">
             <speaker>ATOSSA</speaker>
             <p>Of men then in their army have they so vast array?</p>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:236">
             <speaker>CHORUS</speaker>
             <p>Of such sort was their army, it wrought the Medes great bale.</p>
           </sp>
 
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:237">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>And what besides? Wealth have they sufficient in their homes?</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:238">
   <speaker>CHORUS</speaker>
   <lg>
     <l n="240">A fount is theirs of silver; a treasure of their soil.<ref n="216.1">*</ref></l>
   </lg>
   <pb n="217"/>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:239">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>Is the bow-stretching arrow conspicuous in their hands?</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:240">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Nay, lances for close fighting, and equipage of shield.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:241">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>And who then is their shepherd? Who lords it o'er their host?</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:242">
   <speaker>CHORUS</speaker>
   <lg>
     <l>To no man are they vassals, nor yield they to command.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:243">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>How then, if foe invade them, may they the shock sustain?</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:244">
   <speaker>CHORUS</speaker>
   <lg>
     <l>So that Darius' army, gallant and large, they quelled.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:245">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>Dreadful thy words to parents whose sons to war are sped.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:246-248">
   <speaker>CHORUS</speaker>
   <lg>
     <l>But soon, if I mistake not, thou the whole truth shalt learn,</l>
@@ -504,7 +525,8 @@
   </lg>
 </sp>
 <stage>[Enter MESSENGER.]</stage>
-<sp>
+<milestone n="249" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:249-255">
   <speaker>MESSENGER</speaker>
   <lg>
     <l>O fenced homes of all the Asian earth,</l>
@@ -517,7 +539,8 @@
     <l>Persians! the whole barbaric host is lost.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="256" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:256-259">
   <speaker>CHORUS</speaker>
   <div type="section">
     <head>STROPHE I.</head>
@@ -528,14 +551,16 @@
     </lg>
   </div>
 </sp>
-<sp>
+<milestone n="260" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:260-261">
   <speaker>MESSENGER</speaker>
   <lg>
     <l>Yonder our all is ruined utterly</l>
     <l>Myself, past hope returning, view the light.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="262" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:262-265">
   <speaker>CHORUS</speaker>
   <div type="section">
     <head>ANTISTROPHE I.</head>
@@ -546,14 +571,16 @@
     </lg>
   </div>
 </sp>
-<sp>
+<milestone n="266" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:266-267">
   <speaker>MESSENGER</speaker>
   <lg>
     <l>Present myself, not hearing others' words,</l>
     <l>Persians! I can report what ills befel.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="268" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:268-271">
   <speaker>CHORUS</speaker>
   <div type="section">
     <head>STROPHE II.</head>
@@ -565,7 +592,8 @@
     </lg>
   </div>
 </sp>
-<sp>
+<milestone n="272" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:272-273">
   <speaker>MESSENGER</speaker>
   <lg>
     <l>Corpses of men ill-fated choke the coasts</l>
@@ -573,7 +601,8 @@
     <pb n="219"/>
   </lg>
 </sp>
-<sp>
+<milestone n="274" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:274-277">
   <speaker>CHORUS</speaker>
   <div type="section">
     <head>ANTISTROPHE II.</head>
@@ -585,14 +614,16 @@
     </lg>
   </div>
 </sp>
-<sp>
+<milestone n="278" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:278-279">
   <speaker>MESSENGER</speaker>
   <lg>
     <l n="280">Nothing our bows availed; but all our host</l>
     <l>Perished, by shock o'ercome of naval prows.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="280" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:280-283">
   <speaker>CHORUS</speaker>
   <div type="section">
     <head>STROPHE III.</head>
@@ -604,14 +635,16 @@
     </lg>
   </div>
 </sp>
-<sp>
+<milestone n="284" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:284-285">
   <speaker>MESSENGER</speaker>
   <lg>
     <l>O, Salamis, most hateful name to hear!</l>
     <l>Athens, alas! remembering thee I groan.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="286" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:286-289">
   <speaker>CHORUS</speaker>
   <div type="section">
     <head>ANTISTROPHE III.</head>
@@ -624,7 +657,8 @@
     </lg>
   </div>
 </sp>
-<sp>
+<milestone n="290" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:290-298">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>Long have I silence kept, struck down by ills,</l>
@@ -639,20 +673,20 @@
     <l>Who now, by death hath left his post unmanned.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:299">
   <speaker>MESSENGER</speaker>
   <lg>
     <l>Xerxes himself still lives and sees the light.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:300-301">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>Great light, in sooth, thou speakest to my house,</l>
     <l>And day clear shining, after murky night.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:302-330">
   <speaker>MESSENGER</speaker>
   <lg>
     <l>But Artembares, lord of myriad horse,</l>
@@ -688,7 +722,8 @@
     <l>Which overwhelm us, I relate but few.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="331" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:331-336">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>Woe! woe! The very crown of ills, I hear,</l>
@@ -700,7 +735,7 @@
     <pb n="222"/>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:337-347">
   <speaker>MESSENGER</speaker>
   <lg>
     <l>Had conquest waited upon numbers, queen,</l>
@@ -716,20 +751,20 @@
     <l>Gods save the city of the goddess, Pallas.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:348">
   <speaker>ATOSSA</speaker>
   <lg>
     <l n="350">Is then the Athenians' city still unsack'd?<ref n="222.2">†</ref></l>
     <pb n="223"/>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:349">
   <speaker>MESSENGER</speaker>
   <lg>
     <l>Her sons surviving, she firm bulwark hath.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:350-352">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>What the commencement of the sea-fight? Say.</l>
@@ -737,7 +772,8 @@
     <l>Or did my son, proud of innumerous ships?</l>
   </lg>
 </sp>
-<sp>
+<milestone n="353" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:353-432">
   <speaker>MESSENGER</speaker>
   <lg>
     <l>All our disaster, Queen! from spirit of ill</l>
@@ -782,6 +818,7 @@
     <l>On all the Persians, cheated in their hopes,</l>
     <l>Fell terror; for by no means as in flight</l>
     <l>Their solemn pæan did th' Hellenes sing,</l>
+    <milestone n="395" unit="card"/>
     <l>But with stout courage speeding to the fray.</l>
     <pb n="225"/>
     <l>The trumpet's blare fired all their ranks, and straight,</l>
@@ -826,14 +863,15 @@
     <l>Perished of men so vast a multitude.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="433" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:433-434">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>Woe! Woe! Of ills a mighty sea hath burst</l>
     <l>On Persia, and on all the Asian race.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:435-437">
   <speaker>MESSENGER</speaker>
   <lg>
     <l>Be thou assured, but half our loss thou knowest;</l>
@@ -841,7 +879,7 @@
     <l>As twice to overweigh the ills yet told.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:438-440">
   <speaker>ATOSSA</speaker>
   <lg>
     <l n="440">What Fortune could than this more hostile be?</l>
@@ -849,7 +887,7 @@
     <l>Upon the host, charged with still heavier bale?</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:441-444">
   <speaker>MESSENGER</speaker>
   <lg>
     <l>All Persia's sons, in fairest bloom of life,</l>
@@ -858,7 +896,7 @@
     <l>These died ignobly, by inglorious doom.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:445-446">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>Ah wretched me, my friends, for deadly chance!</l>
@@ -866,7 +904,7 @@
     <pb n="227"/>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:447-471">
   <speaker>MESSENGER</speaker>
   <lg>
     <l>An isle there is that fronteth Salamis,</l>
@@ -896,7 +934,8 @@
     <l>To wail this sorrow added to the first.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="472" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:472-479">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>O hateful Demon, how thou hast belied</l>
@@ -919,7 +958,8 @@
 <note xml:id="ftn224.1" n="224.1" place="bottom">* In illustration of this command, reference may be made to the wrath of Xerxes when apprised of the destruction of the first bridge of boats thrown over the Hellespont, when he caused the heads of the chief engineers to be struck off.</note>
 <note xml:id="ftn224.2" n="224.2" place="bottom">‡ The phrase in the original probably means "each boatswain of a crew."</note>
         </div>
-<sp>
+<milestone n="480" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:480-514">
   <speaker>MESSENGER</speaker>
   <lg>
     <l>Of the surviving ships the captains straight</l>
@@ -963,14 +1003,15 @@
   </lg>
   <note xml:id="ftn228.1" n="228.1" place="bottom">* A passage of some length has been lost from the original.</note>
 </sp>
-<sp>
+<milestone n="515" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:515-516">
   <speaker>CHORUS</speaker>
   <lg>
     <l>O baleful Demon! with what heavy weight</l>
     <l>Thy feet have trampled on all Persia's race!</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:517-531">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>Ah, woe is me for ruin of the host!</l>
@@ -980,7 +1021,8 @@
   <stage>To the Chorus.</stage>
   <p>But ye too lightly did interpret it. Nathless, since your response did sanction this, First, I desire to supplicate the gods;<pb n="230"/> Then, bringing from my house libations, gifts To Earth and to the Manes, I will come; Too late, I know, for evils past recall, But more auspicious may the future prove! Meanwhile 'tis meet that, touching these events, Ye faithful counsel with the faithful hold. <milestone unit="line" n="530"/> My son, ere my return, should he arrive, Console ye, and escort him to his home, Lest to these ills some further ill accrue.</p>
 </sp>
-<sp>
+<milestone n="532" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:532-597">
   <speaker>CHORUS</speaker>
   <lg>
     <l>O sovereign Zeus, who Persia's host</l>
@@ -1003,6 +1045,7 @@
   <div type="section">
     <head>STROPHE I.</head>
     <lg>
+      <milestone n="548" unit="card"/>
       <l n="550">For now all Asia moans, left desolate.</l>
       <pb n="231"/>
       <l>Xerxes led forth, woe! woe!</l>
@@ -1017,6 +1060,7 @@
   <div type="section">
     <head>ANTISTROPHE I.</head>
     <lg>
+      <milestone n="558" unit="card"/>
       <l n="560">Landmen and seamen flax-winged galleys bare:<ref n="231.1">*</ref></l>
       <l>Galleys led forth; woe! woe!</l>
       <l>Galleys wrought overthrow,</l>
@@ -1031,6 +1075,7 @@
   <div type="section">
     <head>STROPHE II..</head>
     <lg>
+      <milestone n="568" unit="card"/>
       <l n="570">The first, alas! laid low,</l>
       <l>Perforce unurned, woe! woe!</l>
       <l>Around Kychreia's shores spray-drenchèd lie.</l>
@@ -1043,6 +1088,7 @@
   <div type="section">
     <head>ANTISTROPHE II.</head>
     <lg>
+      <milestone n="576" unit="card"/>
       <l>By eddying currents torn,</l>
       <l>Gnawed are their limbs, woe! woe!</l>
       <pb n="232"/>
@@ -1056,6 +1102,7 @@
   <div type="section">
     <head>STROPHE III.</head>
     <lg>
+      <milestone n="584" unit="card"/>
       <l>Already through all Asia's land</l>
       <l>None owneth Persia's sway;</l>
       <l>None, at their sovereign lord's command,</l>
@@ -1068,6 +1115,7 @@
   <div type="section">
     <head>ANTISTROPHE III.</head>
     <lg>
+      <milestone n="591" unit="card"/>
       <l>No more the tongue is guarded now</l>
       <l>By mortals; from this hour,</l>
       <l>Free are the throng to speak, I trow,</l>
@@ -1079,7 +1127,8 @@
   </div>
 </sp>
 <stage>[Re-enter ATOSSA, without regal state, accompanied by Attendants bearing utensils for sacrifice.]</stage>
-<sp>
+<milestone n="598" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:598-622">
   <speaker>ATOSSA</speaker>
   <lg>
     <l n="600">My friends, whoso is versed in sorrow, knows</l>
@@ -1111,7 +1160,8 @@
     <l>Myself will send to deities below.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="623" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:623-680">
   <speaker>CHORUS</speaker>
   <lg>
     <l>O royal lady, to whom Persians bow,</l>
@@ -1125,6 +1175,7 @@
     <l>Monarch of Hades, do ye now</l>
     <l>His spirit to the light upsend;</l>
     <l>For, if a cure for these dire ills he know,</l>
+    <milestone n="633" unit="card"/>
     <l>Alone of mortals he may speak the end.</l>
   </lg>
   <div type="section">
@@ -1134,6 +1185,7 @@
       <l>Pouring these varied doleful notes of woe,</l>
       <l>Broken by sighs?</l>
       <l>To him is my barbaric utterance clear,</l>
+      <milestone n="640" unit="card"/>
       <l n="640">Telling our wretched griefs in piercing cries?</l>
       <l>Me doth he hear below?</l>
     </lg>
@@ -1152,6 +1204,7 @@
   <div type="section">
     <head>STROPHE II.</head>
     <lg>
+      <milestone n="647" unit="card"/>
       <l>Dear was the hero, dear his tomb,</l>
       <l n="650">For dear the manners it doth hide;</l>
       <l>Aidoneus, thou, from nether gloom,</l>
@@ -1164,6 +1217,7 @@
   <div type="section">
     <head>ANTISTROPHE II.</head>
     <lg>
+      <milestone n="652" unit="card"/>
       <l>For ne'er in war's disastrous game</l>
       <l>Doom'd he his warriors to the grave;</l>
       <l>No; godlike counsellor the name</l>
@@ -1175,6 +1229,7 @@
   <div type="section">
     <head>STROPHE III.</head>
     <lg>
+      <milestone n="657" unit="card"/>
       <l>Khan,<ref n="235.1">*</ref> ancient Khan! oh come, draw near,</l>
       <l n="660">Come to the topmost summit of this mound;</l>
       <l>Lifting thy foot in saffron slipper dight,</l>
@@ -1187,6 +1242,7 @@
   <div type="section">
     <head>ANTISTROPHE III.</head>
     <lg>
+      <milestone n="664" unit="card"/>
       <l>†O monarch, come, that thou may'st hear</l>
       <l>Woes, strange, unheard of, by our monarch borne;</l>
       <l>For o'er us now some Stygian gloom doth lour,</l>
@@ -1204,13 +1260,15 @@
       <l>Of blind infatuation born,</l>
       <pb n="236"/>
       <l>With stroke redoubled, whelm'd our land forlorn?</l>
+      <milestone n="673" unit="card"/>
       <l>All her lost triremes we deplore,</l>
       <l>No triremes now, alas, no, never more.</l>
     </lg>
   </div>
 </sp>
 <stage>[The Ghost of DARIUS rises.]</stage>
-<sp>
+<milestone n="681" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:681-693">
   <speaker>DARIUS</speaker>
   <lg>
     <l>O faithful of the faithful, ye whilome</l>
@@ -1232,7 +1290,8 @@
   <note xml:id="ftn236.1" n="236.1" place="bottom">* <quote xml:lang="grc">στένει, κέκοπται, καὶ χαράσσεται πέδον</quote>. Considerable diversity of opinion prevails as to the correct interpretation of this passage. When it is remembered, however, that <quote xml:lang="grc">κόπτομαι</quote>, med., means to beat the breast in grief, like <quote xml:lang="lat">plangere</quote>, it seems evident that <quote xml:lang="grc">χαράσσεται</quote> taken in connection with <quote xml:lang="grc">στένει</quote> and <quote xml:lang="grc">κέκοπται</quote>, can refer only to the <quote xml:lang="grc">παρή̣δων ἀμυγμός</quote>. I therefore conclude that by a bold image the poet ascribes to the very soil the horrors of frenzied mourning, with the modes of which the Greeks were familiar.</note>
   <pb n="237"/>
 </sp>
-<sp>
+<milestone n="694" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:694-696">
   <speaker>CHORUS</speaker>
   <lg>
     <l n="690">To look upon thee awes me;</l>
@@ -1240,7 +1299,8 @@
     <l>By ancient fear subdued.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="697" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:697-699">
   <speaker>DARIUS</speaker>
   <lg>
     <l>But since from Hades I have come, by thy complaints persuaded,</l>
@@ -1250,7 +1310,10 @@
 </sp>
 
 
-<sp>
+<milestone n="700" unit="card"/>
+
+
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:700-702">
   <speaker>CHORUS</speaker>
   <lg>
     <l>I tremble to obey thee,</l>
@@ -1258,7 +1321,8 @@
     <l>Things harsh for friends to hear.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="703" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:703-708">
   <speaker>DARIUS</speaker>
   <lg>
     <l>Well, since thine ancient reverence thy spirit thus impedeth,</l>
@@ -1270,7 +1334,7 @@
   </lg>
 </sp>
 <pb n="238"/>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:709-714">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>O thou in happy fortune blest beyond the lot of mortals,</l>
@@ -1281,153 +1345,155 @@
     <l n="710">In utter ruin, so to speak, prostrate lies Persia's fortune.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="715" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:715">
   <speaker>DARIUS</speaker>
   <lg>
     <l>How, prithee? Came contagion's blast or discord o'er the city?</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:716">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>By neither, but near Athens' walls hath our whole host been routed.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:717">
   <speaker>DARIUS</speaker>
   <lg>
     <l>What son of mine an armament hath thither led? Inform me.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:718">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>Impetuous Xerxes, all the life of wide-spread Asia draining.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:719">
   <speaker>DARIUS</speaker>
   <lg>
     <l>By land or sea, unhappy man, made he this mad endeavour?</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:720">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>By both in sooth; a twofold front there was of twofold army.</l>
   </lg>
 </sp>
 <pb n="239"/>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:721">
   <speaker>DARIUS</speaker>
   <lg>
     <l>But how could armament so vast on foot pass from the mainland?</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:722">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>O'er Hellè's strait he artful threw a bridge, and so found passage.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:723">
   <speaker>DARIUS</speaker>
   <lg>
     <l>Thus hath he wrought, and so hemm'd in the Bosphoros' strong current!</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:724">
   <speaker>ATOSSA</speaker>
   <lg>
     <l n="720">So was it, yet some demon-power did haply aid his purpose.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:725">
   <speaker>DARIUS</speaker>
   <lg>
     <l>Alas, some mighty demon came, and hath befool'd his judgment.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:726">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>True, for the issue clearly shows what evil he accomplished.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:727">
   <speaker>DARIUS</speaker>
   <lg>
     <l>And what hath been the fate of those o'er whom ye groan, lamenting?</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:728">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>The naval army, worsted, drew the land force to destruction.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:729">
   <speaker>DARIUS</speaker>
   <lg>
     <l>So utterly by hostile spear hath the whole army perished?</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:730">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>Ay, emptied of her warriors, moans all the town of Susa.</l>
   </lg>
 </sp>
 <pb n="240"/>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:731">
   <speaker>DARIUS</speaker>
   <lg>
     <l>Woe for our levies vainly made, and many-nationed army!</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:732">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>Perished hath Bactria's martial strength, and not her elders only.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:733">
   <speaker>DARIUS</speaker>
   <lg>
     <l>O hapless son, of our allies the youth how hath he ruined?</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:734">
   <speaker>ATOSSA</speaker>
   <lg>
     <l n="730">Alone, abandoned, so they say, Xerxes, with but few others—</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:735">
   <speaker>DARIUS</speaker>
   <lg>
     <l>How hath he met his end, and where? or is there hope of safety?</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:736">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>Was fain to reach the bridge that links two continents together.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:737">
   <speaker>DARIUS</speaker>
   <lg>
     <l>And hath he to this mainland come in safety? Is this certain?</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:738">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>Ay, so prevaileth the report; in that is no dissension.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="739" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:739-752">
   <speaker>DARIUS</speaker>
   <lg>
     <l>Alas! full speedily hath come the oracles' fulfilment,</l>
@@ -1447,7 +1513,7 @@
     <l>My toil amassed, become to men the spoil of the first comer.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:753-758">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>Converse with evil-minded men hath taught impetuous Xerxes</l>
@@ -1459,7 +1525,8 @@
     <l>This expedition did he plan and armament to Hellas.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="759" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:759-786">
   <speaker>DARIUS</speaker>
   <lg>
     <l>Therefore by him hath ruin been achieved</l>
@@ -1495,7 +1562,8 @@
   </lg>
   <note xml:id="ftn242.1" n="242.1" place="bottom">* <quote xml:lang="grc">ἕκτος δὲ Μάραφις, ἑβδόμας δ’ Ἀρταφρένης</quote>. "The sixth was Maraphis, and the seventh Artaphrenes.” As this line is almost universally regarded as spurious, I have thought it better to omit it from the context. It has been<pb n="243"/> reasonably conjectured that a diligent reader had written out in verse the names of the seven conspirators, here called friendly chiefs, Maraphis and Artaphrenes being the two last names.</note>
 </sp>
-<sp>
+<milestone n="787" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:787-789">
   <speaker>CHORUS</speaker>
   <lg>
     <l>What then, O King Darius? What the goal</l>
@@ -1503,7 +1571,7 @@
     <l>May we, thy Persians, fare hereafter best?</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:790-792">
   <speaker>DARIUS</speaker>
   <lg>
     <l>March ye no more against the Hellenes' land,</l>
@@ -1511,40 +1579,41 @@
     <l>The soil itself to them is an ally.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:793">
   <speaker>CHORUS</speaker>
   <lg>
     <l>How meanest thou? In what way their ally?</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:794">
   <speaker>DARIUS</speaker>
   <lg>
     <l n="790">By famine slaying bloated armaments.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:795">
   <speaker>CHORUS</speaker>
   <lg>
     <l>What if choice force we levy, well-equipped?</l>
     <pb n="244"/>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:796-797">
   <speaker>DARIUS</speaker>
   <lg>
     <l>Not e'en the army which remains behind</l>
     <l>In Hellas, will achieve a safe return.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:798-799">
   <speaker>CHORUS</speaker>
   <lg>
     <l>How say'st thou? Doth not all the Asian host</l>
     <l>Cross back from Europe over Hellè’s strait?</l>
   </lg>
 </sp>
-<sp>
+<milestone n="800" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:800-842">
   <speaker>DARIUS</speaker>
   <lg>
     <l>Of many few, if it behoveth one,</l>
@@ -1600,14 +1669,15 @@
 </sp>
 <stage>[Ghost of DARIUS descends.]</stage>
 <pb n="246"/>
-<sp>
+<milestone n="843" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:843-844">
   <speaker>CHORUS</speaker>
   <lg>
     <l n="840">Hearing of Persia's sorrows manifold,</l>
     <l>Present and yet to come, sorely I grieved.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:845-851">
   <speaker>ATOSSA</speaker>
   <lg>
     <l>O Fate unblest! How many grievous ills</l>
@@ -1620,7 +1690,8 @@
   </lg>
 </sp>
 <stage>[Exit ATOSSA.]</stage>
-<sp>
+<milestone n="852" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:852-887">
   <speaker>CHORUS</speaker>
   <div type="section">
     <head>STROPHE I.</head>
@@ -1643,6 +1714,7 @@
   <div type="section">
     <head>STROPHE II.</head>
     <lg>
+      <milestone n="858" unit="card"/>
       <l n="860">How many a town he took, yet seldom he</l>
       <l>The Halys crossed, or from his hearth would roam;<ref n="246.1">*</ref></l>
       <pb n="247"/>
@@ -1654,6 +1726,7 @@
   <div type="section">
     <head>ANTISTROPHE II.</head>
     <lg>
+      <milestone n="864" unit="card"/>
       <l>And those tower-girded, distant from the coast,</l>
       <l>Towns of the mainland, recognised his sway.</l>
       <l n="870">Those near Propontis' gulfs their site which boast,</l>
@@ -1663,6 +1736,7 @@
   <div type="section">
     <head>STROPHE III.</head>
     <lg>
+      <milestone n="871" unit="card"/>
       <l>And islands of the main,</l>
       <l>Fronting the headland that o'erlooks the sea,</l>
       <l>Hard by this Asian plain;</l>
@@ -1676,6 +1750,7 @@
     <lg>
       <l>Ay, and each isle that lies</l>
       <l>Midway between the mainlands he controlled;</l>
+      <milestone n="879" unit="card"/>
       <l>Icaros' seat of old;</l>
       <pb n="248"/>
       <l n="880">Rhodes, Lemnos, Cnidos; Cyprian towns of fame,</l>
@@ -1698,7 +1773,8 @@
   </div>
 </sp>
 <stage>[Enter XERXES, with Attendants.]</stage>
-<sp>
+<milestone n="888" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:888-897">
   <speaker>XERXES</speaker>
   <note type="footnote" n="248.1" place="bottom">* The account given by Herodotus of the lamentations of the Persian host on occasion of the death of Masistius, general of the Persian cavalry at the battle of Platæa, may be quoted as illustrating the prolonged wail which concludes the drama of the Persians. "The grief was violent and unbounded, manifested by wailings so loud as to echo over all Bœotia; while the hair of men, horses, and cattle was abundantly cut in token of mourning.”—GROTE’S History of Greece.</note>
   <lg>
@@ -1718,7 +1794,10 @@
 </sp>
 
 
-<sp>
+<milestone n="898" unit="card"/>
+
+
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:898-908">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Woe, king, for our brave army! Woe</l>
@@ -1738,7 +1817,8 @@
     <l>In direful fall, O king! sinks direfully.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="909" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:909-917">
   <speaker>XERXES</speaker>
   <div type="section">
     <head>STROPHE I.</head>
@@ -1749,7 +1829,7 @@
     </lg>
   </div>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:918-921">
   <speaker>1st CHORUS</speaker>
   <lg>
     <l>And I, thy home-return to hail,</l>
@@ -1760,7 +1840,7 @@
     <l>A doleful, tear-fraught wail.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:922-926">
   <speaker>XERXES</speaker>
   <div type="section">
     <head>ANTISTROPHE I.</head>
@@ -1771,7 +1851,7 @@
     </lg>
   </div>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:927-931">
   <speaker>2nd CHORUS</speaker>
   <lg>
     <l>With groans I too will pay</l>
@@ -1781,7 +1861,8 @@
     <l>Of child-reft sire, shall sound my tear-fraught wail.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="932" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:932-934">
   <speaker>XERXES</speaker>
   <div type="section">
     <head>STROPHE II.</head>
@@ -1793,7 +1874,7 @@
     </lg>
   </div>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:935-940">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Cry woe! search out the worst; woe, woe!</l>
@@ -1807,7 +1888,8 @@
     <l n="940">Where now be they?</l>
   </lg>
 </sp>
-<sp>
+<milestone n="941" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:941-943">
   <speaker>XERXES</speaker>
   <div type="section">
     <head>ANTISTROPHE II.</head>
@@ -1819,7 +1901,7 @@
     </lg>
   </div>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:944-949">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Where thy Pharnuchos? Woe, on woe!</l>
@@ -1832,7 +1914,8 @@
     <l>Where now be they?</l>
   </lg>
 </sp>
-<sp>
+<milestone n="950" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:950-954">
   <speaker>XERXES</speaker>
   <div type="section">
     <head>STROPHE III.</head>
@@ -1846,7 +1929,7 @@
     </lg>
   </div>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:955-961">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Him, thine all-trusty eye,</l>
@@ -1863,7 +1946,8 @@
     <l>And sighs of anguish heave.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="962" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:962-966">
   <speaker>XERXES</speaker>
   <div type="section">
     <head>ANTISTROPHE III.</head>
@@ -1876,7 +1960,7 @@
     </lg>
   </div>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:967-973">
   <speaker>CHORUS</speaker>
   <lg>
     <l>We for another mourn,</l>
@@ -1894,7 +1978,8 @@
     <l>Thy royal pomp behind.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="974" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:974-977">
   <speaker>XERXES</speaker>
   <div type="section">
     <head>STROPHE IV.</head>
@@ -1903,19 +1988,20 @@
     </lg>
   </div>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:978-987">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Lost amid the nameless dead.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="988" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:988-991">
   <speaker>XERXES</speaker>
   <lg>
     <l>Woe! Woe! Alas! Woe! Woe!</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:992-1001">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Woe! Woe! in sooth, for lo!</l>
@@ -1923,7 +2009,8 @@
     <l>As Atè ne'er beheld, the gods have sent.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="1002" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1002">
   <speaker>XERXES</speaker>
   <div type="section">
     <head>ANTISTROPHE IV.</head>
@@ -1932,19 +2019,19 @@
     </lg>
   </div>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1003">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Stricken, in sooth, too plain our woe.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1004">
   <speaker>XERXES</speaker>
   <lg>
     <l>Fresh griefs, fresh griefs, ah me!</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1005-1007">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Meeting Ionian seamen, we</l>
@@ -1952,7 +2039,8 @@
     <l>Unfortunate in war is Persia's race.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="1008" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1008">
   <speaker>XERXES</speaker>
   <div type="section">
     <head>STROPHE V.</head>
@@ -1962,61 +2050,62 @@
   </div>
   <pb n="254"/>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1009">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Perished hath Persia's high estate.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1010">
   <speaker>XERXES</speaker>
   <lg>
     <l>Dost see this remnant of my warlike gear?</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1011-1013">
   <speaker>CHORUS</speaker>
   <lg>
     <l n="1000">Yea, I behold.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="1014" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1014-1015">
   <speaker>XERXES</speaker>
   <lg>
     <l>This also—arrows that should hold?</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1016">
   <speaker>CHORUS</speaker>
   <lg>
     <l>What sayest saved hath been?</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1017">
   <speaker>XERXES</speaker>
   <lg>
     <l>Casket for missiles keen.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1018-1019">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Small rest of ample store.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1020">
   <speaker>XERXES</speaker>
   <lg>
     <l>None left to aid us more.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1021">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Ionia's people flee not from the spear.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1022">
   <speaker>XERXES</speaker>
   <div type="section">
     <head>ANTISTROPHE V.</head>
@@ -2025,62 +2114,63 @@
     </lg>
   </div>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1023">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Wilt tell of flight and naval overthrow?</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1024">
   <speaker>XERXES</speaker>
   <lg>
     <l>At this sad chance my robes I rent.</l>
   </lg>
   <pb n="255"/>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1025">
   <speaker>CHORUS</speaker>
   <lg>
     <l n="1010">Ah me! Ah me!</l>
   </lg>
 </sp>
-<sp>
+<milestone n="1026" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1026-1027">
   <speaker>XERXES</speaker>
   <lg>
     <l>Worse than ah me! ay, worse!</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1028-1029">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Double, ay, threefold curse.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1030">
   <speaker>XERXES</speaker>
   <lg>
     <l>Joyful to foes, to us despair.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1031">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Maimed prowess we lament.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1032">
   <speaker>XERXES</speaker>
   <lg>
     <l>Naked of escort I, and bare.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1033">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Through the disasters of thy friends at sea.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1034">
   <speaker>XERXES</speaker>
   <div type="section">
     <head>STROPHE VI.</head>
@@ -2089,50 +2179,51 @@
     </lg>
   </div>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1035">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Alas! Alas! Woe! Woe!</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1036">
   <speaker>XERXES</speaker>
   <lg>
     <l>Responsive cries intone.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1037">
   <speaker>CHORUS</speaker>
   <lg>
     <l n="1020">An ill bequest of ill to ill.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="1038" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1038">
   <speaker>XERXES</speaker>
   <lg>
     <l>Wail forth thy cadence shrill.</l>
   </lg>
 </sp>
 <pb n="256"/>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1039">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Woe! Woe! Alas! Woe! Woe!</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1040">
   <speaker>XERXES</speaker>
   <lg>
     <l>Heavy, in sooth, the blow.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1041">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Which sorely I bemoan.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1042">
   <speaker>XERXES</speaker>
   <div type="section">
     <head>ANTISTROPHE VI.</head>
@@ -2141,50 +2232,52 @@
     </lg>
   </div>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1043-1045">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Woe-fraught, I weep amain.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="1046" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1046">
   <speaker>XERXES</speaker>
   <lg>
     <l>Wail with responsive groan.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1047">
   <speaker>CHORUS</speaker>
   <lg>
     <l>This care, my liege, I own.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1048">
   <speaker>XERXES</speaker>
   <lg>
     <l>Swell loud the doleful strain.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1049">
   <speaker>CHORUS</speaker>
   <lg>
     <l n="1030">Woe! Woe! Alas! Woe! Woe!</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1050">
   <speaker>XERXES</speaker>
   <lg>
     <l>Mingled with many a blow!</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1051-1053">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Yea, black, and fraught with sighs.</l>
   </lg>
 </sp>
 <pb n="257"/>
-<sp>
+<milestone n="1054" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1054">
   <speaker>XERXES</speaker>
   <div type="section">
     <head>STROPHE VII.</head>
@@ -2193,37 +2286,38 @@
     </lg>
   </div>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1055">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Pain, grievous pain!</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1056">
   <speaker>XERXES</speaker>
   <lg>
     <l>And from thy chin pluck out the silver hair.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1057">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Woe-fraught, we pluck amain!</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1058">
   <speaker>XERXES</speaker>
   <lg>
     <l>Rend with shrill cries the air.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1059">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Cries shall not fail.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="1060" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1060">
   <speaker>XERXES</speaker>
   <div type="section">
     <head>ANTISTROPHE VII.</head>
@@ -2232,38 +2326,39 @@
     </lg>
   </div>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1061">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Pain, grievous pain!</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1062">
   <speaker>XERXES</speaker>
   <lg>
     <l>Our host lamenting rend thy tresses too.<ref n="257.1">*</ref></l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1063">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Woe-fraught, we rend amain!</l>
   </lg>
   <pb n="258"/>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1064">
   <speaker>XERXES</speaker>
   <lg>
     <l>Let tears thine eyes bedew.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1065">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Tears downward roll.</l>
   </lg>
 </sp>
-<sp>
+<milestone n="1066" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1066">
   <speaker>XERXES</speaker>
   <div type="section">
     <head>Epode.</head>
@@ -2272,56 +2367,56 @@
     </lg>
   </div>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1067">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Alas! Alas! Woe! Woe!</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1068-1069">
   <speaker>XERXES</speaker>
   <lg>
     <l>Now with loud wailing to the palace wend.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1070">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Alas! with wailing Persia's land resounds.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1071">
   <speaker>XERXES</speaker>
   <lg>
     <l>Through Susa let your moans ascend.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1072">
   <speaker>CHORUS</speaker>
   <lg>
     <l n="1050">I moan, yea, moan amain.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1073">
   <speaker>XERXES</speaker>
   <lg>
     <l>Slowly advancing pour your sighs.</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1074">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Alas! with wailing Persia’s land resounds.</l>
   </lg>
 </sp>
 <pb n="259"/>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1075">
   <speaker>XERXES</speaker>
   <lg>
     <l>For those who perished in our triremes, woe!</l>
   </lg>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2:1076">
   <speaker>CHORUS</speaker>
   <lg>
     <l>Thee I'll escort with piteous notes of pain.</l>

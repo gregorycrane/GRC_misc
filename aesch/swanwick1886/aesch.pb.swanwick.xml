@@ -1,7 +1,7 @@
 <TEI><text>
     <body>
 
-    
+
 
 <div type="textpart" subtype="chapter">
 <head>
@@ -19,7 +19,7 @@
       <p>IO, DAUGHTER OF INACHOS.</p>
       <p>CHORUS OF NYMPHS, DAUGHTERS OF OCEANOS.</p>
       <p>[SCENE.—Scythia; to the right a rocky promontory of Caucasos, to the left the Euxine. Enter HEPHÆSTOS, with hammer and chains; PROMETHEUS is led in by STRENGTH and FORCE.]</p><pb n="333"/>
-        
+
       <ab>
         <title type="sub">INTRODUCTION.</title>
       </ab>
@@ -95,7 +95,8 @@
 <head>
 <title type="main">PROMETHEUS BOUND.</title>
 </head>
-<sp>
+<milestone n="1" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:1-11">
 <speaker>STRENGTH</speaker>
 <l>TO earth's remotest plain we now are come,</l>
 <l>To Scythia’s confine, an untrodden waste.</l>
@@ -109,7 +110,7 @@
 <l>So may he learn the sovereignty of Zeus<lb n="10"/></l>
 <l>To bear, and cease from mortal-loving wont.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:12-35">
 <speaker>HEPHÆSTOS</speaker>
 <l>Ho! Strength and Force, for you the word of Zeus</l>
 <l>Its goal hath reached, no obstacle remains;</l>
@@ -140,158 +141,161 @@
 <l>Vainly; for Zeus obdurate is of heart;</l>
 <l>And harsh is everyone when new of sway.</l>
 </sp>
-<sp>
+<milestone n="36" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:36-38">
 <speaker>STRENGTH</speaker>
 <l>Well! why delay and bootless pity vent?</l>
 <l>This god, to gods most hateful, why not hate,</l>
 <l>Who thy prerogative to men betrayed?</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:39">
 <speaker>HEPHÆSTOS</speaker>
 <l>Awful is kindred blood, and fellowship.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:40-41">
 <speaker>STRENGTH</speaker>
 <l>True, but the father's word to disobey—<lb n="40"/></l>
 <l>How suiteth that? fearest not that still more?</l>
 </sp>
 <pb n="349"/>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:42">
 <speaker>HEPHÆSTOS</speaker>
 <l>Aye ruthless art thou, full of insolence.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:43-44">
 <speaker>STRENGTH</speaker>
 <l>Him to bemoan availeth nought;-but thou</l>
 <l>Spend not thy strength in toil that profits not.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:45">
 <speaker>HEPHÆSTOS</speaker>
 <l>Alas! my much-detested handicraft!</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:46-47">
 <speaker>STRENGTH</speaker>
 <l>Why hate thy craft? for, sooth to say, thine art</l>
 <l>Is no way guilty of these present woes.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:48">
 <speaker>HEPHÆSTOS</speaker>
 <l>Yet would that it to other hand had fallen.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:49-50">
 <speaker>STRENGTH</speaker>
 <l>Save o'er the gods to lord it, all, I trow,</l>
 <l>Achieved hath been; for none is free but Zeus.<lb n="50"/></l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:51">
 <speaker>HEPHÆSTOS</speaker>
 <l>Too well I know it: answer have I none.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:52-53">
 <speaker>STRENGTH</speaker>
 <l>Haste then around the culprit cast these bonds</l>
 <l>Lest father Zeus perceive thee loitering.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:54">
 <speaker>HEPHÆSTOS</speaker>
 <l>Behold the shackles ready here for use.</l>
 </sp>
 <pb n="350"/>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:55-56">
 <speaker>STRENGTH</speaker>
 <l>Cast them around his hands: with mighty force</l>
 <l>Smite with the hammer, nail him to the rocks.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:57">
 <speaker>HEPHÆSTOS</speaker>
 <l>The work so far is finished ;--not amiss.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:58-59">
 <speaker>STRENGTH</speaker>
 <l>Strike harder yet: clench fast: be nowhere slack.</l>
 <l>His wit will find a way where no way is.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:60">
 <speaker>HEPHÆSTOS</speaker>
 <l>This arm, at least, is fast beyond escape.<lb n="60"/></l>
 </sp>
-<sp>
+<milestone n="61" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:61-62">
 <speaker>STRENGTH</speaker>
 <l>This too clamp firmly down; so may he learn,</l>
 <l>Shrewd though he be, he duller is than Zeus.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:63">
 <speaker>HEPHÆSTOS</speaker>
 <l>No one save him may justly me reproach.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:64-65">
 <speaker>STRENGTH</speaker>
 <l>This adamantine wedge's stubborn fang</l>
 <l>Athwart his breast now drive, right sturdily.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:66">
 <speaker>HEPHÆSTOS</speaker>
 <l>Alas! Prometheus! I lament thy pangs.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:67-68">
 <speaker>STRENGTH</speaker>
 <l>Dost shrink, lamenting o'er the foes of Zeus?</l>
 <l>Beware, lest some day for thyself thou grieve.</l>
 </sp>
 <pb n="351"/>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:69">
 <speaker>HEPHÆSTOS</speaker>
 <l>A sight thou seest, grievous to the eye.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:70-71">
 <speaker>STRENGTH</speaker>
 <l>I see him meeting with his own deserts:<lb n="70"/></l>
 <l>But come, around his sides the girdings cast.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:72">
 <speaker>HEPHÆSTOS</speaker>
 <l>Do it I must; urge me not over-much.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:73-74">
 <speaker>STRENGTH</speaker>
 <l>Urge thee I will; ay, hound thee to the work;</l>
 <l>Get thee below; forceful enring his legs.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:75">
 <speaker>HEPHÆSTOS</speaker>
 <l>There, finished is the work, nor great the toil.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:76-77">
 <speaker>STRENGTH</speaker>
 <l>Now the bored fetters strike right lustily;</l>
 <l>For stern the overlooker of these works.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:78">
 <speaker>HEPHÆSTOS</speaker>
 <l>Like to thy shape the utterance of thy tongue.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:79-80">
 <speaker>STRENGTH</speaker>
 <l>Be thou soft-hearted but upbraid not me,</l>
 <l>For stubborn will and ruggedness of heart.<lb n="80"/></l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:81">
 <speaker>HEPHÆSTOS</speaker>
 <l>Let us begone; his limbs are iron-meshed.</l>
 </sp>
 <pb n="352"/>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:82-87">
 <speaker>STRENGTH</speaker>
 <stage>to PROMETHEUS.</stage>
 <l>Here be defiant and the gods' own rights</l>
 <l>Filching, bestow on creatures of a day;</l>
 <l>How much can mortals from these woes drain off?</l>
-<l>Thee falsely do the gods Prometheus<ref n="352.1"></ref> name,</l>
+<l>Thee falsely do the gods Prometheus<ref n="352.1"/> name,</l>
 <l>For a Prometheus thou thyself dost need,</l>
 <l>To plan releasement from this handiwork.</l>
 </sp>
 <stage>[Exeunt HEPHÆSTOS, STRENGTH, and FORCE.]</stage>
-<sp>
+<milestone n="88" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:88-127">
 <speaker>PROMETHEUS</speaker>
 <l>Oh holy ether, swiftly-wingèd gales,</l>
 <l>Fountains of rivers, and of ocean-waves</l>
@@ -301,6 +305,7 @@
 <l>See, wasted by what pains</l>
 <l>Wrestle I must while myriad time shall flow!</l>
 <l>Such ignominious chains</l>
+<milestone n="95" unit="card"/>
 <l>Hath he who newly reigns,</l>
 <l>Chief of the blest, devised against me. Woe!</l>
 <l>Ah woe! the torture of the hour</l>
@@ -308,6 +313,7 @@
 <l>The future dower.</l>
 <l>How, when, shall rise a limit to these woes?<lb n="100"/></l>
 <l>And yet what say I? clearly I foreknow</l>
+<milestone n="101" unit="card"/>
 <l>All that must happen; nor can woe betide</l>
 <l>Stranger to me; the Destined it behoves,</l>
 <l>As best I may, to bear, for well I wot</l>
@@ -322,6 +328,7 @@
 <l>Such forfeits I for such offences pay,—</l>
 <l>Beneath the welkin nailed in manacles.</l>
 <l>Hist! Hist! what sound,</l>
+<milestone n="114" unit="card"/>
 <l>What odour floats invisibly around,</l>
 <l>Of God, or man, or intermediate kind?</l>
 <l>Who nears this rocky bound,</l>
@@ -330,6 +337,7 @@
 <l>The foe of Zeus, in hatred held of all</l>
 <l>The deities who throng Zeus' palace-hall;<lb n="120"/></l>
 <l>For that to men I bore too fond a mind.</l>
+<milestone n="121" unit="card"/>
 <l>Woe, woe! what rustling sound</l>
 <l>Hard by, as if of birds, doth take mine ear?</l>
 <l>Whistles the ether round</l>
@@ -337,7 +345,8 @@
 <l>Whate'er approaches filleth me with fear.</l>
 </sp>
 <stage>[Enter Chorus of Ocean-Nymphs borne in a winged car.]</stage>
-<sp>
+<milestone n="128" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:128-135">
 <speaker>CHORUS</speaker>
 <stage>STROPHE I.</stage>
 <l>Fear not! a friendly troop we reach</l>
@@ -350,7 +359,8 @@
 <l>And from me bashful shyness smote;—</l>
 <l>Forthwith on wingèd car, unshod, aloft I sprang.</l>
 </sp>
-<sp>
+<milestone n="136" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:136-143">
 <speaker>PROMETHEUS</speaker>
 <l>Alas! alas! Woe! woe!</l>
 <l>Prolific Tethys' offspring, progeny</l>
@@ -359,7 +369,8 @@
 <l>In what dire bonds unenvied watch I keep,</l>
 <l>Clasp'd to the summit of this rock-bound steep.</l>
 </sp>
-<sp>
+<milestone n="144" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:144-151">
 <speaker>CHORUS</speaker>
 <stage>ANTISTROPHE I.</stage>
 <l>I see, Prometheus, and through fear</l>
@@ -371,7 +382,8 @@
 <l>Zeus wieldeth empire, impulse-swayed;</l>
 <l>While what was grand of old he sweeps away.</l>
 </sp>
-<sp>
+<milestone n="152" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:152-159">
 <speaker>PROMETHEUS</speaker>
 <l>Neath earth, 'neath Hades' shade-receiving plains,</l>
 <l>Sheer down to Tartaros' unmeasured gloom</l>
@@ -382,7 +394,8 @@
 <l>The laughter of my foes, I bear these pains.</l>
 </sp>
 <pb n="355"/>
-<sp>
+<milestone n="160" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:160-167">
 <speaker>CHORUS</speaker>
 <stage>STROPHE II.</stage>
 <l>Who of the gods a heart doth own</l>
@@ -395,7 +408,8 @@
 <l>Or till another, by some cunning snare,</l>
 <l>Wrest from his grasp the firmly guarded reign.</l>
 </sp>
-<sp>
+<milestone n="168" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:168-179">
 <speaker>PROMETHEUS</speaker>
 <l>Yet e'en of me although now wrung</l>
 <l>In stubborn chains shall he have need,</l>
@@ -408,7 +422,8 @@
 <l>Divulge the secret, till these savage chains</l>
 <l>He loose, and yield requital for my pains.</l>
 </sp>
-<sp>
+<milestone n="180" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:180-188">
 <speaker>CHORUS</speaker>
 <stage>ANTISTROPHE II.</stage>
 <l>Daring thou art and yieldest nought</l>
@@ -422,7 +437,8 @@
 <l>For inaccessible, of mood severe</l>
 <l>Is Kronos' son, inflexible his thought.</l>
 </sp>
-<sp>
+<milestone n="189" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:189-195">
 <speaker>PROMETHEUS</speaker>
 <l>That Zeus is stern full well I know,</l>
 <l>And by his will doth measure right.</l>
@@ -433,14 +449,15 @@
 <l>To join in league and amity with me,</l>
 <l>Eager no less to welcome him as friend.<lb n="200"/></l>
 </sp>
-<sp>
+<milestone n="196" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:196-199">
 <speaker>CHORUS</speaker>
 <l>To us thy tale unfold; the whole speak out;</l>
 <l>Upon what charge Zeus, seizing thee, doth thus</l>
 <l>Outrage with harsh and ignominious pain?</l>
 <l>Inform us if the telling breed no harm.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:200-248">
 <speaker>PROMETHEUS</speaker>
 <l>Grievous to me it is these things to tell,</l>
 <l>Grief to be silent: trouble every way.</l>
@@ -484,67 +501,68 @@
 <l>I dared alone;—I saved the mortal race</l>
 <pb n="358"/>
 <l>From sinking blasted down to Hades' gloom.</l>
+<milestone n="244" unit="card"/>
 <l>For this by these dire tortures I am bent,</l>
 <l>Grievous to suffer, piteous to behold.</l>
 <l>I who did mortals pity, of like grace</l>
 <l>Am deem'd unworthy, but am grimly thus</l>
 <l>Tuned to his will, a sight of shame to Zeus.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:249">
 <speaker>CHORUS</speaker>
 <l>Iron of heart, ay, fashion'd out of rock<lb n="250"/></l>
 <l>Is he, Prometheus, who for these thy pangs</l>
 <l>Shareth not anguish; for myself, this sight</l>
 <l>I fain had shunned; seeing, my heart is wrung.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:250">
 <speaker>PROMETHEUS</speaker>
 <l>To friends, in sooth, a spectacle of woe.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:251">
 <speaker>CHORUS</speaker>
 <l>But beyond this didst haply aught essay?</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:252">
 <speaker>PROMETHEUS</speaker>
 <l>Mortals I hindered from foreseeing death.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:253">
 <speaker>CHORUS</speaker>
 <l>Finding what medicine for this disease?</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:254">
 <speaker>PROMETHEUS</speaker>
 <l>Within their hearts I caused blind hopes to dwell.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:255">
 <speaker>CHORUS</speaker>
 <l>Vast boon was this thou gavest unto mortals.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:256">
 <speaker>PROMETHEUS</speaker>
 <l>Yea, and besides 'twas I that gave them fire.<lb n="260"/></l>
 </sp>
 <pb n="359"/>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:257">
 <speaker>CHORUS</speaker>
 <l>Have now these short-lived creatures flame-eyed fire?</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:258">
 <speaker>PROMETHEUS</speaker>
 <l>Ay, and by it full many arts will learn.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:259">
 <speaker>CHORUS</speaker>
 <l>Upon such charges doth Zeus outrage thee,</l>
 <l>Nor aught abateth of thy miseries?</l>
 <l>To this dire struggle is no 'term assigned?</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:260">
 <speaker>PROMETHEUS</speaker>
 <l>No other but what seemeth good to him.</l>
 </sp>
-<sp>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:261-264">
 <speaker>CHORUS</speaker>
 <l>How may this be? What hope? Seest thou not</l>
 <l>That thou hast erred? But in what way hast erred,</l>
@@ -552,7 +570,8 @@
 <l>To thee is pain. Forbear we then this theme.</l>
 <l>But seek from this keen struggle some escape.<lb n="270"/></l>
 </sp>
-<sp>
+<milestone n="265" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:265-278">
 <speaker>PROMETHEUS</speaker>
 <l>Whoso his foot holdeth unmesh'd of harm,</l>
 <l>For him 'tis easy to exhort and warn</l>
@@ -571,7 +590,8 @@
 <l>Rangeth abroad, and lights on each in turn.</l>
 </sp>
 <note type="footnote" n="352.1"> From <quote xml:lang="grc">πρό, μῆτις</quote>—forethought.</note>
-<sp>
+<milestone n="279" unit="card"/>
+<sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:279-285">
             <speaker>Chorus</speaker>
             <lg>
               <l>To no unwilling ears thy words</l>
@@ -583,7 +603,7 @@
             </lg>
           </sp>
           <stage>[Enter OCEANOS.]</stage>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:286-299">
             <speaker>OCEANOS</speaker>
             <lg>
               <l>The goal of my long course at length I gain,</l>
@@ -601,7 +621,8 @@
               <l>Thou ne'er shalt boast as thine.</l>
             </lg>
           </sp>
-          <sp>
+          <milestone n="300" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:300-308">
             <speaker>PROMETHEUS</speaker>
             <p>
               <lg>
@@ -618,7 +639,7 @@
               </lg>
             </p>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:309-331">
             <speaker>OCEANOS</speaker>
             <lg>
               <l>I see, Prometheus, and would fain to thee,</l>
@@ -647,7 +668,8 @@
               <l>That to the froward tongue chastisement cleaves.</l>
             </lg>
           </sp>
-          <sp>
+          <milestone n="332" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:332-336">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Much joy I give thee scatheless as thou art,</l>
@@ -657,7 +679,7 @@
               <l>Nay, lest the journey breed thee harm, beware.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:337-342">
             <speaker>OCEANOS</speaker>
             <lg>
               <l>More cunning art thou others to advise</l>
@@ -667,7 +689,8 @@
               <l>Will grant this boon, and loose thee from these pains.</l>
             </lg>
           </sp>
-          <sp>
+          <milestone n="343" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:343-378">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>For this I praise thee, nor will cease to praise;</l>
@@ -711,7 +734,8 @@
               <l>Until the heart of Zeus relax its ire.</l>
             </lg>
           </sp>
-          <sp>
+          <milestone n="379" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:379-380">
             <speaker>OCEANOS</speaker>
             <lg>
               <l>Know'st thou not this, Prometheus, that wise words</l>
@@ -719,80 +743,85 @@
             </lg>
           </sp>
           <pb n="358"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:381-382">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Ay, if well-timed they mollify the heart,</l>
               <l>Nor with rude pressure chafe its swelling ire.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:383-384">
             <speaker>OCEANOS</speaker>
             <lg>
               <l>True: but if forethought be with boldness leagued,</l>
               <l>What lurking mischief seest thou? Instruct me.</l><lb n="390"/>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:385">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Light-minded folly and superfluous toil.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:386-387">
             <speaker>OCEANOS</speaker>
             <lg>
               <l>Still from this ailment let me ail, since most</l>
               <l>The wise it profiteth not wise to seem.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:388">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>But haply mine this error may appear.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:389">
             <speaker>OCEANOS</speaker>
             <lg>
               <l>Certes, thine argument remands me home.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:390">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Good! Lest thy plaint for me work thee ill-will.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:391">
             <speaker>OCEANOS</speaker>
             <lg>
               <l>With him new-seated on the all-ruling throne?</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:392">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Of him beware that ne'er his heart be vexed.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:393">
             <speaker>OCEANOS</speaker>
             <p>Thy plight, Prometheus, is my monitor.</p>
           </sp>
           <pb n="359"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:394">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Speed forth! Begone! Cherish thy present mood.</l><lb n="400"/>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:395-435">
             <speaker>OCEANOS</speaker>
             <lg>
+              <milestone n="399" unit="card"/>
               <l>To me right eager hast thou bayed that word,</l>
               <l>For my four-footed bird, with wings outspread,</l>
               <l>Fans the clear track of æther; fain, in sooth,</l>
+              <milestone n="407" unit="card"/>
+              <milestone n="415" unit="card"/>
+              <milestone n="420" unit="card"/>
+              <milestone n="425" unit="card"/>
               <l>In wonted stall to bend the weary knee.</l>
             </lg>
           </sp>
@@ -854,7 +883,8 @@
             <l>While fountains of clear-flowing rivers moan</l>
             <l>His piteous doom.</l>
           </lg>
-          <sp>
+          <milestone n="436" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:436-471">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Think not that I through pride or stubbornness</l>
@@ -901,7 +931,8 @@
             </lg>
           </sp>
           <pb n="362"/>
-          <sp>
+          <milestone n="472" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:472-475">
             <speaker>Chorus</speaker>
             <lg>
               <l>Unseemly woe thou bearest. Driven astray</l><lb n="480"/>
@@ -910,7 +941,7 @@
               <l>Nor remedies canst find thyself to cure.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:476-506">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Hearken the rest, and thou wilt marvel more</l>
@@ -948,7 +979,8 @@
               <l>All arts to mortals from Prometheus came.</l>
             </lg>
           </sp>
-          <sp>
+          <milestone n="507" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:507-510">
             <speaker>Chorus</speaker>
             <lg>
               <l>Not now for mortals beyond measure care</l>
@@ -957,7 +989,7 @@
               <l>In might thou'lt prove an equal match for Zeus.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:511-514">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Not yet nor thus is it ordained that fate</l>
@@ -966,53 +998,59 @@
               <l>Art than necessity is weaker far.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:515">
             <speaker>Chorus</speaker>
             <lg>
               <l>Then who is helmsman of necessity?</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:516">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>The triform Fates and ever-mindful Furies.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:517">
             <speaker>Chorus</speaker>
             <lg>
               <l>Is Zeus in might less absolute than these?</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:518">
             <speaker>PROMETHEUS</speaker>
             <p>E'en he the fore-ordain'd cannot escape.</p>
           </sp>
           <pb n="364"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:519">
             <speaker>Chorus</speaker>
             <lg>
               <l>What is ordain'd for Zeus, save aye to reign?</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:520">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>No further may'st thou question; urge me not.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:521">
             <speaker>Chorus</speaker>
             <lg>
               <l>Deep mystery, methinks, thou keepest veil'd.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:522-573">
             <speaker>PROMETHEUS</speaker>
             <lg>
+              <milestone n="526" unit="card"/>
               <l>Turn to some other theme; not meet it is</l><lb n="530"/>
               <l>Now to discourse of this, but close to wrap</l>
               <l>In strictest silence; for, this secret kept,</l>
+              <milestone n="537" unit="card"/>
+              <milestone n="545" unit="card"/>
+              <milestone n="552" unit="card"/>
+              <milestone n="561" unit="card"/>
+              <milestone n="566" unit="card"/>
               <l>Unseemly bonds I 'scape and tortures keen.</l>
             </lg>
           </sp>
@@ -1069,7 +1107,7 @@
             <l>Thou wast escorting, won by gifts of worth.</l>
           </lg>
           <stage>[Enter Io.]</stage>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:574-588">
             <speaker>IO</speaker>
             <ref n="365.1">*</ref>
             <lg>
@@ -1081,6 +1119,7 @@
             </note>
             <pb n="366"/>
             <lg>
+              <milestone n="575" unit="card"/>
               <l>Storm-battered? What trespass hath thee</l>
               <l>Thus doomed to destruction? Oh, say,</l>
               <l>To what region of earth have I wandered, forlorn?</l>
@@ -1122,7 +1161,8 @@
             <l>Nor wist I from torment how may I be freed.</l>
             <l>The voice dost thou hear of the cow-horned maid?</l>
           </lg>
-          <sp>
+          <milestone n="589" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:589-592">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>And how not hear the maid of Inachos,</l>
@@ -1131,7 +1171,8 @@
               <l>Through Hera's hate, is rudely exercised?</l>
             </lg>
           </sp>
-          <sp>
+          <milestone n="593" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:593-608">
             <speaker>IO</speaker>
             <ab>
               <title>ANTISTROPHE.</title>
@@ -1155,7 +1196,8 @@
               <l>Forthwith to the sad-roaming maiden declare.</l>
             </lg>
           </sp>
-          <sp>
+          <milestone n="609" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:609-612">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Plainly I'll tell thee all thou wouldest learn,</l>
@@ -1165,104 +1207,104 @@
               <l>Prometheus seest thou, giver of fire to mortals.</l><lb n="630"/>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:613-614">
             <speaker>IO</speaker>
             <lg>
               <l>O common benefit On mortals risen,</l>
               <l>Hapless Prometheus, why art suffering thus?</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:615">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Scarce have I ceased singing my dirge of woe.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:616">
             <speaker>IO</speaker>
             <lg>
               <l>To me then wilt thou not vouchsafe this boon?</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:617">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Say what thy quest, for nothing will I hide.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:618">
             <speaker>IO</speaker>
             <lg>
               <l>Who in this cleft, reveal, thus fastened thee?</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:619">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>The will of Zeus, but 'twas Hephaestos' hand.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:620">
             <speaker>IO</speaker>
             <lg>
               <l>And of what crimes dost thou the forfeit pay?</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:621">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Thus much alone to tell thee may suffice.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:622-623">
             <speaker>IO</speaker>
             <lg>
               <l>Then further of my roamings tell the goal.</l><lb n="640"/>
               <l>What time to me, poor outcast, yet must run?</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:624">
             <speaker>PROMETHEUS</speaker>
             <p>This not to learn were better than to learn.</p>
           </sp>
           <pb n="369"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:625">
             <speaker>IO</speaker>
             <lg>
               <l>Yet from me hide not what I needs must suffer.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:626">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Not chary am I of such boon to thee.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:627">
             <speaker>IO</speaker>
             <lg>
               <l>Then why delayest to make known the whole?</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:628">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Nothing I grudge, but shrink to vex thy heart.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:629">
             <speaker>IO</speaker>
             <lg>
               <l>Care not for me more than to me is sweet.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:630">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Thine eager wish constrains my tongue; give ear.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:631-634">
             <speaker>Chorus</speaker>
             <lg>
               <l>Not yet: to me my dole of pleasure deal;</l>
@@ -1271,7 +1313,7 @@
               <l>Her residue of toil then teach us thou.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:635-639">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Io, thy task it is their wish to grant,</l>
@@ -1281,7 +1323,8 @@
               <l>Draws from the listeners the kindly tear.</l>
             </lg>
           </sp>
-          <sp>
+          <milestone n="640" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:640-686">
             <speaker>IO</speaker>
             <p>
               <lg>
@@ -1341,7 +1384,8 @@
               </lg>
             </p>
           </sp>
-          <sp>
+          <milestone n="687" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:687-695">
             <speaker>Chorus</speaker>
             <lg>
               <l>Alas! Alas! Hold! Hold!</l>
@@ -1363,21 +1407,24 @@
           </sp>
 
 
-          <sp>
+          <milestone n="696" unit="card"/>
+
+
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:696-697">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Too soon thou groanest and art full of fears.</l>
               <l>Forbear till heard the remnant of my tale.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:698-699">
             <speaker>Chorus</speaker>
             <lg>
               <l>Speak, teach the whole. To ailing ones 'tis sweet</l>
               <l>Clearly their coming sorrow to foreknow.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:700-741">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Your former boon from me lightly ye won,</l>
@@ -1446,32 +1493,33 @@
               <l>Account not e'en the prelude to thy toils.</l>
             </lg>
           </sp>
-          <sp>
+          <milestone n="742" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:742">
             <speaker>IO</speaker>
             <lg>
               <l>Ah woe is me! Woe! Woe!</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:743-744">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Anew dost shriek and moan? What wilt thou do</l>
               <l>When thou the remnant of thy woe hast heard?</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:745">
             <speaker>Chorus</speaker>
             <lg>
               <l>How, hast thou aught of sorrow yet to tell?</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:746">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Ay, sea tempestuous of all-baleful grief.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:747-751">
             <speaker>IO</speaker>
             <lg>
               <l>What boots it then to live? Why not with speed</l>
@@ -1482,7 +1530,7 @@
             </lg>
           </sp>
           <pb n="375"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:752-756">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Ill wouldst thou bear, methinks, my agonies,</l>
@@ -1492,152 +1540,153 @@
               <l>Is set, till Zeus from sovereignty be hurled.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:757">
             <speaker>IO</speaker>
             <lg>
               <l>How! Can Zeus ever be from empire hurled?</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:758">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Thou wouldest joy, methinks, such hap to see.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:759">
             <speaker>IO</speaker>
             <lg>
               <l>How should I not who suffer ill from Zeus?</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:760">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>That thus it shall be it is thine to learn.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:761">
             <speaker>IO</speaker>
             <lg>
               <l>By whom despoiled of his tyrannic sway?</l><lb n="780"/>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:762">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Spoiled by himself and his own senseless plans.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:763">
             <speaker>IO</speaker>
             <lg>
               <l>But how? Declare, if telling bring no harm.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:764">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>A match contracting he shall one day rue.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:765">
             <speaker>IO</speaker>
             <lg>
               <l>Divine, or human? If permitted, speak.</l>
             </lg>
           </sp>
           <pb n="376"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:766">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>What matters it? This may not be disclosed.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:767">
             <speaker>IO</speaker>
             <lg>
               <l>Shall then his consort drive him from his throne?</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:768">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Ay, a son bearing stronger than his sire.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:769">
             <speaker>IO</speaker>
             <lg>
               <l>Is there for him no refuge from this doom?</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:770">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>No, none; unless I be from bonds released.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:771">
             <speaker>IO</speaker>
             <lg>
               <l>Who shall release thee 'gainst the will of Zeus?</l><lb n="790"/>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:772">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>One of thine own descendants it must be.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:773">
             <speaker>IO</speaker>
             <lg>
               <l>How so? shall child of mine free thee from bale?</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:774">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Count ten descents, and after them a third.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:775">
             <speaker>IO</speaker>
             <lg>
               <l>Not easy is this oracle to spell.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:776">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>So neither seek thy proper grief to learn.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:777">
             <speaker>IO</speaker>
             <p>Nay, hold not forth a boon and straight withdraw it.</p>
           </sp>
           <pb n="377"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:778">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Of two narrations I will grant thee one.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:779">
             <speaker>IO</speaker>
             <lg>
               <l>Set forth the twain, the choice then leave to me.</l>
             </lg>
           </sp>
-          <sp>
+          <milestone n="780" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:780-781">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Granted: Shall I the remnant of thy woes</l>
               <l>Plainly declare, or who shall set me free?</l><lb n="800"/>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:782-785">
             <speaker>Chorus</speaker>
             <lg>
               <l>Of these to her the former grace vouchsafe</l>
@@ -1646,7 +1695,7 @@
               <l>To me thy rescuer; for this I crave.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:786-818">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Since ye are eager I will thwart you not,</l>
@@ -1715,7 +1764,8 @@
               <l>For leisure have I, more than I desire.</l>
             </lg>
           </sp>
-          <sp>
+          <milestone n="819" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:819-845">
             <speaker>Chorus</speaker>
             <lg>
               <l>If aught untold of her sore-wasting course</l>
@@ -1724,7 +1774,8 @@
               <l>The boon we craved; its scope full well thou knowest.</l>
             </lg>
           </sp>
-          <sp>
+          <milestone n="846" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:846-855">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>She of her roaming hath the limit heard,</l>
@@ -1752,7 +1803,7 @@
           </sp>
           <pb n="381"/>
           <stage>[To the Chorus.]</stage>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:856-865">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>The rest for you and her I will relate,</l>
@@ -1787,7 +1838,7 @@
             </lg>
           </sp>
           <pb n="382"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:866-876">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Such oracle my mother, born of eld,</l>
@@ -1796,15 +1847,19 @@
               <l>Nor would the knowledge aught advantage thee.</l>
             </lg>
           </sp>
-          <sp>
+          <milestone n="877" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:877-906">
             <speaker>IO</speaker>
             <lg>
+              <milestone n="887" unit="card"/>
+              <milestone n="894" unit="card"/>
               <l>Ah me! ah woe is me!</l>
               <l>Brain-smiting madness once again</l>
               <l>Inflames me, and convulsive pain.</l>
               <l>The gad-fly's barb, not wrought with fire,</l>
               <l>Stings me; against my breast</l><lb n="900"/>
               <l>Kicks my pent heart with fear oppressed.</l>
+              <milestone n="901" unit="card"/>
               <l>Mine eyeballs roll in dizzy gyre;</l>
               <l>Out of my course by frenzy's blast</l>
               <l>I'm borne. My tongue brooks not the rein,</l>
@@ -1856,7 +1911,8 @@
             <l>Nor can I see the end;—for well I wis,</l>
             <l>The deep designs of Zeus I may not shun.</l>
           </lg>
-          <sp>
+          <milestone n="907" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:907-927">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Yea verily shall Zeus, though stubborn-souled,</l>
@@ -1883,60 +1939,61 @@
               <l>How wide apart are servitude and sway.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:928">
             <speaker>Chorus</speaker>
             <lg>
               <l>Such taunts on Zeus thy wish, I trow, inspires.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:929">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Both what shall be, I speak, and what I wish.</l><lb n="950"/>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:930">
             <speaker>Chorus</speaker>
             <lg>
               <l>And must we look for one o'er Zeus to reign?</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:931">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Yea, pangs than these more crushing shall he bear.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:932">
             <speaker>Chorus</speaker>
             <lg>
               <l>How canst thou fail to fear, hurling such words?</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:933">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>What should I fear who am not doomed to die?</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:934">
             <speaker>Chorus</speaker>
             <lg>
               <l>To keener struggle he may sentence thee.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:935">
             <speaker>PROMETHEUS</speaker>
             <p>So let him then! all is by me foreseen.</p>
           </sp>
           <pb n="385"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:936-952">
             <speaker>Chorus</speaker>
             <lg>
+              <milestone n="944" unit="card"/>
               <l>The wise are they who worship Nemesis.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:953-963">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Revere, adore, cringe aye to him who reigns,</l>
@@ -1949,7 +2006,8 @@
             </lg>
           </sp>
           <stage>[Enter HERMES.]</stage>
-          <sp>
+          <milestone n="964" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:964-965">
             <speaker>HERMES</speaker>
             <lg>
               <l>To thee, professing wisdom, steeped in gall,</l>
@@ -1963,7 +2021,7 @@
               <l>Not by such dealing is Zeus mollified.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:966-967">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Full of high spirit and augustly mouthed</l>
@@ -1985,14 +2043,14 @@
               <l>For of thy quest thou'lt nothing learn from me.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:968-969">
             <speaker>HERMES</speaker>
             <lg>
               <l>E'en by such haughty wilfulness before</l>
               <l>Didst thou to these dire moorings bring thyself.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:970">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>This my ill-fortune, be thou well assured,</l>
@@ -2002,26 +2060,26 @@
               <l>Thus, as is fitting, scorn replies to scorn.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:971">
             <speaker>HERMES</speaker>
             <lg>
               <l>Thou seem'st to revel in thy present state.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:972-973">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Revel? Oh might I in such revel see</l>
               <l>My foes! And thee among them do I count.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:974">
             <speaker>HERMES</speaker>
             <lg>
               <l>Me too thou holdest guilty of thy ills?</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:975-976">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Shortly to speak, all gods I hate, whoe'er,</l>
@@ -2029,73 +2087,73 @@
             </lg>
           </sp>
           <pb n="387"/>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:977">
             <speaker>HERMES</speaker>
             <lg>
               <l>By what I hear, not slight thy madness is.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:978">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Mad let me be, if to hate foes be madness.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:979">
             <speaker>HERMES</speaker>
             <lg>
               <l>Unbearable wert thou if prosperous.</l><lb n="1000"/>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:980">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Alas!</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:980">
             <speaker>HERMES</speaker>
             <lg>
               <l>That word, I trow, Zeus knoweth not.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:981">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Time as it waxeth old can all things teach.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:982">
             <speaker>HERMES</speaker>
             <lg>
               <l>But thou not yet hast sober wisdom learned.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:983">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Else I with thee, a menial, had not talked.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:984">
             <speaker>HERMES</speaker>
             <lg>
               <l>It seems thou'lt answer nought the sire demands.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:985">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Grace since I owe him, grace must I repay.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:986">
             <speaker>HERMES</speaker>
             <lg>
               <l>Thou floutest me as though a child I were!</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:987-996">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Art not a child, ay, simpler than a child,</l>
@@ -2111,26 +2169,26 @@
               <l>To tell by whom he must from empire fall.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:997">
             <speaker>HERMES</speaker>
             <lg>
               <l>Mark now if helpful this may seem to thee.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:998">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Of old my course was looked to and resolved.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:999-1000">
             <speaker>HERMES</speaker>
             <lg>
               <l>Take heart, O foolish one, take heart at length</l><lb n="1020"/>
               <l>To deal discreetly with these present ills.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:1001-1006">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>Idly, like beating wave, thou troublest me</l>
@@ -2142,7 +2200,8 @@
               <l>To loose me from these fetters. Not a whit.</l>
             </lg>
           </sp>
-          <sp>
+          <milestone n="1007" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:1007-1035">
             <speaker>HERMES</speaker>
             <lg>
               <l>Much may I speak, it seems, and speak in vain;</l>
@@ -2177,7 +2236,7 @@
               <l>That stubbornness than prudence better is.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:1036-1039">
             <speaker>Chorus</speaker>
             <lg>
               <l>Timely to us the word of Hermes seems,</l>
@@ -2187,7 +2246,8 @@
               <l>For to the wise it bringeth shame to err.</l><lb n="1060"/>
             </lg>
           </sp>
-          <sp>
+          <milestone n="1040" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:1040-1053">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>To me who knew them, hath he told</l>
@@ -2210,7 +2270,7 @@
               <l>My death he may not doom.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:1054-1062">
             <speaker>HERMES</speaker>
             <lg>
               <l>From fools brain-stricken may one hear</l>
@@ -2224,7 +2284,7 @@
               <l>With terror smite your soul.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:1063-1070">
             <speaker>Chorus</speaker>
             <lg>
               <l>In other style exhort and preach</l>
@@ -2237,7 +2297,7 @@
               <l>Traitors, than whom no pest is more accursed.</l>
             </lg>
           </sp>
-          <sp>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:1071-1079">
             <speaker>HERMES</speaker>
             <lg>
               <l>Then my forewarnings mark, nor dare</l>
@@ -2251,7 +2311,8 @@
               <l>In net of boundless woe.</l><lb n="1100"/>
             </lg>
           </sp>
-          <sp>
+          <milestone n="1080" unit="card"/>
+          <sp corresp="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:1080-1093">
             <speaker>PROMETHEUS</speaker>
             <lg>
               <l>And lo in act, in word no more,</l>

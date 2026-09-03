@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-  schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
       <teiHeader xml:lang="eng">
           <fileDesc>
     <titleStmt>
@@ -65,9 +64,7 @@
       <quotation marks="none"/>
     </editorialDecl>
     <refsDecl n="CTS">
-      <cRefPattern n="l"
-        matchPattern="(\w+)"
-        replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div//tei:l[@n='$1'])">
+      <cRefPattern n="l" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div//tei:l[@n='$1'])">
         <p>This pointer pattern extracts lines</p>
       </cRefPattern>
     </refsDecl>
@@ -115,8 +112,8 @@ an arduous and very difficult undertaking.</p>
         the propriety of employing rhymed metres as substitutes for the complex forms of classical poetry;
 
         <pb n="viii" xml:id="p16"/>
-        
-        
+
+
         hence it may not be inexpedient briefly to state my
         reasons for adopting them, as affording in my judgment
         the only adequate vehicle for reproducing the choral
@@ -147,8 +144,8 @@ to the translation of the choral odes will be
         metre, but a likeness of moral genius which is to be
 
         <pb n="ix" xml:id="p17"/>
-        
-        
+
+
         aimed at.</quote> The translator, having thus no authoritative
 models to necessitate the adoption of particular
         forms, is at liberty, without incurring the charge of
@@ -179,11 +176,11 @@ models to necessitate the adoption of particular
         of realization. The solution of the problem can only
         be worked out by experience. How far I have
         succeeded in combining scrupulous fidelity to the
-        
+
 
         <pb n="x" xml:id="p18"/>
-        
-        
+
+
      with the employment of rhyme, it is not for
         me to judge; metrical translation must always be a
         matter of compromise, and no one can be so sensitively
@@ -216,8 +213,8 @@ of which we have any record, and also to
         investigate the links of transition from the Vedic
 
         <pb n="xi" xml:id="p19"/>
-        
-        
+
+
         Divinities to the ideal Personalities of Olympus. Such
         an inquiry would, however, exceed the scope of an
         introduction.</p>
@@ -250,8 +247,8 @@ day, when she is too often regarded in the light of
         work, entitled <title>Vorlesungen über die Aesthetik</title>. As
 
         <pb n="xii" xml:id="p20"/>
-        
-        
+
+
         this work is, I believe, comparatively little known in
         England, I have ventured to recast, with some modifications,
 a few of his leading ideas, and to embody
@@ -280,15 +277,17 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
 <head>
             <title type="sub">AGAMEMNON.</title>
 </head>
-          <stage>The WATCHMAN is discovered reclining on the flat roof of 
+          <stage>The WATCHMAN is discovered reclining on the flat roof of
             the palace.</stage>
-                           <milestone ed="p" n="1" unit="card"/>
+
 
             <div type="textpart" subtype="prologue" start-line="1" end-line="39">
               <head>Prologue</head>
               <div type="textpart" subtype="trimeter" n="1">
-             
-          <sp start-line="1" end-line="39">
+
+          <milestone ed="p" n="1" unit="card"/>
+
+          <sp start-line="1" end-line="39" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1-39">
             <speaker>WATCHMAN</speaker>
             <lg start-line="1" end-line="7">
               <l>I PRAY the gods deliverance from these toils,</l>
@@ -309,10 +308,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Dew-drenched and restless is my nightly couch,</l>
               <l>By dreams unvisited, for at my side,</l>
               <l>Fear stands, in place of sleep, nor suffers me</l>
-      
+
           <pb n="4"/>
-      
-    
+
+
               <l>Soundly, in slumberous rest, my lids to close.</l>
             </lg>
             <lg start-line="16" end-line="21">
@@ -323,9 +322,9 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>But may glad respite from these toils be mine,</l>
               <l>When fire, joy's herald, through the darkness gleams.</l>
             </lg>
-    
+
           <stage>He suddenly beholds the beacon-light and starts to his feet.</stage>
-       
+
             <lg start-line="22" end-line="24">
               <l>Hail lamp of night, forth shining like the day,</l>
               <l>Of many a festive dance in Argos' land,</l>
@@ -356,20 +355,21 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
           <stage>Exit.</stage>
-   
+
             <note n="1">* The figures correspond to the number of lines in the <lb/>original. </note>
             <note n="2">† The obelisks refer to the conjectural emendations of <lb/>the text at the end of each drama.</note>
-           
-                 </div>       
+
+                 </div>
           </div>
           <div type="textpart" subtype="parados">
 
             <head>Parodos</head>
-            <milestone ed="p" n="40" unit="card"/>
+
          <div type="textpart" subtype="anapests" n="1">
                <head>Anapaests</head>
           <pb n="5"/>
-          <sp start-line="40" end-line="103">
+          <milestone ed="p" n="40" unit="card"/>
+          <sp start-line="40" end-line="103" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:40-103">
             <speaker>Chorus</speaker>
                       <stage>Enter in rank and file the Chorus of ARGIVE ELDERS, each leaning on his staff; during their slow and measured advance they sing the following Ode, the conclusion of which brings them in front of the stage.</stage>
 
@@ -423,10 +423,11 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Treadeth his triple-footed way,</l>
               <l>Like dream in daylight seen.</l>
             </lg>
-       
+
           <stage>Enter CLYTEMNESTRA, followed by a female train. The Chorus sings the following Ode as it advances to take up its usual position round the altar of ZEUS, adorned with a statue of the god.</stage>
         <lg start-line="83" end-line="91">
               <l>But Clytemnestra, thou,</l>
+              <milestone ed="p" n="83" unit="card"/>
               <l>Tyndareus' daughter, Argos queen,</l>
               <l>What hath befallen ? What hast heard ?</l>
               <l>Confiding in what tidings now</l>
@@ -454,18 +455,19 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
         </div>
- 
 
-                    <milestone ed="p" n="104" unit="card"/>
 
-  
+
+
+
           <stage>While CLYTEMNESTRA offers sacrifice, the following Ode is sung by the Chorus from the altar of ZEUS.</stage>
            <div type="textpart" subtype="choral">
             <head>Choral.</head>
                           <div type="textpart" subtype="strophe" n="1">
 
           <head>STROPHE.</head>
-          <sp start-line="104" end-line="121">
+          <milestone ed="p" n="104" unit="card"/>
+          <sp start-line="104" end-line="121" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:104-121">
             <speaker>Chorus</speaker>
             <lg start-line="104" end-line="121">
               <l>The way-side omen mine it is to sing,<ref n="7.1">1</ref></l>
@@ -489,12 +491,13 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
           </div>
-                            
-                  <milestone ed="p" n="122" unit="card"/>
+
+
 
                <div type="textpart" subtype="antistrophe" n="1">
           <head>ANTISTROPHE.</head>
-          <sp start-line="122" end-line="139">
+          <milestone ed="p" n="122" unit="card"/>
+          <sp start-line="122" end-line="139" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:122-139">
             <speaker>Chorus</speaker>
             <lg start-line="122" end-line="139">
               <l>Then the sagacious army-seer, aware</l>
@@ -516,11 +519,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
            </div>
-                  <milestone ed="p" n="140" unit="card"/>
+
 
                <div type="textpart" subtype="epode" n="1">
           <head>EPODE.</head>
-          <sp start-line="140" end-line="159">
+          <milestone ed="p" n="140" unit="card"/>
+          <sp start-line="140" end-line="159" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:140-159">
             <speaker>Chorus</speaker>
             <lg start-line="140" end-line="155">
               <l>†For she, the beauteous goddess, loves</l>
@@ -552,10 +556,11 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
            </div>
-                             <milestone ed="p" n="160" unit="card"/>
+
                <div type="textpart" subtype="strophe" n="2">
           <head>STROPHE II.</head>
-          <sp start-line="160" end-line="166">
+          <milestone ed="p" n="160" unit="card"/>
+          <sp start-line="160" end-line="166" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:160-166">
             <speaker>Chorus</speaker>
             <lg start-line="160" end-line="166">
               <l>Zeus, whoe'er he be, this name</l>
@@ -566,15 +571,16 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>In sooth as vain this burthen of distress.</l>
             </lg>
           </sp>
-         
+
             <note n="7.1">* The original being here in oracular style is purposely obscure, and cannot be fitly rendered otherwise in the translation. </note>
             <note n="8.1">* By a harsh metaphor the Greek army is called a curb forged against Troy. </note>
          </div>
-             <milestone ed="p" n="167" unit="card"/>
+
                <div type="textpart" subtype="antistrophe" n="2">
           <pb n="10"/>
           <head>ANTISTROPHE II.</head>
-          <sp start-line="167" end-line="175">
+          <milestone ed="p" n="167" unit="card"/>
+          <sp start-line="167" end-line="175" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:167-175">
             <speaker>Chorus</speaker>
             <lg start-line="167" end-line="175">
               <l>Nor doth he so great of yore,<ref n="10.1">1</ref></l>
@@ -586,10 +592,11 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
              </div>
-              <milestone ed="p" n="176" unit="card"/>
+
                <div type="textpart" subtype="strophe" n="3">
           <head>STROPHE III.</head>
-          <sp start-line="176" end-line="183">
+          <milestone ed="p" n="176" unit="card"/>
+          <sp start-line="176" end-line="183" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:176-183">
             <speaker>Chorus</speaker>
             <lg start-line="176" end-line="183">
               <l>To sober thought Zeus paves the way,</l>
@@ -602,10 +609,11 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
              </div>
-              <milestone ed="p" n="184" unit="card"/>
+
                <div type="textpart" subtype="antistrophe" n="3">
           <head>ANTISTROPHE III.</head>
-          <sp start-line="184" end-line="191">
+          <milestone ed="p" n="184" unit="card"/>
+          <sp start-line="184" end-line="191" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:184-191">
             <speaker>Chorus</speaker>
             <lg start-line="184" end-line="191">
               <l>E'en so the elder of the twain,</l>
@@ -618,10 +626,11 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
              </div>
-                   <milestone ed="p" n="192" unit="card"/>
+
                <div type="textpart" subtype="strophe" n="4">
           <head>STROPHE IV.</head>
-          <sp start-line="192" end-line="204">
+          <milestone ed="p" n="192" unit="card"/>
+          <sp start-line="192" end-line="204" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:192-204">
             <speaker>Chorus</speaker>
             <lg start-line="192" end-line="204">
               <l>Blasts, dire delay and famine in their train,</l>
@@ -640,10 +649,11 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
              </div>
-                <milestone ed="p" n="205" unit="card"/>
+
                <div type="textpart" subtype="antistrophe" n="4">
           <head>ANTISTROPHE IV.</head>
-          <sp start-line="205" end-line="217">
+          <milestone ed="p" n="205" unit="card"/>
+          <sp start-line="205" end-line="217" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:205-217">
             <speaker>Chorus</speaker>
             <lg start-line="205" end-line="217">
               <l>Then thus aloud the elder chieftain cried :—</l>
@@ -661,11 +671,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
                       </div>
-                       <milestone ed="p" n="218" unit="card"/>
+
                <div type="textpart" subtype="strophe" n="5">
 
           <head>STROPHE V.</head>
-          <sp start-line="218" end-line="227">
+          <milestone ed="p" n="218" unit="card"/>
+          <sp start-line="218" end-line="227" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:218-227">
             <speaker>Chorus</speaker>
             <lg start-line="218" end-line="227">
               <l>Then harnessed in Necessity's stern yoke</l>
@@ -679,17 +690,18 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>The fleet's initial rite accomplishing.</l>
             </lg>
           </sp>
-      
+
             <note n="10.1">* The combatants probably are Uranos, father of Kronos ; and Kronos, father of Zeus. </note>
-       
+
                                 </div>
-                                  <milestone ed="p" n="228" unit="card"/>
+
                <div type="textpart" subtype="antistrophe" n="5">
 
           <pb n="12"/>
 
           <head>ANTISTROPHE V.</head>
-          <sp start-line="228" end-line="237">
+          <milestone ed="p" n="228" unit="card"/>
+          <sp start-line="228" end-line="237" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:228-237">
             <speaker>Chorus</speaker>
             <lg start-line="228" end-line="237">
               <l>Her prayers, her cries of " Father," her young life</l>
@@ -705,11 +717,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </sp>
                                         </div>
 
-                                               <milestone ed="p" n="238" unit="card"/>
+
                <div type="textpart" subtype="strophe" n="6">
 
           <head>STROPHE VI.</head>
-          <sp start-line="238" end-line="247">
+          <milestone ed="p" n="238" unit="card"/>
+          <sp start-line="238" end-line="247" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:238-247">
             <speaker>Chorus</speaker>
             <lg start-line="238" end-line="247">
               <l>Then letting fall her veil of saffron dye,</l>
@@ -725,11 +738,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
                                         </div>
-         <milestone ed="p" n="248" unit="card"/>
+
                <div type="textpart" subtype="antistrophe" n="6">
 
           <head>ANTISTROPHE VI.</head>
-          <sp start-line="248" end-line="257">
+          <milestone ed="p" n="248" unit="card"/>
+          <sp start-line="248" end-line="257" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:248-257">
             <speaker>Chorus</speaker>
             <lg start-line="248" end-line="257">
               <l>What next befel I know not, nor relate;</l>
@@ -752,7 +766,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           <head>Episode 1</head>
           <div type="textpart" subtype="trimeter">
             <head>Trimeter</head>
-        <sp start-line="258" end-line="263"><speaker>Chorus</speaker>
+        <milestone ed="p" n="258" unit="card"/>
+        <sp start-line="258" end-line="263" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:258-263"><speaker>Chorus</speaker>
             <lg start-line="258" end-line="263">
               <l>Hail Clytemnestra! Hither am I come</l>
               <l>Thy majesty revering. For 'tis meet</l>
@@ -764,7 +779,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Yet shall thy silence nought unkind be deemed.</l>
             </lg>
           </sp>
-          <sp start-line="264" end-line="267">
+          <sp start-line="264" end-line="267" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:264-267">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="264" end-line="267">
               <l>Joy's harbinger, be radiant Morning born</l>
@@ -773,86 +788,87 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>For Priam's city have the Argives won.</l>
             </lg>
           </sp>
-          <sp start-line="268" end-line="268">
+          <sp start-line="268" end-line="268" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:268">
             <speaker>Chorus</speaker>
             <lg start-line="268" end-line="268">
               <l>How queen! through unbelief I miss thy word.</l>
             </lg>
           </sp>
-          <sp start-line="269" end-line="269">
+          <sp start-line="269" end-line="269" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:269">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="269" end-line="269">
               <l>Troy is in Argive hands; now speak I plain?</l>
             </lg>
           </sp>
-          <sp start-line="270" end-line="270">
+          <sp start-line="270" end-line="270" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:270">
             <speaker>Chorus</speaker>
             <lg start-line="270" end-line="270">
               <l>Joy, stealing o'er my heart, calls forth the tear.</l>
             </lg>
           </sp>
-          <sp start-line="271" end-line="271">
+          <sp start-line="271" end-line="271" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:271">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="271" end-line="271">
               <l>'Tis true, thine eye thy loyalty bewrays.</l>
             </lg>
           </sp>
           <pb n="14"/>
-          <sp start-line="272" end-line="272">
+          <sp start-line="272" end-line="272" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:272">
             <speaker>Chorus</speaker>
             <lg start-line="272" end-line="272">
               <l>Of these great tidings what the certain proof?</l>
             </lg>
           </sp>
-          <sp start-line="273" end-line="273">
+          <sp start-line="273" end-line="273" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:273">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="273" end-line="273">
               <l>Warrant I have; -how not? or Heaven deceives me.</l>
             </lg>
           </sp>
-          <sp start-line="274" end-line="274">
+          <sp start-line="274" end-line="274" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:274">
             <speaker>Chorus</speaker>
             <lg start-line="274" end-line="274">
               <l>Trusting the suasive augury of dreams?</l>
             </lg>
           </sp>
-          <sp start-line="275" end-line="275">
+          <sp start-line="275" end-line="275" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:275">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="275" end-line="275">
               <l>The fancies of the sleep-bound soul I heed not.</l>
             </lg>
           </sp>
-          <sp start-line="276" end-line="276">
+          <sp start-line="276" end-line="276" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:276">
             <speaker>Chorus</speaker>
             <lg start-line="276" end-line="276">
               <l>But hath some wingless rumour buoy'd thee up?</l>
             </lg>
           </sp>
-          <sp start-line="277" end-line="277">
+          <sp start-line="277" end-line="277" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:277">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="277" end-line="277">
               <l>Thou chidest me as were I a young girl.</l>
             </lg>
           </sp>
-          <sp start-line="278" end-line="278">
+          <sp start-line="278" end-line="278" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:278">
             <speaker>Chorus</speaker>
             <lg start-line="278" end-line="278">
               <l>But since what time was Priam's city spoiled?</l>
             </lg>
           </sp>
-          <sp start-line="279" end-line="279">
+          <sp start-line="279" end-line="279" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:279">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="279" end-line="279">
               <l>This very night now bringing forth the day.</l>
             </lg>
           </sp>
-          <sp start-line="280" end-line="280">
+          <sp start-line="280" end-line="280" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:280">
             <speaker>Chorus</speaker>
             <lg start-line="280" end-line="280">
               <l>What messenger could travel with such speed?</l>
             </lg>
           </sp>
-          <sp start-line="281" end-line="316">
+          <milestone ed="p" n="281" unit="card"/>
+          <sp start-line="281" end-line="316" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:281-316">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="281" end-line="316">
               <l>Hephaestos, a bright flash from Ida sending.</l>
@@ -897,7 +913,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Of tidings sent me by my Lord from Troy.</l>
             </lg>
           </sp>
-          <sp start-line="317" end-line="319">
+          <sp start-line="317" end-line="319" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:317-319">
             <speaker>Chorus</speaker>
             <lg start-line="317" end-line="319">
               <l>The gods, O queen, will I invoke hereafter.</l>
@@ -905,7 +921,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Heard more at large so thou wouldst speak again.</l>
             </lg>
           </sp>
-          <sp start-line="320" end-line="350">
+          <milestone ed="p" n="320" unit="card"/>
+          <sp start-line="320" end-line="350" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:320-350">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="320" end-line="350">
               <l>Troy on this very day th' Achaians hold.</l>
@@ -941,7 +958,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>For I of many blessings choose this joy.</l>
             </lg>
           </sp>
-          <sp start-line="351" end-line="354">
+          <sp start-line="351" end-line="354" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:351-354">
             <speaker>Chorus</speaker>
             <lg start-line="351" end-line="354">
               <l>Like prudent man well hast thou spoken, lady.</l>
@@ -950,17 +967,18 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>For no unworthy meed requites our toil.</l>
             </lg>
           </sp>
-          
+
           <stage>Exit CLYTEMNESTRA.</stage>
                     </div>
                     </div>
 
            <div type="textpart" subtype="stasimon" n="1">
             <head>Stasimon 1</head>
-          <milestone ed="p" n="355" unit="card"/>
+
 <div type="textpart" subtype="anapests" n="2">
   <head>Anapaests</head>
-            <sp start-line="355" end-line="366"><speaker>Chorus</speaker>
+            <milestone ed="p" n="355" unit="card"/>
+            <sp start-line="355" end-line="366" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:355-366"><speaker>Chorus</speaker>
             <lg start-line="355" end-line="366">
               <l>Hail, sovereign Zeus, and friendly Night,</l>
               <l>Mistress of mighty glories, hail!</l>
@@ -981,14 +999,15 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </sp>
           </div>
 
-          
-                       <milestone ed="p" n="367" unit="card"/>
+
+
                        <div type="textpart" subtype="choral">
                         <head>Choral</head>
             <div type="textpart" subtype="strophe" n="1">
           <pb n="18"/>
           <head>STROPHE I.</head>
-          <sp start-line="367" end-line="384">
+          <milestone ed="p" n="367" unit="card"/>
+          <sp start-line="367" end-line="384" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:367-384">
             <speaker>Chorus</speaker>
             <lg start-line="367" end-line="384">
               <l>'Tis Zeus who smote them, this we may aver,</l>
@@ -1008,10 +1027,11 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
           </div>
-               <milestone ed="p" n="385" unit="card"/>
+
           <div type="textpart" subtype="antistrophe" n="1">
           <head>ANTISTROPHE I.</head>
-          <sp start-line="385" end-line="402">
+          <milestone ed="p" n="385" unit="card"/>
+          <sp start-line="385" end-line="402" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:385-402">
             <speaker>Chorus</speaker>
             <lg start-line="385" end-line="402">
               <l>Frenzy's unhappy suasion, fraught with bane</l>
@@ -1031,11 +1051,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
                     </div>
-                     <milestone ed="p" n="403" unit="card"/>
+
           <div type="textpart" subtype="strophe" n="2">
           <pb n="19"/>
           <head>STROPHE II.</head>
-          <sp start-line="403" end-line="419">
+          <milestone ed="p" n="403" unit="card"/>
+          <sp start-line="403" end-line="419" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:403-419">
             <speaker>Chorus</speaker>
             <lg start-line="403" end-line="419">
               <l>Bequeathing to her people deadly stour</l>
@@ -1057,10 +1078,11 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
                     </div>
-              <milestone ed="p" n="420" unit="card"/>
+
           <div type="textpart" subtype="antistrophe" n="2">
           <head>ANTISTROPHE II.</head>
-          <sp start-line="420" end-line="436">
+          <milestone ed="p" n="420" unit="card"/>
+          <sp start-line="420" end-line="436" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:420-436">
             <speaker>Chorus</speaker>
             <lg start-line="420" end-line="436">
               <l>And dreamy fancies, coinage of the brain,</l>
@@ -1082,10 +1104,11 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
                     </div>
-               <milestone ed="p" n="437" unit="card"/>
+
           <div type="textpart" subtype="strophe" n="3">
           <head>STROPHE III.</head>
-          <sp start-line="437" end-line="455">
+          <milestone ed="p" n="437" unit="card"/>
+          <sp start-line="437" end-line="455" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:437-455">
             <speaker>Chorus</speaker>
             <lg start-line="437" end-line="455">
               <l>For Ares, bartering for gold</l>
@@ -1109,10 +1132,11 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
                     </div>
-                       <milestone ed="p" n="456" unit="card"/>
+
           <div type="textpart" subtype="antistrophe" n="3">
           <head>ANTISTROPHE III.</head>
-          <sp start-line="456" end-line="474">
+          <milestone ed="p" n="456" unit="card"/>
+          <sp start-line="456" end-line="474" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:456-474">
             <speaker>Chorus</speaker>
             <lg start-line="456" end-line="474">
               <l>Direful the people's voice, to hate</l>
@@ -1137,10 +1161,11 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
                     </div>
-                     <milestone ed="p" n="475" unit="card"/>
+
           <div type="textpart" subtype="epode" n="1">
           <head>EPODE I.</head>
-          <sp start-line="475" end-line="487">
+          <milestone ed="p" n="475" unit="card"/>
+          <sp start-line="475" end-line="487" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:475-487">
             <speaker>Chorus</speaker>
             <lg start-line="475" end-line="487">
               <l>Borne by the joy-announcing flame</l>
@@ -1160,14 +1185,15 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
            </div>
          </div>
          </div>
-               <milestone ed="p" n="488" unit="card"/>
+
             <div type="textpart" subtype="episode" n="2">
               <head>Episode 2</head>
               <div type="textpart" subtype="trimeter">
                 <head>Trimeter</head>
-              
+
           <pb n="22"/>
-          <sp start-line="488" end-line="502">
+          <milestone ed="p" n="488" unit="card"/>
+          <sp start-line="488" end-line="502" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:488-502">
             <speaker>Chorus Leader</speaker>
             <lg start-line="488" end-line="502">
               <l>Soon shall we know whether the signal fires,</l>
@@ -1186,7 +1212,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
           <stage>Enter Herald.</stage>
-          <sp start-line="503" end-line="537">
+          <sp start-line="503" end-line="537" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:503-537">
             <speaker>HERALD</speaker>
             <lg start-line="503" end-line="509">
               <l>Oh soil of Argos, oh my native land,</l>
@@ -1198,9 +1224,9 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Supreme o'er Argos.</l>
             </lg>
           </sp>
-          <stage>Here the Herald salutes the statues of the gods in the 
+          <stage>Here the Herald salutes the statues of the gods in the
             orchestra.</stage>
-          <sp start-line="510" end-line="517">
+          <sp start-line="510" end-line="517" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:510-517">
             <speaker>HERALD</speaker>
             <lg start-line="510" end-line="517">
               <l>Thou too, Pythian king,</l>
@@ -1217,7 +1243,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
           <stage>He turns to the stage.</stage>
-          <sp start-line="518" end-line="537">
+          <sp start-line="518" end-line="537" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:518-537">
             <speaker>HERALD</speaker>
             <lg start-line="518" end-line="537">
               <l>Hail royal palace! roofs beloved, hail!</l>
@@ -1242,7 +1268,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>With twofold forfeit have atoned their crime.</l>
             </lg>
           </sp>
-          <sp start-line="538" end-line="538">
+          <milestone ed="p" n="538" unit="card"/>
+          <sp start-line="538" end-line="538" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:538">
             <speaker>Chorus</speaker>
             <lg start-line="538" end-line="538">
               <l>Hail, herald of Achaia's host!</l>
@@ -1250,81 +1277,81 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </sp>
 
 
-        <sp start-line="539" end-line="539">
+        <sp start-line="539" end-line="539" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:539">
             <speaker>HERALD</speaker>
             <lg start-line="539" end-line="539">
               <l>All hail!</l>
               <l>So please the gods, I grudge not now to die.</l>
             </lg>
           </sp>
-          <sp start-line="540" end-line="540">
+          <sp start-line="540" end-line="540" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:540">
             <speaker>Chorus</speaker>
             <lg start-line="540" end-line="540">
               <l>Love for thy father-land thy heart hath wrung!</l>
             </lg>
           </sp>
-          <sp start-line="541" end-line="541">
+          <sp start-line="541" end-line="541" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:541">
             <speaker>HERALD</speaker>
             <lg start-line="541" end-line="541">
               <l>So wrung that from mine eyes fall tears of joy.</l>
             </lg>
           </sp>
-          <sp start-line="542" end-line="542">
+          <sp start-line="542" end-line="542" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:542">
             <speaker>Chorus</speaker>
             <lg start-line="542" end-line="542">
               <l>Sweet the heart-sickness that o'ercame you thus.</l>
             </lg>
           </sp>
-          <sp start-line="543" end-line="543">
+          <sp start-line="543" end-line="543" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:543">
             <speaker>HERALD</speaker>
             <lg start-line="543" end-line="543">
               <l>The key I lack which may thy words unlock.</l>
             </lg>
           </sp>
-          <sp start-line="544" end-line="544">
+          <sp start-line="544" end-line="544" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:544">
             <speaker>Chorus</speaker>
             <lg start-line="544" end-line="544">
               <l>Smit with desire for those who longed for you.</l>
             </lg>
           </sp>
-          <sp start-line="545" end-line="545">
+          <sp start-line="545" end-line="545" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:545">
             <speaker>HERALD</speaker>
             <lg start-line="545" end-line="545">
               <l>Hath Argos yearned then for the yearning host ?</l>
             </lg>
           </sp>
-          <sp start-line="546" end-line="546">
+          <sp start-line="546" end-line="546" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:546">
             <speaker>Chorus</speaker>
             <lg start-line="546" end-line="546">
               <l>Ay, so that oft from darken'd soul I groaned.</l>
             </lg>
           </sp>
-          <sp start-line="547" end-line="547">
+          <sp start-line="547" end-line="547" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:547">
             <speaker>HERALD</speaker>
             <lg start-line="547" end-line="547">
               <l>Whence this sad gloom, abhorrent to the host?</l>
             </lg>
           </sp>
-          <sp start-line="548" end-line="548">
+          <sp start-line="548" end-line="548" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:548">
             <speaker>Chorus</speaker>
             <lg start-line="548" end-line="548">
               <l>Silence I long have held bale's safest cure.</l>
             </lg>
           </sp>
-          <sp start-line="549" end-line="549">
+          <sp start-line="549" end-line="549" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:549">
             <speaker>HERALD</speaker>
             <lg start-line="549" end-line="549">
               <l>How! Aught didst fear in absence of thy lords?</l>
             </lg>
           </sp>
-          <sp start-line="550" end-line="550">
+          <sp start-line="550" end-line="550" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:550">
             <speaker>Chorus</speaker>
             <lg start-line="550" end-line="550">
               <l>To die was oft my wish as whilom thine.</l>
             </lg>
           </sp>
           <pb n="25"/>
-          <sp start-line="551" end-line="582">
+          <sp start-line="551" end-line="582" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:551-582">
             <speaker>HERALD</speaker>
             <lg start-line="551" end-line="582">
               <l>Well ended, all is well. But, in long years,</l>
@@ -1363,7 +1390,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Due honour shall attain. My tale is told.</l>
             </lg>
           </sp>
-          <sp start-line="583" end-line="586">
+          <milestone ed="p" n="583" unit="card"/>
+          <sp start-line="583" end-line="586" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:583-586">
             <speaker>Chorus</speaker>
             <lg start-line="583" end-line="586">
               <l>Ungrudged surrender yield I to thy words.</l>
@@ -1373,7 +1401,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
           <stage>Enter CLYTEMNESTRA.</stage>
-          <sp start-line="587" end-line="614">
+          <sp start-line="587" end-line="614" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:587-614">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="587" end-line="614">
               <l>The shout of jubilee erewhile I raised,</l>
@@ -1403,12 +1431,13 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Through these long years invaded by her hand.</l>
               <l>Pleasure, or blameful word from other man,</l>
               <l>Foreign to me as dyer's hue to brass.</l>
+              <milestone ed="p" n="613" unit="card"/>
               <l>A boast like this, fraught as it is with truth,</l>
               <l>The lip misseems not of a high-born dame.</l>
             </lg>
           </sp>
           <stage>Exit CLYTEMNESTRA.</stage>
-          <sp start-line="615" end-line="619">
+          <sp start-line="615" end-line="619" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:615-619">
             <speaker>Chorus</speaker>
             <lg start-line="615" end-line="619">
               <l>Behold! The queen herself hath tutored thee;</l>
@@ -1418,28 +1447,28 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Hither return, prince to his country dear ?</l>
             </lg>
           </sp>
-          <sp start-line="620" end-line="621">
+          <sp start-line="620" end-line="621" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:620-621">
             <speaker>HERALD</speaker>
             <lg start-line="620" end-line="621">
               <l>False news were I to tell, in flatt'ring terms,</l>
               <l>Not long would friends enjoy the fair deceit.</l>
             </lg>
           </sp>
-          <sp start-line="622" end-line="623">
+          <sp start-line="622" end-line="623" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:622-623">
             <speaker>Chorus</speaker>
             <lg start-line="622" end-line="623">
               <l>Oh, could'st thou speak auspicious words yet true!</l>
               <l>That here they sundered are is all too plain.</l>
             </lg>
           </sp>
-          <sp start-line="624" end-line="625">
+          <sp start-line="624" end-line="625" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:624-625">
             <speaker>HERALD</speaker>
             <lg start-line="624" end-line="625">
               <l>The man is vanished from th' Achaian host;</l>
               <l>Himself and galley. No untruth I tell.</l>
             </lg>
           </sp>
-          <sp start-line="626" end-line="627">
+          <sp start-line="626" end-line="627" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:626-627">
             <speaker>Chorus</speaker>
             <lg start-line="626" end-line="627">
               <l>Steering ahead from Troy ? or hath a storm,</l>
@@ -1447,14 +1476,14 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
           <pb n="28"/>
-          <sp start-line="628" end-line="629">
+          <sp start-line="628" end-line="629" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:628-629">
             <speaker>HERALD</speaker>
             <lg start-line="628" end-line="629">
               <l>Like skilful archer thou hast hit the mark;</l>
               <l>And hast in brief a mighty woe declared.</l>
             </lg>
           </sp>
-          <sp start-line="630" end-line="631">
+          <sp start-line="630" end-line="631" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:630-631">
             <speaker>Chorus</speaker>
             <lg start-line="630" end-line="631">
               <l>Say, doth the voice of other mariners</l>
@@ -1462,21 +1491,22 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
 
             </lg>
           </sp>
-          <sp start-line="632" end-line="633">
+          <sp start-line="632" end-line="633" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:632-633">
             <speaker>HERALD</speaker>
             <lg start-line="632" end-line="633">
               <l>Not one so knoweth as to speak his doom,</l>
               <l>Save the bright Sun, feeder of teeming earth.</l>
             </lg>
           </sp>
-          <sp start-line="634" end-line="635">
+          <sp start-line="634" end-line="635" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:634-635">
             <speaker>Chorus</speaker>
             <lg start-line="634" end-line="635">
               <l>How ! Burst the tempest on the naval host</l>
               <l>Through anger of the gods ? say, what the end ?</l>
             </lg>
           </sp>
-          <sp start-line="636" end-line="680">
+          <milestone ed="p" n="636" unit="card"/>
+          <sp start-line="636" end-line="680" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:636-680">
             <speaker>HERALD</speaker>
             <lg start-line="636" end-line="680">
               <l>Auspicious day with ill-announcing tongue</l>
@@ -1536,8 +1566,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <head>Stasimon 2</head>
                <div type="textpart" subtype="strophe" n="1">
                          <head>Chorus. STROPHE I.</head>
-  
-          <sp start-line="681" end-line="698">
+
+          <milestone ed="p" n="681" unit="card"/>
+
+          <sp start-line="681" end-line="698" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:681-698">
             <speaker>Chorus</speaker>
             <lg start-line="681" end-line="698">
               <l>Who, oh who, with truest aim,</l>
@@ -1560,7 +1592,9 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                <div type="textpart" subtype="antistrophe" n="1">
                          <head>ANTISTROPHE I.</head>
 
-          <sp start-line="699" end-line="715">
+          <milestone ed="p" n="699" unit="card"/>
+
+          <sp start-line="699" end-line="715" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:699-715">
             <speaker>Chorus</speaker>
             <lg start-line="699" end-line="715">
               <l>Wrath, with direful issue fraught,</l>
@@ -1585,7 +1619,9 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                <div type="textpart" subtype="strophe" n="2">
                           <head>STROPHE II.</head>
 
-          <sp start-line="716" end-line="726">
+          <milestone ed="p" n="716" unit="card"/>
+
+          <sp start-line="716" end-line="726" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:716-726">
             <speaker>Chorus</speaker>
             <lg start-line="716" end-line="726">
               <l>So once did wight incautious rear</l>
@@ -1601,11 +1637,13 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </sp>
                          </div>
                <div type="textpart" subtype="antistrophe" n="2">
-                             
+
 
           <head>ANTISTROPHE II.</head>
 
-          <sp start-line="727" end-line="736">
+          <milestone ed="p" n="727" unit="card"/>
+
+          <sp start-line="727" end-line="736" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:727-736">
             <speaker>Chorus</speaker>
             <lg start-line="727" end-line="736">
               <l>But time the temper doth bewray</l>
@@ -1622,8 +1660,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                          </div>
                <div type="textpart" subtype="strophe" n="3">
                          <head>STROPHE III.</head>
-  
-          <sp start-line="737" end-line="749">
+
+          <milestone ed="p" n="737" unit="card"/>
+
+          <sp start-line="737" end-line="749" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:737-749">
             <speaker>Chorus</speaker>
             <lg start-line="737" end-line="749">
               <l>So came to Troia's walls, in evil hour,</l>
@@ -1641,8 +1681,9 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                          </div>
                <div type="textpart" subtype="antistrophe" n="3">
                 <head>ANTISTROPHE III.</head>
-          <sp start-line="750" end-line="762">
-                      
+          <milestone ed="p" n="750" unit="card"/>
+          <sp start-line="750" end-line="762" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:750-762">
+
             <speaker>Chorus</speaker>
             <lg start-line="750" end-line="762">
               <l>Lives among men this saw, voiced long ago;</l>
@@ -1659,8 +1700,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                          </div>
                <div type="textpart" subtype="strophe" n="4">
                          <head>STROPHE IV.</head>
- 
-          <sp start-line="763" end-line="771">
+
+          <milestone ed="p" n="763" unit="card"/>
+
+          <sp start-line="763" end-line="771" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:763-771">
             <speaker>Chorus</speaker>
             <lg start-line="763" end-line="771">
               <l>†But ancient Arrogance, or soon or late,</l>
@@ -1677,7 +1720,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                          </div>
                <div type="textpart" subtype="antistrophe" n="4">
                           <head>ANTISTROPHE IV.</head>
-          <sp start-line="772" end-line="781">
+          <milestone ed="p" n="772" unit="card"/>
+          <sp start-line="772" end-line="781" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:772-781">
             <speaker>Chorus</speaker>
             <lg start-line="772" end-line="781">
               <l>But Justice doth the smoke-begrimèd cell</l>
@@ -1698,11 +1742,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                 <head>Episode 3</head>
                   <div type="textpart" subtype="anapests" n="3">
                     <head>Anapaests</head>
-                    <stage>Enter warriors and captives; at last AGAMEMNON appears, 
-            seated on a chariot, with CASSANDRA at his side; soon after 
-            CLYTEMNESTRA, accompanied by female attendants, issues 
+                    <stage>Enter warriors and captives; at last AGAMEMNON appears,
+            seated on a chariot, with CASSANDRA at his side; soon after
+            CLYTEMNESTRA, accompanied by female attendants, issues
             from the palace.</stage>
-          <sp start-line="782" end-line="809">
+          <milestone ed="p" n="782" unit="card"/>
+          <sp start-line="782" end-line="809" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:782-809">
             <speaker>Chorus</speaker>
             <lg start-line="782" end-line="798">
               <l>Hail, royal lord! Stormer of Ilion, hail!</l>
@@ -1742,7 +1787,9 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           <div type="textpart" subtype="trimeter" n="2">
             <head>Trimeters</head>
 
-          <sp start-line="810" end-line="854">
+          <milestone ed="p" n="810" unit="card"/>
+
+          <sp start-line="810" end-line="854" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:810-854">
             <speaker>AGAMEMNON</speaker>
             <stage>speaking from the chariot.</stage>
             <lg start-line="810" end-line="854">
@@ -1798,7 +1845,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
           <pb n="36"/>
-          <sp start-line="855" end-line="913">
+          <milestone ed="p" n="855" unit="card"/>
+          <sp start-line="855" end-line="913" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:855-913">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="855" end-line="913">
               <l>Men of our city, Argive elders here,</l>
@@ -1860,6 +1908,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Swift, purple-strew his passage to a home</l>
               <l>Unlooked for, e'en as Justice may conduct;</l>
               <l>What further she decreeth with the gods,</l>
+              <milestone ed="p" n="887" unit="card"/>
               <l>Thought, not by sleep o'ermastered, shall dispose.</l>
             </lg>
           </sp>
@@ -1868,8 +1917,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             <note n="36.2">‡ <quote xml:lang="grc">[Πολλὴν ἄνωθεν, τὴν κάτω γὰρ οὐ λέγω].</quote>
               I agree with those critics who reject this line as spurious.</note>
             <note n="37.1">* Spear-guest. The Greek word <quote xml:lang="grc">δορύξενος</quote> is explained by Plutarch, whom Bishop Thirlwall follows, as expressing the relation established when a prisoner of war dismissed on parole has honourably paid his ransom.</note>
-         
-          <sp start-line="914" end-line="930">
+
+          <milestone ed="p" n="914" unit="card"/>
+
+          <sp start-line="914" end-line="930" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:914-930">
             <speaker>AGAMEMNON</speaker>
             <lg start-line="914" end-line="930">
               <l>Daughter of Leda! Guardian of my home!</l>
@@ -1892,87 +1943,88 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>If thus I bear myself I need not fear.</l>
             </lg>
           </sp>
-          <sp start-line="931" end-line="931">
+          <sp start-line="931" end-line="931" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:931">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="931" end-line="931">
               <l>Against my settled purpose speak not thus.</l>
             </lg>
           </sp>
               <pb n="39"/>
-          <sp start-line="932" end-line="932">
+          <sp start-line="932" end-line="932" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:932">
             <speaker>AGAMEMNON</speaker>
             <lg start-line="932" end-line="932">
               <l>Deem not my sober purpose I will mar.</l>
             </lg>
           </sp>
-          <sp start-line="933" end-line="933">
+          <sp start-line="933" end-line="933" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:933">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="933" end-line="933">
               <l>Haply thou thus to act hast vowed in fear.</l>
             </lg>
           </sp>
-          <sp start-line="934" end-line="934">
+          <sp start-line="934" end-line="934" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:934">
             <speaker>AGAMEMNON</speaker>
             <lg start-line="934" end-line="934">
               <l>Final and sure my word as man e'er spake.</l>
             </lg>
           </sp>
-          <sp start-line="935" end-line="935">
+          <sp start-line="935" end-line="935" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:935">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="935" end-line="935">
               <l>What, thinkest thou, had Priam done if victor ?</l>
             </lg>
           </sp>
-          <sp start-line="936" end-line="936">
+          <sp start-line="936" end-line="936" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:936">
             <speaker>AGAMEMNON</speaker>
             <lg start-line="936" end-line="936">
               <l>Purples, I ween, he verily had trod.</l>
             </lg>
           </sp>
-          <sp start-line="937" end-line="937">
+          <sp start-line="937" end-line="937" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:937">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="937" end-line="937">
               <l>Then stand not thou in fear of human blame.</l>
             </lg>
           </sp>
-          <sp start-line="938" end-line="938">
+          <sp start-line="938" end-line="938" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:938">
             <speaker>AGAMEMNON</speaker>
             <lg start-line="938" end-line="938">
               <l>Yet hath the people's rumour mighty power.</l>
             </lg>
           </sp>
-          <sp start-line="939" end-line="939">
+          <sp start-line="939" end-line="939" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:939">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="939" end-line="939">
               <l>Life envy-free is life unenviable.</l>
             </lg>
           </sp>
-          <sp start-line="940" end-line="940">
+          <sp start-line="940" end-line="940" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:940">
             <speaker>AGAMEMNON</speaker>
             <lg start-line="940" end-line="940">
               <l>'Tis not for woman to be fond of strife.</l>
             </lg>
           </sp>
-          <sp start-line="941" end-line="941">
+          <sp start-line="941" end-line="941" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:941">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="941" end-line="941">
               <l>But it becomes the fortunate to yield.</l>
             </lg>
           </sp>
-          <sp start-line="942" end-line="942">
+          <sp start-line="942" end-line="942" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:942">
             <speaker>AGAMEMNON</speaker>
             <lg start-line="942" end-line="942">
               <l>Does conquest in this struggle rate so high ?</l>
             </lg>
           </sp>
                <pb n="40"/>
-          <sp start-line="943" end-line="943">
+          <sp start-line="943" end-line="943" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:943">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="943" end-line="943">
               <l>Yield thee; thy will bend willingly to mine.</l>
             </lg>
           </sp>
-          <sp start-line="944" end-line="957">
+          <milestone ed="p" n="944" unit="card"/>
+          <sp start-line="944" end-line="957" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:944-957">
             <speaker>AGAMEMNON</speaker>
             <lg start-line="944" end-line="957">
               <l>If thou wilt have it so, let one with speed</l>
@@ -1991,7 +2043,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Treading on purple to my halls I go.</l>
             </lg>
           </sp>
-          <sp start-line="958" end-line="974">
+          <sp start-line="958" end-line="974" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:958-974">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="958" end-line="974">
               <l>A sea there is (which who may drain ?) that breeds</l>
@@ -2021,7 +2073,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             <head>Stasimon 3</head>
                <div type="textpart" subtype="strophe" n="1">
                         <head>Chorus. STROPHE I.</head>
-          <sp start-line="975" end-line="987">
+          <milestone ed="p" n="975" unit="card"/>
+          <sp start-line="975" end-line="987" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:975-987">
             <speaker>Chorus</speaker>
             <lg start-line="975" end-line="987">
               <l>Whence this dread portent, that untired</l>
@@ -2040,7 +2093,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                      </div>
                <div type="textpart" subtype="antistrophe" n="1">
                           <head>ANTISTROPHE I.</head>
-          <sp start-line="988" end-line="1000">
+          <milestone ed="p" n="988" unit="card"/>
+          <sp start-line="988" end-line="1000" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:988-1000">
             <speaker>Chorus</speaker>
             <lg start-line="988" end-line="1000">
               <l>After long absence their return</l>
@@ -2060,12 +2114,13 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                          </div>
 
 
-                         
+
 
 
                          <div type="textpart" subtype="strophe" n="2">
                                       <head>STROPHE II.</head>
-          <sp start-line="1001" end-line="1016">
+          <milestone ed="p" n="1001" unit="card"/>
+          <sp start-line="1001" end-line="1016" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1001-1016">
             <speaker>Chorus</speaker>
             <lg start-line="1001" end-line="1016">
               <l>Never will perfect health confess</l>
@@ -2087,7 +2142,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                          </div>
                <div type="textpart" subtype="antistrophe" n="2">
                           <head>ANTISTROPHE II.</head>
-          <sp start-line="1017" end-line="1033">
+          <milestone ed="p" n="1017" unit="card"/>
+          <sp start-line="1017" end-line="1033" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1017-1033">
             <speaker>Chorus</speaker>
             <lg start-line="1017" end-line="1033">
               <l>But when on earth the crimson gore</l>
@@ -2112,7 +2168,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             <div type="textpart" subtype="episode" n="4">
               <head>Episode 4</head>
                         <stage>Enter CLYTEMNESTRA, stepping hastily out of the palace.</stage>
-          <sp start-line="1035" end-line="1046">
+          <milestone ed="p" n="1035" unit="card"/>
+          <sp start-line="1035" end-line="1046" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1035-1046">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="1035" end-line="1046">
               <l>Come thou too in, Cassandra, thee I mean;</l>
@@ -2129,7 +2186,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>From us thou hast what usuage warranteth.</l>
             </lg>
           </sp>
-          <sp start-line="1047" end-line="1049">
+          <sp start-line="1047" end-line="1049" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1047-1049">
             <speaker>Chorus</speaker>
             <lg start-line="1047" end-line="1049">
               <l>Thee in clear words she hath addressed, and thou,</l>
@@ -2137,7 +2194,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Yield if thou canst; mayhap thou wilt not yield.</l>
             </lg>
           </sp>
-          <sp start-line="1050" end-line="1052">
+          <sp start-line="1050" end-line="1052" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1050-1052">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="1050" end-line="1052">
               <l>Nay, an she be not, swallow-like, possessed</l>
@@ -2146,14 +2203,14 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
            <pb n="44"/>
-          <sp start-line="1053" end-line="1054">
+          <sp start-line="1053" end-line="1054" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1053-1054">
             <speaker>Chorus</speaker>
             <lg start-line="1053" end-line="1054">
               <l>Follow! She counsels for thy need the best:</l>
               <l>Be thou persuaded;—leave thy chariot-seat.</l>
             </lg>
           </sp>
-          <sp start-line="1055" end-line="1061">
+          <sp start-line="1055" end-line="1061" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1055-1061">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="1055" end-line="1061">
               <l>No leisure have I here before the gates</l>
@@ -2166,14 +2223,14 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>In lieu of voice, speak with barbarian hand.</l>
             </lg>
           </sp>
-          <sp start-line="1062" end-line="1063">
+          <sp start-line="1062" end-line="1063" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1062-1063">
             <speaker>Chorus</speaker>
             <lg start-line="1062" end-line="1063">
               <l>A clear interpreter the stranger needs :</l>
               <l>Distraught she seems, like creature newly caught.</l>
             </lg>
           </sp>
-          <sp start-line="1064" end-line="1068">
+          <sp start-line="1064" end-line="1068" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1064-1068">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="1064" end-line="1068">
               <l>Nay, she is mad ; to her distempered thoughts</l>
@@ -2184,7 +2241,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
                 <stage>Exit.</stage>
           </sp>
-          <sp start-line="1069" end-line="1071">
+          <sp start-line="1069" end-line="1071" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1069-1071">
             <speaker>Chorus</speaker>
             <lg start-line="1069" end-line="1071">
               <l>But I, by pity moved, will not be wroth ;</l>
@@ -2192,12 +2249,13 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>To Fortune yielding, hansel this new yoke.</l>
             </lg>
           </sp>
-                        
+
             <div type="textpart" subtype="kommos">
               <head>Kommos</head>
                <div type="textpart" subtype="strophe" n="1">
                           <head>CASSANDRA. STROPHE I.</head>
-          <sp start-line="1072" end-line="1073">
+          <milestone ed="p" n="1072" unit="card"/>
+          <sp start-line="1072" end-line="1073" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1072-1073">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1072" end-line="1073">
               <l>Ah me ! alas ! Gods, Earth!</l>
@@ -2208,7 +2266,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
         <div type="textpart" subtype="trimeter">
           <head>Trimeter</head>
             <pb n="45"/>
-          <sp start-line="1074" end-line="1075">
+          <sp start-line="1074" end-line="1075" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1074-1075">
             <speaker>Chorus</speaker>
             <lg start-line="1074" end-line="1075">
               <l>Why raise for Loxias these cries of bale ?</l>
@@ -2218,7 +2276,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                </div>
                <div type="textpart" subtype="antistrophe" n="1">
                           <head>CASSANDRA. ANTISTROPHE I.</head>
-          <sp start-line="1076" end-line="1077">
+          <milestone ed="p" n="1076" unit="card"/>
+          <sp start-line="1076" end-line="1077" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1076-1077">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1076" end-line="1077">
               <l>Ah me ! alas ! Gods, Earth!</l>
@@ -2228,7 +2287,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                  </div>
         <div type="textpart" subtype="trimeter">
   <head>Trimeter</head>
-          <sp start-line="1078" end-line="1079">
+          <sp start-line="1078" end-line="1079" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1078-1079">
             <speaker>Chorus</speaker>
             <lg start-line="1078" end-line="1079">
               <l>Once more she calleth with ill-omened cry,</l>
@@ -2238,7 +2297,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                </div>
                <div type="textpart" subtype="strophe" n="2">
                      <head>CASSANDRA. STROPHE II.</head>
-          <sp start-line="1080" end-line="1082">
+          <milestone ed="p" n="1080" unit="card"/>
+          <sp start-line="1080" end-line="1082" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1080-1082">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1080" end-line="1082">
               <l>Apollo, O Apollo!</l>
@@ -2249,7 +2309,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                  </div>
         <div type="textpart" subtype="trimeter">
   <head>Trimeter</head>
-          <sp start-line="1083" end-line="1084">
+          <sp start-line="1083" end-line="1084" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1083-1084">
             <speaker>Chorus</speaker>
             <lg start-line="1083" end-line="1084">
               <l>She seems about to augur her own ills ;</l>
@@ -2259,7 +2319,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               </div>
                <div type="textpart" subtype="antistrophe" n="2">
                           <head>CASSANDRA. ANTISTROPHE II.</head>
-          <sp start-line="1085" end-line="1087">
+          <milestone ed="p" n="1085" unit="card"/>
+          <sp start-line="1085" end-line="1087" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1085-1087">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1085" end-line="1087">
               <l>Apollo, O Apollo!</l>
@@ -2270,7 +2331,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                  </div>
         <div type="textpart" subtype="trimeter">
   <head>Trimeter</head>
-          <sp start-line="1088" end-line="1089">
+          <sp start-line="1088" end-line="1089" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1088-1089">
             <speaker>Chorus</speaker>
             <lg start-line="1088" end-line="1089">
               <l>To the Atreidan; an thou dost not know</l>
@@ -2281,7 +2342,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                        <pb n="46"/>
                <div type="textpart" subtype="strophe" n="3">
                      <head>CASSANDRA. STROPHE III.</head>
-          <sp start-line="1090" end-line="1092">
+          <milestone ed="p" n="1090" unit="card"/>
+          <sp start-line="1090" end-line="1092" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1090-1092">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1090" end-line="1092">
               <l>Ah! Ah!</l>
@@ -2293,7 +2355,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                  </div>
         <div type="textpart" subtype="trimeter">
   <head>Trimeter</head>
-          <sp start-line="1093" end-line="1094">
+          <sp start-line="1093" end-line="1094" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1093-1094">
             <speaker>Chorus</speaker>
             <lg start-line="1093" end-line="1094">
               <l>Keen scented seems the stranger, like a hound ;</l>
@@ -2303,7 +2365,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                </div>
                <div type="textpart" subtype="antistrophe" n="3">
                           <head>CASSANDRA. ANTISTROPHE III.</head>
-          <sp start-line="1095" end-line="1097">
+          <milestone ed="p" n="1095" unit="card"/>
+          <sp start-line="1095" end-line="1097" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1095-1097">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1095" end-line="1097">
               <l>Ah! Ah!</l>
@@ -2315,7 +2378,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                  </div>
         <div type="textpart" subtype="trimeter">
   <head>Trimeter</head>
-          <sp start-line="1098" end-line="1099">
+          <sp start-line="1098" end-line="1099" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1098-1099">
             <speaker>Chorus</speaker>
             <lg start-line="1098" end-line="1099">
               <l>Thy fame oracular hath reached our ear;</l>
@@ -2325,7 +2388,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                </div>
            <div type="textpart" subtype="strophe" n="4">
                     <head>CASSANDRA. STROPHE IV.</head>
-          <sp start-line="1100" end-line="1104">
+          <milestone ed="p" n="1100" unit="card"/>
+          <sp start-line="1100" end-line="1104" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1100-1104">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1100" end-line="1104">
               <l>Alas! ye gods!</l>
@@ -2338,7 +2402,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                  </div>
         <div type="textpart" subtype="trimeter">
   <head>Trimeter</head>
-          <sp start-line="1105" end-line="1106">
+          <sp start-line="1105" end-line="1106" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1105-1106">
             <speaker>Chorus</speaker>
             <lg start-line="1105" end-line="1106">
               <l>Dark are these oracles ; the first I know ;</l>
@@ -2348,7 +2412,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </div>
            <div type="textpart" subtype="antistrophe" n="4">
                        <head>CASSANDRA. ANTISTROPHE IV.</head>
-          <sp start-line="1107" end-line="1111">
+          <milestone ed="p" n="1107" unit="card"/>
+          <sp start-line="1107" end-line="1111" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1107-1111">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1107" end-line="1111">
               <l>Ah wretched one!</l>
@@ -2362,7 +2427,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                  </div>
         <div type="textpart" subtype="trimeter">
   <head>Trimeter</head>
-          <sp start-line="1112" end-line="1113">
+          <sp start-line="1112" end-line="1113" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1112-1113">
             <speaker>Chorus</speaker>
             <lg start-line="1112" end-line="1113">
               <l>I comprehend her not; this mystic lore,</l>
@@ -2372,7 +2437,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
            </div>
            <div type="textpart" subtype="strophe" n="5">
                       <head>CASSANDRA. STROPHE V.</head>
-          <sp start-line="1114" end-line="1118">
+          <milestone ed="p" n="1114" unit="card"/>
+          <sp start-line="1114" end-line="1118" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1114-1118">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1114" end-line="1118">
               <l>Woe! woe! Look! look! What see I there?</l>
@@ -2383,11 +2449,11 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Unglutted with the race, their chorus swell!</l>
             </lg>
           </sp>
-          <milestone ed="p" n="1119" unit="card"/>
+
             </div>
            <div type="textpart" subtype="strophe" n="6">
                  <head>Chorus. STROPHE VI.</head>
-          <sp start-line="1119" end-line="1124">
+          <sp start-line="1119" end-line="1124" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1119-1124">
             <speaker>Chorus</speaker>
             <lg start-line="1119" end-line="1124">
               <l>What Fury 'gainst this house doth summon ? What,</l>
@@ -2400,10 +2466,11 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
              </div>
-             
+
            <div type="textpart" subtype="antistrophe" n="5">
                      <head>CASSANDRA. ANTISTROPHE V.</head>
-          <sp start-line="1125" end-line="1129">
+          <milestone ed="p" n="1125" unit="card"/>
+          <sp start-line="1125" end-line="1129" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1125-1129">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1125" end-line="1129">
               <l>Hold! hold ! Woe! woe! The heifer there</l>
@@ -2416,13 +2483,13 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </sp>
             </div>
            <div type="textpart" subtype="antistrophe" n="6">
-                
+
         <div type="textpart" subtype="trimeter">
   <head>Trimeter</head>
            <pb n="48"/>
-            <milestone ed="p" n="1130" unit="card"/>
+
                   <head>Chorus. ANTISTROPHE VI.</head>
-          <sp start-line="1130" end-line="1131">
+          <sp start-line="1130" end-line="1131" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1130-1131">
 
             <speaker>Chorus</speaker>
             <lg start-line="1130" end-line="1131">
@@ -2431,7 +2498,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg></sp>
               <div type="textpart" subtype="lyric">
                 <head>Lyric</head>
-                  <sp start-line="1132" end-line="1135">
+                  <sp start-line="1132" end-line="1135" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1132-1135">
 
             <speaker>Chorus</speaker>
             <lg start-line="1132" end-line="1135">
@@ -2447,7 +2514,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                         </div>
            <div type="textpart" subtype="strophe" n="7">
                       <head>CASSANDRA. STROPHE VII.</head>
-          <sp start-line="1136" end-line="1139">
+          <milestone ed="p" n="1136" unit="card"/>
+          <sp start-line="1136" end-line="1139" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1136-1139">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1136" end-line="1139">
               <l>Woe! woe! my wretched ill-starred lot!</l>
@@ -2461,7 +2529,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             <div type="textpart" subtype="trimeter">
               <head>Trimeter.</head>
                    <head>Chorus. STROPHE VIII.</head>
-          <sp start-line="1140" end-line="1145">
+          <sp start-line="1140" end-line="1145" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1140-1145">
             <speaker>Chorus</speaker>
             <lg start-line="1140" end-line="1145">
               <l>Thou'rt frenzied, by some god possest,</l>
@@ -2476,15 +2544,16 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
            </div>
            <div type="textpart" subtype="antistrophe" n="7">
      <head>CASSANDRA. ANTISTROPHE VII.</head>
-          <sp start-line="1146" end-line="1149">
+          <milestone ed="p" n="1146" unit="card"/>
+          <sp start-line="1146" end-line="1149" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1146-1149">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1146" end-line="1149">
               <l>Woe ! woe ! Clear-voicèd bird, arrayed</l>
               <l>In plumed shape, by powers divine ;</l>
                           <note n="48.1">* In the Odyssey (xix. 518) Penelope compares herself to Pandareos’ child, the sylvan nightingale which, in the open­ing spring, perched amid the dense foliage of the trees, warbles beautifully, with frequent change of key, lamenting her boy, her beloved Itylos, son of King Zethus, whom, through insensate folly, she had slain. This is the oldest form of the legend.</note>
-         
 
-            
+
+
               <pb n="49"/>
               <l>Sweet life, unmarred by tears, is thine :</l>
               <l>But me awaits the double-edged blade.</l>
@@ -2493,7 +2562,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </div>
            <div type="textpart" subtype="antistrophe" n="8">
                  <head>Chorus. ANTISTROPHE VIII.</head>
-          <sp start-line="1150" end-line="1155">
+          <sp start-line="1150" end-line="1155" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1150-1155">
             <speaker>Chorus</speaker>
             <lg start-line="1150" end-line="1155">
               <l>Whence hast thou these prophetic throes,</l>
@@ -2507,8 +2576,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
            </div>
            <div type="textpart" subtype="strophe" n="9">
              <head>CASSANDRA. STROPHE IX.</head>
-          
-          <sp start-line="1156" end-line="1161">
+
+          <milestone ed="p" n="1156" unit="card"/>
+
+          <sp start-line="1156" end-line="1161" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1156-1161">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1156" end-line="1161">
               <l>Oh, nuptial rite, oh, nuptial rite,</l>
@@ -2523,7 +2594,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </div>
            <div type="textpart" subtype="strophe" n="10">
                     <head>Chorus. STROPHE X.</head>
-          <sp start-line="1162" end-line="1166">
+          <sp start-line="1162" end-line="1166" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1162-1166">
             <speaker>Chorus</speaker>
             <lg start-line="1162" end-line="1166">
               <l>What thought hast uttered all too clear?</l>
@@ -2536,7 +2607,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
              </div>
            <div type="textpart" subtype="antistrophe" n="9">
                 <head>CASSANDRA. ANTISTROPHE IX.</head>
-          <sp start-line="1167" end-line="1172">
+          <milestone ed="p" n="1167" unit="card"/>
+          <sp start-line="1167" end-line="1172" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1167-1172">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1167" end-line="1172">
               <l>Oh deadly coil, oh, deadly coil</l>
@@ -2545,7 +2617,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Slain by my father at the shrine</l>
                 <pb n="50"/>
               <l>To save her sacred wall!</l>
-            
+
               <l>But cure was none : she perished ; vain the toil!</l>
               <l>I too, soul-kindled, soon shall press the soil.</l>
             </lg>
@@ -2553,7 +2625,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </div>
            <div type="textpart" subtype="antistrophe" n="10">
                <head>Chorus. ANTISTROPHE X.</head>
-          <sp start-line="1173" end-line="1177">
+          <sp start-line="1173" end-line="1177" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1173-1177">
 
             <speaker>Chorus</speaker>
             <lg start-line="1173" end-line="1177">
@@ -2567,9 +2639,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </div>
           </div>
 
-          
+
             <div type="textpart" subtype="trimeter" n="3">
-          <sp start-line="1178" end-line="1197">
+          <milestone ed="p" n="1178" unit="card"/>
+          <sp start-line="1178" end-line="1197" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1178-1197">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1178" end-line="1197">
               <l>In sooth the oracle no more shall peer</l>
@@ -2596,7 +2669,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>That of these halls the hoary crimes I know.</l>
             </lg>
           </sp>
-          <sp start-line="1198" end-line="1201">
+          <sp start-line="1198" end-line="1201" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1198-1201">
             <speaker>Chorus</speaker>
             <lg start-line="1198" end-line="1201">
               <l>And how can oath be healer of a woe</l>
@@ -2605,80 +2678,81 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Of foreign city as though native there.</l>
             </lg>
           </sp>
-          <sp start-line="1202" end-line="1202">
+          <milestone ed="p" n="1202" unit="card"/>
+          <sp start-line="1202" end-line="1202" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1202">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1202" end-line="1202">
               <l>Loxias, the seer, me with this grace endowed.</l>
             </lg>
           </sp>
-          <sp start-line="1204" end-line="1204">
+          <sp start-line="1204" end-line="1204" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1204">
             <speaker>Chorus</speaker>
             <lg start-line="1204" end-line="1204">
               <l>How! passion-smitten was he, though a god?</l>
             </lg>
           </sp>
-          <sp start-line="1203" end-line="1203">
+          <sp start-line="1203" end-line="1203" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1203">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1203" end-line="1203">
               <l>Till now it shamed me to speak of this.</l>
             </lg>
           </sp>
-          <sp start-line="1205" end-line="1205">
+          <sp start-line="1205" end-line="1205" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1205">
             <speaker>Chorus</speaker>
             <lg start-line="1205" end-line="1205">
               <l>True ; for who fareth well grows over-nice.</l>
             </lg>
           </sp>
-          <sp start-line="1206" end-line="1206">
+          <sp start-line="1206" end-line="1206" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1206">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1206" end-line="1206">
               <l>Love-wrestler was he, warm his favour breathed.</l>
             </lg>
           </sp>
-          <sp start-line="1207" end-line="1207">
+          <sp start-line="1207" end-line="1207" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1207">
             <speaker>Chorus</speaker>
             <lg start-line="1207" end-line="1207">
               <l>Came ye in course to rite conjugial ?</l>
             </lg>
           </sp>
-          <sp start-line="1208" end-line="1208">
+          <sp start-line="1208" end-line="1208" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1208">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1208" end-line="1208">
               <l>Consent I gave, but cheated Loxias.</l>
             </lg>
           </sp>
-          <sp start-line="1209" end-line="1209">
+          <sp start-line="1209" end-line="1209" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1209">
             <speaker>Chorus</speaker>
             <lg start-line="1209" end-line="1209">
               <l>Mistress already of presaging art?</l>
             </lg>
           </sp>
             <pb n="52"/>
-          <sp start-line="1210" end-line="1210">
+          <sp start-line="1210" end-line="1210" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1210">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1210" end-line="1210">
               <l>Ay, to the townsmen all their woes I spelled.</l>
             </lg>
           </sp>
-          <sp start-line="1211" end-line="1211">
+          <sp start-line="1211" end-line="1211" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1211">
             <speaker>Chorus</speaker>
             <lg start-line="1211" end-line="1211">
               <l>How then by wrath of Loxias unharmed ?</l>
             </lg>
           </sp>
-          <sp start-line="1212" end-line="1212">
+          <sp start-line="1212" end-line="1212" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1212">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1212" end-line="1212">
               <l>No credence won I after this offence.</l>
             </lg>
           </sp>
-          <sp start-line="1213" end-line="1213">
+          <sp start-line="1213" end-line="1213" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1213">
             <speaker>Chorus</speaker>
             <lg start-line="1213" end-line="1213">
               <l>To us thy oracles seem all too true.</l>
             </lg>
           </sp>
-          <sp start-line="1214" end-line="1241">
+          <sp start-line="1214" end-line="1241" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1214-1241">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1214" end-line="1241">
               <l>Woe! woe! alas! alas! ye miseries !</l>
@@ -2713,7 +2787,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Me thou wilt own a prophet all too true.</l>
             </lg>
           </sp>
-          <sp start-line="1242" end-line="1245">
+          <milestone ed="p" n="1242" unit="card"/>
+          <sp start-line="1242" end-line="1245" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1242-1245">
             <speaker>Chorus</speaker>
             <lg start-line="1242" end-line="1245">
               <l>Thyestes' banquet of his children's flesh</l>
@@ -2722,68 +2797,68 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>The rest I heard, but follow not the track.</l>
             </lg>
           </sp>
-          <sp start-line="1246" end-line="1246">
+          <sp start-line="1246" end-line="1246" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1246">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1246" end-line="1246">
               <l>On Agamemnon dead, I say, thou'lt look.</l>
             </lg>
           </sp>
-          <sp start-line="1247" end-line="1247">
+          <sp start-line="1247" end-line="1247" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1247">
             <speaker>Chorus</speaker>
             <lg start-line="1247" end-line="1247">
               <l>Lull, poor forlorn one, thy ill-omened tongue.</l>
             </lg>
           </sp>
-          <sp start-line="1248" end-line="1248">
+          <sp start-line="1248" end-line="1248" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1248">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1248" end-line="1248">
               <l>Yet o'er this speech no healing god presides.</l>
             </lg>
           </sp>
-          <sp start-line="1249" end-line="1249">
+          <sp start-line="1249" end-line="1249" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1249">
             <speaker>Chorus</speaker>
             <lg start-line="1249" end-line="1249">
               <l>If be it must; but may it never be;</l>
             </lg>
           </sp>
-          <sp start-line="1250" end-line="1250">
+          <sp start-line="1250" end-line="1250" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1250">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1250" end-line="1250">
               <l>The while thou prayest, theirs it is to slay.</l>
             </lg>
           </sp>
           <pb n="54"/>
-          <sp start-line="1251" end-line="1251">
+          <sp start-line="1251" end-line="1251" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1251">
             <speaker>Chorus</speaker>
             <lg start-line="1251" end-line="1251">
               <l>What man deviseth this accursèd deed ?</l>
             </lg>
           </sp>
-          <sp start-line="1252" end-line="1252">
+          <sp start-line="1252" end-line="1252" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1252">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1252" end-line="1252">
               <l>Widely thy glance hath missed mine oracles.</l>
             </lg>
           </sp>
-          <sp start-line="1253" end-line="1253">
+          <sp start-line="1253" end-line="1253" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1253">
             <speaker>Chorus</speaker>
             <lg start-line="1253" end-line="1253">
               <l>Ay, for the plotter's scheme to me is dark.</l>
             </lg>
           </sp>
-          <sp start-line="1254" end-line="1254">
+          <sp start-line="1254" end-line="1254" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1254">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1254" end-line="1254">
               <l>Yet in Hellenic speech my words are couched.</l>
             </lg>
           </sp>
-          <sp start-line="1255" end-line="1255">
+          <sp start-line="1255" end-line="1255" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1255">
             <speaker>Chorus</speaker>
             <lg start-line="1255" end-line="1255">
               <l>So too are Pythian chants, yet hard to spell.</l>
             </lg>
           </sp>
-          <sp start-line="1256" end-line="1294">
+          <sp start-line="1256" end-line="1294" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1256-1294">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1256" end-line="1294">
               <l>Alas ! what fire is this! It seizes me.</l>
@@ -2831,7 +2906,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>While ebbs my life-blood, may I close mine eyes.</l>
             </lg>
           </sp>
-          <sp start-line="1295" end-line="1298">
+          <milestone ed="p" n="1295" unit="card"/>
+          <sp start-line="1295" end-line="1298" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1295-1298">
             <speaker>Chorus</speaker>
             <lg start-line="1295" end-line="1298">
               <l>Oh woman, thou most wretched and most wise;</l>
@@ -2841,93 +2917,93 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
           <pb n="56"/>
-          <sp start-line="1299" end-line="1299">
+          <sp start-line="1299" end-line="1299" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1299">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1299" end-line="1299">
               <l>There’s no escape; brief respite, nothing more.</l>
             </lg>
           </sp>
-          <sp start-line="1300" end-line="1300">
+          <sp start-line="1300" end-line="1300" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1300">
             <speaker>Chorus</speaker>
             <lg start-line="1300" end-line="1300">
               <l>Yet to be last is gain at least of time.</l>
             </lg>
           </sp>
-          <sp start-line="1301" end-line="1301">
+          <sp start-line="1301" end-line="1301" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1301">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1301" end-line="1301">
               <l>The day is come, small were my gain by flight.</l>
             </lg>
           </sp>
-          <sp start-line="1302" end-line="1302">
+          <sp start-line="1302" end-line="1302" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1302">
             <speaker>Chorus</speaker>
             <lg start-line="1302" end-line="1302">
               <l>Enduring art thou, and of dauntless mind.</l>
             </lg>
           </sp>
-          <sp start-line="1303" end-line="1303">
+          <sp start-line="1303" end-line="1303" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1303">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1303" end-line="1303">
               <l>Such words none heareth from the fortunate.</l>
             </lg>
           </sp>
-          <sp start-line="1304" end-line="1304">
+          <sp start-line="1304" end-line="1304" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1304">
             <speaker>Chorus</speaker>
             <lg start-line="1304" end-line="1304">
               <l>Yet dear to mortals is a glorious death.</l>
             </lg>
           </sp>
-          <sp start-line="1305" end-line="1305">
+          <sp start-line="1305" end-line="1305" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1305">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1305" end-line="1305">
               <l>Alas, my sire, for thee and thy brave sons!</l>
             </lg>
             <stage>She suddenly starts back.</stage>
           </sp>
-          <sp start-line="1306" end-line="1306">
+          <sp start-line="1306" end-line="1306" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1306">
             <speaker>Chorus</speaker>
             <lg start-line="1306" end-line="1306">
               <l>What may this mean ? What terror drives thee back ?</l>
             </lg>
           </sp>
-          <sp start-line="1307" end-line="1307">
+          <sp start-line="1307" end-line="1307" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1307">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1307" end-line="1307">
               <l>Alas! alas!</l>
             </lg>
           </sp>
-          <sp start-line="1308" end-line="1308">
+          <sp start-line="1308" end-line="1308" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1308">
             <speaker>Chorus</speaker>
             <lg start-line="1308" end-line="1308">
               <l>Why this alas, unless some horror scare thee?</l>
             </lg>
           </sp>
-          <sp start-line="1309" end-line="1309">
+          <sp start-line="1309" end-line="1309" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1309">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1309" end-line="1309">
               <l>Blood-reeking murder breatheth from these halls.</l>
             </lg>
           </sp>
               <pb n="57"/>
-          <sp start-line="1310" end-line="1310">
+          <sp start-line="1310" end-line="1310" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1310">
             <speaker>Chorus</speaker>
             <lg start-line="1310" end-line="1310">
               <l>'Tis but the scent of victims at the hearth.</l>
             </lg>
           </sp>
-          <sp start-line="1311" end-line="1311">
+          <sp start-line="1311" end-line="1311" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1311">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1311" end-line="1311">
               <l>Nay, but such breath as issues from a tomb.</l>
             </lg>
           </sp>
-          <sp start-line="1312" end-line="1312">
+          <sp start-line="1312" end-line="1312" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1312">
             <speaker>Chorus</speaker>
             <lg start-line="1312" end-line="1312">
               <l>No Syrian odour tell'st thou for the house.</l>
             </lg>
           </sp>
-          <sp start-line="1313" end-line="1320">
+          <sp start-line="1313" end-line="1320" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1313-1320">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1313" end-line="1320">
               <l>Well! I will go, within these palace halls</l>
@@ -2940,14 +3016,14 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Dying, this hospitable grace I crave.</l>
             </lg>
           </sp>
-          <sp start-line="1321" end-line="1321">
+          <sp start-line="1321" end-line="1321" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1321">
             <speaker>Chorus</speaker>
             <lg start-line="1321" end-line="1321">
               <l>Poor wretch ; Thy fateful doom my pity moves.</l>
             </lg>
           </sp>
-      
-          <sp start-line="1322" end-line="1330">
+
+          <sp start-line="1322" end-line="1330" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1322-1330">
             <speaker>CASSANDRA</speaker>
             <lg start-line="1322" end-line="1330">
               <l>Once more I fain would speak, but not to pour</l>
@@ -2966,7 +3042,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
              </div>
             </div>
                      <div type="textpart" subtype="stasimon" n="4">
-          <sp start-line="1331" end-line="1342">
+          <milestone ed="p" n="1331" unit="card"/>
+          <sp start-line="1331" end-line="1342" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1331-1342">
             <speaker>Chorus</speaker>
             <lg start-line="1331" end-line="1342">
               <l>All are of boundless weal insatiate ;—</l>
@@ -2987,28 +3064,32 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </div>
         <div type="textpart" subtype="episode" n="5">
           <head>Episode 5</head>
-        
-        <div type="textpart" subtype="trimeter" n="4"> 
-          <sp start-line="1343" end-line="1343">
+
+        <div type="textpart" subtype="trimeter" n="4">
+          <milestone ed="p" n="1343" unit="card"/>
+          <sp start-line="1343" end-line="1343" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1343">
             <speaker>AGAMEMNON</speaker>
             <stage>In the palace.</stage>
             <lg start-line="1343" end-line="1343">
               <l>Woe's me ! I'm smitten with a deadly blow !</l>
             </lg>
           </sp>
-          <sp start-line="1344" end-line="1344">
+          <milestone ed="p" n="1344" unit="card"/>
+          <sp start-line="1344" end-line="1344" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1344">
             <speaker>Chorus</speaker>
             <lg start-line="1344" end-line="1344">
               <l>Hush! Wounded unto death who lifts this cry.</l>
             </lg>
           </sp>
-          <sp start-line="1345" end-line="1345">
+          <milestone ed="p" n="1345" unit="card"/>
+          <sp start-line="1345" end-line="1345" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1345">
             <speaker>AGAMEMNON</speaker>
             <lg start-line="1345" end-line="1345">
               <l>Woe’s me ! Again ! a second time I'm struck.</l>
             </lg>
           </sp>
-          <sp start-line="1346" end-line="1347">
+          <milestone ed="p" n="1346" unit="card"/>
+          <sp start-line="1346" end-line="1347" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1346-1347">
             <speaker>Choraphæus</speaker>
             <lg start-line="1346" end-line="1347">
               <l>By the groaning of the monarch, wrought methinks is now the deed ;</l>
@@ -3016,7 +3097,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
            <pb n="59"/>
-          <sp start-line="1348" end-line="1371">
+          <milestone ed="p" n="1348" unit="card"/>
+          <sp start-line="1348" end-line="1371" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1348-1371">
             <speaker>Chorus</speaker>
             <lg start-line="1348" end-line="1349">
               <l>I. To you my counsel is to raise the cry,</l>
@@ -3068,12 +3150,14 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
                     <pb n="60"/>
-          <stage>The doors of the royal palace are thrown open ; CLYTEMNESTRA 
-            is discovered standing with the axe over her shoulder. Be­ 
-            hind her, under a cover, are the bodies of AGAMEMNON and 
+          <stage>The doors of the royal palace are thrown open ; CLYTEMNESTRA
+            is discovered standing with the axe over her shoulder. Be­
+            hind her, under a cover, are the bodies of AGAMEMNON and
             CASSANDRA.</stage>
-          
-          <sp start-line="1372" end-line="1398">
+
+          <milestone ed="p" n="1372" unit="card"/>
+
+          <sp start-line="1372" end-line="1398" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1372-1398">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="1372" end-line="1398">
               <l>Though much to suit the times before was said,</l>
@@ -3106,14 +3190,14 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>At home,-himself on his return drains off.</l>
             </lg>
           </sp>
-          <sp start-line="1399" end-line="1400">
+          <sp start-line="1399" end-line="1400" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1399-1400">
             <speaker>Chorus</speaker>
             <lg start-line="1399" end-line="1400">
               <l>We marvel at thy tongue, how bold thy speech,</l>
               <l>Who o'er thy husband makest so thy vaunt.</l>
             </lg>
           </sp>
-          <sp start-line="1401" end-line="1406">
+          <sp start-line="1401" end-line="1406" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1401-1406">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="1401" end-line="1406">
               <l>As witless woman are ye proving me ;</l>
@@ -3125,10 +3209,11 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
            </div>
-           
+
            <div type="textpart" subtype="strophe" n="1">
                       <head>Chorus. STROPHE I.</head>
-          <sp start-line="1407" end-line="1411">
+          <milestone ed="p" n="1407" unit="card"/>
+          <sp start-line="1407" end-line="1411" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1407-1411">
             <speaker>Chorus</speaker>
             <lg start-line="1407" end-line="1411">
               <l>O woman, what earth-nurtured bane,</l>
@@ -3140,7 +3225,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Huge hate of the townsmen blasting thee.</l>
             </lg>
           </sp>
-          <sp start-line="1412" end-line="1425">
+          <milestone ed="p" n="1412" unit="card"/>
+          <sp start-line="1412" end-line="1425" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1412-1425">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="1412" end-line="1425">
               <l>Me thou dost doom to exile,-to endure</l>
@@ -3163,7 +3249,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
            </div>
                  <div type="textpart" subtype="antistrophe" n="1">
                               <head>Chorus. ANTISTROPHE I.</head>
-          <sp start-line="1426" end-line="1430">
+          <milestone ed="p" n="1426" unit="card"/>
+          <sp start-line="1426" end-line="1430" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1426-1430">
             <speaker>Chorus</speaker>
             <lg start-line="1426" end-line="1430">
               <l>O haughty of council art thou ; —</l>
@@ -3175,10 +3262,11 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Death-blow with death-blow shalt expiate.</l>
             </lg>
           </sp>
-                  
+
         </div>
         <div type="textpart" subtype="trimeter" n="5">
-          <sp start-line="1431" end-line="1447">
+          <milestone ed="p" n="1431" unit="card"/>
+          <sp start-line="1431" end-line="1447" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1431-1447">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="1431" end-line="1447">
               <l>This solemn sanction of mine oaths thou hearest ;—</l>
@@ -3202,11 +3290,13 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
               </div>
-   
+
            <div type="textpart" subtype="strophe" n="1">
                       <head>Chorus. STROPHE I.</head>
 
-          <sp start-line="1448" end-line="1454">
+          <milestone ed="p" n="1448" unit="card"/>
+
+          <sp start-line="1448" end-line="1454" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1448-1454">
             <speaker>Chorus</speaker>
             <lg start-line="1448" end-line="1454">
               <l>Oh might some sudden Fate</l>
@@ -3221,10 +3311,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </sp>
            </div>
            <div type="textpart" subtype="strophe" n="2">
-          
+
                       <head>STROPHE II.</head>
 
-          <sp start-line="1455" end-line="1461">
+          <milestone ed="p" n="1455" unit="card"/>
+
+          <sp start-line="1455" end-line="1461" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1455-1461">
             <speaker>Chorus</speaker>
             <lg start-line="1455" end-line="1457">
               <l>Woe! frenzied Helen, woe !</l>
@@ -3237,9 +3329,9 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                    </div>
            <div type="textpart" subtype="strophe" n="3">
                   <head>STROPHE III.</head>
-                    <sp>
+                    <sp corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1455-1461">
             <speaker>Chorus</speaker>
-            
+
             <lg start-line="1458" end-line="1461">
               <l>And now the cureless woe,</l>
               <l>Heirloom of blood, shed long ago,</l>
@@ -3251,8 +3343,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
            <div type="textpart" subtype="strophe" n="4">
                    <pb n="64"/>
                         <head>STROPHE IV.</head>
- 
-          <sp start-line="1462" end-line="1467">
+
+          <milestone ed="p" n="1462" unit="card"/>
+
+          <sp start-line="1462" end-line="1467" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1462-1467">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="1462" end-line="1467">
               <l>Bowed beneath sorrow's weight,</l>
@@ -3268,7 +3362,10 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                          <head>ANTISTROPHE I.</head>
 
 
-          <sp start-line="1468" end-line="1474">
+          <milestone ed="p" n="1468" unit="card"/>
+
+
+          <sp start-line="1468" end-line="1474" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1468-1474">
             <speaker>Chorus</speaker>
             <lg start-line="1468" end-line="1474">
               <l>Demon, who now dost fall</l>
@@ -3283,7 +3380,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </sp>
                     </div>
            <div type="textpart" subtype="antistrophe" n="4">
-          <sp start-line="1475" end-line="1480">
+          <milestone ed="p" n="1475" unit="card"/>
+          <sp start-line="1475" end-line="1480" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1475-1480">
                        <head>ANTISTROPHE IV.</head>
 
             <speaker>CLYTEMNESTRA</speaker>
@@ -3301,7 +3399,9 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
            <div type="textpart" subtype="strophe" n="5">
              <head>STROPHE V.</head>
 
-          <sp start-line="1481" end-line="1488">
+          <milestone ed="p" n="1481" unit="card"/>
+
+          <sp start-line="1481" end-line="1488" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1481-1488">
             <speaker>Chorus</speaker>
             <lg start-line="1481" end-line="1488">
               <l>Mighty the demon, dire his hate,</l>
@@ -3318,7 +3418,9 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
            <div type="textpart" subtype="strophe" n="6">
                         <head>STROPHE VI.</head>
 
- <sp start-line="1489" end-line="1493">
+ <milestone ed="p" n="1489" unit="card"/>
+
+ <sp start-line="1489" end-line="1493" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1489-1493">
             <speaker>Chorus</speaker>
             <lg start-line="1489" end-line="1493">
               <l>Woe ! woe!</l>
@@ -3331,7 +3433,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
                        </div>
            <div type="textpart" subtype="strophe" n="7">
                <head>STROPHE VII.</head>
-  <sp start-line="1494" end-line="1496">
+  <sp start-line="1494" end-line="1496" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1494-1496">
             <speaker>Chorus</speaker>
             <lg start-line="1494" end-line="1496">
               <l>Ah me! ah me! to death betrayed,</l>
@@ -3340,11 +3442,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
                    </div>
-                     
+
            <div type="textpart" subtype="strophe" n="8">
 
             <head>STROPHE VIII.</head>
-          <sp start-line="1497" end-line="1504">
+          <milestone ed="p" n="1497" unit="card"/>
+          <sp start-line="1497" end-line="1504" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1497-1504">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="1497" end-line="1504">
               <l>Dost boast as mine this deed ?</l>
@@ -3359,14 +3462,15 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
                  </div>
-                
-                  <milestone ed="p" n="1505" unit="card"/>
+
+
 
            <div type="textpart" subtype="antistrophe" n="5">
 
           <pb n="66"/>
             <head>ANTISTROPHE V.</head>
-          <sp start-line="1505" end-line="1512">
+          <milestone ed="p" n="1505" unit="card"/>
+          <sp start-line="1505" end-line="1512" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1505-1512">
             <speaker>Chorus</speaker>
             <lg start-line="1505" end-line="1512">
               <l>That thou art guiltless of this blood</l>
@@ -3380,10 +3484,11 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg></sp>
                       </div>
            <div type="textpart" subtype="antistophe" n="6">
-                      <milestone ed="p" n="1513" unit="card"/>
+
 
             <head>ANTISTROPHE VI.</head>
-            <sp start-line="1513" end-line="1520">
+            <milestone ed="p" n="1513" unit="card"/>
+            <sp start-line="1513" end-line="1520" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1513-1520">
 <speaker>Chorus.</speaker>
             <lg start-line="1513" end-line="1517">
               <l>Woe ! woe!</l>
@@ -3392,7 +3497,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Entangled in the spider's guileful snare,</l>
               <l>In impious death thy life thou dost exhale.</l>
             </lg>
-            <milestone ed="p" n="1518" unit="card"/>
+
             <head>ANTISTROPHE VII.</head>
             <lg start-line="1518" end-line="1520">
               <l>Ah me ! ah me! to death betrayed,</l>
@@ -3401,10 +3506,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
                      </div>
-                        <milestone ed="p" n="1521" unit="card"/>
+
            <div type="textpart" subtype="antistrophe" n="8">
 
-          <sp start-line="1521" end-line="1529">
+          <milestone ed="p" n="1521" unit="card"/>
+
+          <sp start-line="1521" end-line="1529" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1521-1529">
             <speaker>CLYTEMNESTRA</speaker>
             <head>ANTISTROPHE VIII.</head>
             <lg start-line="1521" end-line="1529">
@@ -3422,10 +3529,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </sp>
 
                      </div>
-                           <milestone ed="p" n="1530" unit="card"/>
+
            <div type="textpart" subtype="strophe" n="9">
 
-          <sp start-line="1530" end-line="1536">
+          <milestone ed="p" n="1530" unit="card"/>
+
+          <sp start-line="1530" end-line="1536" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1530-1536">
             <speaker>Chorus</speaker>
             <head>STROPHE IX.</head>
             <lg start-line="1530" end-line="1536">
@@ -3438,10 +3547,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>On other whetstones, whetteth vengeance due.</l>
             </lg></sp>
                       </div>
-                          
+
            <div type="textpart" subtype="antistrophe" n="2">
-    <milestone ed="p" n="1537" unit="card"/>
-            <sp start-line="1537" end-line="1550">
+
+            <milestone ed="p" n="1537" unit="card"/>
+
+            <sp start-line="1537" end-line="1550" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1537-1550">
 <speaker>Chorus.</speaker>
             <head>ANTISTROPHE II.</head>
             <lg start-line="1537" end-line="1546">
@@ -3454,13 +3565,13 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Wilt to his shade, for the great deeds he wrought,</l>
               <l>Render a graceless grace, with malice fraught ?</l>
             </lg>
-            <milestone ed="p" n="1551" unit="card"/>
+
           </sp>
                                 </div>
-                          
+
            <div type="textpart" subtype="antistrophe" n="3">
             <head>ANTISTROPHE III.</head>
-            <sp><speaker>Chorus.</speaker>
+            <sp corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1537-1550"><speaker>Chorus.</speaker>
             <lg start-line="1547" end-line="1550">
               <l>With tears of honest grief</l>
               <l>Weeping the godlike chief,</l>
@@ -3469,10 +3580,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
                      </div>
-               <milestone ed="p" n="1547" unit="card"/>
+
            <div type="textpart" subtype="strophe" n="10">
 
-          <sp start-line="1551" end-line="1559">
+          <milestone ed="p" n="1551" unit="card"/>
+
+          <sp start-line="1551" end-line="1559" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1551-1559">
             <speaker>CLYTEMNESTRA</speaker>
             <head>STROPHE X.</head>
             <lg start-line="1551" end-line="1559">
@@ -3490,11 +3603,13 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
                      </div>
-                  <milestone ed="p" n="1560" unit="card"/>
+
            <div type="textpart" subtype="antistrophe" n="9">
             <head>ANTISTROPHE IX.</head>
- 
-          <sp start-line="1560" end-line="1566">
+
+          <milestone ed="p" n="1560" unit="card"/>
+
+          <sp start-line="1560" end-line="1566" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1560-1566">
             <speaker>Chorus</speaker>
             <lg start-line="1560" end-line="1566">
               <l>That taunt still answers taunt we see.</l>
@@ -3508,10 +3623,12 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           </sp>
 
                      </div>
-                     <milestone ed="p" n="1567" unit="card"/>
+
            <div type="textpart" subtype="antistrophe" n="10">
 
-          <sp start-line="1567" end-line="1576">
+          <milestone ed="p" n="1567" unit="card"/>
+
+          <sp start-line="1567" end-line="1576" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1567-1576">
             <speaker>CLYTEMNESTRA</speaker>
             <head>ANTISTROPHE X.</head>
             <lg start-line="1567" end-line="1576">
@@ -3527,15 +3644,16 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
           </div>
-            
-         
-        
-      
- <milestone ed="p" n="1577" unit="card"/>
+
+
+
+
+
           <stage>Enter ÆGISTHOS, arrayed in royal robes, and with armed attendants.</stage>
           <div type="textpart" subtype="trimeter" n="6">
             <head>Trimeter</head>
-          <sp start-line="1577" end-line="1611">
+          <milestone ed="p" n="1577" unit="card"/>
+          <sp start-line="1577" end-line="1611" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1577-1611">
             <speaker>ÆGISTHOS</speaker>
             <lg start-line="1577" end-line="1611">
               <l>Hail, joyous light of justice-bearing day!</l>
@@ -3578,7 +3696,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Seeing this man entrapped in Justice' toils.</l>
             </lg>
           </sp>
-          <sp start-line="1612" end-line="1616">
+          <sp start-line="1612" end-line="1616" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1612-1616">
             <speaker>Chorus</speaker>
             <lg start-line="1612" end-line="1616">
               <l>To honour insolence in guilt, Aegisthos,</l>
@@ -3589,7 +3707,8 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>The curse of stoning by the people's hand.</l>
             </lg>
           </sp>
-          <sp start-line="1617" end-line="1624">
+          <milestone ed="p" n="1617" unit="card"/>
+          <sp start-line="1617" end-line="1624" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1617-1624">
             <speaker>ÆGISTHOS</speaker>
             <lg start-line="1617" end-line="1624">
               <l>Plying the lowest oar, dost menace us</l>
@@ -3602,7 +3721,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Kick not, lest stumbling, thou shouldst come to grief.</l>
             </lg>
           </sp>
-          <sp start-line="1625" end-line="1627">
+          <sp start-line="1625" end-line="1627" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1625-1627">
             <speaker>Chorus</speaker>
             <lg start-line="1625" end-line="1627">
               <l>Woman, house-mate to him from recent war</l>
@@ -3610,7 +3729,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Death thou didst plot against this warrior chief.</l>
             </lg>
           </sp>
-          <sp start-line="1628" end-line="1632">
+          <sp start-line="1628" end-line="1632" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1628-1632">
             <speaker>ÆGISTHOS</speaker>
             <lg start-line="1628" end-line="1632">
               <l>These words will fountains be of bitter tears.</l>
@@ -3622,7 +3741,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>show.</l>
             </lg>
           </sp>
-          <sp start-line="1633" end-line="1635">
+          <sp start-line="1633" end-line="1635" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1633-1635">
             <speaker>Chorus</speaker>
             <lg start-line="1633" end-line="1635">
               <l>Shalt thou be ruler of the Argives, thou,</l>
@@ -3630,7 +3749,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Didst courage lack to strike the blow thyself?</l>
             </lg>
           </sp>
-          <sp start-line="1636" end-line="1642">
+          <sp start-line="1636" end-line="1642" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1636-1642">
             <speaker>ÆGISTHOS</speaker>
             <lg start-line="1636" end-line="1642">
               <l>To spread the snare was plainly woman's part,</l>
@@ -3643,7 +3762,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>Darkness' grim comrade, Famine, shall see tamed.</l>
             </lg>
           </sp>
-          <sp start-line="1643" end-line="1648">
+          <sp start-line="1643" end-line="1648" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1643-1648">
             <speaker>Chorus</speaker>
             <lg start-line="1643" end-line="1648">
               <l>This man why didst thou not, O base of soul,</l>
@@ -3655,44 +3774,46 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
                    </div>
-               <milestone ed="p" n="1649" unit="card"/>
+
            <div type="textpart" subtype="close" met="trochaic" n="1">
             <head>Trochaic</head>
 
-          <sp start-line="1649" end-line="1650">
+          <milestone ed="p" n="1649" unit="card"/>
+
+          <sp start-line="1649" end-line="1650" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1649-1650">
             <speaker>ÆGISTHOS</speaker>
             <lg start-line="1649" end-line="1649">
               <l>Since thou art minded thus to act, not talk alone,</l>
               <l>know quickly.</l>
               <l>* * * * *</l>
             </lg>
-       
+
           <pb n="72"/>
           <stage>To his attendants.</stage>
-       
+
             <lg start-line="1650" end-line="1650">
               <l>Come on, my faithful body-guard, the fray is not far distant.</l>
             </lg>
           </sp>
-          <sp start-line="1651" end-line="1651">
+          <sp start-line="1651" end-line="1651" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1651">
             <speaker>Chorus</speaker>
             <lg start-line="1651" end-line="1651">
               <l>Come on then, and with hand on hilt, his sword let each make ready.</l>
             </lg>
           </sp>
-          <sp start-line="1652" end-line="1652">
+          <sp start-line="1652" end-line="1652" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1652">
             <speaker>ÆGISTHOS</speaker>
             <lg start-line="1652" end-line="1652">
               <l>Be well assured, with hand on hilt, to die I too refuse not.</l>
             </lg>
           </sp>
-          <sp start-line="1653" end-line="1653">
+          <sp start-line="1653" end-line="1653" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1653">
             <speaker>Chorus</speaker>
             <lg start-line="1653" end-line="1653">
               <l>To die,—thine utterance we accept, and take as thy death-omen.</l>
             </lg>
           </sp>
-          <sp start-line="1654" end-line="1661">
+          <sp start-line="1654" end-line="1661" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1654-1661">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="1654" end-line="1661">
               <l>Dearest of husbands let us not, I pray, work further mischief.</l>
@@ -3706,7 +3827,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
             </lg>
           </sp>
           <pb n="73"/>
-          <sp start-line="1662" end-line="1664">
+          <sp start-line="1662" end-line="1664" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1662-1664">
             <speaker>ÆGISTHOS</speaker>
             <lg start-line="1662" end-line="1664">
               <l>To think that their vain tongue 'gainst me into such speech should blossom;-</l>
@@ -3714,50 +3835,50 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
               <l>They against sober reason err, thus to insult their ruler.</l>
             </lg>
           </sp>
-          <sp start-line="1665" end-line="1665">
+          <sp start-line="1665" end-line="1665" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1665">
             <speaker>Chorus</speaker>
             <lg start-line="1665" end-line="1665">
               <l>Upon the evil man to fawn is not the wont of Argives.</l>
             </lg>
           </sp>
-          <sp start-line="1666" end-line="1666">
+          <sp start-line="1666" end-line="1666" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1666">
             <speaker>ÆGISTHOS</speaker>
             <lg start-line="1666" end-line="1666">
               <l>But, be assured, some future day, I yet shall overtake you.</l>
             </lg>
           </sp>
-          <sp start-line="1667" end-line="1667">
+          <sp start-line="1667" end-line="1667" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1667">
             <speaker>Chorus</speaker>
             <lg start-line="1667" end-line="1667">
               <l>Not so if hither to return some god should guide Orestes.</l>
             </lg>
           </sp>
-          <sp start-line="1668" end-line="1668">
+          <sp start-line="1668" end-line="1668" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1668">
             <speaker>ÆGISTHOS</speaker>
             <lg start-line="1668" end-line="1668">
               <l>Full well I know that exiles still on hopes are wont to batten.</l>
             </lg>
           </sp>
-          <sp start-line="1669" end-line="1669">
+          <sp start-line="1669" end-line="1669" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1669">
             <speaker>Chorus</speaker>
             <lg start-line="1669" end-line="1669">
               <l>Work as thou listest. Gorge thy fill. Stain justice. Thou canst do it.</l>
             </lg>
           </sp>
-          <sp start-line="1670" end-line="1670">
+          <sp start-line="1670" end-line="1670" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1670">
             <speaker>ÆGISTHOS</speaker>
             <lg start-line="1670" end-line="1670">
               <l>Be sure that thou to me shalt pay the forfeit of thy folly.</l>
             </lg>
           </sp>
-          <sp start-line="1671" end-line="1671">
+          <sp start-line="1671" end-line="1671" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1671">
             <speaker>Chorus</speaker>
             <lg start-line="1671" end-line="1671">
               <l>Be boastful and be bold, like cock beside his partner strutting.</l>
             </lg>
           </sp>
           <pb n="74"/>
-          <sp start-line="1672" end-line="1673">
+          <sp start-line="1672" end-line="1673" corresp="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2:1672-1673">
             <speaker>CLYTEMNESTRA</speaker>
             <lg start-line="1672" end-line="1673">
               <l>These senseless barkings heed not thou ; thyself and I together,</l>
@@ -3775,7 +3896,7 @@ to Welcker's <title>Griechische Götterlehre</title>, Kuhn's
           <head>NOTES TO THE AGAMEMNON.</head>
                <head>AGAMEMNON.</head>
           <p>My friend the translator wishing to obviate the charge of arbitrarily departing from Aeschylus, requests me to draw up a list of the conjectural emendations of the text which I have suggested. Space forbids my here justifying them. I will state them as briefly as I can. F. W. N.</p>
-     
+
           <p><label>VERSE 7.</label> Omit <quote xml:lang="grc">ἀστέρας</quote> as an interpretation of <quote xml:lang="grc">δυνάστας</quote>, and read <quote xml:lang="grc">ὅταν φθίνωσιν, ἀντολάς τε τῶνδ᾽, ὁρῶ</quote>.</p>
           <p><label>10, 11.</label> Read <quote xml:lang="grc">ἐλπίζει</quote> for <quote xml:lang="grc">ἐλπίζω</quote>, and retain the infinitive <quote xml:lang="grc">κρατεῖν</quote>. Then <quote xml:lang="grc">κέαρ</quote> is nominative, and <quote xml:lang="grc">ὧδε κρατεῖν</quote> refers to the capture of Troy, <gloss>get such mastery.</gloss></p>
           <p><label>138.</label> For <quote xml:lang="grc">τόσσον περ εὔφρων καλὰ</quote> . . . read—
@@ -3832,7 +3953,7 @@ read (until we get something better)—
             (for vulg., <quote xml:lang="grc">ὅσια</quote>).</p>
           <p><label>776.</label> Adopting from Franke <quote xml:lang="grc">ἐκ θυσιῶν</quote> for <quote xml:lang="grc">ἑκούσιον</quote>, read also <quote xml:lang="grc">θρήσκοισι</quote> for <quote xml:lang="grc">θνήσκουσι</quote>, which cannot be right. Then, we get
             “ <quote xml:lang="grc"><l>θράσος ἐκ θυσιῶν</l>
-<l>ἄνδρασι θρήσκοισι κομίζων.</l></quote> 
+<l>ἄνδρασι θρήσκοισι κομίζων.</l></quote>
             “infusing into religious men confidence from the sacrifices.”</p>
           <p><label>844.</label> <quote xml:lang="grc">Πολλὴν . . . λέγω.</quote> Schutz, if I remember, regards the line as spurious, and with good reason. <quote xml:lang="grc">Πολλὴν ἄνωθεν</quote> has come from <quote xml:lang="grc">πολλὰς ἄνωθεν</quote> just above; and he imagines a commentator to have expounded the second Geryon to be Agamemnon : <quote xml:lang="grc">τὸν κάτω γὰρ οὐ λέγει ;</quote> “ for he does not mean the Geryon below.”</p>
           <pb n="78"/>
@@ -3846,7 +3967,7 @@ read (until we get something better)—
             then strophe and antistrophe become commensurate. Perhaps in 1497 <quote xml:lang="grc">doλig</quote> should be <quote xml:lang="grc">dovλí</quote>, and in 1501 <quote xml:lang="grc">δολίαν</quote> should be <quote xml:lang="grc">δούλιον</quote>, which the argument from <quote xml:lang="grc">ἀνελεύθερον</quote> seems to demand. (Indeed the metre of <quote xml:lang="grc">doλío</quote> in 1497 is not satisfactory.) Yet the argument of <quote xml:lang="grc">ovde yàp</quote> in 1501 remains obscure or strained.</p>
           <p><label>1610.</label> For <quote xml:lang="grc">ἄξει</quote> read <quote xml:lang="grc">ἔχθει</quote>, in contrast to <quote xml:lang="grc">χαρᾷ</quote>.</p>
           <p><label>1618.</label> For <quote xml:lang="grc">σειραφόρον</quote> read <quote xml:lang="grc">σειραφόρων</quote>: “ bands heavier than common harness.”</p>
-      
+
 </div>
 </body>
 </text>
