@@ -1,0 +1,103 @@
+[
+  {
+    "work": "Augustus",
+    "reference": "51.1",
+    "pdf_page": 235,
+    "printed_page": 205,
+    "reading_1914": "Not to give the full list of the men of the opposite faction whom he not only pardoned and spared, but allowed to hold high positions in the state",
+    "finding": "The 1914 PDF agrees with the supplied 1970 OCR against the recast legacy XML. The XML discrepancy is not explained by these two printing dates; the cause of the alteration is not established."
+  },
+  {
+    "work": "Augustus",
+    "reference": "53.3",
+    "pdf_page": 239,
+    "printed_page": 209,
+    "reading_1914": "resolved to end his life by starvation",
+    "finding": "Both supplied printings support this wording, not the legacy XML's starve himself to death."
+  },
+  {
+    "work": "Augustus",
+    "reference": "60.1",
+    "pdf_page": 247,
+    "printed_page": 217,
+    "reading_1914": "contribute the funds for finishing the temple of Jupiter Olympius",
+    "finding": "Both supplied printings support this wording; the recast legacy XML is not used as the base."
+  },
+  {
+    "work": "Augustus",
+    "reference": "61.1",
+    "pdf_page": 247,
+    "printed_page": 217,
+    "reading_1914": "Now that I have shown how he conducted himself in civil and military positions, and in ruling the State in all parts of the world in peace and in war",
+    "finding": "Both supplied printings support this wording; retain the printed sentence rather than the recast legacy version."
+  },
+  {
+    "work": "Caligula",
+    "reference": "18.2",
+    "pdf_page": 461,
+    "printed_page": 431,
+    "reading_1914": "gifts",
+    "finding": "Genuine printing difference: the 1914 PDF reads gifts; the 1970 OCR reads gift-tokens. Use gifts in the 1914 base."
+  },
+  {
+    "work": "Caligula",
+    "reference": "50.1",
+    "pdf_page": 511,
+    "printed_page": 481,
+    "reading_1914": "a huge body",
+    "finding": "Genuine printing difference: the 1970 OCR reads an unshapely body. Use a huge body in the 1914 base."
+  },
+  {
+    "work": "Caligula",
+    "reference": "58.2",
+    "pdf_page": 525,
+    "printed_page": 495,
+    "reading_1914": "Do your duty,",
+    "finding": "Genuine printing difference: the 1970 OCR reads Take that. The legacy wording Do your duty is supported by this 1914 scan."
+  },
+  {
+    "work": "Tiberius",
+    "reference": "14.4",
+    "pdf_page": 347,
+    "printed_page": 317,
+    "reading_1914": "as an adept in the art",
+    "finding": "Genuine printing difference: the 1970 OCR reads a learned man. Use the 1914 wording."
+  },
+  {
+    "work": "Tiberius",
+    "reference": "42.2",
+    "pdf_page": 383,
+    "printed_page": 353,
+    "reading_1914": "He established a new office",
+    "finding": "The PDF has He, not the later Finally he. The legacy 1951 annotation documents the alternative; it is not Gemini translation."
+  },
+  {
+    "work": "Tiberius",
+    "reference": "48.2",
+    "pdf_page": 389,
+    "printed_page": 359,
+    "reading_1914": "a hundred denarii",
+    "finding": "The 1914 PDF reads a hundred; the 1970 OCR reads a thousand. The 1914 reading is retained without emendation from the Latin."
+  },
+  {
+    "work": "Tiberius",
+    "reference": "61.1",
+    "pdf_page": 407,
+    "printed_page": 377,
+    "reading_1914": "grandsons and grand-daughter",
+    "finding": "Genuine printing difference: the 1970 OCR reads daughter-in-law. The legacy grand-daughter is attested in 1914."
+  },
+  {
+    "work": "Tiberius",
+    "reference": "43–47",
+    "pdf_page": 385,
+    "additional_pdf_pages": [
+      383,
+      387,
+      389
+    ],
+    "printed_page": 355,
+    "reading_1914": "XLV. How grossly he was in the habit of",
+    "finding": "Chapters 43–44 are Latin in the English column; 45–47 already have English translation in 1914. Use Gemini supplements only for 43–44, retaining inherited 45–47 separately as archival alternatives."
+  }
+]

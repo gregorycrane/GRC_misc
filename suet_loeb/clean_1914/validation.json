@@ -1,0 +1,122 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "check": "Original PDF checksum",
+      "passed": true
+    },
+    {
+      "check": "Volume 1 page count",
+      "passed": true
+    },
+    {
+      "check": "Volume 2 page count",
+      "passed": true
+    },
+    {
+      "check": "All 1094 PDF pages, images, XML IDs and reader texts agree",
+      "passed": true
+    },
+    {
+      "check": "Fresh OCR source equals XML and reader without lexical changes",
+      "passed": true
+    },
+    {
+      "check": "OCR quality ledger covers every page",
+      "passed": true
+    },
+    {
+      "check": "Only chapters 43 and 44 active",
+      "passed": true
+    },
+    {
+      "check": "Chapter 43 supplement unchanged",
+      "passed": true
+    },
+    {
+      "check": "Chapter 44 supplement unchanged",
+      "passed": true
+    },
+    {
+      "check": "All five inherited chapters retained in reader",
+      "passed": true
+    },
+    {
+      "check": "59 distinct decisions, 58 anchors, one rejected extra",
+      "passed": true
+    },
+    {
+      "check": "Reader decisions identical to review record",
+      "passed": true
+    },
+    {
+      "check": "Complete legacy ledger preserved",
+      "passed": true
+    },
+    {
+      "check": "All 44 legacy decisions consistent",
+      "passed": true
+    },
+    {
+      "check": "unattributed-notes.csv",
+      "passed": true
+    },
+    {
+      "check": "remaining-unresolved-attachments.csv",
+      "passed": true
+    },
+    {
+      "check": "remaining-marker-candidates.csv",
+      "passed": true
+    },
+    {
+      "check": "newly-located-source-notes.csv",
+      "passed": true
+    },
+    {
+      "check": "All 14 previously confirmed missing notes resolved",
+      "passed": true
+    },
+    {
+      "check": "12 wording findings retained",
+      "passed": true
+    },
+    {
+      "check": "P011 corrected attachment",
+      "passed": true
+    },
+    {
+      "check": "P024 corrected attachment",
+      "passed": true
+    },
+    {
+      "check": "P027 corrected attachment",
+      "passed": true
+    },
+    {
+      "check": "P028 corrected attachment",
+      "passed": true
+    },
+    {
+      "check": "P029 corrected attachment",
+      "passed": true
+    },
+    {
+      "check": "Three missing Titus 7.3 markers verified",
+      "passed": true
+    },
+    {
+      "check": "Every evidence image link resolves",
+      "passed": true
+    },
+    {
+      "check": "1914 image-first reader and unresolved status visible",
+      "passed": true
+    }
+  ],
+  "check_count": 28,
+  "limitations": [
+    "No claim of full OCR proofreading or TEI schema validation.",
+    "Browser visual preview unavailable because local-file navigation was blocked."
+  ]
+}

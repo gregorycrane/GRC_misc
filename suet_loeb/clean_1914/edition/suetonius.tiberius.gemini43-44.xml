@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="suetonius-tiberius-gemini43-44">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tiberius 43–44 — Gemini-attributed English supplements</title>
+        <author>Suetonius</author>
+        <respStmt>
+          <resp>Printed English translation</resp>
+          <name>J. C. Rolfe</name>
+        </respStmt>
+        <respStmt xml:id="gemini3">
+          <resp>Supplementary translation attributed in inherited XML</resp>
+          <name>Gemini 3</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Local 1914 source edition, 2026-09-07; OCR not fully proofread.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl xml:id="pdf1914">
+          <title>Suetonius, with an English translation by J. C. Rolfe</title>
+          <date>1914</date>
+          <publisher>William Heinemann / The Macmillan Co.</publisher>
+          <note>Both title pages read MCMXIV. User-supplied PDF SHA-256: e65a37e8a86867ac3e651546266b4860dc66fa69da618715034b101148d288c5</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>The facsimile is the textual authority. OCR is newly generated from the PDF, with no lexical rewriting. Verified footnote attachments are recorded separately with witness-specific evidence. No text from 1970 is silently substituted.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Supplementary English — Gemini 3 attribution inherited from legacy XML</head>
+      <p>These two chapters are untranslated in the English column of the 1914 print. The inherited prose is preserved without rewriting. Chapters 45–47 already have Rolfe English and are retained only as archival alternatives in sources/inherited-gemini43-47.xml.</p>
+      <div type="supplement" subtype="chapter" n="43" resp="#gemini3" xml:id="gemini-tib-43" xml:lang="en">
+        <head>Tiberius 43 — Gemini-attributed legacy supplement</head>
+        <div type="textpart" subtype="section" n="1">
+          <p>In his retirement at Capreae he also devised a seat of secret debauchery, where a select choir of girls and young men, and the inventors of unnatural vices, whom he called spintriae, connected in a triple row, prostituted themselves in one another's presence, to rouse his waning passions by the spectacle.</p>
+        </div>
+        <div type="textpart" subtype="section" n="2">
+          <p> He had several chambers set apart and furnished with the most lascivious of pictures and statues, as well as with the books of Elephantis, so that no one might lack a model for the posture which he was directed to assume. In the woods too and the groves he had places of gratification of all sorts, where youths and maidens in the guise of Pans and nymphs prostituted themselves in caves and hollow rocks; so that because of this and the name of the island people used to call him Caprineus in open banter.</p>
+        </div>
+      </div>
+      <div type="supplement" subtype="chapter" n="44" resp="#gemini3" xml:id="gemini-tib-44" xml:lang="en">
+        <head>Tiberius 44 — Gemini-attributed legacy supplement</head>
+        <div type="textpart" subtype="section" n="1">
+          <p>He became guilty of still greater and more shameful vice, which it is hardly possible even to describe or to hear, much less to believe: he trained little boys of the most tender years, whom he called his minnows, to play between his legs while he was in the bath and nibble at him, and also, when they were a little older, but still unweaned, to take his private parts in their mouths as they would the breast; for his age and natural inclinations made him eager for this form of lust.</p>
+        </div>
+        <div type="textpart" subtype="section" n="2">
+          <p>Hence when a picture of Parrhasius was left him as a legacy, representing Atalanta in the act of complying with the desires of Meleager by her mouth, with the proviso that if he was offended by the subject, he might receive a million sesterces in its stead, he not only chose the picture, but even hung it in his bedroom. It is even said that once during a sacrifice he was so taken with the beauty of the boy who carried the incense-box, that he could not resist taking him aside and abusing him almost before the rites were finished, and his brother the flute-player as well; and that soon afterwards he had the legs of both broken, because they reproached one another for their disgrace.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

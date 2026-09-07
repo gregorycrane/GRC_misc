@@ -1,0 +1,259 @@
+--- phi1348.abo012.rolfe-eng1-alison.xml (before)
++++ phi1348.abo012.rolfe-eng1-alison.xml (reviewed)
+@@ -43,6 +43,11 @@
+             <title>Loeb Classical Library</title>
+           </series>
+         </biblStruct>
++
++        <listBibl>
++          <bibl xml:id="alison-witness-1914">J. C. Rolfe, Suetonius, volume I, 1914. User-supplied Suetonius_Loeb-rolfe.pdf; volume title page dated MCMXIV. PDF page = printed page + 30 in the Augustus text. SHA-256: e65a37e8a86867ac3e651546266b4860dc66fa69da618715034b101148d288c5.</bibl>
++          <bibl xml:id="alison-witness-1970">J. C. Rolfe, Suetonius, volume I, 1970 impression, revised 1951; supplied Hathi OCR export suetonius-loeb01-uc1-32106005388886-1788786343.txt. This is a comparison witness, not authority for silently replacing 1914 readings. Claims specifically labelled 1951 in inherited notes are preserved; they have not all been independently verified against a 1951 copy.</bibl>
++        </listBibl>
+       </sourceDesc>
+     </fileDesc>
+     <encodingDesc>
+@@ -59,7 +64,8 @@
+ 
+       <editorialDecl>
+         <correction method="silent" status="medium">
+-          <p>Gemini scan of PDF</p>
++          <p>Gemini scan of PDF (inherited description). The file subsequently received substantial manual repairs, recorded in existing comments and notes. Their dates and authors are not reconstructed here.</p>
++          <p>Review of 2026-09-07 preserves the existing chapter/section structure, every note, and every earlier comment. The intended base remains 1914. Later-edition alternatives are retained; their labelling is incomplete. Source-supported corrections and unresolved comparisons are recorded in the companion alison-review directory. No complete footnote-coverage or word-level certification is claimed.</p>
+         </correction>
+       </editorialDecl>
+ 
+@@ -73,6 +79,7 @@
+     </profileDesc>
+     <revisionDesc>
+       <change when="2026-04-03" who="Gemini">First version</change>
++      <change when="2026-09-07">Codex: targeted review of the existing Alison XML, not a replacement edition. See <ref target="alison-review/REPORT.md">state-of-work report</ref> and <ref target="alison-review/changes.json">exact correction inventory</ref>. Twenty-nine source-supported text corrections, one later-addition source label, and one responsibility-attribute correction; original notes, citation divisions and comments preserved. Wording comparison candidates still require review.</change>
+     </revisionDesc>
+   </teiHeader>
+   <text>
+@@ -184,7 +191,7 @@
+                 money-changer from Nerulum kneaded into shape with hands stained with filthy
+                 lucre.</q><note resp="editor">According to the Thes. Ling. Lat. s.v. collybus,
+                 Suetonius misunderstood the meaning of Cassius, who used collybus in the sense of a
+-                kind of cake. In general, see Scott Mem. Amer. Acad. in Rome, xi. 12f.</note></p>
++                kind of cake. <seg type="later-edition-addition" source="#alison-witness-1970">In general, see Scott Mem. Amer. Acad. in Rome, xi. 12f.</seg></note></p>
+             <!-- Missed the last sentence of the note V1951-->
+             <pb n="129"/>
+           </div>
+@@ -969,7 +976,7 @@
+           </div>
+           <div type="textpart" subtype="section"
+             xml:base="urn:cts:latinLit:phi1348.abo012.rolfe-eng1:29" n="4">
+-            <p> He constructed some works too in the name of others, his grandsons<note n="grc">1951
++            <p> He constructed some works too in the name of others, his grandsons<note resp="grc">1951
+                 edition: grandsons and nephews</note> to wit, his wife and his sister, such as the
+               colonnade and basilica of Gaius <note resp="editor">12 B.C.</note> and Lucius also the
+               colonnades of Livia and <note resp="editor">15 &amp; 33 B.C.</note> Octavia, and the
+@@ -1306,7 +1313,7 @@
+               appointments from among the knights, with the understanding that after their term they
+               might remain in whichever order they wished. Morever, since many knights whose
+               property was diminished during the civil wars did not venture to view the games from
+-              the fourteen rows <note resp="editor">See not on Jul. xxxix. 2, and cf. chap
++              the fourteen rows <note resp="editor">See note on Jul. xxxix. 2, and cf. chap
+                 XIV</note>
+               <!-- MISSED NOTE --> through fear of the penalty of the law regarding theatres,
+               he declared that none were liable to its provisions, if they themselves or their
+@@ -1594,8 +1601,7 @@
+               increase and multiply, he admitted to the equestrian military career<note
+                 resp="editor">That is, appointed them to the offices of tribunus cohortis,
+                 praefectus alae, and tribunus legionis, usually open only to knights.</note> those
+-              who were recommended by any town, while to those of the commons who could lay claim to
+-              legitimate sons or daughters when he made his rounds of the districts he distributed a
++              who were recommended by any town, while to those of the commons who could lay claim to worthy sons and daughters when he made his rounds of the city he distributed a
+               thousand sesterces for each child.</p>
+           </div>
+         </div>
+@@ -1609,8 +1615,7 @@
+               proconsular governors selected by lot. But he changed some of them at times from one
+               class to the other, and often visited many of both sorts. Certain of the cities which
+               had treaties with Rome, but were on the road to ruin through their lawlessness, he
+-              deprived of their independence; others, which were overwhelmed with debt, he relieved;
+-              some, which had been destroyed by earthquakes, he rebuilt; and he gave Latin
++              deprived of their independence; he relieved others that were overwhelmed with debt, rebuilt some which had been destroyed by earthquakes, and he gave Latin
+                 rights<note resp="editor">A limited citizenship, taking its name from the old Latin
+                 cities and varying in different cases and at different times.</note> or full
+               citizenship to such as could point to services rendered the Roman people. I believe
+@@ -1681,7 +1686,7 @@
+     the use of the public post (see <ref target="#chap_xlix_3">chap. xlix. 3</ref>) 
+     and other privileges; cf. <bibl><author>Cic.</author> <title rend="italic">Ad Fam.</title> 6. 12.</bibl>
+ </note> dispatches, and
+-              private letters he used as his seal at first a sphinx, later an image of Alexander the
++              private letters he used as his seal at first a sphynx, later an image of Alexander the
+               Great, and finally his own, carved by the hand of Dioscurides; and this his successors
+               continued to use as their seal. He always attached to all letters the exact hour, not
+               only of the day, but of the night, to indicate precisely when they were written.</p>
+@@ -1700,16 +1705,16 @@
+ full list of the men of the opposite faction whom he
+ not only pardoned and spared, but allowed to hold
+ high positions in the state, I may say that he thought it enough to punish two plebeians,
+-              Junius Novatus and Cassius Patavinus, with a fine and a mild form of banishment<note
++              Junius Novatus and Cassius Patavinus, with a fine and a mild form of banishment respectively<note
+                 resp="grc">1951: with a fine and with a mild form of banishment respectively</note>,
+               although the former had circulated a most scathing letter about him under the name of
+-              the young Agrippa, and the latter had openly boasted at a large dinner party that he
++              the young Agrippa, and the latter had openly declared at a large dinner party that he
+               lacked neither the earnest desire nor the courage to stab him.</p>
+           </div>
+           <div type="textpart" subtype="section"
+             xml:base="urn:cts:latinLit:phi1348.abo012.rolfe-eng1:51" n="2">
+             <p>Again, when he was hearing a case against Aemilius Aelianus of Corduba and it was
+-              made the chief offence, amongst other charges, that he was in the habit of expressing
++              made the chief offence, among other charges, that he was in the habit of expressing
+               a bad opinion of Caesar, Augustus turned to the accuser with assumed anger and said:
+                 <q rend="double">I wish you could prove the truth of that. I'll let <pb n="207"/>
+                 Aelianus know that I have a tongue as well as he, for I'll say even more about
+@@ -1731,9 +1736,8 @@
+             xml:base="urn:cts:latinLit:phi1348.abo012.rolfe-eng1:52" n="1">
+             <p rend="align(indent)">Although well aware that it was usual to vote temples even to
+               proconsuls, he would not accept one even in a province save jointly in his own name
+-              and that of Rome. In the city itself he refused this honour most peremptorily, and
+-              even melted down the silver statues which had been set up in his honour in former
+-              times and with the money coined from them dedicated golden tripods to Apollo of the
++              and that of Rome. In the city itself he refused this honour most emphatically, even melting down the silver statues which had been set up in his honour in former
++              times and with the money coined from them dedicating golden tripods to Apollo of the
+               Palatine.</p>
+             <p>When the people did their best to force the dictatorship upon him, he knelt down,
+               threw off his toga from his shoulders and with bare breast begged them not to
+@@ -1759,9 +1763,8 @@
+                 or "Sire."</note><!-- MISSED NOTE HERE-ALSO NO QUOTES FOR NOTE -->as
+               reproachful and insulting. When the words <q rend="double">O just and gracious
+                 Lord!</q> were uttered in a farce at which he was a spectator and all the people
+-              sprang to their feet and applauded as if they were applied to him, he at once checked
+-              their unseemly flattery by look and gesture, and on the following day severely
+-              reprimanded them in an edict. After that he would not suffer himself to be called Sire
++              sprang to their feet and applauded as if they were said of him, he at once checked
++              their unseemly flattery by look and gesture, and on the following day sharply reproved them in an edict. After that he would not suffer himself to be called Sire
+               even by his children or his grandchildren either in jest or earnest, and he forbade
+               them to use <pb n="209"/> such flattering terms among themselves.</p>
+           </div>
+@@ -1787,7 +1790,7 @@
+               and did not cease to attend all their anniversaries, until he was well on in years and
+               was once incommoded by the crowd on the day of a betrothal. When Gallus Cerrinius, a
+               senator with whom he was not at all intimate, had suddenly become blind and had
+-              therefore resolved to starve himself to death, Augustus called on him and by his
++              therefore resolved to end his life by starvation, Augustus called on him and by his
+               consoling words induced him to live.</p>
+           </div>
+         </div>
+@@ -1798,13 +1801,11 @@
+             xml:base="urn:cts:latinLit:phi1348.abo012.rolfe-eng1:54" n="1">
+             <p rend="align(indent)">As he was speaking in the senate someone said to him: <q
+                 rend="double">I did not understand,</q> and another: <q rend="double">I would
+-                contradict you if I had an opportunity.</q> Several times when he was leaving the
+-              House in anger at the excessive bickering of the disputants, some shouted after him:
++                contradict you if I had an opportunity.</q> Several times when he was rushing from the House in anger at the excessive bickering of the disputants, some shouted after him:
+                 <q rend="double">Senators ought to have the right of speaking their mind on public
+                 affairs.</q> At the selection of senators when each member chose <pb n="211"/>
+               another, <note resp="editor">See chap. xxxv.1.
+-              </note><!-- MISSED NOTE -->Antistius Labeo named Marcus Lepidus, an ex-triumvir
+-              who was then in banishment; and when Augustus asked him whether there were not others
++              </note><!-- MISSED NOTE -->Antistius Labeo named Marcus Lepidus, an old enemy of the emperor’s and at the time in banishment; and when Augustus asked him whether there were not others
+               more deserving of the honour, Labeo replied that every man had his own opinion. Yet
+               for all that no one suffered for his freedom of speech or his insolence.</p>
+           </div>
+@@ -1816,7 +1817,7 @@
+             xml:base="urn:cts:latinLit:phi1348.abo012.rolfe-eng1:55" n="1">
+             <p rend="align(indent)">He did not even dread the lampoons against him which were
+               scattered in the senate house, but took great pains to refute them; and without trying
+-              to discover the authors, he merely proposed that thereafter those who published notes
++              to discover the authors, he merely proposed that thereafter such as published notes
+               or verses defamatory of anyone under a false name should be called to account.</p>
+           </div>
+         </div>
+@@ -1828,7 +1829,7 @@
+             <p rend="align(indent)">When he was assailed with scurrilous or spiteful jests by
+               certain men, he made reply in a public proclamation; yet he vetoed a law to check
+               freedom of speech in wills. <note resp="editor">The Romans in their wills often
+-                express the opinion freely about public men and affairs; cf. chap. lxvi, and Cassius
++                express their opinion freely about public men and affairs; cf. chap. lxvi, and Cassius
+                 Dio, 58.25, where it is said that Fulcinius Tiro, who died in prison, bitterly
+                 assailed Tiberius in his will</note>
+               <!-- MISSED NOTE -->Whenever he took part in the election of magistrates, he went the
+@@ -1840,7 +1841,7 @@
+           <div type="textpart" subtype="section"
+             xml:base="urn:cts:latinLit:phi1348.abo012.rolfe-eng1:56" n="2">
+             <p>He made his forum narrower than he had planned, because he did not venture to eject
+-              the owners of the neighbouring houses. He never nominated his adopted sons for office
++              the owners of the neighbouring houses. He never recommended his sons for office
+               without adding <q rend="double">If they be worthy of it.</q> When they were still
+               under age and the audience at the theatre rose as one man in their honour, and stood
+               up and applauded them, he expressed strong disapproval.
+@@ -1867,17 +1868,16 @@
+           </div>
+           <div type="textpart" subtype="section"
+             xml:base="urn:cts:latinLit:phi1348.abo012.rolfe-eng1:56" n="4">
+-            <p>Then, since all approved of his being present, he sat on the benches <note
++            <p>Then, since all approved of his appearing in the case, he sat on the benches <note
+                 resp="editor">The movable seats provided for the advocates, witnesses, etc.</note>
+               <!-- MISSED NOTE --> for several hours, but in silence and without even speaking in
+               praise of the defendant <!-- MISSED NOTE -->
+               <note resp="editor">The custom of defending an accused person by a general eulogy of
+                 his character was forbidden by Pompey in his third consul­ship <bibl>(Dio,
+                   40.52)</bibl>, but was nevertheless resorted to, even by Pompey himself
+-                  <bibl>(Dio, 40.55)</bibl>.</note>. He did however defend some of his clients, for
+-              instance a certain Scutarius, an old soldier of his who was facing an action for
+-              slander. He secured the acquittal of no more than one single man, and then only by
+-              entreaty, making a successful appeal to the accuser in the presence of the judges;
++                  <bibl>(Dio, 40.55)</bibl>.</note>. He did however even defend some of his clients, for
++              instance a certain Scutarius, one of his officers, who was accused of slander. But he secured the acquittal of no more than one single man, and then only by
++              entreaty, making a successful appeal to the accuser in the presence of the jurors;
+               this was Castricius, through whom he had learned of Murena's conspiracy.</p>
+           </div>
+         </div>
+@@ -1902,9 +1902,8 @@
+             <p>To rebuild his house on the Palatine, which had been destroyed by fire, the veterans,
+               the guilds,<!-- MISSED NOTE --><note resp="editor">Probably of the scribes and other
+                 minor officials. </note> the tribes, <pb n="215"/> and even individuals of other
+-              conditions gladly contributed money according to their means; but he barely took a
+-              little from each pile as a matter of form, not appropriating more than a single
+-              denarius from any of them. On his return from the provinces they received him not only
++              conditions gladly contributed money according to their means; but he merely took a little from each pile as a matter of form, not appropriating more than a single
++              denarius from any of them. On his return from a province they received him not only
+               with prayers and good wishes, but with songs. It was a rule, too, that whenever he
+               entered the city, no one should suffer punishment.</p>
+           </div>
+@@ -1917,7 +1916,7 @@
+             <p rend="align(indent)">The whole body of citizens with a sudden unanimous impulse
+               proffered him the title of Father of his Country: first the commons, by a deputation
+               sent to Antium, and then, because he declined it, again at Rome as he entered the
+-              theatre, which they attended in throngs, all wearing the laurel crowns; the senate
++              theatre, which they attended in throngs, all wearing laurel wreaths; the senate
+               afterwards in the House, not by a decree or by acclamation, but through Valerius
+               Messala.</p>
+           </div>
+@@ -1941,7 +1940,7 @@
+             <p rend="align(indent)">In honour of his physician, Antonius Musa, through whose care he
+               had recovered from a dangerous illness, a sum of money was raised and Musa's statue
+               set up beside that of Aesculapius. Some householders provided in their wills that
+-              their heirs should lead victims to the Capitol and pay a thank-offering <pb n="217"/>
++              their heirs should drive victims to the Capitol and pay a thank-offering <pb n="217"/>
+               in their behalf, because Augustus had survived them, and that a placard to this effect
+               should be carried before them. Some of the Italian cities made the day on which he
+               first visited them the beginning of their year. Many of the provinces, in addition to
+@@ -1955,11 +1954,9 @@
+           <div type="textpart" subtype="section"
+             xml:base="urn:cts:latinLit:phi1348.abo012.rolfe-eng1:60" n="1">
+             <p rend="align(indent)">His friends and allies among the kings each in his own realm
+-              founded a city called Caesarea, and all made a plan to contribute jointly and finish
+-              at their own expense the temple of Olympian Jupiter at Athens, which had been begun in
+-              ancient days, and to dedicate it to his Genius; <!-- MISSED NOTE --><note
++              founded a city called Caesarea, and all joined in a plan to contribute the funds for finishing the temple of Jupiter Olympius, which was begun at Athens in ancient days, and to dedicate it to his Genius; <!-- MISSED NOTE --><note
+                 resp="editor">One's tutelary divinity, or familiar spirit, closely identified with
+-                the person himself. </note> they would often leave their kingdoms and show him the
++                the person himself. </note> and they would often leave their kingdoms and show him the
+               attentions usual in dependents, clad in the toga and without the emblems of royalty,
+               not only at Rome, but even when he was travelling through the provinces.</p>
+             <!-- THERE IS SOME PARAPHRASE IN THIS PARAGRAPH: I only see "; and they" became ". They" -->
+@@ -1985,7 +1982,7 @@
+           <div type="textpart" subtype="section"
+             xml:base="urn:cts:latinLit:phi1348.abo012.rolfe-eng1:61" n="2">
+             <p>He lost his mother during his first consulship and his sister Octavia in his
+-              fifty-fourth year. To both he showed the utmost devotion during their lifetime, and
++              fifty-fourth year. To both he showed marked devotion during their lifetime, and
+               also paid them the highest honours after their death.</p>
+           </div>
+         </div>

@@ -1,0 +1,36 @@
+{
+  "edition": "Suetonius, Rolfe 1970 OCR page edition",
+  "date": "2026-09-07",
+  "base_policy": "Source-only; no lexical correction; page-resident apparatus; no inferred note anchors.",
+  "sources": [
+    {
+      "volume": 1,
+      "file": "suetonius-loeb01-uc1-32106005388886-1788786343.txt",
+      "sha256": "fe47c2a7437af8b17653d8a4e79944e7db2806f2e4425061d446edd14f28fc4a",
+      "pages": 554,
+      "characters_in_page_blocks": 815338
+    },
+    {
+      "volume": 2,
+      "file": "suetonius-loeb-02-uc1-32106005389009-1788786407.txt",
+      "sha256": "d38ad1994fae912766ecf027e98213953a1a6f399e5ef3041253c0ace0cbf5cb",
+      "pages": 580,
+      "characters_in_page_blocks": 905457
+    }
+  ],
+  "legacy_source_sha256": "72cf86ce9fec563027797d7f633d190b54871d752bfb4a94c1570609ce2a7f73",
+  "supplement_chapters": [
+    43,
+    44,
+    45,
+    46,
+    47
+  ],
+  "supplement_attribution": "Inherited Gemini 3 attribution; 45–47 already English in the supplied OCR.",
+  "normalization": [
+    "Remove export page delimiter from page blocks",
+    "Remove form-feed characters",
+    "Trim page-boundary whitespace; retain all internal characters and line breaks"
+  ],
+  "status": "Unproofread OCR; no claim of complete note identification or validated word-level anchors."
+}

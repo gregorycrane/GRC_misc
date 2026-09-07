@@ -1,0 +1,44 @@
+{
+  "title": "Suetonius — Rolfe 1914 source edition",
+  "date": "2026-09-07",
+  "source_pdf_path": "/Users/gcrane/Library/Mobile Documents/iCloud~com~apple~iBooks/Documents/Suetonius_Loeb-rolfe.pdf",
+  "source_pdf_sha256": "e65a37e8a86867ac3e651546266b4860dc66fa69da618715034b101148d288c5",
+  "pdf_pages": 1094,
+  "volumes": [
+    {
+      "volume": 1,
+      "pdf_pages": [
+        1,
+        529
+      ]
+    },
+    {
+      "volume": 2,
+      "pdf_pages": [
+        530,
+        1094
+      ]
+    }
+  ],
+  "base": "1914 PDF images; newly generated OCR, not the 1970 text or legacy LLM XML",
+  "active_gemini_supplements": [
+    43,
+    44
+  ],
+  "archival_gemini_alternatives": [
+    45,
+    46,
+    47
+  ],
+  "verified_note_anchors": 58,
+  "rejected_extra_notes": 1,
+  "legacy_records_with_pdf_decisions": 44,
+  "wording_findings": 12,
+  "ocr_engine": "Tesseract, eng, PSM 3, page rendering 2200 pixels on longer side; source images retained as JPEG quality 85",
+  "limitations": [
+    "Not every page or note has been manually proofread.",
+    "Printed labels beyond inspected pages are sequence-based; PDF page numbers are authoritative locators.",
+    "OCR is uncorrected and may misread Greek, superscripts, marginal dates and damaged printing.",
+    "A printed note is attributed to its source edition, not silently assigned a personal author from an absent legacy resp."
+  ]
+}

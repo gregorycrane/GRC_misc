@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Suetonius · Rolfe · 1914 edition</title>
+<style>
+:root{color-scheme:light;--paper:#faf8f2;--ink:#252a28;--quiet:#626c64;--line:#d8ded6;--accent:#315d49}*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.65 Georgia,serif}header,main,footer{max-width:1240px;margin:auto;padding:24px 32px}header{padding-bottom:12px}h1{font-size:38px;line-height:1.2;font-weight:normal;margin:8px 0}h2{font-size:24px;font-weight:normal}h3{font-size:20px;font-weight:normal}.eyebrow,.meta,nav,button,select,input,label,summary,footer{font:14px/1.5 system-ui,sans-serif}.eyebrow{letter-spacing:.16em;text-transform:uppercase;color:var(--accent)}.intro{max-width:850px;color:var(--quiet);margin:12px 0}.toolbar{background:#eef1e9;padding:18px;border:1px solid var(--line);border-radius:8px;display:flex;flex-wrap:wrap;gap:12px;align-items:center}button,select,input{padding:8px 11px;border:1px solid #a8b4a9;border-radius:5px;background:white;color:var(--ink)}button{cursor:pointer}button:hover{background:#e4ebe0}button:disabled{opacity:.4;cursor:default}input{width:80px}a{color:var(--accent)}.spread{display:grid;grid-template-columns:1fr 1fr;gap:36px;margin-top:24px}.page{background:#fffdf8;padding:14px;border:1px solid var(--line);border-radius:4px;min-width:0}.meta{color:var(--quiet);border-bottom:1px solid var(--line);padding-bottom:10px;margin-bottom:18px}.transcription{font-size:15px;white-space:pre-wrap;overflow-wrap:anywhere;line-height:1.8}.reflow .transcription{white-space:normal}.reflow .ocr-line{display:inline}.ocr-line{display:block}.reflow .ocr-line:after{content:' '}.reflow .new-chapter{display:block;margin-top:1em}.supplement{background:#f0f2fa;border-left:4px solid #676394;padding:20px 28px;margin:24px 0}.badge{font:12px system-ui,sans-serif;letter-spacing:.04em;color:#514c7b;text-transform:uppercase}.supplement p{max-width:850px}.notice{font:14px/1.65 system-ui,sans-serif;background:#eef1e9;padding:14px 18px;border-radius:5px;margin-top:16px}.status{min-height:25px;color:var(--accent);font:14px system-ui,sans-serif}.mode{margin-top:14px;display:flex;gap:20px;flex-wrap:wrap}.mode input{width:auto}details{margin:18px 0}summary{cursor:pointer}footer{border-top:1px solid var(--line);color:var(--quiet)}[hidden]{display:none!important}@media(max-width:780px){header,main,footer{padding:20px}.spread{grid-template-columns:1fr;gap:16px}.page{padding:20px}h1{font-size:30px}}@media print{.toolbar,.mode,.navigation,footer{display:none}.spread{display:block}.page{break-before:page;border:0}header{padding:0}.supplement{break-before:page}}
+</style>
+<header><div class="eyebrow">Suetonius · Loeb Classical Library</div><h1>Rolfe · 1914 edition</h1>
+<p class="intro">The 1914 printed edition, with Gemini-attributed English supplements for Tiberius 43–44. Clear page images are the authority; searchable OCR and verified note anchors accompany them.</p>
+<nav><a href="INVENTORY.md">Work inventory</a> · <a href="review/NOTES.html">Notes for review</a> · <a href="review/REVIEW.md">Review guide</a></nav>
+<details><summary>About this edition</summary><p>Both title pages of the supplied PDF identify 1914. This edition retains all 1,094 PDF pages. Fresh OCR was generated locally because the PDF’s embedded text is defective. Page images preserve the printed wording and note positions; OCR remains subject to proofreading.</p><p>Gemini supplements fill the untranslated chapters 43–44. Chapters 45–47 are already translated by Rolfe; the inherited Gemini-attributed versions of those chapters remain available separately as archival alternatives. The 1970 OCR edition remains a separate comparison witness.</p><p><a href="README.md">Editorial record</a> · <a href="validation.json">Validation</a> · <a href="review/PDF-RESOLUTIONS.md">Verified PDF resolutions</a></p></details>
+</header>
+<main>
+<nav class="toolbar" aria-label="Reading controls">
+<label>Volume <select id="volume"><option value="1">I</option><option value="2">II</option></select></label>
+<label>Go to <select id="work"><option value="">Choose a work…</option><option value="1:3">Julius Caesar</option><option value="1:123">Augustus</option><option value="1:291">Tiberius</option><option value="1:405">Caligula</option><option value="2:3">Claudius</option><option value="2:87">Nero</option><option value="2:191">Galba</option><option value="2:227">Otho (shared page)</option><option value="2:247">Vitellius (shared page)</option><option value="2:281">Vespasian</option><option value="2:321">Titus (shared page)</option><option value="2:339">Domitian (shared page)</option><option value="2:388">Illustrious men</option><option value="2:509">Index</option></select></label>
+<form id="page-form"><label>Printed page <input id="page-input" aria-label="Printed page" value="3"></label> <button>Go</button></form>
+<button id="previous" aria-label="Previous page pair">← Previous</button><button id="next" aria-label="Next page pair">Next →</button>
+<button id="gemini">Gemini supplements</button>
+</nav>
+<div class="mode"><label><input type="checkbox" id="flow"> Show searchable OCR</label><label><input type="checkbox" id="supp-toggle"> Show supplements below source pages</label><a href="#v1-s1" id="start">Beginning of volume</a></div>
+<p id="status" class="status" role="status"></p>
+<div id="source-view"><div class="notice">Notes remain in their printed positions. Verified anchors are listed beneath each relevant page. Unreviewed OCR is available using the checkbox above.</div><div class="spread reflow" id="spread"></div></div>
+<section id="supplements" hidden aria-label="Gemini supplements"></section>
+</main><footer>Source text: J. C. Rolfe, 1914 printings. Supplement attribution: Gemini 3, as recorded in the inherited XML. Both layers remain distinct.</footer>
+<script>
+'use strict';
+const DATA=/*EDITION_DATA*/null;
+const $=id=>document.getElementById(id);
+let volume=1,seq=33;
+function element(tag,text,cls){const e=document.createElement(tag);if(text!==undefined)e.textContent=text;if(cls)e.className=cls;return e}
+function sourcePage(page){
+ const article=element('article',undefined,'page');article.id=`v${volume}-s${page.seq}`;
+ const meta=element('div',`Volume ${volume} · ${page.label?'printed page '+page.label:'unnumbered / label unverified'} · PDF page ${page.pdf_page}`,'meta');article.append(meta);
+ const link=element('a','Open full page image');link.href=`pages/p${String(page.pdf_page).padStart(4,'0')}.jpg`;meta.append(' · ',link);
+ const scan=element('img');scan.src=link.href;scan.alt=`1914 source, PDF page ${page.pdf_page}`;scan.style.width='100%';scan.loading='lazy';article.append(scan);
+ if(volume===1&&[383,385].includes(page.pdf_page)){const supplement=element('p',undefined,'notice');const a=element('a','Read the labelled Gemini English supplement for Tiberius 43–44');a.href='#gemini';supplement.append(a);article.append(supplement)}
+ const text=element('pre',page.text||'[No OCR text]','transcription');text.hidden=!$('flow').checked;article.append(text);
+ const decisions=DATA.decisions.filter(d=>d.pdf_body_page===page.pdf_page);
+ if(decisions.length){const box=element('details');box.open=true;box.append(element('summary',`Verified PDF evidence (${decisions.length})`));decisions.forEach(d=>{box.append(element('p',`${d.work} ${d.reference} · ${d.kind==='note-anchor'?'marker '+d.marker+' after “'+d.verified_anchor+'”':'Rejected legacy note'} — ${d.note_identifier}`));const a=element('a','Evidence and decision');a.href=`review/NOTES.html#${d.id.toLowerCase()}`;box.append(a)});article.append(box)}
+ return article;
+}
+function supplements(){
+ const box=$('supplements');box.replaceChildren();box.append(element('h2','Gemini-attributed supplements'));
+ box.append(element('p','Gemini-attributed chapters 43–44 supply the English missing from Rolfe. Chapters 45–47 already have Rolfe English; their inherited alternative versions are retained below for provenance. Attribution is inherited, not independently verified.','notice'));
+ const d=element('details');d.append(element('summary','Original attribution (contains an inaccurate claim about chapters 45–47)'),element('p',DATA.attribution));box.append(d);
+ DATA.supplements.forEach(ch=>{
+  const div=element(ch.chapter<=44?'article':'details',undefined,'supplement');if(ch.chapter>44)div.append(element('summary',`Archival alternative: chapter ${ch.chapter} — Rolfe already provides English`));div.id=`gemini-tib-${ch.chapter}`;
+  div.append(element('div','Gemini 3 · inherited attribution','badge'),element('h3',`Tiberius ${ch.chapter}`));
+  const refs={43:[353,355],44:[355],45:[355,357],46:[357],47:[357,359]};
+  const links=element('p','Compare source: ','meta');refs[ch.chapter].forEach((p,i)=>{if(i)links.append(' · ');const a=element('a',`p. ${p}`);a.href=`#v1-s${p+30}`;links.append(a)});div.append(links);
+  ch.sections.forEach(s=>{div.append(element('div',`Section ${s.n}`,'meta'));s.paragraphs.forEach(p=>div.append(element('p',p)))});
+  if(ch.notes.length){const nd=element('details');nd.open=true;nd.append(element('summary','Inherited editorial note — word-level placement unverified'));ch.notes.forEach(n=>nd.append(element('p',n.text)));div.append(nd)}
+  box.append(div);
+ });
+}
+function firstPage(){return volume===1?(seq===1?1:(seq%2===0?seq:seq-1)):(seq%2===1?seq:seq-1)}
+function render(){
+ $('volume').value=volume;$('start').href=`#v${volume}-s1`;
+ const pages=DATA.volumes[volume-1].pages;
+ seq=Math.max(1,Math.min(seq,pages.length));
+ const first=firstPage();
+ const shown=volume===1&&first===1?[pages[0]]:pages.slice(first-1,first+1);
+ $('spread').replaceChildren(...shown.map(sourcePage));
+ $('previous').disabled=first===1;$('next').disabled=shown[shown.length-1].seq===pages.length;
+ $('page-input').value=pages[seq-1].label;
+ $('status').textContent=`Volume ${volume} · scans ${shown.map(p=>p.seq).join('–')} of ${pages.length}`;
+ $('spread').classList.remove('reflow');
+ const only=location.hash==='#gemini';$('source-view').hidden=only;$('supplements').hidden=!only&&!$('supp-toggle').checked;
+}
+function navigate(v,s){volume=v;seq=s;const hash=`#v${v}-s${s}`;if(location.hash===hash)render();else location.hash=hash}
+function goPage(v,label){const p=DATA.volumes[v-1].pages.find(p=>p.label===label);if(!p){$('status').textContent=`No printed page “${label}” in volume ${v}.`;return}navigate(v,p.seq)}
+window.addEventListener('hashchange',()=>{const m=/^#v([12])-s(\d+)$/.exec(location.hash);if(m){volume=+m[1];seq=+m[2]}render()});
+ $('volume').onchange=()=>navigate(+$('volume').value,1);
+ $('work').onchange=()=>{if(!$('work').value)return;const [v,p]=$('work').value.split(':');goPage(+v,p)};
+ $('page-form').onsubmit=e=>{e.preventDefault();goPage(volume,$('page-input').value.trim())};
+ $('previous').onclick=()=>navigate(volume,Math.max(1,firstPage()-2));
+ $('next').onclick=()=>navigate(volume,volume===1&&seq===1?2:firstPage()+2);
+ $('gemini').onclick=()=>{location.hash='#gemini'};
+ $('flow').onchange=render;$('supp-toggle').onchange=render;
+ supplements();const initial=/^#v([12])-s(\d+)$/.exec(location.hash);if(initial){volume=+initial[1];seq=+initial[2]}render();
+</script></html>

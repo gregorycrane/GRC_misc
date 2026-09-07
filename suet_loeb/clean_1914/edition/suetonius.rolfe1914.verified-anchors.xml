@@ -1,0 +1,508 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="suetonius-1914-verified-anchors">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verified note anchors in the 1914 PDF</title>
+        <author>Suetonius</author>
+        <respStmt>
+          <resp>Printed English translation</resp>
+          <name>J. C. Rolfe</name>
+        </respStmt>
+        <respStmt xml:id="gemini3">
+          <resp>Supplementary translation attributed in inherited XML</resp>
+          <name>Gemini 3</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Local 1914 source edition, 2026-09-07; OCR not fully proofread.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl xml:id="pdf1914">
+          <title>Suetonius, with an English translation by J. C. Rolfe</title>
+          <date>1914</date>
+          <publisher>William Heinemann / The Macmillan Co.</publisher>
+          <note>Both title pages read MCMXIV. User-supplied PDF SHA-256: e65a37e8a86867ac3e651546266b4860dc66fa69da618715034b101148d288c5</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>The facsimile is the textual authority. OCR is newly generated from the PDF, with no lexical rewriting. Verified footnote attachments are recorded separately with witness-specific evidence. No text from 1970 is silently substituted.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <list>
+        <item xml:id="P001">
+          <label>Augustus 50.1</label>
+          <p>Missing in the audited legacy XML; the 1914 note and its marker are present, so this is not merely a later-printing addition.</p>
+          <p>Printed anchor: passports,; marker: a</p>
+          <p>Note identifier (not a full note transcription): Diploma, strictly any document written on a two-leaved tablet</p>
+          <ref target="../pages/p0234.jpg">PDF page 234</ref>
+          <ref target="../pages/p0235.jpg">PDF page 235</ref>
+        </item>
+        <item xml:id="P002">
+          <label>Augustus 53.1</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: Lord; marker: a</p>
+          <p>Note identifier (not a full note transcription): Dominus, “master,” in the time of the Republic</p>
+          <ref target="../pages/p0236.jpg">PDF page 236</ref>
+          <ref target="../pages/p0237.jpg">PDF page 237</ref>
+        </item>
+        <item xml:id="P003">
+          <label>Augustus 53.3</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: House; marker: a</p>
+          <p>Note identifier (not a full note transcription): That is, they did not make a morning call on him, as in other days.</p>
+          <ref target="../pages/p0238.jpg">PDF page 238</ref>
+          <ref target="../pages/p0239.jpg">PDF page 239</ref>
+        </item>
+        <item xml:id="P004">
+          <label>Augustus 54.1</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: another,; marker: a</p>
+          <p>Note identifier (not a full note transcription): See chap. xxxv. 1.</p>
+          <ref target="../pages/p0240.jpg">PDF page 240</ref>
+          <ref target="../pages/p0241.jpg">PDF page 241</ref>
+        </item>
+        <item xml:id="P005">
+          <label>Augustus 56.1</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: wills.; marker: b</p>
+          <p>Note identifier (not a full note transcription): The Romans in their wills often express their opinion</p>
+          <ref target="../pages/p0240.jpg">PDF page 240</ref>
+          <ref target="../pages/p0241.jpg">PDF page 241</ref>
+        </item>
+        <item xml:id="P006">
+          <label>Augustus 56.3</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: benches; marker: a</p>
+          <p>Note identifier (not a full note transcription): The movable seats provided for the advocates, witnesses, etc.</p>
+          <ref target="../pages/p0242.jpg">PDF page 242</ref>
+          <ref target="../pages/p0243.jpg">PDF page 243</ref>
+        </item>
+        <item xml:id="P007">
+          <label>Augustus 56.3</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: defendant.; marker: b</p>
+          <p>Note identifier (not a full note transcription): The custom of defending an accused person by a general eulogy</p>
+          <ref target="../pages/p0242.jpg">PDF page 242</ref>
+          <ref target="../pages/p0243.jpg">PDF page 243</ref>
+        </item>
+        <item xml:id="P008">
+          <label>Augustus 57.1</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: two successive days.; marker: c</p>
+          <p>Note identifier (not a full note transcription): September 22 and 23.</p>
+          <ref target="../pages/p0242.jpg">PDF page 242</ref>
+          <ref target="../pages/p0243.jpg">PDF page 243</ref>
+        </item>
+        <item xml:id="P009">
+          <label>Augustus 57.2</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: guilds,; marker: d</p>
+          <p>Note identifier (not a full note transcription): Probably of the scribes and other minor officials.</p>
+          <ref target="../pages/p0242.jpg">PDF page 242</ref>
+          <ref target="../pages/p0243.jpg">PDF page 243</ref>
+        </item>
+        <item xml:id="P010">
+          <label>Augustus 60.1</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: Genius; marker: a</p>
+          <p>Note identifier (not a full note transcription): One’s tutelary divinity, or familiar spirit</p>
+          <ref target="../pages/p0246.jpg">PDF page 246</ref>
+          <ref target="../pages/p0247.jpg">PDF page 247</ref>
+        </item>
+        <item xml:id="P011">
+          <label>Augustus 73.1</label>
+          <p>Misplaced in legacy XML: printed marker is after “house,” in “common clothes for the house,” not after “clothing to wear in public”.</p>
+          <p>Printed anchor: house,; marker: a</p>
+          <p>Note identifier (not a full note transcription): Opposed to vestis forensis</p>
+          <ref target="../pages/p0268.jpg">PDF page 268</ref>
+          <ref target="../pages/p0269.jpg">PDF page 269</ref>
+        </item>
+        <item xml:id="P012">
+          <label>Augustus 74.1</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: formally,; marker: b</p>
+          <p>Note identifier (not a full note transcription): The cena recta was a regular dinner</p>
+          <ref target="../pages/p0268.jpg">PDF page 268</ref>
+          <ref target="../pages/p0269.jpg">PDF page 269</ref>
+        </item>
+        <item xml:id="P013">
+          <label>Augustus 74.1</label>
+          <p>Printed note after the phrase about the man at whose villa Augustus used to stop; retained even where absent from a legacy version.</p>
+          <p>Printed anchor: stop,; marker: c</p>
+          <p>Note identifier (not a full note transcription): See chap. lxxii. 2.</p>
+          <ref target="../pages/p0269.jpg">PDF page 269</ref>
+        </item>
+        <item xml:id="P014">
+          <label>Augustus 74.2</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: story-tellers.; marker: d</p>
+          <p>Note identifier (not a full note transcription): Tellers of marvellous tales</p>
+          <ref target="../pages/p0269.jpg">PDF page 269</ref>
+        </item>
+        <item xml:id="P015">
+          <label>Titus 1.1</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: Septizonium; marker: b</p>
+          <p>Note identifier (not a full note transcription): Some building of seven stories</p>
+          <ref target="../pages/p0857.jpg">PDF page 857</ref>
+        </item>
+        <item xml:id="P016">
+          <label>Titus 2.2</label>
+          <p>Marker verified; the printed note begins Cf., not the See of the legacy XML.</p>
+          <p>Printed anchor: fatal draught,; marker: a</p>
+          <p>Note identifier (not a full note transcription): Cf. Nero, xxxiii. 2 and 3.</p>
+          <ref target="../pages/p0858.jpg">PDF page 858</ref>
+          <ref target="../pages/p0859.jpg">PDF page 859</ref>
+        </item>
+        <item xml:id="P017">
+          <label>Titus 4.2</label>
+          <p>The missing cross-reference letter is e in this PDF.</p>
+          <p>Printed anchor: praetorian cohorts;; marker: a</p>
+          <p>Note identifier (not a full note transcription): See Galba xiv. 2, and note e.</p>
+          <ref target="../pages/p0860.jpg">PDF page 860</ref>
+          <ref target="../pages/p0861.jpg">PDF page 861</ref>
+        </item>
+        <item xml:id="P018">
+          <label>Titus 5.2</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: hope; marker: b</p>
+          <p>Note identifier (not a full note transcription): By the accession of his father Vespasian.</p>
+          <ref target="../pages/p0860.jpg">PDF page 860</ref>
+          <ref target="../pages/p0861.jpg">PDF page 861</ref>
+        </item>
+        <item xml:id="P019">
+          <label>Titus 5.2</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: Imperator; marker: a</p>
+          <p>Note identifier (not a full note transcription): See Aug. xiii. 2.</p>
+          <ref target="../pages/p0862.jpg">PDF page 862</ref>
+          <ref target="../pages/p0863.jpg">PDF page 863</ref>
+        </item>
+        <item xml:id="P020">
+          <label>Titus 6.1</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: quaestor.; marker: b</p>
+          <p>Note identifier (not a full note transcription): See Nero xv. 2, and note a.</p>
+          <ref target="../pages/p0862.jpg">PDF page 862</ref>
+          <ref target="../pages/p0863.jpg">PDF page 863</ref>
+        </item>
+        <item xml:id="P021">
+          <label>Titus 7.3</label>
+          <p>One of the three notes missing from the legacy Titus XML; explicit printed marker recovered.</p>
+          <p>Printed anchor: amphitheatre; marker: a</p>
+          <p>Note identifier (not a full note transcription): See note on Vesp. ix.</p>
+          <ref target="../pages/p0866.jpg">PDF page 866</ref>
+          <ref target="../pages/p0867.jpg">PDF page 867</ref>
+        </item>
+        <item xml:id="P022">
+          <label>Titus 7.3</label>
+          <p>One of the three notes missing from the legacy Titus XML; explicit printed marker recovered.</p>
+          <p>Printed anchor: naumachia,; marker: b</p>
+          <p>Note identifier (not a full note transcription): See Aug. xliii. 1.</p>
+          <ref target="../pages/p0866.jpg">PDF page 866</ref>
+          <ref target="../pages/p0867.jpg">PDF page 867</ref>
+        </item>
+        <item xml:id="P023">
+          <label>Titus 7.3</label>
+          <p>One of the three notes missing from the legacy Titus XML; explicit printed marker recovered.</p>
+          <p>Printed anchor: gladiators,; marker: c</p>
+          <p>Note identifier (not a full note transcription): When the water had been let out; cf. Nero, xxvii. 2.</p>
+          <ref target="../pages/p0866.jpg">PDF page 866</ref>
+          <ref target="../pages/p0867.jpg">PDF page 867</ref>
+        </item>
+        <item xml:id="P024">
+          <label>Titus 8.2</label>
+          <p>Misplaced in legacy XML: printed marker follows “gestures,”, not “justice”.</p>
+          <p>Printed anchor: gestures,; marker: a</p>
+          <p>Note identifier (not a full note transcription): By humorously pretending to wrangle</p>
+          <ref target="../pages/p0868.jpg">PDF page 868</ref>
+          <ref target="../pages/p0869.jpg">PDF page 869</ref>
+        </item>
+        <item xml:id="P025">
+          <label>Titus 8.4</label>
+          <p>Marker follows the closing quotation after “I am ruined,”.</p>
+          <p>Printed anchor: I am ruined,; marker: b</p>
+          <p>Note identifier (not a full note transcription): Implying that it was his personal loss</p>
+          <ref target="../pages/p0869.jpg">PDF page 869</ref>
+        </item>
+        <item xml:id="P026">
+          <label>Titus 8.4</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: sacrifice; marker: a</p>
+          <p>Note identifier (not a full note transcription): To propitiate the gods</p>
+          <ref target="../pages/p0870.jpg">PDF page 870</ref>
+          <ref target="../pages/p0871.jpg">PDF page 871</ref>
+        </item>
+        <item xml:id="P027">
+          <label>Titus 9.1</label>
+          <p>Misplaced in legacy XML: printed marker follows “pontifex maximus”, not “hands unstained”.</p>
+          <p>Printed anchor: pontifex maximus; marker: b</p>
+          <p>Note identifier (not a full note transcription): The office was seldom taken so seriously.</p>
+          <ref target="../pages/p0870.jpg">PDF page 870</ref>
+          <ref target="../pages/p0871.jpg">PDF page 871</ref>
+        </item>
+        <item xml:id="P028">
+          <label>Titus 9.2</label>
+          <p>Misplaced in legacy XML: printed marker follows “offered him,”, not the end of the sentence about their inspection.</p>
+          <p>Printed anchor: offered him,; marker: a</p>
+          <p>Note identifier (not a full note transcription): The weapons of gladiators were regularly examined</p>
+          <ref target="../pages/p0872.jpg">PDF page 872</ref>
+          <ref target="../pages/p0873.jpg">PDF page 873</ref>
+        </item>
+        <item xml:id="P029">
+          <label>Titus 10.2</label>
+          <p>Misplaced in legacy XML: printed marker follows “nor could anyone easily divine.” on p.337, not the end of the paragraph on p.339.</p>
+          <p>Printed anchor: divine.; marker: b</p>
+          <p>Note identifier (not a full note transcription): Possibly Domitian’s charge was true</p>
+          <ref target="../pages/p0872.jpg">PDF page 872</ref>
+          <ref target="../pages/p0873.jpg">PDF page 873</ref>
+        </item>
+        <item xml:id="P030">
+          <label>Titus 11.1</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: farmhouse; marker: a</p>
+          <p>Note identifier (not a full note transcription): The old homestead at Cutilae</p>
+          <ref target="../pages/p0874.jpg">PDF page 874</ref>
+          <ref target="../pages/p0875.jpg">PDF page 875</ref>
+        </item>
+        <item xml:id="P031">
+          <label>Caligula 18.2</label>
+          <p>The note is present in 1914. The 1914 base reads gifts; gift-tokens is the later OCR witness reading.</p>
+          <p>Printed anchor: gifts; marker: a</p>
+          <p>Note identifier (not a full note transcription): To be scrambled for by the spectators.</p>
+          <ref target="../pages/p0460.jpg">PDF page 460</ref>
+          <ref target="../pages/p0461.jpg">PDF page 461</ref>
+        </item>
+        <item xml:id="P032">
+          <label>Caligula 18.3</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: panthers; marker: b</p>
+          <p>Note identifier (not a full note transcription): Africanae, supply bestiae and see Index.</p>
+          <ref target="../pages/p0460.jpg">PDF page 460</ref>
+          <ref target="../pages/p0461.jpg">PDF page 461</ref>
+        </item>
+        <item xml:id="P033">
+          <label>Caligula 18.3</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: balconies,; marker: c</p>
+          <p>Note identifier (not a full note transcription): On the houses adjoining the Circus</p>
+          <ref target="../pages/p0460.jpg">PDF page 460</ref>
+          <ref target="../pages/p0461.jpg">PDF page 461</ref>
+        </item>
+        <item xml:id="P034">
+          <label>Caligula 19.1</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: paces,; marker: d</p>
+          <p>Note identifier (not a full note transcription): Over three and a half Roman miles.</p>
+          <ref target="../pages/p0461.jpg">PDF page 461</ref>
+        </item>
+        <item xml:id="P035">
+          <label>Caligula 50.1</label>
+          <p>Legacy XML assigns the note to 50.2; the PDF marker is after “very thin neck and legs.” in 50.1.</p>
+          <p>Printed anchor: legs.; marker: a</p>
+          <p>Note identifier (not a full note transcription): Cf. chap. iii. 1.</p>
+          <ref target="../pages/p0510.jpg">PDF page 510</ref>
+          <ref target="../pages/p0511.jpg">PDF page 511</ref>
+        </item>
+        <item xml:id="P036">
+          <label>Caligula 50.2</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: falling sickness,; marker: b</p>
+          <p>Note identifier (not a full note transcription): See Jul. xlv. 1.</p>
+          <ref target="../pages/p0510.jpg">PDF page 510</ref>
+          <ref target="../pages/p0511.jpg">PDF page 511</ref>
+        </item>
+        <item xml:id="P037">
+          <label>Caligula 58.2</label>
+          <p>The printed 1914 wording is “Do your duty,”; marker follows the closing quotation.</p>
+          <p>Printed anchor: Do your duty,; marker: a</p>
+          <p>Note identifier (not a full note transcription): Part of the ritual at a sacrifice.</p>
+          <ref target="../pages/p0524.jpg">PDF page 524</ref>
+          <ref target="../pages/p0525.jpg">PDF page 525</ref>
+        </item>
+        <item xml:id="P038">
+          <label>Caligula 58.2</label>
+          <p>Legacy XML section is 58.3; the printed marker follows the “So be it,” quotation within the second assassination account in 58.2.</p>
+          <p>Printed anchor: So be it,; marker: b</p>
+          <p>Note identifier (not a full note transcription): Another formula</p>
+          <ref target="../pages/p0524.jpg">PDF page 524</ref>
+          <ref target="../pages/p0525.jpg">PDF page 525</ref>
+        </item>
+        <item xml:id="P039">
+          <label>Caligula 58.3</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: poles,; marker: c</p>
+          <p>Note identifier (not a full note transcription): With which they carried his litter.</p>
+          <ref target="../pages/p0524.jpg">PDF page 524</ref>
+          <ref target="../pages/p0525.jpg">PDF page 525</ref>
+        </item>
+        <item xml:id="P040">
+          <label>Vespasian 22.1</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: obscene expressions.; marker: a</p>
+          <p>Note identifier (not a full note transcription): Cf. Macrobius</p>
+          <ref target="../pages/p0850.jpg">PDF page 850</ref>
+          <ref target="../pages/p0851.jpg">PDF page 851</ref>
+        </item>
+        <item xml:id="P041">
+          <label>Vespasian 22.1</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: plaustra; marker: b</p>
+          <p>Note identifier (not a full note transcription): Plaustra was the original form</p>
+          <ref target="../pages/p0850.jpg">PDF page 850</ref>
+          <ref target="../pages/p0851.jpg">PDF page 851</ref>
+        </item>
+        <item xml:id="P042">
+          <label>Vespasian 23.1</label>
+          <p>Marker follows the closing quotation of the verse.</p>
+          <p>Printed anchor: shadow,; marker: a</p>
+          <p>Note identifier (not a full note transcription): Iliad 7. 213.</p>
+          <ref target="../pages/p0852.jpg">PDF page 852</ref>
+          <ref target="../pages/p0853.jpg">PDF page 853</ref>
+        </item>
+        <item xml:id="P043">
+          <label>Vespasian 23.1</label>
+          <p>Marker follows the closing quotation of the verse.</p>
+          <p>Printed anchor: To Cerylus again.; marker: b</p>
+          <p>Note identifier (not a full note transcription): Menander, Fr. 223. 2, Koch.</p>
+          <ref target="../pages/p0852.jpg">PDF page 852</ref>
+          <ref target="../pages/p0853.jpg">PDF page 853</ref>
+        </item>
+        <item xml:id="P044">
+          <label>Vespasian 23.4</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: Mausoleum; marker: a</p>
+          <p>Note identifier (not a full note transcription): Of Augustus; see Aug. c. 4.</p>
+          <ref target="../pages/p0854.jpg">PDF page 854</ref>
+          <ref target="../pages/p0855.jpg">PDF page 855</ref>
+        </item>
+        <item xml:id="P045">
+          <label>Vespasian 23.4</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: his hair long;; marker: b</p>
+          <p>Note identifier (not a full note transcription): The connection between the stella crinita</p>
+          <ref target="../pages/p0854.jpg">PDF page 854</ref>
+          <ref target="../pages/p0855.jpg">PDF page 855</ref>
+        </item>
+        <item xml:id="P046">
+          <label>Vespasian 25.1</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: same term of years.; marker: a</p>
+          <p>Note identifier (not a full note transcription): Claudius and Nero reigned thirteen and fourteen years</p>
+          <ref target="../pages/p0856.jpg">PDF page 856</ref>
+          <ref target="../pages/p0857.jpg">PDF page 857</ref>
+        </item>
+        <item xml:id="P047">
+          <label>Domitian 1.1</label>
+          <p>Continued note: starts below the Latin on p.338 and continues below English on p.339; marker follows closing quotation after Pomegranate.</p>
+          <p>Printed anchor: Pomegranate,; marker: b</p>
+          <p>Note identifier (not a full note transcription): Various quarters and streets of the city were designated</p>
+          <ref target="../pages/p0874.jpg">PDF page 874</ref>
+          <ref target="../pages/p0875.jpg">PDF page 875</ref>
+        </item>
+        <item xml:id="P048">
+          <label>Tiberius 42.1</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: Nero.; marker: a</p>
+          <p>Note identifier (not a full note transcription): See Index s.v. Biberius.</p>
+          <ref target="../pages/p0382.jpg">PDF page 382</ref>
+          <ref target="../pages/p0383.jpg">PDF page 383</ref>
+        </item>
+        <item xml:id="P049">
+          <label>Tiberius 42.2</label>
+          <p>Marker follows amphora, before “of wine”; legacy position is after the longer phrase.</p>
+          <p>Printed anchor: amphora; marker: b</p>
+          <p>Note identifier (not a full note transcription): Probably the emperor took a sip</p>
+          <ref target="../pages/p0382.jpg">PDF page 382</ref>
+          <ref target="../pages/p0383.jpg">PDF page 383</ref>
+        </item>
+        <item xml:id="P050">
+          <label>Tiberius 46.1</label>
+          <p>Printed note is absent from the inherited Gemini-attributed chapter 46 block. It belongs to Rolfe’s existing English translation.</p>
+          <p>Printed anchor: Greeks,; marker: a</p>
+          <p>Note identifier (not a full note transcription): See chap. lvi.</p>
+          <ref target="../pages/p0386.jpg">PDF page 386</ref>
+          <ref target="../pages/p0387.jpg">PDF page 387</ref>
+        </item>
+        <item xml:id="P051">
+          <label>Tiberius 47.1</label>
+          <p>Confirms the attachment of the note retained separately with the inherited chapter 47 block.</p>
+          <p>Printed anchor: Augustus.; marker: a</p>
+          <p>Note identifier (not a full note transcription): Cf. Aug. xli. 1; Tac. Ann. 2. 37.</p>
+          <ref target="../pages/p0388.jpg">PDF page 388</ref>
+          <ref target="../pages/p0389.jpg">PDF page 389</ref>
+        </item>
+        <item xml:id="P052">
+          <label>Tiberius 48.1</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: burned down.; marker: b</p>
+          <p>Note identifier (not a full note transcription): This occurred twice, in 27 and 36</p>
+          <ref target="../pages/p0388.jpg">PDF page 388</ref>
+          <ref target="../pages/p0389.jpg">PDF page 389</ref>
+        </item>
+        <item xml:id="P053">
+          <label>Tiberius 48.1</label>
+          <p>Printed marker immediately follows “decree of the senate,”; not after the description of the debt repayment.</p>
+          <p>Printed anchor: senate,; marker: c</p>
+          <p>Note identifier (not a full note transcription): The decree is quoted by Tac. Ann. 6. 17.</p>
+          <ref target="../pages/p0388.jpg">PDF page 388</ref>
+          <ref target="../pages/p0389.jpg">PDF page 389</ref>
+        </item>
+        <item xml:id="P054">
+          <label>Tiberius 48.1</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: Augustan Mount.; marker: d</p>
+          <p>Note identifier (not a full note transcription): According to Tacitus</p>
+          <ref target="../pages/p0388.jpg">PDF page 388</ref>
+          <ref target="../pages/p0389.jpg">PDF page 389</ref>
+        </item>
+        <item xml:id="P055">
+          <label>Tiberius 48.2</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: standards.; marker: e</p>
+          <p>Note identifier (not a full note transcription): The standards had a sacred character</p>
+          <ref target="../pages/p0388.jpg">PDF page 388</ref>
+          <ref target="../pages/p0389.jpg">PDF page 389</ref>
+        </item>
+        <item xml:id="P056">
+          <label>Tiberius 48.2</label>
+          <p>Printed marker and corresponding note visually verified in the 1914 PDF.</p>
+          <p>Printed anchor: death.; marker: f</p>
+          <p>Note identifier (not a full note transcription): Since he would save the rewards</p>
+          <ref target="../pages/p0389.jpg">PDF page 389</ref>
+        </item>
+        <item xml:id="P057">
+          <label>Tiberius 59.2</label>
+          <p>Marker follows the closing quotation of the saying; source note and its location verified.</p>
+          <p>Printed anchor: conduct.; marker: a</p>
+          <p>Note identifier (not a full note transcription): Cf. Calig. xxx. 1.</p>
+          <ref target="../pages/p0406.jpg">PDF page 406</ref>
+          <ref target="../pages/p0407.jpg">PDF page 407</ref>
+        </item>
+        <item xml:id="P058">
+          <label>Tiberius 60.1</label>
+          <p>Marker follows “first cohorts,”; source note verified.</p>
+          <p>Printed anchor: first cohorts,; marker: b</p>
+          <p>Note identifier (not a full note transcription): If the text is correct, primae cohortes</p>
+          <ref target="../pages/p0406.jpg">PDF page 406</ref>
+          <ref target="../pages/p0407.jpg">PDF page 407</ref>
+        </item>
+        <item xml:id="P059">
+          <label>Titus 7.1</label>
+          <p>No footnote or marker after “second Nero” on p.329, and no corresponding English footnote on p.328. The genuine cross-reference occurs at 6.1, marked b after quaestor, with note a in the cross-reference. Exclude this legacy extra from the 1914 edition.</p>
+          <p>Printed anchor: ; marker: </p>
+          <p>Note identifier (not a full note transcription): See Nero xv. 2, and note c.</p>
+          <ref target="../pages/p0865.jpg">PDF page 865</ref>
+        </item>
+      </list>
+    </body>
+  </text>
+</TEI>

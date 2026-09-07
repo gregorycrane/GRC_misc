@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "original_sha256": "f2f1dc788a5a722a2f19ce1032679103d5eca504c394330c5f59e5cb8debd682",
+  "reviewed_sha256": "5bb25bba87e6bea490ee9795eb16ed24958f538b2c5d7262ba1e064604a91105",
+  "changes": 31,
+  "chapters": 101,
+  "sections": 242,
+  "note_nodes": 212,
+  "preserved": "All citation divisions, existing comments, and note nodes; no note moved or deleted.",
+  "scope": "Targeted source-image corrections; not complete proofreading or a schema validation.",
+  "unchanged_comments": 70,
+  "top_level_notes": 211,
+  "footnotes_with_text_corrections": 2,
+  "no_note_relocations": true,
+  "all_original_note_text_otherwise_preserved": true
+}

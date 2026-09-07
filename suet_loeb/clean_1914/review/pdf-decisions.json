@@ -1,0 +1,1509 @@
+[
+  {
+    "id": "P001",
+    "kind": "note-anchor",
+    "work": "Augustus",
+    "reference": "50.1",
+    "volume": 1,
+    "note_printed_pages": [
+      204
+    ],
+    "body_printed_page": 205,
+    "marker": "a",
+    "verified_anchor": "passports,",
+    "note_identifier": "Diploma, strictly any document written on a two-leaved tablet",
+    "legacy_ids": [],
+    "decision": "Missing in the audited legacy XML; the 1914 note and its marker are present, so this is not merely a later-printing addition.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      234
+    ],
+    "pdf_body_page": 235,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P002",
+    "kind": "note-anchor",
+    "work": "Augustus",
+    "reference": "53.1",
+    "volume": 1,
+    "note_printed_pages": [
+      206
+    ],
+    "body_printed_page": 207,
+    "marker": "a",
+    "verified_anchor": "Lord",
+    "note_identifier": "Dominus, “master,” in the time of the Republic",
+    "legacy_ids": [],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      236
+    ],
+    "pdf_body_page": 237,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P003",
+    "kind": "note-anchor",
+    "work": "Augustus",
+    "reference": "53.3",
+    "volume": 1,
+    "note_printed_pages": [
+      208
+    ],
+    "body_printed_page": 209,
+    "marker": "a",
+    "verified_anchor": "House",
+    "note_identifier": "That is, they did not make a morning call on him, as in other days.",
+    "legacy_ids": [],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      238
+    ],
+    "pdf_body_page": 239,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P004",
+    "kind": "note-anchor",
+    "work": "Augustus",
+    "reference": "54.1",
+    "volume": 1,
+    "note_printed_pages": [
+      210
+    ],
+    "body_printed_page": 211,
+    "marker": "a",
+    "verified_anchor": "another,",
+    "note_identifier": "See chap. xxxv. 1.",
+    "legacy_ids": [],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      240
+    ],
+    "pdf_body_page": 241,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P005",
+    "kind": "note-anchor",
+    "work": "Augustus",
+    "reference": "56.1",
+    "volume": 1,
+    "note_printed_pages": [
+      210
+    ],
+    "body_printed_page": 211,
+    "marker": "b",
+    "verified_anchor": "wills.",
+    "note_identifier": "The Romans in their wills often express their opinion",
+    "legacy_ids": [],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      240
+    ],
+    "pdf_body_page": 241,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P006",
+    "kind": "note-anchor",
+    "work": "Augustus",
+    "reference": "56.3",
+    "volume": 1,
+    "note_printed_pages": [
+      212
+    ],
+    "body_printed_page": 213,
+    "marker": "a",
+    "verified_anchor": "benches",
+    "note_identifier": "The movable seats provided for the advocates, witnesses, etc.",
+    "legacy_ids": [],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      242
+    ],
+    "pdf_body_page": 243,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P007",
+    "kind": "note-anchor",
+    "work": "Augustus",
+    "reference": "56.3",
+    "volume": 1,
+    "note_printed_pages": [
+      212
+    ],
+    "body_printed_page": 213,
+    "marker": "b",
+    "verified_anchor": "defendant.",
+    "note_identifier": "The custom of defending an accused person by a general eulogy",
+    "legacy_ids": [],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      242
+    ],
+    "pdf_body_page": 243,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P008",
+    "kind": "note-anchor",
+    "work": "Augustus",
+    "reference": "57.1",
+    "volume": 1,
+    "note_printed_pages": [
+      212
+    ],
+    "body_printed_page": 213,
+    "marker": "c",
+    "verified_anchor": "two successive days.",
+    "note_identifier": "September 22 and 23.",
+    "legacy_ids": [],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      242
+    ],
+    "pdf_body_page": 243,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P009",
+    "kind": "note-anchor",
+    "work": "Augustus",
+    "reference": "57.2",
+    "volume": 1,
+    "note_printed_pages": [
+      212
+    ],
+    "body_printed_page": 213,
+    "marker": "d",
+    "verified_anchor": "guilds,",
+    "note_identifier": "Probably of the scribes and other minor officials.",
+    "legacy_ids": [],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      242
+    ],
+    "pdf_body_page": 243,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P010",
+    "kind": "note-anchor",
+    "work": "Augustus",
+    "reference": "60.1",
+    "volume": 1,
+    "note_printed_pages": [
+      216
+    ],
+    "body_printed_page": 217,
+    "marker": "a",
+    "verified_anchor": "Genius",
+    "note_identifier": "One’s tutelary divinity, or familiar spirit",
+    "legacy_ids": [],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      246
+    ],
+    "pdf_body_page": 247,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P011",
+    "kind": "note-anchor",
+    "work": "Augustus",
+    "reference": "73.1",
+    "volume": 1,
+    "note_printed_pages": [
+      238
+    ],
+    "body_printed_page": 239,
+    "marker": "a",
+    "verified_anchor": "house,",
+    "note_identifier": "Opposed to vestis forensis",
+    "legacy_ids": [
+      "L07-N0119",
+      "L03-N0101"
+    ],
+    "decision": "Misplaced in legacy XML: printed marker is after “house,” in “common clothes for the house,” not after “clothing to wear in public”.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      268
+    ],
+    "pdf_body_page": 269,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P012",
+    "kind": "note-anchor",
+    "work": "Augustus",
+    "reference": "74.1",
+    "volume": 1,
+    "note_printed_pages": [
+      238
+    ],
+    "body_printed_page": 239,
+    "marker": "b",
+    "verified_anchor": "formally,",
+    "note_identifier": "The cena recta was a regular dinner",
+    "legacy_ids": [
+      "L07-N0120",
+      "L03-N0102"
+    ],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      268
+    ],
+    "pdf_body_page": 269,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P013",
+    "kind": "note-anchor",
+    "work": "Augustus",
+    "reference": "74.1",
+    "volume": 1,
+    "note_printed_pages": [
+      239
+    ],
+    "body_printed_page": 239,
+    "marker": "c",
+    "verified_anchor": "stop,",
+    "note_identifier": "See chap. lxxii. 2.",
+    "legacy_ids": [],
+    "decision": "Printed note after the phrase about the man at whose villa Augustus used to stop; retained even where absent from a legacy version.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      269
+    ],
+    "pdf_body_page": 269,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P014",
+    "kind": "note-anchor",
+    "work": "Augustus",
+    "reference": "74.2",
+    "volume": 1,
+    "note_printed_pages": [
+      239
+    ],
+    "body_printed_page": 239,
+    "marker": "d",
+    "verified_anchor": "story-tellers.",
+    "note_identifier": "Tellers of marvellous tales",
+    "legacy_ids": [
+      "L07-N0121",
+      "L03-N0103"
+    ],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      269
+    ],
+    "pdf_body_page": 269,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P015",
+    "kind": "note-anchor",
+    "work": "Titus",
+    "reference": "1.1",
+    "volume": 2,
+    "note_printed_pages": [
+      321
+    ],
+    "body_printed_page": 321,
+    "marker": "b",
+    "verified_anchor": "Septizonium",
+    "note_identifier": "Some building of seven stories",
+    "legacy_ids": [
+      "L15-N0001"
+    ],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      857
+    ],
+    "pdf_body_page": 857,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P016",
+    "kind": "note-anchor",
+    "work": "Titus",
+    "reference": "2.2",
+    "volume": 2,
+    "note_printed_pages": [
+      322
+    ],
+    "body_printed_page": 323,
+    "marker": "a",
+    "verified_anchor": "fatal draught,",
+    "note_identifier": "Cf. Nero, xxxiii. 2 and 3.",
+    "legacy_ids": [
+      "L15-N0003"
+    ],
+    "decision": "Marker verified; the printed note begins Cf., not the See of the legacy XML.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      858
+    ],
+    "pdf_body_page": 859,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P017",
+    "kind": "note-anchor",
+    "work": "Titus",
+    "reference": "4.2",
+    "volume": 2,
+    "note_printed_pages": [
+      324
+    ],
+    "body_printed_page": 325,
+    "marker": "a",
+    "verified_anchor": "praetorian cohorts;",
+    "note_identifier": "See Galba xiv. 2, and note e.",
+    "legacy_ids": [
+      "L15-N0004"
+    ],
+    "decision": "The missing cross-reference letter is e in this PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      860
+    ],
+    "pdf_body_page": 861,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P018",
+    "kind": "note-anchor",
+    "work": "Titus",
+    "reference": "5.2",
+    "volume": 2,
+    "note_printed_pages": [
+      324
+    ],
+    "body_printed_page": 325,
+    "marker": "b",
+    "verified_anchor": "hope",
+    "note_identifier": "By the accession of his father Vespasian.",
+    "legacy_ids": [
+      "L15-N0007"
+    ],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      860
+    ],
+    "pdf_body_page": 861,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P019",
+    "kind": "note-anchor",
+    "work": "Titus",
+    "reference": "5.2",
+    "volume": 2,
+    "note_printed_pages": [
+      326
+    ],
+    "body_printed_page": 327,
+    "marker": "a",
+    "verified_anchor": "Imperator",
+    "note_identifier": "See Aug. xiii. 2.",
+    "legacy_ids": [
+      "L15-N0008"
+    ],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      862
+    ],
+    "pdf_body_page": 863,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P020",
+    "kind": "note-anchor",
+    "work": "Titus",
+    "reference": "6.1",
+    "volume": 2,
+    "note_printed_pages": [
+      326
+    ],
+    "body_printed_page": 327,
+    "marker": "b",
+    "verified_anchor": "quaestor.",
+    "note_identifier": "See Nero xv. 2, and note a.",
+    "legacy_ids": [
+      "L15-N0011"
+    ],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      862
+    ],
+    "pdf_body_page": 863,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P021",
+    "kind": "note-anchor",
+    "work": "Titus",
+    "reference": "7.3",
+    "volume": 2,
+    "note_printed_pages": [
+      330
+    ],
+    "body_printed_page": 331,
+    "marker": "a",
+    "verified_anchor": "amphitheatre",
+    "note_identifier": "See note on Vesp. ix.",
+    "legacy_ids": [],
+    "decision": "One of the three notes missing from the legacy Titus XML; explicit printed marker recovered.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      866
+    ],
+    "pdf_body_page": 867,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P022",
+    "kind": "note-anchor",
+    "work": "Titus",
+    "reference": "7.3",
+    "volume": 2,
+    "note_printed_pages": [
+      330
+    ],
+    "body_printed_page": 331,
+    "marker": "b",
+    "verified_anchor": "naumachia,",
+    "note_identifier": "See Aug. xliii. 1.",
+    "legacy_ids": [],
+    "decision": "One of the three notes missing from the legacy Titus XML; explicit printed marker recovered.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      866
+    ],
+    "pdf_body_page": 867,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P023",
+    "kind": "note-anchor",
+    "work": "Titus",
+    "reference": "7.3",
+    "volume": 2,
+    "note_printed_pages": [
+      330
+    ],
+    "body_printed_page": 331,
+    "marker": "c",
+    "verified_anchor": "gladiators,",
+    "note_identifier": "When the water had been let out; cf. Nero, xxvii. 2.",
+    "legacy_ids": [],
+    "decision": "One of the three notes missing from the legacy Titus XML; explicit printed marker recovered.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      866
+    ],
+    "pdf_body_page": 867,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P024",
+    "kind": "note-anchor",
+    "work": "Titus",
+    "reference": "8.2",
+    "volume": 2,
+    "note_printed_pages": [
+      332
+    ],
+    "body_printed_page": 333,
+    "marker": "a",
+    "verified_anchor": "gestures,",
+    "note_identifier": "By humorously pretending to wrangle",
+    "legacy_ids": [
+      "L15-N0014"
+    ],
+    "decision": "Misplaced in legacy XML: printed marker follows “gestures,”, not “justice”.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      868
+    ],
+    "pdf_body_page": 869,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P025",
+    "kind": "note-anchor",
+    "work": "Titus",
+    "reference": "8.4",
+    "volume": 2,
+    "note_printed_pages": [
+      333
+    ],
+    "body_printed_page": 333,
+    "marker": "b",
+    "verified_anchor": "I am ruined,",
+    "note_identifier": "Implying that it was his personal loss",
+    "legacy_ids": [
+      "L15-N0017"
+    ],
+    "decision": "Marker follows the closing quotation after “I am ruined,”.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      869
+    ],
+    "pdf_body_page": 869,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P026",
+    "kind": "note-anchor",
+    "work": "Titus",
+    "reference": "8.4",
+    "volume": 2,
+    "note_printed_pages": [
+      334
+    ],
+    "body_printed_page": 335,
+    "marker": "a",
+    "verified_anchor": "sacrifice",
+    "note_identifier": "To propitiate the gods",
+    "legacy_ids": [
+      "L15-N0018"
+    ],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      870
+    ],
+    "pdf_body_page": 871,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P027",
+    "kind": "note-anchor",
+    "work": "Titus",
+    "reference": "9.1",
+    "volume": 2,
+    "note_printed_pages": [
+      334
+    ],
+    "body_printed_page": 335,
+    "marker": "b",
+    "verified_anchor": "pontifex maximus",
+    "note_identifier": "The office was seldom taken so seriously.",
+    "legacy_ids": [
+      "L15-N0019"
+    ],
+    "decision": "Misplaced in legacy XML: printed marker follows “pontifex maximus”, not “hands unstained”.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      870
+    ],
+    "pdf_body_page": 871,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P028",
+    "kind": "note-anchor",
+    "work": "Titus",
+    "reference": "9.2",
+    "volume": 2,
+    "note_printed_pages": [
+      336
+    ],
+    "body_printed_page": 337,
+    "marker": "a",
+    "verified_anchor": "offered him,",
+    "note_identifier": "The weapons of gladiators were regularly examined",
+    "legacy_ids": [
+      "L15-N0020"
+    ],
+    "decision": "Misplaced in legacy XML: printed marker follows “offered him,”, not the end of the sentence about their inspection.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      872
+    ],
+    "pdf_body_page": 873,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P029",
+    "kind": "note-anchor",
+    "work": "Titus",
+    "reference": "10.2",
+    "volume": 2,
+    "note_printed_pages": [
+      336
+    ],
+    "body_printed_page": 337,
+    "marker": "b",
+    "verified_anchor": "divine.",
+    "note_identifier": "Possibly Domitian’s charge was true",
+    "legacy_ids": [
+      "L15-N0021"
+    ],
+    "decision": "Misplaced in legacy XML: printed marker follows “nor could anyone easily divine.” on p.337, not the end of the paragraph on p.339.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      872
+    ],
+    "pdf_body_page": 873,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P030",
+    "kind": "note-anchor",
+    "work": "Titus",
+    "reference": "11.1",
+    "volume": 2,
+    "note_printed_pages": [
+      338
+    ],
+    "body_printed_page": 339,
+    "marker": "a",
+    "verified_anchor": "farmhouse",
+    "note_identifier": "The old homestead at Cutilae",
+    "legacy_ids": [
+      "L15-N0022"
+    ],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      874
+    ],
+    "pdf_body_page": 875,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P031",
+    "kind": "note-anchor",
+    "work": "Caligula",
+    "reference": "18.2",
+    "volume": 1,
+    "note_printed_pages": [
+      430
+    ],
+    "body_printed_page": 431,
+    "marker": "a",
+    "verified_anchor": "gifts",
+    "note_identifier": "To be scrambled for by the spectators.",
+    "legacy_ids": [],
+    "decision": "The note is present in 1914. The 1914 base reads gifts; gift-tokens is the later OCR witness reading.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      460
+    ],
+    "pdf_body_page": 461,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P032",
+    "kind": "note-anchor",
+    "work": "Caligula",
+    "reference": "18.3",
+    "volume": 1,
+    "note_printed_pages": [
+      430
+    ],
+    "body_printed_page": 431,
+    "marker": "b",
+    "verified_anchor": "panthers",
+    "note_identifier": "Africanae, supply bestiae and see Index.",
+    "legacy_ids": [
+      "L08-N0032"
+    ],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      460
+    ],
+    "pdf_body_page": 461,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P033",
+    "kind": "note-anchor",
+    "work": "Caligula",
+    "reference": "18.3",
+    "volume": 1,
+    "note_printed_pages": [
+      430,
+      431
+    ],
+    "body_printed_page": 431,
+    "marker": "c",
+    "verified_anchor": "balconies,",
+    "note_identifier": "On the houses adjoining the Circus",
+    "legacy_ids": [
+      "L08-N0033"
+    ],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      460,
+      461
+    ],
+    "pdf_body_page": 461,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P034",
+    "kind": "note-anchor",
+    "work": "Caligula",
+    "reference": "19.1",
+    "volume": 1,
+    "note_printed_pages": [
+      431
+    ],
+    "body_printed_page": 431,
+    "marker": "d",
+    "verified_anchor": "paces,",
+    "note_identifier": "Over three and a half Roman miles.",
+    "legacy_ids": [
+      "L08-N0034"
+    ],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      461
+    ],
+    "pdf_body_page": 461,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P035",
+    "kind": "note-anchor",
+    "work": "Caligula",
+    "reference": "50.1",
+    "volume": 1,
+    "note_printed_pages": [
+      480
+    ],
+    "body_printed_page": 481,
+    "marker": "a",
+    "verified_anchor": "legs.",
+    "note_identifier": "Cf. chap. iii. 1.",
+    "legacy_ids": [
+      "L08-N0083"
+    ],
+    "decision": "Legacy XML assigns the note to 50.2; the PDF marker is after “very thin neck and legs.” in 50.1.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      510
+    ],
+    "pdf_body_page": 511,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P036",
+    "kind": "note-anchor",
+    "work": "Caligula",
+    "reference": "50.2",
+    "volume": 1,
+    "note_printed_pages": [
+      480
+    ],
+    "body_printed_page": 481,
+    "marker": "b",
+    "verified_anchor": "falling sickness,",
+    "note_identifier": "See Jul. xlv. 1.",
+    "legacy_ids": [
+      "L08-N0082"
+    ],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      510
+    ],
+    "pdf_body_page": 511,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P037",
+    "kind": "note-anchor",
+    "work": "Caligula",
+    "reference": "58.2",
+    "volume": 1,
+    "note_printed_pages": [
+      494
+    ],
+    "body_printed_page": 495,
+    "marker": "a",
+    "verified_anchor": "Do your duty,",
+    "note_identifier": "Part of the ritual at a sacrifice.",
+    "legacy_ids": [
+      "L08-N0102"
+    ],
+    "decision": "The printed 1914 wording is “Do your duty,”; marker follows the closing quotation.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      524
+    ],
+    "pdf_body_page": 525,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P038",
+    "kind": "note-anchor",
+    "work": "Caligula",
+    "reference": "58.2",
+    "volume": 1,
+    "note_printed_pages": [
+      494
+    ],
+    "body_printed_page": 495,
+    "marker": "b",
+    "verified_anchor": "So be it,",
+    "note_identifier": "Another formula",
+    "legacy_ids": [
+      "L08-N0103"
+    ],
+    "decision": "Legacy XML section is 58.3; the printed marker follows the “So be it,” quotation within the second assassination account in 58.2.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      524
+    ],
+    "pdf_body_page": 525,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P039",
+    "kind": "note-anchor",
+    "work": "Caligula",
+    "reference": "58.3",
+    "volume": 1,
+    "note_printed_pages": [
+      494
+    ],
+    "body_printed_page": 495,
+    "marker": "c",
+    "verified_anchor": "poles,",
+    "note_identifier": "With which they carried his litter.",
+    "legacy_ids": [
+      "L08-N0104"
+    ],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      524
+    ],
+    "pdf_body_page": 525,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P040",
+    "kind": "note-anchor",
+    "work": "Vespasian",
+    "reference": "22.1",
+    "volume": 2,
+    "note_printed_pages": [
+      314
+    ],
+    "body_printed_page": 315,
+    "marker": "a",
+    "verified_anchor": "obscene expressions.",
+    "note_identifier": "Cf. Macrobius",
+    "legacy_ids": [
+      "L16-N0048"
+    ],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      850
+    ],
+    "pdf_body_page": 851,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P041",
+    "kind": "note-anchor",
+    "work": "Vespasian",
+    "reference": "22.1",
+    "volume": 2,
+    "note_printed_pages": [
+      314,
+      315
+    ],
+    "body_printed_page": 315,
+    "marker": "b",
+    "verified_anchor": "plaustra",
+    "note_identifier": "Plaustra was the original form",
+    "legacy_ids": [
+      "L16-N0049"
+    ],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      850,
+      851
+    ],
+    "pdf_body_page": 851,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P042",
+    "kind": "note-anchor",
+    "work": "Vespasian",
+    "reference": "23.1",
+    "volume": 2,
+    "note_printed_pages": [
+      316
+    ],
+    "body_printed_page": 317,
+    "marker": "a",
+    "verified_anchor": "shadow,",
+    "note_identifier": "Iliad 7. 213.",
+    "legacy_ids": [
+      "L16-N0050"
+    ],
+    "decision": "Marker follows the closing quotation of the verse.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      852
+    ],
+    "pdf_body_page": 853,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P043",
+    "kind": "note-anchor",
+    "work": "Vespasian",
+    "reference": "23.1",
+    "volume": 2,
+    "note_printed_pages": [
+      316
+    ],
+    "body_printed_page": 317,
+    "marker": "b",
+    "verified_anchor": "To Cerylus again.",
+    "note_identifier": "Menander, Fr. 223. 2, Koch.",
+    "legacy_ids": [
+      "L16-N0051"
+    ],
+    "decision": "Marker follows the closing quotation of the verse.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      852
+    ],
+    "pdf_body_page": 853,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P044",
+    "kind": "note-anchor",
+    "work": "Vespasian",
+    "reference": "23.4",
+    "volume": 2,
+    "note_printed_pages": [
+      318
+    ],
+    "body_printed_page": 319,
+    "marker": "a",
+    "verified_anchor": "Mausoleum",
+    "note_identifier": "Of Augustus; see Aug. c. 4.",
+    "legacy_ids": [
+      "L16-N0052"
+    ],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      854
+    ],
+    "pdf_body_page": 855,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P045",
+    "kind": "note-anchor",
+    "work": "Vespasian",
+    "reference": "23.4",
+    "volume": 2,
+    "note_printed_pages": [
+      318,
+      319
+    ],
+    "body_printed_page": 319,
+    "marker": "b",
+    "verified_anchor": "his hair long;",
+    "note_identifier": "The connection between the stella crinita",
+    "legacy_ids": [
+      "L16-N0053"
+    ],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      854,
+      855
+    ],
+    "pdf_body_page": 855,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P046",
+    "kind": "note-anchor",
+    "work": "Vespasian",
+    "reference": "25.1",
+    "volume": 2,
+    "note_printed_pages": [
+      320
+    ],
+    "body_printed_page": 321,
+    "marker": "a",
+    "verified_anchor": "same term of years.",
+    "note_identifier": "Claudius and Nero reigned thirteen and fourteen years",
+    "legacy_ids": [
+      "L16-N0056"
+    ],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      856
+    ],
+    "pdf_body_page": 857,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P047",
+    "kind": "note-anchor",
+    "work": "Domitian",
+    "reference": "1.1",
+    "volume": 2,
+    "note_printed_pages": [
+      338,
+      339
+    ],
+    "body_printed_page": 339,
+    "marker": "b",
+    "verified_anchor": "Pomegranate,",
+    "note_identifier": "Various quarters and streets of the city were designated",
+    "legacy_ids": [
+      "L10-N0002"
+    ],
+    "decision": "Continued note: starts below the Latin on p.338 and continues below English on p.339; marker follows closing quotation after Pomegranate.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      874,
+      875
+    ],
+    "pdf_body_page": 875,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P048",
+    "kind": "note-anchor",
+    "work": "Tiberius",
+    "reference": "42.1",
+    "volume": 1,
+    "note_printed_pages": [
+      352
+    ],
+    "body_printed_page": 353,
+    "marker": "a",
+    "verified_anchor": "Nero.",
+    "note_identifier": "See Index s.v. Biberius.",
+    "legacy_ids": [
+      "L14-N0093"
+    ],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      382
+    ],
+    "pdf_body_page": 383,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P049",
+    "kind": "note-anchor",
+    "work": "Tiberius",
+    "reference": "42.2",
+    "volume": 1,
+    "note_printed_pages": [
+      352
+    ],
+    "body_printed_page": 353,
+    "marker": "b",
+    "verified_anchor": "amphora",
+    "note_identifier": "Probably the emperor took a sip",
+    "legacy_ids": [
+      "L14-N0094"
+    ],
+    "decision": "Marker follows amphora, before “of wine”; legacy position is after the longer phrase.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      382
+    ],
+    "pdf_body_page": 383,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P050",
+    "kind": "note-anchor",
+    "work": "Tiberius",
+    "reference": "46.1",
+    "volume": 1,
+    "note_printed_pages": [
+      356
+    ],
+    "body_printed_page": 357,
+    "marker": "a",
+    "verified_anchor": "Greeks,",
+    "note_identifier": "See chap. lvi.",
+    "legacy_ids": [],
+    "decision": "Printed note is absent from the inherited Gemini-attributed chapter 46 block. It belongs to Rolfe’s existing English translation.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      386
+    ],
+    "pdf_body_page": 387,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P051",
+    "kind": "note-anchor",
+    "work": "Tiberius",
+    "reference": "47.1",
+    "volume": 1,
+    "note_printed_pages": [
+      358
+    ],
+    "body_printed_page": 359,
+    "marker": "a",
+    "verified_anchor": "Augustus.",
+    "note_identifier": "Cf. Aug. xli. 1; Tac. Ann. 2. 37.",
+    "legacy_ids": [
+      "L14-N0097"
+    ],
+    "decision": "Confirms the attachment of the note retained separately with the inherited chapter 47 block.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      388
+    ],
+    "pdf_body_page": 389,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P052",
+    "kind": "note-anchor",
+    "work": "Tiberius",
+    "reference": "48.1",
+    "volume": 1,
+    "note_printed_pages": [
+      358
+    ],
+    "body_printed_page": 359,
+    "marker": "b",
+    "verified_anchor": "burned down.",
+    "note_identifier": "This occurred twice, in 27 and 36",
+    "legacy_ids": [
+      "L14-N0098"
+    ],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      388
+    ],
+    "pdf_body_page": 389,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P053",
+    "kind": "note-anchor",
+    "work": "Tiberius",
+    "reference": "48.1",
+    "volume": 1,
+    "note_printed_pages": [
+      358
+    ],
+    "body_printed_page": 359,
+    "marker": "c",
+    "verified_anchor": "senate,",
+    "note_identifier": "The decree is quoted by Tac. Ann. 6. 17.",
+    "legacy_ids": [
+      "L14-N0099"
+    ],
+    "decision": "Printed marker immediately follows “decree of the senate,”; not after the description of the debt repayment.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      388
+    ],
+    "pdf_body_page": 389,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P054",
+    "kind": "note-anchor",
+    "work": "Tiberius",
+    "reference": "48.1",
+    "volume": 1,
+    "note_printed_pages": [
+      358
+    ],
+    "body_printed_page": 359,
+    "marker": "d",
+    "verified_anchor": "Augustan Mount.",
+    "note_identifier": "According to Tacitus",
+    "legacy_ids": [
+      "L14-N0100"
+    ],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      388
+    ],
+    "pdf_body_page": 389,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P055",
+    "kind": "note-anchor",
+    "work": "Tiberius",
+    "reference": "48.2",
+    "volume": 1,
+    "note_printed_pages": [
+      358,
+      359
+    ],
+    "body_printed_page": 359,
+    "marker": "e",
+    "verified_anchor": "standards.",
+    "note_identifier": "The standards had a sacred character",
+    "legacy_ids": [
+      "L14-N0101"
+    ],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      388,
+      389
+    ],
+    "pdf_body_page": 389,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P056",
+    "kind": "note-anchor",
+    "work": "Tiberius",
+    "reference": "48.2",
+    "volume": 1,
+    "note_printed_pages": [
+      359
+    ],
+    "body_printed_page": 359,
+    "marker": "f",
+    "verified_anchor": "death.",
+    "note_identifier": "Since he would save the rewards",
+    "legacy_ids": [
+      "L14-N0102"
+    ],
+    "decision": "Printed marker and corresponding note visually verified in the 1914 PDF.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      389
+    ],
+    "pdf_body_page": 389,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P057",
+    "kind": "note-anchor",
+    "work": "Tiberius",
+    "reference": "59.2",
+    "volume": 1,
+    "note_printed_pages": [
+      376
+    ],
+    "body_printed_page": 377,
+    "marker": "a",
+    "verified_anchor": "conduct.",
+    "note_identifier": "Cf. Calig. xxx. 1.",
+    "legacy_ids": [],
+    "decision": "Marker follows the closing quotation of the saying; source note and its location verified.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      406
+    ],
+    "pdf_body_page": 407,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P058",
+    "kind": "note-anchor",
+    "work": "Tiberius",
+    "reference": "60.1",
+    "volume": 1,
+    "note_printed_pages": [
+      376
+    ],
+    "body_printed_page": 377,
+    "marker": "b",
+    "verified_anchor": "first cohorts,",
+    "note_identifier": "If the text is correct, primae cohortes",
+    "legacy_ids": [],
+    "decision": "Marker follows “first cohorts,”; source note verified.",
+    "review_status": "Verified in 1914 PDF",
+    "pdf_note_pages": [
+      406
+    ],
+    "pdf_body_page": 407,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "P059",
+    "kind": "unsupported-note",
+    "work": "Titus",
+    "reference": "7.1",
+    "volume": 2,
+    "note_printed_pages": [],
+    "body_printed_page": 329,
+    "marker": "",
+    "verified_anchor": "",
+    "note_identifier": "See Nero xv. 2, and note c.",
+    "legacy_ids": [
+      "L15-N0012"
+    ],
+    "decision": "No footnote or marker after “second Nero” on p.329, and no corresponding English footnote on p.328. The genuine cross-reference occurs at 6.1, marked b after quaestor, with note a in the cross-reference. Exclude this legacy extra from the 1914 edition.",
+    "review_status": "Rejected for 1914 base",
+    "pdf_note_pages": [],
+    "pdf_body_page": 865,
+    "evidence_type": "Direct visual inspection of printed PDF pages",
+    "reviewer": "Codex",
+    "date": "2026-09-07"
+  }
+]
