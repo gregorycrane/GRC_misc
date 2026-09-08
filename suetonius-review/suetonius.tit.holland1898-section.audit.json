@@ -1,0 +1,2949 @@
+{
+  "file": "/Users/gcrane/github/GRC_misc/suet_holland/suetonius.tit.holland1898-section.xml",
+  "sha256": "a5864286959ccb6449318ac9f2dae9c6405a701fddca86687b7bf6fbb7c6136f",
+  "volume": 2,
+  "chapters": 10,
+  "sections": 26,
+  "notes": 34,
+  "rows": [
+    {
+      "kind": "note",
+      "index": 1,
+      "reference": "1.1",
+      "path": "/*/*[2]/*/*[3]/*[1]/*/*[1]",
+      "line": 26,
+      "attributes": {
+        "type": "numerical",
+        "n": "1"
+      },
+      "text": "30 of December.",
+      "witnesses": {
+        "holland2-uc1": null,
+        "holland2-hvd": null
+      },
+      "anchor_evidence": [
+        {
+          "source": "holland2-uc1",
+          "page": "225",
+          "context": "the calends of januarie 1: in that yeere which",
+          "marker_support": true
+        },
+        {
+          "source": "holland2-hvd",
+          "page": "225",
+          "context": "the calends of januarie1: in that yeere which",
+          "marker_support": true
+        }
+      ],
+      "anchor_status": "marker-supported",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 2,
+      "reference": "1.1",
+      "path": "/*/*[2]/*/*[3]/*[1]/*/*[2]",
+      "line": 26,
+      "attributes": {
+        "type": "alphabetical",
+        "n": "a"
+      },
+      "text": "A PLACE in Rome so called of a building there, which stood upon seven courses of Columnes or Pillars, arising all round and higher every one than other, in manner of so many circles or girdles. ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "284",
+          "seq": 296,
+          "differences": [],
+          "source_span": "a place in rome so called of a building there which stood upon seven courses of columnes or pillars arising all round and higher every one than other in manner of so many circles or girdles"
+        },
+        "holland2-hvd": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "284",
+          "seq": 298,
+          "differences": [],
+          "source_span": "a place in rome so called of a building there which stood upon seven courses of columnes or pillars arising all round and higher every one than other in manner of so many circles or girdles"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 3,
+      "reference": "1.2",
+      "path": "/*/*[2]/*/*[3]/*[2]/*/*[1]",
+      "line": 29,
+      "attributes": {
+        "type": "numerical",
+        "n": "2"
+      },
+      "text": "Metoposcopum.",
+      "witnesses": {
+        "holland2-uc1": null,
+        "holland2-hvd": null
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 4,
+      "reference": "1.2",
+      "path": "/*/*[2]/*/*[3]/*[2]/*/*[2]",
+      "line": 29,
+      "attributes": {
+        "type": "alphabetical",
+        "n": "b"
+      },
+      "text": "He meaneth not a Physiognomer, who hath taken upon him by inspection of eyes, forehead, face, etc., to tell ones nature and disposition: such a one as Zopyrus was, who noted Socrates for to be by naturall inclination a wanton lover of women: but a fortune teller, by looking on the forehead onely. Such as in these daies, by the art of Palmestrie, for-sooth, can assure folke, how long they shall live, and what not. If they do but see lines in the palmes of their hands, or by feaxe in the forehead, will say, how many wives a man shall have, etc. As vaine as those, who by counting the letters of the husband and the wives name, will confidently pronounce, whether of them shall burie the other. ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.9923076923076923,
+          "score": 0.9923076923076923,
+          "page": "284",
+          "seq": 296,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "a",
+              "after": "an",
+              "left": "ones nature and disposition such",
+              "right": "one as zopyrus was who"
+            }
+          ],
+          "source_span": "he meaneth not a physiognomer who hath taken upon him by inspection of eyes forehead face etc to tell ones nature and disposition such an one as zopyrus was who noted socrates for to be by naturall inclination a wanton lover of women but a fortune teller by looking on the forehead onely such as in these daies by the art of palmestrie for sooth can assure folke how long they shall live and what not if they do but see lines in the palmes of their hands or by feaxe in the forehead will say how many wives a man shall have etc as vaine as those who by counting the letters of the husband and the wives name will confidently pronounce whether of them shall burie the other"
+        },
+        "holland2-hvd": {
+          "rank": 0.9923076923076923,
+          "score": 0.9923076923076923,
+          "page": "284",
+          "seq": 298,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "a",
+              "after": "an",
+              "left": "ones nature and disposition such",
+              "right": "one as zopyrus was who"
+            }
+          ],
+          "source_span": "he meaneth not a physiognomer who hath taken upon him by inspection of eyes forehead face etc to tell ones nature and disposition such an one as zopyrus was who noted socrates for to be by naturall inclination a wanton lover of women but a fortune teller by looking on the forehead onely such as in these daies by the art of palmestrie for sooth can assure folke how long they shall live and what not if they do but see lines in the palmes of their hands or by feaxe in the forehead will say how many wives a man shall have etc as vaine as those who by counting the letters of the husband and the wives name will confidently pronounce whether of them shall burie the other"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 5,
+      "reference": "1.2",
+      "path": "/*/*[2]/*/*[3]/*[2]/*/*[3]",
+      "line": 29,
+      "attributes": {
+        "type": "numerical",
+        "n": "3"
+      },
+      "text": "Britannicus.",
+      "witnesses": {
+        "holland2-uc1": null,
+        "holland2-hvd": null
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 6,
+      "reference": "1.2",
+      "path": "/*/*[2]/*/*[3]/*[2]/*/*[5]",
+      "line": 29,
+      "attributes": {
+        "type": "numerical",
+        "n": "1"
+      },
+      "text": "Britannicus.",
+      "witnesses": {
+        "holland2-uc1": null,
+        "holland2-hvd": null
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 7,
+      "reference": "2.1",
+      "path": "/*/*[2]/*/*[4]/*[1]/*/*",
+      "line": 37,
+      "attributes": {
+        "type": "numerical",
+        "n": "2"
+      },
+      "text": "Auchthoritatis, which Tacitus calleth maiestatem.",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.8,
+          "score": 0.8,
+          "page": "225",
+          "seq": 237,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "auchthoritatis",
+              "after": "aucthoritatis",
+              "left": "",
+              "right": "which tacitus calleth maiestatem"
+            }
+          ],
+          "source_span": "aucthoritatis which tacitus calleth maiestatem"
+        },
+        "holland2-hvd": {
+          "rank": 0.8,
+          "score": 0.8,
+          "page": "225",
+          "seq": 239,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "auchthoritatis",
+              "after": "aucthoritatis",
+              "left": "",
+              "right": "which tacitus calleth maiestatem"
+            }
+          ],
+          "source_span": "aucthoritatis which tacitus calleth maiestatem"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "holland2-uc1",
+          "page": "226",
+          "context": "seated no\nlesse majestie than favour and beauty",
+          "marker_support": false
+        },
+        {
+          "source": "holland2-hvd",
+          "page": "226",
+          "context": "seated no\nlesse majestie 2 e than favour and beauty",
+          "marker_support": true
+        }
+      ],
+      "anchor_status": "marker-supported",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 8,
+      "reference": "3.1",
+      "path": "/*/*[2]/*/*[5]/*[1]/*/*[1]",
+      "line": 46,
+      "attributes": {
+        "type": "numerical",
+        "n": "3"
+      },
+      "text": "Temperate behaviour.",
+      "witnesses": {
+        "holland2-uc1": null,
+        "holland2-hvd": null
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 9,
+      "reference": "3.1",
+      "path": "/*/*[2]/*/*[5]/*[1]/*/*[3]",
+      "line": 46,
+      "attributes": {
+        "type": "alphabetical",
+        "n": "a"
+      },
+      "text": "By titles in this place, and many others of Suetonius, are to be understood inscriptions, testifying for what considerations such Statues were erected. Such also were usually set up at publicke executions, to shew the offences and causes why any suffered. A thing usuall among the Romanes in their government, in what Province so ever, as may appeare by that which stood upon the Crosse of our Saviour Christ. ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "284",
+          "seq": 296,
+          "differences": [],
+          "source_span": "by titles in this place and many others of suetonius are to be understood inscriptions testifying for what considerations such statues were erected such also were usually set up at publicke executions to shew the offences and causes why any suffered a thing usuall among the romanes in their government in what province so ever as may appeare by that which stood upon the crosse of our saviour christ"
+        },
+        "holland2-hvd": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "284",
+          "seq": 298,
+          "differences": [],
+          "source_span": "by titles in this place and many others of suetonius are to be understood inscriptions testifying for what considerations such statues were erected such also were usually set up at publicke executions to shew the offences and causes why any suffered a thing usuall among the romanes in their government in what province so ever as may appeare by that which stood upon the crosse of our saviour christ"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 10,
+      "reference": "3.2",
+      "path": "/*/*[2]/*/*[5]/*[2]/*/*[1]",
+      "line": 49,
+      "attributes": {
+        "type": "numerical",
+        "n": "1"
+      },
+      "text": "In undertaking causes of greatest importance.",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "226",
+          "seq": 238,
+          "differences": [],
+          "source_span": "in undertaking causes of greatest importance"
+        },
+        "holland2-hvd": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "226",
+          "seq": 240,
+          "differences": [],
+          "source_span": "in undertaking causes of greatest importance"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "holland2-uc1",
+          "page": "227",
+          "context": "winne credite and reputation 1, than to make it",
+          "marker_support": true
+        },
+        {
+          "source": "holland2-hvd",
+          "page": "227",
+          "context": "winne credite and reputation 1, than to make it",
+          "marker_support": true
+        }
+      ],
+      "anchor_status": "marker-supported",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 11,
+      "reference": "3.2",
+      "path": "/*/*[2]/*/*[5]/*[2]/*/*[2]",
+      "line": 49,
+      "attributes": {
+        "type": "numerical",
+        "n": "2"
+      },
+      "text": "In entertaining al matters whatsoever.",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "226",
+          "seq": 238,
+          "differences": [],
+          "source_span": "in entertaining al matters whatsoever"
+        },
+        "holland2-hvd": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "226",
+          "seq": 240,
+          "differences": [],
+          "source_span": "in entertaining al matters whatsoever"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 12,
+      "reference": "3.3",
+      "path": "/*/*[2]/*/*[5]/*[3]/*/*",
+      "line": 52,
+      "attributes": {
+        "type": "numerical",
+        "n": "3"
+      },
+      "text": "Neere to the Lake Genezareth.",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "226",
+          "seq": 238,
+          "differences": [],
+          "source_span": "neere to the lake genezareth"
+        },
+        "holland2-hvd": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "226",
+          "seq": 240,
+          "differences": [],
+          "source_span": "neere to the lake genezareth"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "holland2-uc1",
+          "page": "227",
+          "context": "under his subjection taricheas and gamala two most",
+          "marker_support": false
+        },
+        {
+          "source": "holland2-hvd",
+          "page": "227",
+          "context": "under his subjection taricheas and gamala two most",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 13,
+      "reference": "4.1",
+      "path": "/*/*[2]/*/*[6]/*[1]/*/*",
+      "line": 58,
+      "attributes": {
+        "type": "numerical",
+        "n": "4"
+      },
+      "text": "In Paphos a citie within the Isle Cyprus.",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "226",
+          "seq": 238,
+          "differences": [],
+          "source_span": "in paphos a citie within the isle cyprus"
+        },
+        "holland2-hvd": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "226",
+          "seq": 240,
+          "differences": [],
+          "source_span": "in paphos a citie within the isle cyprus"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "holland2-uc1",
+          "page": "227",
+          "context": "oracle of venus\npaphia: where, whilst he asked",
+          "marker_support": false
+        },
+        {
+          "source": "holland2-hvd",
+          "page": "227",
+          "context": "oracle of venus\npaphia: where, whilst he asked",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 14,
+      "reference": "4.2",
+      "path": "/*/*[2]/*/*[6]/*[2]/*/*[1]",
+      "line": 61,
+      "attributes": {
+        "type": "numerical",
+        "n": "5"
+      },
+      "text": "Propugnatores.",
+      "witnesses": {
+        "holland2-uc1": null,
+        "holland2-hvd": null
+      },
+      "anchor_evidence": [
+        {
+          "source": "holland2-uc1",
+          "page": "227",
+          "context": "that defended\nthe wall, with just so many",
+          "marker_support": false
+        },
+        {
+          "source": "holland2-hvd",
+          "page": "227",
+          "context": "that defended\nthe wall, with just so many",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 15,
+      "reference": "4.2",
+      "path": "/*/*[2]/*/*[6]/*[2]/*/*[2]",
+      "line": 61,
+      "attributes": {
+        "type": "numerical",
+        "n": "6"
+      },
+      "text": "8th of September, Joseph. lib. 7: De Bello Judaico.",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "226",
+          "seq": 238,
+          "differences": [],
+          "source_span": "8th of september joseph lib 7 de bello judaico"
+        },
+        "holland2-hvd": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "226",
+          "seq": 240,
+          "differences": [],
+          "source_span": "8th of september joseph lib 7 de bello judaico"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 16,
+      "reference": "4.3",
+      "path": "/*/*[2]/*/*[6]/*[3]/*/*",
+      "line": 64,
+      "attributes": {
+        "type": "alphabetical",
+        "n": "a"
+      },
+      "text": "That is to say a white band or ribband: such as the Royall Diademe at first was. ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "284",
+          "seq": 296,
+          "differences": [],
+          "source_span": "that is to say a white band or ribband such as the royall diademe at first was"
+        },
+        "holland2-hvd": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "284",
+          "seq": 298,
+          "differences": [],
+          "source_span": "that is to say a white band or ribband such as the royall diademe at first was"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 17,
+      "reference": "5.1",
+      "path": "/*/*[2]/*/*[7]/*[1]/*/*",
+      "line": 71,
+      "attributes": {
+        "type": "numerical",
+        "n": "1"
+      },
+      "text": "Missives.",
+      "witnesses": {
+        "holland2-uc1": null,
+        "holland2-hvd": null
+      },
+      "anchor_evidence": [
+        {
+          "source": "holland2-uc1",
+          "page": "228",
+          "context": "yea, and read orations1\nin senate, and that",
+          "marker_support": true
+        },
+        {
+          "source": "holland2-hvd",
+          "page": "228",
+          "context": "yea, and read orations 1\nin senate, and that",
+          "marker_support": true
+        }
+      ],
+      "anchor_status": "marker-supported",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 18,
+      "reference": "6.1",
+      "path": "/*/*[2]/*/*[8]/*[1]/*/*[1]",
+      "line": 80,
+      "attributes": {
+        "type": "numerical",
+        "n": "1"
+      },
+      "text": "The sister as some thinke of Agrippa, and wife for a while of Polemon King of Lycia: others say, she was the wife first of Aristobulus, afterwards of Antipater.",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "228",
+          "seq": 240,
+          "differences": [],
+          "source_span": "the sister as some thinke of agrippa and wife for a while of polemon king of lycia others say she was the wife first of aristobulus afterwards of antipater"
+        },
+        "holland2-hvd": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "228",
+          "seq": 242,
+          "differences": [],
+          "source_span": "the sister as some thinke of agrippa and wife for a while of polemon king of lycia others say she was the wife first of aristobulus afterwards of antipater"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "holland2-uc1",
+          "page": "229",
+          "context": "beare\nto queene berenice1, unto whom also, as",
+          "marker_support": true
+        },
+        {
+          "source": "holland2-hvd",
+          "page": "229",
+          "context": "beare\nto queene berenice 1, unto whom also, as",
+          "marker_support": true
+        }
+      ],
+      "anchor_status": "marker-supported",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 19,
+      "reference": "6.1",
+      "path": "/*/*[2]/*/*[8]/*[1]/*/*[2]",
+      "line": 80,
+      "attributes": {
+        "type": "numerical",
+        "n": "2"
+      },
+      "text": "Agnitionibus.",
+      "witnesses": {
+        "holland2-uc1": null,
+        "holland2-hvd": null
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 20,
+      "reference": "6.3",
+      "path": "/*/*[2]/*/*[8]/*[3]/*/*[1]",
+      "line": 86,
+      "attributes": {
+        "type": "numerical",
+        "n": "1"
+      },
+      "text": "At which solemnity 5000 wilde beasts were killed. As Eusebius Chronographus and Eutropius write.",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "229",
+          "seq": 241,
+          "differences": [],
+          "source_span": "at which solemnity 5000 wilde beasts were killed as eusebius chronographus and eutropius write"
+        },
+        "holland2-hvd": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "229",
+          "seq": 243,
+          "differences": [],
+          "source_span": "at which solemnity 5000 wilde beasts were killed as eusebius chronographus and eutropius write"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "holland2-uc1",
+          "page": "230",
+          "context": "having dedicated\nan amphitheatre 1, and built the baines",
+          "marker_support": true
+        },
+        {
+          "source": "holland2-hvd",
+          "page": "230",
+          "context": "having dedicated\nan amphitheatre 1, and built the baines",
+          "marker_support": true
+        }
+      ],
+      "anchor_status": "marker-supported",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 21,
+      "reference": "6.3",
+      "path": "/*/*[2]/*/*[8]/*[3]/*/*[2]",
+      "line": 86,
+      "attributes": {
+        "type": "numerical",
+        "n": "2"
+      },
+      "text": "Celeriter.",
+      "witnesses": {
+        "holland2-uc1": null,
+        "holland2-hvd": null
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 22,
+      "reference": "6.3",
+      "path": "/*/*[2]/*/*[8]/*[3]/*/*[3]",
+      "line": 86,
+      "attributes": {
+        "type": "alphabetical",
+        "n": "a"
+      },
+      "text": "Of these Baines, with what speede and celerity they were finished, Martialis writeth thus:  Hic ubi miramur velocia munera, Thermas. ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "284",
+          "seq": 296,
+          "differences": [],
+          "source_span": "of these baines with what speede and celerity they were finished martialis writeth thus hic ubi miramur velocia munera thermas"
+        },
+        "holland2-hvd": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "284",
+          "seq": 298,
+          "differences": [],
+          "source_span": "of these baines with what speede and celerity they were finished martialis writeth thus hic ubi miramur velocia munera thermas"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 23,
+      "reference": "7.2",
+      "path": "/*/*[2]/*/*[9]/*[2]/*/*[2]",
+      "line": 95,
+      "attributes": {
+        "type": "numerical",
+        "n": "1"
+      },
+      "text": "Who were opposite to the Mirmillones, that were armed after the French fashion.",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "230",
+          "seq": 242,
+          "differences": [],
+          "source_span": "who were opposite to the mirmillones that were armed after the french fashion"
+        },
+        "holland2-hvd": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "230",
+          "seq": 244,
+          "differences": [],
+          "source_span": "who were opposite to the mirmillones that were armed after the french fashion"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 24,
+      "reference": "7.3",
+      "path": "/*/*[2]/*/*[9]/*[3]/*/*",
+      "line": 98,
+      "attributes": {
+        "type": "numerical",
+        "n": "2"
+      },
+      "text": "Wherin there died ten thousand a day. Euseb.",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "230",
+          "seq": 242,
+          "differences": [],
+          "source_span": "wherin there died ten thousand a day euseb"
+        },
+        "holland2-hvd": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "230",
+          "seq": 244,
+          "differences": [],
+          "source_span": "wherin there died ten thousand a day euseb"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "holland2-uc1",
+          "page": "231",
+          "context": "as also a pestilence 2, the like whereof had",
+          "marker_support": true
+        },
+        {
+          "source": "holland2-hvd",
+          "page": "231",
+          "context": "as also a pestilence 2, the like whereof had",
+          "marker_support": true
+        }
+      ],
+      "anchor_status": "marker-supported",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 25,
+      "reference": "7.4",
+      "path": "/*/*[2]/*/*[9]/*[4]/*/*[1]",
+      "line": 101,
+      "attributes": {
+        "type": "numerical",
+        "n": "3"
+      },
+      "text": "By the burning of Vesevus which consumed many towns and much people.",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "230",
+          "seq": 242,
+          "differences": [],
+          "source_span": "by the burning of vesevus which consumed many towns and much people"
+        },
+        "holland2-hvd": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "230",
+          "seq": 244,
+          "differences": [],
+          "source_span": "by the burning of vesevus which consumed many towns and much people"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "holland2-uc1",
+          "page": "231",
+          "context": "the losses in campania3, he chose by lot",
+          "marker_support": true
+        },
+        {
+          "source": "holland2-hvd",
+          "page": "231",
+          "context": "the losses in campania 3, he chose by lot",
+          "marker_support": true
+        }
+      ],
+      "anchor_status": "marker-supported",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 26,
+      "reference": "7.4",
+      "path": "/*/*[2]/*/*[9]/*[4]/*/*[2]",
+      "line": 101,
+      "attributes": {
+        "type": "numerical",
+        "n": "4"
+      },
+      "text": "In the Country, as Columnes, statues, painted tables, etc.",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "230",
+          "seq": 242,
+          "differences": [],
+          "source_span": "in the country as columnes statues painted tables etc"
+        },
+        "holland2-hvd": {
+          "rank": 0.8888888888888888,
+          "score": 0.8888888888888888,
+          "page": "230",
+          "seq": 244,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "in",
+              "after": "people",
+              "left": "",
+              "right": "the country as columnes statues"
+            }
+          ],
+          "source_span": "people the country as columnes statues painted tables etc"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 27,
+      "reference": "8.2",
+      "path": "/*/*[2]/*/*[10]/*[2]/*/*[2]",
+      "line": 113,
+      "attributes": {
+        "type": "numerical",
+        "n": "1"
+      },
+      "text": "As their armour, weapons, etc.",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "232",
+          "seq": 244,
+          "differences": [],
+          "source_span": "as their armour weapons etc"
+        },
+        "holland2-hvd": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "232",
+          "seq": 246,
+          "differences": [],
+          "source_span": "as their armour weapons etc"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 28,
+      "reference": "8.2",
+      "path": "/*/*[2]/*/*[10]/*[2]/*/*[3]",
+      "line": 113,
+      "attributes": {
+        "type": "alphabetical",
+        "n": "a"
+      },
+      "text": "Dooing them thus much credit in the eyes of the world, as to give the allowance and approbation, or otherwise, of the weapons wherewith they should fight. For, in this sense may Ornaments be taken: the rather, because some copies have Ferramenta. Or this place may be understood of other furniture, as well as armes, wherwith they should come appointed into the listes.",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.9265079365079365,
+          "score": 0.9365079365079365,
+          "page": "285",
+          "seq": 297,
+          "differences": [
+            {
+              "op": "delete",
+              "before": "dooing them thus much",
+              "after": "",
+              "left": "",
+              "right": "credit in the eyes of"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "titus flavius vespasianus augustus 285 twelve cæsars titus",
+              "left": "otherwise of the weapons wherewith",
+              "right": "they should fight for in"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "flavius",
+              "left": "may ornaments be taken the",
+              "right": "rather because some copies have"
+            }
+          ],
+          "source_span": "credit in the eyes of the world as to give the allowance and approbation or otherwise of the weapons wherewith titus flavius vespasianus augustus 285 twelve cæsars titus they should fight for in this sense may ornaments be taken the flavius rather because some copies have ferramenta or this place may be understood of other furniture as well as armes wherwith they should come appointed into the listes"
+        },
+        "holland2-hvd": {
+          "rank": 0.8947619047619048,
+          "score": 0.9047619047619048,
+          "page": "285",
+          "seq": 299,
+          "differences": [
+            {
+              "op": "delete",
+              "before": "dooing them thus much credit in",
+              "after": "",
+              "left": "",
+              "right": "the eyes of the world"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "titus flavius vespasianus augustus 285 twelve cæsars titus flavius vespasianus augustus",
+              "left": "otherwise of the weapons wherewith",
+              "right": "they should fight for in"
+            }
+          ],
+          "source_span": "the eyes of the world as to give the allowance and approbation or otherwise of the weapons wherewith titus flavius vespasianus augustus 285 twelve cæsars titus flavius vespasianus augustus they should fight for in this sense may ornaments be taken the rather because some copies have ferramenta or this place may be understood of other furniture as well as armes wherwith they should come appointed into the listes"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 29,
+      "reference": "8.2",
+      "path": "/*/*[2]/*/*[10]/*[2]/*/*[4]",
+      "line": 113,
+      "attributes": {
+        "type": "numerical",
+        "n": "2"
+      },
+      "text": "Ascendents of their Nativity.",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "232",
+          "seq": 244,
+          "differences": [],
+          "source_span": "ascendents of their nativity"
+        },
+        "holland2-hvd": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "232",
+          "seq": 246,
+          "differences": [],
+          "source_span": "ascendents of their nativity"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 30,
+      "reference": "8.3",
+      "path": "/*/*[2]/*/*[10]/*[3]/*/*",
+      "line": 116,
+      "attributes": {
+        "type": "numerical",
+        "n": "3"
+      },
+      "text": "Domitian.",
+      "witnesses": {
+        "holland2-uc1": null,
+        "holland2-hvd": null
+      },
+      "anchor_evidence": [
+        {
+          "source": "holland2-uc1",
+          "page": "233",
+          "context": "his owne brother 3\nnever ceasing to lay",
+          "marker_support": true
+        },
+        {
+          "source": "holland2-hvd",
+          "page": "233",
+          "context": "his owne brother 3\nnever ceasing to lay",
+          "marker_support": true
+        }
+      ],
+      "anchor_status": "marker-supported",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 31,
+      "reference": "9.1",
+      "path": "/*/*[2]/*/*[11]/*[1]/*/*",
+      "line": 122,
+      "attributes": {
+        "type": "alphabetical",
+        "n": "a"
+      },
+      "text": "This hath beene observed in all ages, to fore-runne the death of some Prince. Thus, before the end of Julius Cæsar, as Virgil writeth,  Non alias lato occiderunt plura sereno Fulgura, etc.  Horace likewise,  Per purum sonantes Egit equos volucremque currum.  Our owne Chronicles also exemplifie no lesse. To say nothing of the fresh resemblance of that, which happened with us three yeares since, in July.",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.9552238805970149,
+          "score": 0.9552238805970149,
+          "page": "285",
+          "seq": 297,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "horace likewise",
+              "left": "julius cæsar as virgil writeth",
+              "right": "non alias lato occiderunt plura"
+            },
+            {
+              "op": "delete",
+              "before": "horace likewise",
+              "after": "",
+              "left": "occiderunt plura sereno fulgura etc",
+              "right": "per purum sonantes egit equos"
+            },
+            {
+              "op": "replace",
+              "before": "chronicles",
+              "after": "chronicles1",
+              "left": "equos volucremque currum our owne",
+              "right": "also exemplifie no lesse to"
+            }
+          ],
+          "source_span": "this hath beene observed in all ages to fore runne the death of some prince thus before the end of julius cæsar as virgil writeth horace likewise non alias lato occiderunt plura sereno fulgura etc per purum sonantes egit equos volucremque currum our owne chronicles1 also exemplifie no lesse to say nothing of the fresh resemblance of that which happened with us three yeares since in july"
+        },
+        "holland2-hvd": {
+          "rank": 0.9552238805970149,
+          "score": 0.9552238805970149,
+          "page": "285",
+          "seq": 299,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "horace likewise",
+              "left": "julius cæsar as virgil writeth",
+              "right": "non alias lato occiderunt plura"
+            },
+            {
+              "op": "delete",
+              "before": "horace likewise",
+              "after": "",
+              "left": "occiderunt plura sereno fulgura etc",
+              "right": "per purum sonantes egit equos"
+            },
+            {
+              "op": "replace",
+              "before": "chronicles",
+              "after": "chronicles1",
+              "left": "equos volucremque currum our owne",
+              "right": "also exemplifie no lesse to"
+            }
+          ],
+          "source_span": "this hath beene observed in all ages to fore runne the death of some prince thus before the end of julius cæsar as virgil writeth horace likewise non alias lato occiderunt plura sereno fulgura etc per purum sonantes egit equos volucremque currum our owne chronicles1 also exemplifie no lesse to say nothing of the fresh resemblance of that which happened with us three yeares since in july"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 32,
+      "reference": "9.2",
+      "path": "/*/*[2]/*/*[11]/*[2]/*/*[2]",
+      "line": 125,
+      "attributes": {
+        "type": "numerical",
+        "n": "1"
+      },
+      "text": "Domitia.",
+      "witnesses": {
+        "holland2-uc1": null,
+        "holland2-hvd": null
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 33,
+      "reference": "10.1",
+      "path": "/*/*[2]/*/*[12]/*/*/*[1]",
+      "line": 131,
+      "attributes": {
+        "type": "alphabetical",
+        "n": "a"
+      },
+      "text": "Some write, and Tzetzes by name, that hee was poysoned with eating of Sea-hares.",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "285",
+          "seq": 297,
+          "differences": [],
+          "source_span": "some write and tzetzes by name that hee was poysoned with eating of sea hares"
+        },
+        "holland2-hvd": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "285",
+          "seq": 299,
+          "differences": [],
+          "source_span": "some write and tzetzes by name that hee was poysoned with eating of sea hares"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 34,
+      "reference": "10.1",
+      "path": "/*/*[2]/*/*[12]/*/*/*[2]",
+      "line": 131,
+      "attributes": {
+        "type": "numerical",
+        "n": "2"
+      },
+      "text": "13th of September.",
+      "witnesses": {
+        "holland2-uc1": null,
+        "holland2-hvd": null
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "section",
+      "index": 1,
+      "reference": "1.1",
+      "path": "/*/*[2]/*/*[3]/*[1]",
+      "line": 25,
+      "attributes": {
+        "type": "section",
+        "n": "1"
+      },
+      "text": "\n    TITUS, surnamed as his Father was, Vespasianus, the lovely dearling and delightfull joy of Mankinde (so fully was he, either endued with good nature and disposition, or enriched with skilfull cunning, or else graced with fortunes favour; and that (which is hardest of all) in his Imperiall State, considering that whiles hee lived as a private person under the Emperour his Father, he could not avoid the very hatred and much lesse the reproofe of the world). This Titus, I say, was borne the third day before the Calends of Januarie: in that yeere which was remarkeable for the death of Caius the Emperour, neere unto the Septizonium, within a poore ill-favoured house, in a very little Chamber and darke withall: for it remaineth yet to bee seene. \n  ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.988,
+          "score": 1.0,
+          "page": "224",
+          "seq": 236,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "flavius vespasianus augustus 1 itus",
+              "left": "titus",
+              "right": "surnamed as his father was"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "1",
+              "left": "before the calends of januarie",
+              "right": "in that yeere which was"
+            }
+          ],
+          "source_span": "titus flavius vespasianus augustus 1 itus surnamed as his father was vespasianus the lovely dearling and delightfull joy of mankinde so fully was he either endued with good nature and disposition or enriched with skilfull cunning or else graced with fortunes favour and that which is hardest of all in his imperiall state considering that whiles hee lived as a private person under the emperour his father he could not avoid the very hatred and much lesse the reproofe of the world this titus i say was borne the third day before the calends of januarie 1 in that yeere which was remarkeable for the death of caius the emperour neere unto the septizonium within a poore ill favoured house in a very little chamber and darke withall for it remaineth yet to bee seene"
+        },
+        "holland2-hvd": {
+          "rank": 0.9822480620155039,
+          "score": 0.9922480620155039,
+          "page": "224",
+          "seq": 238,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "flavius vespasianus augustus 1 itus",
+              "left": "titus",
+              "right": "surnamed as his father was"
+            },
+            {
+              "op": "replace",
+              "before": "januarie",
+              "after": "januarie1",
+              "left": "day before the calends of",
+              "right": "in that yeere which was"
+            }
+          ],
+          "source_span": "titus flavius vespasianus augustus 1 itus surnamed as his father was vespasianus the lovely dearling and delightfull joy of mankinde so fully was he either endued with good nature and disposition or enriched with skilfull cunning or else graced with fortunes favour and that which is hardest of all in his imperiall state considering that whiles hee lived as a private person under the emperour his father he could not avoid the very hatred and much lesse the reproofe of the world this titus i say was borne the third day before the calends of januarie1 in that yeere which was remarkeable for the death of caius the emperour neere unto the septizonium within a poore ill favoured house in a very little chamber and darke withall for it remaineth yet to bee seene"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 2,
+      "reference": "1.2",
+      "path": "/*/*[2]/*/*[3]/*[2]",
+      "line": 28,
+      "attributes": {
+        "type": "section",
+        "n": "2"
+      },
+      "text": "\n    His Education hee had in the Court together with Britannicus, trained up in the like Arts and Disciplines, under the same teachers. At which time verily, men say, that a Fortune-teller, whom Narcissus the freed man of Claudius brought to see Britannicus, after Inspection affirmed most constantly, that by no meanes hee, but Titus who then stoode hard by, should surely bee Emperour. Now were these two so familiar, that (as it is verily thought) of the same cup of poison whereof Britannicus drank and died,  Titus also sitting neere unto him, tasted: whereupon he fell into a grievous disease, that held him long and put him to great paine. In memoriall of all which premisses, he erected afterwards for him one Statue of gold in the Palatium; as also another of Ivorie on horsebacke (which at the Circeian Games is even at this day caried before in the Solemne pomp) he dedicated, and accompanied accordingly. \n  ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.8606114649681529,
+          "score": 0.8726114649681529,
+          "page": "225",
+          "seq": 237,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "2b",
+              "left": "say that a fortune teller",
+              "right": "whom narcissus the freed man"
+            },
+            {
+              "op": "replace",
+              "before": "hee",
+              "after": "hee3",
+              "left": "constantly that by no meanes",
+              "right": "but titus who then stoode"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "1 2 ff 30 of december 2 metoposcopит 3 britannicus 225 a u c 794 the historie of titus",
+              "left": "whereof britannicus drank and died",
+              "right": "titus also sitting neere unto"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "flavius",
+              "left": "him tasted whereupon he fell",
+              "right": "into a grievous disease that"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "vespa",
+              "left": "long and put him to",
+              "right": "great paine in memoriall of"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "augustus",
+              "left": "all which premisses he erected",
+              "right": "afterwards for him one statue"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "1",
+              "left": "he erected afterwards for him",
+              "right": "one statue of gold in"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "sianus",
+              "left": "gold in the palatium as",
+              "right": "also another of ivorie on"
+            },
+            {
+              "op": "delete",
+              "before": "the circeian games is even at this day caried before in the solemne pomp he dedicated and accompanied accordingly",
+              "after": "",
+              "left": "ivorie on horsebacke which at",
+              "right": ""
+            }
+          ],
+          "source_span": "his education hee had in the court together with britannicus trained up in the like arts and disciplines under the same teachers at which time verily men say that a fortune teller 2b whom narcissus the freed man of claudius brought to see britannicus after inspection affirmed most constantly that by no meanes hee3 but titus who then stoode hard by should surely bee emperour now were these two so familiar that as it is verily thought of the same cup of poison whereof britannicus drank and died 1 2 ff 30 of december 2 metoposcopит 3 britannicus 225 a u c 794 the historie of titus titus also sitting neere unto him tasted whereupon he fell flavius into a grievous disease that held him long and put him to vespa great paine in memoriall of all which premisses he erected augustus afterwards for him 1 one statue of gold in the palatium as sianus also another of ivorie on horsebacke which at"
+        },
+        "holland2-hvd": {
+          "rank": 0.8606114649681529,
+          "score": 0.8726114649681529,
+          "page": "225",
+          "seq": 239,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "2b",
+              "left": "say that a fortune teller",
+              "right": "whom narcissus the freed man"
+            },
+            {
+              "op": "replace",
+              "before": "hee",
+              "after": "hee3",
+              "left": "constantly that by no meanes",
+              "right": "but titus who then stoode"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "1 30 of december 2 metoposcopuт 3 britannicus 2 ff 225 a u c 794 the historie of titus",
+              "left": "whereof britannicus drank and died",
+              "right": "titus also sitting neere unto"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "flavius",
+              "left": "him tasted whereupon he fell",
+              "right": "into a grievous disease that"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "vespa",
+              "left": "long and put him to",
+              "right": "great paine in memoriall of"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "augustus",
+              "left": "all which premisses he erected",
+              "right": "afterwards for him one statue"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "1",
+              "left": "he erected afterwards for him",
+              "right": "one statue of gold in"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "sianus",
+              "left": "gold in the palatium as",
+              "right": "also another of ivorie on"
+            },
+            {
+              "op": "delete",
+              "before": "the circeian games is even at this day caried before in the solemne pomp he dedicated and accompanied accordingly",
+              "after": "",
+              "left": "ivorie on horsebacke which at",
+              "right": ""
+            }
+          ],
+          "source_span": "his education hee had in the court together with britannicus trained up in the like arts and disciplines under the same teachers at which time verily men say that a fortune teller 2b whom narcissus the freed man of claudius brought to see britannicus after inspection affirmed most constantly that by no meanes hee3 but titus who then stoode hard by should surely bee emperour now were these two so familiar that as it is verily thought of the same cup of poison whereof britannicus drank and died 1 30 of december 2 metoposcopuт 3 britannicus 2 ff 225 a u c 794 the historie of titus titus also sitting neere unto him tasted whereupon he fell flavius into a grievous disease that held him long and put him to vespa great paine in memoriall of all which premisses he erected augustus afterwards for him 1 one statue of gold in the palatium as sianus also another of ivorie on horsebacke which at"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 3,
+      "reference": "2.1",
+      "path": "/*/*[2]/*/*[4]/*[1]",
+      "line": 36,
+      "attributes": {
+        "type": "section",
+        "n": "1"
+      },
+      "text": "\n          At the very first, even in his child-hood, there shone forth in him, the gifts both of body and minde: and the same more and more still by degrees as hee grew in yeeres: a goodly presence and countenance, wherein was seated no lesse majestie than favour and beauty: a speciall cleane strength, albeit his stature was not tall: but his belly bare out somewhat with the most. A singular memorie: and aptnesse to learne all the Arts, in manner, as well of warre as of peace. \n        ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "225",
+          "seq": 237,
+          "differences": [],
+          "source_span": "at the very first even in his child hood there shone forth in him the gifts both of body and minde and the same more and more still by degrees as hee grew in yeeres a goodly presence and countenance wherein was seated no lesse majestie than favour and beauty a speciall cleane strength albeit his stature was not tall but his belly bare out somewhat with the most a singular memorie and aptnesse to learne all the arts in manner as well of warre as of peace"
+        },
+        "holland2-hvd": {
+          "rank": 0.996,
+          "score": 1.0,
+          "page": "225",
+          "seq": 239,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "2 e",
+              "left": "was seated no lesse majestie",
+              "right": "than favour and beauty a"
+            }
+          ],
+          "source_span": "at the very first even in his child hood there shone forth in him the gifts both of body and minde and the same more and more still by degrees as hee grew in yeeres a goodly presence and countenance wherein was seated no lesse majestie 2 e than favour and beauty a speciall cleane strength albeit his stature was not tall but his belly bare out somewhat with the most a singular memorie and aptnesse to learne all the arts in manner as well of warre as of peace"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 4,
+      "reference": "2.2",
+      "path": "/*/*[2]/*/*[4]/*[2]",
+      "line": 39,
+      "attributes": {
+        "type": "section",
+        "n": "2"
+      },
+      "text": "\n          Most skilfull he was in handling his weapon, and withall a passing good horsman: for his Latine and Greeke tongue, whether it were in making Orations or composing Poemes, prompt and ready even to the performance thereof ex tempore. Neither was he unseene in Musick as who could both sing and also play upon instruments sweetly and with knowledge. I have heard also many men say, That he was wont to write with Cyphers and Characters most swiftly, striving by way of sport and mirth with his owne Clerks, whether he or they could write fastest, to expresse likewise and imitate what hand so ever hee had seene: yea, and to professe many a time, that he would have made a notable forger and counterfaiter of writings. \n        ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "225",
+          "seq": 237,
+          "differences": [],
+          "source_span": "most skilfull he was in handling his weapon and withall a passing good horsman for his latine and greeke tongue whether it were in making orations or composing poemes prompt and ready even to the performance thereof ex tempore neither was he unseene in musick as who could both sing and also play upon instruments sweetly and with knowledge i have heard also many men say that he was wont to write with cyphers and characters most swiftly striving by way of sport and mirth with his owne clerks whether he or they could write fastest to expresse likewise and imitate what hand so ever hee had seene yea and to professe many a time that he would have made a notable forger and counterfaiter of writings"
+        },
+        "holland2-hvd": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "225",
+          "seq": 239,
+          "differences": [],
+          "source_span": "most skilfull he was in handling his weapon and withall a passing good horsman for his latine and greeke tongue whether it were in making orations or composing poemes prompt and ready even to the performance thereof ex tempore neither was he unseene in musick as who could both sing and also play upon instruments sweetly and with knowledge i have heard also many men say that he was wont to write with cyphers and characters most swiftly striving by way of sport and mirth with his owne clerks whether he or they could write fastest to expresse likewise and imitate what hand so ever hee had seene yea and to professe many a time that he would have made a notable forger and counterfaiter of writings"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 5,
+      "reference": "3.1",
+      "path": "/*/*[2]/*/*[5]/*[1]",
+      "line": 45,
+      "attributes": {
+        "type": "section",
+        "n": "1"
+      },
+      "text": "\n          In quality of Tribune Militare, he served in the warres both in Germanie and also in Britaine, with exceeding commendation for his industrie and no lesse report of modestie,  as appeareth by a number of his images and titles to them annexed, throughout both Provinces. \n        ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.7233333333333333,
+          "score": 0.7333333333333333,
+          "page": "226",
+          "seq": 238,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "3 3 1 britannicus 3 temperate behaviour aucthoritatis which tacitus calleth maiestatem 226 twelve cæsars titus vespasianus",
+              "left": "no lesse report of modestie",
+              "right": "as appeareth by a number"
+            },
+            {
+              "op": "delete",
+              "before": "number of his images and titles to them annexed throughout both provinces",
+              "after": "",
+              "left": "modestie as appeareth by a",
+              "right": ""
+            }
+          ],
+          "source_span": "in quality of tribune militare he served in the warres both in germanie and also in britaine with exceeding commendation for his industrie and no lesse report of modestie 3 3 1 britannicus 3 temperate behaviour aucthoritatis which tacitus calleth maiestatem 226 twelve cæsars titus vespasianus as appeareth by a"
+        },
+        "holland2-hvd": {
+          "rank": 0.7677777777777778,
+          "score": 0.7777777777777778,
+          "page": "226",
+          "seq": 240,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "3 2 aucthoritatis which tacitus calleth maiestatem 1 britannicus 3 temperate behaviour 226 twelve cæsars",
+              "left": "no lesse report of modestie",
+              "right": "as appeareth by a number"
+            },
+            {
+              "op": "delete",
+              "before": "his images and titles to them annexed throughout both provinces",
+              "after": "",
+              "left": "appeareth by a number of",
+              "right": ""
+            }
+          ],
+          "source_span": "in quality of tribune militare he served in the warres both in germanie and also in britaine with exceeding commendation for his industrie and no lesse report of modestie 3 2 aucthoritatis which tacitus calleth maiestatem 1 britannicus 3 temperate behaviour 226 twelve cæsars as appeareth by a number of"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 6,
+      "reference": "3.2",
+      "path": "/*/*[2]/*/*[5]/*[2]",
+      "line": 48,
+      "attributes": {
+        "type": "section",
+        "n": "2"
+      },
+      "text": "\n          After this warfare of his, hee pleaded causes in Court, which he did rather to winne credite and reputation, than to make it an ordinarie practise. At which very time, he wedded Arricidia, the daughter of Tertullus a Gentleman of Rome, but Capitaine sometime of the Prætorian Bands: and in the roome of her deceased, he tooke to wife Martia Flavia: and from her when she had borne unto him a daughter, he divorsed himselfe. \n        ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.992,
+          "score": 1.0,
+          "page": "226",
+          "seq": 238,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "flavius",
+              "left": "after this warfare",
+              "right": "of his hee pleaded causes"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "1",
+              "left": "to winne credite and reputation",
+              "right": "than to make it an"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "augustus",
+              "left": "to make it an ordinarie",
+              "right": "practise at which very time"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "2",
+              "left": "make it an ordinarie practise",
+              "right": "at which very time he"
+            }
+          ],
+          "source_span": "after this warfare flavius of his hee pleaded causes in court which he did rather to winne credite and reputation 1 than to make it an ordinarie augustus practise 2 at which very time he wedded arricidia the daughter of tertullus a gentleman of rome but capitaine sometime of the prætorian bands and in the roome of her deceased he tooke to wife martia flavia and from her when she had borne unto him a daughter he divorsed himselfe"
+        },
+        "holland2-hvd": {
+          "rank": 0.992,
+          "score": 1.0,
+          "page": "226",
+          "seq": 240,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "flavius",
+              "left": "after this warfare",
+              "right": "of his hee pleaded causes"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "1",
+              "left": "to winne credite and reputation",
+              "right": "than to make it an"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "augustus",
+              "left": "to make it an ordinarie",
+              "right": "practise at which very time"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "2",
+              "left": "make it an ordinarie practise",
+              "right": "at which very time he"
+            }
+          ],
+          "source_span": "after this warfare flavius of his hee pleaded causes in court which he did rather to winne credite and reputation 1 than to make it an ordinarie augustus practise 2 at which very time he wedded arricidia the daughter of tertullus a gentleman of rome but capitaine sometime of the prætorian bands and in the roome of her deceased he tooke to wife martia flavia and from her when she had borne unto him a daughter he divorsed himselfe"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 7,
+      "reference": "3.3",
+      "path": "/*/*[2]/*/*[5]/*[3]",
+      "line": 51,
+      "attributes": {
+        "type": "section",
+        "n": "3"
+      },
+      "text": "\n          After this, upon his Questureship, being Colonell and Commaunder of a whole Legion, he brought under his subjection Tarichea and Gamala two most puissant Cities of Jurie: where, in a certaine battaile having lost his horse under him (by a deadly wound) within his flankes, hee mounted another whose rider in fight against him had beene slaine and was fallen. \n        ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.9833333333333333,
+          "score": 0.9833333333333333,
+          "page": "226",
+          "seq": 238,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "tarichea",
+              "after": "taricheas",
+              "left": "he brought under his subjection",
+              "right": "and gamala two most puissant"
+            }
+          ],
+          "source_span": "after this upon his questureship being colonell and commaunder of a whole legion he brought under his subjection taricheas and gamala two most puissant cities of jurie where in a certaine battaile having lost his horse under him by a deadly wound within his flankes hee mounted another whose rider in fight against him had beene slaine and was fallen"
+        },
+        "holland2-hvd": {
+          "rank": 0.9833333333333333,
+          "score": 0.9833333333333333,
+          "page": "226",
+          "seq": 240,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "tarichea",
+              "after": "taricheas",
+              "left": "he brought under his subjection",
+              "right": "and gamala two most puissant"
+            }
+          ],
+          "source_span": "after this upon his questureship being colonell and commaunder of a whole legion he brought under his subjection taricheas and gamala two most puissant cities of jurie where in a certaine battaile having lost his horse under him by a deadly wound within his flankes hee mounted another whose rider in fight against him had beene slaine and was fallen"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 8,
+      "reference": "4.1",
+      "path": "/*/*[2]/*/*[6]/*[1]",
+      "line": 57,
+      "attributes": {
+        "type": "section",
+        "n": "1"
+      },
+      "text": "\n          Afterwards, when Galba was possessed of the State, being sent to congratulate his advauncement: what way so ever he went, he turned all mens eyes upon him, as if he had beene singled forth to be adopted. But so soone as he perceived all to be full of troubles againe, hee returned back out of his very journey, and visited the Oracle of Venus Paphia: where, whilst he asked counsell, about his passage at sea, he was confirmed withall in his hope of the Empire. \n        ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "226",
+          "seq": 238,
+          "differences": [],
+          "source_span": "afterwards when galba was possessed of the state being sent to congratulate his advauncement what way so ever he went he turned all mens eyes upon him as if he had beene singled forth to be adopted but so soone as he perceived all to be full of troubles againe hee returned back out of his very journey and visited the oracle of venus paphia where whilst he asked counsell about his passage at sea he was confirmed withall in his hope of the empire"
+        },
+        "holland2-hvd": {
+          "rank": 0.992,
+          "score": 1.0,
+          "page": "226",
+          "seq": 240,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "a u c 821",
+              "left": "possessed of the state being",
+              "right": "sent to congratulate his advauncement"
+            }
+          ],
+          "source_span": "afterwards when galba was possessed of the state being a u c 821 sent to congratulate his advauncement what way so ever he went he turned all mens eyes upon him as if he had beene singled forth to be adopted but so soone as he perceived all to be full of troubles againe hee returned back out of his very journey and visited the oracle of venus paphia where whilst he asked counsell about his passage at sea he was confirmed withall in his hope of the empire"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 9,
+      "reference": "4.2",
+      "path": "/*/*[2]/*/*[6]/*[2]",
+      "line": 60,
+      "attributes": {
+        "type": "section",
+        "n": "2"
+      },
+      "text": "\n          Having attained thereto within short time, and being left behind to subdue Jurie throughly in the last assault of Hierusalem, he slew twelve enemies that defended the wall, with just so many arrowes shot: and wonne the Citie upon the very birth-day of his daughter, with so great joy and favourable applause of all his Souldiours: that in their gratulation they saluted him Emperour: and soone after, when he was to depart out of that Province, deteined him: in humble manner, yea and eft-soones in threatning  wise instantly calling upon him, to stay, or else to take them all away together with him. \n        ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.8376190476190476,
+          "score": 0.8476190476190476,
+          "page": "226",
+          "seq": 238,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "wise instantly calling upon him",
+              "after": "a u c 820 1 in undertaking causes of greatest importance in entertaining al matters whatsoever 3 neere",
+              "left": "and eft soones in threatning",
+              "right": "to stay or else to"
+            },
+            {
+              "op": "replace",
+              "before": "stay or else to take them all away together with him",
+              "after": "the lake genezareth",
+              "left": "instantly calling upon him to",
+              "right": ""
+            }
+          ],
+          "source_span": "having attained thereto within short time and being left behind to subdue jurie throughly in the last assault of hierusalem he slew twelve enemies that defended the wall with just so many arrowes shot and wonne the citie upon the very birth day of his daughter with so great joy and favourable applause of all his souldiours that in their gratulation they saluted him emperour and soone after when he was to depart out of that province deteined him in humble manner yea and eft soones in threatning a u c 820 1 in undertaking causes of greatest importance in entertaining al matters whatsoever 3 neere to the lake genezareth"
+        },
+        "holland2-hvd": {
+          "rank": 0.8376190476190476,
+          "score": 0.8476190476190476,
+          "page": "226",
+          "seq": 240,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "wise instantly calling upon him",
+              "after": "1 in undertaking causes of greatest importance in entertaining al matters whatsoever 3 neere",
+              "left": "and eft soones in threatning",
+              "right": "to stay or else to"
+            },
+            {
+              "op": "replace",
+              "before": "stay or else to take them all away together with him",
+              "after": "the lake genezareth 4 in paphos a",
+              "left": "instantly calling upon him to",
+              "right": ""
+            }
+          ],
+          "source_span": "having attained thereto within short time and being left behind to subdue jurie throughly in the last assault of hierusalem he slew twelve enemies that defended the wall with just so many arrowes shot and wonne the citie upon the very birth day of his daughter with so great joy and favourable applause of all his souldiours that in their gratulation they saluted him emperour and soone after when he was to depart out of that province deteined him in humble manner yea and eft soones in threatning 1 in undertaking causes of greatest importance in entertaining al matters whatsoever 3 neere to the lake genezareth 4 in paphos a"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 10,
+      "reference": "4.3",
+      "path": "/*/*[2]/*/*[6]/*[3]",
+      "line": 63,
+      "attributes": {
+        "type": "section",
+        "n": "3"
+      },
+      "text": "\nWhereupon arose the first suspition, that he revolted from his father, and had attempted to chalenge the kingdome of the East parts for him selfe. Which surmise himselfe made the more, after that in his way to Alexandrea, as he consecrated at Memphis the Ox Apis, he wore a Diademe: which he did in deed according to the custome and rites of the auncient religion there. But there wanted not some, who construed it otherwise. Making hast therefore into Italie; after hee was arrived first at Rhegium and from thence at Puteoli, embarqued in a Merchants ship of burden; to Rome he goes directly with all speed and most lightly appointed: and unto his father looking for nothing lesse, 'I am come,' quoth he, 'father, I am come': checking thereby the rash and inconsiderate rumors raised of him.         ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.917536231884058,
+          "score": 0.927536231884058,
+          "page": "227",
+          "seq": 239,
+          "differences": [
+            {
+              "op": "delete",
+              "before": "whereupon arose the first suspition that he revolted from his",
+              "after": "",
+              "left": "",
+              "right": "father and had attempted to"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "augustus",
+              "left": "from his father and had",
+              "right": "attempted to chalenge the kingdome"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "sianus a u c 824 825 824 a u c 823 825 827 828",
+              "left": "of the east parts for",
+              "right": "him selfe which surmise himselfe"
+            }
+          ],
+          "source_span": "father and had augustus attempted to chalenge the kingdome of the east parts for sianus a u c 824 825 824 a u c 823 825 827 828 him selfe which surmise himselfe made the more after that in his way to alexandrea as he consecrated at memphis the ox apis he wore a diademe which he did in deed according to the custome and rites of the auncient religion there but there wanted not some who construed it otherwise making hast therefore into italie after hee was arrived first at rhegium and from thence at puteoli embarqued in a merchants ship of burden to rome he goes directly with all speed and most lightly appointed and unto his father looking for nothing lesse i am come quoth he father i am come checking thereby the rash and inconsiderate rumors raised of him"
+        },
+        "holland2-hvd": {
+          "rank": 0.8957971014492754,
+          "score": 0.9057971014492754,
+          "page": "227",
+          "seq": 241,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "whereupon arose the first suspition that he revolted from his father and had",
+              "after": "augustus",
+              "left": "",
+              "right": "attempted to chalenge the kingdome"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "sianus a u c 824 825 824 a u c 823 825 827 828 829 830 832",
+              "left": "of the east parts for",
+              "right": "him selfe which surmise himselfe"
+            }
+          ],
+          "source_span": "augustus attempted to chalenge the kingdome of the east parts for sianus a u c 824 825 824 a u c 823 825 827 828 829 830 832 him selfe which surmise himselfe made the more after that in his way to alexandrea as he consecrated at memphis the ox apis he wore a diademe which he did in deed according to the custome and rites of the auncient religion there but there wanted not some who construed it otherwise making hast therefore into italie after hee was arrived first at rhegium and from thence at puteoli embarqued in a merchants ship of burden to rome he goes directly with all speed and most lightly appointed and unto his father looking for nothing lesse i am come quoth he father i am come checking thereby the rash and inconsiderate rumors raised of him"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 11,
+      "reference": "5.1",
+      "path": "/*/*[2]/*/*[7]/*[1]",
+      "line": 70,
+      "attributes": {
+        "type": "section",
+        "n": "1"
+      },
+      "text": "\n          From that time forward hee ceased not to carie himselfe as partner with his Father, yea and Protectour also of the Empire: with him hee triumphed with him hee jointly administred the Censureship: his Colleague hee was in the Tribunes authority: his Companion likewise in seven Consulships. And having taken to himselfe the charge well-neere of all Offices, whiles hee both endited letters and penned Edicts in his Fathers name: yea, and read Orations in Senate, and that in the Questours turne, he assumed also the Captainship of the Guard, an Office never to that time executed but by a Gentleman of Rome. In this place hee demeaned himselfe nothing civilly, but proceeded with much violence: for ever as he had any in most jelousie and suspition, he, by sending secretly and under-hand certaine of purpose, who in the Theaters and Campe should require for to have them punished (as it were with his Fathers consent) made no more a-doe but brought them all to their end. \n        ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.9803529411764705,
+          "score": 0.9823529411764705,
+          "page": "227",
+          "seq": 239,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "well neere",
+              "after": "wellneere",
+              "left": "taken to himselfe the charge",
+              "right": "of all offices whiles hee"
+            },
+            {
+              "op": "replace",
+              "before": "orations",
+              "after": "orations1",
+              "left": "fathers name yea and read",
+              "right": "in senate and that in"
+            }
+          ],
+          "source_span": "from that time forward hee ceased not to carie himselfe as partner with his father yea and protectour also of the empire with him hee triumphed with him hee jointly administred the censureship his colleague hee was in the tribunes authority his companion likewise in seven consulships and having taken to himselfe the charge wellneere of all offices whiles hee both endited letters and penned edicts in his fathers name yea and read orations1 in senate and that in the questours turne he assumed also the captainship of the guard an office never to that time executed but by a gentleman of rome in this place hee demeaned himselfe nothing civilly but proceeded with much violence for ever as he had any in most jelousie and suspition he by sending secretly and under hand certaine of purpose who in the theaters and campe should require for to have them punished as it were with his fathers consent made no more a doe but brought them all to their end"
+        },
+        "holland2-hvd": {
+          "rank": 0.9882352941176471,
+          "score": 0.9882352941176471,
+          "page": "227",
+          "seq": 241,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "well neere",
+              "after": "wellneere",
+              "left": "taken to himselfe the charge",
+              "right": "of all offices whiles hee"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "1",
+              "left": "name yea and read orations",
+              "right": "in senate and that in"
+            }
+          ],
+          "source_span": "from that time forward hee ceased not to carie himselfe as partner with his father yea and protectour also of the empire with him hee triumphed with him hee jointly administred the censureship his colleague hee was in the tribunes authority his companion likewise in seven consulships and having taken to himselfe the charge wellneere of all offices whiles hee both endited letters and penned edicts in his fathers name yea and read orations 1 in senate and that in the questours turne he assumed also the captainship of the guard an office never to that time executed but by a gentleman of rome in this place hee demeaned himselfe nothing civilly but proceeded with much violence for ever as he had any in most jelousie and suspition he by sending secretly and under hand certaine of purpose who in the theaters and campe should require for to have them punished as it were with his fathers consent made no more a doe but brought them all to their end"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 12,
+      "reference": "5.2",
+      "path": "/*/*[2]/*/*[7]/*[2]",
+      "line": 73,
+      "attributes": {
+        "type": "section",
+        "n": "2"
+      },
+      "text": "\n          As for example, among these, hee commaunded Aulus Cæcina, a man of Consular Degree, and a guest by him invited to supper, when hee was scarce gone out of the  Banquetting parlor to bee stabbed. I must needes say, that driven he was to this violent proceeding upon an extremity of daunger: considering that he had found out his hand-writing bearing evidence of a conspiracie that he plotted with the Souldiours. By which courses, as he provided well and sufficiently for his owne security another day: so, for the present time he incurred very much displeasure and hatred of the world: in so much, as no man lightly, when so adverse a rumor was on foote, and that which more is, against the wills of all men, would have stepped to the Imperiall throne. \n        ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.9307407407407408,
+          "score": 0.9407407407407408,
+          "page": "228",
+          "seq": 240,
+          "differences": [
+            {
+              "op": "delete",
+              "before": "as for example among these hee",
+              "after": "",
+              "left": "",
+              "right": "commaunded aulus cæcina a man"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "829 830 832 1 missives 228 twelve cæsars titus flavius vespasianus",
+              "left": "scarce gone out of the",
+              "right": "banquetting parlor to bee stabbed"
+            },
+            {
+              "op": "replace",
+              "before": "hand writing",
+              "after": "handwriting",
+              "left": "he had found out his",
+              "right": "bearing evidence of a conspiracie"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "augustus",
+              "left": "conspiracie that he plotted with",
+              "right": "the souldiours by which courses"
+            }
+          ],
+          "source_span": "commaunded aulus cæcina a man of consular degree and a guest by him invited to supper when hee was scarce gone out of the 829 830 832 1 missives 228 twelve cæsars titus flavius vespasianus banquetting parlor to bee stabbed i must needes say that driven he was to this violent proceeding upon an extremity of daunger considering that he had found out his handwriting bearing evidence of a conspiracie that he plotted with augustus the souldiours by which courses as he provided well and sufficiently for his owne security another day so for the present time he incurred very much displeasure and hatred of the world in so much as no man lightly when so adverse a rumor was on foote and that which more is against the wills of all men would have stepped to the imperiall throne"
+        },
+        "holland2-hvd": {
+          "rank": 0.9529629629629629,
+          "score": 0.9629629629629629,
+          "page": "228",
+          "seq": 242,
+          "differences": [
+            {
+              "op": "delete",
+              "before": "as for example",
+              "after": "",
+              "left": "",
+              "right": "among these hee commaunded aulus"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "1 missives 228 twelve cæsars titus flavius vespasianus",
+              "left": "scarce gone out of the",
+              "right": "banquetting parlor to bee stabbed"
+            },
+            {
+              "op": "replace",
+              "before": "hand writing",
+              "after": "handwriting",
+              "left": "he had found out his",
+              "right": "bearing evidence of a conspiracie"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "augustus",
+              "left": "conspiracie that he plotted with",
+              "right": "the souldiours by which courses"
+            }
+          ],
+          "source_span": "among these hee commaunded aulus cæcina a man of consular degree and a guest by him invited to supper when hee was scarce gone out of the 1 missives 228 twelve cæsars titus flavius vespasianus banquetting parlor to bee stabbed i must needes say that driven he was to this violent proceeding upon an extremity of daunger considering that he had found out his handwriting bearing evidence of a conspiracie that he plotted with augustus the souldiours by which courses as he provided well and sufficiently for his owne security another day so for the present time he incurred very much displeasure and hatred of the world in so much as no man lightly when so adverse a rumor was on foote and that which more is against the wills of all men would have stepped to the imperiall throne"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 13,
+      "reference": "6.1",
+      "path": "/*/*[2]/*/*[8]/*[1]",
+      "line": 79,
+      "attributes": {
+        "type": "section",
+        "n": "1"
+      },
+      "text": "\n          Beside his cruelty, suspected he was also for roiotous life : in that he continued banquetting untill midnight with the most profuse and wastfull spend-thrifts of his familiar minions: for wanton lust likewise, by reason of a sort of stale Catamites and guelded Eunuchs that he kept about him; and the affectionate love that hee was noted to beare to Queene Berenice, unto whom also, as it was said he promised mariage. Suspition there was moreover of his pilling and polling. For certain it was, that in the commissions and hearing of causes which his father held, he was wont to sel the decision of matters, and to make a gaine thereby. After this, men both reputed and also reported him to be even another Nero. But this name that went of him proved good for him and turned to his greatest commendation: considering that no grosse vice could bee found in him, but contrariwise many excellent vertues. \n        ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.9916708860759493,
+          "score": 0.9936708860759493,
+          "page": "228",
+          "seq": 240,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "berenice",
+              "after": "berenice1",
+              "left": "noted to beare to queene",
+              "right": "unto whom also as it"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "2",
+              "left": "commissions and hearing of causes",
+              "right": "which his father held he"
+            }
+          ],
+          "source_span": "beside his cruelty suspected he was also for roiotous life in that he continued banquetting untill midnight with the most profuse and wastfull spend thrifts of his familiar minions for wanton lust likewise by reason of a sort of stale catamites and guelded eunuchs that he kept about him and the affectionate love that hee was noted to beare to queene berenice1 unto whom also as it was said he promised mariage suspition there was moreover of his pilling and polling for certain it was that in the commissions and hearing of causes 2 which his father held he was wont to sel the decision of matters and to make a gaine thereby after this men both reputed and also reported him to be even another nero but this name that went of him proved good for him and turned to his greatest commendation considering that no grosse vice could bee found in him but contrariwise many excellent vertues"
+        },
+        "holland2-hvd": {
+          "rank": 0.996,
+          "score": 1.0,
+          "page": "228",
+          "seq": 242,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "1",
+              "left": "to beare to queene berenice",
+              "right": "unto whom also as it"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "2",
+              "left": "commissions and hearing of causes",
+              "right": "which his father held he"
+            }
+          ],
+          "source_span": "beside his cruelty suspected he was also for roiotous life in that he continued banquetting untill midnight with the most profuse and wastfull spend thrifts of his familiar minions for wanton lust likewise by reason of a sort of stale catamites and guelded eunuchs that he kept about him and the affectionate love that hee was noted to beare to queene berenice 1 unto whom also as it was said he promised mariage suspition there was moreover of his pilling and polling for certain it was that in the commissions and hearing of causes 2 which his father held he was wont to sel the decision of matters and to make a gaine thereby after this men both reputed and also reported him to be even another nero but this name that went of him proved good for him and turned to his greatest commendation considering that no grosse vice could bee found in him but contrariwise many excellent vertues"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 14,
+      "reference": "6.2",
+      "path": "/*/*[2]/*/*[8]/*[2]",
+      "line": 82,
+      "attributes": {
+        "type": "section",
+        "n": "2"
+      },
+      "text": "\n          The feasts that he made were pleasant meriments, rather than lavish and sumpteous. He chose for his friends such, as in whom the Emperours also his successours reposed themselves, and whom they used especially as necessarie members both for them and also for the Common-wealth. As for Queene Berenice, he sent her quickly away from the Citie of Rome; but full loath they were both of them to part a sunder. Certaine of his minions and dearlings whom hee favoured  and fansied most, albeit they were such artificiall Dauncers, that within a while after they caried the greatest praise and prise upon the stage, he forbare quite not onely to huggle and embrace long together, but to behold so much as once in any publick meeting and assembly. \n        ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.7341860465116279,
+          "score": 0.7441860465116279,
+          "page": "229",
+          "seq": 241,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "1 the sister as some thinke of agrippa and wife for a while of polemon king of lycia others say she was the wife first of aristobulus afterwards of antipater 2 agnitionibus 229 the historie of titus",
+              "left": "and dearlings whom hee favoured",
+              "right": "and fansied most albeit they"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "flavius",
+              "left": "they were such artificiall dauncers",
+              "right": "that within a while after"
+            },
+            {
+              "op": "delete",
+              "before": "caried the greatest praise and prise upon the stage he forbare quite not onely to huggle and embrace long together but to behold so much as once in any publick meeting and assembly",
+              "after": "",
+              "left": "within a while after they",
+              "right": ""
+            }
+          ],
+          "source_span": "the feasts that he made were pleasant meriments rather than lavish and sumpteous he chose for his friends such as in whom the emperours also his successours reposed themselves and whom they used especially as necessarie members both for them and also for the common wealth as for queene berenice he sent her quickly away from the citie of rome but full loath they were both of them to part a sunder certaine of his minions and dearlings whom hee favoured 1 the sister as some thinke of agrippa and wife for a while of polemon king of lycia others say she was the wife first of aristobulus afterwards of antipater 2 agnitionibus 229 the historie of titus and fansied most albeit they were such artificiall dauncers flavius that within a while after they"
+        },
+        "holland2-hvd": {
+          "rank": 0.7341860465116279,
+          "score": 0.7441860465116279,
+          "page": "229",
+          "seq": 243,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "1 the sister as some thinke of agrippa and wife for a while of polemon king of lycia others say she was the wife first of aristobulus afterwards of antipater 2 agnitionibus 229 the historie of titus",
+              "left": "and dearlings whom hee favoured",
+              "right": "and fansied most albeit they"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "flavius",
+              "left": "they were such artificiall dauncers",
+              "right": "that within a while after"
+            },
+            {
+              "op": "delete",
+              "before": "caried the greatest praise and prise upon the stage he forbare quite not onely to huggle and embrace long together but to behold so much as once in any publick meeting and assembly",
+              "after": "",
+              "left": "within a while after they",
+              "right": ""
+            }
+          ],
+          "source_span": "the feasts that he made were pleasant meriments rather than lavish and sumpteous he chose for his friends such as in whom the emperours also his successours reposed themselves and whom they used especially as necessarie members both for them and also for the common wealth as for queene berenice he sent her quickly away from the citie of rome but full loath they were both of them to part a sunder certaine of his minions and dearlings whom hee favoured 1 the sister as some thinke of agrippa and wife for a while of polemon king of lycia others say she was the wife first of aristobulus afterwards of antipater 2 agnitionibus 229 the historie of titus and fansied most albeit they were such artificiall dauncers flavius that within a while after they"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 15,
+      "reference": "6.3",
+      "path": "/*/*[2]/*/*[8]/*[3]",
+      "line": 85,
+      "attributes": {
+        "type": "section",
+        "n": "3"
+      },
+      "text": "\n          From no Citizen tooke he ought and from aliens goods he abstained, if ever any did. Nay, he received not the very contributions graunted and usually paied. And yet, being inferiour to none of his predecessours in munificence, as having dedicated an Amphitheatre, and built the Baines hard-by, with great expedition, he exhibited a Spectacle of Sword-fencers, with all kindes of furniture thereto belonging in most plentifull manner. Hee represented also a navall fight in the old Naumachia; in which very place he brought forth likewise his sword-fencers to play their prises: and in that one day he put out to be baited 5000 wilde beasts of all sorts. \n        ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.996,
+          "score": 1.0,
+          "page": "229",
+          "seq": 241,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "1",
+              "left": "as having dedicated an amphitheatre",
+              "right": "and built the baines hard"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "2a",
+              "left": "hard by with great expedition",
+              "right": "he exhibited a spectacle of"
+            }
+          ],
+          "source_span": "from no citizen tooke he ought and from aliens goods he abstained if ever any did nay he received not the very contributions graunted and usually paied and yet being inferiour to none of his predecessours in munificence as having dedicated an amphitheatre 1 and built the baines hard by with great expedition 2a he exhibited a spectacle of sword fencers with all kindes of furniture thereto belonging in most plentifull manner hee represented also a navall fight in the old naumachia in which very place he brought forth likewise his sword fencers to play their prises and in that one day he put out to be baited 5000 wilde beasts of all sorts"
+        },
+        "holland2-hvd": {
+          "rank": 0.996,
+          "score": 1.0,
+          "page": "229",
+          "seq": 243,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "1",
+              "left": "as having dedicated an amphitheatre",
+              "right": "and built the baines hard"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "2a",
+              "left": "hard by with great expedition",
+              "right": "he exhibited a spectacle of"
+            }
+          ],
+          "source_span": "from no citizen tooke he ought and from aliens goods he abstained if ever any did nay he received not the very contributions graunted and usually paied and yet being inferiour to none of his predecessours in munificence as having dedicated an amphitheatre 1 and built the baines hard by with great expedition 2a he exhibited a spectacle of sword fencers with all kindes of furniture thereto belonging in most plentifull manner hee represented also a navall fight in the old naumachia in which very place he brought forth likewise his sword fencers to play their prises and in that one day he put out to be baited 5000 wilde beasts of all sorts"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 16,
+      "reference": "7.1",
+      "path": "/*/*[2]/*/*[9]/*[1]",
+      "line": 91,
+      "attributes": {
+        "type": "section",
+        "n": "1"
+      },
+      "text": "\n          Furthermore, being of his owne nature most kinde and gracious; whereas by a constitution and order that Tiberius began, all the Cæsars his Successours held not the Benefits graunted by former Princes good and in force, unlesse they also themselves made new graunts of the same againe: hee was the first, that by vertue of one sole edict, ratified and confirmed all that had passed before: neither suffred he any petition to be made unto him for them. In all other Suits and Requests, hee ever more held most constantly mens mindes at this passe, that hee would send none away without hope. And when his Domesticall Ministers about his person would seeme to tell him, That he promised more than he was able to performe: 'What!' quoth he, 'there ought no man to depart from the speech of a Prince, sad and discontented.' Calling to minde one time as he sat at supper, that he had done nothing for any man that day, hee uttered this memorable and praise-worthy Apophthegme, My friends, I have lost a day. \n        ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "229",
+          "seq": 241,
+          "differences": [],
+          "source_span": "furthermore being of his owne nature most kinde and gracious whereas by a constitution and order that tiberius began all the cæsars his successours held not the benefits graunted by former princes good and in force unlesse they also themselves made new graunts of the same againe hee was the first that by vertue of one sole edict ratified and confirmed all that had passed before neither suffred he any petition to be made unto him for them in all other suits and requests hee ever more held most constantly mens mindes at this passe that hee would send none away without hope and when his domesticall ministers about his person would seeme to tell him that he promised more than he was able to performe what quoth he there ought no man to depart from the speech of a prince sad and discontented calling to minde one time as he sat at supper that he had done nothing for any man that day hee uttered this memorable and praise worthy apophthegme my friends i have lost a day"
+        },
+        "holland2-hvd": {
+          "rank": 0.994413407821229,
+          "score": 0.994413407821229,
+          "page": "229",
+          "seq": 243,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "them",
+              "after": "then",
+              "left": "be made unto him for",
+              "right": "in all other suits and"
+            }
+          ],
+          "source_span": "furthermore being of his owne nature most kinde and gracious whereas by a constitution and order that tiberius began all the cæsars his successours held not the benefits graunted by former princes good and in force unlesse they also themselves made new graunts of the same againe hee was the first that by vertue of one sole edict ratified and confirmed all that had passed before neither suffred he any petition to be made unto him for then in all other suits and requests hee ever more held most constantly mens mindes at this passe that hee would send none away without hope and when his domesticall ministers about his person would seeme to tell him that he promised more than he was able to performe what quoth he there ought no man to depart from the speech of a prince sad and discontented calling to minde one time as he sat at supper that he had done nothing for any man that day hee uttered this memorable and praise worthy apophthegme my friends i have lost a day"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 17,
+      "reference": "7.2",
+      "path": "/*/*[2]/*/*[9]/*[2]",
+      "line": 94,
+      "attributes": {
+        "type": "section",
+        "n": "2"
+      },
+      "text": "\n          The people especially in generall he intreated in all occasions, with so great courtesie, that  having proposed a solemne Sword-fight, he made open profession, that he would set it forth, not to please him selfe but to content the beholders. And verily, even so hee did: for, neither denied he ought to them that would call for it: and of his owne accord, willed them to aske what their mindes stoode to. Moreover, shewing plainly, that hee stoode well affected to the manner of the Thracian sword-fencers fight and their Armature, hee would many times even with the rest of the people both in word and gesture (as a favourer of that kinde) jest and make sport: yet so, as hee kept still the majestie of an Emperour: and withall judged with equitie indifferently. And because hee would pretermit no point of popularity, sometime as hee bathed in his owne baines hee admitted the Commons thither unto him. \n        ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.89375,
+          "score": 0.89375,
+          "page": "230",
+          "seq": 242,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "the people especially in generall he intreated in all occasions with so great courtesie that",
+              "after": "were killed as eusebius chronographus and eutropius write 2 celeriter 230 twelve cæsars titus flavius",
+              "left": "",
+              "right": "having proposed a solemne sword"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "augustus",
+              "left": "that would call for it",
+              "right": "and of his owne accord"
+            },
+            {
+              "op": "replace",
+              "before": "sword fencers",
+              "after": "swordfencers1",
+              "left": "the manner of the thracian",
+              "right": "fight and their armature hee"
+            }
+          ],
+          "source_span": "were killed as eusebius chronographus and eutropius write 2 celeriter 230 twelve cæsars titus flavius having proposed a solemne sword fight he made open profession that he would set it forth not to please him selfe but to content the beholders and verily even so hee did for neither denied he ought to them that would call for it augustus and of his owne accord willed them to aske what their mindes stoode to moreover shewing plainly that hee stoode well affected to the manner of the thracian swordfencers1 fight and their armature hee would many times even with the rest of the people both in word and gesture as a favourer of that kinde jest and make sport yet so as hee kept still the majestie of an emperour and withall judged with equitie indifferently and because hee would pretermit no point of popularity sometime as hee bathed in his owne baines hee admitted the commons thither unto him"
+        },
+        "holland2-hvd": {
+          "rank": 0.8795,
+          "score": 0.8875,
+          "page": "230",
+          "seq": 244,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "the people especially in generall he intreated in all occasions with so great courtesie that",
+              "after": "wilde beasts were killed as eusebius chronographus and eutropius write 2 celeriter 230 twelve cæsars",
+              "left": "",
+              "right": "having proposed a solemne sword"
+            },
+            {
+              "op": "replace",
+              "before": "profession",
+              "after": "pro titus fession",
+              "left": "sword fight he made open",
+              "right": "that he would set it"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "flavius",
+              "left": "not to please him selfe",
+              "right": "but to content the beholders"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "sianus",
+              "left": "verily even so hee did",
+              "right": "for neither denied he ought"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "augustus",
+              "left": "that would call for it",
+              "right": "and of his owne accord"
+            },
+            {
+              "op": "replace",
+              "before": "sword fencers",
+              "after": "swordfencers1",
+              "left": "the manner of the thracian",
+              "right": "fight and their armature hee"
+            }
+          ],
+          "source_span": "wilde beasts were killed as eusebius chronographus and eutropius write 2 celeriter 230 twelve cæsars having proposed a solemne sword fight he made open pro titus fession that he would set it forth not to please him selfe flavius but to content the beholders and verily even so hee did sianus for neither denied he ought to them that would call for it augustus and of his owne accord willed them to aske what their mindes stoode to moreover shewing plainly that hee stoode well affected to the manner of the thracian swordfencers1 fight and their armature hee would many times even with the rest of the people both in word and gesture as a favourer of that kinde jest and make sport yet so as hee kept still the majestie of an emperour and withall judged with equitie indifferently and because hee would pretermit no point of popularity sometime as hee bathed in his owne baines hee admitted the commons thither unto him"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 18,
+      "reference": "7.3",
+      "path": "/*/*[2]/*/*[9]/*[3]",
+      "line": 97,
+      "attributes": {
+        "type": "section",
+        "n": "3"
+      },
+      "text": "\n          There fell out in his daies certaine mischaunces and heavie accidents: as, the burning of the mountaine Vesævus in Campania: a Skar-fire at Rome, which lasted three daies and three nights; as also a pestilence, the like whereof had not lightly beene knowne else where at any other time. In these calamities so many and so grievous, he shewed not onely a Princely care, but also a singular fatherly affection : sometime comforting (his people) by his Edicts, otherwhiles helping them so farre forth as his power would extend. \n        ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.998,
+          "score": 1.0,
+          "page": "230",
+          "seq": 242,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "2",
+              "left": "nights as also a pestilence",
+              "right": "the like whereof had not"
+            }
+          ],
+          "source_span": "there fell out in his daies certaine mischaunces and heavie accidents as the burning of the mountaine vesævus in campania a skar fire at rome which lasted three daies and three nights as also a pestilence 2 the like whereof had not lightly beene knowne else where at any other time in these calamities so many and so grievous he shewed not onely a princely care but also a singular fatherly affection sometime comforting his people by his edicts otherwhiles helping them so farre forth as his power would extend"
+        },
+        "holland2-hvd": {
+          "rank": 0.998,
+          "score": 1.0,
+          "page": "230",
+          "seq": 244,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "2",
+              "left": "nights as also a pestilence",
+              "right": "the like whereof had not"
+            }
+          ],
+          "source_span": "there fell out in his daies certaine mischaunces and heavie accidents as the burning of the mountaine vesævus in campania a skar fire at rome which lasted three daies and three nights as also a pestilence 2 the like whereof had not lightly beene knowne else where at any other time in these calamities so many and so grievous he shewed not onely a princely care but also a singular fatherly affection sometime comforting his people by his edicts otherwhiles helping them so farre forth as his power would extend"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 19,
+      "reference": "7.4",
+      "path": "/*/*[2]/*/*[9]/*[4]",
+      "line": 100,
+      "attributes": {
+        "type": "section",
+        "n": "4"
+      },
+      "text": "\n          For repairing the losses in Campania, he chose by lot certaine Commissioners to looke thereto, even out of the ranke of those that had beene Consuls. The goods of such as perished in the said mount, whose heires could not be found, hee awarded to the reedification of the ruinate Cities adjoyning. And having made publick protestation, that in the said skare-fire of the Citie, there was no losse at all but to himselfe: looke what ornaments were in any of his owne Palaces and royall houses, the same he appointed to the Citie buildings and the Temples: for which purpose hee made divers of Knights degree Supravisors, to the end that every thing might be dispatched with greater expedi-  tion. To cure the sicknesse and mitigate the furie of those contagious Diseases, hee used all helpe of God and man, having sought out what soever kindes of Sacrifices and remedies might bee found: \n        ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.7835483870967742,
+          "score": 0.7935483870967742,
+          "page": "230",
+          "seq": 242,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "campania",
+              "after": "campania3",
+              "left": "for repairing the losses in",
+              "right": "he chose by lot certaine"
+            },
+            {
+              "op": "replace",
+              "before": "expedi tion",
+              "after": "expedivespasianus 1 who were opposite",
+              "left": "might be dispatched with greater",
+              "right": "to cure the sicknesse and"
+            },
+            {
+              "op": "delete",
+              "before": "cure",
+              "after": "",
+              "left": "with greater expedi tion to",
+              "right": "the sicknesse and mitigate the"
+            },
+            {
+              "op": "replace",
+              "before": "sicknesse",
+              "after": "mirmillones that were armed after the french fashion 2 wherin there died ten thousand a day euseb 3 by the burning of vesevus which consumed many towns",
+              "left": "expedi tion to cure the",
+              "right": "and mitigate the furie of"
+            },
+            {
+              "op": "replace",
+              "before": "mitigate",
+              "after": "much people 4 in",
+              "left": "to cure the sicknesse and",
+              "right": "the furie of those contagious"
+            },
+            {
+              "op": "delete",
+              "before": "furie of those contagious diseases hee used all helpe of god and man having sought out what soever kindes of sacrifices and remedies might bee found",
+              "after": "",
+              "left": "the sicknesse and mitigate the",
+              "right": ""
+            }
+          ],
+          "source_span": "for repairing the losses in campania3 he chose by lot certaine commissioners to looke thereto even out of the ranke of those that had beene consuls the goods of such as perished in the said mount whose heires could not be found hee awarded to the reedification of the ruinate cities adjoyning and having made publick protestation that in the said skare fire of the citie there was no losse at all but to himselfe looke what ornaments were in any of his owne palaces and royall houses the same he appointed to the citie buildings and the temples for which purpose hee made divers of knights degree supravisors to the end that every thing might be dispatched with greater expedivespasianus 1 who were opposite to the mirmillones that were armed after the french fashion 2 wherin there died ten thousand a day euseb 3 by the burning of vesevus which consumed many towns and much people 4 in the"
+        },
+        "holland2-hvd": {
+          "rank": 0.788,
+          "score": 0.8,
+          "page": "230",
+          "seq": 244,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "3",
+              "left": "repairing the losses in campania",
+              "right": "he chose by lot certaine"
+            },
+            {
+              "op": "replace",
+              "before": "expedi tion",
+              "after": "expedivespa1 who were opposite",
+              "left": "might be dispatched with greater",
+              "right": "to cure the sicknesse and"
+            },
+            {
+              "op": "delete",
+              "before": "cure",
+              "after": "",
+              "left": "with greater expedi tion to",
+              "right": "the sicknesse and mitigate the"
+            },
+            {
+              "op": "replace",
+              "before": "sicknesse",
+              "after": "mirmillones that were armed after the french fashion wherin there died ten thousand a day euseb 3 by the burning of vesevus which consumed many towns",
+              "left": "expedi tion to cure the",
+              "right": "and mitigate the furie of"
+            },
+            {
+              "op": "replace",
+              "before": "mitigate",
+              "after": "much people",
+              "left": "to cure the sicknesse and",
+              "right": "the furie of those contagious"
+            },
+            {
+              "op": "replace",
+              "before": "furie of those contagious diseases hee used all helpe of god and man having sought out what soever kindes of sacrifices and remedies might bee found",
+              "after": "country as columnes statues",
+              "left": "the sicknesse and mitigate the",
+              "right": ""
+            }
+          ],
+          "source_span": "for repairing the losses in campania 3 he chose by lot certaine commissioners to looke thereto even out of the ranke of those that had beene consuls the goods of such as perished in the said mount whose heires could not be found hee awarded to the reedification of the ruinate cities adjoyning and having made publick protestation that in the said skare fire of the citie there was no losse at all but to himselfe looke what ornaments were in any of his owne palaces and royall houses the same he appointed to the citie buildings and the temples for which purpose hee made divers of knights degree supravisors to the end that every thing might be dispatched with greater expedivespa1 who were opposite to the mirmillones that were armed after the french fashion wherin there died ten thousand a day euseb 3 by the burning of vesevus which consumed many towns and much people the country as columnes statues"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 20,
+      "reference": "7.5",
+      "path": "/*/*[2]/*/*[9]/*[5]",
+      "line": 103,
+      "attributes": {
+        "type": "section",
+        "n": "5"
+      },
+      "text": "\n          among the adversities of those times, may bee reckoned these Promoters and Informers, with such as under hand set them a worke, occasioned all by old licentiousnesse and impunitie. And those he commaunded to be whipped and beaten with cudgels ordinarily in the open Market place and last of all, when they had beene brought in a Shew through the Amphitheatre, partly to be solde in port-sale for slaves: and in part to be caried away into the roughest and bleakest Ilands that were. And because hee would for ever restraine such, as at any time should dare to doe the like: hee made an Acte among many others, prohibiting, one and the same matter to bee sued by vertue of many Statutes and Lawes enacted in that behalfe; or to make inquisition as touching the estate of any man deceased, after the terme of certaine yeeres limited. \n        ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.998,
+          "score": 1.0,
+          "page": "231",
+          "seq": 243,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "sianus",
+              "left": "among the adversities of those",
+              "right": "times may bee reckoned these"
+            }
+          ],
+          "source_span": "among the adversities of those sianus times may bee reckoned these promoters and informers with such as under hand set them a worke occasioned all by old licentiousnesse and impunitie and those he commaunded to be whipped and beaten with cudgels ordinarily in the open market place and last of all when they had beene brought in a shew through the amphitheatre partly to be solde in port sale for slaves and in part to be caried away into the roughest and bleakest ilands that were and because hee would for ever restraine such as at any time should dare to doe the like hee made an acte among many others prohibiting one and the same matter to bee sued by vertue of many statutes and lawes enacted in that behalfe or to make inquisition as touching the estate of any man deceased after the terme of certaine yeeres limited"
+        },
+        "holland2-hvd": {
+          "rank": 0.998,
+          "score": 1.0,
+          "page": "231",
+          "seq": 245,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "sianus",
+              "left": "among the adversities of those",
+              "right": "times may bee reckoned these"
+            }
+          ],
+          "source_span": "among the adversities of those sianus times may bee reckoned these promoters and informers with such as under hand set them a worke occasioned all by old licentiousnesse and impunitie and those he commaunded to be whipped and beaten with cudgels ordinarily in the open market place and last of all when they had beene brought in a shew through the amphitheatre partly to be solde in port sale for slaves and in part to be caried away into the roughest and bleakest ilands that were and because hee would for ever restraine such as at any time should dare to doe the like hee made an acte among many others prohibiting one and the same matter to bee sued by vertue of many statutes and lawes enacted in that behalfe or to make inquisition as touching the estate of any man deceased after the terme of certaine yeeres limited"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 21,
+      "reference": "8.1",
+      "path": "/*/*[2]/*/*[10]/*[1]",
+      "line": 109,
+      "attributes": {
+        "type": "section",
+        "n": "1"
+      },
+      "text": "\n          Having professed that he tooke upon him the High-Priesthood in this regard, because hee would keepe his hands pure and innocent, hee made good his word. For, after that time, never was hee the principall Author of any mans death, nor privie and accessarie thereto (albeit hee wanted not sometimes just cause of revenge), but sware devoutly, That hee would rather die himselfe, than doe others to death. Two noble men of the Patritian ranke, convicted for affecting and aspiring to the Empire, he proceeded against no farther than to admonish them to desist and give over, saying, That Soveraigne power was the gift of Destinie and Divine providence. If they were Petitioners for any thing else, he promised to give it unto them. \n        ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.982,
+          "score": 0.984,
+          "page": "231",
+          "seq": 243,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "high priesthood",
+              "after": "highpriesthood",
+              "left": "he tooke upon him the",
+              "right": "in this regard because hee"
+            }
+          ],
+          "source_span": "having professed that he tooke upon him the highpriesthood in this regard because hee would keepe his hands pure and innocent hee made good his word for after that time never was hee the principall author of any mans death nor privie and accessarie thereto albeit hee wanted not sometimes just cause of revenge but sware devoutly that hee would rather die himselfe than doe others to death two noble men of the patritian ranke convicted for affecting and aspiring to the empire he proceeded against no farther than to admonish them to desist and give over saying that soveraigne power was the gift of destinie and divine providence if they were petitioners for any thing else he promised to give it unto them"
+        },
+        "holland2-hvd": {
+          "rank": 0.982,
+          "score": 0.984,
+          "page": "231",
+          "seq": 245,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "high priesthood",
+              "after": "highpriesthood",
+              "left": "he tooke upon him the",
+              "right": "in this regard because hee"
+            }
+          ],
+          "source_span": "having professed that he tooke upon him the highpriesthood in this regard because hee would keepe his hands pure and innocent hee made good his word for after that time never was hee the principall author of any mans death nor privie and accessarie thereto albeit hee wanted not sometimes just cause of revenge but sware devoutly that hee would rather die himselfe than doe others to death two noble men of the patritian ranke convicted for affecting and aspiring to the empire he proceeded against no farther than to admonish them to desist and give over saying that soveraigne power was the gift of destinie and divine providence if they were petitioners for any thing else he promised to give it unto them"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 22,
+      "reference": "8.2",
+      "path": "/*/*[2]/*/*[10]/*[2]",
+      "line": 112,
+      "attributes": {
+        "type": "section",
+        "n": "2"
+      },
+      "text": "\n          And verily, out of hand, to the mother of the one, who was then farre of (wofull and pensive woman as shee was) he dispatched his owne coursitours and foote-men to carie word that her sonne was safe: as for themselves hee not onely invited them to a familiar and friendly supper that night: but also the next day following, at the fight of Sword-  fencers placing them of purpose neere about his owne person, the Ornaments of the Champions that were to fight, presented unto him, hee reached unto them for to view and peruse. It is said, moreover, that having knowledge of both their Horoscopes, he avouched that daunger was toward them both and would light upon their heads one day, but from some other; as it fell out in deede. \n        ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.9601492537313433,
+          "score": 0.9701492537313433,
+          "page": "232",
+          "seq": 244,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "sword",
+              "after": "sword232 twelve cæsars titus flavius vespasianus",
+              "left": "following at the fight of",
+              "right": "fencers placing them of purpose"
+            },
+            {
+              "op": "replace",
+              "before": "ornaments",
+              "after": "ornaments1",
+              "left": "about his owne person the",
+              "right": "of the champions that were"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "augustus",
+              "left": "moreover that having knowledge of",
+              "right": "both their horoscopes he avouched"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "2",
+              "left": "knowledge of both their horoscopes",
+              "right": "he avouched that daunger was"
+            },
+            {
+              "op": "delete",
+              "before": "in deede",
+              "after": "",
+              "left": "other as it fell out",
+              "right": ""
+            }
+          ],
+          "source_span": "and verily out of hand to the mother of the one who was then farre of wofull and pensive woman as shee was he dispatched his owne coursitours and foote men to carie word that her sonne was safe as for themselves hee not onely invited them to a familiar and friendly supper that night but also the next day following at the fight of sword232 twelve cæsars titus flavius vespasianus fencers placing them of purpose neere about his owne person the ornaments1 of the champions that were to fight presented unto him hee reached unto them for to view and peruse it is said moreover that having knowledge of augustus both their horoscopes 2 he avouched that daunger was toward them both and would light upon their heads one day but from some other as it fell out"
+        },
+        "holland2-hvd": {
+          "rank": 0.9526865671641791,
+          "score": 0.9626865671641791,
+          "page": "232",
+          "seq": 246,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "fight",
+              "after": "figh",
+              "left": "next day following at the",
+              "right": "of sword fencers placing them"
+            },
+            {
+              "op": "replace",
+              "before": "sword",
+              "after": "sword232 twelve cæsars titus flavius vespasianus",
+              "left": "following at the fight of",
+              "right": "fencers placing them of purpose"
+            },
+            {
+              "op": "replace",
+              "before": "ornaments",
+              "after": "ornaments1",
+              "left": "about his owne person the",
+              "right": "of the champions that were"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "augustus",
+              "left": "moreover that having knowledge of",
+              "right": "both their horoscopes he avouched"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "2",
+              "left": "knowledge of both their horoscopes",
+              "right": "he avouched that daunger was"
+            },
+            {
+              "op": "delete",
+              "before": "in deede",
+              "after": "",
+              "left": "other as it fell out",
+              "right": ""
+            }
+          ],
+          "source_span": "and verily out of hand to the mother of the one who was then farre of wofull and pensive woman as shee was he dispatched his owne coursitours and foote men to carie word that her sonne was safe as for themselves hee not onely invited them to a familiar and friendly supper that night but also the next day following at the figh of sword232 twelve cæsars titus flavius vespasianus fencers placing them of purpose neere about his owne person the ornaments1 of the champions that were to fight presented unto him hee reached unto them for to view and peruse it is said moreover that having knowledge of augustus both their horoscopes 2 he avouched that daunger was toward them both and would light upon their heads one day but from some other as it fell out"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 23,
+      "reference": "8.3",
+      "path": "/*/*[2]/*/*[10]/*[3]",
+      "line": 115,
+      "attributes": {
+        "type": "section",
+        "n": "3"
+      },
+      "text": "\n          His owne brother never ceasing to lay waite for his life, but professedly in manner soliciting the armies against him: plotting also and intending thereupon to flie and be gone, hee could never endure either to kill or to sequester and confine, no nor so much as to abridge of any honour: but, as hee had alwaies done from the first day of his imperiall dignity, persevered to testifie and declare, that Partner he was with him in the Soveraigne government, and his heire apparent to succeede him: otherwhiles secretly with teares and praiers beseeching, That he would vouchsafe him yet at length, mutuall love and affection. \n        ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.998,
+          "score": 1.0,
+          "page": "232",
+          "seq": 244,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "3",
+              "left": "his owne brother",
+              "right": "never ceasing to lay waite"
+            }
+          ],
+          "source_span": "his owne brother 3 never ceasing to lay waite for his life but professedly in manner soliciting the armies against him plotting also and intending thereupon to flie and be gone hee could never endure either to kill or to sequester and confine no nor so much as to abridge of any honour but as hee had alwaies done from the first day of his imperiall dignity persevered to testifie and declare that partner he was with him in the soveraigne government and his heire apparent to succeede him otherwhiles secretly with teares and praiers beseeching that he would vouchsafe him yet at length mutuall love and affection"
+        },
+        "holland2-hvd": {
+          "rank": 0.998,
+          "score": 1.0,
+          "page": "232",
+          "seq": 246,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "3",
+              "left": "his owne brother",
+              "right": "never ceasing to lay waite"
+            }
+          ],
+          "source_span": "his owne brother 3 never ceasing to lay waite for his life but professedly in manner soliciting the armies against him plotting also and intending thereupon to flie and be gone hee could never endure either to kill or to sequester and confine no nor so much as to abridge of any honour but as hee had alwaies done from the first day of his imperiall dignity persevered to testifie and declare that partner he was with him in the soveraigne government and his heire apparent to succeede him otherwhiles secretly with teares and praiers beseeching that he would vouchsafe him yet at length mutuall love and affection"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 24,
+      "reference": "9.1",
+      "path": "/*/*[2]/*/*[11]/*[1]",
+      "line": 121,
+      "attributes": {
+        "type": "section",
+        "n": "1"
+      },
+      "text": "\n          Amid this blessed course of life, cut short he was and prevented by death, to the greater losse of mankinde than of himselfe. After he had finished the solemne Shewes and Games exhibited to the people, in the end and upshot whereof, hee had shed teares abundantly: he went toward the Sabines territorie somwhat more sad than usually he had beene: by occasion, that as hee sacrificed, the beast brake loose and gat away: as also because in faire and cleare weather it had thundered. Hereupon, having gotten an ague at his first lodging and baiting place, removing from thence in his Licter, it is said that putting by the Curtaines of the windowe, hee looked up to heaven, and complained very piteously, that his life should be taken from him who had not deserved to die: for there was no fact of his extant, of which hee was to repent, save onely one. \n        ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.994,
+          "score": 1.0,
+          "page": "232",
+          "seq": 244,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "when he was",
+              "left": "first lodging and baiting place",
+              "right": "removing from thence in his"
+            }
+          ],
+          "source_span": "amid this blessed course of life cut short he was and prevented by death to the greater losse of mankinde than of himselfe after he had finished the solemne shewes and games exhibited to the people in the end and upshot whereof hee had shed teares abundantly he went toward the sabines territorie somwhat more sad than usually he had beene by occasion that as hee sacrificed the beast brake loose and gat away as also because in faire and cleare weather it had thundered hereupon having gotten an ague at his first lodging and baiting place when he was removing from thence in his licter it is said that putting by the curtaines of the windowe hee looked up to heaven and complained very piteously that his life should be taken from him who had not deserved to die for there was no fact of his extant of which hee was to repent save onely one"
+        },
+        "holland2-hvd": {
+          "rank": 0.994,
+          "score": 1.0,
+          "page": "232",
+          "seq": 246,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "when he was",
+              "left": "first lodging and baiting place",
+              "right": "removing from thence in his"
+            }
+          ],
+          "source_span": "amid this blessed course of life cut short he was and prevented by death to the greater losse of mankinde than of himselfe after he had finished the solemne shewes and games exhibited to the people in the end and upshot whereof hee had shed teares abundantly he went toward the sabines territorie somwhat more sad than usually he had beene by occasion that as hee sacrificed the beast brake loose and gat away as also because in faire and cleare weather it had thundered hereupon having gotten an ague at his first lodging and baiting place when he was removing from thence in his licter it is said that putting by the curtaines of the windowe hee looked up to heaven and complained very piteously that his life should be taken from him who had not deserved to die for there was no fact of his extant of which hee was to repent save onely one"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 25,
+      "reference": "9.2",
+      "path": "/*/*[2]/*/*[11]/*[2]",
+      "line": 124,
+      "attributes": {
+        "type": "section",
+        "n": "2"
+      },
+      "text": "\n          Now what that one should be, neither uttered he himselfe at that instant, neither is any man able readily to  guesse thereat. Some thinke, he called to minde the over-familiar acquaintance that he had with his brothers wife. But Domitia devoutly sware, That he never had such dealing with her: who no doubt would not have denied it, if there had beene any folly at all betweene them: nay, shee would rather have made her vaunt thereof: so ordinary a thing it was with her to glory in all naughtinesse and shamefull deedes. \n        ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.7513191489361702,
+          "score": 0.7553191489361702,
+          "page": "233",
+          "seq": 245,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "now what that one should be neither uttered he himselfe at that instant neither is any man able readily to",
+              "after": "2 ascendents of their nativity 3 domitian 2 gg 233 of the university p califor the historie of titus sianus",
+              "left": "",
+              "right": "guesse thereat some thinke he"
+            },
+            {
+              "op": "replace",
+              "before": "over",
+              "after": "overflavius",
+              "left": "he called to minde the",
+              "right": "familiar acquaintance that he had"
+            },
+            {
+              "op": "replace",
+              "before": "wife",
+              "after": "wife1 vespa",
+              "left": "he had with his brothers",
+              "right": "but domitia devoutly sware that"
+            },
+            {
+              "op": "replace",
+              "before": "dealing",
+              "after": "dealaugustus ing",
+              "left": "that he never had such",
+              "right": "with her who no doubt"
+            }
+          ],
+          "source_span": "2 ascendents of their nativity 3 domitian 2 gg 233 of the university p califor the historie of titus sianus guesse thereat some thinke he called to minde the overflavius familiar acquaintance that he had with his brothers wife1 vespa but domitia devoutly sware that he never had such dealaugustus ing with her who no doubt would not have denied it if there had beene any folly at all betweene them nay shee would rather have made her vaunt thereof so ordinary a thing it was with her to glory in all naughtinesse and shamefull deedes"
+        },
+        "holland2-hvd": {
+          "rank": 0.766595744680851,
+          "score": 0.776595744680851,
+          "page": "233",
+          "seq": 247,
+          "differences": [
+            {
+              "op": "delete",
+              "before": "now what that one should be neither uttered he himselfe at that instant neither is any man able",
+              "after": "",
+              "left": "",
+              "right": "readily to guesse thereat some"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "1 as their armour weapons etc 2 ascendents of their nativity 3 domitian 2 gg 233 the historie of titus sianus",
+              "left": "any man able readily to",
+              "right": "guesse thereat some thinke he"
+            },
+            {
+              "op": "replace",
+              "before": "over",
+              "after": "overflavius",
+              "left": "he called to minde the",
+              "right": "familiar acquaintance that he had"
+            },
+            {
+              "op": "replace",
+              "before": "wife",
+              "after": "wife1 vespa",
+              "left": "he had with his brothers",
+              "right": "but domitia devoutly sware that"
+            },
+            {
+              "op": "replace",
+              "before": "dealing",
+              "after": "dealaugustus ing",
+              "left": "that he never had such",
+              "right": "with her who no doubt"
+            }
+          ],
+          "source_span": "readily to 1 as their armour weapons etc 2 ascendents of their nativity 3 domitian 2 gg 233 the historie of titus sianus guesse thereat some thinke he called to minde the overflavius familiar acquaintance that he had with his brothers wife1 vespa but domitia devoutly sware that he never had such dealaugustus ing with her who no doubt would not have denied it if there had beene any folly at all betweene them nay shee would rather have made her vaunt thereof so ordinary a thing it was with her to glory in all naughtinesse and shamefull deedes"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 26,
+      "reference": "10.1",
+      "path": "/*/*[2]/*/*[12]/*",
+      "line": 130,
+      "attributes": {
+        "type": "section",
+        "n": "1"
+      },
+      "text": "\n          He departed this world, in the very same Country-house wherein his father died before him upon the Ides of September, two yeeres, two moneths and twenty dayes after that he succeeded his father, and in the two and fortieth yeere of his age. Which being once notified and knowen abroade, when all men throughout the Citie mourned no lesse than in some domesticall occasion of Sorow and Lamentation: the Senate before they were summoned and called together by any Edict, ranne to the Curia, finding as yet the dores fast locked: but when they were set open, they rendred unto him now dead so much thanks, and heaped upon him so great a measure of praises, as they never did before, at any time, whiles he was living and present among them. \n        ",
+      "witnesses": {
+        "holland2-uc1": {
+          "rank": 0.998,
+          "score": 1.0,
+          "page": "233",
+          "seq": 245,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "a",
+              "left": "he departed this world",
+              "right": "in the very same country"
+            }
+          ],
+          "source_span": "he departed this world a in the very same country house wherein his father died before him upon the ides of september two yeeres two moneths and twenty dayes after that he succeeded his father and in the two and fortieth yeere of his age which being once notified and knowen abroade when all men throughout the citie mourned no lesse than in some domesticall occasion of sorow and lamentation the senate before they were summoned and called together by any edict ranne to the curia finding as yet the dores fast locked but when they were set open they rendred unto him now dead so much thanks and heaped upon him so great a measure of praises as they never did before at any time whiles he was living and present among them"
+        },
+        "holland2-hvd": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "233",
+          "seq": 247,
+          "differences": [],
+          "source_span": "he departed this world in the very same country house wherein his father died before him upon the ides of september two yeeres two moneths and twenty dayes after that he succeeded his father and in the two and fortieth yeere of his age which being once notified and knowen abroade when all men throughout the citie mourned no lesse than in some domesticall occasion of sorow and lamentation the senate before they were summoned and called together by any edict ranne to the curia finding as yet the dores fast locked but when they were set open they rendred unto him now dead so much thanks and heaped upon him so great a measure of praises as they never did before at any time whiles he was living and present among them"
+        }
+      }
+    }
+  ]
+}

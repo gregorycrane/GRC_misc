@@ -1,0 +1,1558 @@
+{
+  "file": "/Users/gcrane/github/GRC_misc/suet_loeb/suetonius.titus.loeb_eng1.xml",
+  "sha256": "2b155a7136e0caf388f09d69ba70cc5cfc3faec83b5dd71874da9aa48dda18be",
+  "volume": 2,
+  "chapters": 11,
+  "sections": 27,
+  "notes": 23,
+  "rows": [
+    {
+      "kind": "note",
+      "index": 1,
+      "reference": "1.1",
+      "path": "/*/*[2]/*/*/*[2]/*/*/*[1]",
+      "line": 88,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Some building of seven stories; the famous Septizonium on the Palatine was the work of Septimius Severus.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "320",
+          "seq": 332,
+          "differences": [],
+          "source_span": "some building of seven stories the famous septizonium on the palatine was the work of septimius severus"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 2,
+      "reference": "1.1",
+      "path": "/*/*[2]/*/*/*[2]/*/*/*[2]",
+      "line": 88,
+      "attributes": {
+        "place": "margin"
+      },
+      "text": "Dec. 30, 41 A.D.",
+      "witnesses": {
+        "loeb2-uc1": null
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 3,
+      "reference": "2.2",
+      "path": "/*/*[2]/*/*/*[3]/*[2]/*/*",
+      "line": 97,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "See Nero, xxxiii. 2 and 3.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.8333333333333334,
+          "score": 0.8333333333333334,
+          "page": "321",
+          "seq": 333,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "see",
+              "after": "cf",
+              "left": "",
+              "right": "nero xxxiii 2 and 3"
+            }
+          ],
+          "source_span": "cf nero xxxiii 2 and 3"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "323",
+          "context": "drained the fatal draught,a\ntitus, who was reclining",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 4,
+      "reference": "4.2",
+      "path": "/*/*[2]/*/*/*[5]/*[2]/*/*",
+      "line": 115,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "See Galba xiv. 2, and note.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "323",
+          "seq": 335,
+          "differences": [],
+          "source_span": "see galba xiv 2 and note"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "325",
+          "context": "of the praetorian cohorts; a on her death he",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 5,
+      "reference": "4.3",
+      "path": "/*/*[2]/*/*/*[5]/*[3]/*[2]",
+      "line": 118,
+      "attributes": {
+        "place": "margin"
+      },
+      "text": "67 A.D.",
+      "witnesses": {
+        "loeb2-uc1": null
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 6,
+      "reference": "5.1",
+      "path": "/*/*[2]/*/*/*[6]/*[1]/*/*",
+      "line": 124,
+      "attributes": {
+        "place": "margin"
+      },
+      "text": "68 A.D.",
+      "witnesses": {
+        "loeb2-uc1": null
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "325",
+          "context": "to congratulate galba on 68 a.d.\nbecoming ruler of the",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 7,
+      "reference": "5.2",
+      "path": "/*/*[2]/*/*/*[6]/*[2]/*/*[1]",
+      "line": 127,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "By the accession of his father Vespasian.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "323",
+          "seq": 335,
+          "differences": [],
+          "source_span": "by the accession of his father vespasian"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "325",
+          "context": "soon realising his hope and left behind to",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 8,
+      "reference": "5.2",
+      "path": "/*/*[2]/*/*/*[6]/*[2]/*/*[3]",
+      "line": 127,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "See Aug. xiii. 2.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "325",
+          "seq": 337,
+          "differences": [],
+          "source_span": "see aug xiii 2"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 9,
+      "reference": "6.1",
+      "path": "/*/*[2]/*/*/*[7]/*[1]/*/*[1]",
+      "line": 136,
+      "attributes": {
+        "place": "margin"
+      },
+      "text": "73 A.D.",
+      "witnesses": {
+        "loeb2-uc1": null
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 10,
+      "reference": "6.1",
+      "path": "/*/*[2]/*/*/*[7]/*[1]/*/*[2]",
+      "line": 136,
+      "attributes": {
+        "place": "margin"
+      },
+      "text": "70, 72, 74, 75, 76, 77, 79 A.D.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.5455555555555556,
+          "score": 0.5555555555555556,
+          "page": "298",
+          "seq": 310,
+          "differences": [
+            {
+              "op": "delete",
+              "before": "70",
+              "after": "",
+              "left": "",
+              "right": "72 74 75 76 77"
+            },
+            {
+              "op": "replace",
+              "before": "74 75 76",
+              "after": "to his former one he also assumed the censorship",
+              "left": "70 72",
+              "right": "77 79 a d"
+            }
+          ],
+          "source_span": "72 to his former one he also assumed the censorship 77 79 a d"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 11,
+      "reference": "6.1",
+      "path": "/*/*[2]/*/*/*[7]/*[1]/*/*[3]",
+      "line": 136,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "See Nero xv. 2, and note a.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "325",
+          "seq": 337,
+          "differences": [],
+          "source_span": "see nero xv 2 and note a"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 12,
+      "reference": "7.1",
+      "path": "/*/*[2]/*/*/*[8]/*[1]/*/*[1]",
+      "line": 145,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "See Nero xv. 2, and note c.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.8571428571428571,
+          "score": 0.8571428571428571,
+          "page": "325",
+          "seq": 337,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "c",
+              "after": "a",
+              "left": "nero xv 2 and note",
+              "right": ""
+            }
+          ],
+          "source_span": "see nero xv 2 and note a"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 13,
+      "reference": "7.3",
+      "path": "/*/*[2]/*/*/*[8]/*[3]/*/*",
+      "line": 151,
+      "attributes": {
+        "place": "margin"
+      },
+      "text": "80 A.D.",
+      "witnesses": {
+        "loeb2-uc1": null
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "331",
+          "context": "and costly gladiatorial show. he presented a sham",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 14,
+      "reference": "8.2",
+      "path": "/*/*[2]/*/*/*[9]/*[2]/*/*",
+      "line": 160,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "By humorously pretending to wrangle with those who favoured other gladiators than the Thracians; see Index, s.v. gladiator.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "331",
+          "seq": 343,
+          "differences": [],
+          "source_span": "by humorously pretending to wrangle with those who favoured other gladiators than the thracians see index s v gladiator"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "333",
+          "context": "well as observing\njustice. not to omit any",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 15,
+      "reference": "8.3",
+      "path": "/*/*[2]/*/*/*[9]/*[3]/*/*[1]",
+      "line": 163,
+      "attributes": {
+        "place": "margin"
+      },
+      "text": "79 A.D.",
+      "witnesses": {
+        "loeb2-uc1": null
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "333",
+          "context": "rome which continued three 79 a.d.\ndays and as many",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 16,
+      "reference": "8.3",
+      "path": "/*/*[2]/*/*/*[9]/*[3]/*/*[2]",
+      "line": 163,
+      "attributes": {
+        "place": "margin"
+      },
+      "text": "80 A.D.",
+      "witnesses": {
+        "loeb2-uc1": null
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 17,
+      "reference": "8.4",
+      "path": "/*/*[2]/*/*/*[9]/*[4]/*/*[1]",
+      "line": 166,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Implying that it was his personal loss, which he would make good.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "332",
+          "seq": 344,
+          "differences": [],
+          "source_span": "implying that it was his personal loss which he would make good"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "333",
+          "context": "except \" i am ruined,\" and he set aside",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 18,
+      "reference": "8.4",
+      "path": "/*/*[2]/*/*/*[9]/*[4]/*/*[3]",
+      "line": 166,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "To propitiate the gods, who were supposed to inflict such evils upon mankind by way of punishment.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "333",
+          "seq": 345,
+          "differences": [],
+          "source_span": "to propitiate the gods who were supposed to inflict such evils upon mankind by way of punishment"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 19,
+      "reference": "9.1",
+      "path": "/*/*[2]/*/*/*[10]/*[1]/*/*",
+      "line": 175,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "The office was seldom taken so seriously. Julius Caesar, for instance, held it during his campaigns in Gaul.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "333",
+          "seq": 345,
+          "differences": [],
+          "source_span": "the office was seldom taken so seriously julius caesar for instance held it during his campaigns in gaul"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "335",
+          "context": "keeping\nhis hands unstained, he was true to",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 20,
+      "reference": "9.2",
+      "path": "/*/*[2]/*/*/*[10]/*[2]/*/*[2]",
+      "line": 178,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "The weapons of gladiators were regularly examined by the editor, or giver of the games, to see if they were sharp enough; cf. Dio, 68. 3, who tells a similar story of the emperor Nerva.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "335",
+          "seq": 347,
+          "differences": [],
+          "source_span": "the weapons of gladiators were regularly examined by the editor or giver of the games to see if they were sharp enough cf dio 68 3 who tells a similar story of the emperor nerva"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 21,
+      "reference": "10.2",
+      "path": "/*/*[2]/*/*/*[11]/*[2]/*/*[2]",
+      "line": 190,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Possibly Domitian's charge was true; cf. Dom. ii. 3.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "335",
+          "seq": 347,
+          "differences": [],
+          "source_span": "possibly domitian s charge was true cf dom ii 3"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 22,
+      "reference": "11.1",
+      "path": "/*/*[2]/*/*/*[12]/*/*[1]/*",
+      "line": 196,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "The old homestead at Cutilae, near Reate; see Vesp. xxiv. That this continued to be a villa rustica is implied in Vesp. ii. 1.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "337",
+          "seq": 349,
+          "differences": [],
+          "source_span": "the old homestead at cutilae near reate see vesp xxiv that this continued to be a villa rustica is implied in vesp ii 1"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 23,
+      "reference": "11.1",
+      "path": "/*/*[2]/*/*/*[12]/*/*[2]",
+      "line": 196,
+      "attributes": {
+        "place": "margin"
+      },
+      "text": "Sept. 13, 81 A.D.",
+      "witnesses": {
+        "loeb2-uc1": null
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "section",
+      "index": 1,
+      "reference": "1.1",
+      "path": "/*/*[2]/*/*/*[2]/*",
+      "line": 87,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:1",
+        "n": "1"
+      },
+      "text": "\n            I. TITUS, of the same surname as his father, was the delight and darling of the human race; such ability had he, by nature, art, or good fortune, to win the affections of all men, and that, too, which is no easy task, while he was emperor; for as a private citizen, and even during his father's rule, he did not escape hatred, much less public criticism. He was born on the third day before the Kalends of January, in the year memorable for the death of Gaius, in a mean house near the Septizonium   and in a very small dark room besides; for it still remains and is on exhibition. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.8640714285714286,
+          "score": 0.8660714285714286,
+          "page": "320",
+          "seq": 332,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "dec 30",
+              "left": "third day before the kalends",
+              "right": "of january in the year"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "41 a d",
+              "left": "year memorable for the death",
+              "right": "of gaius in a mean"
+            },
+            {
+              "op": "replace",
+              "before": "and in a very small dark room besides for it still remains and is",
+              "after": "some building of seven stories the famous septizonium",
+              "left": "mean house near the septizonium",
+              "right": "on exhibition"
+            },
+            {
+              "op": "replace",
+              "before": "exhibition",
+              "after": "the",
+              "left": "still remains and is on",
+              "right": ""
+            }
+          ],
+          "source_span": "i titus of the same surname as his father was the delight and darling of the human race such ability had he by nature art or good fortune to win the affections of all men and that too which is no easy task while he was emperor for as a private citizen and even during his father s rule he did not escape hatred much less public criticism he was born on the third day before the kalends dec 30 of january in the year memorable for the death 41 a d of gaius in a mean house near the septizonium some building of seven stories the famous septizonium on the"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 2,
+      "reference": "2.1",
+      "path": "/*/*[2]/*/*/*[3]/*[1]",
+      "line": 93,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:2",
+        "n": "1"
+      },
+      "text": "\n            II. He was brought up at court in company with Britannicus and taught the same subjects by the same masters. At that time, so they say, a physiognomist was brought in by Narcissus, the freedman of Claudius, to examine Britannicus and declared most positively that he would never become emperor; but that Titus, who was standing near by at the time, would surely rule. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "322",
+          "seq": 334,
+          "differences": [],
+          "source_span": "ii he was brought up at court in company with britannicus and taught the same subjects by the same masters at that time so they say a physiognomist was brought in by narcissus the freedman of claudius to examine britannicus and declared most positively that he would never become emperor but that titus who was standing near by at the time would surely rule"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 3,
+      "reference": "2.2",
+      "path": "/*/*[2]/*/*/*[3]/*[2]",
+      "line": 96,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:2",
+        "n": "2"
+      },
+      "text": "\n            The boys were so intimate too, that it is believed that when Britannicus drained the fatal draught, Titus, who was reclining at his side, also tasted of the potion and for a long time suffered from an obstinate disorder. Titus did not forget all this, but later set up a golden statue of his friend in the Palace, and dedicated another equestrian statue of ivory and attended it in the processions in the Circus, where it is still carried to this day. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.998,
+          "score": 1.0,
+          "page": "322",
+          "seq": 334,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "a",
+              "left": "britannicus drained the fatal draught",
+              "right": "titus who was reclining at"
+            }
+          ],
+          "source_span": "the boys were so intimate too that it is believed that when britannicus drained the fatal draught a titus who was reclining at his side also tasted of the potion and for a long time suffered from an obstinate disorder titus did not forget all this but later set up a golden statue of his friend in the palace and dedicated another equestrian statue of ivory and attended it in the processions in the circus where it is still carried to this day"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 4,
+      "reference": "3.1",
+      "path": "/*/*[2]/*/*/*[4]/*[1]",
+      "line": 102,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:3",
+        "n": "1"
+      },
+      "text": "\n            III. Even in boyhood his bodily and mental gifts were conspicuous and they became more and more so as he advanced in years. He had a handsome person, in which there was no less dignity than grace, and was uncommonly strong, although he was not tall of stature and had a rather protruding belly. His memory was extraordinary and he had an aptitude for almost all the arts, both of war and of peace. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "322",
+          "seq": 334,
+          "differences": [],
+          "source_span": "iii even in boyhood his bodily and mental gifts were conspicuous and they became more and more so as he advanced in years he had a handsome person in which there was no less dignity than grace and was uncommonly strong although he was not tall of stature and had a rather protruding belly his memory was extraordinary and he had an aptitude for almost all the arts both of war and of peace"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 5,
+      "reference": "3.2",
+      "path": "/*/*[2]/*/*/*[4]/*[2]",
+      "line": 105,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:3",
+        "n": "2"
+      },
+      "text": "\n            Skilful in arms and horsemanship, he made speeches and wrote verses in Latin and Greek with ease and readiness, and even off-hand. He was besides not unacquainted with music, but sang and played the harp agreeably and skilfully. I have heard from many sources that he used also to write shorthand with great speed and would  amuse himself by playful contests with his secretaries; also that he could imitate any handwriting that he had ever seen and often declared that he might have been the prince of forgers. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.6089213483146066,
+          "score": 0.6629213483146067,
+          "page": "323",
+          "seq": 335,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "amuse himself by playful contests with his secretaries also that he could imitate any handwriting that he had ever seen and often declared that he might have been",
+              "after": "323",
+              "left": "with great speed and would",
+              "right": "the prince of forgers"
+            },
+            {
+              "op": "replace",
+              "before": "prince",
+              "after": "lives",
+              "left": "he might have been the",
+              "right": "of forgers"
+            },
+            {
+              "op": "replace",
+              "before": "forgers",
+              "after": "the",
+              "left": "have been the prince of",
+              "right": ""
+            }
+          ],
+          "source_span": "skilful in arms and horsemanship he made speeches and wrote verses in latin and greek with ease and readiness and even off hand he was besides not unacquainted with music but sang and played the harp agreeably and skilfully i have heard from many sources that he used also to write shorthand with great speed and would 323 the lives of the"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 6,
+      "reference": "4.1",
+      "path": "/*/*[2]/*/*/*[5]/*[1]",
+      "line": 111,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:4",
+        "n": "1"
+      },
+      "text": "\n            IV. He served as military tribune both in Germany and in Britain, winning a high reputation for energy and no less for integrity, as is evident from the great number of his statues and busts in both those provinces and from the inscriptions they bear. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "324",
+          "seq": 336,
+          "differences": [],
+          "source_span": "iv he served as military tribune both in germany and in britain winning a high reputation for energy and no less for integrity as is evident from the great number of his statues and busts in both those provinces and from the inscriptions they bear"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 7,
+      "reference": "4.2",
+      "path": "/*/*[2]/*/*/*[5]/*[2]",
+      "line": 114,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:4",
+        "n": "2"
+      },
+      "text": "\n            After his military service he pleaded in the Forum, rather for glory than as a profession, and at the same time took to wife Arrecina Tertulla, whose father, though only a Roman knight, had once been prefect of the praetorian cohorts; on her death he replaced her by Marcia Furnilla, a lady of a very distinguished family, but divorced her after he had acknowledged a daughter which she bore him. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.998,
+          "score": 1.0,
+          "page": "324",
+          "seq": 336,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "a",
+              "left": "prefect of the praetorian cohorts",
+              "right": "on her death he replaced"
+            }
+          ],
+          "source_span": "after his military service he pleaded in the forum rather for glory than as a profession and at the same time took to wife arrecina tertulla whose father though only a roman knight had once been prefect of the praetorian cohorts a on her death he replaced her by marcia furnilla a lady of a very distinguished family but divorced her after he had acknowledged a daughter which she bore him"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 8,
+      "reference": "4.3",
+      "path": "/*/*[2]/*/*/*[5]/*[3]",
+      "line": 117,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:4",
+        "n": "3"
+      },
+      "text": "\n            Then, after holding the office of quaestor, as commander of a legion he subjugated the two strong cities of Tarichaeae and Gamala in Judaea, having his horse killed under him in one battle and mounting another, whose rider had fallen fighting by his side.  \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.994,
+          "score": 1.0,
+          "page": "324",
+          "seq": 336,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "67 a d",
+              "left": "the office of quaestor as",
+              "right": "commander of a legion he"
+            }
+          ],
+          "source_span": "then after holding the office of quaestor as 67 a d commander of a legion he subjugated the two strong cities of tarichaeae and gamala in judaea having his horse killed under him in one battle and mounting another whose rider had fallen fighting by his side"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 9,
+      "reference": "5.1",
+      "path": "/*/*[2]/*/*/*[6]/*[1]",
+      "line": 123,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:5",
+        "n": "1"
+      },
+      "text": "\n            V. Presently he was sent to congratulate Galba on  becoming ruler of the state, and attracted attention wherever he went, through the belief that he had been sent for to be adopted. But observing that everything was once more in a state of turmoil, he turned back, and visiting the oracle of the Paphian Venus, to consult it about his voyage, he was also encouraged to hope for imperial power. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.994,
+          "score": 1.0,
+          "page": "324",
+          "seq": 336,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "68 a d",
+              "left": "sent to congratulate galba on",
+              "right": "becoming ruler of the state"
+            }
+          ],
+          "source_span": "v presently he was sent to congratulate galba on 68 a d becoming ruler of the state and attracted attention wherever he went through the belief that he had been sent for to be adopted but observing that everything was once more in a state of turmoil he turned back and visiting the oracle of the paphian venus to consult it about his voyage he was also encouraged to hope for imperial power"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 10,
+      "reference": "5.2",
+      "path": "/*/*[2]/*/*/*[6]/*[2]",
+      "line": 126,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:5",
+        "n": "2"
+      },
+      "text": "\n            Soon realising his hope and left behind to complete the conquest of Judaea, in the final attack on Jerusalem he slew twelve of the defenders with as many  arrows; and he took the city on his daughter's birthday, so delighting the soldiers and winning their devotion that they hailed him as Imperator and detained him from time to time, when he would leave the province, urging him with prayers and even with threats either to stay or to take them all with him. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.6584761904761904,
+          "score": 0.6904761904761905,
+          "page": "326",
+          "seq": 338,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "soon realising his hope",
+              "after": "see nero xv 2",
+              "left": "",
+              "right": "and left behind to complete"
+            },
+            {
+              "op": "replace",
+              "before": "left behind to complete",
+              "after": "note a 326",
+              "left": "soon realising his hope and",
+              "right": "the conquest of judaea in"
+            },
+            {
+              "op": "replace",
+              "before": "conquest of judaea in the final attack on jerusalem he slew twelve of the defenders with as many",
+              "after": "deified titus",
+              "left": "left behind to complete the",
+              "right": "arrows and he took the"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "a",
+              "left": "they hailed him as imperator",
+              "right": "and detained him from time"
+            }
+          ],
+          "source_span": "see nero xv 2 and note a 326 the deified titus arrows and he took the city on his daughter s birthday so delighting the soldiers and winning their devotion that they hailed him as imperator a and detained him from time to time when he would leave the province urging him with prayers and even with threats either to stay or to take them all with him"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 11,
+      "reference": "5.3",
+      "path": "/*/*[2]/*/*/*[6]/*[3]",
+      "line": 129,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:5",
+        "n": "3"
+      },
+      "text": "\n            This aroused the suspicion that he had tried to revolt from his father and make himself king of the East; and he strengthened this suspicion on his way to Alexandria by wearing a diadem at the consecration of the bull Apis in Memphis, an act quite in accord with the usual ceremonial of that ancient religion, but unfavourably interpreted by some. Because of this he hastened to Italy, and putting in at Regium and then at Puteoli in a transport ship, he went with all speed from there to Rome, where as if to show that the reports about him were groundless, he surprised his father with the greeting, \"I am here, father; I am here.\" \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.9913793103448276,
+          "score": 0.9913793103448276,
+          "page": "326",
+          "seq": 338,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "hastened",
+              "after": "bastened",
+              "left": "some because of this he",
+              "right": "to italy and putting in"
+            }
+          ],
+          "source_span": "this aroused the suspicion that he had tried to revolt from his father and make himself king of the east and he strengthened this suspicion on his way to alexandria by wearing a diadem at the consecration of the bull apis in memphis an act quite in accord with the usual ceremonial of that ancient religion but unfavourably interpreted by some because of this he bastened to italy and putting in at regium and then at puteoli in a transport ship he went with all speed from there to rome where as if to show that the reports about him were groundless he surprised his father with the greeting i am here father i am here"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 12,
+      "reference": "6.1",
+      "path": "/*/*[2]/*/*/*[7]/*[1]",
+      "line": 135,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:6",
+        "n": "1"
+      },
+      "text": "\n            VI. From that time on he never ceased to act as the emperor's partner and even as his protector. He took part in his father's triumph and was censor with him. He was also his colleague in the tribunicial power and in seven consulships. He took upon himself the discharge of almost all duties, personally dictated letters and wrote edicts in his father's name, and even read his speeches in the senate in lieu of a quaestor. He also assumed the command of the praetorian guard, which before that time had never been held except by a Roman knight, and in this office conducted himself in a somewhat arrogant and tyrannical fashion. For whenever he himself regarded anyone with suspicion, he would secretly send some of the Guard to the various  theatres and camps, to demand their punishment as if by consent of all who were present; and then he would put them out of the way without delay. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.7909876543209876,
+          "score": 0.8209876543209876,
+          "page": "327",
+          "seq": 339,
+          "differences": [
+            {
+              "op": "delete",
+              "before": "vi from that",
+              "after": "",
+              "left": "",
+              "right": "time on he never ceased"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "73 a d",
+              "left": "s triumph and was censor",
+              "right": "with him he was also"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "70 72 74",
+              "left": "in seven consulships he took",
+              "right": "upon himself the discharge of"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "79a d",
+              "left": "discharge of almost all duties",
+              "right": "personally dictated letters and wrote"
+            },
+            {
+              "op": "replace",
+              "before": "theatres and camps to demand their punishment as if by consent of all who were present and then he would put them out",
+              "after": "327 the lives",
+              "left": "the guard to the various",
+              "right": "of the way without delay"
+            },
+            {
+              "op": "replace",
+              "before": "way without delay",
+              "after": "caesars book viii",
+              "left": "put them out of the",
+              "right": ""
+            }
+          ],
+          "source_span": "time on he never ceased to act as the emperor s partner and even as his protector he took part in his father s triumph and was censor 73 a d with him he was also his colleague in the tribunicial power and in seven consulships he took 70 72 74 upon himself the discharge of almost all duties 79a d personally dictated letters and wrote edicts in his father s name and even read his speeches in the senate in lieu of a quaestor he also assumed the command of the praetorian guard which before that time had never been held except by a roman knight and in this office conducted himself in a somewhat arrogant and tyrannical fashion for whenever he himself regarded anyone with suspicion he would secretly send some of the guard to the various 327 the lives of the caesars book viii"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 13,
+      "reference": "6.2",
+      "path": "/*/*[2]/*/*/*[7]/*[2]",
+      "line": 138,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:6",
+        "n": "2"
+      },
+      "text": "\n            Among these was Aulus Caecina, an ex-consul, whom he invited to dinner and then ordered to be stabbed almost before he left the dining-room; but in this case he was led by a pressing danger, having got possession of an autograph copy of an harangue which Caecina had prepared to deliver to the soldiers. Although by such conduct he provided for his safety in the future, he incurred such odium at the time that hardly anyone ever came to the throne with so evil a reputation or so much against the desires of all. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "328",
+          "seq": 340,
+          "differences": [],
+          "source_span": "among these was aulus caecina an ex consul whom he invited to dinner and then ordered to be stabbed almost before he left the dining room but in this case he was led by a pressing danger having got possession of an autograph copy of an harangue which caecina had prepared to deliver to the soldiers although by such conduct he provided for his safety in the future he incurred such odium at the time that hardly anyone ever came to the throne with so evil a reputation or so much against the desires of all"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 14,
+      "reference": "7.1",
+      "path": "/*/*[2]/*/*/*[8]/*[1]",
+      "line": 144,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:7",
+        "n": "1"
+      },
+      "text": "\n            VII. Besides cruelty, he was also suspected of riotous living, since he protracted his revels until the middle of the night with the most prodigal of his friends; likewise of unchastity because of his troops of catamites and eunuchs, and his notorious passion for queen Berenice, to whom it was even said that he promised marriage. He was suspected of greed as well; for it was well known that in cases which came before his father he put a price on his influence and accepted bribes. In short, people not only thought, but openly declared, that he would be a second Nero. But this reputation turned out to his advantage and gave place to the highest praise, when no fault was discovered in him, but on the contrary the highest virtues. His banquets were pleasant rather than extravagant. He chose as his friends men whom succeeding emperors also retained as indispensable alike to themselves and to the State, and of whose services they made special use. Berenice he sent from Rome at  once, against her will and against his own. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.9555555555555556,
+          "score": 0.9555555555555556,
+          "page": "329",
+          "seq": 341,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "once against her will and against his own",
+              "after": "329 the lives of the caesars book viii",
+              "left": "he sent from rome at",
+              "right": ""
+            }
+          ],
+          "source_span": "vii besides cruelty he was also suspected of riotous living since he protracted his revels until the middle of the night with the most prodigal of his friends likewise of unchastity because of his troops of catamites and eunuchs and his notorious passion for queen berenice to whom it was even said that he promised marriage he was suspected of greed as well for it was well known that in cases which came before his father he put a price on his influence and accepted bribes in short people not only thought but openly declared that he would be a second nero but this reputation turned out to his advantage and gave place to the highest praise when no fault was discovered in him but on the contrary the highest virtues his banquets were pleasant rather than extravagant he chose as his friends men whom succeeding emperors also retained as indispensable alike to themselves and to the state and of whose services they made special use berenice he sent from rome at 329 the lives of the caesars book viii"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 15,
+      "reference": "7.2",
+      "path": "/*/*[2]/*/*/*[8]/*[2]",
+      "line": 147,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:7",
+        "n": "2"
+      },
+      "text": "\n            Some of his most beloved paramours, although they were such skilful dancers that they later became stage favourites, he not only ceased to cherish any longer, but even to witness their public performances. He took away nothing from any citizen. He respected others' property, if anyone ever did; in fact, he would not accept even proper and customary presents. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "330",
+          "seq": 342,
+          "differences": [],
+          "source_span": "some of his most beloved paramours although they were such skilful dancers that they later became stage favourites he not only ceased to cherish any longer but even to witness their public performances he took away nothing from any citizen he respected others property if anyone ever did in fact he would not accept even proper and customary presents"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 16,
+      "reference": "7.3",
+      "path": "/*/*[2]/*/*/*[8]/*[3]",
+      "line": 150,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:7",
+        "n": "3"
+      },
+      "text": "\n            And yet he was second to none of his predecessors in munificence. At the dedication of the amphitheatre and of the baths which were hastily built near it he gave a most magnificent and costly gladiatorial show. He presented a sham sea-fight too in the old naumachia, and in the same place a combat of gladiators, exhibiting five thousand wild beasts of every kind in a single day. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.9795072463768116,
+          "score": 0.9855072463768116,
+          "page": "330",
+          "seq": 342,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "amphitheatre",
+              "after": "amphitheatrea",
+              "left": "at the dedication of the",
+              "right": "and of the baths which"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "80 a d",
+              "left": "of the baths which were",
+              "right": "hastily built near it he"
+            }
+          ],
+          "source_span": "and yet he was second to none of his predecessors in munificence at the dedication of the amphitheatrea and of the baths which were 80 a d hastily built near it he gave a most magnificent and costly gladiatorial show he presented a sham sea fight too in the old naumachia and in the same place a combat of gladiators exhibiting five thousand wild beasts of every kind in a single day"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 17,
+      "reference": "8.1",
+      "path": "/*/*[2]/*/*/*[9]/*[1]",
+      "line": 156,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:8",
+        "n": "1"
+      },
+      "text": "\n            VIII. He was most kindly by nature, and whereas in accordance with a custom established by Tiberius, all the Caesars who followed him refused to regard favours granted by previous emperors as valid, unless they had themselves conferred the same ones on the same individuals, Titus was the first to ratify them all in a single edict, without allowing himself to be asked. Moreover, in the case of other requests made of him, it was his fixed rule not to let anyone go away without hope. Even when his household officials warned him that he was promising more than he could perform, he said that it was not right for anyone to go away sorrowful from an interview with his emperor. On another occasion, remembering at dinner that he had done nothing for anybody all that day, he gave utterance to that memorable and praiseworthy remark: \"Friends, I have lost a day.\"  \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "330",
+          "seq": 342,
+          "differences": [],
+          "source_span": "viii he was most kindly by nature and whereas in accordance with a custom established by tiberius all the caesars who followed him refused to regard favours granted by previous emperors as valid unless they had themselves conferred the same ones on the same individuals titus was the first to ratify them all in a single edict without allowing himself to be asked moreover in the case of other requests made of him it was his fixed rule not to let anyone go away without hope even when his household officials warned him that he was promising more than he could perform he said that it was not right for anyone to go away sorrowful from an interview with his emperor on another occasion remembering at dinner that he had done nothing for anybody all that day he gave utterance to that memorable and praiseworthy remark friends i have lost a day"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 18,
+      "reference": "8.2",
+      "path": "/*/*[2]/*/*/*[9]/*[2]",
+      "line": 159,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:8",
+        "n": "2"
+      },
+      "text": "\n            The whole body of the people in particular he treated with such indulgence on all occasions, that once at a gladiatorial show he declared that he would give it, \"not after his own inclinations, but those of the spectators\"; and what is more, he kept his word. For he refused nothing which anyone asked, and even urged them to ask for what they wished. Furthermore, he openly displayed his partiality for Thracian gladiators and bantered the people about it by words and gestures, always however preserving his dignity, as well as observing justice. Not to omit any act of condescension, he sometimes bathed in the baths which he had built, in company with the common people. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "332",
+          "seq": 344,
+          "differences": [],
+          "source_span": "the whole body of the people in particular he treated with such indulgence on all occasions that once at a gladiatorial show he declared that he would give it not after his own inclinations but those of the spectators and what is more he kept his word for he refused nothing which anyone asked and even urged them to ask for what they wished furthermore he openly displayed his partiality for thracian gladiators and bantered the people about it by words and gestures always however preserving his dignity as well as observing justice not to omit any act of condescension he sometimes bathed in the baths which he had built in company with the common people"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 19,
+      "reference": "8.3",
+      "path": "/*/*[2]/*/*/*[9]/*[3]",
+      "line": 162,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:8",
+        "n": "3"
+      },
+      "text": "\n            There were some dreadful disasters during his reign, such as the eruption of Mount Vesuvius in Campania, a fire at Rome which continued three  days and as many nights, and a plague the like of  which had hardly ever been known before. In these many great calamities he showed not merely the concern of an emperor, but even a father's surpassing love, now offering consolation in edicts, and now lending aid so far as his means allowed. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.9771794871794872,
+          "score": 0.9871794871794872,
+          "page": "332",
+          "seq": 344,
+          "differences": [
+            {
+              "op": "delete",
+              "before": "there",
+              "after": "",
+              "left": "",
+              "right": "were some dreadful disasters during"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "79 a d",
+              "left": "at rome which continued three",
+              "right": "days and as many nights"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "80 a d",
+              "left": "a plague the like of",
+              "right": "which had hardly ever been"
+            }
+          ],
+          "source_span": "were some dreadful disasters during his reign such as the eruption of mount vesuvius in campania a fire at rome which continued three 79 a d days and as many nights and a plague the like of 80 a d which had hardly ever been known before in these many great calamities he showed not merely the concern of an emperor but even a father s surpassing love now offering consolation in edicts and now lending aid so far as his means allowed"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 20,
+      "reference": "8.4",
+      "path": "/*/*[2]/*/*/*[9]/*[4]",
+      "line": 165,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:8",
+        "n": "4"
+      },
+      "text": "\n            He chose commissioners by lot from among the ex-consuls for the relief of Campania; and the property of those who lost their lives by Vesuvius and had no heirs left alive he applied to the rebuilding of the buried cities. During the fire in Rome he made no remark except \"I am ruined,\" and he set aside all the ornaments of his villas for the public buildings and temples, and put several men of the equestrian order in charge of the work, that everything might be done  with the greater dispatch. For curing the plague and diminishing the force of the epidemic there was no aid, human or divine, which he did not employ, searching for every kind of sacrifice and all kinds of medicines. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.7023492063492064,
+          "score": 0.7063492063492064,
+          "page": "333",
+          "seq": 345,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "ex consuls",
+              "after": "exconsuls",
+              "left": "by lot from among the",
+              "right": "for the relief of campania"
+            },
+            {
+              "op": "replace",
+              "before": "with",
+              "after": "implying that it was his personal loss which he would make good 333",
+              "left": "that everything might be done",
+              "right": "the greater dispatch for curing"
+            },
+            {
+              "op": "replace",
+              "before": "greater dispatch for curing the plague and diminishing the force",
+              "after": "lives",
+              "left": "might be done with the",
+              "right": "of the epidemic there was"
+            },
+            {
+              "op": "replace",
+              "before": "epidemic there was no aid human or divine which he did not employ searching for every kind of sacrifice and all kinds of medicines",
+              "after": "caesars book viii 5 maturius peragerentur medendae valitudini leniendisque morbis nullam divinam humanamque opem non adhibuit inquisito omni sacrificiorum remediorumque genere inter adversa temporum",
+              "left": "diminishing the force of the",
+              "right": ""
+            }
+          ],
+          "source_span": "he chose commissioners by lot from among the exconsuls for the relief of campania and the property of those who lost their lives by vesuvius and had no heirs left alive he applied to the rebuilding of the buried cities during the fire in rome he made no remark except i am ruined and he set aside all the ornaments of his villas for the public buildings and temples and put several men of the equestrian order in charge of the work that everything might be done implying that it was his personal loss which he would make good 333 the lives of the caesars book viii 5 maturius peragerentur medendae valitudini leniendisque morbis nullam divinam humanamque opem non adhibuit inquisito omni sacrificiorum remediorumque genere inter adversa temporum"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 21,
+      "reference": "8.5",
+      "path": "/*/*[2]/*/*/*[9]/*[5]",
+      "line": 168,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:8",
+        "n": "5"
+      },
+      "text": "\n            Among the evils of the times were the informers and their instigators, who had enjoyed a long standing licence. After these had been soundly beaten in the Forum with scourges and cudgels, and finally led in procession across the arena of the amphitheatre, he had some of them put up and sold, and others deported to the wildest of the islands. To further discourage for all time any who might think of venturing on similar practices, among other precautions he made it unlawful for anyone to be tried under several laws for the same offence, or for any inquiry to be made as to the legal status of any deceased person after a stated number of years. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "334",
+          "seq": 346,
+          "differences": [],
+          "source_span": "among the evils of the times were the informers and their instigators who had enjoyed a long standing licence after these had been soundly beaten in the forum with scourges and cudgels and finally led in procession across the arena of the amphitheatre he had some of them put up and sold and others deported to the wildest of the islands to further discourage for all time any who might think of venturing on similar practices among other precautions he made it unlawful for anyone to be tried under several laws for the same offence or for any inquiry to be made as to the legal status of any deceased person after a stated number of years"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 22,
+      "reference": "9.1",
+      "path": "/*/*[2]/*/*/*[10]/*[1]",
+      "line": 174,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:9",
+        "n": "1"
+      },
+      "text": "\n            IX. Having declared that he would accept the office of pontifex maximus for the purpose of keeping his hands unstained, he was true to his promise; for after that he neither caused nor connived at the death of any man, although he sometimes had no lack of reasons for taking vengeance; but he swore that he would rather be killed than kill. When two men of patrician family were found guilty of aspiring to the throne, he satisfied himself with warning them to abandon their attempt, saying that imperial power was the gift of fate, and promising that if there was anything else they desired, he himself would bestow it. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "334",
+          "seq": 346,
+          "differences": [],
+          "source_span": "ix having declared that he would accept the office of pontifex maximus for the purpose of keeping his hands unstained he was true to his promise for after that he neither caused nor connived at the death of any man although he sometimes had no lack of reasons for taking vengeance but he swore that he would rather be killed than kill when two men of patrician family were found guilty of aspiring to the throne he satisfied himself with warning them to abandon their attempt saying that imperial power was the gift of fate and promising that if there was anything else they desired he himself would bestow it"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 23,
+      "reference": "9.2",
+      "path": "/*/*[2]/*/*/*[10]/*[2]",
+      "line": 177,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:9",
+        "n": "2"
+      },
+      "text": "\n            Then he sent his couriers with all speed to the mother of one of them, for she was some distance off, to relieve her anxiety by reporting that her son was safe; and he not only invited the men themselves to dinner  among his friends, but on the following day at a gladiatorial show he purposely placed them near him, and when the swords of the contestants were offered him, handed them over for their inspection. It is even said that inquiring into the horoscope of each of them, he declared that danger threatened them both, but at some future time and from another, as turned out to be the case. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.6576576576576577,
+          "score": 0.6576576576576577,
+          "page": "336",
+          "seq": 348,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "then he sent his couriers with all speed",
+              "after": "by the editor or giver of the games",
+              "left": "",
+              "right": "to the mother of one"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "see if they were sharp enough cf dio 68 3 who tells a similar story of",
+              "left": "couriers with all speed to",
+              "right": "the mother of one of"
+            },
+            {
+              "op": "replace",
+              "before": "mother of one of them for she",
+              "after": "emperor nerva possibly domitian s charge",
+              "left": "with all speed to the",
+              "right": "was some distance off to"
+            },
+            {
+              "op": "replace",
+              "before": "some distance off to relieve her anxiety by reporting that her son was safe and he not only invited",
+              "after": "true cf dom ii 3 336",
+              "left": "of them for she was",
+              "right": "the men themselves to dinner"
+            },
+            {
+              "op": "replace",
+              "before": "men themselves to dinner",
+              "after": "deified titus",
+              "left": "he not only invited the",
+              "right": "among his friends but on"
+            }
+          ],
+          "source_span": "by the editor or giver of the games to see if they were sharp enough cf dio 68 3 who tells a similar story of the emperor nerva possibly domitian s charge was true cf dom ii 3 336 the deified titus among his friends but on the following day at a gladiatorial show he purposely placed them near him and when the swords of the contestants were offered him handed them over for their inspection it is even said that inquiring into the horoscope of each of them he declared that danger threatened them both but at some future time and from another as turned out to be the case"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 24,
+      "reference": "9.3",
+      "path": "/*/*[2]/*/*/*[10]/*[3]",
+      "line": 180,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:9",
+        "n": "3"
+      },
+      "text": "\n            Although his brother never ceased plotting against him, but almost openly stirred up the armies to revolt and meditated flight to them, he had not the heart to put him to death or banish him from the court, or even to hold him in less honour than before. On the contrary, as he had done from the very first day of his rule, he continued to declare that he was his partner and successor, and sometimes he privately begged him with tears and prayers to be willing at least to return his affection. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "336",
+          "seq": 348,
+          "differences": [],
+          "source_span": "although his brother never ceased plotting against him but almost openly stirred up the armies to revolt and meditated flight to them he had not the heart to put him to death or banish him from the court or even to hold him in less honour than before on the contrary as he had done from the very first day of his rule he continued to declare that he was his partner and successor and sometimes he privately begged him with tears and prayers to be willing at least to return his affection"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 25,
+      "reference": "10.1",
+      "path": "/*/*[2]/*/*/*[11]/*[1]",
+      "line": 186,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:10",
+        "n": "1"
+      },
+      "text": "\n            X. In the meantime he was cut off by death, to the loss of mankind rather than to his own. After finishing the public games, at the close of which he wept bitterly in the presence of the people, he went to the Sabine territory, somewhat cast down because a victim had escaped as he was sacrificing and because it had thundered from a clear sky. Then at the very first stopping place he was seized with a fever, and as he was being carried on from there in a litter, it is said that he pushed back the curtains, looked up to heaven, and lamented bitterly that his life was being taken from him contrary to his deserts; for he said that there was no act of his life of which he had cause to repent, save one only. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "336",
+          "seq": 348,
+          "differences": [],
+          "source_span": "x in the meantime he was cut off by death to the loss of mankind rather than to his own after finishing the public games at the close of which he wept bitterly in the presence of the people he went to the sabine territory somewhat cast down because a victim had escaped as he was sacrificing and because it had thundered from a clear sky then at the very first stopping place he was seized with a fever and as he was being carried on from there in a litter it is said that he pushed back the curtains looked up to heaven and lamented bitterly that his life was being taken from him contrary to his deserts for he said that there was no act of his life of which he had cause to repent save one only"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 26,
+      "reference": "10.2",
+      "path": "/*/*[2]/*/*/*[11]/*[2]",
+      "line": 189,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:10",
+        "n": "2"
+      },
+      "text": "\n            What this was he did not himself disclose at the time, nor could anyone easily divine. Some think that he recalled the  intimacy which he had with his brother's wife; but Domitia swore most solemnly that this did not exist, although she would not have denied it if it had been in the least true, but on the contrary would have boasted of it, as she was most ready to do of all her scandalous actions. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.7342597402597403,
+          "score": 0.7402597402597403,
+          "page": "338",
+          "seq": 350,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "what",
+              "after": "that",
+              "left": "",
+              "right": "this was he did not"
+            },
+            {
+              "op": "replace",
+              "before": "was he did not himself disclose at",
+              "after": "continued to be a villa rustica is implied in vesp ii 1 various quarters and streets of",
+              "left": "what this",
+              "right": "the time nor could anyone"
+            },
+            {
+              "op": "replace",
+              "before": "time nor could anyone easily divine some think that he recalled the",
+              "after": "city were designated 338 domitian",
+              "left": "not himself disclose at the",
+              "right": "intimacy which he had with"
+            }
+          ],
+          "source_span": "that this continued to be a villa rustica is implied in vesp ii 1 various quarters and streets of the city were designated 338 domitian intimacy which he had with his brother s wife but domitia swore most solemnly that this did not exist although she would not have denied it if it had been in the least true but on the contrary would have boasted of it as she was most ready to do of all her scandalous actions"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 27,
+      "reference": "11.1",
+      "path": "/*/*[2]/*/*/*[12]/*",
+      "line": 195,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo021.rolfe-eng1:11",
+        "n": "1"
+      },
+      "text": "\n            XI. He died in the same farmhouse as his father, on the Ides of September, two years two months and twenty days after succeeding Vespasian, in the forty-second year of his age. When his death was made known, the whole populace mourned as they would for a loss in their own families, the senate hastened to the House before it was summoned by proclamation, and with the doors still shut, and then with them open, rendered such thanks to him and heaped such praise on him after death as they had never done even when he was alive and present.  \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.994,
+          "score": 1.0,
+          "page": "338",
+          "seq": 350,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "a",
+              "left": "died in the same farmhouse",
+              "right": "as his father on the"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "sept 13",
+              "left": "september two years two months",
+              "right": "and twenty days after succeeding"
+            }
+          ],
+          "source_span": "xi he died in the same farmhouse a as his father on the ides of september two years two months sept 13 and twenty days after succeeding vespasian in the forty second year of his age when his death was made known the whole populace mourned as they would for a loss in their own families the senate hastened to the house before it was summoned by proclamation and with the doors still shut and then with them open rendered such thanks to him and heaped such praise on him after death as they had never done even when he was alive and present"
+        }
+      }
+    }
+  ]
+}

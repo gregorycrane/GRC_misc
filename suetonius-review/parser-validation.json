@@ -1,0 +1,122 @@
+[
+  {
+    "file": "phi1348.abo011.holland1899-eng1.xml",
+    "passages": 187,
+    "sha256": "fec7b4dd880e512c80b698f33e27486f62a723b3822ef8d33a7968ae10494946"
+  },
+  {
+    "file": "phi1348.abo011.rolfe1914review-eng1.xml",
+    "passages": 187,
+    "sha256": "65557f295fa6f7e001b5362bf82595f51ba44ab28461955f8eef5fa11b84a079"
+  },
+  {
+    "file": "phi1348.abo012.holland1899-eng1.xml",
+    "passages": 242,
+    "sha256": "00319b6db60188f042919ea883ff0fc8a2d9b2afb316174cb0996cb246d079ee"
+  },
+  {
+    "file": "phi1348.abo012.rolfe1914review-eng1.xml",
+    "passages": 242,
+    "sha256": "7ae721a9de7a9fe244425a3e5fe9c81b3c6931441cb96918c29eff15ea325ea8"
+  },
+  {
+    "file": "phi1348.abo013.holland1899-eng1.xml",
+    "passages": 158,
+    "sha256": "986a23a50b9470201af5c482cd1ebef10f760409f7d215bce67634321bbafb97"
+  },
+  {
+    "file": "phi1348.abo013.rolfe1914review-eng1.xml",
+    "passages": 158,
+    "sha256": "17f72d63f54839fc9846118df26dcb8dd40ad71d906c98107d8c6232cc5ca16d"
+  },
+  {
+    "file": "phi1348.abo014.holland1899-eng1.xml",
+    "passages": 137,
+    "sha256": "c4e92444468e240edf9abc3635a7bf32c3db2dc654a510436d157ec078d62542"
+  },
+  {
+    "file": "phi1348.abo014.rolfe1914review-eng1.xml",
+    "passages": 137,
+    "sha256": "a989b5a5d5c456bdbc9f145e67ccb81b68da59d1d1c0fee44e9a90100e3305d6"
+  },
+  {
+    "file": "phi1348.abo015.holland1899-eng1.xml",
+    "passages": 111,
+    "sha256": "7457b6648116501049224c18831ec630a1b79ff1019f03b529ce7342a3d52032"
+  },
+  {
+    "file": "phi1348.abo015.rolfe1914review-eng1.xml",
+    "passages": 111,
+    "sha256": "2d872e2d75ca855c02de321f536f8d8b506e4b30d6da7acf9525f611d8c8de54"
+  },
+  {
+    "file": "phi1348.abo016.holland1899-eng1.xml",
+    "passages": 135,
+    "sha256": "606871f227e13e692314f0fd7abad5c2b7e39ad5020a84800b6abb9484b37065"
+  },
+  {
+    "file": "phi1348.abo016.rolfe1914review-eng1.xml",
+    "passages": 135,
+    "sha256": "3972d36d94b92fa7e5299ff59bd7828f9e1869c591e88371630f2f23097f03a3"
+  },
+  {
+    "file": "phi1348.abo017.holland1899-eng1.xml",
+    "passages": 49,
+    "sha256": "15a323eec2fbc305f4714c795821da6454fe7bed966ce5038991d8531dede987"
+  },
+  {
+    "file": "phi1348.abo017.rolfe1914review-eng1.xml",
+    "passages": 49,
+    "sha256": "b112e67cabaf7627fe93be98a50cabc72f0f77e8e3fbb2d578d2f2598019c634"
+  },
+  {
+    "file": "phi1348.abo018.holland1899-eng1.xml",
+    "passages": 28,
+    "sha256": "4d3b70f840c986d5fd1bd93c4041ded5ce97de075e1741292553780b5830cbea"
+  },
+  {
+    "file": "phi1348.abo018.rolfe1914review-eng1.xml",
+    "passages": 28,
+    "sha256": "39d66612401264b99bcb87c071a655f29b00a72b8372806c21b4cdd77ec6e630"
+  },
+  {
+    "file": "phi1348.abo019.holland1899-eng1.xml",
+    "passages": 41,
+    "sha256": "a02867fa75c1a9490e3a44636ce363597d59252caa15284d5919a24f3f7836cf"
+  },
+  {
+    "file": "phi1348.abo019.rolfe1914review-eng1.xml",
+    "passages": 41,
+    "sha256": "1d09ebcc7ce7819e9ca19293556200b408328c31bb482d1e080c119dabbf391b"
+  },
+  {
+    "file": "phi1348.abo020.holland1899-eng1.xml",
+    "passages": 57,
+    "sha256": "741473474beacb161901911dd55d644a4a4762b34e5afcb71199a6db4137eedf"
+  },
+  {
+    "file": "phi1348.abo020.rolfe1914review-eng1.xml",
+    "passages": 57,
+    "sha256": "a346577e9966cd77d64c0020295215d8fa3e97d9db2e9b211a497dc2b65a60fb"
+  },
+  {
+    "file": "phi1348.abo021.holland1899-eng1.xml",
+    "passages": 26,
+    "sha256": "5b6b8690c0059468c560428c392e2da4e5dc285a9940b011600ab1ba7738c34e"
+  },
+  {
+    "file": "phi1348.abo021.rolfe1914review-eng1.xml",
+    "passages": 26,
+    "sha256": "f5f512d122045f7af888c0019eabb347c58bb528f5589d91a5776c885ee8c33c"
+  },
+  {
+    "file": "phi1348.abo022.holland1899-eng1.xml",
+    "passages": 61,
+    "sha256": "8f5e9b0f1225c72d9da8ef75168a23e14d6f6f4c057956609548ebd08d4f6248"
+  },
+  {
+    "file": "phi1348.abo022.rolfe1914review-eng1.xml",
+    "passages": 61,
+    "sha256": "624bde9df87df0df92e358c56ebaa83cf991f6350f41745ae8ee03e9502d4260"
+  }
+]

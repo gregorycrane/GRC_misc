@@ -1,0 +1,333 @@
+[
+  {
+    "life": "aug",
+    "kind": "1606 variant",
+    "reference": "1.1",
+    "before": "Velitræ",
+    "after": "Velitrae",
+    "evidence": "EEBO-TCP A13126, history Augustus opening; transcription variant, not independently image-verified."
+  },
+  {
+    "life": "tib",
+    "kind": "restoration",
+    "reference": "43.2–46.1",
+    "before": "Missing remainder of 43.2 and chapters 44–46",
+    "after": "Restored from both OCR witnesses pp.205–206; 5 footnotes attached, 3 unattached",
+    "evidence": "OCR raw text retained except headers, page-end hyphen joining, and marker encoding; millian retained, not conjecturally corrected. Annotation a moved to explicit Caprineus1a marker."
+  },
+  {
+    "life": "tib",
+    "kind": "1606 variant",
+    "reference": "1.1",
+    "before": "T. Tatius",
+    "after": "T. TATIUS",
+    "evidence": "EEBO-TCP A13126, history Tiberius opening; transcription variant, not independently image-verified."
+  },
+  {
+    "life": "cal",
+    "kind": "1606 variant",
+    "reference": "1.1",
+    "before": "Unkle",
+    "after": "Vnkle",
+    "evidence": "EEBO-TCP A13126, history Caligula opening; transcription variant, not independently image-verified."
+  },
+  {
+    "life": "claud",
+    "kind": "1606 variant",
+    "reference": "1.1",
+    "before": "himselfe",
+    "after": "himself",
+    "evidence": "EEBO-TCP A13126, history Claudius opening; transcription variant, not independently image-verified."
+  },
+  {
+    "life": "nero",
+    "kind": "duplicate removal",
+    "reference": "11",
+    "before": "First incomplete duplicate chapter",
+    "after": "Second fuller chapter retained",
+    "evidence": "Both OCR witnesses pp.106–107 / 115–117; removed copy archived in review."
+  },
+  {
+    "life": "nero",
+    "kind": "duplicate removal",
+    "reference": "22",
+    "before": "First incomplete duplicate chapter",
+    "after": "Second fuller chapter retained",
+    "evidence": "Both OCR witnesses pp.106–107 / 115–117; removed copy archived in review."
+  },
+  {
+    "life": "nero",
+    "kind": "1606 variant",
+    "reference": "1.1",
+    "before": "Calumi",
+    "after": "Caluini",
+    "evidence": "EEBO-TCP A13126, history Nero opening; transcription variant, not independently image-verified."
+  },
+  {
+    "life": "galba",
+    "kind": "1606 variant",
+    "reference": "1.1",
+    "before": "mariage with Augustus",
+    "after": "mariage with AUCUSTUS",
+    "evidence": "EEBO-TCP A13126, history Galba opening; transcription variant, not independently image-verified."
+  },
+  {
+    "life": "otho",
+    "kind": "1606 variant",
+    "reference": "1.1",
+    "before": "Livia Augusta",
+    "after": "LIVIA AUGUSTA",
+    "evidence": "EEBO-TCP A13126, history Otho opening; transcription variant, not independently image-verified."
+  },
+  {
+    "life": "vitellius",
+    "kind": "1606 variant",
+    "reference": "1.1",
+    "before": "new start up",
+    "after": "now start up",
+    "evidence": "EEBO-TCP A13126, history Vitellius opening; transcription variant, not independently image-verified."
+  },
+  {
+    "life": "vesp",
+    "kind": "citation",
+    "reference": "16.3–24.1",
+    "before": "Liberality merged into 16.3; following chapters 17–24",
+    "after": "Liberality 17.1; following chapters 18–25",
+    "evidence": "Canonical Latin in omne hominum genus liberalissimus; existing English text retained."
+  },
+  {
+    "life": "vesp",
+    "kind": "1606 variant",
+    "reference": "1.1",
+    "before": "Flavii",
+    "after": "Flauij",
+    "evidence": "EEBO-TCP A13126, history Vespasian opening; transcription variant, not independently image-verified."
+  },
+  {
+    "life": "tit",
+    "kind": "citation",
+    "reference": "1.2–10.1",
+    "before": "Education in 1.2; following chapters 2–10",
+    "after": "Education 2.1; following chapters 3–11",
+    "evidence": "Canonical Ihm Latin chapter openings educatus / in puero / Excessit; no wording changed."
+  },
+  {
+    "life": "tit",
+    "kind": "1606 variant",
+    "reference": "1.1",
+    "before": "joy",
+    "after": "ioy",
+    "evidence": "EEBO-TCP A13126, history Titus opening; transcription variant, not independently image-verified."
+  },
+  {
+    "life": "dom",
+    "kind": "1606 variant",
+    "reference": "1.1",
+    "before": "November",
+    "after": "Nouember",
+    "evidence": "EEBO-TCP A13126, history Domitian opening; transcription variant, not independently image-verified."
+  },
+  {
+    "life": "tib",
+    "kind": "provenance",
+    "reference": "43–47",
+    "before": "Generated English translation for Chapters 43-47, which were left untranslated in the 1914 Loeb edition.",
+    "after": "The 1914 English column leaves chapters 43–44 in Latin. The inherited Gemini English supplements are retained and labelled in those chapters. Chapters 45–47 already have Rolfe English in 1914. The former claim that all five chapters were untranslated was incorrect.",
+    "evidence": "1914 PDF pp.383–389; earlier source review."
+  },
+  {
+    "life": "tib",
+    "kind": "provenance",
+    "reference": "43–47",
+    "before": "The original Loeb edition left Chapters 43 through 47 untranslated in the English text due to their sexual. content. Gemini 3 automatically generated a translation and we make that available here.",
+    "after": "The 1914 English column leaves chapters 43–44 in Latin. The inherited Gemini English supplements are retained and labelled in those chapters. Chapters 45–47 already have Rolfe English in 1914. The former claim that all five chapters were untranslated was incorrect.",
+    "evidence": "1914 PDF pp.383–389; earlier source review."
+  },
+  {
+    "life": "tib",
+    "kind": "restored note",
+    "reference": "46.1",
+    "before": "Absent",
+    "after": "See chap. lvi.",
+    "evidence": "P050; printed marker visually verified; PDF 387"
+  },
+  {
+    "life": "tib",
+    "kind": "restored note",
+    "reference": "59.2",
+    "before": "Absent",
+    "after": "Cf. Calig. xxx. 1.",
+    "evidence": "P057; printed marker visually verified; PDF 407"
+  },
+  {
+    "life": "tib",
+    "kind": "restored note",
+    "reference": "60.1",
+    "before": "Absent",
+    "after": "If the text is correct, primae cohortes would seem to refer to the praetorians.",
+    "evidence": "P058; printed marker visually verified; PDF 407"
+  },
+  {
+    "life": "cal",
+    "kind": "note anchor",
+    "reference": "50.1",
+    "before": "Cf. chap. iii. 1. in 50.2",
+    "after": "After legs. in 50.1",
+    "evidence": "P035; 1914 PDF pp.510–511."
+  },
+  {
+    "life": "cal",
+    "kind": "restored note",
+    "reference": "18.2",
+    "before": "Absent",
+    "after": "To be scrambled for by the spectators.",
+    "evidence": "P031; printed marker visually verified; PDF 461"
+  },
+  {
+    "life": "tit",
+    "kind": "note wording",
+    "reference": "3",
+    "before": "See Nero, xxxiii. 2 and 3.",
+    "after": "Cf. Nero, xxxiii. 2 and 3.",
+    "evidence": "Prior visual PDF decisions P016/P017/P020."
+  },
+  {
+    "life": "tit",
+    "kind": "note wording",
+    "reference": "4",
+    "before": "See Galba xiv. 2, and note.",
+    "after": "See Galba xiv. 2, and note e.",
+    "evidence": "Prior visual PDF decisions P016/P017/P020."
+  },
+  {
+    "life": "tit",
+    "kind": "note wording",
+    "reference": "11",
+    "before": "See Nero xv. 2, and note a.",
+    "after": "See Nero xv. 2, and note a.",
+    "evidence": "Prior visual PDF decisions P016/P017/P020."
+  },
+  {
+    "life": "tit",
+    "kind": "note archival",
+    "reference": "7.1",
+    "before": "See Nero xv. 2, and note c.",
+    "after": "Removed from reading text, retained in back matter",
+    "evidence": "P059: no marker or footnote on 1914 pp.328–329; genuine reference is at 6.1."
+  },
+  {
+    "life": "tit",
+    "kind": "restored note",
+    "reference": "7.3",
+    "before": "Absent",
+    "after": "See note on Vesp. ix.",
+    "evidence": "P021; printed marker visually verified; PDF 867"
+  },
+  {
+    "life": "tit",
+    "kind": "restored note",
+    "reference": "7.3",
+    "before": "Absent",
+    "after": "See Aug. xliii. 1.",
+    "evidence": "P022; printed marker visually verified; PDF 867"
+  },
+  {
+    "life": "tit",
+    "kind": "restored note",
+    "reference": "7.3",
+    "before": "Absent",
+    "after": "When the water had been let out; cf. Nero, xxvii. 2.",
+    "evidence": "P023; printed marker visually verified; PDF 867"
+  },
+  {
+    "life": "nero",
+    "kind": "citation",
+    "reference": "31.4",
+    "before": "Second 31.3",
+    "after": "31.4",
+    "evidence": "Canonical Ihm Latin 31.4 Ad hunc impendiorum furorem; hidden-treasure passage."
+  },
+  {
+    "life": "aug",
+    "kind": "OCR correction",
+    "reference": "note",
+    "before": "οι κωνωπεῖον",
+    "after": "or κωνωπεῖον",
+    "evidence": "Both supplied Holland OCR witnesses agree; exact note context in audit ledger."
+  },
+  {
+    "life": "suetonius.nero.holland1898-section.xml",
+    "kind": "citation encoding",
+    "reference": "9",
+    "before": "Section milestones",
+    "after": "Section divisions with same numbers",
+    "evidence": "Inherited explicit milestone n; needed by hierarchical PMV parser."
+  },
+  {
+    "life": "suetonius.nero.holland1898-section.xml",
+    "kind": "citation encoding",
+    "reference": "10",
+    "before": "Section milestones",
+    "after": "Section divisions with same numbers",
+    "evidence": "Inherited explicit milestone n; needed by hierarchical PMV parser."
+  },
+  {
+    "life": "suetonius.claud.holland1898-section.xml",
+    "kind": "citation encoding",
+    "reference": "39",
+    "before": "Section milestones",
+    "after": "Section divisions with same numbers",
+    "evidence": "Inherited explicit milestone n; needed by hierarchical PMV parser."
+  },
+  {
+    "life": "suetonius.claud.holland1898-section.xml",
+    "kind": "editorial debris",
+    "reference": "inherited XML",
+    "before": "[cite: 13] [cite: 14]",
+    "after": "",
+    "evidence": "LLM citation placeholders; not source wording or footnote anchors."
+  },
+  {
+    "life": "suetonius.claud.holland1898-section.xml",
+    "kind": "editorial debris",
+    "reference": "inherited XML",
+    "before": "[cite: 18] [cite: 20]",
+    "after": "",
+    "evidence": "LLM citation placeholders; not source wording or footnote anchors."
+  },
+  {
+    "life": "suetonius.claud.holland1898-section.xml",
+    "kind": "editorial debris",
+    "reference": "inherited XML",
+    "before": "[cite: 21, 29]",
+    "after": "",
+    "evidence": "LLM citation placeholders; not source wording or footnote anchors."
+  },
+  {
+    "life": "suetonius.claud.holland1898-section.xml",
+    "kind": "editorial debris",
+    "reference": "inherited XML",
+    "before": "[cite: 21]",
+    "after": "",
+    "evidence": "LLM citation placeholders; not source wording or footnote anchors."
+  },
+  {
+    "life": "suetonius.claud.holland1898-section.xml",
+    "kind": "editorial debris",
+    "reference": "inherited XML",
+    "before": "[cite: 22]",
+    "after": "",
+    "evidence": "LLM citation placeholders; not source wording or footnote anchors."
+  },
+  {
+    "file": "suetonius.nero.holland1898-section.xml",
+    "reference": "10.2",
+    "action": "restore omitted end of chapter",
+    "text": "To his exercises in Mars field he admitted the Commons also, yea and declaimed often publiquely before them. He rehearsed his owne verses likewise, not onely within house at home, but also in the Theater: and that with so general a joy of as many as heard him, that for the said rehearsall, there was a solemne procession decreed: and some of his said verses written in golden letters were dedicated to Jupiter Capitolinus.",
+    "sources": [
+      "/Users/gcrane/Downloads/suetonius-holland-02-uc1-b3114464-1788787746.txt",
+      "/Users/gcrane/Downloads/suetonius-holland-02-hvd-32044019809029-1788787496.txt"
+    ],
+    "evidence": "Both OCR witnesses, volume II printed page 106, agree exactly after whitespace normalization."
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "apps": 6,
+  "notes": 361,
+  "chapters": 89,
+  "sections": 187,
+  "note_relocations": 2,
+  "lemma_projection_preserved": true,
+  "every_note_lemma_text_preserved": true,
+  "witness_references_resolve": true,
+  "original_sha256": "224c4d4f32deb9ab9fb7da1902b51d5d39abde56b33d0f042a89e76c2e921046",
+  "reviewed_sha256": "f7f9d40d6d08b22a9a8e25e9bdfe6936508f029e6ee17a677a33e66036ed7691",
+  "limitations": "Well-formedness and apparatus integrity checked; no full schema validation or existing viewer apparatus rendering test."
+}

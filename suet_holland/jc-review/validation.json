@@ -1,0 +1,31 @@
+{
+  "passed": true,
+  "chapters_preserved": 89,
+  "sections_preserved": 187,
+  "notes_preserved": 361,
+  "numbered_footnotes": 212,
+  "lettered_annotations": 149,
+  "wording_and_number_changes": 14,
+  "notes_with_wording_changes": [
+    13,
+    90,
+    162,
+    163,
+    191,
+    349,
+    361
+  ],
+  "note_number_changes": [
+    326,
+    350
+  ],
+  "note_moves": 0,
+  "original_sha256": "1a9f132d853213ad52eab2e68284198e3015e68f61ef1daad703f76cf14d5d96",
+  "reviewed_sha256": "224c4d4f32deb9ab9fb7da1902b51d5d39abde56b33d0f042a89e76c2e921046",
+  "limitations": "XML well-formedness and preservation checks; not full TEI schema validation or complete character identity.",
+  "existing_locations_supported_by_OCR_marker": 192,
+  "unresolved_locations": 169,
+  "incoming_notes_matching_word_sequence_in_at_least_one_OCR": 324,
+  "incoming_notes_matching_word_sequence_in_both_OCR": 301,
+  "all_14_replacements_checked_against_both_raw_OCR": true
+}

@@ -1,0 +1,277 @@
+python3 -m pipeline.build_all --work phi1348
+[build] phi1348.abo011 -- stale, ingesting
+Ingesting structural alignment mappings for work: phi1348.abo011...
+  ✓ perseus-lat2: 187 segments parsed
+  ✓ rolfe-lat1: 187 segments parsed
+  ✓ perseus-eng2: 195 segments parsed
+  ✓ rolfe-eng1: 187 segments parsed
+  ✓ holland1899-eng1: 187 segments parsed
+  ✓ rolfe1914review-eng1: 187 segments parsed
+
+Ingesting treebank and metrical data...
+
+Ingesting token alignment files...
+
+Ingesting edition line-alignment files...
+✓ treebank_tokens for 1 changed work(s): 0 tokens from 0 sentences (0 sentences skipped/unparseable)
+[build] phi1348.abo012 -- stale, ingesting
+Ingesting structural alignment mappings for work: phi1348.abo012...
+  ✓ perseus-lat2: 242 segments parsed
+  ✓ perseus-eng2: 100 segments parsed
+  ✓ rolfe-eng1: 243 segments parsed
+  ✓ holland1899-eng1: 242 segments parsed
+  ✓ rolfe1914review-eng1: 242 segments parsed
+
+Ingesting treebank and metrical data...
+
+Ingesting token alignment files...
+
+Ingesting edition line-alignment files...
+✓ treebank_tokens for 1 changed work(s): 0 tokens from 0 sentences (0 sentences skipped/unparseable)
+[build] phi1348.abo013 -- stale, ingesting
+Ingesting structural alignment mappings for work: phi1348.abo013...
+  ✓ perseus-lat2: 158 segments parsed
+  ✓ perseus-eng2: 77 segments parsed
+  ✓ rolfe-eng1: 157 segments parsed
+  ✓ holland1899-eng1: 158 segments parsed
+  ✓ rolfe1914review-eng1: 158 segments parsed
+
+Ingesting treebank and metrical data...
+
+Ingesting token alignment files...
+
+Ingesting edition line-alignment files...
+✓ treebank_tokens for 1 changed work(s): 0 tokens from 0 sentences (0 sentences skipped/unparseable)
+[build] phi1348.abo014 -- stale, ingesting
+Ingesting structural alignment mappings for work: phi1348.abo014...
+  ✓ perseus-lat2: 137 segments parsed
+  ✓ perseus-eng2: 61 segments parsed
+  ✓ rolfe-eng1: 138 segments parsed
+  ✓ holland1899-eng1: 137 segments parsed
+  ✓ rolfe1914review-eng1: 137 segments parsed
+
+Ingesting treebank and metrical data...
+
+Ingesting token alignment files...
+
+Ingesting edition line-alignment files...
+✓ treebank_tokens for 1 changed work(s): 0 tokens from 0 sentences (0 sentences skipped/unparseable)
+[build] phi1348.abo015 -- stale, ingesting
+Ingesting structural alignment mappings for work: phi1348.abo015...
+  ✓ perseus-lat2: 111 segments parsed
+  ✓ perseus-eng2: 47 segments parsed
+  ✓ rolfe-eng1: 112 segments parsed
+  ✓ holland1899-eng1: 111 segments parsed
+  ✓ rolfe1914review-eng1: 111 segments parsed
+
+Ingesting treebank and metrical data...
+
+Ingesting token alignment files...
+
+Ingesting edition line-alignment files...
+✓ treebank_tokens for 1 changed work(s): 0 tokens from 0 sentences (0 sentences skipped/unparseable)
+[build] phi1348.abo016 -- stale, ingesting
+Ingesting structural alignment mappings for work: phi1348.abo016...
+  ✓ perseus-lat2: 135 segments parsed
+  ✓ perseus-eng2: 58 segments parsed
+  ✓ rolfe-eng1: 135 segments parsed
+  ✓ holland1899-eng1: 135 segments parsed
+  ✓ rolfe1914review-eng1: 135 segments parsed
+
+Ingesting treebank and metrical data...
+
+Ingesting token alignment files...
+
+Ingesting edition line-alignment files...
+✓ treebank_tokens for 1 changed work(s): 0 tokens from 0 sentences (0 sentences skipped/unparseable)
+[build] phi1348.abo017 -- stale, ingesting
+Ingesting structural alignment mappings for work: phi1348.abo017...
+  ✓ perseus-lat2: 49 segments parsed
+  ✓ perseus-eng2: 24 segments parsed
+  ✓ rolfe-eng1: 49 segments parsed
+  ✓ holland1899-eng1: 49 segments parsed
+  ✓ rolfe1914review-eng1: 49 segments parsed
+
+Ingesting treebank and metrical data...
+
+Ingesting token alignment files...
+
+Ingesting edition line-alignment files...
+✓ treebank_tokens for 1 changed work(s): 0 tokens from 0 sentences (0 sentences skipped/unparseable)
+[build] phi1348.abo018 -- stale, ingesting
+Ingesting structural alignment mappings for work: phi1348.abo018...
+  ✓ perseus-lat2: 28 segments parsed
+  ✓ perseus-eng2: 13 segments parsed
+  ✓ rolfe-eng1: 28 segments parsed
+  ✓ holland1899-eng1: 28 segments parsed
+  ✓ rolfe1914review-eng1: 28 segments parsed
+
+Ingesting treebank and metrical data...
+
+Ingesting token alignment files...
+
+Ingesting edition line-alignment files...
+✓ treebank_tokens for 1 changed work(s): 0 tokens from 0 sentences (0 sentences skipped/unparseable)
+[build] phi1348.abo019 -- stale, ingesting
+Ingesting structural alignment mappings for work: phi1348.abo019...
+  ✓ perseus-lat2: 41 segments parsed
+  ✓ perseus-eng2: 19 segments parsed
+  ✓ rolfe-eng1: 40 segments parsed
+  ✓ holland1899-eng1: 41 segments parsed
+  ✓ rolfe1914review-eng1: 41 segments parsed
+
+Ingesting treebank and metrical data...
+
+Ingesting token alignment files...
+
+Ingesting edition line-alignment files...
+✓ treebank_tokens for 1 changed work(s): 0 tokens from 0 sentences (0 sentences skipped/unparseable)
+[build] phi1348.abo020 -- stale, ingesting
+Ingesting structural alignment mappings for work: phi1348.abo020...
+  ✓ perseus-lat2: 57 segments parsed
+  ✓ perseus-eng2: 26 segments parsed
+  ✓ rolfe-eng1: 57 segments parsed
+  ✓ holland1899-eng1: 57 segments parsed
+  ✓ rolfe1914review-eng1: 57 segments parsed
+
+Ingesting treebank and metrical data...
+
+Ingesting token alignment files...
+
+Ingesting edition line-alignment files...
+✓ treebank_tokens for 1 changed work(s): 0 tokens from 0 sentences (0 sentences skipped/unparseable)
+[build] phi1348.abo021 -- stale, ingesting
+Ingesting structural alignment mappings for work: phi1348.abo021...
+  ✓ perseus-lat2: 26 segments parsed
+  ✓ perseus-eng2: 12 segments parsed
+  ✓ rolfe-eng1: 27 segments parsed
+  ✓ holland1899-eng1: 26 segments parsed
+  ✓ rolfe1914review-eng1: 26 segments parsed
+
+Ingesting treebank and metrical data...
+
+Ingesting token alignment files...
+
+Ingesting edition line-alignment files...
+✓ treebank_tokens for 1 changed work(s): 0 tokens from 0 sentences (0 sentences skipped/unparseable)
+[build] phi1348.abo022 -- stale, ingesting
+Ingesting structural alignment mappings for work: phi1348.abo022...
+  ✓ perseus-lat2: 61 segments parsed
+  ✓ perseus-eng2: 24 segments parsed
+  ✓ rolfe-eng1: 61 segments parsed
+  ✓ holland1899-eng1: 61 segments parsed
+  ✓ rolfe1914review-eng1: 61 segments parsed
+
+Ingesting treebank and metrical data...
+
+Ingesting token alignment files...
+
+Ingesting edition line-alignment files...
+✓ treebank_tokens for 1 changed work(s): 0 tokens from 0 sentences (0 sentences skipped/unparseable)
+
+[shard] phi1348.abo011
+    part1 alignment_grid: 195
+    part1 text_segments: 1130
+    part1 edition_chapter_order: 540
+    part1 text_units: 6
+  ✓ part1: 1.2MB (chapters 1…Remarks on Julius Caesar)
+    Annotations: {'treebanks': 0, 'alignments': 0, 'commentaries': 0, 'metrical_lines': 0}
+
+[shard] phi1348.abo012
+    part1 alignment_grid: 341
+    part1 text_segments: 1069
+    part1 edition_chapter_order: 510
+    part1 text_units: 5
+  ✓ part1: 1.5MB (chapters 1…Remarks on Augustus)
+    Annotations: {'treebanks': 0, 'alignments': 0, 'commentaries': 0, 'metrical_lines': 0}
+
+[shard] phi1348.abo013
+    part1 alignment_grid: 233
+    part1 text_segments: 708
+    part1 edition_chapter_order: 385
+    part1 text_units: 5
+  ✓ part1: 1.0MB (chapters 1…Remarks on  Tiberius)
+    Annotations: {'treebanks': 0, 'alignments': 0, 'commentaries': 0, 'metrical_lines': 0}
+
+[shard] phi1348.abo014
+    part1 alignment_grid: 199
+    part1 text_segments: 610
+    part1 edition_chapter_order: 305
+    part1 text_units: 5
+  ✓ part1: 0.8MB (chapters 1…Remarks on Caligula)
+    Annotations: {'treebanks': 0, 'alignments': 0, 'commentaries': 0, 'metrical_lines': 0}
+
+[shard] phi1348.abo015
+    part1 alignment_grid: 156
+    part1 text_segments: 492
+    part1 edition_chapter_order: 235
+    part1 text_units: 5
+  ✓ part1: 0.7MB (chapters 1…Remarks on Claudius)
+    Annotations: {'treebanks': 0, 'alignments': 0, 'commentaries': 0, 'metrical_lines': 0}
+
+[shard] phi1348.abo016
+    part1 alignment_grid: 191
+    part1 text_segments: 598
+    part1 edition_chapter_order: 290
+    part1 text_units: 5
+  ✓ part1: 0.9MB (chapters 1…Remarks on  Nero)
+    Annotations: {'treebanks': 0, 'alignments': 0, 'commentaries': 0, 'metrical_lines': 0}
+
+[shard] phi1348.abo017
+    part1 alignment_grid: 70
+    part1 text_segments: 220
+    part1 edition_chapter_order: 120
+    part1 text_units: 5
+  ✓ part1: 0.4MB (chapters 1…Remarks on Galba)
+    Annotations: {'treebanks': 0, 'alignments': 0, 'commentaries': 0, 'metrical_lines': 0}
+
+[shard] phi1348.abo018
+    part1 alignment_grid: 39
+    part1 text_segments: 125
+    part1 edition_chapter_order: 65
+    part1 text_units: 5
+  ✓ part1: 0.2MB (chapters 1…Remarks on Otho)
+    Annotations: {'treebanks': 0, 'alignments': 0, 'commentaries': 0, 'metrical_lines': 0}
+
+[shard] phi1348.abo019
+    part1 alignment_grid: 58
+    part1 text_segments: 182
+    part1 edition_chapter_order: 95
+    part1 text_units: 5
+  ✓ part1: 0.3MB (chapters 1…Remarks on Vitellius)
+    Annotations: {'treebanks': 0, 'alignments': 0, 'commentaries': 0, 'metrical_lines': 0}
+
+[shard] phi1348.abo020
+    part1 alignment_grid: 79
+    part1 text_segments: 254
+    part1 edition_chapter_order: 130
+    part1 text_units: 5
+  ✓ part1: 0.4MB (chapters 1…Remarks on Vespasian)
+    Annotations: {'treebanks': 0, 'alignments': 0, 'commentaries': 0, 'metrical_lines': 0}
+
+[shard] phi1348.abo021
+    part1 alignment_grid: 37
+    part1 text_segments: 117
+    part1 edition_chapter_order: 60
+    part1 text_units: 5
+  ✓ part1: 0.2MB (chapters 1…Remarks on Titus)
+    Annotations: {'treebanks': 0, 'alignments': 0, 'commentaries': 0, 'metrical_lines': 0}
+
+[shard] phi1348.abo022
+    part1 alignment_grid: 82
+    part1 text_segments: 268
+    part1 edition_chapter_order: 120
+    part1 text_units: 5
+  ✓ part1: 0.4MB (chapters 1…Remarks on Domitian)
+    Annotations: {'treebanks': 0, 'alignments': 0, 'commentaries': 0, 'metrical_lines': 0}
+
+✓ Done.
+  ✓ Extracted treebank data: 94438 sentences
+  ✓ Extracted metrical data: 53273 lines
+  ✓ Alignments [tlg0012.tlg001] perseus-grc2__parrish2021-eng1: 17 segments, 4217 groups
+  ✓ Alignments [tlg0012.tlg002] perseus-grc2__parrish2023-eng1: 11 segments, 3445 groups
+  ✓ Alignments [tlg0086.tlg034] bywater1909-grc1__butcher1911-eng2: 381 segments, 8962 groups
+  ✓ Alignments [tlg0086.tlg034] bywater1909-grc1__bywater1909-eng1: 380 segments, 9126 groups
+[SUCCESS] Production Standalone Workspace compiled cleanly.
+
+12/12 work(s) rebuilt.

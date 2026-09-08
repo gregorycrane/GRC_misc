@@ -1,0 +1,1401 @@
+{
+  "file": "/Users/gcrane/github/GRC_misc/suet_loeb/suetonius.otho.loeb_eng1.xml",
+  "sha256": "1bb9fdf55fdd3edb329c542f182f46a2f9391c42d94143a9d12dadb2d69afd4d",
+  "volume": 2,
+  "chapters": 12,
+  "sections": 28,
+  "notes": 19,
+  "rows": [
+    {
+      "kind": "note",
+      "index": 1,
+      "reference": "1.1",
+      "path": "/*/*[2]/*/*/*[2]/*[1]/*/*",
+      "line": 88,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Like Maecenas, Otho was Tyrrhena regum progenies; Hor. Odes, 3. 29. 1.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "225",
+          "seq": 237,
+          "differences": [],
+          "source_span": "like maecenas otho was tyrrhena regum progenies hor odes 3 29 1"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "227",
+          "context": "the princes of etruria.\nhis\ngrandfather marcus salvius",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 2,
+      "reference": "1.3",
+      "path": "/*/*[2]/*/*/*[2]/*[3]/*/*[1]",
+      "line": 94,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "See Claud. xiii. and xxxv. 2.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "225",
+          "seq": 237,
+          "differences": [],
+          "source_span": "see claud xiii and xxxv 2"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "227",
+          "context": "the\nrevolt against claudius; and they were executed",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 3,
+      "reference": "1.3",
+      "path": "/*/*[2]/*/*/*[2]/*[3]/*/*[3]",
+      "line": 94,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Suetonius does not mention this among the conspiracies against Claudius; see Claud. xiii.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "227",
+          "seq": 239,
+          "differences": [],
+          "source_span": "suetonius does not mention this among the conspiracies against claudius see claud xiii"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 4,
+      "reference": "2.1",
+      "path": "/*/*[2]/*/*/*[3]/*[1]/*/*[1]",
+      "line": 100,
+      "attributes": {
+        "place": "margin"
+      },
+      "text": "Apr. 28, 32 A.D.",
+      "witnesses": {
+        "loeb2-uc1": null
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "229",
+          "context": "arruntius and domitius ahenobarbus. apr. 28,\nfrom earliest youth he",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 5,
+      "reference": "2.1",
+      "path": "/*/*[2]/*/*/*[3]/*[1]/*/*[2]",
+      "line": 100,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Instead of the modern blanket a sagum, or military cloak, was used, whence the operation was called sagatio.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "227",
+          "seq": 239,
+          "differences": [],
+          "source_span": "instead of the modern blanket a sagum or military cloak was used whence the operation was called sagatio"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 6,
+      "reference": "2.2",
+      "path": "/*/*[2]/*/*/*[3]/*[2]/*/*[2]",
+      "line": 103,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "The penalty for extortion was expulsion from the senate; see Jul. xliii. 1.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "229",
+          "seq": 241,
+          "differences": [],
+          "source_span": "the penalty for extortion was expulsion from the senate see jul xliii 1"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 7,
+      "reference": "3.1",
+      "path": "/*/*[2]/*/*/*[4]/*[1]/*/*[1]",
+      "line": 109,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "See note on Nero, xxxiv. 2.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "229",
+          "seq": 241,
+          "differences": [],
+          "source_span": "see note on nero xxxiv 2"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "231",
+          "context": "a\nmost elaborate banquet, in order to avert",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 8,
+      "reference": "3.1",
+      "path": "/*/*[2]/*/*/*[4]/*[1]/*/*[2]",
+      "line": 109,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "According to Tac. Ann. 13. 45, the marriage was a real one, as is also implied below; see note d.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "229",
+          "seq": 241,
+          "differences": [],
+          "source_span": "according to tac ann 13 45 the marriage was a real one as is also implied below see note d"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 9,
+      "reference": "3.2",
+      "path": "/*/*[2]/*/*/*[4]/*[2]/*/*[1]",
+      "line": 112,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "See note above.",
+      "witnesses": {
+        "loeb2-uc1": null
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "231",
+          "context": "nero\nannulled the marriaged and under colour of",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 10,
+      "reference": "4.1",
+      "path": "/*/*[2]/*/*/*[5]/*[1]/*/*[2]",
+      "line": 121,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Tacitus and Plutarch give Ptolemaeus as the name of the astrologer.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "231",
+          "seq": 243,
+          "differences": [],
+          "source_span": "tacitus and plutarch give ptolemaeus as the name of the astrologer"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 11,
+      "reference": "6.1",
+      "path": "/*/*[2]/*/*/*[7]/*[1]/*/*",
+      "line": 139,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Between the adoption and the death of Galba, a space of five days.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "233",
+          "seq": 245,
+          "differences": [],
+          "source_span": "between the adoption and the death of galba a space of five days"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "235",
+          "context": "immediately after the adoption, and set upon galba",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 12,
+      "reference": "6.2",
+      "path": "/*/*[2]/*/*/*[7]/*[2]/*/*",
+      "line": 142,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "A pillar covered with gilded bronze, erected by Augustus, in 20 B.C., on which were engraved the names of the principal cities of the empire and their distance from Rome. The Roman roads were supposed to converge at that point, but the distances on them were reckoned from the gates.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "233",
+          "seq": 245,
+          "differences": [],
+          "source_span": "a pillar covered with gilded bronze erected by augustus in 20 b c on which were engraved the names of the principal cities of the empire and their distance from rome the roman roads were supposed to converge at that point but the distances on them were reckoned from the gates"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "235",
+          "context": "the golden mile-post hard by the temple",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 13,
+      "reference": "7.2",
+      "path": "/*/*[2]/*/*/*[8]/*[2]/*/*[2]/*/*",
+      "line": 155,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Proverbial of undertaking something beyond one's powers; cf. Cic. ad Att. ii. 16.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "237",
+          "seq": 249,
+          "differences": [],
+          "source_span": "proverbial of undertaking something beyond one s powers cf cic ad att ii 16"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 14,
+      "reference": "8.2",
+      "path": "/*/*[2]/*/*/*[9]/*[2]/*/*[1]",
+      "line": 164,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "To Ostia.",
+      "witnesses": {
+        "loeb2-uc1": null
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "239",
+          "context": "shipboard by the\nmarines; but as these were",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 15,
+      "reference": "8.2",
+      "path": "/*/*[2]/*/*/*[9]/*[2]/*/*[2]",
+      "line": 164,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Of the armoury.",
+      "witnesses": {
+        "loeb2-uc1": null
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 16,
+      "reference": "8.2",
+      "path": "/*/*[2]/*/*/*[9]/*[2]/*/*[3]",
+      "line": 164,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "This difficult passage is obscure because of its brevity and perhaps through corruption of the text. The same story is told by Tacitus (Hist. 1. 80) and Plutarch (Otho, 3.), but the three accounts seem to vary. According to Suetonius the arms were sent from the praetorian camp to Ostia, to fit out the (eighteenth) cohort, and that the riot started in the praetorian camp; the account of Tacitus seems to imply that it was the soldiers from Ostia (joined by the praetorians) that burst into Otho's dining room: insidentes equis urbem ac Palatium petunt. The arms in question would seem to be a part of those belonging to the cohort; hence remitti. See however Hofstee, ad loc.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.5614285714285714,
+          "score": 0.5714285714285714,
+          "page": "238",
+          "seq": 250,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "this difficult passage is obscure because of its brevity and perhaps through corruption",
+              "after": "soldiers hastened to the palace without any particular leader demanding the death",
+              "left": "",
+              "right": "of the text the same"
+            },
+            {
+              "op": "replace",
+              "before": "text",
+              "after": "senators after putting to flight some of",
+              "left": "perhaps through corruption of the",
+              "right": "the same story is told"
+            },
+            {
+              "op": "replace",
+              "before": "same story is told by tacitus hist 1 80",
+              "after": "tribunes who attempted to stop them",
+              "left": "corruption of the text the",
+              "right": "and plutarch otho 3 but"
+            },
+            {
+              "op": "replace",
+              "before": "plutarch otho 3 but",
+              "after": "killing others just as they were all blood stained they burst right into",
+              "left": "tacitus hist 1 80 and",
+              "right": "the three accounts seem to"
+            },
+            {
+              "op": "replace",
+              "before": "three accounts seem",
+              "after": "dining room demanding",
+              "left": "plutarch otho 3 but the",
+              "right": "to vary according to suetonius"
+            },
+            {
+              "op": "replace",
+              "before": "vary according to suetonius",
+              "after": "know where",
+              "left": "the three accounts seem to",
+              "right": "the arms were sent from"
+            },
+            {
+              "op": "replace",
+              "before": "arms were sent from the praetorian camp to ostia to fit out the eighteenth cohort",
+              "after": "emperor was",
+              "left": "vary according to suetonius the",
+              "right": "and that the riot started"
+            },
+            {
+              "op": "replace",
+              "before": "that the",
+              "after": "they could not be quieted until they had seen him a",
+              "left": "out the eighteenth cohort and",
+              "right": "riot started in the praetorian"
+            }
+          ],
+          "source_span": "soldiers hastened to the palace without any particular leader demanding the death of the senators after putting to flight some of the tribunes who attempted to stop them and killing others just as they were all blood stained they burst right into the dining room demanding to know where the emperor was and they could not be quieted until they had seen him a riot started in the praetorian camp the account of tacitus seems to imply that it was the soldiers from ostia joined by the praetorians that burst into otho s dining room insidentes equis urbem ac palatium petunt the arms in question would seem to be a part of those belonging to the cohort hence remitti see however hofstee ad loc"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 17,
+      "reference": "8.3",
+      "path": "/*/*[2]/*/*/*[9]/*[3]/*/*[2]",
+      "line": 167,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "From the temple of Mars, to be carried through the streets in the sacred procession. To begin any enterprise during that time was considered unlucky, and weddings were avoided; see Ovid, Fasti, iii. 393.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "239",
+          "seq": 251,
+          "differences": [],
+          "source_span": "from the temple of mars to be carried through the streets in the sacred procession to begin any enterprise during that time was considered unlucky and weddings were avoided see ovid fasti iii 393"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 18,
+      "reference": "8.3",
+      "path": "/*/*[2]/*/*/*[9]/*[3]/*/*[3]",
+      "line": 167,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Cybele, whose festival was from March 24 to 30.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "239",
+          "seq": 251,
+          "differences": [],
+          "source_span": "cybele whose festival was from march 24 to 30"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 19,
+      "reference": "9.2",
+      "path": "/*/*[2]/*/*/*[10]/*[2]/*/*",
+      "line": 176,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Tacitus, Hist. 2. 24, says locus Castorum (= Castoris et Pollucis) vocatur, and that it was twelve miles from Cremona. There was probably a temple there to the Twin Brethren.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "239",
+          "seq": 251,
+          "differences": [],
+          "source_span": "tacitus hist 2 24 says locus castorum castoris et pollucis vocatur and that it was twelve miles from cremona there was probably a temple there to the twin brethren"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "241",
+          "context": "the place is called. in the final\nand",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "section",
+      "index": 1,
+      "reference": "1.1",
+      "path": "/*/*[2]/*/*/*[2]/*[1]",
+      "line": 87,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:1",
+        "n": "1"
+      },
+      "text": "\n            I. THE ancestors of Otho came from an old and illustrious family in the town of Ferentium and were descended from the princes of Etruria. His grandfather Marcus Salvius Otho, whose father was a Roman knight but whose mother was of lowly origin and perhaps not even free-born, became a senator through the influence of Livia Augusta, in whose house he was reared; but did not advance beyond the grade of praetor. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "226",
+          "seq": 238,
+          "differences": [],
+          "source_span": "i the ancestors of otho came from an old and illustrious family in the town of ferentium and were descended from the princes of etruria his grandfather marcus salvius otho whose father was a roman knight but whose mother was of lowly origin and perhaps not even free born became a senator through the influence of livia augusta in whose house he was reared but did not advance beyond the grade of praetor"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 2,
+      "reference": "1.2",
+      "path": "/*/*[2]/*/*/*[2]/*[2]",
+      "line": 90,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:1",
+        "n": "2"
+      },
+      "text": "\n            His father Lucius Otho was of a distinguished family on his mother's side, with many powerful connections, and was so beloved by Tiberius and so like him in appearance, that he was believed by many to be the emperor's son. In the regular offices at Rome, the proconsulate of Africa, and several special military commands he conducted himself with extreme severity. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "226",
+          "seq": 238,
+          "differences": [],
+          "source_span": "his father lucius otho was of a distinguished family on his mother s side with many powerful connections and was so beloved by tiberius and so like him in appearance that he was believed by many to be the emperor s son in the regular offices at rome the proconsulate of africa and several special military commands he conducted himself with extreme severity"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 3,
+      "reference": "1.3",
+      "path": "/*/*[2]/*/*/*[2]/*[3]",
+      "line": 93,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:1",
+        "n": "3"
+      },
+      "text": "\n            In Illyricum he even had the courage to punish some soldiers with death, because in the rebellion of Camillus, repenting of their defection, they had killed their officers on the ground that they were the ringleaders in the revolt against Claudius; and they were executed in his presence before his headquarters, although he knew that they had been promoted to higher  positions by Claudius because of that very act. By this deed, while he increased his reputation, he lost favour at court; but he speedily regained it by detecting the treachery of a Roman knight, whose slaves betrayed their master's design of killing the emperor. For in consequence of this, the senate conferred a very unusual honour on him by setting up his statue in the Palace; and Claudius also enrolled him among the patricians, and after praising him in the highest terms, added these words: \"a man of greater loyalty than I can even pray for in my own children.\" By Albia Terentia, a woman of an illustrious line, he had two sons, Lucius Titianus and a younger called Marcus, who had the same surname as himself; also a daughter, whom he betrothed to Drusus, son of Germanicus, almost before she was of marriageable age. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.6638067632850241,
+          "score": 0.7198067632850241,
+          "page": "228",
+          "seq": 240,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "in illyricum he even had",
+              "after": "does not mention this among",
+              "left": "",
+              "right": "the courage to punish some"
+            },
+            {
+              "op": "replace",
+              "before": "courage to punish some soldiers with death because in the rebellion of camillus repenting of their defection they had killed their officers on the ground that they were the ringleaders in the revolt",
+              "after": "conspiracies",
+              "left": "illyricum he even had the",
+              "right": "against claudius and they were"
+            },
+            {
+              "op": "replace",
+              "before": "and they were executed in his presence before his headquarters although he knew that they had been promoted to higher",
+              "after": "see claud xiii instead of the modern blanket a sagum or military cloak was used whence the operation was called sagatio 228 отно",
+              "left": "in the revolt against claudius",
+              "right": "positions by claudius because of"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "a",
+              "left": "design of killing the emperor",
+              "right": "for in consequence of this"
+            }
+          ],
+          "source_span": "does not mention this among the conspiracies against claudius see claud xiii instead of the modern blanket a sagum or military cloak was used whence the operation was called sagatio 228 отно positions by claudius because of that very act by this deed while he increased his reputation he lost favour at court but he speedily regained it by detecting the treachery of a roman knight whose slaves betrayed their master s design of killing the emperor a for in consequence of this the senate conferred a very unusual honour on him by setting up his statue in the palace and claudius also enrolled him among the patricians and after praising him in the highest terms added these words a man of greater loyalty than i can even pray for in my own children by albia terentia a woman of an illustrious line he had two sons lucius titianus and a younger called marcus who had the same surname as himself also a daughter whom he betrothed to drusus son of germanicus almost before she was of marriageable age"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 4,
+      "reference": "2.1",
+      "path": "/*/*[2]/*/*/*[3]/*[1]",
+      "line": 99,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:2",
+        "n": "1"
+      },
+      "text": "\n            II. The emperor Otho was born on the fourth day before the Kalends of May in the consulate of Camillus Arruntius and Domitius Ahenobarbus.  From earliest youth he was so extravagant and wild that his father often flogged him; and they say that he used to rove about at night and lay hands on any one whom he met who was feeble or drunk and toss him in a blanket. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.99,
+          "score": 1.0,
+          "page": "228",
+          "seq": 240,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "apr 28",
+              "left": "camillus arruntius and domitius ahenobarbus",
+              "right": "from earliest youth he was"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "32 a d",
+              "left": "was so extravagant and wild",
+              "right": "that his father often flogged"
+            }
+          ],
+          "source_span": "ii the emperor otho was born on the fourth day before the kalends of may in the consulate of camillus arruntius and domitius ahenobarbus apr 28 from earliest youth he was so extravagant and wild 32 a d that his father often flogged him and they say that he used to rove about at night and lay hands on any one whom he met who was feeble or drunk and toss him in a blanket"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 5,
+      "reference": "2.2",
+      "path": "/*/*[2]/*/*/*[3]/*[2]",
+      "line": 102,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:2",
+        "n": "2"
+      },
+      "text": "\n            After his father's death he pretended love for an influential freedwoman of the court, although she was an old woman and almost decrepit, that he might more effectually win her favour. Having through her wormed his way into Nero's good graces, he easily held the first place among the emperor's friends because of the similarity of their characters; but according to some, also through immoral relations. At any rate his influence was such, that when he had  bargained for a huge sum of money to procure the pardon of an ex-consul who had been condemned for extortion, he had no hesitation in bringing him into the senate to give thanks, before he had fully secured his restoration. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.6819504132231405,
+          "score": 0.6859504132231405,
+          "page": "229",
+          "seq": 241,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "bargained for a huge sum",
+              "after": "2 29 the lives",
+              "left": "such that when he had",
+              "right": "of money to procure the"
+            },
+            {
+              "op": "delete",
+              "before": "money to procure",
+              "after": "",
+              "left": "for a huge sum of",
+              "right": "the pardon of an ex"
+            },
+            {
+              "op": "replace",
+              "before": "pardon of an ex consul who had been condemned for extortion he had no hesitation",
+              "after": "caesars book vii potentia valuit ut damnatum repetundis consularem virum ingens praemium pactus prius quam plane restitutionem ei impetrasset non dubitaret",
+              "left": "of money to procure the",
+              "right": "in bringing him into the"
+            },
+            {
+              "op": "replace",
+              "before": "bringing him into the senate to give thanks before he had fully secured his restoration",
+              "after": "senatum ad agendas gratias introducere iii omnium autem consiliorum secretorumque particeps die quem necandae matri",
+              "left": "he had no hesitation in",
+              "right": ""
+            }
+          ],
+          "source_span": "after his father s death he pretended love for an influential freedwoman of the court although she was an old woman and almost decrepit that he might more effectually win her favour having through her wormed his way into nero s good graces he easily held the first place among the emperor s friends because of the similarity of their characters but according to some also through immoral relations at any rate his influence was such that when he had 2 29 the lives of the caesars book vii potentia valuit ut damnatum repetundis consularem virum ingens praemium pactus prius quam plane restitutionem ei impetrasset non dubitaret in senatum ad agendas gratias introducere iii omnium autem consiliorum secretorumque particeps die quem necandae matri"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 6,
+      "reference": "3.1",
+      "path": "/*/*[2]/*/*/*[4]/*[1]",
+      "line": 108,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:3",
+        "n": "1"
+      },
+      "text": "\n            III. He was privy to all the emperor's plans and secrets, and on the day which Nero had chosen for the murder of his mother he gave both of them a most elaborate banquet, in order to avert suspicion. Also when Poppaea Sabina, who up to that time had been Nero's mistress, was separated from her husband and turned over for the time being to Otho, he pretended marriage with her; but not content with seducing her he became so devoted that he could not endure the thought of having Nero even as a rival. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "230",
+          "seq": 242,
+          "differences": [],
+          "source_span": "iii he was privy to all the emperor s plans and secrets and on the day which nero had chosen for the murder of his mother he gave both of them a most elaborate banquet in order to avert suspicion also when poppaea sabina who up to that time had been nero s mistress was separated from her husband and turned over for the time being to otho he pretended marriage with her but not content with seducing her he became so devoted that he could not endure the thought of having nero even as a rival"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 7,
+      "reference": "3.2",
+      "path": "/*/*[2]/*/*/*[4]/*[2]",
+      "line": 111,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:3",
+        "n": "2"
+      },
+      "text": "\n            At all events it is believed that he not only would not admit those whom Nero sent to fetch her, but that on one occasion he even shut out the emperor himself, who stood before his door, vainly mingling threats and entreaties and demanding the return of his trust. Therefore Nero annulled the marriage and under colour of an appointment as governor banished Otho to Lusitania, contenting himself with this through fear that by inflicting a severer punishment he would make the whole farce public; but even as it was, it was published abroad in this couplet:\n            Why, do you ask, in feigned honour does Otho in banishment languish? \n            With his own wedded wife he had begun an intrigue. \n            With the rank of quaestor Otho governed the province for ten years with remarkable moderation and integrity. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.9926470588235294,
+          "score": 0.9926470588235294,
+          "page": "230",
+          "seq": 242,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "marriage",
+              "after": "marriaged",
+              "left": "trust therefore nero annulled the",
+              "right": "and under colour of an"
+            }
+          ],
+          "source_span": "at all events it is believed that he not only would not admit those whom nero sent to fetch her but that on one occasion he even shut out the emperor himself who stood before his door vainly mingling threats and entreaties and demanding the return of his trust therefore nero annulled the marriaged and under colour of an appointment as governor banished otho to lusitania contenting himself with this through fear that by inflicting a severer punishment he would make the whole farce public but even as it was it was published abroad in this couplet why do you ask in feigned honour does otho in banishment languish with his own wedded wife he had begun an intrigue with the rank of quaestor otho governed the province for ten years with remarkable moderation and integrity"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 8,
+      "reference": "4.1",
+      "path": "/*/*[2]/*/*/*[5]/*[1]",
+      "line": 120,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:4",
+        "n": "1"
+      },
+      "text": "\n             IV. When at last an opportunity for revenge was given him, Otho was the first to espouse Galba's cause, at the same time conceiving on his own account high hopes of imperial power, because of the state of the times, but still more because of a declaration of the astrologer Seleucus. For he had not only promised Otho some time before that he would survive Nero, but had at this time unexpectedly appeared unsought and made the further promise, that he would soon become emperor as well. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "232",
+          "seq": 244,
+          "differences": [],
+          "source_span": "iv when at last an opportunity for revenge was given him otho was the first to espouse galba s cause at the same time conceiving on his own account high hopes of imperial power because of the state of the times but still more because of a declaration of the astrologer seleucus for he had not only promised otho some time before that he would survive nero but had at this time unexpectedly appeared unsought and made the further promise that he would soon become emperor as well"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 9,
+      "reference": "4.2",
+      "path": "/*/*[2]/*/*/*[5]/*[2]",
+      "line": 123,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:4",
+        "n": "2"
+      },
+      "text": "\n            Accordingly Otho let slip no opportunity for flattery or attention to anyone. Whenever he entertained the prince at dinner, he gave a gold piece to each man of the cohort on guard, and put all the soldiers under obligation in one form or another. Chosen arbiter by a man who was at law with his neighbour about a part of his estate, he bought the whole property and presented it to him. As a result there was hardly anyone who did not both think and openly declare that he alone was worthy to succeed to the empire. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "232",
+          "seq": 244,
+          "differences": [],
+          "source_span": "accordingly otho let slip no opportunity for flattery or attention to anyone whenever he entertained the prince at dinner he gave a gold piece to each man of the cohort on guard and put all the soldiers under obligation in one form or another chosen arbiter by a man who was at law with his neighbour about a part of his estate he bought the whole property and presented it to him as a result there was hardly anyone who did not both think and openly declare that he alone was worthy to succeed to the empire"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 10,
+      "reference": "5.1",
+      "path": "/*/*[2]/*/*/*[6]/*[1]",
+      "line": 129,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:5",
+        "n": "1"
+      },
+      "text": "\n            V. Now he had hoped to be adopted by Galba, and looked forward to it from day to day. But when Piso was preferred and he at last lost that hope, he resorted to force, spurred on not merely by feelings of resentment, but also by the greatness of his debts. For he flatly declared that he could not keep on his feet unless he became emperor, and that it made no difference whether he fell at the hands of the enemy in battle or at those of his creditors in the Forum. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "232",
+          "seq": 244,
+          "differences": [],
+          "source_span": "v now he had hoped to be adopted by galba and looked forward to it from day to day but when piso was preferred and he at last lost that hope he resorted to force spurred on not merely by feelings of resentment but also by the greatness of his debts for he flatly declared that he could not keep on his feet unless he became emperor and that it made no difference whether he fell at the hands of the enemy in battle or at those of his creditors in the forum"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 11,
+      "reference": "5.2",
+      "path": "/*/*[2]/*/*/*[6]/*[2]",
+      "line": 132,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:5",
+        "n": "2"
+      },
+      "text": "\n            He had extorted a million sesterces from one of the emperor's slaves a few days before for getting him a stewardship. This was the entire capital for  his great undertaking. At first the enterprise was entrusted to five of his body-guard, then to ten others, two being chosen by each of the first five; to all of them ten thousand sesterces were paid at once and they were promised fifty thousand more. Through these others were won over, but not so very many, since he had full confidence that more would join him when the business was afoot. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.74,
+          "score": 0.75,
+          "page": "234",
+          "seq": 246,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "he had extorted a million sesterces from one",
+              "after": "the principal cities",
+              "left": "",
+              "right": "of the emperor s slaves"
+            },
+            {
+              "op": "replace",
+              "before": "emperor s slaves a few days before for getting him a stewardship this was",
+              "after": "empire and their distance from rome",
+              "left": "sesterces from one of the",
+              "right": "the entire capital for his"
+            },
+            {
+              "op": "replace",
+              "before": "entire capital for",
+              "after": "roman roads were supposed to converge at that point but the distances on them were reckoned from the gates 234 отно",
+              "left": "a stewardship this was the",
+              "right": "his great undertaking at first"
+            }
+          ],
+          "source_span": "the principal cities of the empire and their distance from rome the roman roads were supposed to converge at that point but the distances on them were reckoned from the gates 234 отно his great undertaking at first the enterprise was entrusted to five of his body guard then to ten others two being chosen by each of the first five to all of them ten thousand sesterces were paid at once and they were promised fifty thousand more through these others were won over but not so very many since he had full confidence that more would join him when the business was afoot"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 12,
+      "reference": "6.1",
+      "path": "/*/*[2]/*/*/*[7]/*[1]",
+      "line": 138,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:6",
+        "n": "1"
+      },
+      "text": "\n            VI. He had been inclined to seize the Camp immediately after the adoption, and set upon Galba as he was dining in the Palace, but had been prevented by consideration for the cohort which was on guard at the time, and a reluctance to increase its ill repute; for it was while that same cohort was at its post that both Galba had been slain and Nero had been forsaken. The intervening time was lost owing to bad omens and the warnings of Seleucus. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.998,
+          "score": 1.0,
+          "page": "234",
+          "seq": 246,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "a",
+              "left": "been forsaken the intervening time",
+              "right": "was lost owing to bad"
+            }
+          ],
+          "source_span": "vi he had been inclined to seize the camp immediately after the adoption and set upon galba as he was dining in the palace but had been prevented by consideration for the cohort which was on guard at the time and a reluctance to increase its ill repute for it was while that same cohort was at its post that both galba had been slain and nero had been forsaken the intervening time a was lost owing to bad omens and the warnings of seleucus"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 13,
+      "reference": "6.2",
+      "path": "/*/*[2]/*/*/*[7]/*[2]",
+      "line": 141,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:6",
+        "n": "2"
+      },
+      "text": "\n            Accordingly, when the day was set, after admonishing his confederates to await him in the Forum at the golden mile-post hard by the temple of Saturn, he called upon Galba in the morning and was welcomed as usual with a kiss. He also attended the emperor as he was offering sacrifice, and heard the predictions of the soothsayer. Then a freedman announced that the architects had come, which was the signal agreed on, and going off as if to inspect a house which was for sale, he rushed from the Palace by a back door and hastened to the appointed place. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "234",
+          "seq": 246,
+          "differences": [],
+          "source_span": "accordingly when the day was set after admonishing his confederates to await him in the forum at the golden mile post hard by the temple of saturn he called upon galba in the morning and was welcomed as usual with a kiss he also attended the emperor as he was offering sacrifice and heard the predictions of the soothsayer then a freedman announced that the architects had come which was the signal agreed on and going off as if to inspect a house which was for sale he rushed from the palace by a back door and hastened to the appointed place"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 14,
+      "reference": "6.3",
+      "path": "/*/*[2]/*/*/*[7]/*[3]",
+      "line": 144,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:6",
+        "n": "3"
+      },
+      "text": "\n            Others say that he feigned an attack of fever and asked those who stood near him to give that excuse, in case he should be missed. Then hurriedly entering a closed sedan, such as women use, he hurried to the camp, but got out when the bearers' strength flagged, and started to run.  His shoe came untied and he stopped, whereupon without delay he was at once taken up on the shoulders of his companions and hailed as emperor. In this way he arrived at headquarters, amid acclamations and drawn swords, while everyone whom he met fell in, just as though he were an accomplice and a participator in the plot. He then sent emissaries to kill Galba and Piso, and made no further promises in the assembly to win the loyalty of the soldiers than to declare that he would have that—and only that—which they should leave to him. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.5881578947368421,
+          "score": 0.6381578947368421,
+          "page": "236",
+          "seq": 248,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "others say that he feigned an attack of fever and asked those who stood near him to give that excuse",
+              "after": "humi ante lectum iacens per omnia piaculorum genera manes galbae a quo deturbari expellique se viderat propitiare temptasse postridie quoque",
+              "left": "",
+              "right": "in case he should be"
+            },
+            {
+              "op": "replace",
+              "before": "case he should be missed then hurriedly entering a closed sedan such as women use he hurried to the camp but got out when the bearers strength flagged and started to run",
+              "after": "augurando 1 ratione erasmus oratione mss 236 отно",
+              "left": "to give that excuse in",
+              "right": "his shoe came untied and"
+            },
+            {
+              "op": "replace",
+              "before": "made",
+              "after": "inade",
+              "left": "kill galba and piso and",
+              "right": "no further promises in the"
+            },
+            {
+              "op": "replace",
+              "before": "that which",
+              "after": "thatwhich",
+              "left": "would have that and only",
+              "right": "they should leave to him"
+            }
+          ],
+          "source_span": "humi ante lectum iacens per omnia piaculorum genera manes galbae a quo deturbari expellique se viderat propitiare temptasse postridie quoque in augurando 1 ratione erasmus oratione mss 236 отно his shoe came untied and he stopped whereupon without delay he was at once taken up on the shoulders of his companions and hailed as emperor in this way he arrived at headquarters amid acclamations and drawn swords while everyone whom he met fell in just as though he were an accomplice and a participator in the plot he then sent emissaries to kill galba and piso and inade no further promises in the assembly to win the loyalty of the soldiers than to declare that he would have that and only thatwhich they should leave to him"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 15,
+      "reference": "7.1",
+      "path": "/*/*[2]/*/*/*[8]/*[1]",
+      "line": 150,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:7",
+        "n": "1"
+      },
+      "text": "\n            VII. Next, as the day was drawing to its close, he entered the senate and after giving a brief account of himself, alleging that he had been carried off in the streets and forced to undertake the rule, which he would exercise in accordance with the general will, he went to the Palace. When in the midst of the other adulations of those who congratulated and flattered him, he was hailed by the common herd as Nero, he made no sign of dissent; on the contrary, according to some writers, he even made use of that surname in his commissions and his first letters to some of the governors of the provinces. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "236",
+          "seq": 248,
+          "differences": [],
+          "source_span": "vii next as the day was drawing to its close he entered the senate and after giving a brief account of himself alleging that he had been carried off in the streets and forced to undertake the rule which he would exercise in accordance with the general will he went to the palace when in the midst of the other adulations of those who congratulated and flattered him he was hailed by the common herd as nero he made no sign of dissent on the contrary according to some writers he even made use of that surname in his commissions and his first letters to some of the governors of the provinces"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 16,
+      "reference": "7.2",
+      "path": "/*/*[2]/*/*/*[8]/*[2]",
+      "line": 153,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:7",
+        "n": "2"
+      },
+      "text": "\n            Certain it is that he suffered Nero's busts and statues to be set up again, and reinstated his procurators and freedmen in their former posts, while the first grant that he signed as emperor was one of fifty million sesterces for finishing the Golden House. It is said that he had a fearful dream that night, uttered loud groans, and was found by those who ran to his aid lying on the ground beside his couch; that he tried by every kind of expiatory rite to propitiate the shade of Galba, by whom he dreamt that he was ousted and thrown out; and that next  day, as he was taking the auspices, a great storm arose and he had a bad fall, whereat he muttered from time to time:\n            With long pipes what concern have I?  \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.773021897810219,
+          "score": 0.781021897810219,
+          "page": "237",
+          "seq": 249,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "day as he was taking",
+              "after": "237",
+              "left": "thrown out and that next",
+              "right": "the auspices a great storm"
+            },
+            {
+              "op": "replace",
+              "before": "auspices a great storm arose and he had a bad fall whereat he muttered from time to time with long pipes what concern have i",
+              "after": "lives of the caesars book vii tempestate orta graviter prolapsum identidem obmurmurasse τί γάρ μοι καὶ μακροῖς αὐλοῖς 1 viii sub idem vero tempus germaniciani",
+              "left": "as he was taking the",
+              "right": ""
+            }
+          ],
+          "source_span": "certain it is that he suffered nero s busts and statues to be set up again and reinstated his procurators and freedmen in their former posts while the first grant that he signed as emperor was one of fifty million sesterces for finishing the golden house it is said that he had a fearful dream that night uttered loud groans and was found by those who ran to his aid lying on the ground beside his couch that he tried by every kind of expiatory rite to propitiate the shade of galba by whom he dreamt that he was ousted and thrown out and that next 237 the lives of the caesars book vii tempestate orta graviter prolapsum identidem obmurmurasse τί γάρ μοι καὶ μακροῖς αὐλοῖς 1 viii sub idem vero tempus germaniciani"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 17,
+      "reference": "8.1",
+      "path": "/*/*[2]/*/*/*[9]/*[1]",
+      "line": 160,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:8",
+        "n": "1"
+      },
+      "text": "\n            VIII. Now at about this same time the armies in Germany swore allegiance to Vitellius. When Otho learned of this, he persuaded the senate to send a deputation, to say that an emperor had already been chosen and to counsel peace and harmony; but in spite of this he offered Vitellius by messengers and letters a share in the imperial dignity and proposed to become his son-in-law. But when it became clear that war was inevitable, and the generals and troops which Vitellius had sent in advance were already drawing near, he was given a proof of the affection and loyalty of the praetorians towards himself which almost resulted in the destruction of the senate. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "238",
+          "seq": 250,
+          "differences": [],
+          "source_span": "viii now at about this same time the armies in germany swore allegiance to vitellius when otho learned of this he persuaded the senate to send a deputation to say that an emperor had already been chosen and to counsel peace and harmony but in spite of this he offered vitellius by messengers and letters a share in the imperial dignity and proposed to become his son in law but when it became clear that war was inevitable and the generals and troops which vitellius had sent in advance were already drawing near he was given a proof of the affection and loyalty of the praetorians towards himself which almost resulted in the destruction of the senate"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 18,
+      "reference": "8.2",
+      "path": "/*/*[2]/*/*/*[9]/*[2]",
+      "line": 163,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:8",
+        "n": "2"
+      },
+      "text": "\n            It had been resolved that some arms should be removed and carried back on shipboard by the marines; but as these were being taken out in the Camp towards nightfall, some suspected treachery and started a riot; then on a sudden all the soldiers hastened to the Palace without any particular leader, demanding the death of the senators. After putting to flight some of the tribunes who attempted to stop them, and killing others, just as they were, all blood-stained, they burst right into the dining-room, demanding to know where the emperor was; and they could not be quieted until they had seen him. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "238",
+          "seq": 250,
+          "differences": [],
+          "source_span": "it had been resolved that some arms should be removed and carried back on shipboard by the marines but as these were being taken out in the camp towards nightfall some suspected treachery and started a riot then on a sudden all the soldiers hastened to the palace without any particular leader demanding the death of the senators after putting to flight some of the tribunes who attempted to stop them and killing others just as they were all blood stained they burst right into the dining room demanding to know where the emperor was and they could not be quieted until they had seen him"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 19,
+      "reference": "8.3",
+      "path": "/*/*[2]/*/*/*[9]/*[3]",
+      "line": 166,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:8",
+        "n": "3"
+      },
+      "text": "\n             He began his expedition with energy and in fact too hastily, without any regard even for the omens, and in spite of the fact that the sacred shields had been taken out, but not yet put back, which for ages has been considered unlucky; on the very day, too, when the worshippers of the Mother of the Gods begin their wailing and lamentation, and also with most unfavourable auspices. For having offered up a victim to father Dis, he had good omens, whereas in such a sacrifice adverse indications are more favourable; and when he first left the city, he was delayed by floods of the Tiber, while at the twentieth milestone he found the road blocked by fallen buildings. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "240",
+          "seq": 252,
+          "differences": [],
+          "source_span": "he began his expedition with energy and in fact too hastily without any regard even for the omens and in spite of the fact that the sacred shields had been taken out but not yet put back which for ages has been considered unlucky on the very day too when the worshippers of the mother of the gods begin their wailing and lamentation and also with most unfavourable auspices for having offered up a victim to father dis he had good omens whereas in such a sacrifice adverse indications are more favourable and when he first left the city he was delayed by floods of the tiber while at the twentieth milestone he found the road blocked by fallen buildings"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 20,
+      "reference": "9.1",
+      "path": "/*/*[2]/*/*/*[10]/*[1]",
+      "line": 172,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:9",
+        "n": "1"
+      },
+      "text": "\n            IX. With like rashness, although no one doubted that the proper course was to protract the war, since the enemy were hard pressed by hunger and by the narrowness of their quarters, he decided to fight a decisive battle as soon as possible, either because he could not endure the continued worry and hoped that the war could be ended before the arrival of Vitellius, or from inability to resist the impetuosity of his soldiers, who clamoured for the fight. He himself did not take part in any of the battles, but remained behind at Brixellum. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "240",
+          "seq": 252,
+          "differences": [],
+          "source_span": "ix with like rashness although no one doubted that the proper course was to protract the war since the enemy were hard pressed by hunger and by the narrowness of their quarters he decided to fight a decisive battle as soon as possible either because he could not endure the continued worry and hoped that the war could be ended before the arrival of vitellius or from inability to resist the impetuosity of his soldiers who clamoured for the fight he himself did not take part in any of the battles but remained behind at brixellum"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 21,
+      "reference": "9.2",
+      "path": "/*/*[2]/*/*/*[10]/*[2]",
+      "line": 175,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:9",
+        "n": "2"
+      },
+      "text": "\n            He was victorious in three contests, but they were of little moment: in the Alps, near Placentia, and \"at Castor's,\" as the place is called. In the final and decisive struggle at Betriacum he was defeated, but through treachery. For hope of a conference was offered, and when his soldiers were led out in the belief that they were to discuss terms of peace, a battle was forced upon them unexpectedly, just as they were exchanging greetings with the foe. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "240",
+          "seq": 252,
+          "differences": [],
+          "source_span": "he was victorious in three contests but they were of little moment in the alps near placentia and at castor s as the place is called in the final and decisive struggle at betriacum he was defeated but through treachery for hope of a conference was offered and when his soldiers were led out in the belief that they were to discuss terms of peace a battle was forced upon them unexpectedly just as they were exchanging greetings with the foe"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 22,
+      "reference": "9.3",
+      "path": "/*/*[2]/*/*/*[10]/*[3]",
+      "line": 178,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:9",
+        "n": "3"
+      },
+      "text": "\n             After the defeat, Otho at once resolved to take his own life, rather from a feeling of shame, as many have thought with good reason, and an unwillingness to persist in a struggle for imperial power at the expense of such danger to life and property, than from any despair of success or distrust of his troops; for even then he had a fresh and strong force which he had held in reserve for a second attempt, while others were on their way from Dalmatia, Pannonia, and Moesia. Even the defeated troops were not so crushed as not to undergo any danger, and even without support undertake to avenge their disgrace. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "242",
+          "seq": 254,
+          "differences": [],
+          "source_span": "after the defeat otho at once resolved to take his own life rather from a feeling of shame as many have thought with good reason and an unwillingness to persist in a struggle for imperial power at the expense of such danger to life and property than from any despair of success or distrust of his troops for even then he had a fresh and strong force which he had held in reserve for a second attempt while others were on their way from dalmatia pannonia and moesia even the defeated troops were not so crushed as not to undergo any danger and even without support undertake to avenge their disgrace"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 23,
+      "reference": "10.1",
+      "path": "/*/*[2]/*/*/*[11]/*[1]",
+      "line": 184,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:10",
+        "n": "1"
+      },
+      "text": "\n            X. My father Suetonius Laetus took part in that war, as a tribune of the equestrian order in the Thirteenth legion. He used often to declare afterwards that Otho, even when he was a private citizen, so loathed civil strife, that at the mere mention of the fate of Brutus and Cassius at a banquet he shuddered; that he would not have engaged with Galba, if he had not felt confident that the affair could be settled peacefully; further, that he was led to hold his life cheap at that time by the example of a common soldier. This man on bringing news of the defeat of the army was believed by no one, but was charged by the soldiers now with falsehood and now with cowardice, and accused of running away; whereupon he fell on his sword at the emperor's feet. My father used to say that at this sight Otho cried out that he would no longer endanger the lives of such brave men, who had deserved so well. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "242",
+          "seq": 254,
+          "differences": [],
+          "source_span": "x my father suetonius laetus took part in that war as a tribune of the equestrian order in the thirteenth legion he used often to declare afterwards that otho even when he was a private citizen so loathed civil strife that at the mere mention of the fate of brutus and cassius at a banquet he shuddered that he would not have engaged with galba if he had not felt confident that the affair could be settled peacefully further that he was led to hold his life cheap at that time by the example of a common soldier this man on bringing news of the defeat of the army was believed by no one but was charged by the soldiers now with falsehood and now with cowardice and accused of running away whereupon he fell on his sword at the emperor s feet my father used to say that at this sight otho cried out that he would no longer endanger the lives of such brave men who had deserved so well"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 24,
+      "reference": "10.2",
+      "path": "/*/*[2]/*/*/*[11]/*[2]",
+      "line": 187,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:10",
+        "n": "2"
+      },
+      "text": "\n            Having therefore advised his brother, his nephew, and his friends one by one to look out each for his own safety as best they could, he embraced and  kissed them all and sent them off. Then going to a retired place he wrote two notes, one of consolation to his sister, and one to Nero's widow Messalina, whom he had intended to marry, commending to her his corpse and his memory. Then he burned all his letters, to prevent them from bringing danger or harm to anyone at the hands of the victor. He also distributed what money he had with him among his servants. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.7358490566037735,
+          "score": 0.7358490566037735,
+          "page": "244",
+          "seq": 256,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "having therefore advised his brother his nephew and his friends one by one to look out each for his own safety as best they could he embraced and",
+              "after": "habitus competit fuisse enim et modicae staturae et male pedatus scambusque 1 traditur munditiarum 1 scambusque turnebus cambusque 2 cf bonnet a l l 13 579 244 отно",
+              "left": "",
+              "right": "kissed them all and sent"
+            }
+          ],
+          "source_span": "habitus competit fuisse enim et modicae staturae et male pedatus scambusque 1 traditur munditiarum 1 scambusque turnebus cambusque 2 cf bonnet a l l 13 579 244 отно kissed them all and sent them off then going to a retired place he wrote two notes one of consolation to his sister and one to nero s widow messalina whom he had intended to marry commending to her his corpse and his memory then he burned all his letters to prevent them from bringing danger or harm to anyone at the hands of the victor he also distributed what money he had with him among his servants"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 25,
+      "reference": "11.1",
+      "path": "/*/*[2]/*/*/*[12]/*[1]",
+      "line": 193,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:11",
+        "n": "1"
+      },
+      "text": "\n            XI. When he had thus made his preparations and was now resolved upon death, learning from a disturbance which meantime arose that those who were beginning to depart and leave the camp were being seized and detained as deserters, he said \"Let us add this one more night to our life\" (these were his very words), and he forbade the offering of violence to anyone. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "244",
+          "seq": 256,
+          "differences": [],
+          "source_span": "xi when he had thus made his preparations and was now resolved upon death learning from a disturbance which meantime arose that those who were beginning to depart and leave the camp were being seized and detained as deserters he said let us add this one more night to our life these were his very words and he forbade the offering of violence to anyone"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 26,
+      "reference": "11.2",
+      "path": "/*/*[2]/*/*/*[12]/*[2]",
+      "line": 196,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:11",
+        "n": "2"
+      },
+      "text": "\n            Leaving the door of his bedroom open until a late hour, he gave the privilege of speaking with him to all who wished to come in. After that quenching his thirst with a draught of cold water, he caught up two daggers, and having tried the point of both of them, put one under his pillow. Then closing the doors, he slept very soundly. When he at last woke up at about daylight, he stabbed himself with a single stroke under the left breast; and now concealing the wound, and now showing it to those who rushed in at his first groan, he breathed his last and was hastily buried (for such were his orders) in the thirty-eighth year of his age and on the ninety-fifth day of his reign. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "244",
+          "seq": 256,
+          "differences": [],
+          "source_span": "leaving the door of his bedroom open until a late hour he gave the privilege of speaking with him to all who wished to come in after that quenching his thirst with a draught of cold water he caught up two daggers and having tried the point of both of them put one under his pillow then closing the doors he slept very soundly when he at last woke up at about daylight he stabbed himself with a single stroke under the left breast and now concealing the wound and now showing it to those who rushed in at his first groan he breathed his last and was hastily buried for such were his orders in the thirty eighth year of his age and on the ninety fifth day of his reign"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 27,
+      "reference": "12.1",
+      "path": "/*/*[2]/*/*/*[13]/*[1]",
+      "line": 202,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:12",
+        "n": "1"
+      },
+      "text": "\n            XII. Neither Otho's person nor his bearing suggested such great courage. He is said to have been of moderate height, splay-footed and bandy-legged, but almost feminine in his care of his person. He  had the hair of his body plucked out, and because of the thinness of his locks wore a wig so carefully fashioned and fitted to his head, that no one suspected it. Moreover, they say that he used to shave every day and smear his face with moist bread, beginning the practice with the appearance of the first down, so as never to have a beard; also that he used to celebrate the rites of Isis publicly in the linen garment prescribed by the cult. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.7024793388429752,
+          "score": 0.7024793388429752,
+          "page": "246",
+          "seq": 258,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "xii neither otho s person nor his bearing suggested such great courage he is said to have been of moderate height splay footed and bandy legged but almost feminine in his care of his person he",
+              "after": "rei p ac libertatis restituendae causa interemptum vitellius i vitelliorum originem alii aliam et quidem diversissimam tradunt partim veterem et nobilem partim vero novam et obscuram atque etiam sordidam quod ego per adulatores obtrectatoresque 246 vitellius",
+              "left": "",
+              "right": "had the hair of his"
+            }
+          ],
+          "source_span": "rei p ac libertatis restituendae causa interemptum vitellius i vitelliorum originem alii aliam et quidem diversissimam tradunt partim veterem et nobilem partim vero novam et obscuram atque etiam sordidam quod ego per adulatores obtrectatoresque 246 vitellius had the hair of his body plucked out and because of the thinness of his locks wore a wig so carefully fashioned and fitted to his head that no one suspected it moreover they say that he used to shave every day and smear his face with moist bread beginning the practice with the appearance of the first down so as never to have a beard also that he used to celebrate the rites of isis publicly in the linen garment prescribed by the cult"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 28,
+      "reference": "12.2",
+      "path": "/*/*[2]/*/*/*[13]/*[2]",
+      "line": 205,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo018.rolfe-eng1:12",
+        "n": "2"
+      },
+      "text": "\n            I am inclined to think that it was because of these habits that a death so little in harmony with his life excited the greater marvel. Many of the soldiers who were present kissed his hands and feet as he lay dead, weeping bitterly and calling him the bravest of men and an incomparable emperor, and then at once slew themselves beside his bier. Many of those who were absent too, on receiving the news attacked and killed one another from sheer grief. In short the greater part of those who had hated him most bitterly while he lived lauded him to the skies when he was dead; and it was even commonly declared that he had put an end to Galba, not so much for the sake of ruling, as of restoring the republic and liberty. \n          ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "246",
+          "seq": 258,
+          "differences": [],
+          "source_span": "i am inclined to think that it was because of these habits that a death so little in harmony with his life excited the greater marvel many of the soldiers who were present kissed his hands and feet as he lay dead weeping bitterly and calling him the bravest of men and an incomparable emperor and then at once slew themselves beside his bier many of those who were absent too on receiving the news attacked and killed one another from sheer grief in short the greater part of those who had hated him most bitterly while he lived lauded him to the skies when he was dead and it was even commonly declared that he had put an end to galba not so much for the sake of ruling as of restoring the republic and liberty"
+        }
+      }
+    }
+  ]
+}

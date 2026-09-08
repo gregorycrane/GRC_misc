@@ -1,0 +1,3367 @@
+{
+  "file": "/Users/gcrane/github/GRC_misc/suet_loeb/suetonius.galba.loeb_eng1.xml",
+  "sha256": "80e2240c42e55753f8e76b1df8862968b8612045c3648fae8506c297338827be",
+  "volume": 2,
+  "chapters": 23,
+  "sections": 49,
+  "notes": 62,
+  "rows": [
+    {
+      "kind": "note",
+      "index": 1,
+      "reference": "1.1",
+      "path": "/*/*[2]/*/*/*/*[2]/*/*/*[1]",
+      "line": 85,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Nero was the last who bore the name because of connection with the family of Augustus; after him it became a designation of rank.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "189",
+          "seq": 201,
+          "differences": [],
+          "source_span": "nero was the last who bore the name because of connection with the family of augustus after him it became a designation of rank"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "191",
+          "context": "caesars ended with nero. that\nthis would be",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 2,
+      "reference": "1.1",
+      "path": "/*/*[2]/*/*/*/*[2]/*/*/*[2]",
+      "line": 85,
+      "attributes": {
+        "place": "margin"
+      },
+      "text": "38 B.C.",
+      "witnesses": {
+        "loeb2-uc1": null
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 3,
+      "reference": "1.1",
+      "path": "/*/*[2]/*/*/*/*[2]/*/*/*[3]",
+      "line": 85,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "\"The Hen Roost.\"",
+      "witnesses": {
+        "loeb2-uc1": null
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 4,
+      "reference": "1.1",
+      "path": "/*/*[2]/*/*/*/*[2]/*/*/*[4]",
+      "line": 85,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Those which they carried in their triumph, according to Pliny, N.H. 15. 136 f.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "189",
+          "seq": 201,
+          "differences": [],
+          "source_span": "those which they carried in their triumph according to pliny n h 15 136 f"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 5,
+      "reference": "1.1",
+      "path": "/*/*[2]/*/*/*/*[2]/*/*/*[5]",
+      "line": 85,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "No such temple is known.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "189",
+          "seq": 201,
+          "differences": [],
+          "source_span": "no such temple is known"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 6,
+      "reference": "2.1",
+      "path": "/*/*[2]/*/*/*/*[3]/*/*/*[2]",
+      "line": 91,
+      "attributes": {
+        "place": "margin"
+      },
+      "text": "68 A.D.",
+      "witnesses": {
+        "loeb2-uc1": null
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 7,
+      "reference": "2.1",
+      "path": "/*/*[2]/*/*/*/*[3]/*/*/*[3]",
+      "line": 91,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "No existing inscription confirms this statement.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "191",
+          "seq": 203,
+          "differences": [],
+          "source_span": "no existing inscription confirms this statement"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 8,
+      "reference": "3.1",
+      "path": "/*/*[2]/*/*/*/*[4]/*[1]/*/*[1]",
+      "line": 97,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "That is, of those of the Sulpicii who bore the surname Galba.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "191",
+          "seq": 203,
+          "differences": [],
+          "source_span": "that is of those of the sulpicii who bore the surname galba"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "193",
+          "context": "bear the surname galba,\nwhy he assumed it",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 9,
+      "reference": "3.1",
+      "path": "/*/*[2]/*/*/*/*[4]/*[1]/*/*[2]",
+      "line": 97,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "The gum of a Syrian plant; see Pliny, N.H. 12. 126.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.8333333333333334,
+          "score": 0.8333333333333334,
+          "page": "191",
+          "seq": 203,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "n h",
+              "after": "ν η",
+              "left": "a syrian plant see pliny",
+              "right": "12 126"
+            }
+          ],
+          "source_span": "the gum of a syrian plant see pliny ν η 12 126"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 10,
+      "reference": "3.2",
+      "path": "/*/*[2]/*/*/*/*[4]/*[2]/*/*[1]",
+      "line": 100,
+      "attributes": {
+        "place": "margin"
+      },
+      "text": "145 B.C.",
+      "witnesses": {
+        "loeb2-uc1": null
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "193",
+          "context": "distinction from servius galba, 145 b...\nwho became consul and",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 11,
+      "reference": "3.2",
+      "path": "/*/*[2]/*/*/*/*[4]/*[2]/*/*[2]",
+      "line": 100,
+      "attributes": {
+        "place": "margin"
+      },
+      "text": "150-136 B.C.",
+      "witnesses": {
+        "loeb2-uc1": null
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 12,
+      "reference": "3.2",
+      "path": "/*/*[2]/*/*/*/*[4]/*[2]/*/*[4]",
+      "line": 100,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "See Nero, iii. 1.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "193",
+          "seq": 205,
+          "differences": [],
+          "source_span": "see nero iii 1"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 13,
+      "reference": "3.3",
+      "path": "/*/*[2]/*/*/*/*[4]/*[3]/*/*",
+      "line": 103,
+      "attributes": {
+        "place": "margin"
+      },
+      "text": "22 A.D.",
+      "witnesses": {
+        "loeb2-uc1": null
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "195",
+          "context": "consulship, and although he 22 a.d.\nwas short of stature",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 14,
+      "reference": "3.4",
+      "path": "/*/*[2]/*/*/*/*[4]/*[4]/*/*",
+      "line": 106,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "That is, after his consulship. Tiberius doubtless suspected him of a desire to enrich himself at the expense of the provincials; cf. Tib. xxxii. 2, at the end.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "193",
+          "seq": 205,
+          "differences": [],
+          "source_span": "that is after his consulship tiberius doubtless suspected him of a desire to enrich himself at the expense of the provincials cf tib xxxii 2 at the end"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 15,
+      "reference": "4.1",
+      "path": "/*/*[2]/*/*/*/*[5]/*[1]/*/*[1]",
+      "line": 112,
+      "attributes": {
+        "place": "margin"
+      },
+      "text": "Dec. 24, 3 B.C.",
+      "witnesses": {
+        "loeb2-uc1": null
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "195",
+          "context": "was born in the dec. 24,\nconsulship of marcus valerius",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 16,
+      "reference": "4.2",
+      "path": "/*/*[2]/*/*/*/*[5]/*[2]/*/*[1]",
+      "line": 115,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "The usual procedure, to avert the evil omen.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "195",
+          "seq": 207,
+          "differences": [],
+          "source_span": "the usual procedure to avert the evil omen"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "197",
+          "context": "a stroke of lightning,a\nand an eagle snatched",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 17,
+      "reference": "4.2",
+      "path": "/*/*[2]/*/*/*/*[5]/*[2]/*/*[2]",
+      "line": 115,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Proverbial for \"never,\" like the Greek Kalends (Aug. lxxxvii. 1).",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.9,
+          "score": 0.9,
+          "page": "195",
+          "seq": 207,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "aug",
+              "after": "ang",
+              "left": "never like the greek kalends",
+              "right": "lxxxvii 1"
+            }
+          ],
+          "source_span": "proverbial for never like the greek kalends ang lxxxvii 1"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 18,
+      "reference": "5.1",
+      "path": "/*/*[2]/*/*/*/*[6]/*[1]/*/*",
+      "line": 127,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "To marry and rear a family was regarded as one of the duties of a good citizen.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "197",
+          "seq": 209,
+          "differences": [],
+          "source_span": "to marry and rear a family was regarded as one of the duties of a good citizen"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "199",
+          "context": "a husband's duties,a\nbut after losing his",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 19,
+      "reference": "6.1",
+      "path": "/*/*[2]/*/*/*/*[7]/*[1]/*/*[1]",
+      "line": 136,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Cf. Nero, xi. 2.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "197",
+          "seq": 209,
+          "differences": [],
+          "source_span": "cf nero xi 2"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "199",
+          "context": "elephants walking the rope. then he\ngoverned the",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 20,
+      "reference": "6.1",
+      "path": "/*/*[2]/*/*/*/*[7]/*[1]/*/*[2]",
+      "line": 136,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "That is to say, entering office on January 1, and with his colleague, L. Cornelius Sulla, giving his name to the year.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "197",
+          "seq": 209,
+          "differences": [],
+          "source_span": "that is to say entering office on january 1 and with his colleague l cornelius sulla giving his name to the year"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 21,
+      "reference": "6.1",
+      "path": "/*/*[2]/*/*/*/*[7]/*[1]/*/*[3]",
+      "line": 136,
+      "attributes": {
+        "place": "margin"
+      },
+      "text": "33 A.D.",
+      "witnesses": {
+        "loeb2-uc1": null
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 22,
+      "reference": "6.1",
+      "path": "/*/*[2]/*/*/*/*[7]/*[1]/*/*[4]",
+      "line": 136,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Either Suetonius is in error or the manuscripts; the name should be Gnaeus.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "198",
+          "seq": 210,
+          "differences": [],
+          "source_span": "either suetonius is in error or the manuscripts the name should be gnaeus"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 23,
+      "reference": "6.3",
+      "path": "/*/*[2]/*/*/*/*[7]/*[3]/*/*[1]",
+      "line": 143,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "See Calig. xliii. and xliv.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "199",
+          "seq": 211,
+          "differences": [],
+          "source_span": "see calig xliii and xliv"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "201",
+          "context": "and when gaius\narrived, galba and his army",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 24,
+      "reference": "6.3",
+      "path": "/*/*[2]/*/*/*/*[7]/*[3]/*/*[2]",
+      "line": 143,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Cf. Calig. xxvi. 2.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "199",
+          "seq": 211,
+          "differences": [],
+          "source_span": "cf calig xxvi 2"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 25,
+      "reference": "7.1",
+      "path": "/*/*[2]/*/*/*/*[8]/*[1]/*/*[2]",
+      "line": 149,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Except in special cases, the governors were appointed by lot from among those who were eligible.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "201",
+          "seq": 213,
+          "differences": [],
+          "source_span": "except in special cases the governors were appointed by lot from among those who were eligible"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 26,
+      "reference": "7.2",
+      "path": "/*/*[2]/*/*/*/*[8]/*[2]/*/*",
+      "line": 152,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "The modius was 8.75 litres.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "201",
+          "seq": 213,
+          "differences": [],
+          "source_span": "the modius was 8 75 litres"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "203",
+          "context": "hundred denarii a peck\nof wheat which was",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 27,
+      "reference": "8.1",
+      "path": "/*/*[2]/*/*/*/*[9]/*[1]/*/*[1]",
+      "line": 158,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "See note on Jul. lxxix. 3.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "201",
+          "seq": 213,
+          "differences": [],
+          "source_span": "see note on jul lxxix 3"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "203",
+          "context": "member of the fifteen, of the brotherhood\nof",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 28,
+      "reference": "8.1",
+      "path": "/*/*[2]/*/*/*/*[9]/*[1]/*/*[2]",
+      "line": 158,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "The sodales Titii were an ancient priesthood of uncertain origin. The tradition arose that they were established to keep up the ancient Sabine worship, and named from Titus Tatius.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "201",
+          "seq": 213,
+          "differences": [],
+          "source_span": "the sodales titii were an ancient priesthood of uncertain origin the tradition arose that they were established to keep up the ancient sabine worship and named from titus tatius"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 29,
+      "reference": "8.1",
+      "path": "/*/*[2]/*/*/*/*[9]/*[1]/*/*[3]",
+      "line": 158,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "See note on Claud. vi. 2.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "347",
+          "seq": 359,
+          "differences": [],
+          "source_span": "see note on claud vi 2"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 30,
+      "reference": "8.1",
+      "path": "/*/*[2]/*/*/*/*[9]/*[1]/*/*[4]",
+      "line": 158,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "So as to be able to leave the country on short notice.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "201",
+          "seq": 213,
+          "differences": [],
+          "source_span": "so as to be able to leave the country on short notice"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 31,
+      "reference": "8.1",
+      "path": "/*/*[2]/*/*/*/*[9]/*[1]/*/*[5]",
+      "line": 158,
+      "attributes": {
+        "place": "margin"
+      },
+      "text": "60 A.D.",
+      "witnesses": {
+        "loeb2-uc1": null
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "note",
+      "index": 32,
+      "reference": "9.2",
+      "path": "/*/*[2]/*/*/*/*[10]/*[2]/*/*[1]",
+      "line": 170,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "See note on Claud. xxiv. 1.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "203",
+          "seq": 215,
+          "differences": [],
+          "source_span": "see note on claud xxiv 1"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "205",
+          "context": "nero to his agents.\nhe\nwas encouraged too",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 33,
+      "reference": "9.2",
+      "path": "/*/*[2]/*/*/*/*[10]/*[2]/*/*[3]",
+      "line": 170,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Such predictions, like the responses of oracles, were in verse.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.9,
+          "score": 0.9,
+          "page": "205",
+          "seq": 217,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "verse",
+              "after": "instead",
+              "left": "responses of oracles were in",
+              "right": ""
+            }
+          ],
+          "source_span": "such predictions like the responses of oracles were in instead"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 34,
+      "reference": "10.1",
+      "path": "/*/*[2]/*/*/*/*[11]/*[1]/*/*",
+      "line": 176,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Instead of the emperor, as heretofore.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "205",
+          "seq": 217,
+          "differences": [],
+          "source_span": "instead of the emperor as heretofore"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 35,
+      "reference": "10.3",
+      "path": "/*/*[2]/*/*/*/*[11]/*[3]/*/*[1]",
+      "line": 182,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Evocati were soldiers who, after serving their time, were invited to continue their service. It is here an honorary title.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "205",
+          "seq": 217,
+          "differences": [],
+          "source_span": "evocati were soldiers who after serving their time were invited to continue their service it is here an honorary title"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "207",
+          "context": "the title of volunteers\nand keep guard before",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 36,
+      "reference": "10.3",
+      "path": "/*/*[2]/*/*/*/*[11]/*[3]/*/*[2]",
+      "line": 182,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "See note on Jul. xxxiii.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "212",
+          "seq": 224,
+          "differences": [],
+          "source_span": "see note on jul xxxiii"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 37,
+      "reference": "10.5",
+      "path": "/*/*[2]/*/*/*/*[11]/*[5]/*/*[2]",
+      "line": 188,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "See chap. x. 1.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "207",
+          "seq": 219,
+          "differences": [],
+          "source_span": "see chap x 1"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 38,
+      "reference": "11.1",
+      "path": "/*/*[2]/*/*/*/*[12]/*/*/*[1]",
+      "line": 194,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "See note on chap. i.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "207",
+          "seq": 219,
+          "differences": [],
+          "source_span": "see note on chap i"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "209",
+          "context": "assumed that of caesar.b\nhe then began his",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 39,
+      "reference": "12.1",
+      "path": "/*/*[2]/*/*/*/*[13]/*[1]/*/*",
+      "line": 200,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "See note on Claud. xxiv. 1.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "203",
+          "seq": 215,
+          "differences": [],
+          "source_span": "see note on claud xxiv 1"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 40,
+      "reference": "12.2",
+      "path": "/*/*[2]/*/*/*/*[13]/*[2]/*/*[1]",
+      "line": 203,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Cf. Aug. xxiv. 2; Calig. xlviii. 1.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "209",
+          "seq": 221,
+          "differences": [],
+          "source_span": "cf aug xxiv 2 calig xlviii 1"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "211",
+          "context": "but even decimated them. he also disbanded a",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 41,
+      "reference": "12.2",
+      "path": "/*/*[2]/*/*/*/*[13]/*[2]/*/*[2]",
+      "line": 203,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "See Aug. xlix. 1; Calig. lviii. 3.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "209",
+          "seq": 221,
+          "differences": [],
+          "source_span": "see aug xlix 1 calig lviii 3"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 42,
+      "reference": "12.3",
+      "path": "/*/*[2]/*/*/*/*[13]/*[3]/*/*[1]",
+      "line": 206,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Doubtless many of them were false or exaggerated. Galba's frugality was naturally regarded as stinginess by a people accustomed to a prince like Nero; see Nero, xxxi. 1.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "209",
+          "seq": 221,
+          "differences": [],
+          "source_span": "doubtless many of them were false or exaggerated galba s frugality was naturally regarded as stinginess by a people accustomed to a prince like nero see nero xxxi 1"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "211",
+          "context": "whether truly or falsely: d that\nwhen an unusually",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 43,
+      "reference": "12.3",
+      "path": "/*/*[2]/*/*/*/*[13]/*[3]/*/*[3]",
+      "line": 206,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Plutarch, Galba, xvi., gives the story quite a different aspect, saying that the gift was of gold pieces, and that Galba said that it came from his own pocket, and not from the public funds.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "211",
+          "seq": 223,
+          "differences": [],
+          "source_span": "plutarch galba xvi gives the story quite a different aspect saying that the gift was of gold pieces and that galba said that it came from his own pocket and not from the public funds"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 44,
+      "reference": "13.1",
+      "path": "/*/*[2]/*/*/*/*[14]/*/*/*[2]",
+      "line": 213,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "The text is uncertain, but obviously the song ridiculed a stingy old countryman.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "211",
+          "seq": 223,
+          "differences": [],
+          "source_span": "the text is uncertain but obviously the song ridiculed a stingy old countryman"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "213",
+          "context": "onesimus from his farm\" b\nall the spectators at",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 45,
+      "reference": "14.1",
+      "path": "/*/*[2]/*/*/*/*[15]/*[1]/*/*",
+      "line": 220,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Cf. the inimitable sentence of Tac. (Hist. 1. 49) maior privatus visus, dum privatus, et omnium consensu capax imperii, nisi imperasset.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "211",
+          "seq": 223,
+          "differences": [],
+          "source_span": "cf the inimitable sentence of tac hist 1 49 maior privatus visus dum privatus et omnium consensu capax imperii nisi imperasset"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "213",
+          "context": "being an excellent\nprince; but he was by",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 46,
+      "reference": "14.2",
+      "path": "/*/*[2]/*/*/*/*[15]/*[2]/*/*[1]",
+      "line": 223,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Prefect of the praetorian guard.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "212",
+          "seq": 224,
+          "differences": [],
+          "source_span": "prefect of the praetorian guard"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "213",
+          "context": "prefect of the guard and intolerably\nhaughty and",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 47,
+      "reference": "14.2",
+      "path": "/*/*[2]/*/*/*/*[15]/*[2]/*/*[2]",
+      "line": 223,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "See note on Jul. xxxiii.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "212",
+          "seq": 224,
+          "differences": [],
+          "source_span": "see note on jul xxxiii"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 48,
+      "reference": "14.3",
+      "path": "/*/*[2]/*/*/*/*[15]/*[3]/*/*[1]",
+      "line": 226,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "See note on Claud. xv. 1.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "213",
+          "seq": 225,
+          "differences": [],
+          "source_span": "see note on claud xv 1"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "215",
+          "context": "privileges of threefold paternity a to hardly one\nor",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 49,
+      "reference": "14.3",
+      "path": "/*/*[2]/*/*/*/*[15]/*[3]/*/*[2]",
+      "line": 226,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "See Claud. xxiii. 1, and the note.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "213",
+          "seq": 225,
+          "differences": [],
+          "source_span": "see claud xxiii 1 and the note"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 50,
+      "reference": "15.1",
+      "path": "/*/*[2]/*/*/*/*[16]/*[1]/*/*",
+      "line": 232,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "These offices were numerous and varied. Since his apparent purpose was to check ambition and avarice, the senatorial offices referred to were probably military commands and governorships, and the equestrian, procuratorships; see note on Claud. xxxiv. 1.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "213",
+          "seq": 225,
+          "differences": [],
+          "source_span": "these offices were numerous and varied since his apparent purpose was to check ambition and avarice the senatorial offices referred to were probably military commands and governorships and the equestrian procuratorships see note on claud xxxiv 1"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "215",
+          "context": "to senators and knights to a period\nof",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 51,
+      "reference": "16.1",
+      "path": "/*/*[2]/*/*/*/*[17]/*[1]/*/*[1]",
+      "line": 241,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "According to Plutarch (Galba, 2) it was Nymphidius Sabinus, prefect of the praetorian guard, who made this promise. Praepositi would include those who followed his example.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "215",
+          "seq": 227,
+          "differences": [],
+          "source_span": "according to plutarch galba 2 it was nymphidius sabinus prefect of the praetorian guard who made this promise praepositi would include those who followed his example"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "217",
+          "context": "for although their officersa had promised\nthem a",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 52,
+      "reference": "16.1",
+      "path": "/*/*[2]/*/*/*/*[17]/*[1]/*/*[2]",
+      "line": 241,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "See chap. xi.",
+      "witnesses": {
+        "loeb2-uc1": null
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 53,
+      "reference": "18.1",
+      "path": "/*/*[2]/*/*/*/*[19]/*[1]/*/*",
+      "line": 256,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "As he was on his way to Rome. See chap. iv. 3.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.6666666666666666,
+          "score": 0.6666666666666666,
+          "page": "217",
+          "seq": 229,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "see chap iv 3",
+              "after": "the fire should have",
+              "left": "on his way to rome",
+              "right": ""
+            }
+          ],
+          "source_span": "as he was on his way to rome the fire should have"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "219",
+          "context": "route in\nevery town, an ox, maddened by",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 54,
+      "reference": "18.2",
+      "path": "/*/*[2]/*/*/*/*[19]/*[2]/*/*",
+      "line": 259,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "The fire should have been blazing brightly and a youth clad in white should have carried the incense in a proper box (acerra, see chap. viii.), and the wine in a more costly and appropriate vessel.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "217",
+          "seq": 229,
+          "differences": [],
+          "source_span": "the fire should have been blazing brightly and a youth clad in white should have carried the incense in a proper box acerra see chap viii and the wine in a more costly and appropriate vessel"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 55,
+      "reference": "18.3",
+      "path": "/*/*[2]/*/*/*/*[19]/*[3]/*/*[2]",
+      "line": 262,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Of Piso.",
+      "witnesses": {
+        "loeb2-uc1": null
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 56,
+      "reference": "19.1",
+      "path": "/*/*[2]/*/*/*/*[20]/*[1]/*/*",
+      "line": 269,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Of the praetorian guard.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "212",
+          "seq": 224,
+          "differences": [],
+          "source_span": "of the praetorian guard"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 57,
+      "reference": "20.1",
+      "path": "/*/*[2]/*/*/*/*[21]/*[1]/*/*[1]",
+      "line": 278,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Which he had hitherto refused; see chap. xvi. 1.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "221",
+          "seq": 233,
+          "differences": [],
+          "source_span": "which he had hitherto refused see chap xvi 1"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "223",
+          "context": "even promised them largess. but the more general",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 58,
+      "reference": "20.1",
+      "path": "/*/*[2]/*/*/*/*[21]/*[1]/*/*[2]",
+      "line": 278,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "See note on Calig. lviii. 2.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "221",
+          "seq": 233,
+          "differences": [],
+          "source_span": "see note on calig lviii 2"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 59,
+      "reference": "20.2",
+      "path": "/*/*[2]/*/*/*/*[21]/*[2]/*/*[1]",
+      "line": 281,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "In the Forum; see Aug. lvii. 1, and Index.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "221",
+          "seq": 233,
+          "differences": [],
+          "source_span": "in the forum see aug lvii 1 and index"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "223",
+          "context": "the lake of curtius and was\nleft lying",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 60,
+      "reference": "20.2",
+      "path": "/*/*[2]/*/*/*/*[21]/*[2]/*/*[3]",
+      "line": 282,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "Iliad, 5. 254; Odyss. 21. 426.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "222",
+          "seq": 234,
+          "differences": [],
+          "source_span": "iliad 5 254 odyss 21 426"
+        }
+      },
+      "anchor_evidence": [],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 61,
+      "reference": "22.1",
+      "path": "/*/*[2]/*/*/*/*[23]/*/*/*",
+      "line": 295,
+      "attributes": {
+        "resp": "editor"
+      },
+      "text": "The meaning of this passage is uncertain and the interpretations various; see the long note in the ed. of Baumgarten-Crusius. The meaning of super manus is particularly dark; the most plausible suggestion is that it is equivalent to ante se.",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.5345853658536586,
+          "score": 0.5365853658536586,
+          "page": "224",
+          "seq": 236,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "meaning of this passage is uncertain and the interpretations various see the long note in the ed of baumgarten",
+              "after": "senate as soon as it was allowed to do so voted him a statue standing upon a column adorned garten",
+              "left": "the",
+              "right": "crusius the meaning of super"
+            }
+          ],
+          "source_span": "the senate as soon as it was allowed to do so voted him a statue standing upon a column adorned garten crusius the meaning of super manus is particularly dark the most plausible suggestion is that it is equivalent to ante se"
+        }
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "225",
+          "context": "who waited on\nhim. he was more inclined",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "explicit resp"
+    },
+    {
+      "kind": "note",
+      "index": 62,
+      "reference": "23.1",
+      "path": "/*/*[2]/*/*/*/*[24]/*/*/*[1]",
+      "line": 301,
+      "attributes": {
+        "place": "margin"
+      },
+      "text": "69 A.D.",
+      "witnesses": {
+        "loeb2-uc1": null
+      },
+      "anchor_evidence": [
+        {
+          "source": "loeb2-uc1",
+          "page": "225",
+          "context": "in the seventy-third 69 a.d.\nyear of his age",
+          "marker_support": false
+        }
+      ],
+      "anchor_status": "unresolved",
+      "attribution_status": "unattributed"
+    },
+    {
+      "kind": "section",
+      "index": 1,
+      "reference": "1.1",
+      "path": "/*/*[2]/*/*/*/*[2]/*",
+      "line": 84,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:1",
+        "n": "1"
+      },
+      "text": "\n      I. THE race of the Caesars ended with Nero. That this would be so was shown by many portents and especially by two very significant ones. Years before, as Livia was returning to her estate near Veii, immediately after her marriage with Augustus, an eagle  which flew by dropped into her lap a white hen, holding in its beak a sprig of laurel, just as the eagle had carried it off. Livia resolved to rear the fowl and plant the sprig, whereupon such a great brood of chickens was hatched that to this day the villa is called Ad Gallinas, and such a grove of laurel sprang up, that the Caesars gathered their laurels from it when they were going to celebrate triumphs. Moreover it was the habit of those who triumphed to plant other branches at once in that same place, and it was observed that just before the death of each of them the tree which he had planted withered. Now in Nero's last year the whole grove died from the root up, as well as all the hens. Furthermore, when shortly afterwards the temple of the Caesars was struck by lightning, the heads fell from all the statues at the same time, and his sceptre, too, was dashed from the hand of Augustus. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.992,
+          "score": 1.0,
+          "page": "190",
+          "seq": 202,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "38 в с",
+              "left": "marriage with augustus an eagle",
+              "right": "which flew by dropped into"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "d",
+              "left": "the temple of the caesars",
+              "right": "was struck by lightning the"
+            }
+          ],
+          "source_span": "i the race of the caesars ended with nero that this would be so was shown by many portents and especially by two very significant ones years before as livia was returning to her estate near veii immediately after her marriage with augustus an eagle 38 в с which flew by dropped into her lap a white hen holding in its beak a sprig of laurel just as the eagle had carried it off livia resolved to rear the fowl and plant the sprig whereupon such a great brood of chickens was hatched that to this day the villa is called ad gallinas and such a grove of laurel sprang up that the caesars gathered their laurels from it when they were going to celebrate triumphs moreover it was the habit of those who triumphed to plant other branches at once in that same place and it was observed that just before the death of each of them the tree which he had planted withered now in nero s last year the whole grove died from the root up as well as all the hens furthermore when shortly afterwards the temple of the caesars d was struck by lightning the heads fell from all the statues at the same time and his sceptre too was dashed from the hand of augustus"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 2,
+      "reference": "2.1",
+      "path": "/*/*[2]/*/*/*/*[3]/*",
+      "line": 90,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:2",
+        "n": "1"
+      },
+      "text": "\n       II. Nero was succeeded by Galba, who was related  in no degree to the house of the Caesars, although unquestionably of noble origin and of an old and powerful family; for he always added to the inscriptions on his statues that he was the great-grandson of Quintus Catulus Capitolinus, and when he became emperor he even displayed a family tree in his hall in which he carried back his ancestry on his father's side to Jupiter and on his mother's to Pasiphae, the wife of Minos. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.9735280898876404,
+          "score": 0.9775280898876404,
+          "page": "192",
+          "seq": 204,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "68 a d",
+              "left": "by galba who was related",
+              "right": "in no degree to the"
+            },
+            {
+              "op": "replace",
+              "before": "great grandson",
+              "after": "greatgrandson",
+              "left": "statues that he was the",
+              "right": "of quintus catulus capitolinus and"
+            }
+          ],
+          "source_span": "ii nero was succeeded by galba who was related 68 a d in no degree to the house of the caesars although unquestionably of noble origin and of an old and powerful family for he always added to the inscriptions on his statues that he was the greatgrandson of quintus catulus capitolinus and when he became emperor he even displayed a family tree in his hall in which he carried back his ancestry on his father s side to jupiter and on his mother s to pasiphae the wife of minos"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 3,
+      "reference": "3.1",
+      "path": "/*/*[2]/*/*/*/*[4]/*[1]",
+      "line": 96,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:3",
+        "n": "1"
+      },
+      "text": "\n      III. It would be a long story to give in detail his illustrious ancestors and the honorary inscriptions of the entire race, but I shall give a brief account of his immediate family. It is uncertain who was the first of the Sulpicii to bear the surname Galba, why he assumed it, and whence it was derived. Some think that it was because after having for a long time unsuccessfully besieged a town in Spain, he at last set fire to it by torches smeared with galbanum; others because during a long illness he made constant use of galbeum, that is to say of remedies wrapped in wool; still others, because he was a very fat man, such as the Gauls term galba, or because he was, on the contrary, as slender as the insects called galbae, which breed in oak trees. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "192",
+          "seq": 204,
+          "differences": [],
+          "source_span": "iii it would be a long story to give in detail his illustrious ancestors and the honorary inscriptions of the entire race but i shall give a brief account of his immediate family it is uncertain who was the first of the sulpicii to bear the surname galba why he assumed it and whence it was derived some think that it was because after having for a long time unsuccessfully besieged a town in spain he at last set fire to it by torches smeared with galbanum others because during a long illness he made constant use of galbeum that is to say of remedies wrapped in wool still others because he was a very fat man such as the gauls term galba or because he was on the contrary as slender as the insects called galbae which breed in oak trees"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 4,
+      "reference": "3.2",
+      "path": "/*/*[2]/*/*/*/*[4]/*[2]",
+      "line": 99,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:3",
+        "n": "2"
+      },
+      "text": "\n      The family acquired distinction from Servius Galba,  who became consul and was decidedly the most eloquent speaker of his time. This man, they say, was the cause of the war with Viriathus, because  while governing Spain as propraetor, he treacherously massacred thirty thousand of the Lusitanians. His grandson had been one of Caesar's lieutenants in Gaul, but angered because his commander caused his defeat for the consulship, he joined the conspiracy  with Brutus and Cassius, and was consequently condemned to death by the Pedian law. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.8368372093023255,
+          "score": 0.8488372093023255,
+          "page": "193",
+          "seq": 205,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "145 b",
+              "left": "acquired distinction from servius galba",
+              "right": "who became consul and was"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "150 136",
+              "left": "the war with viriathus because",
+              "right": "while governing spain as propraetor"
+            },
+            {
+              "op": "replace",
+              "before": "with brutus and cassius and was consequently condemned to death by",
+              "after": "193",
+              "left": "consulship he joined the conspiracy",
+              "right": "the pedian law"
+            },
+            {
+              "op": "replace",
+              "before": "pedian law",
+              "after": "lives of",
+              "left": "condemned to death by the",
+              "right": ""
+            }
+          ],
+          "source_span": "the family acquired distinction from servius galba 145 b who became consul and was decidedly the most eloquent speaker of his time this man they say was the cause of the war with viriathus because 150 136 while governing spain as propraetor he treacherously massacred thirty thousand of the lusitanians his grandson had been one of caesar s lieutenants in gaul but angered because his commander caused his defeat for the consulship he joined the conspiracy 193 the lives of"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 5,
+      "reference": "3.3",
+      "path": "/*/*[2]/*/*/*/*[4]/*[3]",
+      "line": 102,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:3",
+        "n": "3"
+      },
+      "text": "\n      From him were descended the grandfather and the father of the emperor Galba. The former, who was more eminent for his learning than for his rank—for he did not advance beyond the grade of praetor—published a voluminous and painstaking history. The father attained the consulship, and although he  was short of stature and even hunchbacked, besides being only an indifferent speaker, was an industrious pleader at the bar. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.9674285714285714,
+          "score": 0.9714285714285714,
+          "page": "194",
+          "seq": 206,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "praetor published",
+              "after": "praetorpublished",
+              "left": "advance beyond the grade of",
+              "right": "a voluminous and painstaking history"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "22 a d",
+              "left": "the consulship and although he",
+              "right": "was short of stature and"
+            }
+          ],
+          "source_span": "from him were descended the grandfather and the father of the emperor galba the former who was more eminent for his learning than for his rank for he did not advance beyond the grade of praetorpublished a voluminous and painstaking history the father attained the consulship and although he 22 a d was short of stature and even hunchbacked besides being only an indifferent speaker was an industrious pleader at the bar"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 6,
+      "reference": "3.4",
+      "path": "/*/*[2]/*/*/*/*[4]/*[4]",
+      "line": 105,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:3",
+        "n": "4"
+      },
+      "text": "\n      He married Mummia Achaica, the granddaughter of Catulus and great-granddaughter of Lucius Mummius who destroyed Corinth; and later Livia Ocellina, a very rich and beautiful woman, who however is thought to have sought marriage with him because of his high rank, and the more eagerly when, in response to her frequent advances, he took off his robe in private and showed her his deformity, so as not to seem to deceive her by concealing it. By Achaica he had two sons, Gaius and Servius. Gaius, who was the elder, left Rome after squandering the greater part of his estate, and committed suicide because Tiberius would not allow him to take part in the allotment of the provinces in his year. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.9814710743801653,
+          "score": 0.9834710743801653,
+          "page": "194",
+          "seq": 206,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "great granddaughter",
+              "after": "greatgranddaughter",
+              "left": "the granddaughter of catulus and",
+              "right": "of lucius mummius who destroyed"
+            }
+          ],
+          "source_span": "he married mummia achaica the granddaughter of catulus and greatgranddaughter of lucius mummius who destroyed corinth and later livia ocellina a very rich and beautiful woman who however is thought to have sought marriage with him because of his high rank and the more eagerly when in response to her frequent advances he took off his robe in private and showed her his deformity so as not to seem to deceive her by concealing it by achaica he had two sons gaius and servius gaius who was the elder left rome after squandering the greater part of his estate and committed suicide because tiberius would not allow him to take part in the allotment of the provinces in his year"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 7,
+      "reference": "4.1",
+      "path": "/*/*[2]/*/*/*/*[5]/*[1]",
+      "line": 111,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:4",
+        "n": "1"
+      },
+      "text": "\n      IV. The emperor Servius Galba was born in the  consulship of Marcus Valerius Messala and Gnaeus Lentulus, on the ninth day before the Kalends of January, in a country house situated on a hill near Tarracina, on the left as you go towards Fundi. Adopted by his stepmother Livia, he took her name and the surname Ocella, and also changed his forename; for he used Lucius, instead of Servius, from that time until he became emperor. It is well  known that when he was still a boy and called to pay his respects to Augustus with others of his age, the emperor pinched his cheek and said in Greek: \"Thou too, child, wilt have a nibble at this power of mine.\" Tiberius too, when he heard that Galba was destined to be emperor, but in his old age, said: \"Well, let him live then, since that does not concern me.\" \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.5493333333333333,
+          "score": 0.5533333333333333,
+          "page": "195",
+          "seq": 207,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "dec 24",
+              "left": "galba was born in the",
+              "right": "consulship of marcus valerius messala"
+            },
+            {
+              "op": "replace",
+              "before": "known that when he was still a boy and called to pay his respects to augustus with others",
+              "after": "195 the lives",
+              "left": "became emperor it is well",
+              "right": "of his age the emperor"
+            },
+            {
+              "op": "delete",
+              "before": "his age",
+              "after": "",
+              "left": "to augustus with others of",
+              "right": "the emperor pinched his cheek"
+            },
+            {
+              "op": "replace",
+              "before": "emperor pinched his cheek and said",
+              "after": "caesars book vii salutanti se inter aequales apprehensa buccula dixisse καὶ σὺ τέκνον τῆς ἀρχῆς ἡμῶν παρατρώξῃ 1 sed et tiberius cum comperisset imperaturum eum verum",
+              "left": "others of his age the",
+              "right": "in greek thou too child"
+            },
+            {
+              "op": "replace",
+              "before": "greek thou too child wilt have a nibble at this power of mine tiberius too when he heard that galba was destined to be emperor but",
+              "after": "senecta vivat sane ait quando id ad 2 nos nihil pertinet avo quoque eius fulgur procuranti cum exta de manibus aquila rapuisset et",
+              "left": "his cheek and said in",
+              "right": "in his old age said"
+            },
+            {
+              "op": "replace",
+              "before": "his old age said well let him live then since that does not concern me",
+              "after": "frugiferam quercum contulisset responsum est summum sed serum imperium portendi familiae et ille irridens sane",
+              "left": "to be emperor but in",
+              "right": ""
+            }
+          ],
+          "source_span": "iv the emperor servius galba was born in the dec 24 consulship of marcus valerius messala and gnaeus lentulus on the ninth day before the kalends of january in a country house situated on a hill near tarracina on the left as you go towards fundi adopted by his stepmother livia he took her name and the surname ocella and also changed his forename for he used lucius instead of servius from that time until he became emperor it is well 195 the lives of the caesars book vii salutanti se inter aequales apprehensa buccula dixisse καὶ σὺ τέκνον τῆς ἀρχῆς ἡμῶν παρατρώξῃ 1 sed et tiberius cum comperisset imperaturum eum verum in senecta vivat sane ait quando id ad 2 nos nihil pertinet avo quoque eius fulgur procuranti cum exta de manibus aquila rapuisset et in frugiferam quercum contulisset responsum est summum sed serum imperium portendi familiae et ille irridens sane"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 8,
+      "reference": "4.2",
+      "path": "/*/*[2]/*/*/*/*[5]/*[2]",
+      "line": 114,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:4",
+        "n": "2"
+      },
+      "text": "\n      Again, when Galba's grandfather was busy with a sacrifice for a stroke of lightning, and an eagle snatched the intestines from his hand and carried them to an oak full of acorns, the prediction was made that the highest dignity would come to the family, but late; whereupon he said with a laugh: \"Very likely, when a mule has a foal.\" Afterwards when Galba was beginning his revolt, nothing gave him so much encouragement as the foaling of a mule, and while the rest were horrified and looked on it as an unfavourable omen, he alone regarded it as most propitious, remembering the sacrifice and his grandfather's saying. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.990909090909091,
+          "score": 0.990909090909091,
+          "page": "196",
+          "seq": 208,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "a",
+              "left": "for a stroke of lightning",
+              "right": "and an eagle snatched the"
+            },
+            {
+              "op": "delete",
+              "before": "come",
+              "after": "",
+              "left": "that the highest dignity would",
+              "right": "to the family but late"
+            }
+          ],
+          "source_span": "again when galba s grandfather was busy with a sacrifice for a stroke of lightning a and an eagle snatched the intestines from his hand and carried them to an oak full of acorns the prediction was made that the highest dignity would to the family but late whereupon he said with a laugh very likely when a mule has a foal afterwards when galba was beginning his revolt nothing gave him so much encouragement as the foaling of a mule and while the rest were horrified and looked on it as an unfavourable omen he alone regarded it as most propitious remembering the sacrifice and his grandfather s saying"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 9,
+      "reference": "4.3",
+      "path": "/*/*[2]/*/*/*/*[5]/*[3]",
+      "line": 117,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:4",
+        "n": "3"
+      },
+      "text": "\n      When he assumed the gown of manhood, he dreamt that Fortune said that she was tired of standing before his door, and that unless she were quickly admitted, she would fall a prey to the first comer. When he awoke, opening the door of the hall, he found close by the threshold a bronze statue of Fortune more than a cubit high. This he carried in his arms to Tusculum, where he usually spent the summer, and consecrated it in a room of his house; and from that time on he honoured it with monthly sacrifices and a yearly vigil. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "196",
+          "seq": 208,
+          "differences": [],
+          "source_span": "when he assumed the gown of manhood he dreamt that fortune said that she was tired of standing before his door and that unless she were quickly admitted she would fall a prey to the first comer when he awoke opening the door of the hall he found close by the threshold a bronze statue of fortune more than a cubit high this he carried in his arms to tusculum where he usually spent the summer and consecrated it in a room of his house and from that time on he honoured it with monthly sacrifices and a yearly vigil"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 10,
+      "reference": "4.4",
+      "path": "/*/*[2]/*/*/*/*[5]/*[4]",
+      "line": 120,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:4",
+        "n": "4"
+      },
+      "text": "\n      Even before he reached middle life, he persisted in keeping up an old and forgotten custom of his country, which survived only in his own house-hold, of having his freedmen and slaves appear before him twice a day in a body, greeting him in the morning and bidding him farewell at evening, one by one. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.5852857142857143,
+          "score": 0.5892857142857143,
+          "page": "198",
+          "seq": 210,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "even before he reached middle life he persisted in keeping up an old",
+              "after": "cf nero xi 2 that is to say entering office on january 1",
+              "left": "",
+              "right": "and forgotten custom of his"
+            },
+            {
+              "op": "replace",
+              "before": "forgotten custom of",
+              "after": "with",
+              "left": "keeping up an old and",
+              "right": "his country which survived only"
+            },
+            {
+              "op": "replace",
+              "before": "country which survived only in",
+              "after": "colleague l cornelius sulla giving",
+              "left": "and forgotten custom of his",
+              "right": "his own house hold of"
+            },
+            {
+              "op": "replace",
+              "before": "own house",
+              "after": "name to the year 198 galba",
+              "left": "which survived only in his",
+              "right": "hold of having his freedmen"
+            }
+          ],
+          "source_span": "cf nero xi 2 that is to say entering office on january 1 and with his colleague l cornelius sulla giving his name to the year 198 galba hold of having his freedmen and slaves appear before him twice a day in a body greeting him in the morning and bidding him farewell at evening one by one"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 11,
+      "reference": "5.1",
+      "path": "/*/*[2]/*/*/*/*[6]/*[1]",
+      "line": 126,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:5",
+        "n": "1"
+      },
+      "text": "\n      V. Among other liberal studies he applied himself to the law. He also assumed a husband's duties, but after losing his wife Lepida and two sons whom he had by her, he remained a widower. And he could not be tempted afterwards by any match, not even with Agrippina, who no sooner lost Domitius by death than she set her cap for Galba so obviously, even before the death of his wife, that Lepida's mother scolded her roundly before a company of matrons and went so far as to slap her. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.998,
+          "score": 1.0,
+          "page": "198",
+          "seq": 210,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "a",
+              "left": "assumed a husband s duties",
+              "right": "but after losing his wife"
+            }
+          ],
+          "source_span": "v among other liberal studies he applied himself to the law he also assumed a husband s duties a but after losing his wife lepida and two sons whom he had by her he remained a widower and he could not be tempted afterwards by any match not even with agrippina who no sooner lost domitius by death than she set her cap for galba so obviously even before the death of his wife that lepida s mother scolded her roundly before a company of matrons and went so far as to slap her"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 12,
+      "reference": "5.2",
+      "path": "/*/*[2]/*/*/*/*[6]/*[2]",
+      "line": 129,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:5",
+        "n": "2"
+      },
+      "text": "\n      He showed marked respect to Livia Augusta, to whose favour he owed great influence during her lifetime and by whose last will he almost became a rich man; for he had the largest bequest among her legatees, one of fifty million sesterces. But because the sum was designated in figures and not written out in words, Tiberius, who was her heir, reduced the bequest to five hundred thousand, and Galba never received even that amount. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.9866666666666667,
+          "score": 0.9866666666666667,
+          "page": "198",
+          "seq": 210,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "almost",
+              "after": "alınost",
+              "left": "by whose last will he",
+              "right": "became a rich man for"
+            }
+          ],
+          "source_span": "he showed marked respect to livia augusta to whose favour he owed great influence during her lifetime and by whose last will he alınost became a rich man for he had the largest bequest among her legatees one of fifty million sesterces but because the sum was designated in figures and not written out in words tiberius who was her heir reduced the bequest to five hundred thousand and galba never received even that amount"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 13,
+      "reference": "6.1",
+      "path": "/*/*[2]/*/*/*/*[7]/*[1]",
+      "line": 135,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:6",
+        "n": "1"
+      },
+      "text": "\n      VI. He began his career of office before the legal age, and in celebrating the games of the Floralia in his praetorship he gave a new kind of exhibition, namely of elephants walking the rope. Then he governed the province of Aquitania for nearly a year and soon afterwards held a regular consulship for six  months; and it chanced that in this office he succeeded Lucius Domitius, the father of Nero, and was succeeded by Salvius Otho, the father of  the emperor Otho, a kind of omen of what happened later, when he became emperor between the reigns of the sons of these two men. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.796,
+          "score": 0.8,
+          "page": "199",
+          "seq": 211,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "83 a d",
+              "left": "a regular consulship for six",
+              "right": "months and it chanced that"
+            },
+            {
+              "op": "insert",
+              "before": "",
+              "after": "a either suetonius is in error or",
+              "left": "salvius otho the father of",
+              "right": "the emperor otho a kind"
+            },
+            {
+              "op": "replace",
+              "before": "emperor otho a kind of omen of what happened later when he became emperor between",
+              "after": "manuscripts",
+              "left": "otho the father of the",
+              "right": "the reigns of the sons"
+            },
+            {
+              "op": "replace",
+              "before": "reigns",
+              "after": "name should be gnaeus 199 the lives",
+              "left": "he became emperor between the",
+              "right": "of the sons of these"
+            },
+            {
+              "op": "replace",
+              "before": "sons of these two men",
+              "after": "caesars book vii 2 3",
+              "left": "between the reigns of the",
+              "right": ""
+            }
+          ],
+          "source_span": "vi he began his career of office before the legal age and in celebrating the games of the floralia in his praetorship he gave a new kind of exhibition namely of elephants walking the rope then he governed the province of aquitania for nearly a year and soon afterwards held a regular consulship for six 83 a d months and it chanced that in this office he succeeded lucius domitius the father of nero and was succeeded by salvius otho the father of a either suetonius is in error or the manuscripts the name should be gnaeus 199 the lives of the caesars book vii 2 3"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 14,
+      "reference": "6.2",
+      "path": "/*/*[2]/*/*/*/*[7]/*[2]",
+      "line": 138,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:6",
+        "n": "2"
+      },
+      "text": "\n      Appointed governor of Upper Germany by Gaius Caesar in room of Gaetulicus, the day after he appeared before the legions he put a stop to their applause at a festival which chanced to fall at that time, by issuing a written order to keep their hands under their cloaks; and immediately this verse was bandied about the camp:\n      Soldiers, learn to play the soldier; 'tis Galba, not Gaetulicus.  \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "200",
+          "seq": 212,
+          "differences": [],
+          "source_span": "appointed governor of upper germany by gaius caesar in room of gaetulicus the day after he appeared before the legions he put a stop to their applause at a festival which chanced to fall at that time by issuing a written order to keep their hands under their cloaks and immediately this verse was bandied about the camp soldiers learn to play the soldier tis galba not gaetulicus"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 15,
+      "reference": "6.3",
+      "path": "/*/*[2]/*/*/*/*[7]/*[3]",
+      "line": 142,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:6",
+        "n": "3"
+      },
+      "text": "\n      With equal strictness he put a stop to the requests for furloughs. He got both the veterans and the new recruits into condition by plenty of hard work, speedily checked the barbarians, who had already made inroads even into Gaul, and when Gaius arrived, Galba and his army made such a good impression, that out of the great body of troops assembled from all the provinces none received greater commendation or richer rewards. Galba particularly distinguished himself, while directing the military manoeuvres shield in hand, by actually running for twenty miles close beside the emperor's chariot. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.9896907216494846,
+          "score": 0.9896907216494846,
+          "page": "200",
+          "seq": 212,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "manoeuvres",
+              "after": "manœuvres",
+              "left": "himself while directing the military",
+              "right": "shield in hand by actually"
+            }
+          ],
+          "source_span": "with equal strictness he put a stop to the requests for furloughs he got both the veterans and the new recruits into condition by plenty of hard work speedily checked the barbarians who had already made inroads even into gaul and when gaius arrived galba and his army made such a good impression that out of the great body of troops assembled from all the provinces none received greater commendation or richer rewards galba particularly distinguished himself while directing the military manœuvres shield in hand by actually running for twenty miles close beside the emperor s chariot"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 16,
+      "reference": "7.1",
+      "path": "/*/*[2]/*/*/*/*[8]/*[1]",
+      "line": 148,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:7",
+        "n": "1"
+      },
+      "text": "\n      VII. When the murder of Gaius was announced, although many urged Galba to take advantage of the opportunity, he preferred quiet. Hence he was in high favour with Claudius, became one of his staff of intimate friends, and was treated with such consideration that the departure of the expedition to Britain was put off because Galba was taken with a sudden illness, of no great severity. He governed  Africa for two years with the rank of proconsul, being specially chosen to restore order in the province, which was disturbed both by internal strife and by a revolt of the barbarians. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.6579999999999999,
+          "score": 0.71,
+          "page": "201",
+          "seq": 213,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "africa for two years with",
+              "after": "201",
+              "left": "no great severity he governed",
+              "right": "the rank of proconsul being"
+            },
+            {
+              "op": "replace",
+              "before": "rank of proconsul being specially chosen to restore order in the province which was disturbed both by internal strife and by a revolt",
+              "after": "lives",
+              "left": "for two years with the",
+              "right": "of the barbarians"
+            },
+            {
+              "op": "replace",
+              "before": "barbarians",
+              "after": "caesars",
+              "left": "by a revolt of the",
+              "right": ""
+            }
+          ],
+          "source_span": "vii when the murder of gaius was announced although many urged galba to take advantage of the opportunity he preferred quiet hence he was in high favour with claudius became one of his staff of intimate friends and was treated with such consideration that the departure of the expedition to britain was put off because galba was taken with a sudden illness of no great severity he governed 201 the lives of the caesars"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 17,
+      "reference": "7.2",
+      "path": "/*/*[2]/*/*/*/*[8]/*[2]",
+      "line": 151,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:7",
+        "n": "2"
+      },
+      "text": "\n      And he was successful, owing to his insistence on strict discipline and his observance of justice even in trifling matters. When provisions were very scarce during a foray and a soldier was accused of having sold for a hundred denarii a peck of wheat which was left from his rations, Galba gave orders that when the man began to lack food, he should receive aid from no one; and he starved to death. On another occasion when he was holding court and the question of the ownership of a beast of burden was laid before him, as the evidence on both sides was slight and the witnesses unreliable, so that it was difficult to get at the truth, he ruled that the beast should be led with its head muffled up to the pool where it was usually watered, that it should then be unmuffled, and should belong to the man to whom it returned of its own accord after drinking. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "202",
+          "seq": 214,
+          "differences": [],
+          "source_span": "and he was successful owing to his insistence on strict discipline and his observance of justice even in trifling matters when provisions were very scarce during a foray and a soldier was accused of having sold for a hundred denarii a peck of wheat which was left from his rations galba gave orders that when the man began to lack food he should receive aid from no one and he starved to death on another occasion when he was holding court and the question of the ownership of a beast of burden was laid before him as the evidence on both sides was slight and the witnesses unreliable so that it was difficult to get at the truth he ruled that the beast should be led with its head muffled up to the pool where it was usually watered that it should then be unmuffled and should belong to the man to whom it returned of its own accord after drinking"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 18,
+      "reference": "8.1",
+      "path": "/*/*[2]/*/*/*/*[9]/*[1]",
+      "line": 157,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:8",
+        "n": "1"
+      },
+      "text": "\n      VIII. His services in Africa at that time, and previously in Germany, were recognised by the triumphal regalia and three priesthoods, for he was chosen a member of the Fifteen, of the brotherhood of Titius, and of the priests of Augustus. After that he lived for the most part in retirement until about the middle of Nero's reign, never going out even for recreation without taking a million sesterces in gold with him in a second carriage; until at last, while he was staying in the town of Fundi, Hispania  Tarraconensis was offered him. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.994,
+          "score": 1.0,
+          "page": "202",
+          "seq": 214,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "60 a d",
+              "left": "the town of fundi hispania",
+              "right": "tarraconensis was offered him"
+            }
+          ],
+          "source_span": "viii his services in africa at that time and previously in germany were recognised by the triumphal regalia and three priesthoods for he was chosen a member of the fifteen of the brotherhood of titius and of the priests of augustus after that he lived for the most part in retirement until about the middle of nero s reign never going out even for recreation without taking a million sesterces in gold with him in a second carriage until at last while he was staying in the town of fundi hispania 60 a d tarraconensis was offered him"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 19,
+      "reference": "8.2",
+      "path": "/*/*[2]/*/*/*/*[9]/*[2]",
+      "line": 160,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:8",
+        "n": "2"
+      },
+      "text": "\n      And it fell out that as he was offering sacrifice in a public temple after his arrival in the province, the hair of a young attendant who was carrying an incense-box suddenly  turned white all over his head, and there were some who did not hesitate to interpret this as a sign of a change of rulers and of the succession of an old man to a young one; that is to say, of Galba to Nero. Not long after this lightning struck a lake of Cantabria and twelve axes were found there, an unmistakable token of supreme power. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.654,
+          "score": 0.68,
+          "page": "204",
+          "seq": 216,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "and it fell out that as he was offering sacrifice in",
+              "after": "nece sua ad procuratores clam missa deprenderat et confirmabatur cum secundissimis",
+              "left": "",
+              "right": "a public temple after his"
+            },
+            {
+              "op": "replace",
+              "before": "public temple after his arrival in the province the hair of a young attendant who was carrying an incense box suddenly",
+              "after": "see note on claud xxiv 1 204 galba",
+              "left": "was offering sacrifice in a",
+              "right": "turned white all over his"
+            }
+          ],
+          "source_span": "nece sua ad procuratores clam missa deprenderat et confirmabatur cum secundissimis a see note on claud xxiv 1 204 galba turned white all over his head and there were some who did not hesitate to interpret this as a sign of a change of rulers and of the succession of an old man to a young one that is to say of galba to nero not long after this lightning struck a lake of cantabria and twelve axes were found there an unmistakable token of supreme power"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 20,
+      "reference": "9.1",
+      "path": "/*/*[2]/*/*/*/*[10]/*[1]",
+      "line": 166,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:9",
+        "n": "1"
+      },
+      "text": "\n      IX. For eight years he governed the province in a variable and inconsistent manner. At first he was vigorous and energetic and even over severe in punishing offences; for he cut off the hands of a money-lender who carried on his business dishonestly and nailed them to his counter; crucified a man for poisoning his ward, whose property he was to inherit in case of his death; and when the man invoked the law and declared that he was a Roman citizen, Galba, pretending to lighten his punishment by some consolation and honour, ordered that a cross much higher than the rest and painted white be set up, and the man transferred to it. But he gradually changed to sloth and inaction, not to give Nero any cause for jealousy, and as he used to say himself, because no one could be forced to render an account for doing nothing. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "204",
+          "seq": 216,
+          "differences": [],
+          "source_span": "ix for eight years he governed the province in a variable and inconsistent manner at first he was vigorous and energetic and even over severe in punishing offences for he cut off the hands of a money lender who carried on his business dishonestly and nailed them to his counter crucified a man for poisoning his ward whose property he was to inherit in case of his death and when the man invoked the law and declared that he was a roman citizen galba pretending to lighten his punishment by some consolation and honour ordered that a cross much higher than the rest and painted white be set up and the man transferred to it but he gradually changed to sloth and inaction not to give nero any cause for jealousy and as he used to say himself because no one could be forced to render an account for doing nothing"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 21,
+      "reference": "9.2",
+      "path": "/*/*[2]/*/*/*/*[10]/*[2]",
+      "line": 169,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:9",
+        "n": "2"
+      },
+      "text": "\n      As he was holding the assizes at New Carthage, he learned of the rebellion of the Gallic provinces through an urgent appeal for help from the governor of Aquitania; then came letters from Vindex, calling upon him to make himself the liberator and leader of mankind. So without much hesitation he accepted the proposal, led by fear as well as by hope. For he had intercepted despatches ordering his own death, which had been secretly sent by Nero to his agents. He was encouraged too, in addition to most favourable  auspices and omens, by the prediction of a young girl of high birth, and the more so because the priest of Jupiter at Clunia, directed by a dream, had found in the inner shrine of his temple the very same prediction, likewise spoken by an inspired girl two hundred years before. And the purport of the verses was that one day there would come forth from Spain the ruler and lord of the world. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.4650731707317073,
+          "score": 0.5670731707317073,
+          "page": "205",
+          "seq": 217,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "auspices and omens by",
+              "after": "205",
+              "left": "in addition to most favourable",
+              "right": "the prediction of a young"
+            },
+            {
+              "op": "replace",
+              "before": "prediction of a young girl of high birth and the more so because the priest of jupiter at clunia directed by a dream had found in the inner shrine of his temple the very same prediction likewise spoken by an inspired girl two hundred years before and the purport",
+              "after": "lives",
+              "left": "auspices and omens by the",
+              "right": "of the verses was that"
+            },
+            {
+              "op": "replace",
+              "before": "verses was that one day there would come forth from spain the ruler and lord of the world",
+              "after": "caesars book vii auspiciis et ominibus virginis honestae vaticinatione tanto magis quod eadem illa carmina sacerdos iovis cluniae",
+              "left": "and the purport of the",
+              "right": ""
+            }
+          ],
+          "source_span": "as he was holding the assizes at new carthage he learned of the rebellion of the gallic provinces through an urgent appeal for help from the governor of aquitania then came letters from vindex calling upon him to make himself the liberator and leader of mankind so without much hesitation he accepted the proposal led by fear as well as by hope for he had intercepted despatches ordering his own death which had been secretly sent by nero to his agents he was encouraged too in addition to most favourable 205 the lives of the caesars book vii auspiciis et ominibus virginis honestae vaticinatione tanto magis quod eadem illa carmina sacerdos iovis cluniae"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 22,
+      "reference": "10.1",
+      "path": "/*/*[2]/*/*/*/*[11]/*[1]",
+      "line": 175,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:10",
+        "n": "1"
+      },
+      "text": "\n      X. Accordingly, pretending that he was going to attend to the manumitting of slaves, he mounted the tribunal, on the front of which he had set up as many images as he could find of those who had been condemned and put to death by Nero; and having by his side a boy of noble family, whom he had summoned for that very purpose from his place of exile hard by in the Balearic Isles, he deplored the state of the times; being thereupon hailed as emperor, he declared that he was their governor, representing the senate and people of Rome. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "206",
+          "seq": 218,
+          "differences": [],
+          "source_span": "x accordingly pretending that he was going to attend to the manumitting of slaves he mounted the tribunal on the front of which he had set up as many images as he could find of those who had been condemned and put to death by nero and having by his side a boy of noble family whom he had summoned for that very purpose from his place of exile hard by in the balearic isles he deplored the state of the times being thereupon hailed as emperor he declared that he was their governor representing the senate and people of rome"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 23,
+      "reference": "10.2",
+      "path": "/*/*[2]/*/*/*/*[11]/*[2]",
+      "line": 178,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:10",
+        "n": "2"
+      },
+      "text": "\n      Then proclaiming a holiday, he enrolled from the people of the province legions and auxiliaries in addition to his former force of one legion, two divisions of cavalry, and three cohorts. But from the oldest and most experienced of the nobles he chose a kind of senate, to whom he might refer matters of special importance whenever it was necessary. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "206",
+          "seq": 218,
+          "differences": [],
+          "source_span": "then proclaiming a holiday he enrolled from the people of the province legions and auxiliaries in addition to his former force of one legion two divisions of cavalry and three cohorts but from the oldest and most experienced of the nobles he chose a kind of senate to whom he might refer matters of special importance whenever it was necessary"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 24,
+      "reference": "10.3",
+      "path": "/*/*[2]/*/*/*/*[11]/*[3]",
+      "line": 181,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:10",
+        "n": "3"
+      },
+      "text": "\n      He also chose young men of the order of knights, who were to have the title of volunteers and keep guard before his bedchamber in place of the regular soldiers, without losing their right to wear the gold ring. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "206",
+          "seq": 218,
+          "differences": [],
+          "source_span": "he also chose young men of the order of knights who were to have the title of volunteers and keep guard before his bedchamber in place of the regular soldiers without losing their right to wear the gold ring"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 25,
+      "reference": "10.4",
+      "path": "/*/*[2]/*/*/*/*[11]/*[4]",
+      "line": 184,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:10",
+        "n": "4"
+      },
+      "text": "\n      He also sent proclamations broadcast throughout the province, urging all men individually and collectively to join the revolution and aid the common cause in every possible way. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "206",
+          "seq": 218,
+          "differences": [],
+          "source_span": "he also sent proclamations broadcast throughout the province urging all men individually and collectively to join the revolution and aid the common cause in every possible way"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 26,
+      "reference": "10.5",
+      "path": "/*/*[2]/*/*/*/*[11]/*[5]",
+      "line": 187,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:10",
+        "n": "5"
+      },
+      "text": "\n      At about this same time, during the fortification  of a town which he had chosen as the seat of war, a ring of ancient workmanship was found, containing a precious stone engraved with a Victory and a trophy. Immediately afterwards a ship from Alexandria loaded with arms arrived at Dertosa without a pilot, without a single sailor or passenger, removing all doubt in anyone's mind that the war was just and holy and undertaken with the approval of the gods. Then suddenly and unexpectedly the whole plan was almost brought to naught. One of the two divisions of cavalry, repenting of its change of allegiance, attempted to desert Galba as he was approaching his camp and was with difficulty prevented. Some slaves too, whom one of Nero's freedmen had given Galba with treachery in view, all but slew him as he was going to the bath through a narrow passage-way. In fact they would have succeeded, had they not conjured one another not to miss the opportunity and so been questioned as to what the opportunity was to which they referred; for when they were put to the torture, a confession was wrung from them. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.9595959595959596,
+          "score": 0.9595959595959596,
+          "page": "208",
+          "seq": 220,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "at about this same time during the fortification",
+              "after": "1 see note on chap i 208 galba",
+              "left": "",
+              "right": "of a town which he"
+            }
+          ],
+          "source_span": "1 see note on chap i 208 galba of a town which he had chosen as the seat of war a ring of ancient workmanship was found containing a precious stone engraved with a victory and a trophy immediately afterwards a ship from alexandria loaded with arms arrived at dertosa without a pilot without a single sailor or passenger removing all doubt in anyone s mind that the war was just and holy and undertaken with the approval of the gods then suddenly and unexpectedly the whole plan was almost brought to naught one of the two divisions of cavalry repenting of its change of allegiance attempted to desert galba as he was approaching his camp and was with difficulty prevented some slaves too whom one of nero s freedmen had given galba with treachery in view all but slew him as he was going to the bath through a narrow passage way in fact they would have succeeded had they not conjured one another not to miss the opportunity and so been questioned as to what the opportunity was to which they referred for when they were put to the torture a confession was wrung from them"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 27,
+      "reference": "11.1",
+      "path": "/*/*[2]/*/*/*/*[12]/*",
+      "line": 193,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:11",
+        "n": "1"
+      },
+      "text": "\n      XI. To these great perils was added the death of Vindex, by which he was especially panic-stricken and came near taking his own life, in the belief that all was lost. But when some messengers came from the city, reporting that Nero was dead and that all the people had sworn allegiance to him, he laid aside the title of governor and assumed that of Caesar. He then began his march to Rome in a general's cloak with a dagger hanging from his neck in front of his breast; and he did not resume the toga until he had overthrown those who were plotting against him, Nymphidius Sabinus, prefect of the praetorian  guard at Rome, in Germany and Africa the governors Fonteius Capito and Clodius Macer. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.89625,
+          "score": 0.90625,
+          "page": "209",
+          "seq": 221,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "b",
+              "left": "and assumed that of caesar",
+              "right": "he then began his march"
+            },
+            {
+              "op": "replace",
+              "before": "guard at rome",
+              "after": "209 the lives of the caesars book vii praetori nymphidio sabino romae",
+              "left": "sabinus prefect of the praetorian",
+              "right": "in germany and africa the"
+            },
+            {
+              "op": "replace",
+              "before": "germany and",
+              "after": "germania fonteio capitone in",
+              "left": "praetorian guard at rome in",
+              "right": "africa the governors fonteius capito"
+            },
+            {
+              "op": "delete",
+              "before": "the governors fonteius capito and clodius macer",
+              "after": "",
+              "left": "rome in germany and africa",
+              "right": ""
+            }
+          ],
+          "source_span": "xi to these great perils was added the death of vindex by which he was especially panic stricken and came near taking his own life in the belief that all was lost but when some messengers came from the city reporting that nero was dead and that all the people had sworn allegiance to him he laid aside the title of governor and assumed that of caesar b he then began his march to rome in a general s cloak with a dagger hanging from his neck in front of his breast and he did not resume the toga until he had overthrown those who were plotting against him nymphidius sabinus prefect of the praetorian 209 the lives of the caesars book vii praetori nymphidio sabino romae in germania fonteio capitone in africa"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 28,
+      "reference": "12.1",
+      "path": "/*/*[2]/*/*/*/*[13]/*[1]",
+      "line": 199,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:12",
+        "n": "1"
+      },
+      "text": "\n      XII. His double reputation for cruelty and avarice had gone before him; men said that he had punished the cities of the Spanish and Gallic provinces which had hesitated about taking sides with him by heavier taxes and some even by the razing of their walls, putting to death the governors and imperial deputies along with their wives and children. Further, that he had melted down a golden crown of fifteen pounds weight, which the people of Tarraco had taken from their ancient temple of Jupiter and presented to him, with orders that the three ounces which were found lacking be exacted from them. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.9903846153846154,
+          "score": 0.9903846153846154,
+          "page": "210",
+          "seq": 222,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "deputies",
+              "after": "deputiesa",
+              "left": "death the governors and imperial",
+              "right": "along with their wives and"
+            }
+          ],
+          "source_span": "xii his double reputation for cruelty and avarice had gone before him men said that he had punished the cities of the spanish and gallic provinces which had hesitated about taking sides with him by heavier taxes and some even by the razing of their walls putting to death the governors and imperial deputiesa along with their wives and children further that he had melted down a golden crown of fifteen pounds weight which the people of tarraco had taken from their ancient temple of jupiter and presented to him with orders that the three ounces which were found lacking be exacted from them"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 29,
+      "reference": "12.2",
+      "path": "/*/*[2]/*/*/*/*[13]/*[2]",
+      "line": 202,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:12",
+        "n": "2"
+      },
+      "text": "\n      This reputation was confirmed and even augmented immediately on his arrival in the city. For having compelled some marines whom Nero had made regular soldiers to return to their former position as rowers, upon their refusing and obstinately demanding an eagle and standards, he not only dispersed them by a cavalry charge, but even decimated them. He also disbanded a cohort of Germans, whom the previous Caesars had made their body-guard and had found absolutely faithful in many emergencies, and sent them back to their native country without any rewards, alleging that they were more favourably inclined towards Gnaeus Dolabella, near whose gardens they had their camp. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "210",
+          "seq": 222,
+          "differences": [],
+          "source_span": "this reputation was confirmed and even augmented immediately on his arrival in the city for having compelled some marines whom nero had made regular soldiers to return to their former position as rowers upon their refusing and obstinately demanding an eagle and standards he not only dispersed them by a cavalry charge but even decimated them he also disbanded a cohort of germans whom the previous caesars had made their body guard and had found absolutely faithful in many emergencies and sent them back to their native country without any rewards alleging that they were more favourably inclined towards gnaeus dolabella near whose gardens they had their camp"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 30,
+      "reference": "12.3",
+      "path": "/*/*[2]/*/*/*/*[13]/*[3]",
+      "line": 205,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:12",
+        "n": "3"
+      },
+      "text": "\n      The following tales too were told in mockery of him, whether truly or falsely: that when an unusually elegant dinner was set before him, he groaned aloud; that when his duly appointed steward presented his expense account, he handed him a dish of beans in return for his industry and carefulness; and that when the flute-player Canus greatly pleased him, he presented him with five denarii, which he took from his own purse with his own hand. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.715948717948718,
+          "score": 0.717948717948718,
+          "page": "211",
+          "seq": 223,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "d",
+              "left": "him whether truly or falsely",
+              "right": "that when an unusually elegant"
+            },
+            {
+              "op": "replace",
+              "before": "player canus greatly pleased him he presented him with five denarii which he took from his own purse with his own hand",
+              "after": "211 the lives of the caesars book vii 2 xisse cano autem choraulae mire placenti denarios quinque donasse prolatos manu sua e",
+              "left": "and that when the flute",
+              "right": ""
+            }
+          ],
+          "source_span": "the following tales too were told in mockery of him whether truly or falsely d that when an unusually elegant dinner was set before him he groaned aloud that when his duly appointed steward presented his expense account he handed him a dish of beans in return for his industry and carefulness and that when the flute 211 the lives of the caesars book vii 2 xisse cano autem choraulae mire placenti denarios quinque donasse prolatos manu sua e"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 31,
+      "reference": "13.1",
+      "path": "/*/*[2]/*/*/*/*[14]/*",
+      "line": 211,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:13",
+        "n": "1"
+      },
+      "text": "\n      XIII. Accordingly his coming was not so welcome as it might have been, and this was apparent at the first performance in the theatre; for when the actors of an Atellan farce began the familiar lines\n      Here comes Onesimus from his farm \n      all the spectators at once finished the song in chorus and repeated it several times with appropriate gestures, beginning with that verse. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.998,
+          "score": 1.0,
+          "page": "212",
+          "seq": 224,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "b",
+              "left": "comes onesimus from his farm",
+              "right": "all the spectators at once"
+            }
+          ],
+          "source_span": "xiii accordingly his coming was not so welcome as it might have been and this was apparent at the first performance in the theatre for when the actors of an atellan farce began the familiar lines here comes onesimus from his farm b all the spectators at once finished the song in chorus and repeated it several times with appropriate gestures beginning with that verse"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 32,
+      "reference": "14.1",
+      "path": "/*/*[2]/*/*/*/*[15]/*[1]",
+      "line": 219,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:14",
+        "n": "1"
+      },
+      "text": "\n      XIV. Thus his popularity and prestige were greater when he won, than while he ruled the empire, though he gave many proofs of being an excellent prince; but he was by no means so much loved for those qualities as he was hated for his acts of the opposite character. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "212",
+          "seq": 224,
+          "differences": [],
+          "source_span": "xiv thus his popularity and prestige were greater when he won than while he ruled the empire though he gave many proofs of being an excellent prince but he was by no means so much loved for those qualities as he was hated for his acts of the opposite character"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 33,
+      "reference": "14.2",
+      "path": "/*/*[2]/*/*/*/*[15]/*[2]",
+      "line": 222,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:14",
+        "n": "2"
+      },
+      "text": "\n      He was wholly under the control of three men, who were commonly known as his tutors because they lived with him in the palace and never left his side. They were Titus Vinius, one of his generals in Spain, a man of unbounded covetousness; Cornelius Laco, advanced from the position of judge's assistant to that of prefect of the Guard and intolerably haughty and indolent; and his own freedman Icelus, who had only just before received the honour of the gold ring and the surname of Marcianus, yet already aspired to the highest office open to the equestrian order. To these brigands, each with his different vice, he so entrusted and handed himself over as their tool, that his conduct was far from  consistent; for now he was more exacting and niggardly, and now more extravagant and reckless than became a prince chosen by the people and of his time of life. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.7969934640522875,
+          "score": 0.8169934640522876,
+          "page": "213",
+          "seq": 225,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "ring",
+              "after": "ringd",
+              "left": "the honour of the gold",
+              "right": "and the surname of marcianus"
+            },
+            {
+              "op": "replace",
+              "before": "consistent for now he was more exacting and niggardly and now more extravagant and reckless than became a prince chosen by",
+              "after": "d see note on jul xxxiii prefect of",
+              "left": "his conduct was far from",
+              "right": "the people and of his"
+            },
+            {
+              "op": "replace",
+              "before": "people and",
+              "after": "praetorian guard 213 the lives",
+              "left": "a prince chosen by the",
+              "right": "of his time of life"
+            },
+            {
+              "op": "replace",
+              "before": "his time of life",
+              "after": "the caesars book vii",
+              "left": "by the people and of",
+              "right": ""
+            }
+          ],
+          "source_span": "he was wholly under the control of three men who were commonly known as his tutors because they lived with him in the palace and never left his side they were titus vinius one of his generals in spain a man of unbounded covetousness cornelius laco advanced from the position of judge s assistant to that of prefect of the guard and intolerably haughty and indolent and his own freedman icelus who had only just before received the honour of the gold ringd and the surname of marcianus yet already aspired to the highest office open to the equestrian order to these brigands each with his different vice he so entrusted and handed himself over as their tool that his conduct was far from d see note on jul xxxiii prefect of the praetorian guard 213 the lives of the caesars book vii"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 34,
+      "reference": "14.3",
+      "path": "/*/*[2]/*/*/*/*[15]/*[3]",
+      "line": 225,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:14",
+        "n": "3"
+      },
+      "text": "\n      He condemned to death divers distinguished men of both orders on trivial suspicions without a trial. He rarely granted Roman citizenship, and the privileges of threefold paternity to hardly one or two, and even to those only for a fixed and limited time. When the jurors petitioned that a sixth division be added to their number, he not only refused, but even deprived them of the privilege granted by Claudius, of not being summoned for court duty in winter and at the beginning of the year. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.998,
+          "score": 1.0,
+          "page": "214",
+          "seq": 226,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "a",
+              "left": "the privileges of threefold paternity",
+              "right": "to hardly one or two"
+            }
+          ],
+          "source_span": "he condemned to death divers distinguished men of both orders on trivial suspicions without a trial he rarely granted roman citizenship and the privileges of threefold paternity a to hardly one or two and even to those only for a fixed and limited time when the jurors petitioned that a sixth division be added to their number he not only refused but even deprived them of the privilege granted by claudius of not being summoned for court duty in winter and at the beginning of the year"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 35,
+      "reference": "15.1",
+      "path": "/*/*[2]/*/*/*/*[16]/*[1]",
+      "line": 231,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:15",
+        "n": "1"
+      },
+      "text": "\n      XV. It was thought too that he intended to limit the offices open to senators and knights to a period of two years, and to give them only to such as did not wish them and declined them. He had all the grants of Nero revoked, allowing only a tenth part to be retained; and he exacted repayment with the help of fifty Roman knights, stipulating that even if the actors and athletes had sold anything that had formerly been given them, it should be taken away from the purchasers, in case the recipient had spent the money and could not repay it. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "214",
+          "seq": 226,
+          "differences": [],
+          "source_span": "xv it was thought too that he intended to limit the offices open to senators and knights to a period of two years and to give them only to such as did not wish them and declined them he had all the grants of nero revoked allowing only a tenth part to be retained and he exacted repayment with the help of fifty roman knights stipulating that even if the actors and athletes had sold anything that had formerly been given them it should be taken away from the purchasers in case the recipient had spent the money and could not repay it"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 36,
+      "reference": "15.2",
+      "path": "/*/*[2]/*/*/*/*[16]/*[2]",
+      "line": 234,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:15",
+        "n": "2"
+      },
+      "text": "\n      On the other hand, there was nothing that he did not allow his friends and freedmen to sell at a price or bestow as a favour, taxes and freedom from taxation, the punishment of the guiltless and impunity for the guilty. Nay more, when the Roman people called for the punishment of Halotus and Tigellinus, the most utterly abandoned of all Nero's creatures, not content with saving their lives, he honoured Halotus with a very important stewardship and in the case of Tigellinus  even issued an edict rebuking the people for their cruelty. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.8962553191489362,
+          "score": 0.9042553191489362,
+          "page": "215",
+          "seq": 227,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "even issued an edict rebuking",
+              "after": "215",
+              "left": "in the case of tigellinus",
+              "right": "the people for their cruelty"
+            },
+            {
+              "op": "replace",
+              "before": "people for their cruelty",
+              "after": "lives of the caesars",
+              "left": "issued an edict rebuking the",
+              "right": ""
+            }
+          ],
+          "source_span": "on the other hand there was nothing that he did not allow his friends and freedmen to sell at a price or bestow as a favour taxes and freedom from taxation the punishment of the guiltless and impunity for the guilty nay more when the roman people called for the punishment of halotus and tigellinus the most utterly abandoned of all nero s creatures not content with saving their lives he honoured halotus with a very important stewardship and in the case of tigellinus 215 the lives of the caesars"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 37,
+      "reference": "16.1",
+      "path": "/*/*[2]/*/*/*/*[17]/*[1]",
+      "line": 240,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:16",
+        "n": "1"
+      },
+      "text": "\n      XVI. Having thus incurred the hatred of almost all men of every class, he was especially detested by the soldiers; for although their officers had promised them a larger gift than common when they swore allegiance to Galba in his absence, so far from keeping the promise, he declared more than once that it was his habit to levy troops, not buy them; and on this account he embittered the soldiers all over the empire. The praetorians he filled besides with both fear and indignation by discharging many of them from time to time as under suspicion of being partisans of Nymphidius. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.9901960784313726,
+          "score": 0.9901960784313726,
+          "page": "216",
+          "seq": 228,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "officers",
+              "after": "officersa",
+              "left": "the soldiers for although their",
+              "right": "had promised them a larger"
+            }
+          ],
+          "source_span": "xvi having thus incurred the hatred of almost all men of every class he was especially detested by the soldiers for although their officersa had promised them a larger gift than common when they swore allegiance to galba in his absence so far from keeping the promise he declared more than once that it was his habit to levy troops not buy them and on this account he embittered the soldiers all over the empire the praetorians he filled besides with both fear and indignation by discharging many of them from time to time as under suspicion of being partisans of nymphidius"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 38,
+      "reference": "16.2",
+      "path": "/*/*[2]/*/*/*/*[17]/*[2]",
+      "line": 243,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:16",
+        "n": "2"
+      },
+      "text": "\n      But loudest of all was the grumbling of the army in Upper Germany, because it was defrauded of the reward for its services against the Gauls and Vindex. Hence they were the first to venture on mutiny, refusing on the Kalends of January to swear allegiance to anyone save the senate, and at once resolving to send a deputation to the praetorians with the following message: that the emperor created in Spain did not suit them and the Guard must choose one who would be acceptable to all the armies. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "216",
+          "seq": 228,
+          "differences": [],
+          "source_span": "but loudest of all was the grumbling of the army in upper germany because it was defrauded of the reward for its services against the gauls and vindex hence they were the first to venture on mutiny refusing on the kalends of january to swear allegiance to anyone save the senate and at once resolving to send a deputation to the praetorians with the following message that the emperor created in spain did not suit them and the guard must choose one who would be acceptable to all the armies"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 39,
+      "reference": "17.1",
+      "path": "/*/*[2]/*/*/*/*[18]/*",
+      "line": 249,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:17",
+        "n": "1"
+      },
+      "text": "\n      XVII. When this was reported to Galba, thinking that it was not so much his age as his lack of children that was criticised, he picked out Piso Frugi Licinianus from the midst of the throng at one of his morning receptions, a young man of noble birth and high character, who had long been one of his special favourites and always named in his will as heir to his property and his name. Calling him son, he led him to the praetorian camp and adopted him before the assembled soldiers.  But even then he made no mention of largess, thus making it easier for Marcus Salvius Otho to accomplish his purpose within six days after the adoption. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.746135593220339,
+          "score": 0.788135593220339,
+          "page": "217",
+          "seq": 229,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "but even then he made no mention",
+              "after": "217 the lives",
+              "left": "him before the assembled soldiers",
+              "right": "of largess thus making it"
+            },
+            {
+              "op": "delete",
+              "before": "largess thus making it easier for marcus salvius otho to accomplish his purpose within six days after",
+              "after": "",
+              "left": "he made no mention of",
+              "right": "the adoption"
+            },
+            {
+              "op": "replace",
+              "before": "adoption",
+              "after": "caesars",
+              "left": "within six days after the",
+              "right": ""
+            }
+          ],
+          "source_span": "xvii when this was reported to galba thinking that it was not so much his age as his lack of children that was criticised he picked out piso frugi licinianus from the midst of the throng at one of his morning receptions a young man of noble birth and high character who had long been one of his special favourites and always named in his will as heir to his property and his name calling him son he led him to the praetorian camp and adopted him before the assembled soldiers 217 the lives of the caesars"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 40,
+      "reference": "18.1",
+      "path": "/*/*[2]/*/*/*/*[19]/*[1]",
+      "line": 255,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:18",
+        "n": "1"
+      },
+      "text": "\n      XVIII. Many prodigies in rapid succession from the very beginning of his reign had foretold Galba's end exactly as it happened. When victims were being slain to right and left all along his route in every town, an ox, maddened by the stroke of an axe, broke its bonds and charged the emperor's chariot, and as it raised its feet, deluged him with blood. And as Galba dismounted, one of his guards, pushed forward by the crowd, almost wounded him with his lance. Again, as he entered the city, and later the Palace, he was met by a shock of earthquake and a sound like the lowing of kine. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "218",
+          "seq": 230,
+          "differences": [],
+          "source_span": "xviii many prodigies in rapid succession from the very beginning of his reign had foretold galba s end exactly as it happened when victims were being slain to right and left all along his route in every town an ox maddened by the stroke of an axe broke its bonds and charged the emperor s chariot and as it raised its feet deluged him with blood and as galba dismounted one of his guards pushed forward by the crowd almost wounded him with his lance again as he entered the city and later the palace he was met by a shock of earthquake and a sound like the lowing of kine"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 41,
+      "reference": "18.2",
+      "path": "/*/*[2]/*/*/*/*[19]/*[2]",
+      "line": 258,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:18",
+        "n": "2"
+      },
+      "text": "\n      There followed even clearer signs. He had set apart from all the treasure a necklace fashioned of pearls and precious stones, for the adornment of his image of Fortune at Tusculum. This on a sudden impulse he consecrated to the Capitoline Venus, thinking it worthy of a more august position. The next night Fortune appeared to him in his dreams, complaining of being robbed of the gift intended for her and threatening in her turn to take away what she had bestowed. When Galba hastened in terror to Tusculum at daybreak, to offer expiatory sacrifices because of the dream, and sent on men to make preparations for the ceremony, he found on the altar nothing but warm ashes and beside it an old man dressed in black, holding the incense in a glass dish and the wine in an earthen cup. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "218",
+          "seq": 230,
+          "differences": [],
+          "source_span": "there followed even clearer signs he had set apart from all the treasure a necklace fashioned of pearls and precious stones for the adornment of his image of fortune at tusculum this on a sudden impulse he consecrated to the capitoline venus thinking it worthy of a more august position the next night fortune appeared to him in his dreams complaining of being robbed of the gift intended for her and threatening in her turn to take away what she had bestowed when galba hastened in terror to tusculum at daybreak to offer expiatory sacrifices because of the dream and sent on men to make preparations for the ceremony he found on the altar nothing but warm ashes and beside it an old man dressed in black holding the incense in a glass dish and the wine in an earthen cup"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 42,
+      "reference": "18.3",
+      "path": "/*/*[2]/*/*/*/*[19]/*[3]",
+      "line": 261,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:18",
+        "n": "3"
+      },
+      "text": "\n      It was also remarked that as he was sacrificing on the Kalends of January, the garland fell from his head, and that as he took the auspices, the sacred chickens flew  away. As he was on the point of addressing the soldiers on the day of the adoption, his camp chair, through the forgetfulness of his attendants, was not placed on the tribunal, as is customary, and in the senate his curule chair was set wrong side foremost. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.5833846153846154,
+          "score": 0.6153846153846154,
+          "page": "220",
+          "seq": 232,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "it was also remarked that as he was sacrificing on",
+              "after": "turba equos adegissent viso procul eo a of piso of",
+              "left": "",
+              "right": "the kalends of january the"
+            },
+            {
+              "op": "replace",
+              "before": "kalends of january the garland fell from his head and that as he took the auspices the sacred chickens flew",
+              "after": "praetorian guard 220 galba",
+              "left": "he was sacrificing on the",
+              "right": "away as he was on"
+            }
+          ],
+          "source_span": "turba equos adegissent viso procul eo a of piso of the praetorian guard 220 galba away as he was on the point of addressing the soldiers on the day of the adoption his camp chair through the forgetfulness of his attendants was not placed on the tribunal as is customary and in the senate his curule chair was set wrong side foremost"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 43,
+      "reference": "19.1",
+      "path": "/*/*[2]/*/*/*/*[20]/*[1]",
+      "line": 267,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:19",
+        "n": "1"
+      },
+      "text": "\n      XIX. As he was offering sacrifice on the morning before he was killed, a soothsayer warned him again and again to look out for danger, since assassins were not far off.\n      Not long after this he learned that Otho held possession of the Camp, and when several advised him to proceed thither as soon as possible—for they said that he could win the day by his presence and prestige—he decided to do no more than hold his present position and strengthen it by getting together a guard of the legionaries, who were encamped in many different quarters of the city. He did however put on a linen cuirass, though he openly declared that it would afford little protection against so many swords. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "220",
+          "seq": 232,
+          "differences": [],
+          "source_span": "xix as he was offering sacrifice on the morning before he was killed a soothsayer warned him again and again to look out for danger since assassins were not far off not long after this he learned that otho held possession of the camp and when several advised him to proceed thither as soon as possible for they said that he could win the day by his presence and prestige he decided to do no more than hold his present position and strengthen it by getting together a guard of the legionaries who were encamped in many different quarters of the city he did however put on a linen cuirass though he openly declared that it would afford little protection against so many swords"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 44,
+      "reference": "19.2",
+      "path": "/*/*[2]/*/*/*/*[20]/*[2]",
+      "line": 271,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:19",
+        "n": "2"
+      },
+      "text": "\n      But he was lured out by false reports, circulated by the conspirators to induce him to appear in public; for when a few rashly assured him that the trouble was over, that the rebels had been overthrown, and that the rest were coming in a body to offer their congratulations, ready to submit to all his orders, he went out to meet them with so much confidence, that when one of the soldiers boasted that he had slain Otho, he asked him, \"On whose authority?\" and then he went on as far as the Forum. There the horsemen who had been bidden to slay him, spurring their horses through the streets and dispersing the crowd of civilians, caught sight of him from a distance and halted for a moment. Then  they rushed upon him again and butchered him, abandoned by his followers. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.9154929577464789,
+          "score": 0.9154929577464789,
+          "page": "221",
+          "seq": 233,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "they rushed upon him again and butchered him abandoned by his followers",
+              "after": "221 the lives of the caesars book vii 2 parumper restiterunt dein",
+              "left": "halted for a moment then",
+              "right": ""
+            }
+          ],
+          "source_span": "but he was lured out by false reports circulated by the conspirators to induce him to appear in public for when a few rashly assured him that the trouble was over that the rebels had been overthrown and that the rest were coming in a body to offer their congratulations ready to submit to all his orders he went out to meet them with so much confidence that when one of the soldiers boasted that he had slain otho he asked him on whose authority and then he went on as far as the forum there the horsemen who had been bidden to slay him spurring their horses through the streets and dispersing the crowd of civilians caught sight of him from a distance and halted for a moment then 221 the lives of the caesars book vii 2 parumper restiterunt dein"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 45,
+      "reference": "20.1",
+      "path": "/*/*[2]/*/*/*/*[21]/*[1]",
+      "line": 277,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:20",
+        "n": "1"
+      },
+      "text": "\n      XX. Some say that at the beginning of the disturbance he cried out, \"What mean you, fellow soldiers? I am yours and you are mine,\" and that he even promised them largess. But the more general account is, that he offered them his neck without resistance, urging them to do their duty and strike, since it was their will. It was very surprising that none of those present tried to lend aid to their emperor, and that all who were sent for treated the summons with contempt except a company of German troops. These, because of his recent kindness in showing them great indulgence when they were weakened by illness, flew to his help, but through their unfamiliarity with the city took a roundabout way and arrived too late. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "222",
+          "seq": 234,
+          "differences": [],
+          "source_span": "xx some say that at the beginning of the disturbance he cried out what mean you fellow soldiers i am yours and you are mine and that he even promised them largess but the more general account is that he offered them his neck without resistance urging them to do their duty and strike since it was their will it was very surprising that none of those present tried to lend aid to their emperor and that all who were sent for treated the summons with contempt except a company of german troops these because of his recent kindness in showing them great indulgence when they were weakened by illness flew to his help but through their unfamiliarity with the city took a roundabout way and arrived too late"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 46,
+      "reference": "20.2",
+      "path": "/*/*[2]/*/*/*/*[21]/*[2]",
+      "line": 280,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:20",
+        "n": "2"
+      },
+      "text": "\n      He was killed beside the Lake of Curtius and was left lying just as he was, until a common soldier, returning from a distribution of grain, threw down his load and cut off the head. Then, since there was no hair by which to grasp it, he put it under his robe, but later thrust his thumb into the mouth and so carried it to Otho. He handed it over to his servants and camp-followers, who set it on a lance and paraded it about the camp with jeers, crying out from time to time, \"Galba, thou Cupid, exult in thy vigour!\" The special reason for this saucy jest was, that the report had gone abroad a few days before, that when someone had congratulated him on still looking young and vigorous, he replied:\n      As yet my strength is unimpaired. \n       From these it was bought by a freedman of Patrobius Neronianus for a hundred pieces of gold and thrown aside in the place where his patron had been executed by Galba's order. At last, however, his steward Argivus consigned it to the tomb with the rest of the body in Galba's private gardens on the Aurelian Road. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.6849999999999999,
+          "score": 0.725,
+          "page": "223",
+          "seq": 235,
+          "differences": [
+            {
+              "op": "replace",
+              "before": "from these it was bought by a freedman of patrobius neronianus for a hundred pieces of gold and thrown aside in",
+              "after": "d iliad 5 254 odyss 21 426 223",
+              "left": "yet my strength is unimpaired",
+              "right": "the place where his patron"
+            },
+            {
+              "op": "replace",
+              "before": "place where his patron had been executed by galba s order at last however his steward argivus consigned it to the tomb with the rest",
+              "after": "lives",
+              "left": "and thrown aside in the",
+              "right": "of the body in galba"
+            },
+            {
+              "op": "replace",
+              "before": "body",
+              "after": "caesars book vii ab iis patrobii 1 neroniani libertus centum aureis redemptum eo loco ubi iussu galbae animadversum",
+              "left": "with the rest of the",
+              "right": "in galba s private gardens"
+            },
+            {
+              "op": "replace",
+              "before": "galba s private gardens on the aurelian road",
+              "after": "patronum suum fuerat abiecit sero tandem dispensator argivus",
+              "left": "rest of the body in",
+              "right": ""
+            }
+          ],
+          "source_span": "he was killed beside the lake of curtius and was left lying just as he was until a common soldier returning from a distribution of grain threw down his load and cut off the head then since there was no hair by which to grasp it he put it under his robe but later thrust his thumb into the mouth and so carried it to otho he handed it over to his servants and camp followers who set it on a lance and paraded it about the camp with jeers crying out from time to time galba thou cupid exult in thy vigour the special reason for this saucy jest was that the report had gone abroad a few days before that when someone had congratulated him on still looking young and vigorous he replied as yet my strength is unimpaired d iliad 5 254 odyss 21 426 223 the lives of the caesars book vii ab iis patrobii 1 neroniani libertus centum aureis redemptum eo loco ubi iussu galbae animadversum in patronum suum fuerat abiecit sero tandem dispensator argivus"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 47,
+      "reference": "21.1",
+      "path": "/*/*[2]/*/*/*/*[22]/*",
+      "line": 288,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:21",
+        "n": "1"
+      },
+      "text": "\n      XXI. He was of average height, very bald, with blue eyes and a hooked nose. His hands and feet were so distorted by gout that he could not endure a shoe for long, unroll a book, or even hold one. The flesh on his left side too had grown out and hung down to such an extent, that it could with difficulty be held in place by a bandage. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "224",
+          "seq": 236,
+          "differences": [],
+          "source_span": "xxi he was of average height very bald with blue eyes and a hooked nose his hands and feet were so distorted by gout that he could not endure a shoe for long unroll a book or even hold one the flesh on his left side too had grown out and hung down to such an extent that it could with difficulty be held in place by a bandage"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 48,
+      "reference": "22.1",
+      "path": "/*/*[2]/*/*/*/*[23]/*",
+      "line": 294,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:22",
+        "n": "1"
+      },
+      "text": "\n      XXII. It is said that he was a heavy eater and in winter time was in the habit of taking food even before daylight, while at dinner he helped himself so lavishly that he would have the leavings which remained in a heap before him passed along and distributed among the attendants who waited on him. He was more inclined to unnatural desire, and in gratifying it preferred full-grown, strong men. They say that when Icelus, one of his old-time favourites, brought him news in Spain of Nero's death, he not only received him openly with the fondest kisses, but begged him to prepare himself without delay and took him one side. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 1.0,
+          "score": 1.0,
+          "page": "224",
+          "seq": 236,
+          "differences": [],
+          "source_span": "xxii it is said that he was a heavy eater and in winter time was in the habit of taking food even before daylight while at dinner he helped himself so lavishly that he would have the leavings which remained in a heap before him passed along and distributed among the attendants who waited on him he was more inclined to unnatural desire and in gratifying it preferred full grown strong men they say that when icelus one of his old time favourites brought him news in spain of nero s death he not only received him openly with the fondest kisses but begged him to prepare himself without delay and took him one side"
+        }
+      }
+    },
+    {
+      "kind": "section",
+      "index": 49,
+      "reference": "23.1",
+      "path": "/*/*[2]/*/*/*/*[24]/*",
+      "line": 300,
+      "attributes": {
+        "type": "textpart",
+        "subtype": "section",
+        "{http://www.w3.org/XML/1998/namespace}base": "urn:cts:latinLit:phi1348.abo017.rolfe-eng1:23",
+        "n": "1"
+      },
+      "text": "\n      XXIII. He met his end in the seventy-third  year of his age and the seventh month of his reign. The senate, as soon as it was allowed to do so, voted him a statue standing upon a column adorned  with the beaks of ships, in the part of the Forum where he was slain; but Vespasian annulled this decree, believing that Galba had sent assassins from Spain to Judaea, to take his life. \n    ",
+      "witnesses": {
+        "loeb2-uc1": {
+          "rank": 0.5921081081081081,
+          "score": 0.6081081081081081,
+          "page": "224",
+          "seq": 236,
+          "differences": [
+            {
+              "op": "insert",
+              "before": "",
+              "after": "69 a d",
+              "left": "end in the seventy third",
+              "right": "year of his age and"
+            },
+            {
+              "op": "replace",
+              "before": "with",
+              "after": "garten crusius",
+              "left": "standing upon a column adorned",
+              "right": "the beaks of ships in"
+            },
+            {
+              "op": "replace",
+              "before": "beaks",
+              "after": "meaning",
+              "left": "a column adorned with the",
+              "right": "of ships in the part"
+            },
+            {
+              "op": "replace",
+              "before": "ships in",
+              "after": "super manus is particularly dark",
+              "left": "adorned with the beaks of",
+              "right": "the part of the forum"
+            },
+            {
+              "op": "replace",
+              "before": "part of the forum where he was slain but vespasian annulled this decree believing",
+              "after": "most plausible suggestion is",
+              "left": "beaks of ships in the",
+              "right": "that galba had sent assassins"
+            },
+            {
+              "op": "replace",
+              "before": "galba had sent assassins from spain",
+              "after": "it is equivalent",
+              "left": "annulled this decree believing that",
+              "right": "to judaea to take his"
+            },
+            {
+              "op": "replace",
+              "before": "judaea to take his life",
+              "after": "ante se 225",
+              "left": "sent assassins from spain to",
+              "right": ""
+            }
+          ],
+          "source_span": "xxiii he met his end in the seventy third 69 a d year of his age and the seventh month of his reign the senate as soon as it was allowed to do so voted him a statue standing upon a column adorned garten crusius the meaning of super manus is particularly dark the most plausible suggestion is that it is equivalent to ante se 225"
+        }
+      }
+    }
+  ]
+}

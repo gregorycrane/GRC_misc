@@ -1,0 +1,6 @@
+{
+  "command": "PYTHONDONTWRITEBYTECODE=1 PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python3 -m pytest tests/ -q -p no:cacheprovider",
+  "result": "41 passed",
+  "strict_section_alignment": true,
+  "line_only_sections": true
+}

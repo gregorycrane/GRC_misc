@@ -1,0 +1,29 @@
+{
+  "xml": "/Users/gcrane/github/GRC_misc/suet_holland/suetonius.jc.holland1898-section.xml",
+  "xml_sha256": "1a9f132d853213ad52eab2e68284198e3015e68f61ef1daad703f76cf14d5d96",
+  "sources": {
+    "uc1": {
+      "path": "/Users/gcrane/Downloads/suetonius-holland-01-uc1-b3114462-1788787677.txt",
+      "sha256": "7cd1bbef58065f86d9d89dda5677eeda8ff89d43394129bc86eab3e233ec6cc1"
+    },
+    "hvd": {
+      "path": "/Users/gcrane/Downloads/suetonius-holland-01-hvd-32044024292195-1788787412.txt",
+      "sha256": "3b38cbbbfe7c4ea51bbc336eecc59e23b6cdb34eae9352ad25317fc39626e8ce"
+    }
+  },
+  "chapters": 89,
+  "sections": 187,
+  "notes": 361,
+  "main_pages": 66,
+  "available_volume_II_not_used_for_Julius": [
+    {
+      "path": "/Users/gcrane/Downloads/suetonius-holland-02-uc1-b3114464-1788787746.txt",
+      "sha256": "06cf7ff87d5a90590d312908f516399a4a85e223d428996ede223c0ae1cf4996"
+    },
+    {
+      "path": "/Users/gcrane/Downloads/suetonius-holland-02-hvd-32044019809029-1788787496.txt",
+      "sha256": "a5f606a9031a42bcf2081ec98dab5b24db232eebc530dfdef2ca86382c8aa5b8"
+    }
+  ],
+  "comparison_policy": "Line-wrap joins, case-folding and tokenization are used for candidate alignment only. Raw evidence is retained. Agreement of two OCR exports is not proof of independent recognition or printed-image verification."
+}

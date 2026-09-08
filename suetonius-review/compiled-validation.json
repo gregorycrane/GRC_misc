@@ -1,0 +1,198 @@
+{
+  "build": "12/12 work(s) rebuilt; production standalone workspace compiled cleanly",
+  "registered_versions": 61,
+  "checks": [
+    {
+      "work": "phi1348.abo011",
+      "version": "holland1899-eng1",
+      "passages": 187,
+      "compiled_html_exactly_matches_xml_parser": true,
+      "same_references_as_compiled_ihm_latin": true,
+      "source_sha256": "fec7b4dd880e512c80b698f33e27486f62a723b3822ef8d33a7968ae10494946"
+    },
+    {
+      "work": "phi1348.abo011",
+      "version": "rolfe1914review-eng1",
+      "passages": 187,
+      "compiled_html_exactly_matches_xml_parser": true,
+      "same_references_as_compiled_ihm_latin": true,
+      "source_sha256": "65557f295fa6f7e001b5362bf82595f51ba44ab28461955f8eef5fa11b84a079"
+    },
+    {
+      "work": "phi1348.abo012",
+      "version": "holland1899-eng1",
+      "passages": 242,
+      "compiled_html_exactly_matches_xml_parser": true,
+      "same_references_as_compiled_ihm_latin": true,
+      "source_sha256": "00319b6db60188f042919ea883ff0fc8a2d9b2afb316174cb0996cb246d079ee"
+    },
+    {
+      "work": "phi1348.abo012",
+      "version": "rolfe1914review-eng1",
+      "passages": 242,
+      "compiled_html_exactly_matches_xml_parser": true,
+      "same_references_as_compiled_ihm_latin": true,
+      "source_sha256": "7ae721a9de7a9fe244425a3e5fe9c81b3c6931441cb96918c29eff15ea325ea8"
+    },
+    {
+      "work": "phi1348.abo013",
+      "version": "holland1899-eng1",
+      "passages": 158,
+      "compiled_html_exactly_matches_xml_parser": true,
+      "same_references_as_compiled_ihm_latin": true,
+      "source_sha256": "986a23a50b9470201af5c482cd1ebef10f760409f7d215bce67634321bbafb97"
+    },
+    {
+      "work": "phi1348.abo013",
+      "version": "rolfe1914review-eng1",
+      "passages": 158,
+      "compiled_html_exactly_matches_xml_parser": true,
+      "same_references_as_compiled_ihm_latin": true,
+      "source_sha256": "17f72d63f54839fc9846118df26dcb8dd40ad71d906c98107d8c6232cc5ca16d"
+    },
+    {
+      "work": "phi1348.abo014",
+      "version": "holland1899-eng1",
+      "passages": 137,
+      "compiled_html_exactly_matches_xml_parser": true,
+      "same_references_as_compiled_ihm_latin": true,
+      "source_sha256": "c4e92444468e240edf9abc3635a7bf32c3db2dc654a510436d157ec078d62542"
+    },
+    {
+      "work": "phi1348.abo014",
+      "version": "rolfe1914review-eng1",
+      "passages": 137,
+      "compiled_html_exactly_matches_xml_parser": true,
+      "same_references_as_compiled_ihm_latin": true,
+      "source_sha256": "a989b5a5d5c456bdbc9f145e67ccb81b68da59d1d1c0fee44e9a90100e3305d6"
+    },
+    {
+      "work": "phi1348.abo015",
+      "version": "holland1899-eng1",
+      "passages": 111,
+      "compiled_html_exactly_matches_xml_parser": true,
+      "same_references_as_compiled_ihm_latin": true,
+      "source_sha256": "7457b6648116501049224c18831ec630a1b79ff1019f03b529ce7342a3d52032"
+    },
+    {
+      "work": "phi1348.abo015",
+      "version": "rolfe1914review-eng1",
+      "passages": 111,
+      "compiled_html_exactly_matches_xml_parser": true,
+      "same_references_as_compiled_ihm_latin": true,
+      "source_sha256": "2d872e2d75ca855c02de321f536f8d8b506e4b30d6da7acf9525f611d8c8de54"
+    },
+    {
+      "work": "phi1348.abo016",
+      "version": "holland1899-eng1",
+      "passages": 135,
+      "compiled_html_exactly_matches_xml_parser": true,
+      "same_references_as_compiled_ihm_latin": true,
+      "source_sha256": "606871f227e13e692314f0fd7abad5c2b7e39ad5020a84800b6abb9484b37065"
+    },
+    {
+      "work": "phi1348.abo016",
+      "version": "rolfe1914review-eng1",
+      "passages": 135,
+      "compiled_html_exactly_matches_xml_parser": true,
+      "same_references_as_compiled_ihm_latin": true,
+      "source_sha256": "3972d36d94b92fa7e5299ff59bd7828f9e1869c591e88371630f2f23097f03a3"
+    },
+    {
+      "work": "phi1348.abo017",
+      "version": "holland1899-eng1",
+      "passages": 49,
+      "compiled_html_exactly_matches_xml_parser": true,
+      "same_references_as_compiled_ihm_latin": true,
+      "source_sha256": "15a323eec2fbc305f4714c795821da6454fe7bed966ce5038991d8531dede987"
+    },
+    {
+      "work": "phi1348.abo017",
+      "version": "rolfe1914review-eng1",
+      "passages": 49,
+      "compiled_html_exactly_matches_xml_parser": true,
+      "same_references_as_compiled_ihm_latin": true,
+      "source_sha256": "b112e67cabaf7627fe93be98a50cabc72f0f77e8e3fbb2d578d2f2598019c634"
+    },
+    {
+      "work": "phi1348.abo018",
+      "version": "holland1899-eng1",
+      "passages": 28,
+      "compiled_html_exactly_matches_xml_parser": true,
+      "same_references_as_compiled_ihm_latin": true,
+      "source_sha256": "4d3b70f840c986d5fd1bd93c4041ded5ce97de075e1741292553780b5830cbea"
+    },
+    {
+      "work": "phi1348.abo018",
+      "version": "rolfe1914review-eng1",
+      "passages": 28,
+      "compiled_html_exactly_matches_xml_parser": true,
+      "same_references_as_compiled_ihm_latin": true,
+      "source_sha256": "39d66612401264b99bcb87c071a655f29b00a72b8372806c21b4cdd77ec6e630"
+    },
+    {
+      "work": "phi1348.abo019",
+      "version": "holland1899-eng1",
+      "passages": 41,
+      "compiled_html_exactly_matches_xml_parser": true,
+      "same_references_as_compiled_ihm_latin": true,
+      "source_sha256": "a02867fa75c1a9490e3a44636ce363597d59252caa15284d5919a24f3f7836cf"
+    },
+    {
+      "work": "phi1348.abo019",
+      "version": "rolfe1914review-eng1",
+      "passages": 41,
+      "compiled_html_exactly_matches_xml_parser": true,
+      "same_references_as_compiled_ihm_latin": true,
+      "source_sha256": "1d09ebcc7ce7819e9ca19293556200b408328c31bb482d1e080c119dabbf391b"
+    },
+    {
+      "work": "phi1348.abo020",
+      "version": "holland1899-eng1",
+      "passages": 57,
+      "compiled_html_exactly_matches_xml_parser": true,
+      "same_references_as_compiled_ihm_latin": true,
+      "source_sha256": "741473474beacb161901911dd55d644a4a4762b34e5afcb71199a6db4137eedf"
+    },
+    {
+      "work": "phi1348.abo020",
+      "version": "rolfe1914review-eng1",
+      "passages": 57,
+      "compiled_html_exactly_matches_xml_parser": true,
+      "same_references_as_compiled_ihm_latin": true,
+      "source_sha256": "a346577e9966cd77d64c0020295215d8fa3e97d9db2e9b211a497dc2b65a60fb"
+    },
+    {
+      "work": "phi1348.abo021",
+      "version": "holland1899-eng1",
+      "passages": 26,
+      "compiled_html_exactly_matches_xml_parser": true,
+      "same_references_as_compiled_ihm_latin": true,
+      "source_sha256": "5b6b8690c0059468c560428c392e2da4e5dc285a9940b011600ab1ba7738c34e"
+    },
+    {
+      "work": "phi1348.abo021",
+      "version": "rolfe1914review-eng1",
+      "passages": 26,
+      "compiled_html_exactly_matches_xml_parser": true,
+      "same_references_as_compiled_ihm_latin": true,
+      "source_sha256": "f5f512d122045f7af888c0019eabb347c58bb528f5589d91a5776c885ee8c33c"
+    },
+    {
+      "work": "phi1348.abo022",
+      "version": "holland1899-eng1",
+      "passages": 61,
+      "compiled_html_exactly_matches_xml_parser": true,
+      "same_references_as_compiled_ihm_latin": true,
+      "source_sha256": "8f5e9b0f1225c72d9da8ef75168a23e14d6f6f4c057956609548ebd08d4f6248"
+    },
+    {
+      "work": "phi1348.abo022",
+      "version": "rolfe1914review-eng1",
+      "passages": 61,
+      "compiled_html_exactly_matches_xml_parser": true,
+      "same_references_as_compiled_ihm_latin": true,
+      "source_sha256": "624bde9df87df0df92e358c56ebaa83cf991f6350f41745ae8ee03e9502d4260"
+    }
+  ]
+}

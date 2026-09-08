@@ -1,0 +1,142 @@
+[
+  {
+    "id": "H001",
+    "reference": "73.1",
+    "note_index": null,
+    "kind": "wording",
+    "before": "invectives against him, him, and",
+    "after": "invectives against him, and",
+    "source_printed_page": 66,
+    "evidence": "Both supplied volume-I OCR witnesses agree; see source excerpts and original backup."
+  },
+  {
+    "id": "H002",
+    "reference": "78.2",
+    "note_index": null,
+    "kind": "wording",
+    "before": "indignation thereat, that",
+    "after": "indignation therat, that",
+    "source_printed_page": 71,
+    "evidence": "Both supplied volume-I OCR witnesses agree; see source excerpts and original backup."
+  },
+  {
+    "id": "H003",
+    "reference": "81.4",
+    "note_index": null,
+    "kind": "wording",
+    "before": "a written scrole, of the Conspiratours names, and those that were that sought his life",
+    "after": "a written pamphlet, which layd open the conspiracie, and who they were that sought his life",
+    "source_printed_page": 75,
+    "evidence": "Both supplied volume-I OCR witnesses agree; see source excerpts and original backup."
+  },
+  {
+    "id": "H004",
+    "reference": "2.1",
+    "note_index": 13,
+    "kind": "note wording",
+    "before": "Young gentlemen or noble bloud",
+    "after": "Young gentlemen of noble bloud",
+    "source_printed_page": 231,
+    "evidence": "Both supplied volume-I OCR witnesses agree; see source excerpts and original backup."
+  },
+  {
+    "id": "H005",
+    "reference": "20.1",
+    "note_index": 90,
+    "kind": "note wording",
+    "before": "Ne si ambo fusces haberent",
+    "after": "Ne si ambo fasces haberent",
+    "source_printed_page": 236,
+    "evidence": "Both supplied volume-I OCR witnesses agree; see source excerpts and original backup."
+  },
+  {
+    "id": "H006",
+    "reference": "39.2",
+    "note_index": 162,
+    "kind": "note wording",
+    "before": "Virgil, Eneid, 5.",
+    "after": "Virgil, Æneid, 5.",
+    "source_printed_page": 241,
+    "evidence": "Both supplied volume-I OCR witnesses agree; see source excerpts and original backup."
+  },
+  {
+    "id": "H007",
+    "reference": "39.3",
+    "note_index": 163,
+    "kind": "note wording",
+    "before": "called in Latine Meta,",
+    "after": "called in Latine Metæ,",
+    "source_printed_page": 241,
+    "evidence": "Both supplied volume-I OCR witnesses agree; see source excerpts and original backup."
+  },
+  {
+    "id": "H008",
+    "reference": "45.1",
+    "note_index": 191,
+    "kind": "note wording",
+    "before": "commemorant dubicæ per tempora",
+    "after": "commemorant dubiæ per tempora",
+    "source_printed_page": 242,
+    "evidence": "Both supplied volume-I OCR witnesses agree; see source excerpts and original backup."
+  },
+  {
+    "id": "H009",
+    "reference": "84.3",
+    "note_index": 349,
+    "kind": "note wording",
+    "before": "Detulerunt.",
+    "after": "Detulerant.",
+    "source_printed_page": 78,
+    "evidence": "Both supplied volume-I OCR witnesses agree; see source excerpts and original backup."
+  },
+  {
+    "id": "H010",
+    "reference": "89.1",
+    "note_index": 361,
+    "kind": "note wording",
+    "before": "A notable judgent of",
+    "after": "A notable judgement of",
+    "source_printed_page": 80,
+    "evidence": "Both supplied volume-I OCR witnesses agree; see source excerpts and original backup."
+  },
+  {
+    "id": "H011",
+    "reference": "89.1",
+    "note_index": 361,
+    "kind": "note wording",
+    "before": "their Soveraie.",
+    "after": "their Soveraine.",
+    "source_printed_page": 80,
+    "evidence": "Both supplied volume-I OCR witnesses agree; see source excerpts and original backup."
+  },
+  {
+    "id": "H012",
+    "reference": "82.1",
+    "note_index": 326,
+    "kind": "printed note number",
+    "before": "<note place=\"bottom\" n=\"5\">Jugulum,",
+    "after": "<note place=\"bottom\" n=\"6\">Jugulum,",
+    "source_printed_page": 75,
+    "evidence": "Both supplied volume-I OCR witnesses agree; see source excerpts and original backup."
+  },
+  {
+    "id": "H013",
+    "reference": "84.3",
+    "note_index": 350,
+    "kind": "printed note number",
+    "before": "<note place=\"bottom\" n=\"2\">Where he was murdered.",
+    "after": "<note place=\"bottom\" n=\"4\">Where he was murdered.",
+    "source_printed_page": 78,
+    "evidence": "Both supplied volume-I OCR witnesses agree; see source excerpts and original backup."
+  },
+  {
+    "id": "H014",
+    "reference": "41.3",
+    "note_index": null,
+    "kind": "OCR numeral; scan verification pending",
+    "before": "whereas 320000 Citizens",
+    "after": "whereas <num cert=\"low\" source=\"#holland-uc1 #holland-hvd\">3,020,000</num> Citizens",
+    "source_printed_page": 46,
+    "evidence": "Both supplied volume-I OCR witnesses agree; see source excerpts and original backup."
+  }
+]
