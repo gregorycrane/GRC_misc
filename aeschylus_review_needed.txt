@@ -1,0 +1,45 @@
+=== Unresolved quote spans (no anchor match, no punctuation-marked close) ===
+‘τὴν — νέμω’ v. 3) , εἶτα ‘τρίτον — λίβα
+‘ὃ μὲν — ὀτοβεῖ’ (v. 2-6) καὶ πάλιν ‘ψαλ
+‘ποδαπὸς ὁ γύννις ;’ integrum versum ex 
+‘πλέω ψοθοίου καὶ γράσου’ καί ‘ῥύπου τε 
+‘μέγαν ἀλάστορον‘ καὶ ἀλλαχοῦ</add> ‘πρε
+‘ καὶ ἀλλαχοῦ</add> ‘πρευμενῶς ἀλάστορον
+‘Aeschylus Cabiros cum Argonautis comite
+‘πέπλους μελαγχίμους’ φησίν· ἕτερος δέ τ
+‘καὶ μιλτοπρέπτοις’ ἤγουν ἐρυθροῖς ‘βρίθ
+‘ταῦτά γε λεῦσσε, πάτερ φίλε’ μεταλαβὼν 
+‘τάδε — Ἀχιλλεῦ’ (v. 1) , ὃ κεῖται παρὰ 
+‘ἰήκοπον οὐ πελάθεις ἐπ’ ἀρωγάν’ παίζων 
+‘Φθιῶτα’ λέγειν. v. 1 Ἀχιλλεῦ] Ἀχιλεῦ Ar
+‘Ἴστρος τοιαύτας παρθένους λοχεύεται’ (v
+‘τέθνηκεν — ἀπαιόλῃ‘ . Hesych. 1 p. 224 
+‘ . Hesych. 1 p. 224 : ἀπαιόλη· ἀπάτη, ἀ
+‘sunt Vlixis verba cum coniuge colloquen
+‘ἀντίδουλα καὶ πόνων ἐκδέκτορα’ χειρωσάμ
+‘τράγος’ ἔφη ‘γένειον — σύ γε’ . Eust. I
+‘μὴ ἃψῃ , τράγε· ἀψάμενος γάρ μου ἐμπρήσ
+‘ . Aeschylo versum supra scriptum proba
+‘σιγῶν — καίρια‘ , Euripides ita ‘σιγᾶν 
+‘ , Euripides ita ‘σιγᾶν θ’ ὅπου δεῖ καὶ
+‘Αἰτναῖος — πόνων‘ . πονῶν coni. Dindorf
+‘ . πονῶν coni. Dindorf.
+‘ἄδων ταῖς — ρεπιβουλη‘ . καὶ διαλιπὼν π
+‘ . καὶ διαλιπὼν προσέθηκεν ‘οὔ με — ἱππ
+‘νέας — γεγευμένη’ (v. 1 et 2) . idem de
+‘οὐ γὰρ ὁ δράκων’ φησίν ‘ἀνῆκεν — λαβεῖν
+‘ὦ πούς, ἀφήσω σέ ὁ Φιλοκτήτης λέγει. ἄν
+‘ὦ θάνατε — νεκροῦ . v. 1 μή μ’ ἀτιμάσῃς
+‘φαύλῃ διαίτῃ ποσβαηὼν ἥσθη στόμα’ — Αἰσ
+
+=== Skipped: matches that would have crossed existing markup ===
+[bibl] non vanum fuisse metum  <pb n="33"/> matris fortasse somnio territae, confirmat rerum eventus
+[bibl]  ἀθερής· ὁ σίδηρος, ἀτειρής (ἀτηρής cod.) , ὅταν θερίζῃ· ἢ θεριστικός, ἢ ὁ διὰ λαμπρότητα ἀθρούμενος,  <pb n="42"/> ὀξύς, ἢ ἀσταχύων. p. 62
+[bibl]   <pb n="43"/> Ar. Ran. 992
+[quote] ‘ἀλλ’  <pb n="58"/> — ἐγείνατο’
+[bibl]  Αἰσχύλος ἐν τῷ λ<add>ου</add>μέν<add>ῳ Πρ</add>ομηθεῖ  .  .  .  .  . <add>ὑπ</add>ὸ Διὸς δεδ<add>έσθαι</add> . ibid. p. 41
+[bibl] rnius me sic infixit Iuppiter,</l> <lb n="5"/> <l>Iovisque numen Mulciberi adscivit manus.</l> <l>hos ille cuneos fabrica crudeli inserens</l> <l>perrupit artus
+[bibl] s Iovis</l> <lb n="20"/> <l>arcere nequeo diram volucrem a pectore.</l> <l>sic me ipse viduus pestis excipio anxias,</l> <l>amore mortis terminum anquirens mali
+[bibl] > ad v. 11 Schuetz refert Hesychii glossam εἰσαφάσματα (fr. 204) . v. 10 fortasse spectat glossa Photii Lex. p. 605 , 24 Anecd. Bachm. vol. 1 p. 390 , 13 Suidae
+[bibl] αὶ φράσεως πρέποντα ἐφαίνετο τραγῳδίᾳ καὶ τοῖς παλαιοῖς ἤθεσι τῶν ἡρώων, οὐδὲν <add>ἔχοντα</add>  <pb n="80"/> ἐπιβεβουλευμένον οὐδὲ στωμύλον οὐδὲ ταπεινόν. § 5
+[quote] ‘ὦ θάνατε παιάν, <add>πῶς ἂν</add> ἰατρὸς μόλοις’
