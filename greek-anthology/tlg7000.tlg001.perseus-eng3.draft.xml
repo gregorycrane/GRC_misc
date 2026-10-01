@@ -1377,7 +1377,7 @@ A. “XERXES gave thee this purple cloak, Leonidas, reverencing thy valorous dee
           </div>
           <div type="textpart" subtype="chapter" n="318" xml:base="urn:cts:greekLit:tlg7000.tlg001.perseus-eng3:9">
             <head>318.—LEONIDAS OF TARENTUM</head>
-            <p>DEAR Hermes, whose are this hillside rich in fennel and chervil, and <choice resp="#hathiTrustOCR"><sic>this goat-pasture, be kind</sic><corr>this goat-pasture? Be kind</corr></choice> both to the gatherer of herbs and to the goatherd, and thou shalt have thy share of both the herbs and the milk.</p>
+            <p>DEAR Hermes, whose are this hillside rich in fennel and chervil, <choice resp="#hathiTrustOCR"><sic>and this goat-pasture, be kind both to the gatherer of herbs and to the goatherd,</sic><corr>and this goat-pasture? Be kind both to the gatherer of herbs and to the goatherd,</corr></choice> and thou shalt have thy share of both the herbs and the milk.</p>
           </div>
           <div type="textpart" subtype="chapter" n="319" xml:base="urn:cts:greekLit:tlg7000.tlg001.perseus-eng3:9">
             <head>319.—PHILOXENUS</head>
@@ -1481,7 +1481,7 @@ Or old I dwelt in the depths on a sea-washed rock clothed in luxuriant seaweed, 
           <div type="textpart" subtype="chapter" n="343" xml:base="urn:cts:greekLit:tlg7000.tlg001.perseus-eng3:9">
             <head>343.—ARCHIAS</head>
             <docAuthor>(cp. No. 76)</docAuthor>
-            <p>A blackbird, driven over the hedge together with field-fares, <choice resp="#hathiTrustOCR"><sic>entered</sic><corr>avoided</corr></choice> the hollow of the suspended net. The cords from which there is no escape caught and held fast the whole flock of them, but let the blackbird alone go free from the meshes. Of a truth the race of singers is holy. Even deaf traps show fond care for winged songsters.</p>
+            <p>A blackbird, driven over the hedge together with field-fares, <choice resp="#hathiTrustOCR"><sic>entered the hollow of the suspended net</sic><corr>avoided the hollow of the suspended net</corr></choice>. The cords from which there is no escape caught and held fast the whole flock of them, but let the blackbird alone go free from the meshes. Of a truth the race of singers is holy. Even deaf traps show fond care for winged songsters.</p>
           </div>
           <div type="textpart" subtype="chapter" n="344" xml:base="urn:cts:greekLit:tlg7000.tlg001.perseus-eng3:9">
             <head>344.—LEONIDAS OF ALEXANDRIA</head>
@@ -1701,13 +1701,13 @@ Or old I dwelt in the depths on a sea-washed rock clothed in luxuriant seaweed, 
           </div>
           <div type="textpart" subtype="chapter" n="395" xml:base="urn:cts:greekLit:tlg7000.tlg001.perseus-eng3:9">
             <head>395.—BY THE SAME</head>
-            <p>Odysseus said "nothing is sweeter than a man's fatherland,"<note type="footnote" place="bottom" resp="#paton1916" n="2">Odyss. i. 34.</note> for in Circe's isle he never ate cheese-<pb n="v.3.p.221"/>cake. If he had seen even the smoke curling up from that<note type="footnote" place="bottom" resp="#paton1916" n="1">cp. Odyss. i. 58.</note>,¹ he would have sent ten Penelopes to the deuce.
-</p>
+            <p>Odysseus said "nothing is sweeter than a man's fatherland,"<note type="footnote" place="bottom" resp="#paton1916" n="2">Odyss. i. 34.</note> for in Circe's isle he never ate cheese-</p>
           </div>
           <div type="textpart" subtype="chapter" n="396" xml:base="urn:cts:greekLit:tlg7000.tlg001.perseus-eng3:9">
             <head>396.—PAULUS SILENTIARIUS
 (cp. No. 343)</head>
-            <p>
+            <p><pb n="v.3.p.221"/>cake. If he had seen even the smoke curling up from that<note type="footnote" place="bottom" resp="#paton1916" n="1">cp. Odyss. i. 58.</note>,¹ he would have sent ten Penelopes to the deuce.
+
 ONE morning a sweet-voiced blackbird, together with a field-fare, fell into the cloud-like bag of the well-knit net. The field-fare was caught in the noose from which there is no escape, but the songster of the wilderness flew swiftly away from the trap. It would seem that blessed Artemis, the huntress, released the singing-bird for the sake of the sweet-voiced lord of the lyre.</p>
           </div>
           <div type="textpart" subtype="chapter" n="397" xml:base="urn:cts:greekLit:tlg7000.tlg001.perseus-eng3:9">
@@ -2299,8 +2299,9 @@ Euterpe shrills on perforated reeds, scattering on them and forcing through them
             <docAuthor>A Hymn to Dionysus (containing his Epithets in Alphabetical Order)</docAuthor>
             <p>Let us chant the king who loves the call of <choice resp="#hathiTrustOCR"><sic>Euhoc</sic><corr>Euhoe</corr></choice>, the King Eiraphiotes,<note type="footnote" place="bottom" resp="#paton1916" n="1">The meaning of this epithet is quite unknown.</note> Tender-haired, rustic, much besung, fair of form,
 Boeotian, Bromius, reveller, with vine-leaves in his hair,
-Merry, productive, slayer of giants, <choice resp="#hathiTrustOCR"><sic>the laughter,</sic><corr>the laugher,</corr></choice> Son of Zeus, twice-born, son of the Dithyramb, Dionysus,
-Euius, with lovely locks, rich in vines, <choice resp="#hathiTrustOCR"><sic>awaker of revels</sic><corr>awakener of revels</corr></choice>,
+Merry, productive, slayer of giants, the <choice resp="#hathiTrustOCR"><sic>laughter</sic><corr>laugher</corr></choice>,
+Son of Zeus, twice-born, son of the Dithyramb, Dionysus,
+Euius, with lovely locks, rich in vines, <choice resp="#hathiTrustOCR"><sic>awaker</sic><corr>awakener</corr></choice> of revels,
 Jealous, very wrathful, envious, bestower of envy,
 Gentle, sweet drinker, sweet-voiced, cozener,
 Thracian, thyrsus-bearing, boon-companion, lion-hearted,
@@ -3272,7 +3273,9 @@ Why do you moan with the headache and groan bitterly for the heaviness you feel 
             <head>724.—BY THE SAME</head>
             <p>I think the heifer will low. Of a truth it is not Prometheus alone who moulds living creatures, but thou too, Myron.</p>
           </div>
-
+          <div type="textpart" subtype="chapter" n="724b" xml:base="urn:cts:greekLit:tlg7000.tlg001.perseus-eng3:9">
+            <gap reason="translation-not-yet-transcribed"/>
+          </div>
           <div type="textpart" subtype="chapter" n="725" xml:base="urn:cts:greekLit:tlg7000.tlg001.perseus-eng3:9">
             <head>725.—ANONYMOUS</head>
             <p>Myron was looking for his own cow among the others, and found it with difficulty by driving the rest away.</p>
