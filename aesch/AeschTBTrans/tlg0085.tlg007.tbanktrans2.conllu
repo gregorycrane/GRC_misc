@@ -307,7 +307,7 @@
 # sent_id = 19
 # text = ἦ δεινὰ λέξαι, δεινὰ δ' ὀφθαλμοῖς δρακεῖν, πάλιν μ' ἔπεμψεν ἐκ δόμων τῶν Λοξίου, ὡς μήτε σωκεῖν μήτε μ' ἀκταίνειν βάσιν, τρέχω δὲ χερσίν, οὐ ποδωκείᾳ σκελῶν·
 # literal_translation = Truly things terrible to tell, and terrible for eyes to see, sent me back from the house of Loxias, so that I have no strength and cannot lift my steps, but I run with my hands, not by the swiftness of my legs;
-1   ἦ   ἦ   ADV d--------   PartType=Ptcl   2   advmod  _   Ref=33|gloss=truly
+1   ἦ   ἦ   ADV d--------   PartType=Ptcl   2   advmod  _   Ref=34|gloss=truly
 2   δεινὰ   δεινός  ADJ a-p---nn-   Case=Nom|Gender=Neut|Number=Plur    12  nsubj   _   Ref=34|gloss=terrible
 3   λέξαι   λέγω    VERB    v--ana---   VerbForm=Inf|Voice=Act  2   advcl   _   Ref=34|SpaceAfter=No|gloss=to-speak
 4   ,   ,   PUNCT   u--------   _   5   punct   _   Ref=34

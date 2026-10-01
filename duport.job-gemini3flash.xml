@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Threnothriambos (Job): Page 2 - Corrected Orthography</title>
+        <author>James Duport</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Bayerische Staatsbibliothek</publisher>
+        <idno type="barcode">bsb10914787</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Musae subsecivae, seu Poetica stromata</title>
+          <author>James Duport</author>
+          <pubPlace>Cantabrigiae</pubPlace>
+          <date>1676</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="grc">
+    <body>
+      <pb n="2" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10914787_00026/full/full/0/default.jpg"/>
+      <fw type="pageNum" place="top-center">2</fw>
+      
+      <head rend="center">ΘΡΗΝΟΘΡΙΑΜΒΟΣ,</head>
+      <milestone unit="chapter" n="1"/>
+      <head type="sub" rend="center">ΚΕΦ. α'.</head>
+
+      <div type="paraphrase">
+        <lg xml:id="v1">
+          <label place="margin-left">1</label>
+          <l><hi rend="initial">Χ</hi>ώρη τις πολύολβος ἔην <measure>Ἀράβων</measure> ἐνὶ γαίῃ,</l>
+          <l><measure>Αὐσῖτις</measure> τὸ πάλαι κεκλημένη, εὖδαρ ἀρούρης.</l>
+          <l>Ἔνθα τις οἰκί’ ἔναιεν ἀνὴρ, ἠΰς τε μέγας τε,</l>
+          <l>Τῷ δ᾿ ἄρ᾿ <measure>Ἴωβος</measure> ἔην κλυτὸν οὔνομα καὶ περίπυστον·</l>
+          <l>Ὃς περίεσσε δίκην, ἐπεί οἱ νόος ἦε θεουδὴς,</l>
+          <l>Ἐκ δ’ κακοῦ ἔκλινε, καὶ αἴσιμα πάντα φύλαξε.</l>
+        </lg>
+
+        <lg xml:id="v2">
+          <label place="margin-left">2</label>
+          <l>Τούτῳ δὴ δέκα παῖδες ἐνὶ μεγάροις γεγάασιν,</l>
+          <l>Ἑπτὰ μὲν υἷες ἔσαν, τρεῖς ἠΰκομοι δὲ θύγατρες.</l>
+        </lg>
+
+        <lg xml:id="v3">
+          <label place="margin-left">3</label>
+          <l>Μυρία δὲ κτήνεα ἔχεν, ὑψιλόφους τε καμήλους,</l>
+          <l>Αἵ τρισχίλιαι αὐτῷ ἐν ὄρεσι βουκολέοντο</l>
+          <l>Θήλειαι τοκάδες, καὶ ἐπιηχίλια μῆλα,</l>
+          <l>Ζεύγεά τ’ αὖτε βοῶν πεντηκόσ’ εὐρυμετώπων,</l>
+          <l>Ἠδέ τ’ ὄνους πεντηκόσιας, καὶ πάμματα πολλά.</l>
+          <l>Ἦ γάρ οἱ ζωή γ’ ἦν ἄσπετος· οὔ τινι πώπη</l>
+          <l>Ἀνδρῶν ἡρώων, οἵ τ’ ὄλβιστοι ἄρ’ ἔοντες</l>
+          <l>Ἠελίου φαέθοντος ἐπ’ ἀντολῇσιν ἔναιον.</l>
+        </lg>
+
+        <lg xml:id="v4">
+          <label place="margin-left">4</label>
+          <l>Τοῦ δ’ υἷες δαίνυντο κρέ’ ἄσπετα, καὶ μέθυ ἡδὺ·</l>
+          <l>Ἠμάτιος κατὰ τάξιν ἑῷ ἐνὶ οἴκῳ ἕκαστος</l>
+          <l>Δαίνυτο, καὶ τρισσὰς ἐπὶ δαῖτα κάλεσσεν ἀδελφεάς·</l>
+          <l>Ὡς οἱ μὲν πρόπαν ἦμαρ (ἐπηετανὸν γὰρ ἔχεσκον)</l>
+          <l>Δεδέχατ’ ἀλλήλους, καὶ ξείνισαν ἐν μεγάροισι</l>
+          <l>Πίνοντες, καὶ ἔδοντες, ἀμοιβόβιοι κατὰ οἴκους.</l>
+        </lg>
+
+        <lg xml:id="v5">
+          <label place="margin-left">5</label>
+          <l>Αὐτὰρ ὅτ’ εἰλαπίνης μελιηδέος ἤματα πάντα</l>
+          <l>Ἠὼς εὐπλόκαμος τέλεσεν, περὶ δ’ ἔτραπον ὧραι,</l>
+          <l>Αὐτίχ’ ὁ τοὺς ἐκάθηρε πατὴρ θοινήτορας υἷας,</l>
+          <l>Πάντα κατὰ μοῖραν, καὶ ἅμ’ ἠοῖ φαινομένηφιν</l>
+          <l>Ἱερά τε ῥέζεσκε, καὶ ἐξαίτους ἑκατόμβας</l>
+          <l>Ἀθανάτῳ, ἤν πώ τις ὑπερβήῃ καὶ ἁμάρτῃ,</l>
+          <l>Ἠὲ Θεὸν κακὰ εἴπῃ ἀγνοεΐῃσι νόοιο.</l>
+          <l>Ὅσσα μὲν οἱ πέλε τέκνα, τόσ’ ἔρδεχ’ ἱερὰ καλά.</l>
+          <l>Ὡς ὅγ’ ἔθων ἔρδεσκε διαμπερές· οἶδε γὰρ αὐτὸς</l>
+        </lg>
+      </div>
+      <fw type="catchword" place="bottom-right">Ὁπποῖαι</fw>
+    </body>
+  </text>
+</TEI>
